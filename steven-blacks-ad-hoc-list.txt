@@ -19,6 +19,8 @@ help.evernote.com
 hosted.stats.com
 hosted.stats.com.edgesuite.net
 howupdateworks.amazingupdates4youtoday.website
+login.dotomi.com
+login.dotomi.net
 mackeeperapp.zeobit.com
 montrealgazette.stats.com
 mywot.com

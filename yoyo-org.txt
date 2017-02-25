@@ -62,7 +62,6 @@ ad.980x.com
 ad.a8.net
 ad.abcnews.com
 ad.abctv.com
-ad.about.com
 ad.aboutwebservices.com
 ad.abum.com
 adaction.de
@@ -112,6 +111,7 @@ adclick.com
 adclient1.tucows.com
 adclient.uimserv.net
 ad.clix.pt
+adcomplete.com
 adconion.com
 adcontent.gamespy.com
 ad.cooks.com
@@ -649,7 +649,6 @@ ads.pheedo.com
 ads.phpclasses.org
 ads.pickmeup-ltd.com
 adspirit.de
-ads.pkr.com
 ads.planet.nl
 ads.pni.com
 ads.pof.com
@@ -816,7 +815,6 @@ advideo.uimserv.net
 adview.ppro.de
 ad.virtual-nights.com
 advisormedia.cz
-adviva.com
 adviva.net
 adv.livedoor.com
 advnt.com
@@ -1900,7 +1898,6 @@ radiate.com
 rad.msn.com
 rampidads.com
 rankchamp.de
-rankingchart.de
 ranking-charts.de
 ranking-hits.de
 ranking-id.de
@@ -2035,7 +2032,6 @@ sponsorpro.de
 sponsors.thoughtsmedia.com
 spot.fitness.com
 spotxchange.com
-sprinks-clicks.about.com
 spylog.com
 spywarelabs.com
 spywarenuker.com
@@ -2180,6 +2176,7 @@ tracking.yourfilehost.com
 trackmysales.com
 tradeadexchange.com
 tradedoubler.com
+trafficadept.com
 trafficcdn.liveuniversenetwork.com
 traffic-exchange.com
 trafficfactory.biz
