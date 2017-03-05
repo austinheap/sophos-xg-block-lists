@@ -2704,6 +2704,7 @@ app.datafastguru.info
 appdev.addthis.com
 appfixing.space
 apple.com.clean-virus-mac.com
+apple.com-onlinesupport.host
 apple.com-safetyalert.com
 apple.com-----scanner.club
 apple.com-scan-virus-detected.com
@@ -4207,13 +4208,10 @@ d11.zedo.com
 d12.zedo.com
 d14.zedo.com
 d1.openx.org
-d1qqddufal4d58.cloudfront.net
-d1ros97qkrwjf5.cloudfront.net
 d1.zedo.com
 d2.zedo.com
 d3.zedo.com
 d4.zedo.com
-d5phz18u4wuww.cloudfront.net
 d5.zedo.com
 d6.c5.b0.a2.top.mail.ru
 d6.zedo.com
@@ -4880,7 +4878,6 @@ fastfixing.tech
 fastwebcounter.com
 fatcatrewards.com
 faz.ivwbox.de
-fbcdn-creative-a.akamaihd.net
 fbfreegifts.com
 fbi.gov.id402037057-8235504608.d9680.com
 fbkmnr.112.2o7.net
