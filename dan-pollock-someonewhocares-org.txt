@@ -3046,6 +3046,7 @@ beacons.helium.com
 beacons.hottraffic.nl
 beacon-us-west.rubiconproject.com
 be.ads.justpremium.com
+beap.gemini.yahoo.com
 beauty.finaltips.com
 bedach.stream
 bell.adcentriconline.com
@@ -3691,6 +3692,7 @@ classmatescom.112.2o7.net
 c.latam.msn.com
 cleanchain.net
 cleaningformac.com
+clevernt.com
 clhctrk.com
 click1.mainadv.com
 click1.rbc.magna.ru
@@ -4363,7 +4365,9 @@ djbanners.deadjournal.com
 djugoogs.com
 dk.adserver.yahoo.com
 dkb01.webtrekk.net
+dl.bestofupload.info
 dl.ncbuy.com
+dl.neodownload.webcam
 dl-plugin.com
 dlvr.readserver.net
 dmn2.bjpeu.edu.cn
@@ -9540,6 +9544,7 @@ sunny.oewabox.at
 sunonesearch.112.2o7.net
 superbrewards.com
 superegler.net
+superinterstitial.com
 supermed.oewabox.at
 supernaturalart.com
 super.oewabox.at
@@ -11411,6 +11416,7 @@ www.ci-mpsnare.iesnare.co.uk
 www.ciqugasox.cn
 www.claimfreerewards.com
 www.clashmediausa.com
+www.clevernt.com
 www.click10.com
 www.click4click.com
 www.click.alibaba.com
@@ -12233,6 +12239,7 @@ www.subsitesadserver.co.uk
 www.suckdude.com
 www.sudokuwhiz.com
 www.superbrewards.com
+www.superinterstitial.com
 www.supremeadsonline.com
 www.surplus-suppliers.com
 www.sweetsforfree.com
@@ -12445,6 +12452,7 @@ www.zemgo.com
 www.zentastic.com
 www.zevents.com
 www.zlothonline.info
+www.zytpirwai.net
 wy.5.p2l.info
 x25.2mydns.com
 x25.plorp.com
@@ -12616,4 +12624,5 @@ zyprexa.about-tabs.com
 zyrtec.1.p2l.info
 zyrtec.3.p2l.info
 zyrtec.4.p2l.info
+zytpirwai.net
 zz.cqcounter.com
