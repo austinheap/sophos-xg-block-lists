@@ -1473,6 +1473,7 @@ hotjar.com
 hotkeys.com
 hotlog.ru
 hotrank.com.tw
+hs-analytics.net
 htmlhubing.xyz
 httpool.com
 hurricanedigitalmedia.com
@@ -1563,6 +1564,7 @@ kontera.com
 kt-g.de
 ktu.sv2.biz
 lakequincy.com
+launchbit.com
 layer-ad.de
 layer-ads.de
 lbn.ru
@@ -1760,6 +1762,7 @@ onlinecash.com
 onlinecashmethod.com
 online-metrix.net
 onlinerewardcenter.com
+ooyala.com
 openads.friendfinder.com
 openads.org
 openad.tf1.fr
@@ -1985,6 +1988,7 @@ sensismediasmart.com.au
 seo4india.com
 serv0.com
 servedbyadbutler.com
+servedby-buysellads.com
 servedbyopenx.com
 servethis.com
 services.hearstmags.com
