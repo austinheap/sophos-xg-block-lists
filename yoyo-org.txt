@@ -58,7 +58,6 @@ ad3.iinfo.cz
 ad3.pamedia.com.au
 ad4game.com
 ad.71i.de
-ad.980x.com
 ad.a8.net
 ad.abcnews.com
 ad.abctv.com
@@ -381,7 +380,6 @@ ads.cgnetworks.com
 ads.channel4.com
 adscholar.com
 adscience.nl
-ads.cimedia.com
 ads.clearchannel.com
 ads-click.com
 ads.co.com
@@ -700,7 +698,6 @@ ads.supplyframe.com
 ads.tahono.com
 adstat.4u.pl
 ads.techtv.com
-ads.techweb.com
 ads.telegraph.co.uk
 adstest.weather.com
 ads.theglobeandmail.com
@@ -1420,7 +1417,6 @@ gmads.net
 go-clicks.de
 goingplatinum.com
 goldstats.com
-gold.weborama.fr
 googleadservices.com
 google-analytics.com
 googlesyndication.com
@@ -1816,7 +1812,6 @@ perfiliate.com
 performancerevenue.com
 performancerevenues.com
 performancing.com
-perf.weborama.fr
 pgmediaserve.com
 pgpartner.com
 pheedo.com
@@ -2037,6 +2032,7 @@ sponsors.thoughtsmedia.com
 spot.fitness.com
 spotxchange.com
 spylog.com
+spywarelabs.com
 spywarenuker.com
 spywords.com
 srwww1.com
@@ -2354,4 +2350,3 @@ zeusclicks.com
 zeus.developershed.com
 zintext.com
 zmedia.com
-zv1.november-lax.com
