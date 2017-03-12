@@ -4631,7 +4631,7 @@ d6y5.ads.pof.com
 d7.zedo.com
 d8rk54i4mohrb.cloudfront.net
 d8.zedo.com
-d9ae99824.se
+d9ae99824.se[server
 d9d0e0.r.axf8.net
 dabcc.us.intellitxt.com
 d.abnad.net
@@ -6678,7 +6678,6 @@ js.juicyads.com
 js.livehelper.com
 jsl.revsci.net
 js.matheranalytics.com
-js.maxmind.com
 js.moatads.com
 jsn.dt00.net
 jsn.dt07.net
@@ -7266,7 +7265,6 @@ media.pointroll.com
 media.popunder.com
 media.pussycash.com
 mediaregad.hit.gemius.pl
-media.richrelevance.com
 media.scanscout.com
 mediaserver.bwinpartypartners.com
 media.sexinyourcity.com
@@ -10469,7 +10467,7 @@ stats.grubstreet.com
 stats.homestead.com
 stats.hosting24.com
 stats.ign.com
-stats.ilsemedia.nl
+stats.ilsemedia.nl[server
 stats.immense.net
 stats.infomedia.net
 stats.inist.fr
@@ -13323,6 +13321,7 @@ zeroclick.sendori.com
 zeroredirect1.com
 z.extreme-dm.com
 zfhg.digitaldesire.com
+z.gameslivetv.com
 zh1.zeroredirect11.com
 zhirok.com
 ziffdavisenterprise.112.2o7.net
