@@ -10467,7 +10467,7 @@ stats.grubstreet.com
 stats.homestead.com
 stats.hosting24.com
 stats.ign.com
-stats.ilsemedia.nl[server
+stats.ilsemedia.nl
 stats.immense.net
 stats.infomedia.net
 stats.inist.fr
