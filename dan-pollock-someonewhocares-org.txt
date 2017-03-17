@@ -2707,6 +2707,7 @@ appdev.addthis.com
 appfixing.space
 apple.com.clean-virus-mac.com
 apple.com-onlinesupport.host
+apple.com-onlinesupport.site
 apple.com-safetyalert.com
 apple.com-----scanner.club
 apple.com-scan-virus-detected.com
