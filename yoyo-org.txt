@@ -285,7 +285,6 @@ ads1.canoe.ca
 ads1.mediacapital.pt
 ads1.msn.com
 ads1.rne.com
-ads1.theglobeandmail.com
 ads1.virtual-nights.com
 ads2004.treiberupdate.de
 ads2.brazzers.com
@@ -523,7 +522,6 @@ ads.gaming-universe.de
 ads.gawker.com
 ads.geekswithblogs.net
 ads.glispa.com
-ads.globeandmail.com
 ads.gmodules.com
 ads.godlikeproductions.com
 ads.goyk.com
@@ -623,7 +621,6 @@ ads.nwsource.com
 ads.nyi.net
 ads.nytimes.com
 ads.nyx.cz
-ads.nzcity.co.nz
 ads.o2.pl
 ads.oddschecker.com
 adsoftware.com
@@ -700,7 +697,6 @@ adstat.4u.pl
 ads.techtv.com
 ads.telegraph.co.uk
 adstest.weather.com
-ads.theglobeandmail.com
 ads.themovienation.com
 ads.thestar.com
 ads.timeout.com
@@ -1446,7 +1442,6 @@ histats.com
 hit.bg
 hitbox.com
 hitcents.com
-hitexchange.net
 hitfarm.com
 hitiz.com
 hitlist.ru
@@ -1655,7 +1650,6 @@ methodcash.com
 metrics.windowsitpro.com
 mgid.com
 miarroba.com
-microstatic.pl
 microticker.com
 midnightclicking.com
 misstrends.com
@@ -1871,6 +1865,7 @@ protraffic.com
 provexia.com
 prsitecheck.com
 pr-star.de
+pr-ten.de
 psstt.com
 pub.chez.com
 pub.club-internet.fr
@@ -2038,7 +2033,6 @@ spywarenuker.com
 spywords.com
 srwww1.com
 starffa.com
-start.freeze.com
 stat24.com
 stat24.meta.ua
 stat.cliche.se
@@ -2254,7 +2248,6 @@ vungle.com
 warlog.ru
 wdads.sx.atl.publicus.com
 web2.deja.com
-webads.co.nz
 webads.nl
 webangel.ru
 webcash.nl
