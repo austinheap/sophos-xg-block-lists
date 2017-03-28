@@ -1053,6 +1053,7 @@ ads.aceweb.net
 ads.activeagent.at
 ads.active.com
 ads.ad4game.com
+ads.adamoads.com
 ads.adap.tv
 ads.adbrite.com
 ads.adbroker.de
@@ -2088,6 +2089,7 @@ ads.scott-sports.com
 ads.scottusa.com
 ads.seattletimes.com
 ads.seriouswheels.com
+ads.servebom.com
 ads.sexier.com
 ads.sfusion.com
 ads.shiftdelete.net
@@ -2366,6 +2368,7 @@ adverterenbijnh.nl
 adverterenbijsbs.nl
 adverteren.vakmedianet.nl
 advertere.zamunda.net
+advert.gameranger.com
 advert.gittigidiyor.com
 advertise.com
 advertisers.federatedmedia.net
@@ -2582,6 +2585,7 @@ alyssamilano.home.sapo.pt
 amateur-mature-sex.adaltabaza.net
 amateur.xxxcounter.com
 amazinggreentechshop.com
+amazon-adsystem.com
 ambien.1.p2l.info
 ambien.3.p2l.info
 ambien.4.p2l.info
@@ -2671,6 +2675,7 @@ aolwpmq.112.2o7.net
 aolwpmqnoban.112.2o7.net
 a.openinternetexchange.com
 aos.gw.youmi.net
+ap76rmx3.accountant
 apac.rel.msn.com
 apdigitalorg.112.2o7.net
 apdigitalorgovn.112.2o7.net
@@ -3526,11 +3531,13 @@ cdn.atlassbx.com
 cdn.augur.io
 cdnaws.mobidea.com
 cdn.banners.scubl.com
+cdn.bestssaker.com
 cdn.carbonads.com
 cdn.constafun.com
 cdn.cpmstar.com
 cdn.crowdignite.com
 cdn.directrev.com
+cdn.dustyorate.com
 cdn.epommarket.com
 cdn.eyewonder.com
 cdn.fastclick.net
@@ -3541,6 +3548,7 @@ cdn.freehas.com
 cdn.freehonor.com
 cdn.freeimply.com
 cdn.freeinfringe.com
+cdn.freejabs.com
 cdn.freejars.com
 cdn.freejaw.com
 cdn.freejax.com
@@ -3569,6 +3577,7 @@ cdn.nearbyad.com
 cdn.nsimg.net
 cdn.oggifinogi.com
 cdn.onescreen.net
+cdn.pickyopahs.com
 cdn.sagent.io
 cdn.shoppingminds.net
 cdns.mydirtyhobby.com
@@ -4797,6 +4806,7 @@ ero-advertising.com
 err1.9939118.info
 err2.9939118.info
 err3.9939118.info
+errorfixing.space
 errorfixing.tech
 error-warning-alert-critical-5x.com
 es.adserver.yahoo.com
@@ -5011,6 +5021,7 @@ foxcounter.com
 foxnews.us.intellitxt.com
 foxsimpsons.112.2o7.net
 foxtv.us.intellitxt.com
+fp.oneshotdate.com
 fp.uclo.net
 fp.valueclick.com
 f.qstatic.com
@@ -6261,6 +6272,7 @@ lemonparty.org
 lenovo.112.2o7.net
 lesbian-erotica.hitbox.com
 lesview.com
+letmefind.co
 letsfinder.com
 letssearch.com
 levenshteinanswer.com
@@ -8859,6 +8871,7 @@ search-phentermine.hpage.net
 searchpill.boom.ru
 searchportal.information.com
 search.privitize.com
+search.spotxchange.com
 searchstats.usa.gov
 searchwe.com
 searscom.112.2o7.net
@@ -9640,6 +9653,7 @@ tagpress.oewabox.at
 tag.regieci.com
 tags.bkrtx.com
 tags.bluekai.com
+tags.expo9.exponential.com
 tags.hypeads.org
 tags.rllcll.com
 tags.tagcade.com
@@ -10379,6 +10393,8 @@ unk.vver.kiae.rr
 unstat.baidu.com
 unwashedsound.com
 uole.ad.uol.com.br
+updateauto.preparevideosafesystem4unow.site
+updateauto.preparevideosafesystem4unow.space
 upload.adtech.de
 upload.adtech.fr
 upload.adtech.us

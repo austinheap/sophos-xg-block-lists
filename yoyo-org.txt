@@ -621,6 +621,7 @@ ads.nwsource.com
 ads.nyi.net
 ads.nytimes.com
 ads.nyx.cz
+ads.nzcity.co.nz
 ads.o2.pl
 ads.oddschecker.com
 adsoftware.com
@@ -1650,6 +1651,7 @@ methodcash.com
 metrics.windowsitpro.com
 mgid.com
 miarroba.com
+microstatic.pl
 microticker.com
 midnightclicking.com
 misstrends.com
@@ -1753,7 +1755,6 @@ onlinecash.com
 onlinecashmethod.com
 online-metrix.net
 onlinerewardcenter.com
-ooyala.com
 openads.friendfinder.com
 openads.org
 openad.tf1.fr
@@ -1892,6 +1893,7 @@ radiate.com
 rad.msn.com
 rampidads.com
 rankchamp.de
+rankingchart.de
 ranking-charts.de
 ranking-hits.de
 ranking-id.de
@@ -2071,6 +2073,8 @@ stickyadstv.com
 suavalds.com
 subscribe.hearstmags.com
 sugoicounter.com
+sumo.com
+sumome.com
 superclix.de
 superstats.com
 supertop100.com
@@ -2160,7 +2164,6 @@ track.anchorfree.com
 tracker.icerocket.com
 tracker.marinsm.com
 track.gawker.com
-track.happysitewriter.com
 tracking101.com
 tracking.crunchiemedia.com
 tracking.gajmp.com
@@ -2248,6 +2251,7 @@ vungle.com
 warlog.ru
 wdads.sx.atl.publicus.com
 web2.deja.com
+webads.co.nz
 webads.nl
 webangel.ru
 webcash.nl
