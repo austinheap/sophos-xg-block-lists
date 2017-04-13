@@ -5,14 +5,12 @@
 008.free-counters.co.uk
 00fun.com
 011707160008.c.mystat-in.net
-0427d7.se
 04dn8g4f.space
 0532a9.r.axf8.net
 061606084448.c.mystat-in.net
 064bdf.r.axf8.net
 070806142521.c.mystat-in.net
 092706152958.c.mystat-in.net
-0c9d8370d.se
 0d7292.r.axf8.net
 0f36f3.r.axf8.net
 0iecfobt.com
@@ -129,7 +127,6 @@
 234.media.lbn.ru
 234x120.adv.vz.ru
 23837.hittail.com
-2391.islafenice.net
 243029-18685.link.iwanttodeliver.com
 244657-12903.link.iwanttodeliver.com
 24725.hittail.com
@@ -142,8 +139,6 @@
 24wrestling.us.intellitxt.com
 25057.hittail.com
 2542116.fls.doubleclick.net
-2546.islafenice.net
-2547.islafenice.net
 25643e662a2.com
 26288.hittail.com
 2664.tm.zedo.com
@@ -159,7 +154,6 @@
 2975c.v.fwmrm.net
 29773.v.fwmrm.net
 298-ct.c3tag.com
-29bca6cb72a665c8.se
 2a86.v.fwmrm.net
 2ab7f.v.fwmrm.net
 2df7e.v.fwmrm.net
@@ -179,7 +173,6 @@
 31870.hittail.com
 3211.tm.zedo.com
 3241.hittail.com
-32d1d3b9c.se
 332645.r.axf8.net
 33across-d.openx.net
 33universal.adprimemedia.com
@@ -222,15 +215,14 @@
 4684100.fls.doubleclick.net
 4802.170.blueseek.com
 4902-145639.link.iwanttodeliver.com
-4affiliate.net
 4.afs.googleadservices.com
 4.googlenews.xorg.pl
 4qinvite.4q.iperceptions.com
 4thegame.uk.intellitxt.com
+4ur.click
 4w-wrestling.us.intellitxt.com
 506.xg4ken.com
 51af72.r.axf8.net
-51jbounty.com
 531.xg4ken.com
 5362399.fls.doubleclick.net
 5486.winxp.primosearch.com
@@ -263,7 +255,6 @@
 699.stats.misstrends.com
 71158.hittail.com
 71i.nuggad.net
-71-zmobile.com
 726.stats.misstrends.com
 72d329.r.axf8.net
 73091.hittail.com
@@ -284,7 +275,6 @@
 803.stats.misstrends.com
 815.hittail.com
 8260.hittail.com
-85dcf732d593.se
 879.stats.misstrends.com
 8959.hittail.com
 8b3439.r.axf8.net
@@ -330,11 +320,9 @@ a3.x-traceur.com
 a407.casalemedia.com
 a4.adzs.nl
 a9.sc.freepornvs.com
-aabe3b.se
 a.abnad.net
 a.abv.bg
 aa.connextra.com
-aad73c550c.se
 a.adnium.com
 aa-d.openx.net
 a.adorika.net
@@ -351,13 +339,11 @@ aa-gb.marketgid.com
 aa-gb.mgid.com
 aalbc.advertserve.com
 a.amd.com
-aa-nb.mgid.com
 a.androidandme.com
 aa.newsblock.dt00.net
 a.answers.com
 aa.oasfile.aftenposten.no
 aa.online-metrix.net
-aa.toshiba.bavesinyourface.com
 a.autoexpress.co.uk
 aa.voice2page.com
 aax.amazon-adsystem.com
@@ -383,7 +369,6 @@ ab.goodsblock.dt07.net
 a.bizarremag.com
 able2know.us.intellitxt.com
 ab-nb.marketgid.com
-ab-nb.mgid.com
 abo.prismamediadigital.com
 aboutads.quantcast.com
 aboutwebservices.com
@@ -397,9 +382,7 @@ ac9d98.r.axf8.net
 ac.ajur.info
 a.cbc.ca
 acckalaharinet.112.2o7.net
-accounts.pkr.com
 accuserveadsystem.com
-accutrk.com
 accuweather.us.intellitxt.com
 acdn.adnxs.com
 a.cdn.intentmedia.net
@@ -428,7 +411,6 @@ active.cache.el-mundo.net
 active.hit.stat24.com
 activewin.us.intellitxt.com
 activity.serving-sys.com
-actrck.com
 actualite-de-stars.fr.intellitxt.com
 actvtrack.com
 acuityplatform.com
@@ -559,7 +541,6 @@ ad.allstar.cz
 ad.altervista.org
 ad.amgdgt.com
 ad.amiadogroup.com
-adanalytics.openload.co
 adan.xtendmedia.com
 ad-apac.doubleclick.net
 adaptv.pixel.invitemedia.com
@@ -584,7 +565,6 @@ adb.fling.com
 ad.bg.doubleclick.net
 adbg.hit.gemius.pl
 ad.bnmla.com
-ad.bodybuilding.com
 adboost.finalid.com
 adbooth.adk2.co
 adbox.hu
@@ -616,7 +596,6 @@ adclient.163.com
 adclient1.tucows.com
 adclient-af.lp.uol.com.br
 adclient.uimserv.net
-ad-clix.com
 adcloud-dp.nuggad.net
 ad.cmfu.com
 adcmtd.mac-torrent-download.net
@@ -658,6 +637,7 @@ adds.misiamoiatdom.com
 adds.trafflow.com
 ad.dumedia.ru
 ad.eanalyzer.de
+ade.clmbtech.com
 adecn-w.atdmt.com
 ad.econet.hu
 ad.ecplaza.net
@@ -679,7 +659,6 @@ adflash.affairsclub.com
 ad.flux.com
 adfoc.us
 adfocus.ru
-adforati.com
 adforce.ru
 ad.foxnetworks.com
 ad.fr.doubleclick.net
@@ -696,6 +675,7 @@ ad.gr.doubleclick.net
 adhall.com
 ad.hankooki.com
 ad.hbv.de
+adhealers.com
 adhese.gva.be
 adhese.hbvl.be
 adhese.standaard.be
@@ -767,11 +747,9 @@ ad.jp.ap.valuecommerce.com
 ad.jp.doubleclick.net
 ad-js.chip.de
 ad.jugem.jp
-adkengage.com
 adklip.com
 ad.koreadaily.com
 ad.kr.doubleclick.net
-adland.medialand.ru
 ad.lazynerd.info
 ad.leadboltads.net
 ad.leadbolt.net
@@ -783,7 +761,6 @@ ad.lista.cz
 ad.lkqd.net
 adlog.cbsi.com
 ad.looktraffic.com
-a.dlqm.net
 adlt.hit.gemius.pl
 adlv.hit.gemius.pl
 ad.m5prod.net
@@ -797,6 +774,7 @@ admarket.entireweb.com
 admarvel.s3.amazonaws.com
 admaven.adk2x.com
 admax.nexage.com
+admedia.com
 admedia.expedia.com
 ad.mediaprostor.cz
 admediator.unityads.unity3d.com
@@ -827,7 +805,6 @@ adnet.com.ua
 adnetgalt.hit.gemius.pl
 ad.netgoo.com
 adnet.hit.gemius.pl
-adnet.medialand.ru
 adnet.pravda.com.ua
 adnetwork.buzzlogic.com
 ad.next2news.com
@@ -916,7 +893,6 @@ ads10.gladen.bg
 ads10.speedbit.com
 ads1.ami-admin.com
 ads1.beta.lt
-ads1.blogadvertising.me
 ads1.capitalinteractive.co.uk
 ads1.cricbuzz.com
 ads1.legalworld.bg
@@ -933,6 +909,7 @@ ads2000.hw.net
 ads20.adcolony.com
 ads.20minutes.fr
 ads.24.com
+ads25.videe.tv
 ads2.blastro.com
 ads2.brazzers.com
 ads2.contentabc.com
@@ -957,6 +934,8 @@ ads2.weblogssl.com
 ads2.williamhill.com
 ads2.zamunda.net
 ads31.vertamedia.com
+ads32.vertamedia.com
+ads33.vertamedia.com
 ads34.vertamedia.com
 ads.359group.com
 ads3.adman.gr
@@ -987,7 +966,6 @@ ads7.speedbit.com
 ads8.speedbit.com
 ads.9mp.ro
 ads9.speedbit.com
-ads-aa.wunderground.com
 ads.abovetopsecret.com
 ads.activepower.net
 ads.ad4game.com
@@ -1003,7 +981,6 @@ ads.adgoto.com
 ads.adhall.com
 ads.adhese.be
 ads.adhood.com
-ads.adhostingsolutions.com
 ads.adhsm.adhese.com
 ads.adhub.co.nz
 ads.adiply.com
@@ -1123,7 +1100,6 @@ adsbox.detik.com
 ads.brandeins.de
 ads.brand.net
 ads.brazzers.com
-ads.breakthru.com
 ads.bridgetrack.com
 ads.bridgetrack.com.edgesuite.net
 ads.bsplayer.com
@@ -1132,7 +1108,6 @@ ads.bttbgroup.com
 ads.btv.bg
 ads.buljobs.bg
 ads.burgasinfo.com
-ads.burstnet.com
 ads.businessclick.com
 ads.businessclick.pl
 ads.businessweek.com
@@ -1140,7 +1115,6 @@ ads.butlereagle.com
 ads.buzzcity.net
 adsby.klikki.com
 ads-by.madadsmedia.com
-adsby.uzoogle.com
 adsby.webtraffic.se
 ads-by.yieldselect.com
 ads.calgarystampede.com
@@ -1178,7 +1152,6 @@ ads.contactmusic.com
 adscontent2.indiatimes.com
 ads.contentabc.com
 ads.contextweb.com
-ads-cpm.com
 ads.cpxcenter.com
 ads.cpxinteractive.com
 ads.cracked.com
@@ -1194,7 +1167,6 @@ ads.dailystar.com.lb
 ads.darikweb.com
 ads.databrainz.com
 ads.datinggold.com
-ads.dealnews.com
 ads.dedicatedmedia.com
 ads.delfin.bg
 ads.deliads.com
@@ -1205,7 +1177,6 @@ ads.desktopscans.com
 ads.deviantart.com
 ads.devicebondage.com
 ads.dichtbij.adhese.com
-ads.didactic.ro
 ads.digitalalchemy.tv
 ads.digitalmedianet.com
 ads.digitalpoint.com
@@ -1255,7 +1226,6 @@ ads.ero-advertising.com
 ads.ersamedia.ch
 adserv2.meritdesigns.com
 adserv.adbonus.com
-adserv.brandaffinity.net
 adserv.bravenet.com
 adserv.bulletinmarketing.com
 adserve5.nikkeibp.co.jp
@@ -1315,7 +1285,6 @@ adserver.gunaxin.com
 adserver.hardsextube.com
 adserver.hardwareanalysis.com
 adserver.heraldextra.com
-adserver.hipertextual.com
 adserver.hispanoclick.com
 adserver.html.it
 adserver.hwupgrade.it
@@ -1419,7 +1388,6 @@ ads.fiat-bg.org
 ads.fidelity-media.com
 ads.financialcontent.com
 ads.finzoom.com.tr
-ads.firstgrand.com
 ads.fitpregnancy.com
 ads.fmwinc.com
 ads.focus-news.net
@@ -1428,7 +1396,6 @@ ads.footballmedia.com
 ads.fooyoh.com
 ads.fora.tv
 ads.forbes.com
-adsformula.sitescout.com
 ads.foxnews.com
 ads.freecaster.tv
 ads.freeonlinegames.com
@@ -1787,7 +1754,6 @@ adsrv.fashion.bg
 adsrv.iol.co.za
 adsrvmedia.adk2.co
 adsrvmedia.adk2x.com
-adsrv.worldvillage.com
 ads.sabah.com.tr
 ads.sagabg.net
 ads.sanomalehtimedia.fi
@@ -1862,7 +1828,6 @@ adstat.4u.pl
 adstats.adviva.net
 ads.tdbank.com
 ads.tdcanadatrust.com
-ads.techweb.com
 ads.telecinco.es
 ads.telegraph.co.uk
 ads.tele.net
@@ -1891,13 +1856,11 @@ ads.traffichunt.com
 ads.trafficjunky.net
 ads.trafficnews.bg
 ads.trafficpimps.com
-ads.travellogger.com
 ads.triada.bg
 ads.tripican.com
 ads.tripod.com
 ads.tripod.spray.se
 ads.tunein.com
-ads.tunenerve.com
 ads.tv7.bg
 ads.tv7.sporta.bg
 ads.tvtv.bg
@@ -1969,7 +1932,6 @@ ads.wnd.com
 ads.worddictionary.co.uk
 ads.worldstarhiphop.com
 ads.worthplaying.com
-ads.wunderground.com
 ads.xbiz.com
 ads.xda-developers.com
 adsx.greystripe.com
@@ -2126,7 +2088,6 @@ advert.rare.ru
 advert.runescape.com
 advert.ru.redtram.com
 adverts.creativemark.co.uk
-adverts.f-1.com
 adverts.novatv.bg
 advert.technews.bg
 advert.travlang.com
@@ -2144,13 +2105,11 @@ adv.ilsecoloxix.it
 adv.ilsole24ore.it
 advizi.ru
 advloc.alice.it
-adv.magna.ru
 adv.mangoadv.com
 adv.marica.bg
 adv.medicine.bg
 adv.medscape.com
 adv.netinfo.bg
-adv.netmedia.bg
 adv.novinar.bg
 advombat.ru
 adv.p2pbg.com
@@ -2199,7 +2158,6 @@ adx.starnewsonline.com
 adx.telegram.com
 adx.theledger.com
 adx.timesdaily.com
-ad.yabuka.com
 ad.yadro.ru
 ad.yieldlab.net
 ad.yieldmanager.com
@@ -2234,7 +2192,6 @@ affiliate.affdirect.com
 affiliate.bfashion.com
 affiliate.blucigs.com
 affiliate.dtiserv.com
-affiliate.friendsearch.com
 affiliate.gmtracker.com
 affiliategroove.com
 affiliate.imperiaonline.org
@@ -2325,7 +2282,6 @@ a.klaviyo.com
 a.komoona.com
 ak.quantcast.com
 ak.sail-horizon.com
-ak.tfag.de
 a.law.com
 albanytimesunion.122.2o7.net
 alexa-sitestats.s3.amazonaws.com
@@ -2356,7 +2312,6 @@ amateurdevils.com
 amazing-offers.co.il
 amazonmerchants.122.2o7.net
 amazonshopbop.122.2o7.net
-amch.questionmarket.com
 amc.rotator.hadj1.adjuggler.net
 am-display.com
 amdvtest.112.2o7.net
@@ -2453,6 +2408,7 @@ analytics.wishabi.ca
 analytics.worldnow.com
 analytics.yolacdn.net
 analytics.youramigo.com
+analytics.zdbb.net
 anapixel.elmundo.es
 anapixel.marca.com
 anat.tacoda.net
@@ -2572,12 +2528,13 @@ api.bounceexchange.com
 api-cache.adsnative.com
 api.cheatsheet.me
 apicit.net
+api.connatix.com
 api.content.ad
+api.content-ad.net
 api.contentclick.co.uk
 api.demandbase.com
 api.ero-advertising.com
 api.instantdollarz.com
-api.interstateanalytics.com
 api.iperceptions.com
 api.ipinfodb.com
 api.lanistaads.com
@@ -2732,7 +2689,6 @@ atax.teamxbox.com
 a.teads.tv
 atemda.com
 a.tempurpedic.com
-a.tfag.de
 at.gmads.net
 a.thanksearch.com
 a.thoughtleadr.com
@@ -2826,6 +2782,7 @@ b3.mookie1.com
 b3-uk.mookie1.com
 b5057c.r.axf8.net
 b5media.us.intellitxt.com
+b.6sc.co
 b92adrs.hit.gemius.pl
 b92rs.adocean.pl
 babanetwork.adk2x.com
@@ -2900,7 +2857,6 @@ bannerads.mantecabulletin.com
 banner.adsrevenue.net
 banner.adtrgt.com
 banneradvertising.adclickmedia.com
-banner.amateri.cz
 banner.ambercoastcasino.com
 banner-a.oddcast.com
 banner.betfred.com
@@ -2966,8 +2922,6 @@ banners.bigchurch.com
 banners.brinkin.com
 banners.camdough.com
 banners.cams.com
-banner.scasino.com
-banners.citybuild.bg
 banners.clickon.co.il
 banners.clips4sale.com
 banners.content.rude.com
@@ -3096,7 +3050,6 @@ bbcdn.go.cz.bbelements.com
 bbcdn.go.evolutionmedia.bbelements.com
 bbcdn.go.idmnet.bbelements.com
 bbcdn.go.pl.bbelements.com
-bbcdn.go.pol.bbelements.com
 bbcdn-tag.ibillboard.com
 bb.connextra.com
 bb.crwdcntrl.net
@@ -3151,6 +3104,7 @@ beacon.scorecardresearch.com
 beacon.searchlinks.com
 beacon.securestudies.com
 beacon.sojern.com
+beacon.thred.woven.com
 beacon.tracelytics.com
 beacon.tunecore.com
 beacon-us-iad2.rubiconproject.com
@@ -3182,14 +3136,12 @@ bestsearch.com
 bet.122.2o7.net
 beta.easyhitcounters.com
 beta.f.adbull.com
-betaffs.com
 beta.galleries.paperstreetcash.com
 beta.newopenx.detik.com
 betanews.us.intellitxt.com
 bet.demdex.net
 betterhg.112.2o7.net
 beyondhollywood.us.intellitxt.com
-bfd69dd9.se
 bf.mocda1.com
 bg.2.cqcounter.com
 bg.adocean.pl
@@ -3255,7 +3207,6 @@ blitzadbg.hit.gemius.pl
 blitzbg.adocean.pl
 blockmetrics.com
 blogadswap.com
-blogadvertising.me
 blog.byethost.com
 blogcounter.com
 bloggernetwork-d.openx.net
@@ -3362,7 +3313,6 @@ bullz-eye.us.intellitxt.com
 bumpshack.us.intellitxt.com
 bundle-geoip.herokuapp.com
 bunny-net.com
-burstmedia.com
 businessinsider.us.intellitxt.com
 businessknowhow.us.intellitxt.com
 business.lbn.ru
@@ -3386,6 +3336,7 @@ byet.org
 by.optimost.com
 byubroadcast.112.2o7.net
 by.uservoice.com
+b.zog.link
 c03.adsummos.net
 c04.adsummos.net
 c0.amazingcounters.com
@@ -3521,7 +3472,6 @@ cachebanner.titanpoker.com
 cachebanner.tonygpoker.com
 cachebanner.vegasred.com
 cache.betweendigital.com
-cache.blogads.com
 cache.btrll.com
 cache.daredorm.com
 cache.directorym.com
@@ -3619,7 +3569,6 @@ cc.iwon.com
 c.cnstats.ru
 c.cnzz.com
 c.codeonclick.com
-c.compete.com
 ccrgaviscom.112.2o7.net
 cc.simplereach.com
 ccs.infospace.com
@@ -3637,7 +3586,6 @@ cdn1.clkmon.com
 cdn1.clkoffers.com
 cdn1.clkrev.com
 cdn-1.convertexperiments.com
-cdn1.eyewonder.com
 cdn1ht.traffichaus.com
 cdn1sitescout.edgesuite.net
 cdn1.skinected.com
@@ -3649,7 +3597,6 @@ cdn1.tribalfusion.com
 cdn1.zopiny.com
 cdn2.adsdk.com
 cdn2sitescout-a.akamaihd.net
-cdn3.adbrau.com
 cdn3.emediate.eu
 cdn3.optimizely.com
 cdn4s.steelhousemedia.com
@@ -3661,9 +3608,7 @@ cdn6.emediate.eu
 cdn8.emediate.eu
 cdn.accelerator.arsdev.net
 cdn.ad4game.com
-cdn.adbooth.com
 cdn.adbooth.net
-cdn.adbrau.com
 cdn.adengage.com
 cdn.adgear.com
 cdn.adk2.co
@@ -3716,7 +3661,6 @@ cdn.brsrvr.com
 cdn.bttrack.com
 cdn.buysellads.com
 cdn.carbonads.com
-cdn.castplatform.com
 cdn.chitika.net
 cdn.clic2pub.com
 cdn.clicktale.net
@@ -3764,7 +3708,6 @@ cdn.inskinmedia.com
 cdn.installationsafe.net.s3.amazonaws.com
 cdn.interactivemedia.net
 cdn.intermarkets.net
-cdn.interstateanalytics.com
 cdn.investingchannel.com
 cdn.ip.inpwrd.com
 cdn.iqcontentplatform.de
@@ -3879,7 +3822,6 @@ celebslam.us.intellitxt.com
 celebuzz.us.intellitxt.com
 cengagecsinfosec.112.2o7.net
 c.enhance.com
-centertrk.com
 central.iprom.net
 centricabritishgas.d3.sc.omtrdc.net
 centro.pixel.ad
@@ -3887,6 +3829,7 @@ centrumcz.hit.gemius.pl
 cerberus.entertainment.com
 certify.alexametrics.com
 cetrk.com
+c.f5mtrack.com
 cf.ads.kontextua.com
 cf.effectivemeasure.net
 cfg.mywebsearch.com
@@ -3920,7 +3863,6 @@ chip.de.intellitxt.com
 chip.ivwbox.de
 c.hit.ua
 chlcotrk.com
-chokertraffic.com
 chuknu.sokrati.com
 chumtv.122.2o7.net
 ciaocom.122.2o7.net
@@ -4000,7 +3942,6 @@ clicks.pureleads.com
 clicks.traffictrader.net
 clicks.weselltraffic.com
 clicks.zwaar.org
-clickthrough.wegcash.com
 clickthru.net
 click.top10sites.com
 clicktrace.info
@@ -4058,7 +3999,6 @@ cloud-observer.ip-label.net
 cloud-us.analytics-egain.com
 clubmed.112.2o7.net
 clubmom.122.2o7.net
-cluper.net
 cluster-03.topbucks.com
 cluster3.adultadworld.com
 cluster.ad-serverparc.nl
@@ -4235,12 +4175,10 @@ content.aimatch.com
 content.bannerconnect.net
 content.budsinc.com
 content.cpxinteractive.com
-content.dl-rms.com
 content.exoticads.com
 content.integral-marketing.com
 content.ipro.com
 content.linkoffers.net
-content.medialand.ru
 content.mkt51.net
 content.mkt922.com
 content.mkt931.com
@@ -4486,7 +4424,6 @@ cpm.adspine.com
 cpm.super-links.net
 cpm.tz4.com
 c.pocitadlo.sk
-cp.pleasedontslaymy.download
 cpusall.112.2o7.net
 cpv.popxml.com
 cqcounter.com
@@ -4495,7 +4432,6 @@ crazyegg.com
 c.realtytrac.com
 create.leadid.com
 createthegroup.122.2o7.net
-creative.ak.fbcdn.net
 creativeby1.unicast.com
 creativeby2.unicast.com
 creative.cc-dt.com
@@ -4621,9 +4557,11 @@ d2zah9y47r7bi2.cloudfront.net
 d2.zedo.com
 d31qbv1cthcecs.cloudfront.net
 d33f10u0pfpplc.cloudfront.net
+d342r80tvdrdhm.cloudfront.net
 d3c3cq33003psk.cloudfront.net
 d3dcugpvnepf41.cloudfront.net
 d3fd89.r.axf8.net
+d3qxwzhswv93jk.cloudfront.net
 d3ujids68p6xmq.cloudfront.net
 d3.zedo.com
 d5nxst8fruw4z.cloudfront.net
@@ -4631,7 +4569,6 @@ d6y5.ads.pof.com
 d7.zedo.com
 d8rk54i4mohrb.cloudfront.net
 d8.zedo.com
-d9ae99824.se
 d9d0e0.r.axf8.net
 dabcc.us.intellitxt.com
 d.abnad.net
@@ -4667,7 +4604,6 @@ data.adsrvr.org
 data.ads.t-online.de
 data.alexa.com
 data.apn.co.nz
-databroker-us.coremotives.com
 data.captifymedia.com
 datacapture.serving-sys.com
 data.cmcore.com
@@ -4686,7 +4622,6 @@ data.ritzcarlton.com
 datattro.xyz
 data.webads.co.nz
 date.ventivmedia.com
-dating.friendsearch.com
 d.audienceiq.com
 daylogs.com
 db0.net-filter.com
@@ -4763,7 +4698,6 @@ delightful.112.2o7.net
 delivery1.topad.mobi
 delivery.adnetwork.vn
 delivery.ad.newsnow.net
-delivery.adrecover.com
 delivery.ads-creativesyndicator.com
 delivery.ads.gfsrv.net
 delivery.a.switchadhub.com
@@ -4780,7 +4714,6 @@ delivery.myswitchads.com
 delivery.optimatic.com
 delivery.platform.switchads.com
 delivery-s3.adswizz.com
-delivery.serve.bluelinkmarketing.com
 delivery.swid.switchads.com
 delivery.switchadhub.com
 delivery.switch.whatculture.com
@@ -4899,7 +4832,6 @@ d.neodatagroup.com
 dnetshelter3.d.chango.com
 dni.agcdn.com
 dnps.us.intellitxt.com
-d.nster.net
 docs1.iwon.com
 docs.pinion.gg
 doctorsassociatesrx.112.2o7.net
@@ -4933,7 +4865,6 @@ download.downloadquick.net
 download.funwebproducts.com
 download.mywebsearch.com
 download.realtimegaming.com
-download.shareazaweb.com
 download.torchbrowser.com
 download.ytdownloader.com
 downloadz.us
@@ -4965,6 +4896,7 @@ ds.keshet-i.com
 d.skimresources.com
 ds-ll.serving-sys.com
 dsnextgen.com
+dsp07.ads.tremorhub.com
 dsp.adfarm1.adition.com
 dsparking.com
 ds.serving-sys.com
@@ -5238,7 +5170,6 @@ evepdaikencom.112.2o7.net
 evepdbrazossports.112.2o7.net
 evepdcharleston.112.2o7.net
 evepdeagledev.112.2o7.net
-everydaygays.com
 everydayhealth.demdex.net
 everyjoe.us.intellitxt.com
 ev.ib-ibi.com
@@ -5303,7 +5234,6 @@ f2nmycareer.112.2o7.net
 f2nsmh.112.2o7.net
 f2ntheage.112.2o7.net
 f5mtrack.com
-f8350e7c1.se
 fabar.outwar.com
 f.about.com
 facebookinc.122.2o7.net
@@ -5454,7 +5384,6 @@ flurry.com
 flx367.lporirxe.com
 flyingmag.com.122.2o7.net
 flyingmag.us.intellitxt.com
-flymedia-mladnet.medialand.ru
 f.monetate.net
 fms2.eyewonder.speedera.net
 fms2.pointroll.speedera.net
@@ -5506,7 +5435,6 @@ freecast.ivwbox.de
 freecharge.demdex.net
 freecodecs.us.intellitxt.com
 free.content.streamray.com
-free-counter.5u.com
 freedownloadcenter.uk.intellitxt.com
 freedownloadmanager.uk.intellitxt.com
 freeforumsorg.skimlinks.com
@@ -5515,17 +5443,14 @@ freegroupvideo.popunder.ru
 freeimghost.trafflow.com
 freelogs.com
 freeonlineusers.com
-free.pacificpoker.com
 free.realtracker.com
 freestar-d.openx.net
 free-stats.com
 freestats.com
 free-stats.i8.com
 free.thesocialsexnetwork.com
-freeticketcash.com
 freewarehome.us.intellitxt.com
 freewarepalm.uk.intellitxt.com
-free.wegcash.com
 free.xxxcounter.com
 friendtest.us.intellitxt.com
 froggytest.fr.intellitxt.com
@@ -5543,7 +5468,6 @@ ftvcash.com
 fun.lbn.ru
 funnyordie-d.openx.net
 funskins.ezthemes.com
-furious.adman.gr
 furniturecom.112.2o7.net
 furnlevitz.112.2o7.net
 fusetv.112.2o7.net
@@ -5554,6 +5478,7 @@ futurepublications.uk.intellitxt.com
 fw.adsafeprotected.com
 fwdbreuse.xyz
 fwg0b0sfig.s.ad6media.fr
+f.wishabi.net
 fx.gtop.ro
 fx.gtopstats.com
 fxlayer.net
@@ -5566,6 +5491,7 @@ g.3gl.net
 g3.us.intellitxt.com
 g4.us.intellitxt.com
 g5.us.intellitxt.com
+g8qxp.ads.tremorhub.com
 gaae.hit.gemius.pl
 gaat.hit.gemius.pl
 gaba.hit.gemius.pl
@@ -5701,7 +5627,6 @@ geo.sanoma.fi
 geoservice.curse.com
 geoservice.webengage.com
 geosign.112.2o7.net
-geotarget.info
 geo-um.btrll.com
 geo.widdit.com
 geo.xxxblackbook.com
@@ -5788,7 +5713,6 @@ go.adversal.com
 go.affec.tv
 goal.us.intellitxt.com
 go.arbopl.bbelements.com
-go.buzztrk.com
 goclick.com
 go.cz.bbelements.com
 go.deliverymodo.com
@@ -5826,7 +5750,6 @@ go.oneund.ru
 go.padsdel.com
 go.padsdelivery.com
 go.padstm.com
-go.pol.bbelements.com
 go.pub2srv.com
 go.realvu.net
 go.redirectingat.com
@@ -5843,6 +5766,7 @@ gostats.ro
 gostats.ru
 go.straightresults.com
 gotagy.adk2x.com
+go.tracksz.co
 gottabemobile.us.intellitxt.com
 gourmetgiftbaskets.112.2o7.net
 govpro.us.intellitxt.com
@@ -6011,7 +5935,6 @@ hit8.hotlog.ru
 hit9.hotlog.ru
 hitbox.realclearpolitics.com
 hitcounter01.xspp.com
-hit-counter.5u.com
 hitexchange.net
 hit.gemius.pl
 hit.hotlog.ru
@@ -6075,7 +5998,6 @@ homepproav.112.2o7.net
 homes.bg
 homesteadtechnologies.122.2o7.net
 homestore.122.2o7.net
-homesupplementsale.ru
 hometheaterhifi.us.intellitxt.com
 hometheaterreview.advertserve.com
 hongkiat.us.intellitxt.com
@@ -6186,6 +6108,7 @@ i.adwise.bg
 iamnotageek.us.intellitxt.com
 ias.avidmedia.net
 ia.spinbox.net
+iau.adsiduous.com
 ib.3lift.com
 ib.adnxs.com
 ibibo.112.2o7.net
@@ -6429,6 +6352,7 @@ imreportcard.us.intellitxt.com
 imstore.bet365affiliates.com
 in.11zz.com
 in3.zog.link
+in4.zog.link
 in.adserver.yahoo.com
 inapi.posst.co
 in-appadvertising.com
@@ -6552,7 +6476,6 @@ itc.2081.blueseek.com
 itcg3.c5369.blueseek.com
 itcompany.com
 it.erosadv.com
-i.tfag.de
 itmcash.com
 itmedia.122.2o7.net
 i.total-media.net
@@ -6683,7 +6606,6 @@ jsn.dt00.net
 jsn.dt07.net
 jsn.marketgid.com
 jsn.mgid.com
-js.nster.net
 js.octopuspop.com
 json4.ringrevenue.com
 jsonip.com
@@ -6748,6 +6670,7 @@ keywords.fmpub.net
 k.iinfo.cz
 killerstartups.us.intellitxt.com
 kinofree.popunder.ru
+k.intellitxt.com
 kiplinger.112.2o7.net
 kiplinger-d.openx.net
 kissfmro.count.brat-online.ro
@@ -6776,6 +6699,7 @@ l1.zedo.com
 l2.zedo.com
 l3.zedo.com
 l4.zedo.com
+l54hx.ads.tremorhub.com
 l5.zedo.com
 l6.zedo.com
 l7.zedo.com
@@ -6866,6 +6790,7 @@ lintv.122.2o7.net
 linuxdevcenter.us.intellitxt.com
 linuxjournal.us.intellitxt.com
 lionstracking.com
+li.pxl.ace.advertising.com
 list.ru
 livecamgirls.streamray.com
 live-cams-0.livejasmin.com
@@ -6992,6 +6917,7 @@ logp.xiti.com
 logs-01.loggly.com
 logs1125.xiti.com
 logs1204.xiti.com
+logs1242.xiti.com
 logs1285.xiti.com
 logs.loggly.com
 logs.sexy-parade.com
@@ -7061,7 +6987,6 @@ lt.adocean.pl
 lt.hit.gemius.pl
 lt.retargeter.com
 luksona.popunder.ru
-lunafetch.about.com
 luxup.ru
 lv.adocean.pl
 lv.hit.gemius.pl
@@ -7151,7 +7076,6 @@ marthastewart.demdex.net
 masalatalk.us.intellitxt.com
 mashable.d2.sc.omtrdc.net
 mass-traffic.com
-masterofalltradetax.online
 mastertarget.ru
 match.adsrvr.org
 matchbin-assets.s3.amazonaws.com
@@ -7171,7 +7095,6 @@ maxxaffiliate.directtrack.com
 mazdaworld.us.intellitxt.com
 mbank.hit.gemius.pl
 mb.datingadzone.com
-mbe.ru
 mbn.com.ua
 mbox12.offermatica.com
 mbox3e.offermatica.com
@@ -7192,7 +7115,6 @@ mcmads.mediacapital.pt
 mct.rkdms.com
 mc.yandex.ru
 mdctrail.com
-mde.ubid.com
 mdjacksonville.112.2o7.net
 mdnhinc.com
 m.doubleclick.net
@@ -7268,7 +7190,6 @@ mediaregad.hit.gemius.pl
 media.scanscout.com
 mediaserver.bwinpartypartners.com
 media.sexinyourcity.com
-mediatex.in
 media.the-adult-company.com
 media.trafficfactory.biz
 media.trafficjunky.net
@@ -7554,7 +7475,6 @@ mlbcom.112.2o7.net
 mlbglobal08.112.2o7.net
 mlbglobal.112.2o7.net
 mlbsanfrancisco.112.2o7.net
-mlno6.com
 mlsglobal.112.2o7.net
 mmaadnet.ad-control-panel.com
 mmafighting.us.intellitxt.com
@@ -7618,7 +7538,6 @@ motleyfool-d.openx.net
 motortrend.us.intellitxt.com
 mottnow.adk2x.com
 mouads.com
-moucitons.com
 mouseflow.com
 moviehole.us.intellitxt.com
 movie-list.us.intellitxt.com
@@ -7869,7 +7788,6 @@ newads.bangbros.com
 newadserver.interfree.it
 newbrowse.livehelper.com
 new.cetrk.com
-new.chokertraffic.com
 newcom.122.2o7.net
 newjobs.d1.sc.omtrdc.net
 newlaunches.uk.intellitxt.com
@@ -7892,7 +7810,6 @@ newt1.adultadworld.com
 newyorkandcompany.112.2o7.net
 newyork.cbslocal.us.intellitxt.com
 newyorkmagazine.112.2o7.net
-next-layers.com
 nextround.us.intellitxt.com
 nfl.demdex.net
 nfl.sp1.convertro.com
@@ -7900,7 +7817,6 @@ ng3.ads.warnerbros.com
 ngacm.com
 ngads.go.com
 ngastatic.com
-ngbn.net
 ngd.thesun.co.uk
 nhl.112.2o7.net
 nht-2.extreme-dm.com
@@ -8102,7 +8018,6 @@ oascentral.dominionenterprises.com
 oascentral.emarketer.com
 oascentral.emedicine.com
 oascentral.escapistmagazine.com
-oascentral.feedroom.com
 oascentral.fiercemarkets.com
 oascentral.fosters.com
 oascentral.freedom.com
@@ -8341,7 +8256,6 @@ opendownloadmanager.com
 opensoftwareupdate.com
 opensoftwareupdater.com
 openstat.net
-openx.359gsm.com
 openx.4shared.com
 openx.adtext.ro
 openx.ajur.info
@@ -8380,7 +8294,6 @@ optimize-stats.voxmedia.com
 optimost.112.2o7.net
 optimum-hits.com
 option9.adultfriendfinder.com
-opx.struma.bg
 oraclecom.112.2o7.net
 oracleglobal.112.2o7.net
 orca.qubitproducts.com
@@ -8505,6 +8418,7 @@ p.addthis.com
 p.adframesrc.com
 p.adpdx.com
 padsdel.cdnads.com
+p.adsymptotic.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
@@ -8515,6 +8429,7 @@ pagefair.com
 pagepeels.sexmoney.com
 pagerank.jklir.net
 pagerank.scambiositi.com
+pages-stats.rbl.ms
 pagetracking.popmarker.com
 pageurl-brx.btrll.com
 pageurl.btrll.com
@@ -8542,7 +8457,6 @@ partnerad.l.doubleclick.net
 partnerads.ysm.yahoo.com
 partnerearning.com
 partner.finditquick.com
-partner.friendsearch.com
 partner.googleadservices.com
 partner.loveplanet.ru
 partners.10bet.com
@@ -8677,10 +8591,10 @@ piwik.onlinemagasinet.no
 piwik.org
 piwik.pokerlistings.com
 piwik.redtube.com
+piwik.wsws.org
 pix01.revsci.net
 pix03.revsci.net
 pix04.revsci.net
-pix3.esm1.net
 pix.btrll.com
 pixel1097.everesttech.net
 pixel1324.everesttech.net
@@ -8689,7 +8603,6 @@ pixel1370.everesttech.net
 pixel1553.everesttech.net
 pixel1739.everesttech.net
 pixel.33across.com
-pixel3.about.com
 pixel.adadvisor.net
 pixel.adblade.com
 pixel.adcrowd.com
@@ -8729,6 +8642,7 @@ pixel.sojern.com
 pixel.solvemedia.com
 pixel.staticworld.net
 pixel.tapad.com
+pixel-us-east.rubiconproject.com
 pixel-user-1039.everesttech.net
 pixel.watch
 pixel.wp.com
@@ -8743,6 +8657,7 @@ pix.tagcdn.com
 pixxur.com
 pk.adlandpro.com
 pk-cdn.effectivemeasure.net
+pkpojhc.com
 pl106067.puhtml.com
 pl107977.puhtml.com
 pl108062.puhtml.com
@@ -8796,7 +8711,6 @@ polaris.tns-cs.net
 poldk.nuggad.net
 pollserver.interpolls.com
 pomeranian99.sitetracker.com
-pong.qubitproducts.com
 pool.adhese.be
 pool.adhsm.adhese.com
 pool.admedo.com
@@ -8835,7 +8749,6 @@ popunder.adsrevenue.net
 popunder.adtrgt.com
 popunder.com
 popunder.fpctraffic.com
-popunder-mladnet.medialand.ru
 popunder.net
 popunder.popcde.com
 pop-under.ru
@@ -8904,7 +8817,6 @@ profm.count.brat-online.ro
 profootballweekly.us.intellitxt.com
 programmerworld.us.intellitxt.com
 programme-tv.fr.intellitxt.com
-programs.wegcash.com
 pro.hit.gemius.pl
 pro.hit.stat24.com
 pro.ip-api.com
@@ -8940,7 +8852,6 @@ promos.meetlocals.com
 promos.naked.com
 promos.newsok.com
 promos.wealthymen.com
-promos.wegcash.com
 promotion.partnercash.de
 promotions.betfred.com
 promotools3.globalmailer.com
@@ -9083,7 +8994,6 @@ r1.affiliatefuel.com
 r1.literotica.com
 r1.zedo.com
 r.254a.com
-r2d2.adman.gr
 r.4at1.com
 r5.dir.bg
 raahenseutu.jainos.fi
@@ -9224,7 +9134,6 @@ reklama.neg.bg
 reklamanet.net
 reklama.offmedia.bg
 reklama.onet.pl
-reklama.topnovini.bg
 reklama.ve.lt
 reklama.wisdom.bg
 rek.www.wp.pl
@@ -9389,7 +9298,6 @@ rs.instantservice.com
 rs.search.etargetnet.com
 rs.static.etargetnet.com
 rt3.infolinks.com
-rta.criteo.com
 rta.dailymail.co.uk
 rtax.criteo.com
 rtb3.doubleverify.com
@@ -9398,6 +9306,7 @@ rtbcdn.doubleverify.com
 rtb-csync.smartadserver.com
 rtb.metrigo.com
 rtbproxy.mgid.com
+rtb-px.content.ad
 rtb.tubemogul.com
 rtd.tubemogul.com
 rte-img.nuseek.com
@@ -9429,7 +9338,6 @@ rum-static.pingdom.net
 run.admost.com
 runslin.com
 rusads.toysrus.com
-russiantwinksecrets.com
 rutrk.org
 rv-gateway.supersonicads.com
 rvpadvertisingnetwork.com
@@ -9644,6 +9552,7 @@ s.adklik.com.tr
 s.admathhd.com
 s.admulti.com
 s.adroll.com
+s-adserver.cxad.cxense.com
 s.ads.t-online.de
 sa.entireweb.com
 safaribooks.112.2o7.net
@@ -9689,6 +9598,7 @@ sayac.onlinewebstat.com
 sayac.onlinewebstats.com
 sayhello.popunder.ru
 sb.monetate.net
+sbnationbidder-d.openx.net
 sbsblukgov.112.2o7.net
 sb.scorecardresearch.com
 s.btstatic.com
@@ -9867,7 +9777,6 @@ secure.statcounter.com
 secure.uac.advertising.com
 secure-uk.imrworldwide.com
 secure-us.imrworldwide.com
-secure.vxsbill.com
 secure.w3track.com
 secure.webconnect.net
 secure.webresint.com
@@ -10053,6 +9962,7 @@ sky.estat.com
 slashfilm.us.intellitxt.com
 slate-ad-scripts.s3.amazonaws.com
 slbbbcom.112.2o7.net
+slckg-2p3vy.ads.tremorhub.com
 sleep.vermontteddybear.com
 slider.plugrush.com
 slo-engine.intextad.net
@@ -10182,7 +10092,6 @@ spotxchange-a.akamaihd.net
 s.ppjol.net
 spravki-online.hit.bg
 springclick-ads.s3.amazonaws.com
-sprinks-clicks.about.com
 sprintglobal.112.2o7.net
 sprintusers.us.intellitxt.com
 s.pubmine.com
@@ -10248,7 +10157,6 @@ sstatic1.histats.com
 s-static.innovid.com
 ssum.casalemedia.com
 ssum-sec.casalemedia.com
-s.svtrd.com
 st-1.1fichier.com
 st1.freeonlineusers.com
 st1.hit.gemius.pl
@@ -10327,7 +10235,6 @@ static-bp.kameleoon.com
 static.brsrvr.com
 static.canalstat.com
 static.cdn.adblade.com
-static-cdn.labs.burstnet.com
 static.clickonometrics.pl
 static.clickpapa.com
 static.clicktripz.com
@@ -10336,7 +10243,6 @@ static.cpalead.com
 static.crakbanner.com
 static.creatives.livejasmin.com
 static.criteo.net
-static.crowdscience.com
 staticd.cdn.industrybrains.com
 static.doubleclick.net
 static.dynad.net
@@ -10387,7 +10293,6 @@ static.vpptechnologies.com
 static.woopra.com
 static.yieldmo.com
 static.zanox.com
-statistics.s5.com
 statistik.bundestag.de
 statistik-gallup.net
 statistik.polizei-beratung.de
@@ -10427,7 +10332,6 @@ stats4.clicktracks.com
 stats.adultswim.com
 stats.agent.co.il
 stats.agentinteractive.com
-stats.articlesbase.com
 stats.askmen.com
 stats.asp24.pl
 stats.backcountry.com
@@ -10467,7 +10371,6 @@ stats.grubstreet.com
 stats.homestead.com
 stats.hosting24.com
 stats.ign.com
-stats.ilsemedia.nl
 stats.immense.net
 stats.infomedia.net
 stats.inist.fr
@@ -10488,7 +10391,6 @@ stats.mvilivestats.com
 stats.netsolads.com
 stats-newyork1.bloxcms.com
 stats.nymag.com
-stats.openload.co
 stats.outster.com
 stats.ozwebsites.biz
 stats.pagefair.com
@@ -10504,7 +10406,6 @@ stats.sa-as.com
 stats.sbstv.dk
 stats.sextracker.com
 stats.snacktools.net
-stats.speak2us.net
 stats.style.com
 stats.superstats.com
 stats.surfaid.ihost.com
@@ -10539,7 +10440,6 @@ stat-tracker.net
 stat.upforitnetworks.com
 stat.webmedia.pl
 st.blogads.com
-stcwbd.com
 std1.hit.gemius.pl
 st.directadvert.ru
 std.o.webmd.com
@@ -10627,7 +10527,6 @@ surebaby.us.intellitxt.com
 surfline.112.2o7.net
 survey.122.2o7.net
 survey2.voicefive.com
-survey.burstmedia.com
 survey.g.doubleclick.net
 survey.nuggad.net
 suscotrk.com
@@ -10636,7 +10535,6 @@ svastx.moatads.com
 svd.112.2o7.net
 swa.demdex.net
 s.webtrends.com
-s.weheartstats.com
 sw.interpolls.com
 swisscom.demdex.net
 swissinf.wemfbox.ch
@@ -10901,6 +10799,7 @@ theglobeandmail.us.intellitxt.com
 thegloss.us.intellitxt.com
 thegroup.112.2o7.net
 thehdroom.us.intellitxt.com
+thehill-d.openx.net
 thehollywoodgossip.us.intellitxt.com
 thehollywoodnews.uk.intellitxt.com
 theinquirer.uk.intellitxt.com
@@ -10977,6 +10876,7 @@ ti.tradetracker.net
 ti.tradetracker.nl
 tix.pinion.gg
 tizer.adv.vz.ru
+tjkckpytpnje.com
 tjx.112.2o7.net
 tk.ads.mmondi.com
 t.mdn2015x2.com
@@ -11158,6 +11058,7 @@ tracking.aimediagroup.com
 tracking.badgeville.com
 tracking.bannerflow.com
 tracking.batanga.com
+tracking.batanga.net
 tracking.cdiscount.com
 tracking.clickmeter.com
 tracking.conversionads.com
@@ -11219,7 +11120,6 @@ tracking.veille-referencement.com
 tracking.websitealive.com
 tracking.whattoexpect.com
 tracking.wisepops.com
-track.interstateanalytics.com
 track.ionicmedia.com
 track.justcloud.com
 track.keywordstrategy.org
@@ -11253,7 +11153,6 @@ tracksy.com
 track.todayreward.net
 tracktrue.clicktrue.biz
 track.untd.com
-track.viralvidi.com
 track.visitorpath.com
 track.webgains.com
 track.webtrekk.de
@@ -11275,7 +11174,6 @@ trafficedge.adk2x.com
 trafficex.adlandpro.com
 trafficgateway.research-int.se
 trafficg.com
-traffichaus.com.abbp1.science
 traffic.mindviz.com
 trafficneeds.directtrack.com
 traffic-offers.com
@@ -11311,7 +11209,6 @@ trends.revcontent.com
 trgde.adocean.pl
 trg.peer39.net
 tr.hit.gemius.pl
-trial-collector.snplow.com
 tribalfusion.com
 tribalfusion.speedera.net
 tribal.us.intellitxt.com
@@ -11336,7 +11233,6 @@ truehits3.gits.net.th
 truehits.gits.net.th
 truevalue.d2.sc.omtrdc.net
 trusearch.net
-trustedtrack.com
 trustgauge.com
 trw12.com
 tr.webantenna.info
@@ -11386,7 +11282,6 @@ t.wowanalytics.co.uk
 tx2.ru
 txads.buzzcity.com
 txt.adv.vz.ru
-txxx.com
 t.zqtk.net
 u0.extreme-dm.com
 u1.extreme-dm.com
@@ -11441,7 +11336,6 @@ uk.nedstat.net
 uk.nedstatpro.net
 ukrbanner.net
 uk.sitestat.com
-u.mdotlabs.com
 ums.adtechus.com
 unathleticmag.us.intellitxt.com
 undertonenetworks.com
@@ -11472,6 +11366,7 @@ urban.adspirit.de
 urchin.lstat.youku.com
 url.adtrgt.com
 urlstats.com
+uroffer.link
 us1.siteimprove.com
 us.2.cqcounter.com
 us2.siteimprove.com
@@ -11483,7 +11378,6 @@ us.ads.justpremium.com
 us-ads.openx.net
 usage.trackjs.com
 usa.nedstat.net
-usas1.advfn.com
 usatoday1.112.2o7.net
 us-cdn.effectivemeasure.net
 us.cqcounter.com
@@ -11494,6 +11388,7 @@ user-sync.adhese.com
 use-tor.adsrvr.org
 us-gmtdmp.mookie1.com
 usnews.122.2o7.net
+us.pixel.newscgp.com
 ussearch.122.2o7.net
 us.sitestat.com
 us-sonar.sociomantic.com
@@ -11572,6 +11467,7 @@ venetian.evyy.net
 verisignwildcard.112.2o7.net
 verivox01.webtrekk.net
 vermontteddybear.112.2o7.net
+veuhub-d.openx.net
 v.extreme-dm.com
 vfdeprod.amobee.com
 vg-no.c.richmetrics.com
@@ -11659,6 +11555,7 @@ vitals.tracking.mdxdata.com
 viva.count.brat-online.ro
 vktr073.net
 v.landingzone.se
+vlibs.advertising.com
 v.lkqd.net
 vlogic.ak-networks.com
 vlog.leadformix.com
@@ -11754,7 +11651,6 @@ web.checkm8.com
 web-clients.mynativeads.com
 webclients.net
 webconnect.net
-web-counter.5u.com
 webcounter.be
 webcounter.com
 webcounter.goweb.de
@@ -11770,7 +11666,6 @@ web.industrybrains.com
 webiq005.webiqonline.com
 weblink.settrade.com
 weblog.blogads.com
-webmarketing3x.net
 webmaster.privatamateure.com
 webmasters.h2porn.com
 webmasters.nastydollars.com
@@ -11794,7 +11689,6 @@ webstats.plus.net
 webstats.thaindian.com
 webstats.volvo.com
 webstats.web.rcn.net
-websurvey.burstmedia.com
 web.survey-poll.com
 webtracker.apicasystem.com
 webtrackerplus.com
@@ -11819,7 +11713,6 @@ w.estat.com
 westwickfarrow.122.2o7.net
 wetpaint-d.openx.net
 wetrack.it
-wetteronl.ivwbox.de
 wetter.wemfbox.ch
 w.extreme-dm.com
 wfpscripts.webspectator.com
@@ -11855,7 +11748,6 @@ wincert.us.intellitxt.com
 window1.com
 windows7news.uk.intellitxt.com
 windowsbbs.us.intellitxt.com
-windows-check.com-----scanner.club
 windowsitpro.us.intellitxt.com
 winecom.112.2o7.net
 wineenthusiastcom.112.2o7.net
@@ -11889,7 +11781,6 @@ wordpresscom.skimlinks.com
 worldnetdaily.us.intellitxt.com
 worldnowboston.112.2o7.net
 world.popadscdn.net
-worldsearchpro.com
 worldtravelguide.uk.intellitxt.com
 wowinterface.us.intellitxt.com
 wp1.cor-natty.com
@@ -11898,7 +11789,6 @@ w.plugrush.com
 w.p.mybuys.com
 wpni.112.2o7.net
 wpnipostcomjobs.112.2o7.net
-wprp.zemanta.com
 wp-stats.com
 wp.vizu.com
 wrapper.askmen.com
@@ -11910,16 +11800,10 @@ wrapper.teamxbox.com
 wrap.tradedoubler.com
 wrestling-edge.us.intellitxt.com
 wrigley.122.2o7.net
-ws.00zasdf.pw
-ws.abbp1.science
-ws.abbp1.website
-ws.adspayformymortgage.win
-ws.adspayformy.site
 wsc1.webspectator.com
 ws-eu.amazon-adsystem.com
 ws-na.amazon-adsystem.com
 wsp.adskeeper.co.uk
-ws.poolnoodle.tech
 ws.sharethis.com
 wss.hbpl.co.uk
 ws.tapjoyads.com
@@ -11942,6 +11826,7 @@ ww147.smartadserver.com
 ww14.smartadserver.com
 ww150.smartadserver.com
 ww1.tongji123.com
+ww2026.smartadserver.com
 ww206.smartadserver.com
 ww251.smartadserver.com
 ww2.tongji123.com
@@ -11994,7 +11879,6 @@ www1.pip-pip-pop.com
 www1.pollg.com
 www1.sedoparking.com
 www1.sexinyourcity.com
-www.1sexsex.com
 www1.tec-tec-boom.com
 www1.theglobeandmail.com
 www.1trac.com
@@ -12094,7 +11978,6 @@ www.adcash.com
 www.adcell.de
 www.adchimp.com
 www.adclick.lv
-www.ad-clix.com
 www.adcode.ws
 www.adcomplete.com
 www.adcycle.com
@@ -12185,13 +12068,11 @@ www.advertising.com
 www.advertlets.com
 www.advertserve.com
 www.adviews.de
-www.adv-italiana.com
 www.adwarespy.com
 www.adwise.bg
 www.adworkmedia.com
 www.adworld.com.tr
 www.adworldmedia.com
-www.adwurkz.com
 www.adxpansion.com
 www.adylalahb.ru
 www.ad-z.de
@@ -12271,14 +12152,12 @@ www.bizographics.com
 www.bkrtx.com
 www.blogads.com
 www.blogads.de
-www.blogadvertising.me
 www.blogcatalog.com
 www.blogcounter.de
 www.blog-hits.com
 www.blogrankers.com
 www.blogtoplist.com
 www.blogtopsites.com
-www.blowadvertising.com
 www.bmmetrix.com
 www.bnhtml.com
 www.bnmq.com
@@ -12291,8 +12170,6 @@ www.bt.emsecure.net
 www.buildtraffic.com
 www.buildtrafficx.com
 www.bundlerepositorycontent.com
-www.burstnet.akadns.net
-www.burstnet.com
 www.buscamundo.com
 www.business.lbn.ru
 www.buy404s.com
@@ -12325,7 +12202,6 @@ www.cecash.com
 www.checkstat.nl
 www.cheekybanners.com
 wwwchipchickcom.skimlinks.com
-www.chokertraffic.com
 www.chrumedia.com
 www.cityads.ru
 www.classifieds1000.com
@@ -12380,7 +12256,6 @@ www.counting4free.com
 www.countit.ch
 www.countmypage.com
 www.countok.de
-www.couponsandoffers.com
 www.cpaempire.com
 www.cpalead.com
 www.cpalist.com
@@ -12396,6 +12271,7 @@ www.crazyprotocol.com
 www.criteo.com
 www.crm-metrix.fr
 wwwcultofmaccom.skimlinks.com
+www.currentupdateconcepts.com
 www.cybereps.com
 www.cyberzine.com
 www.cybilling.com
@@ -12424,10 +12300,8 @@ www.doubleclickbygoogle.com
 www.doubleclick.com
 www.doubleclick.net
 www.down1oads.com
-www.downloadupload.com
 www.dpbolvw.net
 www.dsnextgen.com
-www.dsply.com
 www.dwin1.com
 www.earnify.com
 www.easycounter.com
@@ -12449,7 +12323,6 @@ www.enhance.com
 www.enoratraffic.com
 www.epicgameads.com
 www.erodynamics.nl
-www.erotikcounter.org
 www.errornuker.com
 www.estat.com
 www.etahub.com
@@ -12460,7 +12333,6 @@ www.euroconcept.ro
 www.europerank.com
 www.euros4click.de
 www.everestjs.net
-www.everydaygays.com
 www.evidencenuker.com
 www.exactadvertising.com
 www.exchangead.com
@@ -12473,11 +12345,9 @@ www.experclick.com
 www.expressdelivery.biz
 www.ezthemes.com
 www.fastusersonline.com
-www.fatpenguinmedia.com
 www.favicon.com
 www.feyads.com
 www.fhserve.com
-www.filehog.com
 www.findit-quick.com
 www.firebanner.com
 www.fishclix.com
@@ -12506,7 +12376,6 @@ www.free-toplisten.at
 www.freeusersonline.com
 www.freewebsites.com
 www.friendlyduck.com
-www.friendsearch.com
 www.frontpagecash.com
 www.ftjcfx.com
 www.fuckbookdating.com
@@ -12526,7 +12395,6 @@ www.gbcash.com
 www.gcmadvertising.com
 www.geolocation.performgroup.com
 www.geoplugin.net
-www.geotarget.info
 www.geoworldonline.com
 www.getsearchlist.com
 www.getsmart.com
@@ -12540,9 +12408,9 @@ www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
 www.gpr.hu
-www.gradportal.org
 www.gratis-counter-gratis.de
 www.gratis-toplist.de
+www.greatdownloadapps45.download
 www.grmtech.net
 www.gtop.ro
 www.guardappsfarm.com
@@ -12571,6 +12439,7 @@ www.hobwelt.com
 www.holika.com
 www.homeoffun.com
 www.hookedmediagroup.com
+www.hostadserver.com
 www.hostedbanners.com
 www.hotlog.ru
 www.hotranks.com
@@ -12667,7 +12536,6 @@ www.livefyre.com
 www.liveperson.com
 www.livestat.com
 www.livewebstats.dk
-www.livewell.net
 www.loading-delivery1.com
 www.loading-delivery2.com
 www.loggerx.com
@@ -12723,7 +12591,6 @@ www.mypagerank.net
 www.myreferer.com
 www.myroitracking.com
 www.mysearch.com
-www.myshovel.com
 www.mystat.pl
 www.mystats.nl
 www.mytoplist.gen.tr
@@ -12751,7 +12618,6 @@ www.newclick.com
 www.ngads.com
 www.ninjadollars.com
 www.nlbanner.nl
-www.noadnetwork.com
 www.noowho.com
 www.nowstat.com
 www.oainternet.com
@@ -12766,7 +12632,6 @@ www.onclickpredictiv.com
 www.one-door.com
 www.onestat.com
 www.onestatfree.com
-www.onlineuserscounter.com
 www.onlinewebservice3.de
 www.oofun.com
 www.opinionlab.com
@@ -12776,7 +12641,6 @@ www.os-downloads.com
 www.otherossettlement.com
 www.outwar.com
 www.oxiads.fr
-www.oxinads.com
 www.pacificpoker.com
 www.pagerank10.co.uk
 www.pantanalvip.com.br
@@ -12785,11 +12649,9 @@ www.partner-ads.com
 www.payperranking.com
 www.pay-per-search.com
 www.pcmightymax.net
-www.pc-test.net
 www.pdf-platinum.info
 www.peakclick.com
 www.pepipo.com
-www.perfectherbpurchase.ru
 www.performics.com
 www.permissionresearch.com
 www.persianstat.com
@@ -12802,7 +12664,6 @@ www.pixazza.com
 www.pixelpmm.info
 www.pixeltrack66.com
 www.platinumbucks.com
-www.playertraffic.com
 www.pointroll.com
 www.pollmonkey.com
 www.popadvert.com
@@ -12873,6 +12734,7 @@ www.rightmedia.com
 www.riskymail4free.com
 www.rkdms.com
 www.robsxxx.com
+www.rockingclicks.com
 www.roispy.com
 www.rsptrack.com
 www.ruclicks.com
@@ -12910,7 +12772,6 @@ www.sextracker.com
 www.sextronix.com
 www.sexyads.net
 www.shareasale.com
-www.shareaza.com
 www.shinystat.com
 www.shinystat.it
 www.shopathome.com
@@ -12965,6 +12826,7 @@ www.stats.in.th
 www.stats.net
 www.steamtraffic.com
 www.stickylogic.com
+www.stockhostingvault.com
 www.streamate.com
 www.streamatelive.com
 www.streamen.com
@@ -12981,6 +12843,7 @@ www.synovite-scripts.com
 www.system4.nl
 www.t5.ro
 www.tag4arm.com
+www.tagclearbits.com
 www.tagifydiageo.com
 www.tagzone.site
 www.t-analytics.com
@@ -13005,6 +12868,7 @@ www.thetop10.com
 www.thickcash.com
 www.tinbuadserv.com
 www.tinka.ru
+www.tjkckpytpnje.com
 www.tkqlhce.com
 www.tns-counter.ru
 www.toon-families.com
@@ -13015,7 +12879,6 @@ www.top100.ro
 www.top1.ro
 www.top25.ro
 www.top300.ro
-www.top55.ro
 www.top90.ro
 www.top99.ro
 www.topadult.ro
@@ -13031,7 +12894,6 @@ www.topsites24.de
 www.topsites24.net
 www.topsiteuri.ro
 www.toptracker.ru
-www.tossoffads.com
 www.tostadomedia.com
 www.totaladperformance.com
 www.totalfax.net
@@ -13044,9 +12906,7 @@ www.tracemyip.org
 www.track2cash.com
 www.trackbacksecure.com
 www.trackingclick.net
-www.trackingindahouse.com
 www.trackingstatalytics.com
-www.trackzapper.com
 www.tradeadexchange.com
 www.traffic4u.com
 www.trafficads.com
@@ -13065,11 +12925,9 @@ www.trafix.ro
 www.trendcounter.com
 www.tribalfusion.com
 www.trkr1.com
-www.trustedbestsites.com
 www.trustgauge.com
 www.trustsoft.com
 www.tsgonline.com
-www.tubedspots.com
 www.tubehits.com
 www.tumri.net
 www.turkeyrank.com
@@ -13134,7 +12992,6 @@ www.winadiscount.com
 www.winaproduct.com
 www.win-spy.com
 www.worldata.com
-www.worlds-best-online-casinos.com
 www.wtp101.com
 www.wundercounter.com
 www.wysistat.com
@@ -13151,7 +13008,6 @@ www.xtrafic.ro
 www.xvika.net
 www.xvika.org
 www.xxxbannerswap.com
-www.xxx-hitz.org
 www.xxxwebtraffic.com
 www.xy7track.com
 www.xyfex.com
@@ -13293,7 +13149,6 @@ z.abnad.net
 za-cdn.effectivemeasure.net
 zafiti01.webtrekk-us.net
 zag.112.2o7.net
-z.amiblood.com
 zampolit1990.popunder.ru
 zango.112.2o7.net
 zanox-affiliate.de
@@ -13304,6 +13159,7 @@ zbiornik.com
 z.blogads.com
 zb.zeroredirect1.com
 zc.zeroredirect1.com
+zd1.zeroredirect6.com
 zdau-builder.122.2o7.net
 zdbb.net
 zdbb.netshelter.net
@@ -13316,7 +13172,6 @@ zeit01.webtrekk.net
 zeit.met.vgwort.de
 zeitonl.ivwbox.de
 zeldalily.us.intellitxt.com
-z.eosads.com
 zeroclick.sendori.com
 zeroredirect1.com
 z.extreme-dm.com
@@ -13330,12 +13185,10 @@ ziffdaviseweek.112.2o7.net
 ziffdavisfilefront.112.2o7.net
 ziffdavisglobal.112.2o7.net
 ziffdavispennyarcade.112.2o7.net
-z.junksport.com
 zm1.zeroredirect5.com
 z.moatads.com
 z-na.amazon-adsystem.com
 znaptag-us.s3.amazonaws.com
-z.nightchan.com
 zoek.zugo.com
 zonawm.biz.popunder.ru
 zoomovies.org
@@ -13344,10 +13197,7 @@ zs11.cnzz.com
 zs16.cnzz.com
 zs1.zeroredirect1.com
 zsc.scmspain.com
-z.thesominaltv.com
 ztrack.net
 zug.us.intellitxt.com
-z.wackshack.net
-z.yellupload.com
 zz.cqcounter.com
 zzz.clickbank.net
