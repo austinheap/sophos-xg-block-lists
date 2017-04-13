@@ -51,7 +51,6 @@ ad1.pamedia.com.au
 ad2flash.com
 ad2games.com
 ad2.iinfo.cz
-ad2.ip.ro
 ad2.linxcz.cz
 ad2.lupa.cz
 ad3.iinfo.cz
@@ -200,7 +199,6 @@ adloox.com
 adlooxtracking.com
 ad.lupa.cz
 adlure.net
-ad.m5prod.net
 admagnet.net
 admailtiser.com
 admanagement.ch
@@ -1220,7 +1218,6 @@ cpalead.com
 cpays.com
 cpmaffiliation.com
 cpmstar.com
-cpxadroit.com
 cpxinteractive.com
 cqcounter.com
 crakmedia.com
@@ -2035,6 +2032,7 @@ spywarenuker.com
 spywords.com
 srwww1.com
 starffa.com
+start.freeze.com
 stat24.com
 stat24.meta.ua
 stat.cliche.se
