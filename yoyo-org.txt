@@ -698,7 +698,6 @@ ads.telegraph.co.uk
 adstest.weather.com
 ads.themovienation.com
 ads.thestar.com
-ads.timeout.com
 ads.tmcs.net
 ads.t-online.de
 ads.totallyfreestuff.com
@@ -2346,3 +2345,4 @@ zeusclicks.com
 zeus.developershed.com
 zintext.com
 zmedia.com
+zv1.november-lax.com
