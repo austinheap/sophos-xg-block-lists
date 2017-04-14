@@ -3563,6 +3563,7 @@ cdn.go.cz.bbelements.com
 cdn.go.idmnet.bbelements.com
 cdn.go.pol.bbelements.com
 cdn.hadj7.adjuggler.net
+cdn.hauleddes.com
 cdn.holdlads.com
 cdn.imgtty.com
 cdn.innovid.com
@@ -10404,6 +10405,7 @@ unwashedsound.com
 uole.ad.uol.com.br
 updateauto.preparevideosafesystem4unow.site
 updateauto.preparevideosafesystem4unow.space
+updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
 upload.adtech.de
 upload.adtech.fr
 upload.adtech.us
