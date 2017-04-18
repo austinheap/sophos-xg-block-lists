@@ -9166,7 +9166,6 @@ sm6.sitemeter.com
 sm7.sitemeter.com
 sm8.sitemeter.com
 sm9.sitemeter.com
-smartadserver
 smartadserver.com
 smart.besonders.ru
 smartclip.com
