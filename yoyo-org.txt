@@ -688,7 +688,6 @@ ads.space.com
 ads.sptimes.com
 ads.stackoverflow.com
 adsstat.com
-ads.stationplay.com
 ads.sun.com
 ads.supplyframe.com
 ads.tahono.com
@@ -1255,7 +1254,6 @@ di1.shopping.com
 dialerporn.com
 didtheyreadit.com
 directaclick.com
-directivepub.com
 directleads.com
 directorym.com
 directtrack.com
