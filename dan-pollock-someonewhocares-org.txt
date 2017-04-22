@@ -1499,6 +1499,7 @@ adserver.home.pl
 adserver.hostinteractive.com
 adserver.humanux.com
 adserver.hwupgrade.it
+adserver.icmedienhaus.de
 adserver.ifmagazine.com
 adserver.ig.com.br
 adserver.ign.com
@@ -11943,7 +11944,6 @@ www.linkwithin.com
 www.liones.nl
 www.littledevildoubt.com
 www.liveadexchanger.com
-www.liveinternet.ru
 www.lldiettracker.com
 www.lolhello.com
 www.lolshock.com
