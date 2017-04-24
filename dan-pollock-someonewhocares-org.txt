@@ -5327,6 +5327,7 @@ global.ymtrack.com
 gmads.net
 gmchevyapprentice.112.2o7.net
 gmhummer.112.2o7.net
+gm.mmstat.com
 gm.preferences.com
 g.msn.com
 gmx.oewabox.at
@@ -7135,6 +7136,7 @@ mm.admob.com
 mmarkt.oewabox.at
 mm.chitika.net
 mmsshopcom.112.2o7.net
+mmstat.com
 mmv.admob.com
 mn.5.p2l.info
 mnfidnahub.112.2o7.net
@@ -8033,6 +8035,7 @@ pc-gizmos-ssl.com
 pchealthcheckup.net
 pcmag.us.intellitxt.com
 pcnetworkreliablecloudservices.online
+pcookie.aliexpress.com
 pcper.us.intellitxt.com
 pc-scanner16.com
 pctuzing.php5.cz
@@ -8247,6 +8250,7 @@ popupclick.ru
 popupdomination.com
 popup.matchmaker.com
 popups.ad-logics.com
+popups.afftrack001.com
 popups.infostart.com
 popup.softreklam.com
 popup.taboola.com
@@ -9384,6 +9388,7 @@ static.aff-landing-tmp.foxtab.com
 staticb.mydirtyhobby.com
 static.carbonads.com
 static.chartbeat.com
+static.clickonometrics.pl
 static.clicktorrent.info
 static.creatives.livejasmin.com
 static.criteo.net
@@ -11051,6 +11056,7 @@ www12.glam.com
 www13.ad.tomshardware.com
 www13.glam.com
 www14.ad.tomshardware.com
+www14.smartadserver.com
 www15.ad.tomshardware.com
 www17.glam.com
 www18.glam.com
