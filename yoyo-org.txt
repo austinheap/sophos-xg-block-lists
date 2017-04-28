@@ -1775,8 +1775,8 @@ pagerank-submitter.de
 pagerank-suchmaschine.de
 pageranktop.com
 pagerank-united.de
-parse.ly
 parsely.com
+parse.ly.invalid
 partage-facile.com
 partnerad.l.google.com
 partner-ads.com
