@@ -732,7 +732,6 @@ ads.whoishostingthis.com
 ads.wiezoekje.nl
 ads.wikia.nocookie.net
 ads.wineenthusiast.com
-adswitcher.com
 ads.wwe.biz
 ads.xhamster.com
 ads.xtra.co.nz
@@ -809,7 +808,6 @@ adv.webmd.com
 adv.wp.pl
 adv.yo.cz
 adwareremovergold.com
-ad.watch.impress.co.jp
 ad.wavu.hu
 ad.way.cz
 ad.weatherbug.com
@@ -1975,7 +1973,6 @@ serv0.com
 servedbyadbutler.com
 servedby-buysellads.com
 servedbyopenx.com
-servethis.com
 services.hearstmags.com
 serving-sys.com
 sexaddpro.de
