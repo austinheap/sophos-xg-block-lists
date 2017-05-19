@@ -586,7 +586,6 @@ adsmart.net
 ads.massinfra.nl
 ads.mcafee.com
 ads.mediaodyssey.com
-ads.mediaturf.net
 ads.medienhaus.de
 ads.mgnetwork.com
 ads.mmania.com
@@ -1379,7 +1378,6 @@ funklicks.com
 funpageexchange.com
 fusionads.net
 fusionquest.com
-fxclix.com
 fxstyle.net
 galaxien.com
 game-advertising-online.com
@@ -1699,7 +1697,6 @@ net-filter.com
 netincap.com
 netpool.netbookia.net
 netshelter.net
-network.business.com
 neudesicmediagroup.com
 newads.bangbros.com
 newbie.com
@@ -1768,7 +1765,6 @@ pagefair.com
 pagerank4you.com
 pagerank-ranking.de
 pagerank-submitter.de
-pagerank-suchmaschine.de
 pageranktop.com
 pagerank-united.de
 parsely.com
