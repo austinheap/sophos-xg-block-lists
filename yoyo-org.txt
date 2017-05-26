@@ -1248,6 +1248,7 @@ di1.shopping.com
 dialerporn.com
 didtheyreadit.com
 directaclick.com
+directivepub.com
 directleads.com
 directorym.com
 directtrack.com
@@ -2050,7 +2051,6 @@ stat.su
 stats.unwired-i.net
 stats.wordpress.com
 stats.x14.eu
-stat.tudou.com
 stat.webmedia.pl
 statxpress.com
 stat.zenon.net
@@ -2269,7 +2269,6 @@ whaleads.com
 whenu.com
 whispa.com
 whoisonline.net
-wholesaletraffic.info
 widespace.com
 widgetbucks.com
 wikia-ads.wikia.com
