@@ -22,6 +22,7 @@
 3kmf.pl
 3n4.pl
 4332.ws
+4k-player.pl
 4kplayer.pl
 4ksport.pl
 4ur.click
@@ -112,6 +113,7 @@ batman-v-superman-film-online.prv.pl
 batman-v-superman-lektor.5v.pl
 bazafilmowa.org
 bazasprawdzianow.pl
+beauty-b0x.pl
 becel.atwebpages.com
 beka.pl
 bekiarena.pl
@@ -275,6 +277,7 @@ dichvutangsub.com
 dietalux.5v.pl
 dieta-lux.pl
 dieta-personalna.eu
+dieta-personalna.pl
 dj3.com.pl
 djcombox.pl
 dlmyfile.com
@@ -320,6 +323,7 @@ dowiecznosci.pl
 down.g.info.pl
 download000.olsztyn.pl
 download000.warszawa.pl
+downloaddy.net
 downloaded.pl
 downloadeer.net
 download-file24.pl
@@ -356,6 +360,7 @@ efun.net.pl
 egofile.pl
 egofiles.pw
 ekonkursowoip6.pl
+ekosmetyki.net.pl
 elimit.pl
 elite-crack.ml
 emotikonfb.com
@@ -535,6 +540,7 @@ focie-i-foczki.hitowy.pl
 foldersfiles.pl
 followersinsta.pl
 followinsta.pl
+formularz-konkurs.tk
 formularz-konkursu.eu
 formularz-nagroda.pl
 formularz-odbioru-nagrody.eu
@@ -867,6 +873,7 @@ kinoman-tv.pl
 kino-tv.pl
 kinowepremiery.pl
 kinson.pl
+kinujemy.pl
 kjhkgh.skroc.pl
 klaskanie.w8w.pl
 kleopatre.aq.pl
@@ -927,6 +934,7 @@ konkursyy.bo.pl
 konkurs-zwierzak.pl
 koraloweinformacje.aq.pl
 kosmetykii.5v.pl
+kosmetyki.tm.pl
 koszkosmetykii.pl
 kotdj.pl
 kotel.za.pl
@@ -988,6 +996,7 @@ lovelybox.eu
 lowcy-bonow.pl
 luknij.tv
 lulu.6te.net
+m3gadownload.pl
 ma0.pl
 maendo.tv
 magadownloader.com
@@ -1190,6 +1199,7 @@ odbior-nagrody.pl
 odblokuj-iphone.pl
 odchudzaniezpasja.pl
 oddam-yorkii.pl
+oddamzadarmo.eu
 odkryjfb.pl
 odliczamy.net
 odpowiadam.pl
@@ -1522,6 +1532,7 @@ skinykonkurs.pl
 skippyfile.com
 sknerus.pl
 skroc-link.ga
+skuteczna-dieta.co.pl
 skutecznetabletkinaporostwlosow.pl
 sledzememes.pl
 slimg0ji-berry.com
@@ -1640,6 +1651,7 @@ szybki-internet24.pl
 szybki-przeglad.blogspot.com
 t1ny.in
 tak.atwebpages.com
+tanieaukcje.com.pl
 tankuje-paliwo.pl
 tapeciakowo.pl
 tapetkowo.pl
@@ -1669,6 +1681,7 @@ themovienation.com
 theprofitsmaker.net
 thice.pl
 tikitaka.borec.cz
+tilido.com
 timerfejs.pl
 tinyfilehost.com
 tinyfileshost.com
@@ -2049,6 +2062,7 @@ wygrywa.pl
 wylosujgry.pl
 wyniki-konkursu2017.eu
 wyniki-konkursu.eu
+wyniki-lista.pl
 wypad3k0.blogspot.com
 wyroznione-zdjecia.bo.pl
 wysportowanalicealistka.wirtualnie.pl
@@ -2132,6 +2146,7 @@ zdarma.nazory.cz
 zdjecia-facebook.bo.pl
 zdjecia-mam-fota19.bo.pl
 zdjecia-wasze.bo.pl
+zed21.net
 zegarczasu.rdx.pl
 zegar-fb.pl
 zegarfb.pl
