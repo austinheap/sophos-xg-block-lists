@@ -1137,7 +1137,6 @@ click.fool.com
 clickhereforcellphones.com
 clickhouse.com
 clickhype.com
-click.kmindex.ru
 clicklink.jp
 clickmedia.ro
 clickonometrics.pl
@@ -1200,7 +1199,6 @@ counter.search.bg
 counters.honesty.com
 counter.sparklit.com
 counter.yadro.ru
-counting.kmindex.ru
 count.rbc.ru
 count.rin.ru
 counts.tucows.com
@@ -2047,7 +2045,6 @@ stats.olark.com
 stats.suite101.com
 stats.surfaid.ihost.com
 stats.townnews.com
-stat.su
 stats.unwired-i.net
 stats.wordpress.com
 stats.x14.eu
@@ -2117,7 +2114,6 @@ top20.com.invalid
 top20free.com
 top90.ro
 topbarh.box.sk
-topblogarea.se
 topbucks.com
 top-casting-termine.de
 topforall.com
