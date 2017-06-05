@@ -1789,6 +1789,7 @@ ads.infi.net
 ads.infospace.com
 adsinimages.com
 ads.injersey.com
+adsino24.com
 ads.insidehighered.com
 ads.intellicast.com
 ads.intergi.com
@@ -4307,6 +4308,7 @@ db3aqu.atdmt.com
 db4.net-filter.com
 dbbsrv.com
 dbios.org
+dc43.s290.meetrics.net
 dc.5.p2l.info
 dcads.sina.com.cn
 dclk.haaretz.co.il
@@ -4494,6 +4496,7 @@ dv-fw-a-nat.iovation.com
 dwclick.com
 d.wiyun.com
 dy.admerize.be
+dyn.emetriq.de
 dyn.loolav.space
 dzl.baidu.com
 e0.extreme-dm.com
@@ -5316,6 +5319,7 @@ get-answers-fast.com
 getcarisoprodol.polybuild.ru
 get.hitbox.com
 getmyads24.com
+getmyads.com
 getmyfreebabystuff.com
 getmyfreegear.com
 getmyfreegiftcard.com
@@ -8810,6 +8814,7 @@ s25.sitemeter.com
 s26.sitemeter.com
 s27.sitemeter.com
 s28.sitemeter.com
+s290.mxcdn.net
 s29.sitemeter.com
 s2.buysellads.com
 s2.statcounter.com
@@ -12214,6 +12219,7 @@ www.phormlabs.com
 www.pick-savings.com
 www.picture-uploads.com
 www.pills-home.com
+www.placelocal.com
 www.plasmatv4free.com
 www.plasmatvreward.com
 www.pointclicktrack.com
