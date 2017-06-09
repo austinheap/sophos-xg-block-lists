@@ -167,6 +167,7 @@ aa.newsblock.marketgid.com
 a.as-eu.falkag.net
 a.as-us.falkag.net
 aaukqiooaseseuke.org
+aax.amazon-adsystem.com
 aax-cpm.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
@@ -3427,6 +3428,7 @@ callbling.com
 callmd5map.com
 c.am10.ru
 cam2cam.xlovecam.com
+c.amazon-adsystem.com
 cambonanza.com
 camerondiaznude.1stOK.com
 camerondiaznude.ca.tt
@@ -5020,6 +5022,7 @@ flower.bg
 flower-online.petrovka.info
 flowers-offer.com
 fls.doubleclick.net
+fls-na.amazon-adsystem.com
 fls-na.amazon.com
 flu23.com
 fluoxetine.1.p2l.info
@@ -5985,6 +5988,7 @@ iq001.adtech.us
 i.qitrck.com
 i.radzolo.com
 ircleaner.com
+ir-de.amazon-adsystem.com
 ir-na.amazon-adsystem.com
 irondel.swisshost.by
 irs01.net
@@ -8464,6 +8468,7 @@ psorias.atspace.com
 psp3d.us.intellitxt.com
 pspcave.uk.intellitxt.com
 pstatic.datafastguru.info
+ps-us.amazon-adsystem.com
 pt21na.com
 ptrads.mp3.com
 ptreklam.com
@@ -8562,6 +8567,7 @@ rckymtnnws.112.2o7.net
 r.clickdensity.com
 rcm-images.amazon.com
 rcm-it.amazon.it
+rcm-na.amazon-adsystem.com
 rc.rlcdn.com
 rc.wl.webads.nl
 rd1.hitbox.com
@@ -11079,6 +11085,8 @@ wmedia.rotator.hadj7.adjuggler.net
 wmg.112.2o7.net
 wmgmulti.112.2o7.net
 wm.maxysearch.info
+wms-eu.amazon-adsystem.com
+wms-na.amazon-adsystem.com
 woche.oewabox.at
 wohnnet.oewabox.at
 w.oix.net
@@ -11106,6 +11114,8 @@ ws04.home.sapo.pt
 ws05.home.sapo.pt
 ws06.home.sapo.pt
 ws.addthis.com
+ws-ea.amazon-adsystem.com
+ws-na.amazon-adsystem.com
 wss-gw-1.hitbox.com
 wss-gw-3.hitbox.com
 ws.xjb.ac.cn
