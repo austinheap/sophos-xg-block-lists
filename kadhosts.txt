@@ -49,6 +49,7 @@ abcdg.pro
 abdcn.pro
 accessonline.biz
 ace.jamba.pl
+ace.jamster.pl
 ac-feedback.com
 acut.pl
 ad0007.net
@@ -121,6 +122,7 @@ becel.atwebpages.com
 beka.pl
 bekiarena.pl
 bemydate.mobi
+beng-beng.ml
 bertha.website
 bes.sportsontheweb.net
 bestaoe.atwebpages.com
@@ -488,6 +490,7 @@ fejsvieew.info.pl
 fejsviewer.com.pl
 fhgfffdsf9.appspot.com
 ficusoid.xyz
+fidspinner.pl
 fifa17coins.com.pl
 fifa17-coins.pl
 filebay.org
@@ -499,6 +502,7 @@ fileengine.org
 file-folders.pl
 filefolders.pl
 fileice.net
+fileoasis.net
 filerom.com
 filescloud.pl
 filesfolders.pl
@@ -553,6 +557,8 @@ formularz-odbioru-nagrody.info.pl
 formularz.sklep.pl
 formularz-wygranego2017.eu
 formularz-wygranego.eu
+formularz-wygranego.ml
+formularz-wygranego.tk
 fornalj.za.pl
 fornalki.za.pl
 fornalsroka.za.pl
@@ -648,6 +654,7 @@ glosowanie.ujm.pl
 go2cloud.org
 god.com.pl
 gofollow.bo.pl
+gogameportal.com
 gojiberry500.pl
 gojislim-original.com
 gold-nagrody.pl
@@ -832,6 +839,7 @@ isamu.edj.pl
 isamuxpompapsc50.6ka.info
 islandmob.com
 itea.za.pl
+i-telefony.pl
 itis4you.com
 itorka.w8w.pl
 itrak.w8w.pl
@@ -842,6 +850,7 @@ i-wiadomosci.pl
 ixweb.pl
 ixxy24.pl
 izaczajka.pl
+i-zegarki.com
 izolat.w8w.pl
 jamba.pl
 jamster.pl
@@ -1064,6 +1073,7 @@ mobile-installs.top
 mobile-redirection.com
 mobilertg.pl
 mobile-supportinfo.com
+mobileworry.com
 mobistos.com
 mobiworld.biz
 mob.pobierzteraz.mobi
@@ -1208,6 +1218,7 @@ odbierzpokemony.pl
 odbierzpokemonyy.pl
 odbierzskina.none.pl
 odbior-nagrody.pl
+odbior-nagrody-zwyciezcy.ml
 odblokuj-iphone.pl
 odchudzaniezpasja.pl
 oddam-yorkii.pl
@@ -1305,6 +1316,7 @@ pl-best-trading.com
 please-wait.online
 pl.health-line.me
 pliczek.pw
+pliki-24.pl
 pliki.pw
 plikson24.pl
 plikson.pl
@@ -1326,6 +1338,7 @@ pobieraj.xh.pl
 pobieralnia.com.pl
 pobieramy.lt.pl
 pobieramy-pliki.pl
+pobierane.pl
 pobieranko.eu
 pobierz1234.pl
 pobierz-123.pl
@@ -1487,6 +1500,7 @@ roaringcash.com
 romo.borec.cz
 rossmann2.wygraj-teraz.com
 rotacja-zdjec.bo.pl
+rozwiazanie-konkurs.pl
 r.xyz1.pl
 rzeczyzadarmo.bo.pl
 rzeczyzadarmo.pl
@@ -1523,6 +1537,7 @@ sexfabryka.blogspot.com
 sexfabryki.blogspot.com
 sexmasterka-nago.pl
 sexstream.pl
+sextel-24.pl
 sex-tele.pl
 sex-w-biurze.wirtualnie.pl
 sg6edges.pl
@@ -1754,6 +1769,7 @@ ufc202-live.blogspot.com
 uio7.pl
 ujewq.pl
 ultradiscrimination.xyz
+ultragsm.pl
 ultrapat.xyz
 unmillondeutilidades.com
 update-1.com
@@ -1921,6 +1937,7 @@ www.fabryka-nagrod.com
 www.fajnefanty.com
 www.fbony.pl
 www.fcgol.pl
+www.fileoasis.net
 www.files-download.xcc24.pl
 www.flexnice.club
 www.footballmanager.com.pl
@@ -2079,6 +2096,7 @@ wygrajxboxone.eu
 wygrajxboxones.pl
 wygrajz5.pl
 wygrana-konkurs.pl
+wygrane24.com.pl
 wygrane24.pl
 wygrane-konkurs.pl
 wygrania.com
@@ -2127,11 +2145,13 @@ yourfiles.pl
 yourfollowers.bo.pl
 yourhost.pl
 yourhosts.pl
+your-movies.pl
 yourmovies.pl
 youtubevideocheckling.com
 you-vids.com
 youvids.pl
 yoyo-zdjecia.bo.pl
+yoytv.za-darmo.eu
 yuppipuppy.com
 z0x.pl
 z8x.pl
@@ -2139,6 +2159,7 @@ z9x.pl
 za10groszy.pl
 zachomikowane.blogspot.com
 zacne.eu
+za-darmo.eu
 zaglosujenazdjecie.prv.pl
 zaile-umrzesz.pl
 zajrzyjnafotke.bo.pl
