@@ -2253,6 +2253,7 @@ adsvr.adknowledge.com
 ads.vs.co
 ads.vs.com
 ads.waframedia1.com
+adswakeup.com
 ads.wanadooregie.com
 ads.waps.cn
 ads.wapx.cn
