@@ -2745,6 +2745,7 @@ apple.com-supportcenter.website
 apple.com------support.host
 apple.com.virus-mac.com
 apple.com-webbrowsing-security.bid
+apple.com-webbrowsing-security.download
 apple-protection.info
 applestore.com-mobile.gift
 applicationpremium70.club

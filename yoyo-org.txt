@@ -599,7 +599,6 @@ ads.multimania.lycos.fr
 ads.nationalgeographic.com
 adsnative.com
 ads.ncm.com
-ads.netclusive.de
 ads.netmechanic.com
 ads.networksolutions.com
 ads.newdream.net
@@ -1136,6 +1135,7 @@ click.fool.com
 clickhereforcellphones.com
 clickhouse.com
 clickhype.com
+click.kmindex.ru
 clicklink.jp
 clickmedia.ro
 clickonometrics.pl
@@ -1197,6 +1197,7 @@ counter.search.bg
 counters.honesty.com
 counter.sparklit.com
 counter.yadro.ru
+counting.kmindex.ru
 count.rbc.ru
 count.rin.ru
 counts.tucows.com
@@ -1309,7 +1310,6 @@ eu-adcenter.net
 eur.a1.yimg.com
 eurekster.com
 euroclick.com
-euro-linkindex.de
 euros4click.de
 eusta.de
 evergage.com
@@ -1410,7 +1410,6 @@ grafstat.ro
 grapeshot.co.uk
 greystripe.com
 gtop100.com
-gtop.ro
 gunggo.com
 harrenmedia.com
 harrenmedianetwork.com
@@ -1824,7 +1823,6 @@ praddpro.de
 prchecker.info
 precisioncounter.com
 predictad.com
-premium-offers.com
 primaryads.com
 primetime.net
 privatecash.com
@@ -1900,7 +1898,6 @@ realtechnetwork.com
 realtracker.com
 re-directme.com
 reduxmedia.com
-reduxmediagroup.com
 reedbusiness.com.invalid
 referralware.com
 regnow.com
@@ -2040,7 +2037,6 @@ statsie.com
 stats.mirrorfootball.co.uk
 stats.multiup.org
 stats.olark.com
-stats.suite101.com
 stats.townnews.com
 stats.unwired-i.net
 stats.wordpress.com
@@ -2263,6 +2259,7 @@ whaleads.com
 whenu.com
 whispa.com
 whoisonline.net
+wholesaletraffic.info
 widespace.com
 widgetbucks.com
 wikia-ads.wikia.com
