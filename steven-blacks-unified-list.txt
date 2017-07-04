@@ -41,6 +41,7 @@
 0qizz.super-promo.hoxo.info
 0.r.msn.com
 0stats.com
+0stcd.pl
 0xm.com.pl
 100065.hittail.com
 10006.hittail.com
@@ -585,7 +586,7 @@
 7sdn.pl
 7search.com
 7softwaredreams.com
-7tools.eu.pl
+7tools.eu
 7vws1j1j.com
 7wind.ru
 7x7.ruwe.net
@@ -3833,7 +3834,6 @@ ads.neoseeker.com
 ads.neowin.net
 ads.nerve.com
 ads.netbul.com
-ads.netclusive.de
 ads.netcommunities.com
 ads.nethaber.com
 ads.netinfo.bg
@@ -5895,6 +5895,7 @@ apple.com-supportcenter.website
 apple.com------support.host
 apple.com.virus-mac.com
 apple.com-webbrowsing-security.bid
+apple.com-webbrowsing-security.download
 appleid-verification.com
 apple-protection.info
 applestore.com-mobile.gift
@@ -12146,6 +12147,7 @@ email-reflex.com
 emapadserver.com
 emarketer.com
 e-marketing.entelchile.net
+e-markowi.pl
 e-matelco.com
 emaxhealth.us.intellitxt.com
 e.maxtraffic.com
@@ -12413,7 +12415,6 @@ euro2016-doladowanie.blogspot.com
 euroad1.advantage.as
 euroclick.com
 euro-doladowania.blogspot.com
-euro-linkindex.de
 euromasterclass.ru
 euronis-free.com
 europages.com.ru
@@ -14705,7 +14706,6 @@ gtlt.hit.gemius.pl
 gtlv.hit.gemius.pl
 gtmedia.us.intellitxt.com
 gtop100.com
-gtop.ro
 gtopstats.com
 gtp16.acecounter.com
 gtp1.acecounter.com
@@ -15774,7 +15774,6 @@ imagecache.directtrack.com
 imagecash.net
 image.cecash.com
 imageceu1.247realmedia.com
-image-circul.tk
 image.click.livedoor.com
 imagecoolpub.com
 image.i1img.com
@@ -16565,6 +16564,7 @@ j.admob.com
 jadserve.postrelease.com
 jajajaj-thats-you-really.com
 jakeludington.us.intellitxt.com
+jakie-iq.pl
 jamba.pl
 jambocast.com
 james.adbutler.de
@@ -16728,8 +16728,6 @@ jmsyap.112.2o7.net
 jmvjmgofvxnu.com
 jnova.cjt1.net
 jnwky.misterjoy.ru
-job-companybuild.tk
-job-compuse.tk
 job.icivil.ir
 joblo.us.intellitxt.com
 job-online.petrovka.info
@@ -17043,6 +17041,7 @@ kidsangel.com
 kids-fashion.dk
 kids-in-sandbox.com
 kidsinsandbox.info
+kiedytwojdzien.com.pl
 kiedy-umrzesz.pl
 kiev.ua
 kihi.gdn
@@ -17350,7 +17349,6 @@ l7.zedo.com
 l8.zedo.com
 la.5.p2l.info
 lab88inc.112.2o7.net
-lab-cntest.tk
 labelwater.se
 laboroflove.us.intellitxt.com
 labplus.ru
@@ -20545,7 +20543,6 @@ news.msnbc.us.intellitxt.com
 news.nero-emea.com
 news.nero-us.com
 newsnetw.oewabox.at
-new-softdriver.tk
 newsok.112.2o7.net
 newsoxy.us.intellitxt.com
 newspecialyachttips.eu
@@ -21582,6 +21579,7 @@ onef.cf
 onefilms.net
 onefm.count.brat-online.ro
 one-gear.com
+oneluckyvisitor.org
 oneminutesite.it
 onenetworkdirect.com
 oneopenclose.click
@@ -23212,12 +23210,12 @@ predictivesearch.com
 prefix.hit.gemius.pl
 pre.footprintpredict.com
 pregnant.guru
+preland.softmonetize.com
 premium.ascensionweb.com
 premiumholidayoffers.com
 premiumlink.7tools.eu
 premium-live-scan.com
 premium.mookie1.com
-premium-offers.com
 premiumpedia.com
 premiumproductsonline.com
 premium-reward-club.com
@@ -24139,7 +24137,6 @@ redsheriff.com
 reducelnk.com
 reduxads.valuead.com
 reduxmedia.com
-reduxmediagroup.com
 reedbusiness.com.invalid
 reed-cw.grapeshot.co.uk
 reelheroes.net
@@ -25983,6 +25980,7 @@ shoppstop.comood.opsource.net
 shoppytoolmac.com
 shop.skin-safety.com
 shops-malls-rewardpath.com
+shop-style.pl
 shoptosaveenergy.com
 shopvilleroyboch.com.ua
 shopwme.ru
@@ -26421,6 +26419,7 @@ snapfish.112.2o7.net
 snaps.vidiemi.com
 snare.iesnare.com
 sn.baventures.com
+sneakerstore.com.pl
 sneakyboy.com
 sn-gate.com
 sn-gzzx.com
@@ -27336,7 +27335,6 @@ stats.ssa.gov
 stats.street-jeni.us
 stats.style.com
 stats.styletechnology.me
-stats.suite101.com
 stats.superstats.com
 stats.surfaid.ihost.com
 stat.stars.ru
@@ -29346,6 +29344,7 @@ trafficadept.com
 trafficads.com
 traffic.adwitty.com
 traffic.adxprts.com
+trafficbalancerouting.com
 trafficbee.com
 traffic.buyservices.com
 trafficcdn.liveuniversenetwork.com
@@ -30469,6 +30468,7 @@ videoinbox.net
 videojam.tv
 videojug.uk.intellitxt.com
 videokrik.net
+video.loudgames.com
 videomediagroep.nl
 video.od.visiblemeasures.com
 videooko.weebly.com
@@ -30488,6 +30488,7 @@ video-stats.video.google.com
 videostream.pl
 videos.twitter.secure-logins01.com
 videos.video-loader.com
+video.theparentingvillage.com
 videotroncom.112.2o7.net
 videotuber.ru
 video.unrulymedia.com
@@ -31369,6 +31370,7 @@ wholesalejerseys-cheapest.com
 wholesalejerseyscheapjerseys.us.com
 wholesalejerseysgaa.com
 wholesalenfljerseys.us.com
+wholesaletraffic.info
 wholinkstome.com
 whometrics.net
 whos.amung.us
@@ -36344,6 +36346,7 @@ zanox.com
 zantracker.com
 zaobao.com.sg
 zapadserver1.com
+zapatos.net.pl
 zapisany.pl
 zapisujemy24.pl
 zapiszto.pl
