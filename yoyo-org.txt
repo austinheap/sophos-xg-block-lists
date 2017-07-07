@@ -756,6 +756,7 @@ ad.thewheelof.com
 adthis.com
 adtiger.de
 adtoll.com
+adtology.com
 adtoma.com
 adtrace.org
 adtrade.net
@@ -1396,7 +1397,6 @@ globaltrack.com.invalid
 globe7.com
 globus-inter.com
 gmads.net
-go-clicks.de
 goingplatinum.com
 goldstats.com
 googleadservices.com
@@ -1500,7 +1500,6 @@ information.com
 inringtone.com
 insightexpressai.com
 insightexpress.com
-inspectorclick.com
 instantmadness.com
 intelliads.com
 intellitxt.com
@@ -1846,7 +1845,6 @@ proton-tm.com
 protraffic.com
 provexia.com
 prsitecheck.com
-pr-star.de
 pr-ten.de
 psstt.com
 pub.chez.com
