@@ -8088,7 +8088,6 @@ partner.pobieraczek.pl
 partnerprogramma.bol.com
 partners.adklick.de
 partners.pantheranetwork.com
-partners.salesforce.com
 partners.sprintrade.com
 partners.webmasterplan.com
 partner.tagscreator.com
