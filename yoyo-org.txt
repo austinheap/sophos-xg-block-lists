@@ -1111,7 +1111,7 @@ checkstat.nl
 chestionar.ro
 chitika.net
 ch.questionmarket.com
-cibleclick.com
+cibleclick.com.invalid
 cityads.telus.net
 cjbmanagement.com
 cj.com
