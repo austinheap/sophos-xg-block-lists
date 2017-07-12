@@ -529,6 +529,7 @@
 604.stats.misstrends.com
 6063.bapi.adsafeprotected.com
 606.stats.misstrends.com
+6128786.com
 6159.genieessp.com
 6165.rapidforum.com
 61kx.uk-insolvencydirect.com
@@ -573,6 +574,7 @@
 79423.analytics.edgesuite.net
 7979-69504_159.c.adprotect.net
 7979.nosubid.blueseek.com
+7a2rnuey1tw9ar.ru
 7adpower.com
 7as.pl
 7bpeople.com
@@ -1867,6 +1869,7 @@ admax.nexage.com
 admax.quisma.com
 adm.baidu.com
 admd.yam.com
+admeasures.com
 admedia.com
 admedia.expedia.com
 ad.mediaprostor.cz
@@ -2824,6 +2827,7 @@ ads.d-msquared.com
 ads.doclix.com
 ads.doctors.co.il
 ads.domainbg.com
+ads.domain.com
 ads.domainoptions.net
 ads.domeus.com
 ads.dontpanicmedia.com
@@ -5306,6 +5310,7 @@ alif-ba-ta.com
 a.ligatus.com
 a.ligatus.de
 alinexpres.pl
+alipromo.com
 alisat.biz
 alissonluis-musico.sites.uol.com.br
 a.livesportmedia.eu
@@ -5768,6 +5773,7 @@ apccargo.com
 a.pcpro.co.uk
 apdigitalorg.112.2o7.net
 apdigitalorgovn.112.2o7.net
+apelsinnik.website
 aperture.displaymarketplace.com
 apex-ad.com
 apexgames.org
@@ -5814,6 +5820,7 @@ api.content.ad
 api.content-ad.net
 api.demandbase.com
 apidiamondatanet-a.akamaihd.net
+apidigidocketnet-a.akamaihd.net
 api.ero-advertising.com
 apifasterlightin-a.akamaihd.net
 api.gameanalytics.com
@@ -6423,6 +6430,7 @@ avtolombard-krasnodar.ru
 avtovolop.ru
 awardspace.de.intellitxt.com
 awarenesstech.122.2o7.net
+awaybird.ru
 away.us.intellitxt.com
 a.websponsors.com
 a.webwise.com
@@ -11371,6 +11379,7 @@ doladujzadarmo.pl
 dolce-sportro.count.brat-online.ro
 dollarrentcar.com
 domain2008.com
+domaincdn.xyz
 domaincrawler.com
 domaineaneblanc.com
 domainfwd.com
@@ -11913,6 +11922,7 @@ educationmanagementl.tt.omtrdc.net
 education-rewardpath.com
 educing.info
 edu-offer.com
+edwinkonijn.com.au
 ee77ee.com
 ee.adocean.pl
 eecky.butlerelectricsupply.com
@@ -15453,7 +15463,6 @@ hq-celebrity.us.intellitxt.com
 hr.adocean.pl
 hrdcvn.com.vn
 hreade.com
-href.li
 hr-engine.xclaimwords.net
 hrgde.adocean.pl
 hr.hit.gemius.pl
@@ -17626,6 +17635,7 @@ letolove.ru
 letsart.ru
 letsfinder.com
 letsgodigital.uk.intellitxt.com
+letslowbefast.site
 letslowbefast.today
 letsrun.us.intellitxt.com
 letssearch.com
@@ -21060,6 +21070,7 @@ o1.qnsr.com
 o2adpl.hit.gemius.pl
 o2.eyereturn.com
 o2.hit.gemius.pl
+o333o.com
 o5h.pl
 o8.aus.cc
 o9d.pl
@@ -27449,6 +27460,7 @@ stats.revenue.net
 stats.sa-as.com
 stats.sbstv.dk
 stats.searchles.com
+stats.self.com
 stats.sextracker.com
 stats.shopify.com
 stats.snacktools.net
@@ -31200,6 +31212,7 @@ watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 watson.telemetry.microsoft.com.nsatc.net
 wau.tynt.com
+waycash.net
 wbads.vo.llnwd.net
 wba.wirtschaftsblatt.at
 wbextecd.112.2o7.net
