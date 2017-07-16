@@ -2754,6 +2754,7 @@ apple.com.virus-mac.com
 apple.com-webbrowsing-security.bid
 apple.com-webbrowsing-security.download
 apple.com-webbrowsing-security.review
+apple.com-webbrowsing-security.science
 apple-protection.info
 applestore.com-mobile.gift
 applicationpremium70.club
