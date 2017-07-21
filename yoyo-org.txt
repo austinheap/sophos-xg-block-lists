@@ -597,6 +597,7 @@ ads.multimania.lycos.fr
 ads.nationalgeographic.com
 adsnative.com
 ads.ncm.com
+ads.netmechanic.com
 ads.networksolutions.com
 ads.newdream.net
 ads.newgrounds.com
@@ -853,7 +854,6 @@ affiliatetracking.net
 affiliate.travelnow.com
 affiliate.viator.com
 affiliatewindow.com
-affiliation-france.com
 affili.net
 afftracking.justanswer.com
 ahalogy.com
@@ -1658,7 +1658,6 @@ mrskincash.com
 mtree.com
 musiccounter.ru
 muwmedia.com
-m.webtrends.com
 myaffiliateprogram.com
 mybloglog.com
 mycounter.ua
@@ -2148,20 +2147,17 @@ tracking.crunchiemedia.com
 tracking.gajmp.com
 tracking.internetstores.de
 trackingsoft.com
-tracking.yourfilehost.com
 trackmysales.com
 tradeadexchange.com
 tradedoubler.com
 trafficadept.com
 trafficbalancerouting.com
-trafficcdn.liveuniversenetwork.com
 traffic-exchange.com
 trafficfactory.biz
 trafficholder.com
 traffichunt.com
 trafficjunky.net
 trafficleader.com
-traffic.liveuniversenetwork.com
 trafficsecrets.com
 trafficspaces.net
 trafficstrategies.com
