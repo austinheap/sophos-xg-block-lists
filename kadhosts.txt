@@ -185,6 +185,7 @@ buz2mobile.com
 buzzonclick.com
 c0.atm.pl
 c9d.pl
+caly-film-online.pl
 caly-film-online-pl.epoznan.pl
 captainquizz.de
 carambaba.com
@@ -320,7 +321,6 @@ download000.warszawa.pl
 downloaddy.net
 downloaded.pl
 downloadeer.net
-download-file24.pl
 downloadfile.eu
 downloadfiles.pl
 downloadme.org
@@ -425,7 +425,6 @@ faktywiadomosci24.com.pl
 faktywydarzenia24.pl
 fastpay.pl
 fbadds.borec.cz
-fbaps.pl
 fbcolor0141.blogspot.com
 fbcolor0156.blogspot.com
 fbcolor071.blogspot.com
@@ -560,7 +559,6 @@ frankihostessy.pl
 free-deals.faith
 freedoladowania.pl
 freegiftcode.com
-free-gry.pl
 freehackpl.com
 freehd.pl
 freeminecraft.cc
@@ -580,13 +578,13 @@ fun2cell.net
 fun2me.pl
 fun3.pl
 fun-clix.com
+funfone.me
 fun-mobi.pl
 funriver.pl
 funskan.pl
 funsolo.net
 funtoonez.com
 futurepay.globway.eu
-gadzet099.my3gb.com
 gadzet9999.atwebpages.com
 galatransmisja.lt.pl
 galatransmisja.pe.hu
@@ -1156,12 +1154,10 @@ odbierzdarmowedoladowanie.wordpress.com
 odbierz-doladowanie-50zl.pl
 odbierz-internet-lte.pl
 odbierz-nagrode.sklep.pl
-odbierznagrody24.pl
 odbierz-nagrody.pl
 odbierz-nike.coolpage.biz
 odbierz-paysafecard.ujm.pl
 odbierzpokemon.pl
-odbierzpokemony.pl
 odbierzpokemonyy.pl
 odbierzskina.none.pl
 odbior-nagrody.pl
@@ -1177,6 +1173,7 @@ odwiedziny-fb.pl
 odzyskajsnapy.blogspot.com
 oferta1promocyjna.pl
 oferta4you.com.pl
+office-365.life
 offside2.5v.pl
 ogladaj24filmy.pl
 ogladajbezlimitow.pl
@@ -1308,7 +1305,6 @@ podlad-facee4.6te.net
 podpiszpetycje.pl
 pointhost.pl
 pojebol.pl
-poke-coins.pl
 pokecoinsy.wirtualnie.pl
 pokemon2k16go.blogspot.com
 pokemongo.ixweb.pl
@@ -1535,7 +1531,6 @@ sprawdz-to.cba.pl
 sprawdz-to.ga
 spreadyourtentacles.com
 sprytnebabkidoladowanie50.6ka.info
-spwsczeladz.my3gb.com
 srppykbedhqp.com
 ssd4.pdns.cz
 sspawdzktopodgglada.blogspot.com
@@ -1583,8 +1578,6 @@ system-alert1.com
 szafir-jubiler.pl
 szaloneupusty.pl
 szamponrevita.pl
-szamus2.my3gb.com
-szamus5.my3gb.com
 szkolainwestycji.pl
 szokgwalt.blogspot.com
 szokinf24.6ka.info
@@ -1694,6 +1687,7 @@ uzaleznienie-od-fejsa.wirtualnie.pl
 v7pjo.voluumtrk.com
 vbn6.pl
 vcxz.pl
+verifycaptcha.com
 ver.ovh
 vfastdownload.com
 videobay.tv
@@ -1765,7 +1759,6 @@ winwotgold.pl
 win-wot.pl
 wiosenny-bon-1500.pl
 wirtuozseksu.pl
-wisielec.com
 wizjatv-kody.pl
 wizjatv.za-darmo.eu
 wizyty-face2.bo.pl
@@ -1992,6 +1985,7 @@ xsensation.pl
 xsuper-filmy.pl
 xtesty.pl
 xweb24.pl
+xxxx.nsupdate.info
 xzegarsmiercix.prv.pl
 y4681.6128786.com
 yac.mx
