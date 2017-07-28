@@ -938,7 +938,6 @@ banner.elisa.net
 banner.eurogrand.com
 banner-exchange-24.de
 bannerexchange.cjb.net
-banner.featuredusers.com
 bannerflow.com
 banner.getgo.de
 banner.goldenpalace.com
