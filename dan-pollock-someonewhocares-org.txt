@@ -174,6 +174,7 @@ aax-eu.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
 ab.5.p2l.info
+ab913aa797e78b3.com
 a.backclick.net
 a.baidu.com
 abcnews.footprint.net
@@ -3416,6 +3417,7 @@ c7.zedo.com
 c8.statcounter.com
 c8.zedo.com
 c9.statcounter.com
+ca4.revieworbit.com
 ca.5.p2l.info
 ca.adserver.yahoo.com
 cablevision.112.2o7.net
@@ -5375,6 +5377,7 @@ gimg.baidu.com
 gimmethatreward.com
 gingert.net
 girlownedbypolicelike.blogspot.com
+giu9aab.bid
 gjfastcompanycom.112.2o7.net
 gj.mmstat.com
 gkkzngresullts.com
@@ -5769,6 +5772,7 @@ icecars.com
 icon.clickthru.net
 ics.hitbox.com
 id11938.luxup.ru
+id3103.com
 id5576.al21.luxup.ru
 id.5.p2l.info
 idb.hitbox.com
@@ -5900,6 +5904,7 @@ impit.tradedouble.com
 impit.tradedoubler.com
 impnl.tradedoubler.com
 impno.tradedoubler.com
+import.globalsources.com
 imp.partner2profit.com
 imppl.tradedoubler.com
 impressionaffiliate.com
@@ -5977,6 +5982,7 @@ intelliads.com
 intensedigital.adk2x.com
 interia.adsearch.adkontekst.pl
 internet.billboard.cz
+interyield.td573.com
 intnet-offer.com
 intrack.pl
 int.sitestat.com
@@ -7015,6 +7021,7 @@ mediaoffers.click
 media.ontarionorth.com
 media.popmarker.com
 media.popuptraffic.com
+media.primalforce.net
 mediapst.adbureau.net
 mediapst-images.adbureau.net
 medias.clicks4ads.com
@@ -7543,6 +7550,7 @@ novafinanza.com
 novellcom.112.2o7.net
 novemberrainx.com
 novem.onet.pl
+nowcheck.seethisamazinguogradeswinmacawesome.win
 nowinstallupgrade.clickforultimateandbest2updatingpc.top
 nowruzbakher.com
 nowtestpc.updatenewfresh4u.top
@@ -9703,6 +9711,7 @@ suckdude.com
 suddenplot.com
 sudokuwhiz.com
 sugoicounter.com
+suhprdfb.bid
 sumome.com
 suncom.112.2o7.net
 sunglobal.112.2o7.net
@@ -9996,6 +10005,7 @@ tn.5.p2l.info
 tn.adserve.com
 tnttv.112.2o7.net
 toads.osdn.com
+todayresearch.com
 tommysbookmarks.com
 tommysbookmarks.net
 tomorrownewstoday.com
@@ -11471,6 +11481,7 @@ www.alrpost69.com
 www.amazing-opportunities.info
 www.anatol.com
 www.annuaire-autosurf.com
+www.appafile.com
 www.apparelncs.com
 www.apparel-offer.com
 www.applelounge.com
