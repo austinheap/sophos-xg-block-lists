@@ -1266,7 +1266,6 @@ doubleclick.net
 doublepimp.com
 drumcash.com
 dynamic.fmpub.net
-dynamicyield.com
 eadexchange.com
 e-adimages.scrippsnetworks.com
 eas.almamedia.fi
@@ -1855,6 +1854,7 @@ pubmatic.com
 pub.realmedia.fr
 pubs.lemonde.fr
 pulse360.com
+px.dynamicyield.com
 q.azcentral.com
 qctop.com
 qnsr.com
