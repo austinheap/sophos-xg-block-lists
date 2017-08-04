@@ -477,7 +477,6 @@ adserv.evo-x.de
 adserv.gamezone.de
 adserv.iafrica.com
 adservinginternational.com
-adserv.qconline.com
 ads.eu.msn.com
 ads.exactdrive.com
 ads.expat-blog.biz
@@ -1345,7 +1344,6 @@ fc.webmasterpro.de
 feedbackresearch.com
 feedjit.com
 ffxcam.fairfax.com.au
-fimc.net
 fimserve.com
 findcommerce.com
 findyourcasino.com
@@ -1395,6 +1393,7 @@ globaltrack.com.invalid
 globe7.com
 globus-inter.com
 gmads.net
+go-clicks.de
 goingplatinum.com
 goldstats.com
 googleadservices.com
@@ -1513,7 +1512,6 @@ ipro.com
 ireklama.cz
 itfarm.com
 itop.cz
-itsptp.com
 its-that-easy.com
 i.xx.openx.com
 jcount.com
@@ -1821,6 +1819,7 @@ praddpro.de
 prchecker.info
 precisioncounter.com
 predictad.com
+premium-offers.com
 primaryads.com
 primetime.net
 privatecash.com
@@ -1843,6 +1842,7 @@ proton-tm.com
 protraffic.com
 provexia.com
 prsitecheck.com
+pr-star.de
 pr-ten.de
 psstt.com
 pub.chez.com
@@ -2090,7 +2090,6 @@ textlinks.com
 tfag.de
 theadhost.com
 theads.me
-thebugs.ws
 thecounter.com
 therapistla.com
 therichkids.com
@@ -2191,7 +2190,6 @@ updated.com
 urlcash.net
 us.a1.yimg.com
 usapromotravel.com
-usmsad.tom.com
 utarget.co.uk
 utils.mediageneral.net
 v1.cnzz.com
