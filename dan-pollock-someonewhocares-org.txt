@@ -180,6 +180,7 @@ a.baidu.com
 abcnews.footprint.net
 abetterinternet.com
 ab-gb.mgid.com
+a-blog.eu
 a.boom.ro
 aboutharrypotter.fasthost.tv
 abrogatesdv.info
@@ -9786,6 +9787,7 @@ szene1.oewabox.at
 t0.extreme-dm.com
 t1.adserver.com
 t1.extreme-dm.com
+t2.junbi-tracker.com
 t4.liverail.com
 t8t7frium3.s.ad6media.fr
 ta.at.ic5mp.net
@@ -10378,6 +10380,7 @@ tr.adinterax.com
 traffic.adwitty.com
 traffic.adxprts.com
 trafficbee.com
+traffic.focuusing.com
 traffic.getmyads.com
 trafficnetworkads24.com
 trafficopen.com
