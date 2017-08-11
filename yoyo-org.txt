@@ -519,7 +519,6 @@ ads.gawker.com
 ads.geekswithblogs.net
 ads.glispa.com
 ads.gmodules.com
-ads.godlikeproductions.com
 ads.goyk.com
 ads.gplusmedia.com
 ads.gradfinder.com
@@ -1171,7 +1170,6 @@ clk.konflab.com
 clkrev.com
 cluster.adultworld.com
 clustrmaps.com
-cmpstar.com
 cnomy.com
 cnt1.pocitadlo.cz
 cnt.spbland.ru
@@ -1356,6 +1354,7 @@ fc.webmasterpro.de
 feedbackresearch.com
 feedjit.com
 ffxcam.fairfax.com.au
+fimc.net
 fimserve.com
 findcommerce.com
 findyourcasino.com
@@ -1512,6 +1511,7 @@ inmobi.com
 inringtone.com
 insightexpressai.com
 insightexpress.com
+inspectorclick.com
 instantmadness.com
 intelliads.com
 intellitxt.com
@@ -1567,6 +1567,7 @@ ligatus.com
 ligatus.de
 lightningcast.net
 lightspeedcash.com
+limpingline.com
 link4ads.com
 linkadd.de
 link-booster.de
@@ -2204,7 +2205,6 @@ tyroo.com
 uarating.com
 ukbanners.com
 ultramercial.com
-unanimis.co.uk
 unknowntray.com
 untd.com
 updated.com
