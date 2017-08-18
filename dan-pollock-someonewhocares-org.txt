@@ -2732,6 +2732,7 @@ ap.oasfile.aftenposten.no
 apodir.oewabox.at
 apopt.hbmediapro.com
 app2.letmacwork.world
+app2.letslowbefast.life
 app3.letmacwork.world
 app4.letslowbefast.site
 app4.letslowbefast.today
@@ -4933,6 +4934,7 @@ extremetech.us.intellitxt.com
 eyewonder.com
 ezboard.bigbangmedia.com
 f150123.privacy4browsing.com
+f18085.privacy4browsers.com
 f1.p0y.com
 f2ncracker.112.2o7.net
 f2nsmh.112.2o7.net
@@ -8649,6 +8651,7 @@ redirect.click2net.com
 redirect.hotkeys.com
 re.directrev.com
 redirect.xmlheads.com
+redonetype.com
 redsheriff.com
 reduxads.valuead.com
 refinance.shengen.ru
