@@ -9451,7 +9451,6 @@ ssl-geizhals.oewabox.at
 ssl-helpgvat.oewabox.at
 ssl-karriere.oewabox.at
 ssl-msn.oewabox.at
-ssl-nl.persgroep.edgekey.net
 ssl-top.oewabox.at
 ssl-uspgvat.oewabox.at
 ssl-willhab.oewabox.at
