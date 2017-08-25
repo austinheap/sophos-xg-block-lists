@@ -79,7 +79,6 @@ ad-balancer.at
 ad-balancer.net
 adbanner.ro
 adbard.net
-adbers.com
 ad.bizo.com
 adblade.com
 adblockanalytics.com
@@ -862,6 +861,7 @@ affiliatetracking.net
 affiliate.travelnow.com
 affiliate.viator.com
 affiliatewindow.com
+affiliation-france.com
 affili.net
 afftracking.justanswer.com
 ahalogy.com
@@ -1828,7 +1828,6 @@ owebmoney.ru
 oxado.com
 oxcash.com
 oxen.hillcountrytexas.com
-p.adpdx.com
 pagead.l.google.com
 pagefair.com
 pagerank4you.com
@@ -2175,7 +2174,6 @@ superficialsink.com
 superstats.com
 supertop100.com
 supertop.ru
-suptullog.com
 surfmusik-adserver.de
 swan-swan-goose.com
 swissadsolutions.com
@@ -2204,12 +2202,12 @@ terribleturkey.com
 test.invalid
 textads.biz
 textad.sexsearch.com
-textads.opera.com
 text-link-ads.com
 textlinks.com
 tfag.de
 theadhost.com
 theads.me
+thebugs.ws
 thecounter.com
 therapistla.com
 therichkids.com
