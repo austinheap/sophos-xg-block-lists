@@ -63,7 +63,6 @@
 15628.hittail.com
 15694.hittail.com
 15minadlt.hit.gemius.pl
-15minlt.adocean.pl
 16565.hittail.com
 165a7.v.fwmrm.net
 1687.ic-live.com
@@ -741,7 +740,6 @@ ad.jamster.com
 ad.janalta.com
 ad.jp.ap.valuecommerce.com
 ad.jp.doubleclick.net
-ad-js.chip.de
 ad.jugem.jp
 adklip.com
 ad.koreadaily.com
@@ -935,7 +933,6 @@ ads3.bangkokpost.co.th
 ads.3bay.bg
 ads3.blastro.com
 ads.3e-news.net
-ads3.ipon.lt
 ads3.kompasads.com
 ads3.moitepari.bg
 ads.3sfmedia.com
@@ -947,6 +944,7 @@ ads.4rati.lv
 ads4.speedbit.com
 ads.4tube.com
 ads4.vertamedia.com
+ads56-us-east.stickyadstv.com
 ads5.admatic.com.tr
 ads5.fxdepo.com
 ads5.kompasads.com
@@ -2731,7 +2729,6 @@ badv.wp.pl
 balakin.popunder.ru
 balleralert.us.intellitxt.com
 b.alot.com
-bambergerkennanchitinous.com.abbp2.pw
 bam.nr-data.net
 bandoc.d-group.co.il
 banerator.net
@@ -3232,7 +3229,6 @@ btn.counter.weather.ca
 btprmnav.com
 b.t.tailtarget.com
 bttrack.com
-buddies.funbuddyicons.com
 bugera.popunder.ru
 builderonlinecom.112.2o7.net
 bukisa.us.intellitxt.com
@@ -3709,7 +3705,6 @@ cdn.tapstream.com
 cdn.targetfuel.com
 cdn.teads.tv
 cdn.teamskeetimages.com
-cdntest.gand.de
 cdnt.meteorsolutions.com
 cdn.total-media.net
 cdn.tracking.bannerflow.com
@@ -4630,7 +4625,6 @@ de.adserver.yahoo.com
 dealnews.122.2o7.net
 de.demdex.net
 ded.gostats.com
-defender-win-status-report.info
 de.grmtech.net
 de.hosting.adjug.com
 de.ioam.de
@@ -4718,7 +4712,6 @@ diff4.smartadserver.com
 diff.smartadserver.com
 digg.analytics.live.com
 digikulture-d.openx.net
-diginet.adocean.pl
 diginetlt.hit.gemius.pl
 digital4adro.hit.gemius.pl
 digital4ro.adocean.pl
@@ -4814,11 +4807,9 @@ dove.saymedia.com
 download1.pacificpoker.com
 download2.marketengines.com
 download32.us.intellitxt.com
-download.cdn.downloadquick.net
 download.cdn.sharelive.net
 download.cdn.torchbrowser.com
 download.downloadquick.net
-download.funwebproducts.com
 download.mywebsearch.com
 download.realtimegaming.com
 download.torchbrowser.com
@@ -5293,9 +5284,7 @@ fightline.us.intellitxt.com
 figlobal.112.2o7.net
 filecdn2.dotandad.com
 filedudes.us.intellitxt.com
-files4.downloadnet1188.com
 files4.securedownload01.com
-files5.downloadnet1188.com
 files5.securedownload01.com
 files.adspdbl.com
 files.bannersnack.com
@@ -8065,7 +8054,6 @@ oascentral.travelzoo.com
 oascentral.trentonian.com
 oascentral.tvnewscheck.com
 oascentral.upi.com
-oascentral.urbanspoon.com
 oascentral.villagevoice.com
 oascentral.virtualtourist.com
 oascentral.walmartwom.com
@@ -8080,8 +8068,6 @@ oas.dallasnews.com
 oas.deejay.it
 oas.five.tv
 oas-fr.video.on.nytimes.com
-oas.guardian.co.uk
-oas.guardiannews.com
 oas.ilsecoloxix.it
 oasis.411affiliates.ca
 oasjs.kataweb.it
@@ -8096,7 +8082,6 @@ oas.repubblica.it
 oas.rivals.com
 oas.salon.com
 oas.stv.tv
-oas.theguardian.com
 oas.tidningsnatet.se
 oas.trustnet.com
 oberonincredig.112.2o7.net
@@ -8127,7 +8112,6 @@ officer.us.intellitxt.com
 of.inviziads.com
 oglasnikadhr.hit.gemius.pl
 ohtulehtadee.hit.gemius.pl
-ohtulehtee.adocean.pl
 ohtuleht.spring-tns.net
 o.ibg.bg
 oimg.nbcuni.com
@@ -8725,7 +8709,6 @@ popuptraf.ru
 pop.zompmedia.com
 porn.mtree.com
 porntraff.com
-po.st
 postimees.spring-tns.net
 postmedia.demdex.net
 post.securestudies.com
@@ -9367,7 +9350,6 @@ s1.cz.adocean.pl
 s1.czgde.adocean.pl
 s1.delfilt.adocean.pl
 s1.edipresse.adocean.pl
-s1.gojobsru.adocean.pl
 s1.hit.stat24.com
 s1.hit.stat.pl
 s1.inviziads.com
@@ -9667,7 +9649,6 @@ searchfwding.com
 searchignited.com
 search.in
 search.ipromote.com
-search.iwon.com
 search.keywordblocks.com
 searchmagnified.com
 search.mediatarget.com
@@ -9782,6 +9763,7 @@ serve-east.acuityplatform.com
 serve.getpopunder.com
 serve.oxcluster.com
 serve.popads.net
+#[server
 server10.opentracker.net
 server1.affiz.net
 server1.beaconpush.com
@@ -10068,11 +10050,8 @@ sroomafp.allyes.com
 sr.rlcdn.com
 srs.targetpoint.com
 srv1.rapidstats.de
-srv1.wa.marketingsolutions.yahoo.com
 srv2trking.com
 srv2.twittercounter.com
-srv2.wa.marketingsolutions.yahoo.com
-srv3.wa.marketingsolutions.yahoo.com
 srv.adengage.com
 srv.admailtiser.com
 srv.adngin.com
@@ -11474,7 +11453,6 @@ vibe.us.intellitxt.com
 vibrantmedia.com
 vice-ads-cdn.vice.com
 vice-d.openx.net
-vice-web-statics-cdn.vice.com
 victoriaadvocate.112.2o7.net
 vid.atdmt.com
 video1.adprimemedia.com
@@ -12354,11 +12332,9 @@ www.ftjcfx.com
 www.fuckbookdating.com
 www.full-edition.info
 www.fulltraffic.net
-www.funbuddyicons.com
 www.funklicks.com
 www.fun.lbn.ru
 www.funtopliste.de
-www.funwebproducts.com
 www.fusestats.com
 www.gallerytrafficservice.com
 www.game-advertising-online.com
@@ -12829,7 +12805,6 @@ www.text-link-ads.com
 www.textlinkads.com
 www.textlink.cz
 www.theaffiliateprogram.com
-www.thedownloadpremiumfree36.com
 www.thefreepremiummy15.com
 www.themexp.org
 www.thesearchster.com
