@@ -9763,7 +9763,6 @@ serve-east.acuityplatform.com
 serve.getpopunder.com
 serve.oxcluster.com
 serve.popads.net
-#[server
 server10.opentracker.net
 server1.affiz.net
 server1.beaconpush.com
