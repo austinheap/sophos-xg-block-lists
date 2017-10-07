@@ -1,6 +1,7 @@
 101com.com
 101order.com
 123found.com
+123freeavatars.com
 180hits.de
 180searchassistant.com
 207.net
@@ -130,6 +131,7 @@ ad.e-kolay.net
 ademails.com
 adengage.com
 ad.eurosport.com
+adexchangegate.com
 adexchangeprediction.com
 adexcite.com
 adexpose.com
@@ -2108,6 +2110,7 @@ softclick.com.br
 sonobi.com
 spacash.com
 sparkstudios.com
+specially4u.net
 specificmedia.co.uk
 specificpop.com
 spectacularsnail.com
