@@ -4338,6 +4338,7 @@ d12.zedo.com
 d14.zedo.com
 d1.openx.org
 d1.zedo.com
+d2o9ozfswytaqz.cloudfront.net
 d2.zedo.com
 d3.zedo.com
 d4.zedo.com
@@ -6057,6 +6058,7 @@ intelcorpcim.112.2o7.net
 intelglobal.112.2o7.net
 intelliads.com
 intensedigital.adk2x.com
+interac.refund-canada.com
 interia.adsearch.adkontekst.pl
 internet.billboard.cz
 interyield.td573.com
@@ -11218,6 +11220,7 @@ wewillrocknow.com
 w.extreme-dm.com
 wfussb.oewabox.at
 whentheyopened.com
+whenvideoup.thebigandfreesystemupdate.website
 whenvideoup.thebigandfreesystemupdating.date
 whipcrack.org
 wi.5.p2l.info
