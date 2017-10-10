@@ -1183,6 +1183,7 @@ clientmetrics-pa.googleapis.com
 clients.tbo.com
 clikerz.net
 cliksolution.com
+cliqz.com
 clixgalore.com
 clkads.com
 clk.konflab.com
