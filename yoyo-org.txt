@@ -1823,6 +1823,7 @@ openads.friendfinder.com
 openads.org
 openad.tf1.fr
 openad.travelnow.com
+open.oneplus.net
 openx.angelsgroup.org.uk
 openx.blindferret.com
 opienetwork.com
@@ -2157,6 +2158,7 @@ stats.merriam-webster.com
 stats.mirrorfootball.co.uk
 stats.multiup.org
 stats.olark.com
+stats.pusher.com
 stats.self.com
 stats.townnews.com
 stats.unwired-i.net
