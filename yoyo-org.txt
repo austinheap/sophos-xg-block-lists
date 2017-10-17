@@ -2223,7 +2223,7 @@ tfag.de
 theadhost.com
 theads.me
 thebugs.ws
-thecounter.com
+thecounter.com.invalid
 therapistla.com
 therichkids.com
 thirdrespect.com
