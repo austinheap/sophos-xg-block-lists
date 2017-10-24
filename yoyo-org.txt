@@ -143,6 +143,8 @@ ad.flurry.com
 adf.ly
 adforce.com
 adform.com
+adformdsp.net
+adform.net
 ad.foxnetworks.com
 ad.freecity.de
 adgardener.com
@@ -1576,6 +1578,7 @@ intergi.com
 internetfuel.com
 interreklame.de
 interstat.hu
+ioam.de
 ip193.cn
 iperceptions.com
 ip.ro
@@ -1585,6 +1588,7 @@ itfarm.com
 itop.cz
 itsptp.com
 its-that-easy.com
+ivwbox.de
 ivykiosk.com
 i.xx.openx.com
 jcount.com
