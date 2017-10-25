@@ -1726,6 +1726,8 @@ adforce.com
 adforce.imgis.com
 adforce.ru
 adform.com
+adformdsp.net
+adform.net
 ad.fout.jp
 ad.foxnetworks.com
 ad.fr.doubleclick.net
@@ -3644,7 +3646,6 @@ ads.fuckingmachines.com
 ads.fuelo.net
 ads.fulldls.com
 ads.fulltiltpoker.com
-ads.futurenet.com
 ads.fuzzster.com
 ads.gadget.ro
 ads.gamblinghit.com
@@ -5810,7 +5811,6 @@ amc.rotator.hadj1.adjuggler.net
 am-display.com
 amdvtest.112.2o7.net
 amdzone.us.intellitxt.com
-ameblo.jp
 a.medialytics.com
 amedia.tns-cs.net
 amege.com
@@ -5946,6 +5946,7 @@ analytics.lk.api.ditto.com
 analytics.localytics.com
 analytics.logsss.com
 analytics.mail-corp.com
+analytics.mailmunch.co
 analytics.mopub.com
 analytics.msnbc.com
 analytics.msnbc.msn.com
@@ -5961,6 +5962,7 @@ analytics.phando.com
 analytics.picsart.com
 analytics.pimproll.com
 analytics.poolshool.com
+analytics.posttv.com
 analytics.prx.org
 analytics.query.yahoo.com
 analytics.radiatemedia.com
@@ -6408,6 +6410,7 @@ app.getresponse.com
 appgx.com
 appieid-monitor.com
 appiq.mobi
+apple.com-analysis-safety-antimalware-support.accountant
 apple.com.clean-virus-mac.com
 apple.com-internet-security-review.info
 apple.com-internet-security-review.review
@@ -8688,6 +8691,7 @@ brightexchanger.com
 brighthouse.122.2o7.net
 brighthub.us.intellitxt.com
 brightinfo.com
+brightonclick.com
 brightroll.com
 brilliant-ep.com
 brimstonehillfortress.org
@@ -12866,6 +12870,7 @@ dkbscuba.com
 dk.gmads.net
 dk-gmtdmp.mookie1.com
 dkhl.de
+dkspqpprnsmmte.com
 dk-tonstudio.de
 dktr.ru
 dkvorota.ru
@@ -14970,6 +14975,7 @@ feed3.hype-ads.com
 feedads.g.doubleclick.net
 feedads.googleadservices.com
 feed.afy11.net
+feedbackcensus.com
 feedbackexplorer.com
 feedback.microsoft-hohm.com
 feedbackresearch.com
@@ -19087,6 +19093,7 @@ in.yimg.com
 inzn.ru
 in.zog.link
 io9.com
+ioam.de
 iocdn.coremetrics.com
 ioit.iovation.com
 iomibarcameno.it
@@ -19329,6 +19336,7 @@ ivillage.us.intellitxt.com
 ivis2016.org
 ivitrine.buscape.com
 ivox.socratos.net
+ivwbox.de
 ivykiosk.com
 i.w55c.net
 iwa.hit.interia.pl
@@ -21998,7 +22006,6 @@ marmatboote.de
 marmitaco.cat
 marmotstore.online
 maronas.de
-maroonspider.com
 marriottinternationa.tt.omtrdc.net
 marsden.nu
 marsgatan.com
@@ -26790,6 +26797,7 @@ pigredoben12.sytes.net
 pihl.se
 pila.pl
 pilkanozna.yolasite.com
+pillscash.com
 pillsmoney.com
 pilltabletsrxbargain.net
 pilmedia.ads.visionweb.no
@@ -27454,6 +27462,7 @@ preg.marketingvici.com
 pregnant.guru
 preisrobotr.de
 preland.softmonetize.com
+preligions.com
 premia.com
 premiertransitions.com
 premioagol.it
@@ -27662,6 +27671,7 @@ promo.awempire.com
 promo.badoink.com
 promo.begun.ru
 promobenef.com
+promo.betcity.net
 promo.bongacash.com
 promo.cams.com
 promocionesparati.com
@@ -38198,6 +38208,7 @@ www.aimes.com
 www.aintdoinshit.com
 www.airbornehydrography.com
 www.airsonett.se
+www.ajalis.com
 www.ajedreztudela.com
 www.akirkpatrick.com
 www.akoneplatit.sk
@@ -39363,6 +39374,7 @@ www.fxcounters.com
 www.fxlayer.net
 www.fxstra.com
 www.fyxm.net
+www.gacatl.com
 www.gaja79.com
 www.galileounaluna.com
 www.gallerytrafficservice.com
@@ -39649,6 +39661,7 @@ www.ilovecheating.com
 www.ilovemobi.com
 www.imagerieduroc.com
 www.i.matheranalytics.com
+www.imcounting.com
 www.imiclk.com
 www.immobaustein.de
 www.impresionesweb.com
@@ -39968,6 +39981,7 @@ www.lzjl.com
 www.m1crosoft.com
 www.m-99.co.uk
 www.maatch.com
+www.macaheadapps.com
 www.mac.com-w.net
 www.macfillerck.com
 www.macombdisplayads.com
@@ -40527,6 +40541,7 @@ www.precisioncounter.com
 www.predictad.com
 www.predictivadnetwork.com
 www.predictivesearch.com
+www.preligions.com
 www.premieropinion.com
 www.premiumholidayoffers.com
 www.premiumpedia.com

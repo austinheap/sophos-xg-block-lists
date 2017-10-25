@@ -56,8 +56,10 @@ ad2games.com
 ad2.iinfo.cz
 ad2.linxcz.cz
 ad2.lupa.cz
+ad2.xrea.com
 ad3.iinfo.cz
 ad3.pamedia.com.au
+ad3.xrea.com
 ad4game.com
 ad.71i.de
 ad.a8.net
@@ -827,6 +829,7 @@ adx.atnext.com
 adxpansion.com
 adxpose.com
 adxprts.com
+ad.xrea.com
 adxvalue.com
 ad.yadro.ru
 adyea.com
@@ -2435,7 +2438,6 @@ xiti.com
 xplusone.com
 xponsor.com
 xq1.net
-xrea.com
 xtendmedia.com
 x-traceur.com
 xtremetop100.com
