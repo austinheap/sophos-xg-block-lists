@@ -2784,6 +2784,7 @@ apple.com-safetyalert.com
 apple.com--------scanner.bid
 apple.com-----scanner.club
 apple.com-scan-virus-detected.com
+apple.com-security-desktop-antimalware-support.download
 apple.com-store.me
 apple.com-supportcenter.pro
 apple.com-supportcenter.website
@@ -5082,6 +5083,7 @@ filmfanatic.com
 filmschoolrejects.us.intellitxt.com
 filmwad.us.intellitxt.com
 filosvybfimpsv.ru.gg
+filter.mediacpc.com
 fin.adbureau.net
 finance-offer.com
 finanzmeldungen.com
