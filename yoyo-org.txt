@@ -163,7 +163,6 @@ ad.httpool.com
 ad.hyena.cz
 ad.iinfo.cz
 ad.ilove.ch
-adimage.asiaone.com.sg
 adimage.guardian.co.uk
 adimages.been.com
 adimages.carsoup.com
@@ -254,7 +253,6 @@ adnxs.com
 adocean.pl
 ad.onad.eu
 adonspot.com
-adoperator.com
 adorigin.com
 ad.pandora.tv
 ad-pay.de
@@ -385,7 +383,6 @@ ads.cc-dt.com
 ads.centraliprom.com
 ads.cgnetworks.com
 ads.channel4.com
-adscholar.com
 adscience.nl
 ads.clearchannel.com
 ads-click.com
@@ -449,7 +446,6 @@ adserver.break-even.it
 adserver.cams.com
 adserver.com
 adserver.digitoday.com
-adserver.dotcommedia.de
 adserver.finditquick.com
 adserver.flossiemediagroup.com
 adserver.freecity.de
@@ -543,6 +539,7 @@ ads.heartlight.org
 ads.heias.com
 ads.hideyourarms.com
 ads.hollywood.com
+ads.horsehero.com
 ads.horyzon-media.com
 adshost1.com
 ads.iafrica.com
@@ -720,7 +717,6 @@ ads.vgchartz.com
 ads.videosz.com
 ads.virtualcountries.com
 ads.virtual-nights.com
-ads.vnumedia.com
 ads.waps.cn
 ads.wapx.cn
 ads.weather.ca
@@ -796,7 +792,6 @@ advertmarket.com
 advertmedia.de
 advertpro.sitepoint.com
 advertpro.ya.com
-adverts.carltononline.com
 advertserve.com
 advertstream.com
 advertwizard.com
@@ -930,7 +925,6 @@ avzadsrv.com
 awempire.com
 awin1.com
 a.xanga.com
-azfront.com
 b0b1o.bid
 b-1st.com
 ba.afl.rakuten.co.jp
@@ -1149,7 +1143,6 @@ click2freemoney.com
 click2paid.com
 clickability.com
 click.absoluteagency.com
-clickadz.com
 clickagents.com
 clickbank.com
 clickbank.net
@@ -1499,7 +1492,6 @@ hitcents.com
 hitfarm.com
 hitiz.com
 hitlist.ru
-hitlounge.com
 hitometer.com
 hit-parade.com
 hits4me.com
@@ -1522,7 +1514,6 @@ hotrank.com.tw
 hs-analytics.net
 htmlhubing.xyz
 httpool.com
-hurricanedigitalmedia.com
 hydramedia.com
 hyperbanner.net
 hypertracker.com
@@ -1573,7 +1564,6 @@ inringtone.com
 insightexpressai.com
 insightexpress.com
 inspectorclick.com
-instantmadness.com
 intelliads.com
 intellitxt.com
 interactive.forthnet.gr
@@ -1917,7 +1907,6 @@ praddpro.de
 prchecker.info
 precisioncounter.com
 predictad.com
-premium-offers.com
 presetrabbits.com
 primaryads.com
 primetime.net
@@ -1969,7 +1958,6 @@ quisma.com
 radar.cedexis.com
 radarurl.com
 radiate.com
-rad.msn.com
 rampidads.com
 rankchamp.de
 rankingchart.de
@@ -1980,7 +1968,6 @@ ranking-links.de
 ranking-liste.de
 rankingscout.com
 ranking-street.de
-rank-master.com
 rank-master.de
 rankyou.com
 rapidcounter.com
@@ -2053,7 +2040,6 @@ sbx.pagesjaunes.fr
 scambiobanner.aruba.it
 scanscout.com
 scarcestream.com
-scopelight.com
 scorecardresearch.com
 scratch2cash.com
 scripte-monster.de
@@ -2093,7 +2079,6 @@ shinystat.com
 shinystat.it
 shiveringsail.com
 shockingswing.com
-shoppingads.com
 sidebar.angelfire.com
 simplisticnose.com
 sinceresofa.com
@@ -2335,7 +2320,6 @@ ultramercial.com
 unknowntray.com
 untd.com
 unusualtitle.com
-updated.com
 urlcash.net
 us.a1.yimg.com
 usapromotravel.com
