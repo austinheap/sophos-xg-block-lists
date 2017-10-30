@@ -563,6 +563,7 @@ ad.eurosport.com
 ade.wooboo.com.cn
 adexchangegate.com
 adexchangeprediction.com
+adexchangetracker.com
 adexc.net
 adexpansion.com
 adexprt.com
@@ -5084,6 +5085,7 @@ fflotte.oewabox.at
 fg.softguy.com
 fhm.valueclick.net
 fif49.info
+file-error-09x38.gq
 file.ipinyou.com.cn
 files.adbrite.com
 filmfanatic.com
@@ -8024,6 +8026,7 @@ omniture.theglobeandmail.com
 omtrdc.net
 on.5.p2l.info
 onclickads.net
+onclickprediction.com
 onclkds.com
 one.123counters.com
 oneluckyvisitor.org
@@ -8489,6 +8492,8 @@ p.publico.es
 pq.stat.ku6.com
 pr.5.p2l.info
 precisioncounter.com
+predictiondisplay.com
+predictivadnetwork.com
 prefersurvey.net
 preland.softmonetize.com
 preligions.com
@@ -10809,6 +10814,7 @@ vcdn.adnxs.com
 vcipo.info
 vclick.adbrite.com
 vcm.oewabox.at
+venturead.com
 venus.goclick.com
 verisignwildcard.112.2o7.net
 verisonwildcard.112.2o7.net
