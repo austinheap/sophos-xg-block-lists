@@ -360,6 +360,7 @@
 2df7e.v.fwmrm.net
 2e4hk5g.com
 2gay.net
+2giga.link
 2girls1cup.cc
 2girls1cup.com
 2girls1cup-free.com
@@ -960,6 +961,7 @@ abs.proxistore.com
 absugars.com
 absurdity.flarelight.com
 abtasty.com
+abtest.mistat.xiaomi.com
 abtracker.adultbouncer.com
 ab.usageload32.com
 abusora.com
@@ -1685,6 +1687,7 @@ ade.wooboo.com.cn
 adexchangegate.com
 adexchange.guru
 adexchangeprediction.com
+adexchangetracker.com
 adexcite.com
 adexc.net
 adexpansion.com
@@ -6266,11 +6269,13 @@ api.addthis.com
 api.adip.ly
 api.adlure.net
 api.admob.com
+api.admob.xiaomi.com
 api.adquality.ch
 api.adrenalads.com
 api.adrtx.net
 api.adsnative.com
 api.adsymptotic.com
+api.ad.xiaomi.com
 api.affinesystems.com
 api.airpush.com
 apiallgeniusinfo-a.akamaihd.net
@@ -6299,6 +6304,7 @@ api.content-ad.net
 api.demandbase.com
 apidiamondatanet-a.akamaihd.net
 apidigidocketnet-a.akamaihd.net
+api.d.xiaomi.com
 api.ero-advertising.com
 apifasterlightin-a.akamaihd.net
 api.gameanalytics.com
@@ -6386,6 +6392,7 @@ app3.letitbefaster.life
 app3.letitbefaster.website
 app3.letmacwork.world
 app3.rutarget.ru
+app4com.bestgrade4update.trade
 app4.letitbefaster.life
 app4.letitbefaster.website
 app4.letslowbefast.life
@@ -6815,6 +6822,7 @@ assumption.com.au
 astaimmobiliare.it
 astalavista.box.sk
 astatic.weborama.fr
+a.stat.xiaomi.com
 astilearning.com
 astm.it
 astrocash.org
@@ -8999,6 +9007,7 @@ buy-xanax.hut1.ru
 buy-xanax-online.amovoce.net
 buy-zyban.all.at
 buz2mobile.com
+buzzadnetwork.com
 buzzbox.buzzfeed.com
 buzzfeed.d1.sc.omtrdc.net
 buzzfoto.us.intellitxt.com
@@ -9675,6 +9684,8 @@ ccc00.opinionlab.com
 ccc01.opinionlab.com
 cc.chango.com
 cc.connextra.com
+ccc.sys.intl.xiaomi.com
+ccc.sys.miui.com
 cc-dt.com
 c.cfjump.com
 cc-gastro.de
@@ -9691,6 +9702,8 @@ ccrgaviscom.112.2o7.net
 cc.simplereach.com
 ccs.infospace.com
 ccss.cr
+cc.sys.intl.xiaomi.com
+cc.sys.miui.com
 cctld.dk
 cctv.adsunion.com
 cctva.tv
@@ -9786,6 +9799,7 @@ cdn.adtradr.com
 cdn.adtrue.com
 cdn.adual.net
 cdn.advertserve.com
+cdn.ad.xiaomi.com
 cdn.ajillionmax.com
 cdn.alleliteads.com
 cdn.altitudeplatform.com
@@ -11018,6 +11032,7 @@ coh9hei.bid
 coicehomewarranty.com
 coindirect.io
 coinerra.com
+coin-have.com
 coinhiv.com
 coin-hive.com
 coinhive.com
@@ -11851,6 +11866,7 @@ crux.songline.com
 crv.clickad.pl
 crwdcntrl.net
 crybty.co
+cryptocoinjs.com
 cryptokopf.de
 crypto-loot.com
 cryptonight.wasm
@@ -12277,6 +12293,8 @@ data.gosquared.com
 data.kataweb.it
 dataloading.net
 data-mining.tk
+data.mistat.intl.xiaomi.com
+data.mistat.xiaomi.com
 data.mobclix.com
 data.murdoog.com
 data.nal.usda.gov
@@ -12427,6 +12445,7 @@ decrolyschool.be
 de.demdex.net
 ded.gostats.com
 deepblue-derfilm.de
+deepc.cc
 def.5.p2l.info
 defenderxtactical.com
 deflorationvirgins.com
@@ -12738,6 +12757,7 @@ digital4ro.adocean.pl
 digital-ads.s3.amazonaws.com
 digital-cable-descrambler.planet-high-heels.com
 digitaldesign.ch
+digitaldsp.com
 digitalfaq.com
 digitalfirst-d.openx.net
 digitalhomediscountptyltd.122.2o7.net
@@ -13487,6 +13507,7 @@ e-ads.eqads.com
 ead.sharethis.com
 ead-soft.popunder.ru
 eadsrv.com
+e.ad.xiaomi.com
 eaeacom.112.2o7.net
 eagamesuk.112.2o7.net
 eagleexteriorsllc.com
@@ -15117,6 +15138,7 @@ filedownload.com.pl
 filedownloads.pl
 filedudes.us.intellitxt.com
 fileengine.org
+file-error-09x38.gq
 filefilter.weebly.com
 filefinder.pl
 file-folders.pl
@@ -16374,6 +16396,7 @@ geo.crtracklink.com
 geo.deepmetrix.com
 geo.digitalpoint.com
 geo-errserv.btrll.com
+geofence.sys.miui.com
 geo.gexo.com
 geo.gorillanation.com
 geo.hyperlinksecure.com
@@ -16595,6 +16618,7 @@ glicol.kz
 glinkss.com
 glissbio.com
 glitter.services.disqus.com
+globalapi.ad.xiaomi.com
 globalcharge.com
 global.ecxtracking.com
 global.ekmpinpoint.com
@@ -17350,6 +17374,7 @@ harvest284.adgardener.com
 harvest285.adgardener.com
 harvest.adgardener.com
 hasfun.com
+hashforcash.us
 hashmi-n-company.com
 haso.pubmatic.com
 hatchetfilms.com
@@ -23342,6 +23367,7 @@ moncleroutletonline.xyz
 monclervests.xyz
 mondoads.s3.amazonaws.com
 mondo-animali.it
+monerominer.rocks
 monetate.net
 monetisetrk2.co.uk
 monetisetrk3.co.uk
@@ -24352,6 +24378,7 @@ newads.cmpnet.com
 newadserver.interfree.it
 new-ads.eurogamer.net
 newamericanteaparty.com
+new.api.ad.xiaomi.com
 newbie.com
 newbostonvillage.com
 newbrowse.livehelper.com
@@ -25548,6 +25575,7 @@ onceambientstore.com
 onceuponatimebr.net
 onclasrv.com
 onclickads.net
+onclickprediction.com
 onclickpredictiv.com
 onclkads.com
 onclkds.com
@@ -27477,6 +27505,8 @@ pr-cy.ru
 prebid.districtm.ca
 precisioncounter.com
 predictad.com
+predictiondisplay.com
+predictivadnetwork.com
 predictivesearch.com
 predominant-invent.tk
 prefersurvey.net
@@ -30176,6 +30206,7 @@ sdg-translations.com
 sdhack.com
 s.di.com.pl
 sdi-pme.com
+sdkconfig.ad.xiaomi.com
 sdk-controller.widespace.com
 sdk.streamrail.com
 sdlematanglestari.sch.id
@@ -31969,6 +32000,7 @@ ss.mtree.com
 sso.canada.com
 ssp.adplus.co.id
 ssp.adriver.ru
+ssp.ad.xiaomi.com
 ssp.anyclip-media.com
 sspawdzktopodgglada.blogspot.com
 sspcash.adxcore.com
@@ -33579,11 +33611,13 @@ te.scrippsnetworksprivacy.com
 te.scrippsnewspapersprivacy.com
 te.sfgate.com
 te.signonsandiego.com
+test.ad.xiaomi.com
 te.stamfordadvocate.com
 testapp.adhood.com
 testats.inuvo.com
 test.coremetrics.com
 testdata.coremetrics.com
+test.e.ad.xiaomi.com
 test.farstaforvaltning.se
 testgw.iovation.com
 testinteligencji.bo.pl
@@ -33591,6 +33625,7 @@ test.invalid
 test.iovation.com
 test.ishvara-yoga.com
 test--na--iq.blogspot.com
+test.new.api.ad.xiaomi.com
 testo.5v.pl
 testony.com
 testowanietwojegoiq.blogspot.com
@@ -34550,6 +34585,7 @@ tracking.mailtracker.in
 tracking.marketviaemail.net
 tracking.medpagetoday.com
 tracking.metalyzer.com
+tracking.miui.com
 tracking.motleyfool.com
 tracking.msadcenter.msn.com
 tracking.murdoog.com
@@ -36068,6 +36104,7 @@ venicebeach.nu
 venta-prom.ru
 ventelnos.com
 ventivmedia.com
+venturead.com
 venturytel.net
 ventution.com
 venus.goclick.com
@@ -37804,6 +37841,7 @@ www2.counter.bloke.com
 www2.cqcounter.com
 www2.doubleclick.com
 www2.game-advertising-online.com
+www.2giga.link
 www.2girls1cup.cc
 www.2girls1cup-free.com
 www.2girls1cup.nl
@@ -38802,6 +38840,8 @@ www.cockrobinforum.com
 www.codeads.com
 www.codez-knacken.de
 www.cogivea.com
+www.coin-have.com
+www.coinhive.com
 www.coinnuggets.co
 www.coldwellbanker.net
 www.collectiable.com
@@ -38932,6 +38972,8 @@ www.crm-metrix.fr
 www.crowdgravity.com
 www.crowdignite.com
 www.crtasi.it
+www.cryptocoinjs.com
+www.crypto-loot.com
 www.cs-go.ienet.pl
 www.cshacks.partycat.us
 www.cswilliamsburg.com
@@ -38975,6 +39017,7 @@ www.dcm5.com
 www.dctracking.com
 www.dddcc.com
 www.decografix.com
+www.deepc.cc
 www.deepmetrix.com
 www.defaultinternet.com
 www.defenderxtactical.com
@@ -39571,6 +39614,7 @@ www.haoyunlaid.com
 www.happydiscountspecials.com
 www.hardware4freaks.de
 www.harmonyhollow.net
+www.hashforcash.us
 www.hausnet.ru
 www.healthbeautyncs.com
 www.health-beauty-rewardpath.com
@@ -40141,6 +40185,7 @@ www.modulartanks.com
 www.mojezakupy.net
 www.monarchslo.com
 www.mondoperaio.net
+www.monerominer.rocks
 www.money4exit.de
 www.moneywin24.com
 www.mongoosemetrics.com
