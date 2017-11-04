@@ -2219,6 +2219,7 @@ ad.onlinechange.biz
 adonline.e-kolay.net
 adonspot.com
 a.dontibar.com
+adoperator.com
 ado.pro-market.net
 adopt.euroclick.com
 adopt.precisead.com
@@ -4663,6 +4664,7 @@ ads.vkushti.tv
 ads.v-links.net
 ads.vntsm.com
 ads.vnuemedia.com
+ads.vnumedia.com
 ads.voyit.com
 ads.vporn.com
 adsvr.adknowledge.com
@@ -5038,6 +5040,7 @@ advertpro.ya.com
 advert.rare.ru
 advert.runescape.com
 advert.ru.redtram.com
+adverts.carltononline.com
 adverts.creativemark.co.uk
 adverts.digitalspy.co.uk
 adverts.ecn.co.uk
@@ -8307,6 +8310,7 @@ bjcvibh.com
 bjetjt.com
 bjik.nu
 bjorkbacken.nu
+bjorksta.men
 bjselectric.com
 b.kavanga.ru
 bkbogosettlement.com
@@ -9891,7 +9895,6 @@ cdn.fastclick.net
 cdn.firstimpression.io
 cdn.firstlook.com
 cdn.flashtalking.com
-cdn.freefacti.com
 cdn.freefaits.com
 cdn.freefarcy.com
 cdn.freehalves.com
@@ -10060,6 +10063,7 @@ cdn.yb0t.com
 cdn.yieldmedia.net
 cdn.yldbt.com
 cdn.yottos.com
+cdn.zarget.com
 cdn.zeusclicks.com
 cdreviews.us.intellitxt.com
 cdrinfo.us.intellitxt.com
@@ -10572,6 +10576,7 @@ click.adpile.net
 click.adpremium.org
 clickadu.com
 click.adv.livedoor.com
+clickadz.com
 clickagents.com
 clickaider.com
 click.am1.adm.cnzz.net
@@ -17708,6 +17713,7 @@ hit.hotlog.ru
 hitiz.com
 hitlist.ru
 hitlog2.chosun.com
+hitlounge.com
 hitmax.pl
 hit-men.men
 hitmodel.net
@@ -18129,6 +18135,7 @@ huntingtonbank.tt.omtrdc.net
 huntsvillecraigslist.com
 huomdgde.adocean.pl
 huped.com
+hurricanedigitalmedia.com
 hu.search.etargetnet.com
 huseyn.com
 husky-shop.cz
@@ -19006,6 +19013,7 @@ installmac.com
 installm.net
 instantdownloadsz.com
 instantgiftcodes.com
+instantmadness.com
 instant-winner275.online
 instant-winner318.online
 instantwinner953.club
@@ -27526,6 +27534,7 @@ premiumholidayoffers.com
 premiumlink.7tools.eu
 premium-live-scan.com
 premium.mookie1.com
+premium-offers.com
 premiumpedia.com
 premiumproductsonline.com
 premium-reward-club.com
@@ -28453,7 +28462,7 @@ ranking-liste.de
 rankingscout.com
 ranking-street.de
 rankinoutlet.com
-rank-master.de
+rank-master.com
 rankmytattoos.us.intellitxt.com
 ranksays.com
 ranks.boardtracker.com
@@ -29945,6 +29954,7 @@ sayherbal.com
 sayonaraclub.eu
 saysidewalk.com
 s.baidu.com
+sbc
 sbdl.no
 sb.freeskreen.com
 sb.monetate.net
@@ -30067,6 +30077,7 @@ scoalavara.ro
 scolcode.com
 scomcluster.cxense.com
 scoopquest.com
+scopelight.com
 scopich.com
 score-ads.men
 scorecardresearch.com
@@ -30943,6 +30954,7 @@ shop.pcsecurityshield.com
 shopperifymac.com
 shopperpromotions.com
 shopping.112.2o7.net
+shoppingads.com
 shoppingbox.partner.leguide.com
 shoppingcirnecenter.com.br
 shoppingjequiti.com.br
@@ -38536,6 +38548,7 @@ www.bizographics.com
 www.bizopprewards.com
 www.bizuteria.ewygrana.pl
 www.bj04.com
+www.bjorksta.men
 www.bkrtx.com
 www.blackbookfilm.it
 www.blackmtnsoft.com
@@ -42501,6 +42514,7 @@ zarajbuilders.com
 za-rejestrowany.pl
 zarenica.net
 zarepta.com
+zarget.com
 zarobkisasiada.pl
 zarozinski.info
 zarrmarketing.co.uk
