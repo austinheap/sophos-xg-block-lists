@@ -6877,6 +6877,8 @@ macworld.uk.intellitxt.com
 mad2.brandreachsys.com
 madadsmedia.com
 m.adbridge.de
+m.addthis.com
+m.addthisedge.com
 m.admob.com
 m.adnxs.com
 mads.amazon-adsystem.com
@@ -9873,6 +9875,7 @@ sunny.oewabox.at
 sunonesearch.112.2o7.net
 superbrewards.com
 superegler.net
+superfastcdn.com
 superinterstitial.com
 supermed.oewabox.at
 supernaturalart.com
@@ -10837,6 +10840,7 @@ vcdn.adnxs.com
 vcipo.info
 vclick.adbrite.com
 vcm.oewabox.at
+velocecdn.com
 venturead.com
 venus.goclick.com
 verisignwildcard.112.2o7.net
