@@ -52,7 +52,7 @@ ad1.emule-project.org
 ad1.kde.cz
 ad1.pamedia.com.au
 ad2flash.com
-ad2games.com
+ad2games.com.invalid
 ad2.iinfo.cz
 ad2.linxcz.cz
 ad2.lupa.cz
