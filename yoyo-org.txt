@@ -488,6 +488,7 @@ adserv.evo-x.de
 adserv.gamezone.de
 adserv.iafrica.com
 adservinginternational.com
+adserving.unibet.com
 ads.eu.msn.com
 ads.exactdrive.com
 ads.expat-blog.biz
@@ -719,6 +720,7 @@ ads.usatoday.com
 ads.v3.com
 ads.verticalresponse.com
 ads.vgchartz.com
+ads.videobash.com
 ads.videosz.com
 ads.virtualcountries.com
 ads.virtual-nights.com
@@ -1240,6 +1242,7 @@ count.rin.ru
 counts.tucows.com
 count.west263.com
 coupling-media.de
+cp.abbp1.pw
 cpalead.com
 cpays.com
 cpmaffiliation.com
@@ -1561,6 +1564,7 @@ inboxdollars.com
 incentaclick.com
 incrediblesugar.com
 indexstats.com
+indexww.com
 indieclick.com
 industrybrains.com
 inetlog.ru
@@ -1574,6 +1578,7 @@ insightexpressai.com
 insightexpress.com
 inspectorclick.com
 instantmadness.com
+instinctiveads.com
 intelliads.com
 intellitxt.com
 interactive.forthnet.gr
@@ -1598,12 +1603,14 @@ jcount.com
 jewelcheese.com
 jinkads.de
 joetec.net
+jsecoin.com
 js.users.51.la
 juicyads.com
 jumptap.com
 justrelevant.com
 justwebads.com
 kanoodle.com
+kargo.com
 keymedia.hu
 k.iinfo.cz
 kindads.com
@@ -1632,6 +1639,7 @@ ligatus.com
 ligatus.de
 lightningcast.net
 lightspeedcash.com
+lijit.com
 limpingline.com
 link4ads.com
 linkadd.de
@@ -1701,8 +1709,10 @@ mediamgr.ugo.com
 mediaplazza.com
 mediaplex.com
 mediascale.de
+mediaserver.bwinpartypartners.it
 media-servers.net
 mediatext.com
+mediavoice.com
 mediax.angloinfo.com
 mediaz.angloinfo.com
 medleyads.com
@@ -1722,6 +1732,7 @@ miarroba.com
 microstatic.pl
 microticker.com
 midnightclicking.com
+minexmr.com
 misstrends.com
 mixedreading.com
 mixpanel.com
@@ -1755,6 +1766,7 @@ mystat-in.net
 mystat.pl
 mytop-in.net
 mytrafficads.com
+mzbcdn.net
 n69.com
 naiadsystems.com.invalid
 naj.sk
@@ -1793,6 +1805,7 @@ nexage.com
 ng3.ads.warnerbros.com
 nitroclicks.com
 novem.pl
+ntv.io
 nuggad.net
 numax.nu-1.com
 nuseek.com
@@ -2192,6 +2205,7 @@ superficialsink.com
 superstats.com
 supertop100.com
 supertop.ru
+supportxmr.com
 surfmusik-adserver.de
 swan-swan-goose.com
 swissadsolutions.com
