@@ -34,7 +34,6 @@ abc-ads.com
 abruptroad.com
 absoluteclickscom.com
 abz.com
-accounts.pkr.com.invalid
 a.consumer.net
 a-counter.kiev.ua
 ac.rnm.ca
@@ -52,7 +51,6 @@ ad1.emule-project.org
 ad1.kde.cz
 ad1.pamedia.com.au
 ad2flash.com
-ad2games.com.invalid
 ad2.iinfo.cz
 ad2.linxcz.cz
 ad2.lupa.cz
@@ -138,7 +136,6 @@ adexcite.com
 adexpose.com
 adext.inkclub.com
 ad.f1cd.ru
-adfactor.nl.invalid
 adfarm.mediaplex.com
 adflight.com
 ad.flurry.com
@@ -246,7 +243,6 @@ adnetworkperformance.com
 adnet.worldreviewer.com
 adnews.maddog2000.de
 adnotch.com
-ad.nozonedata.com
 ad.nttnavi.co.jp
 ad.nwt.cz
 adnxs.com
@@ -1082,7 +1078,6 @@ bpath.com
 braincash.com
 brandreachsys.com
 brassrule.com
-bravenet.com.invalid
 bridgetrack.com
 brightinfo.com
 british-banners.com
@@ -1140,7 +1135,6 @@ chiefcurrent.com
 chinchickens.com
 chitika.net
 ch.questionmarket.com
-cibleclick.com.invalid
 cityads.telus.net
 cjbmanagement.com
 cj.com
@@ -1456,10 +1450,8 @@ geo.digitalpoint.com
 geovisite.com
 getclicky.com
 giddycoat.com
-gigya.com.invalid
 globalismedia.com
 globaltakeoff.net
-globaltrack.com.invalid
 globe7.com
 globus-inter.com
 gmads.net
@@ -1573,6 +1565,7 @@ infinityads.com
 infolinks.com
 information.com
 inmobi.com
+innovid.com
 inringtone.com
 insightexpressai.com
 insightexpress.com
@@ -1732,12 +1725,12 @@ miarroba.com
 microstatic.pl
 microticker.com
 midnightclicking.com
-minexmr.com
 misstrends.com
 mixedreading.com
 mixpanel.com
 mixtraffic.com
 mjxads.internet.com
+ml314.com
 mlm.de
 mmismm.com
 mmtro.com
@@ -1768,7 +1761,6 @@ mytop-in.net
 mytrafficads.com
 mzbcdn.net
 n69.com
-naiadsystems.com.invalid
 naj.sk
 namimedia.com
 nastydollars.com
@@ -1865,7 +1857,6 @@ pagerank-submitter.de
 pageranktop.com
 pagerank-united.de
 parsely.com
-parse.ly.invalid
 partnerad.l.google.com
 partner-ads.com
 partnercash.de
@@ -1958,6 +1949,7 @@ provexia.com
 provideplant.com
 prsitecheck.com
 pr-star.de
+ps7894.com
 psstt.com
 pub.chez.com
 pub.club-internet.fr
@@ -2011,7 +2003,6 @@ realtracker.com
 receptiveink.com
 re-directme.com
 reduxmedia.com
-reedbusiness.com.invalid
 referralware.com
 regnow.com
 reinvigorate.net
@@ -2077,7 +2068,6 @@ searchramp.com
 secure.webconnect.net
 sedoparking.com
 sedotracker.com
-seeq.com.invalid
 segment.com
 sensismediasmart.com.au
 separatesilver.com
@@ -2205,7 +2195,6 @@ superficialsink.com
 superstats.com
 supertop100.com
 supertop.ru
-supportxmr.com
 surfmusik-adserver.de
 swan-swan-goose.com
 swissadsolutions.com
@@ -2231,7 +2220,6 @@ techclicks.net
 teenrevenue.com
 teliad.de
 terribleturkey.com
-test.invalid
 textads.biz
 textad.sexsearch.com
 text-link-ads.com
@@ -2240,7 +2228,6 @@ tfag.de
 theadhost.com
 theads.me
 thebugs.ws
-thecounter.com.invalid
 therapistla.com
 therichkids.com
 thirdrespect.com
@@ -2256,7 +2243,6 @@ tntclix.co.uk
 top100-images.rambler.ru
 top100.mafia.ru
 top123.ro
-top20.com.invalid
 top20free.com
 top90.ro
 topbarh.box.sk
@@ -2270,7 +2256,6 @@ toplist.cz
 toplist.pornhost.com
 top.list.ru
 top.mail.ru
-topmmorpgsites.com.invalid
 topping.com.ua
 top.proext.com
 toprebates.com
