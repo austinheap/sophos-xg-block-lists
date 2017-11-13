@@ -4,6 +4,7 @@
 30-day-change.com
 abtest.mistat.xiaomi.com
 adsmws.cloudapp.net
+ampmetrics.engadget.com
 analysis.polarisoffice.com
 analyticsapi.bsbportal.com
 analytics.cloudron.io
@@ -34,6 +35,7 @@ apps.id.net
 a.stat.xiaomi.com
 bjorksta.men
 breaksurvey.com
+c.adskeeper.co.uk
 canuck-method.com
 ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
@@ -51,12 +53,16 @@ cryptocoinjs.com
 crypto-loot.com
 cryptonight.wasm
 data.cnn.com
+datacollect.vmall.com
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 deepc.cc
 dobre-programy.pl
 e.ad.xiaomi.com
 embed.sendtonews.com
+event.ksosoft.com
+events3.adcolony.com
+events.appsflyer.com
 external.stealthedeal.com
 ext.privacyassistant.net
 fgoogle.com
@@ -74,6 +80,7 @@ jsecoin.com
 kissdoujin.com
 kisshentai.net
 kiwifarms.net
+l2.visiblemeasures.com
 listat.biz
 lmodr.biz
 load.jsecoin.com
@@ -117,9 +124,11 @@ test.e.ad.xiaomi.com
 test.new.api.ad.xiaomi.com
 torrenty-org.pl
 tracking.miui.com
+track.tenjin.io
 ttwitter.com
 twitter.cm
 urldelivery.com
+ustat.batmobi.net
 vdtrack.com
 virtual.thewhig.com
 www.2giga.link
