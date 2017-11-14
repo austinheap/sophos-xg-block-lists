@@ -170,6 +170,7 @@ aan.amazon.com
 aa-nb.marketgid.com
 aa.newsblock.dt00.net
 aa.newsblock.marketgid.com
+a.applvn.com
 a.as-eu.falkag.net
 a.as-us.falkag.net
 aaukqiooaseseuke.org
@@ -2900,6 +2901,7 @@ asn.advolution.de
 asn.cunda.advolution.biz
 aspirin.about-tabs.com
 a.ss34.on9mail.com
+assets.applovin.com
 assets.igapi.com
 assets.kixer.com
 assets.percentmobile.com
@@ -4295,6 +4297,7 @@ creview.adbureau.net
 cribdare2no.com
 crisptic01.net
 crllmzsy.top
+crossout.net
 crosspixel.demdex.net
 crowdgravity.com
 crowdignite.com
@@ -4712,6 +4715,7 @@ ebiads.ebiuniverse.com
 eblastengine.upickem.net
 eb.prout.be
 ec1.hitbox.com
+ecadutaro.yadozalamom.pw
 ecard4all.com
 ec.atdmt.com
 ecestats.theglobeandmail.com
@@ -4720,6 +4724,7 @@ eclkmpsa.com
 eclkspbn.com
 ecomadserver.com
 economisttestcollect.insightfirst.com
+e.crashlytics.com
 ecs1.engageya.com
 ectestlampsplus1.112.2o7.net
 ed.at.is13.de
@@ -5429,6 +5434,7 @@ geizhals.oewabox.at
 gemius.pl
 gem.pl
 gen-hydrocodone.polybuild.ru
+geniusdisplay.com
 geoads.com
 geoads.osdn.com
 geocounter.net
@@ -5529,6 +5535,7 @@ gofem.oewabox.at
 go-free-gifts.com
 gofreegifts.com
 goggle.com
+go.goldbachpoland.bbelements.com
 go.idmnet.bbelements.com
 go.idnes.bbelements.com
 go.ihned.bbelements.com
@@ -5563,6 +5570,7 @@ got2goshop.com
 goto.mystreamdelivery.xyz
 goto.trafficmultiplier.com
 go.trkreward.com
+govahoyuge.itup.pw
 go.verymuchad.com
 gozatar.com
 gozing.directtrack.com
@@ -5871,6 +5879,7 @@ ias2.hitbox.com
 ias.hitbox.com
 ia.warnet-thunder.net
 ib.adnxs.com
+ibaveh.yadozalamom.pw
 ibg.hitbox.com
 ibis.lgappstv.com
 i.blogads.com
@@ -6271,6 +6280,7 @@ jobwohn.oewabox.at
 johnchow.us.intellitxt.com
 johnlewis.112.2o7.net
 join1.winhundred.com
+join.pro-gaming-world.com
 journal-des-bourses.com
 journalism.uk.smarttargetting.com
 journalregistercompany.122.2o7.net
@@ -6300,6 +6310,7 @@ jsn.dt07.net
 jsonlinecollect.247realmedia.com
 js.revsci.net
 js.ru.redtram.com
+js-sec.indexww.com
 js.selectornews.com
 js.smi2.ru
 js.softreklam.com
@@ -6611,6 +6622,7 @@ LUXpolice.com
 LUXpolice.net
 luxup.ru
 luycos.com
+lvbet.pl
 lw1.gamecopyworld.com
 lw2.gamecopyworld.com
 lycos.247realmedia.com
@@ -7323,6 +7335,7 @@ mimicrice.com
 mini.videostrip.com
 mipsa.ciae.ac.cn
 mirror.pointroll.com
+mitobeb.yadozalamom.pw
 mjxads.internet.com
 mjx.ads.nwsource.com
 mklik.gazeta.pl
@@ -7342,6 +7355,7 @@ mm1.vip.sc1.admob.com
 mm.admob.com
 mmarkt.oewabox.at
 mm.chitika.net
+mmofreegames.online
 mmsshopcom.112.2o7.net
 mmstat.com
 mmv.admob.com
@@ -7788,6 +7802,7 @@ oasc06006.247realmedia.com
 oasc08008.247realmedia.com
 oasc09.247realmedia.com
 oasc16.247realmedia.com
+oasc18065.247realmedia.com
 oascenral.phoenixnewtimes.com
 oascentral.123greetings.com
 oascentral.abclocal.go.com
@@ -8103,6 +8118,7 @@ on.nimp.org
 onocollect.247realmedia.com
 onvis.ivwbox.de
 ooen.oewabox.at
+ɢoogle.com
 oo-na-na-pics.com
 opcwdns.opcw.nl
 open.4info.net
@@ -8545,6 +8561,7 @@ prizes.co.uk
 prizestohandle.club
 prjcq.com
 prm-ext.phorm.com
+prod-a.applovin.com
 prod-e.sprtad.com
 productopinionpanel.com
 productresearchpanel.com
@@ -8563,6 +8580,7 @@ promo.betcity.net
 promo.easy-dating.org
 promo.mes-meilleurs-films.fr
 promo.mobile.de
+promo.profxbrokers.com
 promos.fling.com
 promo.streaming-illimite.net
 promote-bz.net
@@ -8835,10 +8853,13 @@ reporter.adtech.us
 reportimage.adtech.de
 reportimage.adtech.fr
 reportimage.adtech.us
+reporting.aatkit.com
 reports.extreme-dm.com
 reports.wes.df.telemetry.microsoft.com
+repostuj.push-ad.com
 req.adsmogo.com
 re.rutan.org
+res1.applovin.com
 resanium.com
 reseller.hitbox.com
 resolvingserver.com
@@ -9172,6 +9193,7 @@ sec.hit.gemius.pl
 secimage.adtech.de
 secimage.adtech.fr
 secimage.adtech.us
+secret.ɢoogle.com
 secserv.adtech.de
 secserv.adtech.fr
 secserv.adtech.us
@@ -9743,6 +9765,7 @@ stats.adotube.com
 stats.adultswim.com
 stats.airfarewatchdog.com
 stats.allliquid.com
+stats.appsflyer.com
 stats.askmen.com
 stats.askmoses.com
 stats.bbc.co.uk
@@ -10311,6 +10334,7 @@ track.india-marketing.in
 tracking.10e20.com
 tracking.3com.com
 tracking.45-fe6b6-aah.co.uk
+tracking.aatkit.com
 tracking.adalyser.com
 tracking.adctrack.com
 tracking.adgoon.it
@@ -10677,6 +10701,7 @@ uawj.moqhixoz.cn
 ubmcmm.baidustatic.com
 uc.csc.adserver.yahoo.com
 ucstat.baidu.com
+udarem.com
 udc.msn.com
 uedata.amazon.com
 uelbdc74fn.s.ad6media.fr
@@ -10704,6 +10729,7 @@ ultrabestportal.com
 ultracet.1.p2l.info
 ultram.1.p2l.info
 ultraministry.xyz
+ultramole.xyz
 ultrasponsor.com
 ums.adtechus.com
 um.simpli.fi
