@@ -37,7 +37,6 @@ abz.com
 a.consumer.net
 a-counter.kiev.ua
 ac.rnm.ca
-acsseo.com
 actionsplash.com
 actualdeals.com
 actuallysheep.com
@@ -474,7 +473,6 @@ adserver.sciflicks.com
 adserver.sharewareonline.com
 adserversolutions.com
 adserver.spankaway.com
-adserver.startnow.com
 adserver.theonering.net
 adserver.twitpic.com
 adserver.viagogo.com
@@ -1255,7 +1253,6 @@ creafi-online-media.com
 creatives.as4x.tmcs.net
 creatives.livejasmin.com
 creative.whi.co.nz
-crispads.com
 criteo.com
 critictruck.com
 crowdgravity.com
@@ -1936,7 +1933,6 @@ profero.com
 profitrumour.com
 pro.i-doctor.co.kr
 projectwonderful.com
-promo1.webcams.nl
 promo.badoink.com
 promobenef.com
 promos.bwin.it
@@ -2455,6 +2451,7 @@ yieldmanager.com
 yieldmanager.net
 yieldmo.com
 yieldtraffic.com
+yldbt.com
 yoggrt.com
 z5x.net
 zangocash.com
