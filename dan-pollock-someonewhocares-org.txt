@@ -2748,6 +2748,7 @@ api.content.ad
 api.content-ad.net
 api.gameanalytics.com
 api.infinario.com
+api.inwemo.com
 api.linkgist.com
 api.linkz.net
 api.murdoog.com
@@ -2977,6 +2978,7 @@ az512334.vo.msecnd.net
 az.5.p2l.info
 azcentra.app.ur.gcion.com
 azoogleads.com
+azvjudwr.info
 azz.badazz.org
 b1.adbrite.com
 b1.azjmp.com
@@ -3995,6 +3997,7 @@ cnhipicayuneitemv.112.2o7.net
 cnhitribunestar.122.2o7.net
 cnhitribunestara.122.2o7.net
 cnhregisterherald.122.2o7.net
+cnhv.co
 cn.img.adon.vpon.com
 c.ninemsn.com.au
 c.nl.msn.com
@@ -4018,7 +4021,10 @@ codeotel.com
 coderexception.com
 code.vihub.ru
 coffeehausblog.com
+coinerra.com
+coin-have.com
 coin-hive.com
+coinhive.com
 coinurl.com
 c.oix.com
 c.oix.net
@@ -4304,6 +4310,7 @@ crowdignite.com
 c.ru.msn.com
 crux.songline.com
 crwdcntrl.net
+crypto-loot.com
 cs.adxpansion.com
 c.se.msn.com
 cserver.mii.instacontent.net
@@ -5674,6 +5681,7 @@ guide2poker.com
 GUMpolice.com
 guptamedianetwork.com
 guru.sitescout.netdna-cdn.com
+gus.host
 gwallet.com
 g-wizzads.net
 gwynethpaltrow.ca.tt
@@ -6286,6 +6294,7 @@ journalism.uk.smarttargetting.com
 journalregistercompany.122.2o7.net
 jpirate.cjt1.net
 jqueryscript.net
+jroqvbvw.info
 js1.bloggerads.net
 js1.hitbox.com
 js77.neodatagroup.com
@@ -6329,6 +6338,7 @@ juste.ru
 justwebads.com
 jwebbsense.cjt1.net
 jxliu.com
+jyhfuqoh.info
 jzclick.soso.com
 jzigsobgsmxdmr.bid
 k5ads.osdn.com
@@ -6342,6 +6352,7 @@ kaytri.com
 kazaa.adserver.co.il
 kczambians.com
 kddi.122.2o7.net
+kdowqlpt.info
 kentsucks.youcanoptout.com
 kermit.macnn.com
 kestrel.ospreymedialp.com
@@ -6534,6 +6545,7 @@ ln.doubleclick.net
 load.exelator.com
 load.focalex.com
 loading321.com
+load.jsecoin.com
 loadm.exelator.com
 load.sumome.com
 loan.aol.msk.su
@@ -7332,6 +7344,12 @@ mimageads8.googleadservices.com
 mimageads9.googleadservices.com
 mimageads.googleadservices.com
 mimicrice.com
+minemytraffic.com
+minero-proxy-01.now.sh
+minero-proxy-02.now.sh
+minero-proxy-03.now.sh
+minero.pw
+miner.pr0gramm.com
 mini.videostrip.com
 mipsa.ciae.ac.cn
 mirror.pointroll.com
@@ -7424,6 +7442,7 @@ mpv.sandai.net
 mr4evmd0r1.s.ad6media.fr
 mrjeweller.us
 mrtg.hitbox.com
+ms127.0.0.101341.club
 ms.5.p2l.info
 msedge.net
 mseuppremain.112.2o7.net
@@ -8526,6 +8545,7 @@ powabcyfqe.com
 pp2.pptv.com
 pp.free.fr
 pple.com.virus-mac.com
+ppoi.org
 p.profistats.net
 p.publico.es
 pq.stat.ku6.com
@@ -8573,6 +8593,7 @@ profitboosterapp.com
 proflashdata.com
 projectorpeople.112.2o7.net
 projectorreviews.us.intellitxt.com
+projectpoi.com
 prolapseman.com
 pro.letv.com
 promo.awempire.com
@@ -8899,6 +8920,7 @@ rmm1u.checkm8.com
 rms.admeta.com
 rncgopcom.122.2o7.net
 ro.bbelements.com
+rocks.io
 roifmd.info
 romdiscover.com
 romepartners.com
@@ -12926,6 +12948,7 @@ xanax.t-amo.net
 xanaxxanax.3xforum.ro
 xaxis.com
 x.azjmp.com
+xbasfbno.info
 x.bidswitch.net
 x-box.t35.com
 x.cb.kount.com
