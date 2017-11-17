@@ -8821,6 +8821,7 @@ red04.as-us.falkag.net
 red.as-eu.falkag.net
 red.as-us.falkag.net
 redherring.ngadcenter.net
+redir.bebi.com
 redirect.click2net.com
 redirect.hotkeys.com
 re.directrev.com
@@ -9626,6 +9627,7 @@ sql-server-driver.beesearch.info
 src.kitcode.net
 s.rev2pub.com
 srs.targetpoint.com
+srv.bebi.com
 srv.juiceadv.com
 srv.sayyac.com
 ssads.osdn.com
