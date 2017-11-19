@@ -2,7 +2,9 @@
 2468.go2cloud.org
 2giga.link
 30-day-change.com
+abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
+ads.feedly.com
 adsmws.cloudapp.net
 ampmetrics.engadget.com
 analysis.polarisoffice.com
@@ -24,15 +26,21 @@ analytics.posttv.com
 analytics.siliconexpert.com
 analytics.thevideo.me
 anayltics.kuikr.com
+an.batmobi.net
 androidads23.adcolony.com
 anime.reactor.cc
 annualconsumersurvey.com
+api5.batmobil.net
 api.admob.xiaomi.com
 api.ad.xiaomi.com
 api.d.xiaomi.com
+api.stats.appa.pe
 apple.com-notice.info
+applog.camera360.com
+applog.uc.cn
 apps.id.net
 a.stat.xiaomi.com
+bi-collector.oneapm.com
 bjorksta.men
 breaksurvey.com
 c.adskeeper.co.uk
@@ -57,6 +65,7 @@ datacollect.vmall.com
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 deepc.cc
+device-metrics-us.amazon.com
 dobre-programy.pl
 e.ad.xiaomi.com
 embed.sendtonews.com
@@ -81,6 +90,7 @@ kissdoujin.com
 kisshentai.net
 kiwifarms.net
 l2.visiblemeasures.com
+lepodownload.mediatek.com
 listat.biz
 lmodr.biz
 load.jsecoin.com
@@ -88,6 +98,7 @@ login.dotomi.com
 login.dotomi.net
 mackeeperapp.zeobit.com
 mataharirama.xyz
+metrics.adage.com
 minecrunch.co
 minemytraffic.com
 minero.pw
@@ -100,6 +111,7 @@ new.api.ad.xiaomi.com
 onlineusagesurveys.com
 open.oneplus.net
 performanceadexchange.com
+pixel.realclever.com
 ppoi.org
 privacyassistant.net
 promotion.com-rewards.club
@@ -110,6 +122,7 @@ rereddit.com
 rocks.io
 save-your-pc.info
 sdkconfig.ad.xiaomi.com
+sdktm.w.inmobi.com
 server.jsecoin.com
 specialsections.siteseer.ca
 sportsinteraction.com
@@ -158,3 +171,4 @@ www.torrenty-org.pl
 www.urldelivery.com
 www.vdtrack.com
 zarget.com
+zeus.ad.intl.xiaomi.com
