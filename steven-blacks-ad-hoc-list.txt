@@ -67,6 +67,8 @@ data.mistat.xiaomi.com
 deepc.cc
 device-metrics-us.amazon.com
 dobre-programy.pl
+dobreprogramy.pro
+dobre-programy.xyz
 e.ad.xiaomi.com
 embed.sendtonews.com
 event.ksosoft.com
