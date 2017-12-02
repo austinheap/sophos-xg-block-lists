@@ -4,8 +4,11 @@
 30-day-change.com
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
+ads.aerserv.com
 ads.feedly.com
+ads.mp.mydas.mobi
 adsmws.cloudapp.net
+ads.nexage.com
 ampmetrics.engadget.com
 analysis.polarisoffice.com
 analyticsapi.bsbportal.com
@@ -34,6 +37,8 @@ api5.batmobil.net
 api.admob.xiaomi.com
 api.ad.xiaomi.com
 api.d.xiaomi.com
+api.oneaudience.com
+api.pubnative.net
 api.stats.appa.pe
 apple.com-notice.info
 applog.camera360.com
@@ -60,6 +65,8 @@ com-notice.info
 cryptocoinjs.com
 crypto-loot.com
 cryptonight.wasm
+d.applovin.com
+dasdada.fu.ck
 data.cnn.com
 datacollect.vmall.com
 data.mistat.intl.xiaomi.com
@@ -76,6 +83,7 @@ events3.adcolony.com
 events.appsflyer.com
 external.stealthedeal.com
 ext.privacyassistant.net
+fcanr.tracking.miui.com
 fgoogle.com
 geofence.sys.miui.com
 globalapi.ad.xiaomi.com
@@ -85,6 +93,7 @@ help.evernote.com
 hosted.stats.com
 hosted.stats.com.edgesuite.net
 howupdateworks.amazingupdates4youtoday.website
+i1.dl-ad.com
 jackbootedroom.com
 joyreactor.cc
 jsecoin.com
@@ -97,6 +106,7 @@ lmodr.biz
 load.jsecoin.com
 login.dotomi.com
 login.dotomi.net
+l-v1.presage.io
 mackeeperapp.zeobit.com
 mataharirama.xyz
 matchmyip.com
@@ -113,7 +123,9 @@ new.api.ad.xiaomi.com
 onlineusagesurveys.com
 open.oneplus.net
 performanceadexchange.com
+pixel.onaudience.com
 pixel.realclever.com
+pl-v2.presage.io
 ppoi.org
 privacyassistant.net
 promotion.com-rewards.club
@@ -122,8 +134,11 @@ pussysaga.com
 quickcash-system.com
 rereddit.com
 rocks.io
+rt.applovin.com
 save-your-pc.info
+sdk.adincube.com
 sdkconfig.ad.xiaomi.com
+sdklogs.avocarrot.com
 sdktm.w.inmobi.com
 server.jsecoin.com
 specialsections.siteseer.ca
@@ -131,9 +146,11 @@ sportsinteraction.com
 ssp.ad.xiaomi.com
 static.reasedoper.pw
 stealthedeal.com
+storeconfig.mistat.intl.xiaomi.com
 support.apple.com-notice.info
 s.zkcdn.net
 tags.news.com.au
+telemetry.layer.com
 test.ad.xiaomi.com
 test.e.ad.xiaomi.com
 test.new.api.ad.xiaomi.com
