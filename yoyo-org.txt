@@ -927,6 +927,7 @@ audit.webinform.hu
 auto-bannertausch.de
 autohits.dk
 avenuea.com
+avocet.io
 avpa.javalobby.org
 avres.net
 avsads.com
@@ -1199,6 +1200,7 @@ cnomy.com
 cnt1.pocitadlo.cz
 cnt.spbland.ru
 code-server.biz
+coin-hive.com
 coinhive.com
 cointraffic.io
 colonize.com
@@ -1251,6 +1253,7 @@ cpays.com
 cpmaffiliation.com
 cpmstar.com
 cpxinteractive.com
+cpx.to
 cqcounter.com
 crakmedia.com
 craktraffic.com
@@ -1766,6 +1769,7 @@ mowfruit.com
 mpstat.us
 mr-rank.de
 mrskincash.com
+mtrcs.samba.tv
 mtree.com
 musiccounter.ru
 muwmedia.com
@@ -1918,6 +1922,7 @@ pietexture.com
 pillscash.com
 pimproll.com
 pixel.adsafeprotected.com
+pixel.condenastdigital.com
 pixel.jumptap.com
 pixel.redditmedia.com
 play4traffic.com
@@ -2229,6 +2234,7 @@ supertop.ru
 surfmusik-adserver.de
 swan-swan-goose.com
 swissadsolutions.com
+switchadhub.com
 swordfishdc.com
 sx.trhnt.com
 taboola.com
@@ -2505,4 +2511,5 @@ zeusclicks.com
 zeus.developershed.com
 zintext.com
 zmedia.com
+zqtk.net
 zv1.november-lax.com
