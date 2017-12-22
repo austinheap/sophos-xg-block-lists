@@ -587,7 +587,6 @@ ads.mariuana.it
 adsmarket.com
 ad.smartclip.net
 adsmart.com
-adsmart.co.uk
 adsmart.net
 ads.massinfra.nl
 ads.mcafee.com
@@ -1270,6 +1269,7 @@ creatives.as4x.tmcs.net
 creatives.livejasmin.com
 creative.whi.co.nz
 credishe.com
+crispads.com
 criteo.com
 critictruck.com
 croissed.info
@@ -1339,7 +1339,6 @@ dragzebra.com
 drumcash.com
 dynamic.fmpub.net
 dyntrk.com
-eadexchange.com
 e-adimages.scrippsnetworks.com
 eas.almamedia.fi
 easyhits4u.com
