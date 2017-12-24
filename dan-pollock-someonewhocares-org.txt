@@ -8471,6 +8471,7 @@ pix522.adtech.fr
 pix522.adtech.us
 pixel.adsafeprotected.com
 pixel.adssafeprotected.com
+pixel.bilinmedia.net
 pixel.everesttech.net
 pixel-geo.prfct.co
 pixel.invitemedia.com
