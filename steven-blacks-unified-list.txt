@@ -11870,6 +11870,7 @@ cri.d1.sc.omtrdc.net
 crimezone.nu
 crimg.sv.publicus.com
 crirussian.ru
+crispads.com
 crisptic01.net
 criteo.com
 critictruck.com
@@ -13537,7 +13538,6 @@ e89.friendfinder.com
 e.abnad.net
 eaccnj.org
 eachdayisagift.review
-eadexchange.com
 e-adimages.scrippsnetworks.com
 e.admob.com
 e.adpower.bg
@@ -27045,6 +27045,7 @@ pixel.adsniper.ru
 pixel.adssafeprotected.com
 pixel.advertising.com
 pixel-a.sitescout.com
+pixel.bilinmedia.net
 pixel.blog.hu
 pixelbox.uimserv.net
 pixel.captora.com
@@ -29579,6 +29580,7 @@ running-line.ru
 runofilms.ru
 runslin.com
 runstocks.com
+runtime.lemonpi.io
 runtnc.net
 rupolding.de
 rupor.info
