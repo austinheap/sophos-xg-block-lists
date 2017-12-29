@@ -37,7 +37,6 @@ abz.com
 a.consumer.net
 a-counter.kiev.ua
 ac.rnm.ca
-acsseo.com
 actionsplash.com
 actualdeals.com
 actuallysheep.com
@@ -544,7 +543,6 @@ ads.hideyourarms.com
 ads.hollywood.com
 ads.horsehero.com
 ads.horyzon-media.com
-adshost1.com
 ads.iafrica.com
 ads.ibest.com.br
 ads.ibryte.com
@@ -852,7 +850,6 @@ affiliatefuel.com
 affiliatefuture.com
 affiliate.gamestop.com
 affiliate.mercola.com
-affiliate.mogs.com
 affiliate.offgamers.com
 affiliates.allposters.com
 affiliates.babylon.com
@@ -1044,7 +1041,6 @@ berp.com
 best-pr.info
 bestsearch.net
 best-top.ro
-bhclicks.com
 bidclix.com
 bidclix.net
 bidswitch.net
@@ -2286,7 +2282,6 @@ throattrees.com
 thruport.com
 tidytrail.com
 t.insigit.com
-tinybar.com
 tizers.net
 tlvmedia.com
 tnkexchange.com
@@ -2454,7 +2449,6 @@ webstat.net
 webstats4u.com
 webtrackerplus.com
 webtraffic.se
-webtraxx.de
 webtrendslive.com
 werbung.meteoxpress.com
 wetrack.it
