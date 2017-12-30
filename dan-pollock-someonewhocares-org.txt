@@ -2745,6 +2745,7 @@ api.admob.com
 api.adsymptotic.com
 api.affinesystems.com
 api.airpush.com
+api.behavioralengine.com
 api.bizographics.com
 api.content.ad
 api.content-ad.net
@@ -9726,6 +9727,7 @@ static.adwo.com
 static.adzerk.net
 static.affiliation-france.com
 static.aff-landing-tmp.foxtab.com
+static.audienceinsights.net
 staticb.mydirtyhobby.com
 static.carbonads.com
 static.chartbeat.com
