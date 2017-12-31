@@ -1060,7 +1060,6 @@ acrowiswhite.com
 acs.56.com
 acs.agent.56.com
 acs.agent.v-56.com
-acsseo.com
 acteongruop.com
 actforvictory.112.2o7.net
 actiondesk.com
@@ -3754,7 +3753,6 @@ ads.hooqy.com
 ads.hornypharaoh.com
 ads.horsehero.com
 ads.horyzon-media.com
-adshost1.com
 ads.host.camz.com
 ads.hosting.vcmedia.vn
 ads.hotarena.net
@@ -5290,7 +5288,6 @@ affiliate.irotracker.com
 affiliate.kitapyurdu.com
 affiliate.mercola.com
 affiliate.mlntracker.com
-affiliate.mogs.com
 affiliate.mymall.bg
 affiliate.offgamers.com
 affiliates.allposters.com
@@ -9754,6 +9751,7 @@ cdn1.crispadvertising.com
 cdn1.eyewonder.com
 cdn1ht.traffichaus.com
 cdn1.inner-active.mobi
+cdn1.minestat.biz
 cdn1.rmgserving.com
 cdn1sitescout.edgesuite.net
 cdn1.skinected.com
@@ -9768,6 +9766,7 @@ cdn2.adsdk.com
 cdn2.amateurmatch.com
 cdn2.crispadvertising.com
 cdn2.emediate.eu
+cdn2.minestat.biz
 cdn2sitescout-a.akamaihd.net
 cdn3.adexprts.com
 cdn3.emediate.eu
@@ -23174,6 +23173,7 @@ minero-proxy-03.now.sh
 minero.pw
 miner.pr0gramm.com
 minerva.healthcentral.com
+minestat.biz
 ming-dun.com.tw
 minharevisao.com
 minhman.vn
@@ -32318,6 +32318,7 @@ static.aff-landing-tmp.foxtab.com
 static.ampxchange.com
 static.ard.xxxblackbook.com
 static.atgsvcs.com
+static.audienceinsights.net
 static.awempire.com
 staticb.mydirtyhobby.com
 static-bp.kameleoon.com
@@ -34137,7 +34138,6 @@ tinaborg.com
 tingtongb2b.com
 t.insigit.com
 t.invitemedia.com
-tinybar.com
 tinyfilehost.com
 tinyfileshost.com
 tipic.de
@@ -37319,7 +37319,6 @@ webtherapy.ru
 webtracker.apicasystem.com
 webtrackerplus.com
 webtraffic.se
-webtraxx.de
 webtrekk.mediaset.net
 webtrekk.net
 webtrends1.britishgas.co.uk
