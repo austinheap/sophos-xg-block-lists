@@ -10118,7 +10118,7 @@ te.journalnow.com
 te.kontera.com
 te.latimes.com
 telefonica.webnavegador.com.br
-telemetry.appex.bing.net:443
+telemetry.appex.bing.net
 tele.oewabox.at
 tel.geenstijl.nl
 telstra.imrworldwide.com
