@@ -184,6 +184,7 @@ ab.5.p2l.info
 ab913aa797e78b3.com
 a.backclick.net
 a.baidu.com
+abclnks.com
 abcnews.footprint.net
 abetterinternet.com
 ab-gb.mgid.com
@@ -2545,6 +2546,7 @@ affiliation-france.com
 affimg.pop6.com
 afform.co.uk
 affpartners.com
+affpool.com
 aff.promodeals.nl
 affrh2023.com
 aff.ringtonepartner.com
@@ -3230,6 +3232,8 @@ bill.agent.v-56.com
 billing.speedboink.com
 bimg.abv.bg
 bin.clearspring.com
+bindedge.com
+bindfast.com
 bingo-online.petrovka.info
 binsservicesonline.info
 bir.snjack.info
@@ -3851,6 +3855,7 @@ classicjack.com
 classifiedscanada.112.2o7.net
 classmatescom.112.2o7.net
 c.latam.msn.com
+clckcloud.com
 cleanchain.net
 cleaningformac.com
 clearonclick.com
@@ -3953,6 +3958,7 @@ clkads.com
 clk.atdmt.com
 clk.cloudyisland.com
 clk.relestar.com
+clkrtrkr.com
 clk.tradedoubler.com
 clkuk.tradedoubler.com
 c.lomadee.com
@@ -4361,6 +4367,7 @@ c.uk.msn.com
 custom3hurricanedigitalmedia.com
 custom.allistracking.com
 customerscreensavers.com
+customtrck.com
 c.webwise.com
 c.webwise.net
 c.webwise.org
@@ -4541,6 +4548,7 @@ dischannel.112.2o7.net
 discount-savings-more.com
 discoverdemo.com
 discoverecommerce.tt.omtrdc.net
+diskager.com
 dispatcher.oewabox.at
 display.gestionpub.com
 disqusads.com
@@ -5044,6 +5052,7 @@ extremereach.com
 extremetech.us.intellitxt.com
 eyewonder.com
 ezboard.bigbangmedia.com
+eztrck.com
 f05098.privacy4browsers.com
 f11098.privacy4browsers.com
 f150123.privacy4browsing.com
@@ -6349,6 +6358,7 @@ junecleeland.com
 jur.unn.ac.ru
 justdating.online
 juste.ru
+justtrck.com
 justwebads.com
 jwebbsense.cjt1.net
 jxliu.com
@@ -6985,6 +6995,7 @@ manuel.theonion.com
 mapleway2profit.com
 maps-antivert58.eksuziv.net
 maps-spyware251-300.eksuziv.net
+marketaff.com
 marketgid.com
 marketing.888.com
 marketing.beesearch.info
@@ -7374,6 +7385,7 @@ mjx.ads.nwsource.com
 mklik.gazeta.pl
 mktg.actonsoftware.com
 mktg-offer.com
+mktrkr.com
 mlbastros.112.2o7.net
 mlbcolorado.112.2o7.net
 mlbcom.112.2o7.net
@@ -7672,6 +7684,7 @@ nextbestgame.org
 nextel-ringtone.komi.su
 nextel-ringtone.spb.su
 nextgenstats.com
+nexttrk.com
 nexys404.us.intellitxt.com
 nf.5.p2l.info
 ng3.ads.warnerbros.com
@@ -8337,6 +8350,7 @@ pei-ads.thesmokingjacket.com
 penton.us.intellitxt.com
 people-choice-sites.com
 performanceadexchange.com
+performancetrck.com
 persgroepadvertising.nl
 perso.estat.com
 personalantispy.com
@@ -8770,6 +8784,7 @@ quareclk.com
 Question2Answer.com
 quickbrowsersearch.com
 quickfilmz.com
+quicktrck.com
 quickupdateserv.com
 quik-serv.com
 quizzitch.net
@@ -9165,6 +9180,7 @@ sciamglobal.112.2o7.net
 sc.intellitxt.com
 s.clickability.com
 s.clicktale.net
+sclk.org
 scorecardresearch.com
 scoremygift.com
 scorepconline.club
@@ -9465,6 +9481,7 @@ simba.6.cn
 simg.sinajs.cn
 simg.zedo.com
 simpleads.net
+simpletrck.com
 simpli.fi
 simplyfwd.com
 sinera.org
@@ -10648,6 +10665,8 @@ travelncs.com
 travidiathebrick.112.2o7.net
 trax.gamespot.com
 tr.bigpoint.com
+trckaction.com
+trcko.com
 trc.taboola.com
 trc.taboolasyndication.com
 trekmedia.net
@@ -10667,6 +10686,7 @@ trk.ablogica.com
 trk.alskeip.com
 trk.etrigue.com
 trk.kissmetrics.com
+trkrpoint.com
 trk.tidaltv.com
 trk.vidible.tv
 trk.yadomedia.com
@@ -13134,6 +13154,7 @@ zoloft.1.p2l.info
 zoloft.3.p2l.info
 zoloft.4.p2l.info
 zoloft.about-tabs.com
+zsisk.com
 ztrf.net
 zu1.november-lax.com
 zuzzer5.com
