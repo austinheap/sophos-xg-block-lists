@@ -1,5 +1,4 @@
 ads.pubmatic.com
 gads.pubmatic.com
 pubads.g.doubleclick.net
-securepubads.g.doubleclick.net
 www.googletagservices.com

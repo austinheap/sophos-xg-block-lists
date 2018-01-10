@@ -7278,6 +7278,7 @@ b3d.com
 b3.mookie1.com
 b3-uk.mookie1.com
 b5057c.r.axf8.net
+b59812ee54afcabd.com
 b5media.us.intellitxt.com
 b6roqgi.com
 b.6sc.co
@@ -9916,9 +9917,6 @@ cdn.behavioralengine.com
 cdn.bestssaker.com
 cdn.betrad.com
 cdn.bidvertiser.com
-cdn.bigspeedpro.com
-cdn.bispd.com
-cdn.bisrv.com
 cdn.blueconic.net
 cdn.boomtrain.com
 cdn.brcdn.com
@@ -10000,7 +9998,6 @@ cdn.go.idmnet.bbelements.com
 cdn.go.pol.bbelements.com
 cdn.g.promosrv.com
 cdn.gumgum.com
-cdn.guttastatdk.us
 cdn.hadj7.adjuggler.net
 cdn.hanaging.info
 cdn.hauleddes.com
@@ -10082,7 +10079,6 @@ cdn.radiatewheel.info
 cdn.redlightcenter.com
 cdn.reporo.net
 cdn.revcontent.com
-cdn.riceateastcach.us
 cdn-rtb.sape.ru
 cdn.sagent.io
 cdn.sail-horizon.com
@@ -37771,7 +37767,6 @@ wmg.112.2o7.net
 wmgmulti.112.2o7.net
 wm-goldenclick.ru
 wmgv.com
-wmirk.ru
 w.mlv-cdn.com
 wmmax.com
 wm.maxysearch.info
@@ -37885,6 +37880,7 @@ w.p.mybuys.com
 wpni.112.2o7.net
 wpnipostcomjobs.112.2o7.net
 wpni.tt.omtrdc.net
+wpnrtnmrewunrtok.xyz
 wppluginspro.com
 w.prize44.com
 wpsecurity.website

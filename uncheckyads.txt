@@ -1,14 +1,8 @@
 cdn.appround.biz
-cdn.bigspeedpro.com
-cdn.bispd.com
-cdn.bisrv.com
 cdn.download.sweetpacks.com
-cdn.guttastatdk.us
-cdn.inskinmedia.com
 cdn.insta.playbryte.com
 cdn.msdwnld.com
 cdn.mypcbackup.com
-cdn.riceateastcach.us
 d3oxtn1x3b8d7i.cloudfront.net
 inno.bisrv.com
 installer.betterinstaller.com
