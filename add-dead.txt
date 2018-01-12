@@ -1,13 +1,10 @@
 analytic-google.com
-apple-updates.com
 blacksnake.com
-disney-movie.org
 europcareer.com
 flashplayer-adobe.com
 get-avast.com
 iphonegames3g.com
 jmp2click.com
-malwaredomainlists.com
 microsoft-update.name
 sunonsunday.com
 sunonsunday.co.uk
@@ -15,9 +12,6 @@ thesunonsunday.com
 thesunonsunday.co.uk
 toolbar.wibiya.com
 www.analytic-google.com
-www.apple-updates.com
-www.blacksnake.com
-www.disney-movie.org
 www.europcareer.com
 wwwfacebook.com
 www.flashplayer-adobe.com
@@ -25,7 +19,3 @@ www.get-avast.com
 www.iphonegames3g.com
 www.jmp2click.com
 www.microsoft-update.name
-www.sunonsunday.co.uk
-www.thesunonsunday.com
-www.thesunonsunday.co.uk
-www.wwwfacebook.com
