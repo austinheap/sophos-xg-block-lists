@@ -851,6 +851,7 @@ affiliatefuel.com
 affiliatefuture.com
 affiliate.gamestop.com
 affiliate.mercola.com
+affiliate.mogs.com
 affiliate.offgamers.com
 affiliates.allposters.com
 affiliates.babylon.com
@@ -1554,7 +1555,6 @@ iconadserver.com
 icptrack.com
 idcounter.com
 identads.com
-idregie.com
 idtargeting.com
 ientrymail.com
 iesnare.com
@@ -1973,7 +1973,6 @@ pro-advertising.com
 proext.com
 profero.com
 profitrumour.com
-pro.i-doctor.co.kr
 projectwonderful.com
 promo.badoink.com
 promobenef.com
