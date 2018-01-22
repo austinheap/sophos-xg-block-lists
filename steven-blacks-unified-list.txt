@@ -30696,6 +30696,7 @@ s.effectivemeasure.net
 seg.1santa-der-mobi.com
 segapi.quantserve.com
 segling-stockholm.se
+segment.com
 segment-data.zqtk.net
 segment-pixel.invitemedia.com
 segments.adaptv.advertising.com
@@ -34184,6 +34185,7 @@ tiads.sportsillustrated.cnn.com
 tiads.timeinc.net
 tiandeural.ru
 tiasentosa.co.id
+tia.timeinc.net
 tiazi.com
 ticbeat.co
 ticker.conduit.com
