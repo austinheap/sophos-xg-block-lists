@@ -59,6 +59,9 @@ acr7.alphonso.tv
 acr8.alphonso.tv
 acr9.alphonso.tv
 acrdb.alphonso.tv
+ad.360in.com
+ad.api.kaffnet.com
+ad.click.kaffnet.com
 ads.aerserv.com
 ads.alphonso.tv
 ads.feedly.com
@@ -87,10 +90,12 @@ analytics.thevideo.me
 anayltics.kuikr.com
 an.batmobi.net
 androidads23.adcolony.com
+angiemktg.com
 anime.reactor.cc
 annualconsumersurvey.com
 api5.batmobil.net
 api.admob.xiaomi.com
+api.ad.snappea.com
 api.ad.xiaomi.com
 api.alphonso.tv
 api.d.xiaomi.com
@@ -250,6 +255,7 @@ test.e.ad.xiaomi.com
 test.new.api.ad.xiaomi.com
 tn.alphonso.tv
 torrenty-org.pl
+tracking.lenzmx.com
 tracking.miui.com
 track.tenjin.io
 tr.alphonso.tv
