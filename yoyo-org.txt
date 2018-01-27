@@ -90,6 +90,7 @@ adboost.net
 adbooth.net
 adbot.com
 adbrite.com
+adbrn.com
 adbroker.de
 adbunker.com
 adbutler.com
@@ -752,6 +753,7 @@ ads.ztod.com
 ad.tbn.ru
 ad-tech.com
 adtech.de
+adtechjp.com
 ad.technoratimedia.com
 adtechus.com
 adtegrity.net
@@ -864,6 +866,7 @@ affiliates.ultrahosting.com
 affiliatetracking.com
 affiliatetracking.net
 affiliate.travelnow.com
+affiliate.treated.com
 affiliate.viator.com
 affiliatewindow.com
 affiliation-france.com
@@ -883,6 +886,7 @@ alipromo.com
 all4spy.com
 alladvantage.com
 allosponsor.com
+alphonso.tv
 amazingcounters.com
 amazon-adsystem.com
 ambitiousagreement.com
@@ -898,6 +902,7 @@ anm.intelli-direct.com
 annonser.dagbladet.no
 an.tacoda.net
 anxiousapples.com
+apester.com
 api.intensifier.de
 app.adblockhyper.us
 appsflyer.com
@@ -925,6 +930,7 @@ audience2media.com
 audienceinsights.com
 audit.median.hu
 audit.webinform.hu
+augur.io
 auto-bannertausch.de
 autohits.dk
 avenuea.com
@@ -1049,6 +1055,7 @@ bestsearch.net
 best-top.ro
 bidclix.com
 bidclix.net
+bidr.io
 bidswitch.net
 bidtrk.com
 bidvertiser.com
@@ -1198,6 +1205,7 @@ clkads.com
 clk.konflab.com
 clkrev.com
 cloudcoins.biz
+clrstm.com
 cluster.adultworld.com
 clustrmaps.com
 cnomy.com
@@ -1493,6 +1501,7 @@ gp.dejanews.com
 gpr.hu
 grafstat.ro
 grapeshot.co.uk
+graph.instagram.com
 greetzebra.com
 greystripe.com
 gtop100.com
@@ -1637,6 +1646,7 @@ kindads.com
 kissmetrics.com
 kliks.nl
 kniverto.com
+knorex.com
 koinser.in
 komoona.com
 kompasads.com
@@ -1726,6 +1736,7 @@ mediadvertising.ro
 media.ftv-publicite.fr
 media.funpic.de
 mediageneral.com
+mediaiqdigital.com
 mediamath.com
 mediamgr.ugo.com
 mediaplazza.com
@@ -1780,12 +1791,14 @@ mowfruit.com
 mpstat.us
 mr-rank.de
 mrskincash.com
+mstrlytcs.com
 mtrcs.samba.tv
 mtree.com
 musiccounter.ru
 muwmedia.com
 myaffiliateprogram.com
 mybloglog.com
+mybuys.com
 mycounter.ua
 mypagerank.net
 mypagerank.ru
@@ -1802,6 +1815,7 @@ nastydollars.com
 navigator.io
 navrcholu.cz
 nbjmp.com
+ncaudienceexchange.com
 ndparking.com
 nedstatbasic.net
 nedstat.com
@@ -1838,6 +1852,7 @@ ntv.io
 nuggad.net
 numax.nu-1.com
 nuseek.com
+nzaza.com
 oas.benchmark.fr
 oascentral.businessweek.com
 oascentral.chicagobusiness.com
@@ -1923,6 +1938,7 @@ performancerevenue.com
 performancerevenues.com
 performancing.com
 permutive.com
+personagraph.com
 pgmediaserve.com
 pgpartner.com
 pheedo.com
@@ -1937,6 +1953,7 @@ pillscash.com
 pimproll.com
 pixel.adsafeprotected.com
 pixel.condenastdigital.com
+pixel.digitru.st
 pixel.jumptap.com
 pixel.redditmedia.com
 play4traffic.com
@@ -2092,6 +2109,8 @@ rtbpopd.com
 ru4.com
 rubiconproject.com
 rulerabbit.com
+runads.com
+rundsp.com
 ru-traffic.com
 s2d6.com
 s.adroll.com
@@ -2272,6 +2291,7 @@ targetnet.com
 targetpoint.com
 tatsumi-sys.jp
 tcads.net
+tdxio.com
 teads.tv
 techclicks.net
 teenrevenue.com
