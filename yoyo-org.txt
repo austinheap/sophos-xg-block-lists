@@ -1744,6 +1744,7 @@ mediageneral.com
 mediaiqdigital.com
 mediamath.com
 mediamgr.ugo.com
+media.net
 mediaplazza.com
 mediaplex.com
 mediascale.de
@@ -1854,6 +1855,7 @@ nexage.com
 ng3.ads.warnerbros.com
 nitroclicks.com
 novem.pl
+ns1p.net
 ntv.io
 nuggad.net
 numax.nu-1.com
@@ -2286,7 +2288,6 @@ swordfishdc.com
 sx.trhnt.com
 taboola.com
 tacoda.net
-tags.tiqcdn.com
 tagular.com
 tailsweep.com
 tailsweep.co.uk
