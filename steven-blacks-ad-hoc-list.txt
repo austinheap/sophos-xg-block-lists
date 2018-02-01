@@ -116,6 +116,7 @@ api.stats.appa.pe
 apple.com-notice.info
 applog.camera360.com
 applog.uc.cn
+apps3.cointraffic.io
 apps.id.net
 assets.alphonso.tv
 a.stat.xiaomi.com
@@ -194,6 +195,7 @@ external.stealthedeal.com
 ext.privacyassistant.net
 fcanr.tracking.miui.com
 fgoogle.com
+files.ctnet4.space
 geofence.sys.miui.com
 globalapi.ad.xiaomi.com
 goodblock.gladly.io
