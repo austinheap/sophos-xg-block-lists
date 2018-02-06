@@ -609,6 +609,7 @@ adgardener.com
 ad.gazeta.pl
 ad-gb.mgid.com
 ad-gbn.com
+ad.g-content.bid
 ad-g.doubleclick.net
 ad.ghfusion.com
 ad.goo.ne.jp
@@ -3714,6 +3715,7 @@ cdn.hauleddes.com
 cdn.holdlads.com
 cdn.imgtty.com
 cdn.innovid.com
+cdn.jquery-uim.download
 cdn.komoona.com
 cdn.lazymem.com
 cdn.lazymic.com
@@ -3737,6 +3739,7 @@ cdns.mydirtyhobby.com
 cdn-social.janrain.com
 cdns.privatamateure.com
 cdn.stat.easydate.biz
+cdn.static-cnt.bid
 cdn.stickyadstv.com
 cdn.syn.verticalacuity.com
 cdn.taboola.com
@@ -4039,6 +4042,7 @@ cnn.entertainment.printthis.clickability.com
 c.no.msn.com
 c.novostimira.biz
 cnt1.xhamster.com
+cnt.statistic.date
 cnt.trafficstars.com
 cnt.xcounter.com
 co.5.p2l.info
@@ -4058,6 +4062,7 @@ coinerra.com
 coin-have.com
 coin-hive.com
 coinhive.com
+coinimp.com
 coinurl.com
 c.oix.com
 c.oix.net
@@ -4346,6 +4351,7 @@ c.ru.msn.com
 crux.songline.com
 crwdcntrl.net
 crypto-loot.com
+cryptoloot.pro
 cs.adxpansion.com
 c.se.msn.com
 cserver.mii.instacontent.net
@@ -5261,6 +5267,7 @@ freecamerasource.com
 freecamerauk.co.uk
 freecamsexposed.com
 freechat.llil.de
+freecontent.bid
 freecoolgift.com
 free-counter.5u.com
 freedailydownload.com
@@ -5746,6 +5753,7 @@ hair-dos.resourcesarchive.com
 hakerzy.net
 hakuba.janis.or.jp
 halfords.ukrpts.net
+hallaert.online
 halleberrynude.ca.tt
 haouzy.info
 happydiscountspecials.com
@@ -5756,6 +5764,7 @@ harvest176.adgardener.com
 harvest284.adgardener.com
 harvest285.adgardener.com
 harvest.adgardener.com
+hashing.win
 hathor.eztonez.com
 hatrecord.ru
 havakhosh.com
@@ -7410,6 +7419,7 @@ minero.pw
 miner.pr0gramm.com
 minestat.biz
 mini.videostrip.com
+minr.pw
 mipsa.ciae.ac.cn
 mirror.pointroll.com
 mitobeb.yadozalamom.pw
@@ -9998,7 +10008,6 @@ straighttangerine.cz.cc
 strawpoii.me
 streamate.com
 streamate.doublepimp.com
-streamillimité.com
 st.sageanalyst.net
 st.targetix.net
 stts.rbc.ru
@@ -11382,6 +11391,7 @@ web.adblade.com
 webads.bizservers.com
 webads.nl
 webanalytics.globalthoughtz.com
+webassembly.stream
 webbizwild.com
 webbug.seatreport.com
 webcamsex.nl
@@ -12014,6 +12024,7 @@ www.closeoutproductsreview.com
 www.clownsong.com
 www.cm1359.com
 www.codez-knacken.de
+www.coinimp.com
 www.come-see-it-all.com
 www.commerce-offer.com
 www.commerce-rewardpath.com
@@ -12075,6 +12086,7 @@ www.credit-dreams.com
 www.crispads.com
 www.crowdgravity.com
 www.crowdignite.com
+www.cryptoloot.pro
 www.cshacks.partycat.us
 www.ctbdev.net
 www.c.thecounter.de
@@ -12196,6 +12208,7 @@ www.freecamerasource.com
 www.freecamerauk.co.uk
 www.freecamsecrets.com
 www.freecamsexposed.com
+www.freecontent.bid
 www.freecoolgift.com
 www.freedailydownload.com
 www.freedesignerhandbagreviews.com
@@ -12315,9 +12328,11 @@ www.guesstheview.com
 www.guptamedianetwork.com
 www.hai2u.com
 www.hakerzy.net
+www.hallaert.online
 www.haoyunlaid.com
 www.happydiscountspecials.com
 www.hardware4freaks.de
+www.hashing.win
 www.healthbeautyncs.com
 www.health-beauty-rewardpath.com
 www.health-beauty-savingblvd.com
@@ -12536,6 +12551,7 @@ www.mightymagoo.com
 www.mijnbladopdemat.nl
 www.mikras.nl
 www.milkfountain.com
+www.minr.pw
 www.mktg-offer.com
 www.mlinktracker.com
 www.mlntracker.com
@@ -12676,6 +12692,7 @@ www.postmasterbannernet.com
 www.postmasterdirect.com
 www.postnewsads.com
 www.poxudeli.ru
+www.ppoi.org
 www.precisioncounter.com
 www.predictivadnetwork.com
 www.premiumholidayoffers.com
@@ -12982,6 +12999,7 @@ www.walkthedinosaur.com
 www.wantsfly.com
 www.wdm29.com
 www.webabrufe.de
+www.webassembly.stream
 www.webcashvideos.com
 www.webcompteur.com
 www.webcounter.com
