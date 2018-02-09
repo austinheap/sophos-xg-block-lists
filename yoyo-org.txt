@@ -104,7 +104,6 @@ adcell.de
 ad-center.com
 adcenter.mdf.se
 adcenter.net
-adcentriconline.com
 ad.centrum.cz
 adcept.net
 ad.cgi.cz
@@ -425,7 +424,6 @@ ads.eatinparis.com
 ads.economist.com
 ads.edbindex.dk
 ads.egrana.com.br
-ads.einmedia.com
 ads.electrocelt.com
 ads.elitetrader.com
 ads.emirates.net.ae
