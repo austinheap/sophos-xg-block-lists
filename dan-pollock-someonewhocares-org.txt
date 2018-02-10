@@ -28,6 +28,7 @@
 123plays.com
 123specialgifts.com
 130.211.230.53
+15.basebanner.com
 17003124.xyz
 192.168.112.2o7.net
 1.adbrite.com
@@ -6093,6 +6094,7 @@ impno.tradedoubler.com
 import.globalsources.com
 imp.partner2profit.com
 imppl.tradedoubler.com
+imprammp.taboola.com
 impressionaffiliate.com
 impressionaffiliate.mobi
 impressionlead.com
@@ -11073,6 +11075,8 @@ video-stats.video.google.com
 videos.twitter.secure-logins01.com
 videos.video-loader.com
 video.theparentingvillage.com
+vidstatb.taboola.com
+vidstat.taboola.com
 view.atdmt.com
 view.avenuea.com
 view.binlayer.com
@@ -11451,6 +11455,7 @@ west.05tz2e9.com
 westjet.112.2o7.net
 wewillrocknow.com
 w.extreme-dm.com
+wf.basebanner.com
 wfussb.oewabox.at
 whentheyopened.com
 whenvideoup.thebigandfreesystemupdate.website
