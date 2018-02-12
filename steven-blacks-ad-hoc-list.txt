@@ -2,6 +2,7 @@
 2468.go2cloud.org
 2giga.link
 30-day-change.com
+4436230.fls.doubleclick.net
 abclipper-ui1.alphonso.tv
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
@@ -142,8 +143,10 @@ ccc.sys.miui.com
 cc.sys.intl.xiaomi.com
 cc.sys.miui.com
 cdn.ad.xiaomi.com
+cdnapi.kaltura.com
 cdn.beginads.com
 cdn.zarget.com
+cfvod.kaltura.com
 click.axiatraders.com
 click.elixmedia.com
 click.enatimedia.com
@@ -158,6 +161,7 @@ coinhive.com
 coinminerz.com
 coinnebula.com
 com-notice.info
+connect.facebook.net
 cruyff.alphonso.tv
 cryptocoinjs.com
 crypto-loot.com
@@ -184,6 +188,7 @@ donovan.alphonso.tv
 dsp.face2trade.com
 e.ad.xiaomi.com
 ecommerce.roboinside.me
+edge.api.brightcove.com
 elixmedia.com
 embed.sendtonews.com
 enatimedia.com
@@ -236,6 +241,7 @@ mediabarterexchange.com
 mediadirectx.com
 mediaparade.net
 metrics.adage.com
+metrics.brightcove.com
 minecrunch.co
 minemytraffic.com
 minero.pw
@@ -255,10 +261,13 @@ ozil.alphonso.tv
 oz.ministryofads.com
 pele.alphonso.tv
 performanceadexchange.com
+ping.chartbeat.net
 pixel.onaudience.com
 pixel.realclever.com
 plaimedia.com
+players.brightcove.net
 pl-v2.presage.io
+postmediamontrealgazette2.files.wordpress.com
 powertradeprofit.com
 pp.alphonso.tv
 ppjs.alphonso.tv
@@ -309,6 +318,7 @@ ssp.ad.xiaomi.com
 ssp.face2trade.com
 static.elixmedia.com
 static.reasedoper.pw
+stats.wp.com
 stealthedeal.com
 sterling.alphonso.tv
 storeconfig.mistat.intl.xiaomi.com
@@ -330,6 +340,7 @@ tradersbrokers.com
 tr.alphonso.tv
 ttwitter.com
 tvads.alphonso.tv
+tvmds.tvpassport.com
 twitter.cm
 urldelivery.com
 us-east1.serve.elixmedia.com
@@ -372,6 +383,8 @@ www.dobre-programy.pl
 www.elixmedia.com
 www.enatimedia.com
 www.face2trade.com
+www.googletagmanager.com
+www.googletagservices.com
 www.grandonmedia.com
 www.hashforcash.us
 www.indiaonclick.com
@@ -399,6 +412,7 @@ www.static.elixmedia.com
 www.support.apple.com-notice.info
 www.torrenty-org.pl
 www.tradersbrokers.com
+www.tvpassport.com
 www.urldelivery.com
 www.us-east1.serve.elixmedia.com
 www.vdtrack.com

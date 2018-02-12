@@ -226,6 +226,7 @@
 15628.hittail.com
 15694.hittail.com
 15b37.skroc.pl
+15.basebanner.com
 15bb51.info
 15minadlt.hit.gemius.pl
 15x.info
@@ -640,6 +641,7 @@
 423.ru
 4332.ws
 4360661.fls.doubleclick.net
+4436230.fls.doubleclick.net
 4488352.fls.doubleclick.net
 4514783.fls.doubleclick.net
 4560.hittail.com
@@ -11745,6 +11747,7 @@ cdn.amateurmatch.com
 cdn.amgdgt.com
 cdn-analytics.ladmedia.fr
 cdnanalytics.xyz
+cdnapi.kaltura.com
 cdn.appdynamics.com
 cdn.app.exitmonitor.com
 cdn.appround.biz
@@ -12178,6 +12181,7 @@ cfrfa.112.2o7.net
 c.fr.msn.com
 cfs-ny.com
 cfsrating.sonicwall.com
+cfvod.kaltura.com
 cfx.com.au
 cfzpwd.info
 c-gainsbourg.com
@@ -13494,6 +13498,7 @@ connatix.com
 connect.247media.ads.link4ads.com
 connect5364.com
 connect.decknetwork.net
+connect.facebook.net
 connectingsingles.com
 connectionlead.com
 connectionstrenth.com
@@ -16677,6 +16682,7 @@ eden-sexe.com
 edf.fr.kfskz.com
 edge.analytics.brightedge.com
 edge.aperture.displaymarketplace.com
+edge.api.brightcove.com
 edge.ayboll.com
 edge.bnmla.com
 edgeio.com
@@ -24490,6 +24496,7 @@ import-sales.com
 imposter.tk
 imp.partner2profit.com
 imppl.tradedoubler.com
+imprammp.taboola.com
 impresagaia.it
 imprese.cz
 impressionaffiliate.com
@@ -35512,6 +35519,7 @@ player-galleries.com
 player.movenetworks.com
 playerotica.com
 playersaid.com
+players.brightcove.net
 playfulerotica.com
 playfulshemale.com
 playfuls.uk.intellitxt.com
@@ -36553,6 +36561,7 @@ postgazettecollect.247realmedia.com
 postimees.spring-tns.net
 postmasterdirect.com
 postmedia.demdex.net
+postmediamontrealgazette2.files.wordpress.com
 post.netchina.com.cn
 postquampro.com
 postrelease.com
@@ -46617,6 +46626,7 @@ tvfanatic.us.intellitxt.com
 tv-girls.dk
 tvguide.112.2o7.net
 tv-internetowa.pl
+tvmds.tvpassport.com
 tvmtracker.com
 tvn2.adocean.pl
 tvn.adocean.pl
@@ -47840,6 +47850,8 @@ vids-24.pl
 vidsarena.com
 vidsex.com.pl
 vidsex.pl
+vidstatb.taboola.com
+vidstat.taboola.com
 vidwerks.com
 vidzi.tv
 vieille.fr
@@ -48997,6 +49009,7 @@ weyerhaeusersurvey.serveronefocusdigital.com
 wezar.de
 wfalaw.com
 wfashionmall.com
+wf.basebanner.com
 wfb.hatedriveapart.com
 wfgtech.com
 wfoto.front.ru
@@ -51398,6 +51411,7 @@ www.google-docs.org
 www.google.ienet.pl
 www-google.nl
 wwwgoogles.com
+www.googletagmanager.com
 www.googletagservices.com
 www.googlew.com
 www.googlewordpad.info
@@ -53237,6 +53251,7 @@ www.turn.com
 www.tutop.com
 www.tuttosessogratis.org
 www.tvnews.or.kr
+www.tvpassport.com
 www.tvshowslist.com
 wwwtwa.com
 www.twairlines.com
