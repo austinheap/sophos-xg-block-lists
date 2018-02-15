@@ -9438,7 +9438,6 @@ beta.ip2dns.org
 betama.ru
 beta.newopenx.detik.com
 betanews.us.intellitxt.com
-beta.spotify.map.fastly.net
 bet-at-home.com
 betblog.net
 bet.ch
@@ -18474,7 +18473,6 @@ fastjerk.com
 fastlane-adv.rubiconproject.com
 fastlane.rubiconproject.com
 fast-lost4tmz.world
-fastly.net
 fast-mac-upp.com
 fast.marthastewart.demdex.net
 fast.mtvn.demdex.net
@@ -46436,7 +46434,6 @@ trytoimprovesecurity.com
 ts1.hitbox.com
 ts2.hitbox.com
 tsan.net
-t.scdn.co
 tscl.com.bd
 t.sellpoints.com
 t.senaldos.com
