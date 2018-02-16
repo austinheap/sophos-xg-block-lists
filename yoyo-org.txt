@@ -104,6 +104,7 @@ adcell.de
 ad-center.com
 adcenter.mdf.se
 adcenter.net
+adcentriconline.com
 ad.centrum.cz
 adcept.net
 ad.cgi.cz
@@ -1109,7 +1110,6 @@ bullseye.backbeatmedia.com
 buyhitscheap.com
 buysellads.com
 buzzonclick.com
-bvalphaserver.com
 bwp.download.com
 c1exchange.com
 c1.nowlinux.com
@@ -2061,7 +2061,6 @@ ranking-id.de
 ranking-links.de
 ranking-liste.de
 rankingscout.com
-ranking-street.de
 rank-master.com
 rank-master.de
 rankyou.com
@@ -2256,7 +2255,6 @@ stats.hyperinzerce.cz
 statsie.com
 stats.merriam-webster.com
 stats.mirrorfootball.co.uk
-stats.multiup.org
 stats.olark.com
 stats.pusher.com
 stats.self.com
