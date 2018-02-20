@@ -1936,7 +1936,6 @@ ad.cibleclick.com
 ad.cl.doubleclick.net
 adclick.com
 ad.clickdistrict.com
-adclick.g.doublecklick.net
 adclick.g.doubleclick.net
 adclick.hit.gemius.pl
 ad.click.kaffnet.com
@@ -2060,7 +2059,6 @@ ad.es.doubleclick.net
 ad.espn.starwave.com
 ad.e-sport.com
 ad.eurosport.com
-adeventtracker.spotify.com
 ade.wooboo.com.cn
 adexchangedirect.com
 adexchangegate.com
@@ -2577,7 +2575,6 @@ ad.nttnavi.co.jp
 ad.ntvmsnbc.com
 ad.nwt.cz
 adnxs.com
-adnxs.comadplexmedia.adk2x.com
 adnxs.revsci.net
 ad.nz.doubleclick.net
 adn.zone-telechargement.com
@@ -3987,7 +3984,6 @@ ads.factorymedia.com
 adsfac.us
 ads.fairfax.com.au
 ads.fark.com
-ads-fa.spotify.com
 ads.faxo.com
 ads.fayettevillenc.com
 adsfeed3.brabys.co.za
@@ -6807,7 +6803,6 @@ analytics.sitewit.com
 analytics.slashdotmedia.com
 analytics.soup.io
 analytics.spongecell.com
-analytics.spotify.com
 analytics.spotta.nl
 analytics.springboardvideo.com
 analytics.stg.springboardvideo.com
@@ -7456,7 +7451,6 @@ aprddnfuzc.bid
 ap.read.mediation.pns.ap.orangeads.fr
 a.predictvideo.com
 aprendainglesya.com.ve
-apresolve.spotify.com
 a.press24.mk
 a.prisacom.com
 apronconsulting.com
@@ -7619,7 +7613,6 @@ arshard.com
 arsindia.org
 arsri.com
 arstaparkbilvard.se
-art19.com
 art-archiv.ru
 art-art-art.info
 artavenuegardenstudios.com
@@ -8052,14 +8045,12 @@ audia6.com
 audible.112.2o7.net
 audience2media.com
 audienceinsights.com
-audio2.spotify.com
 audiobangout.com
 audio.cl
 audiodeck.de
 audio.de.intellitxt.com
 audiofree.ru
 audionewz.net
-audio-sp-sto.spotify.com
 audit.median.hu
 audit.webinform.hu
 a.udorik.com
@@ -10836,7 +10827,6 @@ buzzprox.com
 buzzsumo.com
 buzzurl.jp
 buzzzg.men
-bvalphaserver.com
 bvlgariring.xyz
 bvlgariwallet.xyz
 bvnekcpa.bid
@@ -12146,6 +12136,7 @@ certifiedaudisale.com
 certifiedescorts.com
 certified-toolbar.com
 certifiedwinners.info
+certifiedwinners.today
 certify.alexametrics.com
 ce-services.co.uk
 ceskarepublika.net
@@ -13553,7 +13544,6 @@ content.adspynet.com
 content.adtegrity.net
 content.aimatch.com
 content.bannerconnect.net
-content.bitsontherun.com
 content.budsinc.com
 contentcleaner.com
 content.clipster.ws
@@ -14109,7 +14099,6 @@ craktraffic.com
 crana.ie
 cranly.net
 crash-day.ru
-crashdump.spotify.com
 crawlability.com
 crawlclocks.com
 craz.co
@@ -14277,7 +14266,6 @@ crystalshoot.in
 crystalslot.com
 crystalxxxmovies.com
 cryto-nemesis.xyz
-cs126.wpc.edgecastcdn.net
 cs1.adxpansion.com
 cs1g.com
 cs1.wpc.v0cdn.net
@@ -14603,7 +14591,6 @@ d2c8v52ll5s99u.cloudfront.net
 d2cgumzzqhgmdu.cloudfront.net
 d2cmedia.ca
 d2gatte9o95jao.cloudfront.net
-d2gi7ultltnc2u.cloudfront.net
 d2jsp.org
 d2nq0f8d9ofdwv.cloudfront.net
 d2o9ozfswytaqz.cloudfront.net
@@ -14624,7 +14611,6 @@ d3fd89.r.axf8.net
 d3oltyb66oj2v8.cloudfront.net
 d3oxtn1x3b8d7i.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
-d3rt1990lpmkn.cloudfront.net
 d3ujids68p6xmq.cloudfront.net
 d3.zedo.com
 d403.2co.jp
@@ -15200,7 +15186,6 @@ de.sitestat.com
 deskbabes.eu
 desk.mspaceads.com
 desk.opt.fimserve.com
-desktop.spotify.com
 desnudas.nu
 desperate-top.info
 desrencontresgratuites.com
@@ -21183,7 +21168,6 @@ getyourfreetv.com
 getyourgiftnow2.blogspot.com
 getyourgiftnow3.blogspot.com
 get-your-social-buttons.info
-gew1.ap.spotify.com
 geyzz.alldownloads.hapc.gdn
 gezinti.com
 gfaq.ru
@@ -21641,7 +21625,6 @@ googfle.com
 googglet.com
 googivx.webheberg.com
 google4sex.com
-googleadapis.l.google.com
 googleads2.g.doubleclick.net
 googleads4.g.doubleclick.net
 googleadservices.com
@@ -22124,7 +22107,6 @@ gtp16.acecounter.com
 gtp1.acecounter.com
 gtradersoft.com
 gts-ads.twistbox.com
-gtssl2-ocsp.geotrust.com
 gttr.hit.gemius.pl
 gttrngwnuuvy.bid
 gu.5.p2l.info
@@ -28020,7 +28002,6 @@ logs.comics.com
 logs.eresmas.com
 logs.eresmas.net
 logs.loggly.com
-log.spotify.com
 logs.sexy-parade.com
 logs.spilgames.com
 log.statistici.ro
@@ -28117,7 +28098,6 @@ lomb.co
 lombia.co
 lombia.com
 lomza.info
-lon6-accesspoint-a33.lon6.spotify.com
 london-escort-model.com
 londongaymassage.co.uk
 londonlayovertours.com
@@ -33324,7 +33304,6 @@ omasex-porno.nl
 oma-telefon-sex.de.lv
 oma-titten.de.lv
 oma.xt5.de
-omaze.com
 om.blockbuster.com
 om.businessweek.com
 om.cbsi.com
@@ -37843,7 +37822,6 @@ rankingkwiaciarni.pl
 ranking-links.de
 ranking-liste.de
 rankingscout.com
-ranking-street.de
 rankinoutlet.com
 rank-master.com
 rank-master.de
@@ -38145,7 +38123,6 @@ redirect.hotkeys.com
 redirectingat.com
 re-directme.com
 redirectme.net
-redirector.gvt1.com
 re.directrev.com
 redirects.coldhardcash.com
 redirect-secure.return128appl.com
@@ -40139,7 +40116,6 @@ seekbang.com
 seek-zone.com
 seemlessfixing.tech
 seemoreresultshu-a.akamaihd.net
-seen-on-screen.thewhizmarketing.com
 seeques.com
 seereederei-frigga.de
 seeresultshub-a.akamaihd.net
@@ -40151,7 +40127,6 @@ s.effectivemeasure.net
 seg.1santa-der-mobi.com
 segapi.quantserve.com
 segling-stockholm.se
-segment.com
 segment-data.zqtk.net
 segment-pixel.invitemedia.com
 segments.adaptv.advertising.com
@@ -40347,7 +40322,6 @@ server3.web-stat.com
 server3.yieldmanaged.com
 server4.opentracker.net
 server4.web-stat.com
-server-54-230-216-203.mrs50.r.cloudfront.net
 server5.opentracker.net
 server6.opentracker.net
 server7.opentracker.net
@@ -42370,7 +42344,6 @@ spb-plitka.ru
 spb.ru
 spc.cefhdghhafdgceifiehdfdad.iban.telemetryverification.net
 spc.cekfmeoejdbfcfichgbfcgjf.vast2as3.glammedia-pubnet.northamerica.telemetryverification.net
-spclient.wg.spotify.com
 spc-maker.com
 spcode.baidu.com
 spd.atdmt.com
@@ -43170,7 +43143,6 @@ stats.metacount.com
 stats.mezzobit.com
 stats.millanusa.com
 stats.mirrorfootball.co.uk
-stats.multiup.org
 stats.mvilivestats.com
 stats.netsolads.com
 stats-newyork1.bloxcms.com
@@ -47119,8 +47091,6 @@ updo.nl
 upfist.com
 upgradeclothing.com.ng
 upgradenote.enterbestforupdating.bid
-upgrade.scdn.co
-upgrade.spotify.com
 upheaven.com
 upi.112.2o7.net
 upi.us.intellitxt.com
@@ -47232,7 +47202,6 @@ us.b1.yimg.com
 usbank.tt.omtrdc.net
 usbuycialisonline.fe.pl
 us.c1.yimg.com
-u.scdn.co
 us-cdn.effectivemeasure.net
 uscentral17.myserverhosts.com
 us-choicevalue.com
@@ -48020,7 +47989,6 @@ vivi8.com
 vividtv.net
 vizag.kharkov.ua
 vizitkarte.ws
-v.jwpcdn.com
 vk.18sexporn.ru
 vk2ca.com
 vkak.ru
@@ -48738,7 +48706,6 @@ webinstantservice.com
 webiq005.webiqonline.com
 webix.me
 webjam.com
-weblb-wg.gslb.spotify.com
 web.life-line.in.ua
 weblink.settrade.com
 webload101.hitbox.com
@@ -52221,7 +52188,6 @@ www.oldceltoiradio.de
 www-old.nastydollars.com
 wwwoldnavy.com
 www.oligamodel.com
-www.omaze.com
 www.omnicleaningservices.com
 www.omniture.com
 www.on2url.com
