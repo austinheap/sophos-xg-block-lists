@@ -17,6 +17,7 @@ adminer.com
 analytics.blue
 andlache.com
 api.inwemo.com
+axoncoho.tk
 azvjudwr.info
 bablace.com
 baiduccdn1.com
@@ -54,12 +55,14 @@ crypto-webminer.com
 crywebber.github.io
 cryweb.github.io
 d.cpufan.club
+depttake.ga
 dev.cryptobara.com
 didnkinrab.com
 digger.cryptobara.com
 dronml.ml
 evengparme.com
 flare-analytics.com
+flophous.cf
 g-content.bid
 go2.mercy.ga
 go.megabanners.cf
@@ -79,6 +82,7 @@ jscdndel.com
 jyhfuqoh.info
 kdowqlpt.info
 kedtise.com
+kippbeak.cf
 krb.devphp.org.ua
 ledhenone.com
 ledinund.com
@@ -111,6 +115,7 @@ node.cfcdist.gdn
 okeyletsgo.ml
 p1.interestingz.pw
 papoto.com
+pasoherb.gq
 pearno.com
 p.estream.to
 playerassets.info
