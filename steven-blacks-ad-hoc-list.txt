@@ -168,6 +168,7 @@ crypto-loot.com
 cryptonight.wasm
 cvent.axiatraders.com
 d.applovin.com
+darkpage.win
 dasdada.fu.ck
 dashboards.alphonso.tv
 data.cnn.com
@@ -310,6 +311,7 @@ sf3.east.kobenetwork.com
 sf-3.st.adtekmedia.com
 silva.alphonso.tv
 sionicmedia.com
+sixstitch.win
 socrates.alphonso.tv
 specialsections.siteseer.ca
 sportsinteraction.com

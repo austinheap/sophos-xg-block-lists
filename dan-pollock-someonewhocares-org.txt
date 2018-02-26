@@ -4533,6 +4533,7 @@ dev.hitbox.com
 devlp1.linkpulse.com
 dev.sfbg.com
 devshed.us.intellitxt.com
+dev.visualwebsiteoptimizer.com
 dgit.com
 dgm2.com
 dgmaustralia.com
@@ -6091,6 +6092,7 @@ impgb.tradedoubler.com
 impie.tradedoubler.com
 impit.tradedouble.com
 impit.tradedoubler.com
+impl.onscroll.com
 impnl.tradedoubler.com
 impno.tradedoubler.com
 import.globalsources.com
@@ -10132,6 +10134,7 @@ tags.bkrtx.com
 tags.bluekai.com
 tags.expo9.exponential.com
 tags.hypeads.org
+tags.onscroll.com
 tags.rllcll.com
 tags.tagcade.com
 tags.toroadvertising.com
@@ -11788,6 +11791,7 @@ www.ads234.com
 www.ads2srv.com
 www.ads345.com
 www.adscience.nl
+www.adsensecustomsearchads.com
 www.adsentnetwork.com
 www.adserver.co.il
 www.adserver.com
@@ -13000,6 +13004,7 @@ www.view4cash.de
 www.vippotexa.ru
 www.vipromoffers.com
 www.virtumundo.com
+www.visualwebsiteoptimizer.com
 www.vmcsatellite.com
 www.vomitgirl.org
 www.voucher-for-you.online
