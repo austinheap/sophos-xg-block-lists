@@ -103,6 +103,7 @@ androidads23.adcolony.com
 angiemktg.com
 anime.reactor.cc
 annualconsumersurvey.com
+aoredi.com
 api5.batmobil.net
 api.admob.xiaomi.com
 api.ad.snappea.com
@@ -134,6 +135,7 @@ bjorksta.men
 blog.alphonso.tv
 blog.roboinside.me
 breaksurvey.com
+btds.artplay.info
 buzzclicks.com
 bwlkup.alphonso.tv
 c.adskeeper.co.uk
@@ -202,6 +204,7 @@ ext.privacyassistant.net
 fcanr.tracking.miui.com
 fgoogle.com
 files.ctnet4.space
+gamblerush.com
 geofence.sys.miui.com
 globalapi.ad.xiaomi.com
 goodblock.gladly.io
@@ -212,6 +215,7 @@ hosted.stats.com
 hosted.stats.com.edgesuite.net
 howupdateworks.amazingupdates4youtoday.website
 i1.dl-ad.com
+imysurvey.com
 indiaonclick.com
 insights.alphonso.tv
 jackbootedroom.com
@@ -304,6 +308,7 @@ sdkconfig.ad.xiaomi.com
 sdklogs.avocarrot.com
 sdktm.w.inmobi.com
 sebder.roboinside.me
+security-check-551.com
 server.jsecoin.com
 service.face2trade.com
 sf-3.east.kobenetwork.com
@@ -360,6 +365,7 @@ www.adsflame.com
 www.adtekmedia.com
 www.alliance4media.com
 www.alphonso.tv
+www.aoredi.com
 www.api.alphonso.tv
 www.apple.com-notice.info
 www.axiatraders.com
@@ -367,6 +373,7 @@ www.banners.mediaparade.net
 www.beginads.com
 www.bigsharkmedia.com
 www.bjorksta.men
+www.btds.artplay.info
 www.buzzclicks.com
 www.canuck-method.com
 www.chacomedia.com
@@ -375,6 +382,7 @@ www.clickopon.com
 www.coin-have.com
 www.coinhive.com
 www.com-notice.info
+www.cpm20.com
 www.cryptocoinjs.com
 www.crypto-loot.com
 www.deepc.cc
@@ -384,10 +392,12 @@ www.dobre-programy.pl
 www.elixmedia.com
 www.enatimedia.com
 www.face2trade.com
+www.gamblerush.com
 www.googletagmanager.com
 www.googletagservices.com
 www.grandonmedia.com
 www.hashforcash.us
+www.imysurvey.com
 www.indiaonclick.com
 www.jsecoin.com
 www.k5market.com
@@ -406,6 +416,7 @@ www.quickcash-system.com
 www.roboinside.me
 www.rocks.io
 www.rotator.buzzclicks.com
+www.security-check-551.com
 www.sf-3.st.adtekmedia.com
 www.sionicmedia.com
 www.sportsinteraction.com
@@ -417,6 +428,7 @@ www.tvpassport.com
 www.urldelivery.com
 www.us-east1.serve.elixmedia.com
 www.vdtrack.com
+www.www.cpm20.com
 xml.plaimedia.com
 yashin.alphonso.tv
 zamora.axiatraders.com
