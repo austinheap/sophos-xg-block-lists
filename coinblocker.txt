@@ -252,6 +252,7 @@ dashboard.monerise.com
 db.xmrpool.net
 d.cfcdist.gdn
 d.cfcnet.gdn
+d.cfcnet.top
 d.cpufan.club
 de.cookiescript.info
 deepc.cc
@@ -556,6 +557,7 @@ ns2.cryptosearch.site
 ns2.cryptotab.net
 ns2.mutuza.win
 nullrefexcep.com
+nunu-001.now.sh
 ny7f6goy.bid
 ocean.cryptoloot.pro
 oc.monerise.com
@@ -629,7 +631,6 @@ px2.papoto.com
 questionfly.com
 r8nu86wg.me
 rapidvideo.com
-rawgit.com
 reasedoper.pw
 refresh-js.bitbucket.io
 refunevent.com
@@ -777,6 +778,7 @@ vg02h8z1ul.me
 viaxmr.com
 vidfile.net
 vidzi.tv
+vip.cfcnet.top
 vjcyehtqm9.me
 vl8c4g7tmo.me
 vxelkrhl.info
