@@ -123,7 +123,6 @@ ad.crwdcntrl.net
 adcycle.com
 addfreestats.com
 ad.digitallook.com
-ad.directrev.com
 addme.com
 add.newmedia.cz
 ad.doctissimo.fr
@@ -197,7 +196,6 @@ adk2ads.tictacti.com
 adk2.com
 ad.keenspace.com
 adland.ru
-adlantic.nl
 ad.leadbolt.net
 adledge.com
 adlegend.com
@@ -941,7 +939,6 @@ autohits.dk
 avenuea.com
 avocet.io
 avpa.javalobby.org
-avres.net
 avsads.com
 avzadsrv.com
 awempire.com
@@ -1049,7 +1046,6 @@ baypops.com
 bbelements.com
 bbn.img.com.ua
 beamincrease.com
-beamkite.com
 begun.ru
 behavioralengine.com
 belstat.com
@@ -1135,6 +1131,7 @@ casinopays.com
 casinorewards.com
 casinotraffic.com
 casinotreasure.com
+casterist.info
 cbanners.virtuagirlhd.com
 c.bigmir.net
 cbmall.com
@@ -1156,7 +1153,6 @@ checkstat.nl
 cherrythread.com
 chestionar.ro
 chiefcurrent.com
-chinchickens.com
 chitika.net
 ch.questionmarket.com
 christingel.com
@@ -1224,7 +1220,6 @@ coinhive.com
 cointraffic.io
 colonize.com
 comclick.com
-commandwalk.com
 commindo-media-ressourcen.de
 commissionmonster.com
 compactbanner.com
@@ -1291,7 +1286,6 @@ criteo.com
 critictruck.com
 croissed.info
 crowdgravity.com
-crownclam.com
 crtv.mate1.com
 crwdcntrl.net
 ctnet2.in
@@ -1316,7 +1310,6 @@ dealdotcom.com
 debtbusterloans.com
 decisiveducks.com
 decknetwork.net
-delightdriving.com
 deloo.de
 deloton.com
 demandbase.com
@@ -1326,7 +1319,6 @@ di1.shopping.com
 dialerporn.com
 dianomi.com
 didtheyreadit.com
-differentdesk.com
 digital-ads.s3.amazonaws.com
 digitalmerkat.com
 directaclick.com
@@ -1640,7 +1632,6 @@ ivwbox.de
 ivykiosk.com
 i.xx.openx.com
 jcount.com
-jewelcheese.com
 jinkads.de
 joetec.net
 joneself.com
@@ -1920,7 +1911,6 @@ ordingly.com
 ota.cartrawler.com
 otto-images.developershed.com
 outbrain.com
-ovalpigs.com
 overture.com
 owebmoney.ru
 owneriq.net
@@ -1941,7 +1931,6 @@ partner-ads.com
 partnercash.de
 partner.pelikan.cz
 partners.priceline.com
-partner.topcities.com
 passion-4.net
 pay-ads.com
 paycounter.com
@@ -2193,7 +2182,6 @@ shoppingads.com
 sidebar.angelfire.com
 simpli.fi
 simplisticnose.com
-sinceresofa.com
 sinoa.com
 sitemeter.com
 sitestat.com
@@ -2286,7 +2274,6 @@ stormysponge.com
 straightnest.com
 stream4fun.com
 strivesidewalk.com
-structuresofa.com
 subscribe.hearstmags.com
 succeedscene.com
 sugoicounter.com
@@ -2340,7 +2327,6 @@ thrnt.com
 throattrees.com
 thruport.com
 tia.timeinc.net
-tidytrail.com
 t.insigit.com
 tinybar.com
 tinypass.com
@@ -2455,7 +2441,6 @@ userreplay.com
 userreplay.net
 utarget.co.uk
 utils.mediageneral.net
-utlpwxdt.com
 v1.cnzz.com
 validclick.com
 valuead.com
