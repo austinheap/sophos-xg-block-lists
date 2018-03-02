@@ -82,6 +82,7 @@ a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
 aqqgli3vle.bid
 as1.cfcnet.gdn
+as.cfcdist.loan
 as.cfcnet.top
 aservices.party
 asia1.cpufan.club
@@ -157,6 +158,7 @@ cdn.static-cnt.bid
 cdns.ws
 cfcd.duckdns.org
 cfcdist.gdn
+cfcdist.loan
 cfceu.duckdns.org
 cfcnet.gdn
 cfcnet.top
@@ -307,6 +309,7 @@ eu1.cpufan.club
 eu2.cfcnet.gdn
 eu2.cpufan.club
 eu2.monerise.com
+eu.cfcdist.loan
 eu.cfcnet.top
 eu.hatevery.info
 eu.monerise.com
@@ -340,6 +343,7 @@ freecontent.racing
 freecontent.stream
 fresh-js.bitbucket.io
 freshrefresher.com
+fruitice.realnetwrk.com
 ftp.coinhive-manager.com
 ftp.coinlab.biz
 full.pr0gramm.com
@@ -466,6 +470,7 @@ main.xmrpool.net
 manila-1.xmrpool.net
 m.anyfiles.ovh
 marcycoin.org
+marta-js.github.io
 mas-onjs.github.io
 mataharirama.xyz
 mebablo.com
@@ -672,6 +677,7 @@ server.adless.io
 server.jsecoin.com
 s.gus.host
 shrink-service.it
+silimbompom.com
 silver.crypto.csgocpu.com
 singapore01.monero.hashvault.pro
 site.coinnebula.com
@@ -729,6 +735,7 @@ sxcdn4.now.sh
 sxcdn5.herokuapp.com
 sxcdn6.now.sh
 sydney01.monero.hashvault.pro
+synconnector.com
 t.analytics.blue
 tazm9p7tso.trade
 techhome-js.github.io
@@ -751,6 +758,7 @@ toftofcal.com
 tokyodrift.ga
 tor.monerise.com
 tracking.freebitco.in
+traffic-optical-service.info
 traffic.tc-clicks.com
 tubetitties.com
 tulip18.com
@@ -763,6 +771,7 @@ us1.monerise.com
 us2.cfcnet.gdn
 us2.monerise.com
 us3.cpufan.club
+us.cfcdist.loan
 us.cfcnet.gdn
 us.cfcnet.top
 us.moneroocean.stream
