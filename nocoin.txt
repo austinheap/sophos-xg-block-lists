@@ -17,6 +17,7 @@ adminer.com
 analytics.blue
 andlache.com
 api.inwemo.com
+authedmine.eu
 axoncoho.tk
 azvjudwr.info
 bablace.com
@@ -121,6 +122,7 @@ p.estream.to
 playerassets.info
 plexcoin.info
 ppoi.org
+pr0gram.org
 projectpoi.com
 renhertfo.com
 reservedoffers.club
