@@ -2660,7 +2660,6 @@ amrytt.adk2x.com
 ams1-ib.adnxs.com
 ams1.ib.adnxs.com
 amscdn.btrll.com
-a-msedge.net
 analysis.fc2.com
 analytics.admob.com
 analytics.ku6.com
@@ -7531,7 +7530,6 @@ mrjeweller.us
 mrtg.hitbox.com
 ms127.0.0.101341.club
 ms.5.p2l.info
-msedge.net
 mseuppremain.112.2o7.net
 msgstore2.pldtprv.net
 mshelp247.weebly.com
