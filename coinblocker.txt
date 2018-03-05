@@ -204,6 +204,7 @@ coin-hive-proxy-ybydcnjgkl.now.sh
 coinhiver.com
 coinhives.com
 coinhove.com
+coinhub.win
 coinimp.com
 coinive.com
 coinjive.com
@@ -284,6 +285,7 @@ doubleclick4.xyz
 doubleclick5.xyz
 doubleclick6.xyz
 dronml.ml
+dzizsih.ru
 earncoins.club
 easyhash.io
 ebd.cda.pl
@@ -305,6 +307,7 @@ et-code.ru
 etn.cpufan.club
 etnpool.minekitten.io
 etn.spacepools.org
+etzbnfuigipwvs.ru
 eu1.cfcnet.gdn
 eu1.cpufan.club
 eu2.cfcnet.gdn
@@ -567,10 +570,12 @@ nullrefexcep.com
 nunu-001.now.sh
 ny7f6goy.bid
 ocean.cryptoloot.pro
+ocean.webmine.pro
 oc.monerise.com
 offerreality.com
 ogrid.org
 ohac.github.io
+okexysylgzo.ru
 okeyletsgo.ml
 oload.info
 onion.top
@@ -649,6 +654,7 @@ rineventrec.com
 rintindown.com
 rintinwa.com
 rocks.io
+rock.webmine.pro
 ron.si
 rot.ron.si
 rowherthat.ru
@@ -662,14 +668,17 @@ s2.analytics.blue
 s3.analytics.blue
 s3.gasolina.ml
 s3.minexmr.com
+saas.webmine.pro
 safelinkconverter.com
 salamaleyum.com
 sa.monerise.com
 s.analytics.blue
+sass.webmine.pro
 sbhmn-miner.com
 sea.cryptoloot.pro
 seasonaloffers.club
 seattle01.monero.hashvault.pro
+sea.webmine.pro
 secumine.net
 sen-to-zdrowie.ml
 sentry.nullrefexcep.com
@@ -720,6 +729,7 @@ stats.minexmr.com
 status.minexmr.com
 st.kjli.fi
 stonecalcom.com
+stone.webmine.pro
 stream.nullrefexcep.com
 streamplay.top
 subloader.cf
@@ -747,6 +757,7 @@ test.cryptonoter.com
 test.minr.pw
 testnet-api.xmrpool.net
 testnet.webxmr.com
+tgtvbngp.ru
 thathislitt.ru
 thatresha.com
 theappguruz.com
@@ -768,6 +779,7 @@ turnsocial.com
 turnsocial.now.sh
 uebawtz7.me
 ullnot.download
+unrummaged.com
 us1.cfcnet.gdn
 us1.monerise.com
 us2.cfcnet.gdn
@@ -1227,6 +1239,7 @@ www.coinerra.com
 www.coin-have.com
 www.coinhive.com
 www.coinhive-manager.com
+www.coinhub.win
 www.coinimp.com
 www.coinlab.biz
 www.coinpot.co
@@ -1256,6 +1269,7 @@ www.minexmr.com
 www.minr.pw
 www.monerise.com
 www.monero.crypto-pool.fr
+www.monero-miner.com
 www.monerominer.rocks
 www.moneroocean.stream
 www.monkeyminer.net
@@ -1273,6 +1287,7 @@ www.sparechange.io
 www-tb7c.pr0gramm.com
 www.test.cryptonoter.com
 www.viaxmr.com
+www.webmine.pro
 www.ws.freebitco.in
 www.wsnew.freebitco.in
 www.wty46.com
