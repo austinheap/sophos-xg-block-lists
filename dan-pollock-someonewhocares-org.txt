@@ -9255,6 +9255,7 @@ sazadubo48.bid
 s.baidu.com
 sb.freeskreen.com
 s.boom.ro
+sb.scorecardresearch.com
 sc10.net
 sc1.admob.com
 sc.5.p2l.info
