@@ -3518,6 +3518,7 @@ ca4.revieworbit.com
 ca.5.p2l.info
 ca.adserver.yahoo.com
 cablevision.112.2o7.net
+cablyshaw.com
 cache.addthiscdn.com
 cache.addthis.com
 cache.adm.cnzz.net
@@ -6508,6 +6509,7 @@ ky.5.p2l.info
 l2.l.qq.com
 l.5min.com
 la.5.p2l.info
+lacableshaw.com
 ladieshj.112.2o7.net
 l.admob.com
 ladyclicks.ru
@@ -12019,6 +12021,7 @@ www.buzzadnetwork.com
 www.buzzonclick.com
 www.c1.thecounter.de
 www.c2.thecounter.de
+www.cablyshaw.com
 www.cadaver.org
 www.cafecoquin.com
 www.cam4.fr
