@@ -81,7 +81,6 @@ adap.tv
 ad.auditude.com
 ad-balancer.at
 ad-balancer.net
-adbanner.ro
 adbard.net
 ad.bizo.com
 adblade.com
@@ -531,7 +530,6 @@ ads.goyk.com
 ads.gplusmedia.com
 ads.gradfinder.com
 ads.grindinggears.com
-ads.groundspeak.com
 ads.gsm-exchange.com
 ads.gsmexchange.com
 ads.guardian.co.uk
@@ -669,7 +667,6 @@ adsrv.iol.co.za
 adsrvr.org
 ads.s3.sitepoint.com
 ads.satyamonline.com
-ads.savannahnow.com
 ads.saymedia.com
 ads.scifi.com
 ads.seniorfriendfinder.com
@@ -731,7 +728,6 @@ ads.web.cs.com
 ads.web.de
 ads.webmasterpoint.org
 ads.websiteservices.com
-ads.whi.co.nz
 ads.whoishostingthis.com
 ads.wiezoekje.nl
 ads.wikia.nocookie.net
@@ -1281,7 +1277,6 @@ crazypopups.com
 creafi-online-media.com
 creatives.as4x.tmcs.net
 creatives.livejasmin.com
-creative.whi.co.nz
 credishe.com
 crispads.com
 criteo.com
@@ -2605,4 +2600,3 @@ zeus.developershed.com
 zintext.com
 zmedia.com
 zqtk.net
-zv1.november-lax.com
