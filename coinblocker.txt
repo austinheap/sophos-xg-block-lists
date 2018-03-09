@@ -1,4 +1,5 @@
 0aqpqdju.me
+0x1f4b0.com
 1480876790.rsc.cdn77.org
 1beb2a44.space
 1q2w3.fun
@@ -31,6 +32,7 @@ adless.io
 admin.cpufan.club
 ad-miner.com
 adminer.com
+adrenali.gq
 aeon.hashvault.pro
 afflow.18-plus.net
 afminer.com
@@ -38,6 +40,7 @@ ait7ee.win
 ajplugins.com
 aleinvest.xyz
 alemoney.xyz
+altavista.ovh
 altpool.pro
 america.monerise.com
 analytics.blue
@@ -58,6 +61,7 @@ api.3c0cb3b4.space
 api.3d0cb547.space
 api.aeon.hashvault.pro
 api-backup.viaxmr.com
+api.bhzejltg.info
 apib.monerise.com
 api.coinerra.com
 api.coinhive.com
@@ -74,6 +78,7 @@ api.monero.hashvault.pro
 api.moneroocean.stream
 apin.monerise.com
 api.ppoi.org
+api.pzoifaum.info
 api.sumo.hashvault.pro
 api.sumokoin.hashvault.pro
 api.viaxmr.com
@@ -114,6 +119,7 @@ beta.coinrail.io
 beta.monerise.com
 bewaslac.com
 bewhoyouare.gq
+bhzejltg.info
 biberukalap.com
 bitcoiner.win
 bizoninvest.com
@@ -473,6 +479,7 @@ main.minero.cc
 main.xmrpool.net
 manila-1.xmrpool.net
 m.anyfiles.ovh
+march-js.github.io
 marcycoin.org
 marta-js.github.io
 mas-onjs.github.io
@@ -575,6 +582,7 @@ oc.monerise.com
 offerreality.com
 ogrid.org
 ohac.github.io
+oinkinns.tk
 okexysylgzo.ru
 okeyletsgo.ml
 oload.info
@@ -640,9 +648,11 @@ p.tidafors.xyz
 punchsub.net
 px1.papoto.com
 px2.papoto.com
+pzoifaum.info
 questionfly.com
 r8nu86wg.me
 rapidvideo.com
+realnetwrk.com
 reasedoper.pw
 refresh-js.bitbucket.io
 refunevent.com
@@ -1058,6 +1068,7 @@ ws1.bmst.pw
 ws1.coin-have.com
 ws1.g-content.bid
 ws1.minr.pw
+ws1.stati.bid
 ws1.static-cnt.bid
 ws1.statistic.date
 ws20.crypto-loot.com
@@ -1086,6 +1097,7 @@ ws2.bmnr.pw
 ws2.bmst.pw
 ws2.coin-have.com
 ws2.g-content.bid
+ws2.stati.bid
 ws2.statistic.date
 ws30.crypto-loot.com
 ws3.1beb2a44.space
@@ -1189,6 +1201,7 @@ ws9.360caa42.space
 ws9.3c0cb3b4.space
 ws9.3d0cb547.space
 ws9.coin-have.com
+ws.bhzejltg.info
 ws-ca-01.rocks.io
 ws-de-01.rocks.io
 ws-de-02.rocks.io
@@ -1202,9 +1215,11 @@ ws.freebitco.in
 ws.l33tsite.info
 wsnew.freebitco.in
 wsp.marketgid.com
+ws.pzoifaum.info
 wss-1.monerise.com
 wss-2.monerise.com
 wss.nablabee.com
+wss.stati.bid
 ws.tidafors.xyz
 ws.xmrm.pw
 ws.xmrpool.net
@@ -1284,6 +1299,7 @@ www.ppoi.org
 www.rocks.io
 www.sbhmn-miner.com
 www.sparechange.io
+www.stati.bid
 www-tb7c.pr0gramm.com
 www.test.cryptonoter.com
 www.viaxmr.com
