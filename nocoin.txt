@@ -150,9 +150,11 @@ wsp.marketgid.com
 wss.nablabee.com
 www2.adfreetv.ch
 www.cryptonoter.com
+www.datasecu.download
 www.freecontent.bid
 www.freecontent.loan
 www.freecontent.win
+www.jquery-cdn.download
 www.monero-miner.com
 www.monkeyminer.net
 www.mutuza.win
