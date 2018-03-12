@@ -84,6 +84,7 @@ api.sumokoin.hashvault.pro
 api.viaxmr.com
 api.xmrpool.net
 app.pr0gramm.com
+april-js.github.io
 a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
 aqqgli3vle.bid
@@ -148,6 +149,7 @@ carrel.services
 cdjs.online
 cdn2.inwemo.com
 cdn.adless.io
+cdn.ajcryptominer.com
 cdn-analytics.pl
 cdn.cloudcoins.co
 cdn-code.host
@@ -259,6 +261,7 @@ d3ddidv77grh0f.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
 dashboard.inwemo.com
 dashboard.monerise.com
+datasecu.download
 db.xmrpool.net
 d.cfcdist.gdn
 d.cfcnet.gdn
@@ -274,6 +277,8 @@ dero.monerise.com
 devappgrant.space
 dev.coinlab.biz
 dev.cryptobara.com
+dev.fortrader.ru
+dev.ratingtoplist.com
 didnkinrab.com
 digger.cryptobara.com
 digxmr.com
@@ -334,10 +339,15 @@ fbtc-audio.freebitco.in
 fbtc-uab.freebitco.in
 ffjk.space
 fge9vbrzwt.bid
+files.fortrader.ru
 fili.tv
+financeforum.ru
+firmware.center
 flare-analytics.com
 flophous.cf
 formulawire.com
+fortrader.ru
+foxx.to
 fr1.monerise.com
 frankfurt01.monero.hashvault.pro
 frankfurt-1.xmrpool.net
@@ -358,6 +368,7 @@ ftp.coinhive-manager.com
 ftp.coinlab.biz
 full.pr0gramm.com
 futeboltv.com
+fxnow.ru
 gasolina.ml
 g-content.bid
 gemius.pl
@@ -395,6 +406,7 @@ hatcalter.com
 hatevery.info
 hegrinhar.com
 hemnes.win
+hhb123.tk
 hit.gemius.pl
 hive.tubetitties.com
 hiy.vidzi.tv
@@ -423,6 +435,7 @@ jhondi33.duckdns.org
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
+jquery-cdn.download
 jquery-uim.download
 jroqvbvw.info
 jsccnn.com
@@ -642,6 +655,7 @@ proxy7.nullrefexcep.com
 proxy8.nullrefexcep.com
 proxy9.nullrefexcep.com
 proxy-ajcryptominer.ajplugins.com
+proxy.ajcryptominer.com
 proxy-khlizawelj.now.sh
 proxy.nullrefexcep.com
 p.tidafors.xyz
@@ -652,6 +666,7 @@ pzoifaum.info
 questionfly.com
 r8nu86wg.me
 rapidvideo.com
+ratingtoplist.com
 realnetwrk.com
 reasedoper.pw
 refresh-js.bitbucket.io
@@ -700,6 +715,7 @@ s.gus.host
 shrink-service.it
 silimbompom.com
 silver.crypto.csgocpu.com
+simpleco.in
 singapore01.monero.hashvault.pro
 site.coinnebula.com
 siteverification.online
@@ -781,8 +797,12 @@ toftofcal.com
 tokyodrift.ga
 tor.monerise.com
 tracking.freebitco.in
+traffic-gate-service.info
+traffic-info-service.info
 traffic-optical-service.info
+traffic-service.info
 traffic.tc-clicks.com
+traffic-tech-service.info
 tubetitties.com
 tulip18.com
 turnsocial.com
@@ -1239,6 +1259,7 @@ www7.2giga.link
 www.adless.io
 www.ad-miner.com
 www.adminer.com
+www.ajcryptominer.com
 www.analytics.blue
 www.authedmine.com
 www.bablace.com
@@ -1266,6 +1287,7 @@ www.cryptoloot.pro
 www.cryptonoter.com
 www.crypto-pool.fr
 www.cryptotab.net
+www.fortrader.ru
 www.freebitco.in
 www.freecontent.bid
 www.gus.host
