@@ -73,6 +73,7 @@ ads.grandonmedia.com
 ads.mp.mydas.mobi
 adsmws.cloudapp.net
 ads.nexage.com
+ads.proc.cc
 adtekmedia.com
 adv.axiatraders.com
 adv.grandonmedia.com
