@@ -639,6 +639,7 @@ pool.coinrail.io
 pool.cryptonoter.com
 pool-de.supportxmr.com
 pool.electroneum.hashvault.pro
+pool.graft.hashvault.pro
 pool.intense.hashvault.pro
 pool.minexmr.com
 pool.monero.hashvault.pro
