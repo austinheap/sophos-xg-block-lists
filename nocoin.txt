@@ -101,6 +101,7 @@ load.jsecoin.com
 losital.ru
 m.anyfiles.ovh
 mebablo.com
+mepirtedic.com
 minemytraffic.com
 mine.nahnoji.cz
 miner.cryptobara.com
@@ -139,6 +140,7 @@ reservedoffers.club
 rintindown.com
 rintinwa.com
 rocks.io
+s2.appelamule.com
 smectapop12.pl
 sparnove.com
 staticsfs.host
