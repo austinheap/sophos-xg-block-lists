@@ -268,7 +268,6 @@ adplxmd.com
 ad.preferances.com
 adprofile.net
 ad.profiwin.de
-adprojekt.pl
 ad.prv.pl
 adq.nextag.com
 ad.rambler.ru
@@ -858,6 +857,7 @@ affiliates.babylon.com
 affiliates.digitalriver.com
 affiliates.globat.com
 affiliates.internationaljock.com
+affiliates.rozetka.com.ua
 affiliates.streamray.com
 affiliates.thinkhost.net
 affiliates.thrixxx.com
@@ -871,6 +871,7 @@ affiliatewindow.com
 affiliation-france.com
 affili.net
 afftracking.justanswer.com
+afterview.ru
 agreemand.com
 ahalogy.com
 ah-ha.com
@@ -1477,6 +1478,7 @@ fuzzyflavor.com
 fxstyle.net
 g3j2wzmon8b.com
 ga87z2o.com
+ga.clearbit.com
 galaxien.com
 game-advertising-online.com
 gamehouse.com
@@ -1620,7 +1622,6 @@ instinctiveads.com
 intelliads.com
 intellitxt.com
 interactive.forthnet.gr
-intercom.com
 intergi.com
 internetfuel.com
 interreklame.de
@@ -1706,7 +1707,6 @@ log.btopenworld.com
 logger.snackly.co
 logrocket.com
 logua.com
-looker.com
 lop.com
 lopsidedspoon.com
 loudloss.com
@@ -1905,6 +1905,7 @@ onlinecash.com
 onlinecashmethod.com
 online-metrix.net
 onlinerewardcenter.com
+onscroll.com
 openads.friendfinder.com
 openads.org
 openad.tf1.fr
@@ -2073,6 +2074,7 @@ ranking-id.de
 ranking-links.de
 ranking-liste.de
 rankingscout.com
+ranking-street.de
 rank-master.com
 rank-master.de
 rankyou.com
@@ -2533,6 +2535,7 @@ wholesaletraffic.info
 widdit.com
 widespace.com
 widgetbucks.com
+widget.intercom.io
 wikia-ads.wikia.com
 window.nixnet.cz
 wintricksbanner.googlepages.com
