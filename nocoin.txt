@@ -41,6 +41,7 @@ cdn-jquery.host
 cdn.jquery-uim.download
 cdn.minescripts.info
 cdn.static-cnt.bid
+cdn.streambeam.io
 chainblock.science
 clickwith.bid
 cnhv.co
