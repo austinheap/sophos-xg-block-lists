@@ -1085,7 +1085,6 @@ bm.annonce.cz
 bn.bfast.com
 boersego-ads.de
 boilingbeetle.com
-boldchat.com
 boomads.com
 boom.ro
 boost-my-pr.de
@@ -1922,6 +1921,7 @@ optimizely.com
 optimize-stats.voxmedia.com
 optimost.com
 optmd.com
+optmstr.com
 ordingly.com
 ota.cartrawler.com
 otto-images.developershed.com
