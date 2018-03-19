@@ -43,6 +43,7 @@ cdn.jquery-uim.download
 cdn.minescripts.info
 cdn.static-cnt.bid
 cdn.streambeam.io
+cfcdist.gdn
 chainblock.science
 clickwith.bid
 cnhv.co
@@ -130,6 +131,7 @@ niematego.tk
 noblock.pro
 node.cfcdist.gdn
 okeyletsgo.ml
+open-hive-server-1.pp.ua
 p1.interestingz.pw
 papoto.com
 pasoherb.gq
@@ -137,6 +139,8 @@ pearno.com
 p.estream.to
 playerassets.info
 plexcoin.info
+pool.etn.spacepools.org
+pool.hws.ru
 ppoi.org
 pr0gram.org
 projectpoi.com

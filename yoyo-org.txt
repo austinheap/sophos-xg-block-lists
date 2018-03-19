@@ -899,6 +899,7 @@ anahtars.com
 analytics.adpost.org
 analytics.google.com
 analytics.live.com
+analytics.newsinc.com
 analytics.yahoo.com
 anm.intelli-direct.com
 annonser.dagbladet.no
@@ -1878,6 +1879,7 @@ nuggad.net
 numax.nu-1.com
 nuseek.com
 nzaza.com
+o0bc.com
 oas.benchmark.fr
 oascentral.businessweek.com
 oascentral.chicagobusiness.com
