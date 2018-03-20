@@ -1642,6 +1642,7 @@ its-that-easy.com
 ivwbox.de
 ivykiosk.com
 i.xx.openx.com
+janrain.com
 jcount.com
 jinkads.de
 joetec.net
@@ -1783,6 +1784,7 @@ metrics.foxnews.com
 metrics.govexec.com
 metrics.windowsitpro.com
 metrilo.com
+mg2connext.com
 mgid.com
 miarroba.com
 microstatic.pl
@@ -2138,6 +2140,7 @@ rok.com.com
 rose.ixbt.com
 rotabanner.com
 roxr.net
+rpxnow.com
 rtbpop.com
 rtbpopd.com
 rtmark.net
