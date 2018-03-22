@@ -636,7 +636,6 @@ p.hemnes.win
 phx-2.xmrpool.net
 phx-3.xmrpool.net
 phx-4.xmrpool.net
-piti.bplaced.net
 platform.jsecoin.com
 playerassets.info
 player.h-cdn.com

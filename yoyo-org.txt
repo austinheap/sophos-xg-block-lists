@@ -603,6 +603,7 @@ ads.multimania.lycos.fr
 ads.nationalgeographic.com
 adsnative.com
 ads.ncm.com
+ads.ndtv1.com
 ads.netmechanic.com
 ads.networksolutions.com
 ads.newdream.net
@@ -1213,6 +1214,7 @@ cloudcoins.biz
 clrstm.com
 cluster.adultworld.com
 clustrmaps.com
+cml.sad.ukrd.com
 cnomy.com
 cnt1.pocitadlo.cz
 cnt.spbland.ru
@@ -1945,6 +1947,7 @@ pagerank-ranking.de
 pagerank-submitter.de
 pageranktop.com
 pagerank-united.de
+parketsy.pro
 parsely.com
 partnerad.l.google.com
 partner-ads.com
