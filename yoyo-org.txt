@@ -12,6 +12,7 @@
 24pm-affiliation.com
 2mdn.net
 2o7.net
+33across.com
 360yield.com
 3lift.com
 4affiliate.net
@@ -63,6 +64,9 @@ ad3.iinfo.cz
 ad3.pamedia.com.au
 ad3.xrea.com
 ad4game.com
+ad4mat.com
+ad4mat.de
+ad4mat.net
 ad.71i.de
 ad.a8.net
 ad.abcnews.com
@@ -475,6 +479,7 @@ adserver.portalofevil.com
 adserver.portugalmail.net
 adserver.portugalmail.pt
 adserver.pressboard.ca
+adserverpub.com
 adserver.sanomawsoy.fi
 adserver.sciflicks.com
 adserver.sharewareonline.com
@@ -650,6 +655,7 @@ ads.primissima.it
 ads.printscr.com
 ads.prisacom.com
 ads.program3.com
+ads.programattik.com
 ads.psd2html.com
 ads.pushplay.com
 ads.quoka.de
@@ -706,6 +712,7 @@ ads.tripod.lycos.es
 ads.tripod.lycos.it
 ads.tripod.lycos.nl
 ads.tripod.spray.se
+ads-trk.vidible.tv
 ads.tso.dennisnet.co.uk
 ads.twitter.com
 ads.uknetguide.co.uk
@@ -846,6 +853,7 @@ adzerk.s3.amazonaws.com
 adzones.com
 af-ad.co.uk
 affbuzzads.com
+affec.tv
 affiliate.1800flowers.com
 affiliate.doubleyourdating.com
 affiliate.dtiserv.com
@@ -1352,6 +1360,7 @@ doublepimp.com
 doubtfulrainstorm.com
 dragzebra.com
 drumcash.com
+dsp.io
 dynamic.fmpub.net
 dyntrk.com
 eadexchange.com
@@ -1365,6 +1374,7 @@ ebuzzing.com
 ecircle-ag.com
 eclick.vn
 ecoupons.com
+edaa.eu
 e-debtconsolidation.com
 edgeio.com
 effectivemeasure.com
@@ -1379,6 +1389,7 @@ elthamely.com
 emarketer.com
 emediate.dk
 emediate.eu
+emerse.com
 e-m.fr
 engine.espace.netavenir.com
 enginenetwork.com
@@ -1626,6 +1637,8 @@ instantmadness.com
 instinctiveads.com
 intelliads.com
 intellitxt.com
+intentmedia.com
+intentmedia.net
 interactive.forthnet.gr
 intergi.com
 internetfuel.com
@@ -1680,6 +1693,7 @@ lead-analytics.nl
 leadboltads.net
 leadclick.com
 leadingedgecash.com
+leadplace.fr
 leadzupc.com
 levelrate.de
 lfstmedia.com
@@ -1809,6 +1823,7 @@ moggattice.com
 monetate.net
 moneyexpert.com
 monsterpops.com
+mookie1.com
 mopub.com
 mouseflow.com
 mousestats.com
@@ -1826,6 +1841,7 @@ myaffiliateprogram.com
 mybloglog.com
 mybuys.com
 mycounter.ua
+mydas.mobi
 mymoneymakingapp.com
 mypagerank.net
 mypagerank.ru
@@ -1990,6 +2006,8 @@ pixel.condenastdigital.com
 pixel.digitru.st
 pixel.jumptap.com
 pixel.redditmedia.com
+pixel.sojern.com
+pixel.watch
 play4traffic.com
 playhaven.com
 playmobileads.com
@@ -2052,6 +2070,7 @@ pub.club-internet.fr
 pubdirecte.com
 pub.hardware.fr
 publicidad.elmundo.es
+publicidees.com
 pubmatic.com
 pub.realmedia.fr
 pubs.lemonde.fr
@@ -2137,6 +2156,7 @@ rmads.msn.com
 rmedia.boston.com
 roar.com
 robotreplay.com
+rockabox.co
 roia.biz
 rok.com.com
 rose.ixbt.com
@@ -2340,12 +2360,14 @@ tealeaf.com
 techclicks.net
 teenrevenue.com
 teliad.de
+temelio.com
 terribleturkey.com
 textads.biz
 textad.sexsearch.com
 text-link-ads.com
 textlinks.com
 tfag.de
+theadex.com
 theadhost.com
 theads.me
 thebugs.ws
@@ -2356,6 +2378,7 @@ thrnt.com
 throattrees.com
 thruport.com
 tia.timeinc.net
+tidaltv.com
 t.insigit.com
 tinybar.com
 tizers.net
@@ -2452,15 +2475,19 @@ truehits2.gits.net.th
 truehits.net
 tsyndicate.com
 tubemogul.com
+turboadv.com
 turn.com
 tvmtracker.com
 twittad.com
+twyn.com
+tynt.com
 tyroo.com
 uarating.com
 ukbanners.com
 ultimateclixx.com
 ultramercial.com
 unarmedindustry.com
+undertone.com
 unknowntray.com
 unrulymedia.com
 untd.com
@@ -2502,6 +2529,7 @@ visitpath.com
 visit.webhosting.yahoo.com
 visual-pagerank.fr
 visualrevenue.com
+vmmpxl.com
 voicefive.com
 voicevegetable.com
 vpon.com
@@ -2561,6 +2589,7 @@ woopra.com
 worldwide-cash.net
 wpnrtnmrewunrtok.xyz
 ws-gateway.com
+wt-eu02.net
 wtlive.com
 www1.gto-media.com
 www8.glam.com
