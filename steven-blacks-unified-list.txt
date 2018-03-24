@@ -1126,7 +1126,6 @@
 a-0001.a-msedge.net
 a-0001.dc-msedge.net
 a-0002.a-msedge.net
-a-0003.a-msedge.net
 a-0003.dc-msedge.net
 a-0004.a-msedge.net
 a-0005.a-msedge.net
@@ -14854,6 +14853,7 @@ convertro.com
 convertwordtoexcel.com
 convlatbmp.taboola.com
 convnjmp.basebanner.com
+convrse.media
 convusmp.admailtiser.com
 coocomall.com
 cookevegas.com
