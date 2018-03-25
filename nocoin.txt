@@ -17,6 +17,7 @@ adminer.com
 adzjzewsma.cf
 analytics.blue
 andlache.com
+api.aalbbh84.info
 api.bhzejltg.info
 api.inwemo.com
 api.pzoifaum.info
@@ -171,7 +172,9 @@ webxmr.com
 willacrit.com
 witthethim.com
 worker.salon.com
+ws.bhzejltg.info
 wsp.marketgid.com
+ws.pzoifaum.info
 wss.nablabee.com
 www2.adfreetv.ch
 www.cryptonoter.com
