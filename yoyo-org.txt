@@ -920,6 +920,7 @@ api.intensifier.de
 app.adblockhyper.us
 app.pendo.io
 appsflyer.com
+aps.hearstnp.com
 apture.com
 apusx.com
 arc1.msn.com
