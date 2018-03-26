@@ -35,6 +35,18 @@ adminer.com
 adrenali.gq
 adzjzewsma.cf
 aeon.hashvault.pro
+aeros01.tk
+aeros02.tk
+aeros03.tk
+aeros04.tk
+aeros05.tk
+aeros06.tk
+aeros07.tk
+aeros08.tk
+aeros09.tk
+aeros10.tk
+aeros11.tk
+aeros12.tk
 afflow.18-plus.net
 afminer.com
 ait7ee.win
@@ -446,6 +458,7 @@ jhondi33.duckdns.org
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
+jqcdn.download
 jquery-cdn.download
 jquery-uim.download
 jroqvbvw.info
