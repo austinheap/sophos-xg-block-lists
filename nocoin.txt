@@ -105,6 +105,9 @@ hodling.faith
 host.d-ns.ga
 ininmacerad.pro
 intactoffers.club
+jqcdn01.herokuapp.com
+jqcdn03.herokuapp.com
+jqcdn2.herokuapp.com
 jroqvbvw.info
 jsccnn.com
 jscdndel.com
@@ -136,6 +139,8 @@ minr.pw
 moneone.ga
 monerominer.rocks
 moonsade.com
+mxcdn1.now.sh
+mxcdn2.now.sh
 nathetsof.com
 nebabrop.com
 new.minr.pw
@@ -143,6 +148,7 @@ nfwebminer.com
 niematego.tk
 noblock.pro
 node.cfcdist.gdn
+npcdn1.now.sh
 okeyletsgo.ml
 open-hive-server-1.pp.ua
 p1.interestingz.pw
@@ -167,6 +173,11 @@ smectapop12.pl
 sparnove.com
 staticsfs.host
 static.sparechange.io
+sxcdn02.now.sh
+sxcdn1.herokuapp.com
+sxcdn4.now.sh
+sxcdn5.herokuapp.com
+sxcdn6.now.sh
 test.minr.pw
 tidafors.xyz
 tokyodrift.ga
@@ -184,6 +195,7 @@ webxmr.com
 willacrit.com
 witthethim.com
 worker.salon.com
+wpcdn1.herokuapp.com
 ws.bhzejltg.info
 wsp.marketgid.com
 ws.pzoifaum.info
