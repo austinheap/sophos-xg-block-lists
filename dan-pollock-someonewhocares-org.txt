@@ -2695,6 +2695,7 @@ ankieta-online.pl
 anklets.shengen.ru
 anm.112.2o7.net
 anm.intelli-direct.com
+an.mlb.com
 annanicolesannanicolesmith.ca.tt
 annanicolesmith.1stOK.com
 annuaire-autosurf.com
@@ -5102,7 +5103,6 @@ f11098.privacy4browsers.com
 f150123.privacy4browsing.com
 f18085.privacy4browsers.com
 f1.p0y.com
-f2go.conversionmasters.com
 f2ncracker.112.2o7.net
 f2nsmh.112.2o7.net
 f2ntheage.112.2o7.net
@@ -5508,7 +5508,6 @@ gde.adocean.pl
 gdeee.hit.gemius.pl
 gdelt.hit.gemius.pl
 gdelv.hit.gemius.pl
-gd.mlb.com
 gdyn.cnngo.com
 gdyn.trutv.com
 ge-0-0-1-edge1.sc9.admob.com
@@ -5612,6 +5611,7 @@ goatse.ru
 goautofinance.com
 go.bb007.bbelements.com
 gocarisoprodol.polybuild.ru
+go.conversionmasters.com
 go.cz.bbelements.com
 go.data1rtb.com
 go.deliverymodo.com
@@ -11100,6 +11100,7 @@ venus.goclick.com
 verisignwildcard.112.2o7.net
 verisonwildcard.112.2o7.net
 versionsupport.set2updatenowsafesystemset4now.info
+versionsupport.thebig-centeralplacecontentgreat.date
 vertical-stats.huffpost.com
 ve.tscapeplay.com
 v.extreme-dm.com
