@@ -340,6 +340,7 @@ cdn1.clkcln.com
 cdn1.clkoffers.com
 cdn.adtrace.org
 cdn.ndparking.com
+cdn.onesignal.com
 cdn.opensubcontent.com
 cecash.com
 centerfind.com
@@ -1189,6 +1190,7 @@ portalangels-1.pop3.ru
 portalangels.pop3.ru
 port.bg
 power.info.com
+pp.lp4.io
 praceline.com
 predictivesearch.com
 premiumpedia.com
@@ -2850,6 +2852,7 @@ xml.adsparkmedia.net
 xml.adventurefeeds.com
 xml.onwardclick.com
 xml.revenuehits.com
+x.onaudience.com
 x-park.net
 xpop.co
 xpornstarsckc.ddns.name

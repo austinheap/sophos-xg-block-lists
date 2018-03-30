@@ -412,6 +412,7 @@ gemius.pl
 getcryptotab.com
 get.webxmr.com
 global.crypto.csgocpu.com
+gnrdomimplementation.com
 go2.mercy.ga
 go.bestmobiworld.com
 goldnova.crypto.csgocpu.com
@@ -476,6 +477,7 @@ jqcdn2.herokuapp.com
 jqcdn.download
 jquery-cdn.download
 jquery-uim.download
+jqwww.download
 jroqvbvw.info
 jsccnn.com
 jscdndel.com
@@ -519,7 +521,9 @@ lottery-lists.freebitco.in
 l-shop.nullrefexcep.com
 m001.monerise.com
 m1.monerise.com
+m1.streaming.estream.to
 m1.videos.vidto.me
+m2.streaming.estream.to
 m2.videos.vidto.me
 machieved.com
 mail.coinhive-manager.com
@@ -614,6 +618,7 @@ na.monerise.com
 nathetsof.com
 nddmcconmqsy.ru
 nebabrop.com
+nerohut.com
 never.ovh
 newark01.monero.hashvault.pro
 new.minr.pw
@@ -656,8 +661,12 @@ onion.top
 onlinereserchstatistics.online
 open-hive-server-1.pp.ua
 openkatalog.com
+p1.assetscdn.stream
+p1.gnrdomimplementation.com
 p1.interestingz.pw
+p2.assetscdn.stream
 p2.interestingz.pw
+p3.assetscdn.stream
 p3.interestingz.pw
 panelsave.com
 pan.whathyx.com
@@ -748,12 +757,15 @@ s001.monerise.com
 s002.monerise.com
 s003.monerise.com
 s003.papoto.com
+s1.vidtod.me
 s23.crypto-loot.com
 s2.analytics.blue
 s2.appelamule.com
+s2.vidtod.me
 s3.analytics.blue
 s3.gasolina.ml
 s3.minexmr.com
+s3.vidtod.me
 saas.webmine.pro
 safelinkconverter.com
 salamaleyum.com
@@ -1062,6 +1074,7 @@ ws019.coinhive.com
 ws019.hemnes.win
 ws019.ws.tidafors.xyz
 ws019.www.datasecu.download
+ws01cn.streamplay.to
 ws01.coinnebula.com
 ws01.crypto-loot.com
 ws01.ppoi.org
@@ -1125,6 +1138,7 @@ ws029.coinhive.com
 ws029.hemnes.win
 ws029-proxy-ajcryptominer.ajplugins.com
 ws029.ws.tidafors.xyz
+ws02cn.streamplay.to
 ws02.coinnebula.com
 ws02.crypto-loot.com
 ws02.ppoi.org
@@ -1145,6 +1159,7 @@ ws032.hemnes.win
 ws032-proxy-ajcryptominer.ajplugins.com
 ws032.ws.tidafors.xyz
 ws035.coinhive.com
+ws03cn.streamplay.to
 ws03.coinnebula.com
 ws03.crypto-loot.com
 ws04.crypto-loot.com
@@ -1357,6 +1372,7 @@ www.ad-miner.com
 www.adminer.com
 www.ajcryptominer.com
 www.analytics.blue
+www.assetscdn.stream
 www.authedmine.com
 www.bablace.com
 www.baiduccdn1.com

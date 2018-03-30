@@ -108,7 +108,6 @@ adcash.com
 adcast.deviantart.com
 adcell.de
 ad-center.com
-adcenter.mdf.se
 adcenter.net
 adcentriconline.com
 ad.centrum.cz
@@ -1767,6 +1766,7 @@ media6degrees.com
 media-adrunner.mycomputer.com
 mediaarea.eu
 mediabridge.cc
+mediacharger.com
 mediadvertising.ro
 media.ftv-publicite.fr
 media.funpic.de

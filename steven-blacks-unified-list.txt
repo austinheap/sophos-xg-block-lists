@@ -1974,7 +1974,6 @@ adcdn.33universal.com
 ad-cdn.technoratimedia.com
 adcell.de
 ad-center.com
-adcenter.mdf.se
 adcenter.net
 adcentre.it-advanced.com
 adcentriconline.com
@@ -11973,7 +11972,6 @@ cdnanalytics.xyz
 cdnapi.kaltura.com
 cdn.appdynamics.com
 cdn.app.exitmonitor.com
-cdn.appround.biz
 cdna.runadtag.com
 cdn.askosshunt.com
 cdn.assets.craveonline.com
@@ -12153,6 +12151,7 @@ cdn.nsimg.net
 cdn.oas-c17.adnxs.com
 cdn.oggifinogi.com
 cdn.onescreen.net
+cdn.onesignal.com
 cdn.onscroll.com
 cdn.opensubcontent.com
 cdn.optimatic.com
@@ -22344,7 +22343,6 @@ googfle.com
 googglet.com
 googivx.webheberg.com
 google4sex.com
-googleadapis.l.google.com
 googleads2.g.doubleclick.net
 googleads4.g.doubleclick.net
 googleadservices.com
@@ -37617,6 +37615,7 @@ ppjs.alphonso.tv
 ppl3.pl
 p.placemypixel.com
 pple.com.virus-mac.com
+pp.lp4.io
 pp.nrelate.com
 ppoi.org
 pppurdu.org.pk
@@ -46399,7 +46398,6 @@ tochka-diz.ru
 todayissoftware.com
 todayresearch.com
 todayshow.us.intellitxt.com
-toddscarwash.com
 todoanal.com
 todogecoin.biz
 todohr.com
@@ -55628,6 +55626,7 @@ xnxxandxvideos.com
 xnxx-n.com
 xn--yahoo-2ra.com
 xolodremont.ru
+x.onaudience.com
 xoomer.alice.it
 xoom.virgilio.it
 xoq.free.fr
