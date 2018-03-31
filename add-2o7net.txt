@@ -1,4 +1,3 @@
-102.112.207.net
 102.112.2o7.net
 102.122.2o7.net
 10xhellometro.112.2o7.net
@@ -9,6 +8,7 @@
 2o7.net
 3gupload.112.2o7.net
 aarp.122.2o7.net
+abcotv.hb.omtrdc.net
 acckalaharinet.112.2o7.net
 aclu.tt.omtrdc.net
 acpmagazines.112.2o7.net
@@ -181,6 +181,7 @@ cbmsn.112.2o7.net
 cbs.112.2o7.net
 cbscom.112.2o7.net
 cbsdigitalmedia.112.2o7.net
+cbsinteractive.hb.omtrdc.net
 cbsnfl.112.2o7.net
 cbspgatour.112.2o7.net
 cbsspln.112.2o7.net
@@ -201,7 +202,6 @@ ciaocom.122.2o7.net
 ciaoshopcouk.122.2o7.net
 ciaoshopit.122.2o7.net
 ciscowebex.112.2o7.net
-citicorpcreditservic.tt.omtrdc.net
 classicvacations.112.2o7.net
 classmatescom.112.2o7.net
 clubmed.112.2o7.net
@@ -366,6 +366,7 @@ foxamw.112.2o7.net
 foxcom.112.2o7.net
 foxidol.112.2o7.net
 foxinteractivemedia.122.2o7.net
+foxnews.tt.omtrdc.net
 furniturecom.112.2o7.net
 furnlevitz.112.2o7.net
 fusetv.112.2o7.net
@@ -493,6 +494,7 @@ journalregistercompany.122.2o7.net
 jrcdelcotimescom.122.2o7.net
 jrcom.112.2o7.net
 kaboose.112.2o7.net
+kaspersky.d3.sc.omtrdc.net
 kbbmain.112.2o7.net
 kelleybluebook.112.2o7.net
 kerplat.112.2o7.net
@@ -647,7 +649,7 @@ mswmwpapolloprod.122.2o7.net
 mtvn.112.2o7.net
 multiply.112.2o7.net
 mxmacromedia.112.2o7.net
-myfamilyancestry.112.2o7.net
+myfamilycominc.tt.omtrdc.net
 nandomedia.112.2o7.net
 nascardigitalsap.d2.sc.omtrdc.net
 nasdaq.122.2o7.net
@@ -997,6 +999,7 @@ tumi.112.2o7.net
 turnerclassic.112.2o7.net
 turnersports.112.2o7.net
 tvguide.112.2o7.net
+ubm.tt.omtrdc.net
 uolfreeservers.112.2o7.net
 uoljunocom2.112.2o7.net
 uolnetzeronet2.112.2o7.net
