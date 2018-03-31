@@ -7290,6 +7290,7 @@ media.elb-kind.de
 media.espace-plus.net
 media.fairlink.ru
 media.fastclick.net
+mediafaze.com
 media-fire.org
 mediafr.247realmedia.com
 media.funpic.de
