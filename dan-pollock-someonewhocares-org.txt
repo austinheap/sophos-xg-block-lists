@@ -3754,7 +3754,6 @@ cdn.palomatik.info
 cdn.pickyopahs.com
 cdn.radiatewheel.info
 cdn.sagent.io
-cdns.gigya.com
 cdn.shoppingminds.net
 cdns.mydirtyhobby.com
 cdn-social.janrain.com
