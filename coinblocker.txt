@@ -421,7 +421,6 @@ go.megabanners.cf
 goodkino.biz
 goodolddownloads.com
 googleanalytcs.com
-google.gus.host
 goredirect.party
 goxmrminer.com
 grafana.xmrpool.net
@@ -432,7 +431,6 @@ gridcash.net
 gridiogrid.com
 gtg02.bestsecurepractice.com
 gulf.moneroocean.stream
-gus.host
 gustaver.ddns.ne
 gustaver.ddns.net
 hallaert.online
@@ -794,7 +792,6 @@ serie-vostfr.com
 server4.nullrefexcep.com
 server.adless.io
 server.jsecoin.com
-s.gus.host
 shrink-service.it
 silimbompom.com
 silver.crypto.csgocpu.com
@@ -1443,7 +1440,6 @@ www.freebitco.in
 www.freecontent.bid
 www.freecontent.loan
 www.freecontent.win
-www.gus.host
 www.hashforcash.us
 www.hashvault.pro
 www.hemnes.win
