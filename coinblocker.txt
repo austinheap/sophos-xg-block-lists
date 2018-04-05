@@ -64,6 +64,7 @@ afflow.18-plus.net
 afminer.com
 ait7ee.win
 ajplugins.com
+ak.cdn-jquery.host
 aleinvest.xyz
 alemoney.xyz
 allfontshere.press
@@ -185,6 +186,7 @@ cdjs.online
 cdn2.inwemo.com
 cdn.adless.io
 cdn.ajcryptominer.com
+cdn.akubebas.com
 cdn-analytics.pl
 cdn.cloudcoins.co
 cdn-code.host
@@ -497,6 +499,7 @@ jsccnn.com
 jscdndel.com
 js.coinhive.com
 jsecoin.com
+jwduahujge.ru
 jyhfuqoh.info
 kalipasindra.online
 karbowanec.crypto-webminer.com
@@ -510,6 +513,7 @@ kissdoujin.com
 kisshentai.net
 kiwifarms.net
 krb.devphp.org.ua
+ksimdw.ru
 kunay.nullrefexcep.com
 l33tsite.info
 lan.datasecu.download
@@ -538,8 +542,11 @@ m001.monerise.com
 m1.monerise.com
 m1.streaming.estream.to
 m1.videos.vidto.me
+m2.cdn-jquery.host
 m2.streaming.estream.to
 m2.videos.vidto.me
+m3.cdn-jquery.host
+m4.cdn-jquery.host
 machieved.com
 mail.coinhive-manager.com
 mail.cookiescript.info
@@ -877,6 +884,7 @@ tazm9p7tso.trade
 techhome-js.github.io
 template-download.top
 terethat.ru
+test.cdn-jquery.host
 test.cryptonoter.com
 test.minr.pw
 testnet-api.xmrpool.net
@@ -991,6 +999,7 @@ wp-content.infamylists.com
 wp-monero-miner.de
 wqgkainysj.ru
 wronpeci.com
+wrxgandsfcz.ru
 ws000.coinhive.com
 ws001.authedmine.com
 ws001.coinerra.com
