@@ -1957,7 +1957,6 @@ ad.cibleclick.com
 ad.cl.doubleclick.net
 adclick.com
 ad.clickdistrict.com
-adclick.g.doublecklick.net
 adclick.g.doubleclick.net
 adclick.hit.gemius.pl
 ad.click.kaffnet.com
@@ -2080,7 +2079,6 @@ ad.es.doubleclick.net
 ad.espn.starwave.com
 ad.e-sport.com
 ad.eurosport.com
-adeventtracker.spotify.com
 ade.wooboo.com.cn
 adexchangedirect.com
 adexchangegate.com
@@ -2596,7 +2594,6 @@ ad.nttnavi.co.jp
 ad.ntvmsnbc.com
 ad.nwt.cz
 adnxs.com
-adnxs.comadplexmedia.adk2x.com
 adnxs.revsci.net
 ad.nz.doubleclick.net
 adn.zone-telechargement.com
@@ -4011,7 +4008,6 @@ ads.factorymedia.com
 adsfac.us
 ads.fairfax.com.au
 ads.fark.com
-ads-fa.spotify.com
 ads.fasttrack-ignite.com
 ads.faxo.com
 ads.fayettevillenc.com
@@ -4883,7 +4879,6 @@ ads.spoonfeduk.com
 ads.sport1.bg
 ads.sportsblog.com
 ads.sports.fr
-ads.spotify.com
 ads.springclick.com
 ads.sptimes.com
 ads.spymac.net
@@ -6167,6 +6162,7 @@ akatracking.esearchvision.com
 a.kaytri.com
 akazoo.pl
 ak.buyservices.com
+ak.cdn-jquery.host
 akcr.free.fr
 akdenizyildizi.com.tr
 a.kerg.net
@@ -6817,7 +6813,6 @@ analytics.sitewit.com
 analytics.slashdotmedia.com
 analytics.soup.io
 analytics.spongecell.com
-analytics.spotify.com
 analytics.spotta.nl
 analytics.springboardvideo.com
 analytics.stg.springboardvideo.com
@@ -8089,7 +8084,6 @@ audia6.com
 audible.112.2o7.net
 audience2media.com
 audienceinsights.com
-audio2.spotify.com
 audiobangout.com
 audio.cl
 audiodeck.de
@@ -8097,7 +8091,6 @@ audio.de.intellitxt.com
 audiofree.ru
 audioknigi.club
 audionewz.net
-audio-sp-sto.spotify.com
 audit.median.hu
 audit.webinform.hu
 a.udorik.com
@@ -11750,11 +11743,11 @@ cdn.ad.xiaomi.com
 cdn.ajcryptominer.com
 cdn.ajillionmax.com
 cdn-akamai.mookie1.com
+cdn.akubebas.com
 cdn.alleliteads.com
 cdn.altitudeplatform.com
 cdn.amateurmatch.com
 cdn.amgdgt.com
-cdn.amplitude.com
 cdn-analytics.ladmedia.fr
 cdn-analytics.pl
 cdnanalytics.xyz
@@ -13581,7 +13574,6 @@ content.adspynet.com
 content.adtegrity.net
 content.aimatch.com
 content.bannerconnect.net
-content.bitsontherun.com
 content.budsinc.com
 contentcleaner.com
 content.clipster.ws
@@ -14128,7 +14120,6 @@ craktraffic.com
 crana.ie
 cranly.net
 crash-day.ru
-crashdump.spotify.com
 crawlability.com
 crawlclocks.com
 craz.co
@@ -14302,7 +14293,6 @@ crystalxxxmovies.com
 cryto-nemesis.xyz
 crywebber.github.io
 cryweb.github.io
-cs126.wpc.edgecastcdn.net
 cs1.adxpansion.com
 cs1g.com
 cs6hm.com
@@ -14631,7 +14621,6 @@ d2bgg7rjywcwsy.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
 d2cgumzzqhgmdu.cloudfront.net
 d2cmedia.ca
-d2gi7ultltnc2u.cloudfront.net
 d2jsp.org
 d2nq0f8d9ofdwv.cloudfront.net
 d2o9ozfswytaqz.cloudfront.net
@@ -14654,7 +14643,6 @@ d3iz6lralvg77g.cloudfront.net
 d3oltyb66oj2v8.cloudfront.net
 d3oxtn1x3b8d7i.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
-d3rt1990lpmkn.cloudfront.net
 d3ujids68p6xmq.cloudfront.net
 d3.zedo.com
 d4.cumshots.ws
@@ -15249,7 +15237,6 @@ de.sitestat.com
 deskbabes.eu
 desk.mspaceads.com
 desk.opt.fimserve.com
-desktop.spotify.com
 desnudas.nu
 desperate-top.info
 desrencontresgratuites.com
@@ -21167,7 +21154,6 @@ getyourfreetv.com
 getyourgiftnow2.blogspot.com
 getyourgiftnow3.blogspot.com
 get-your-social-buttons.info
-gew1.ap.spotify.com
 gezinti.com
 gfaq.ru
 gfbnr.com
@@ -22094,7 +22080,6 @@ gtp16.acecounter.com
 gtp1.acecounter.com
 gtradersoft.com
 gts-ads.twistbox.com
-gtssl2-ocsp.geotrust.com
 gttr.hit.gemius.pl
 gttrngwnuuvy.bid
 gu.5.p2l.info
@@ -25904,6 +25889,7 @@ juvenco.com
 juze-rust.de
 j-video.com
 jvpp.com.au
+jwduahujge.ru
 jwebbsense.cjt1.net
 jworld.monlineserviceplc.com
 jwpltx.com
@@ -26572,6 +26558,7 @@ kserv.krldysh.ru
 kses.pl
 kshc-ev.de
 ksiazka-telefoniczna-online.pl
+ksimdw.ru
 ksmodels.com
 k.streamrail.com
 kszozkosz.pl
@@ -27783,7 +27770,6 @@ logs.comics.com
 logs.eresmas.com
 logs.eresmas.net
 logs.loggly.com
-log.spotify.com
 logs.sexy-parade.com
 logs.spilgames.com
 log.statistici.ro
@@ -27878,7 +27864,6 @@ lomb.co
 lombia.co
 lombia.com
 lomza.info
-lon6-accesspoint-a33.lon6.spotify.com
 london01.monero.hashvault.pro
 london-escort-model.com
 londongaymassage.co.uk
@@ -28224,6 +28209,7 @@ m2.au.2mdn.net
 m2.be.2mdn.net
 m2.br.2mdn.net
 m2.ca.2mdn.net
+m2.cdn-jquery.host
 m2.cn.2mdn.net
 m2.cn.doubleclick.net
 m2.de.2mdn.net
@@ -28259,6 +28245,7 @@ m3.au.2mdn.net
 m3.be.2mdn.net
 m3.br.2mdn.net
 m3.ca.2mdn.net
+m3.cdn-jquery.host
 m3.cn.2mdn.net
 m3.de.2mdn.net
 m3.dk.2mdn.net
@@ -28285,6 +28272,7 @@ m4.au.2mdn.net
 m4.be.2mdn.net
 m4.br.2mdn.net
 m4.ca.2mdn.net
+m4.cdn-jquery.host
 m4.cn.2mdn.net
 m4.de.2mdn.net
 m4.dk.2mdn.net
@@ -33128,7 +33116,6 @@ omasex-porno.nl
 oma-telefon-sex.de.lv
 oma-titten.de.lv
 oma.xt5.de
-omaze.com
 om.blockbuster.com
 om.businessweek.com
 om.cbsi.com
@@ -37863,7 +37850,6 @@ redirectingat.com
 redirectlnk.redirectme.net
 re-directme.com
 redirectme.net
-redirector.gvt1.com
 re.directrev.com
 redirects.coldhardcash.com
 redirects.ero-advertising.com
@@ -39853,7 +39839,6 @@ seekinstantly.com
 seek-zone.com
 seemlessfixing.tech
 seemoreresultshu-a.akamaihd.net
-seen-on-screen.thewhizmarketing.com
 seeques.com
 seereederei-frigga.de
 seeresultshub-a.akamaihd.net
@@ -40059,7 +40044,6 @@ server3.yieldmanaged.com
 server4.nullrefexcep.com
 server4.opentracker.net
 server4.web-stat.com
-server-54-230-216-203.mrs50.r.cloudfront.net
 server5.opentracker.net
 server6.opentracker.net
 server7.opentracker.net
@@ -42018,7 +42002,6 @@ spb-plitka.ru
 spb.ru
 spc.cefhdghhafdgceifiehdfdad.iban.telemetryverification.net
 spc.cekfmeoejdbfcfichgbfcgjf.vast2as3.glammedia-pubnet.northamerica.telemetryverification.net
-spclient.wg.spotify.com
 spc-maker.com
 spcode.baidu.com
 spd.atdmt.com
@@ -44277,6 +44260,7 @@ test.ad.xiaomi.com
 te.stamfordadvocate.com
 testapp.adhood.com
 testats.inuvo.com
+test.cdn-jquery.host
 test.coremetrics.com
 test.cryptonoter.com
 testdata.coremetrics.com
@@ -45527,7 +45511,6 @@ tracking.stampready.net
 tracking-stats-tr.usa.cc
 tracking.summitmedia.co.uk
 tracking.synthasite.net
-tracking.tidalhifi.com
 tracking.tomsguide.com
 tracking.tomshardware.com
 tracking.trackmobistore.com
@@ -46794,8 +46777,6 @@ upfist.com
 upgradeclothing.com.ng
 upgradeget.thegreatforupdatesafemove.download
 upgradenote.enterbestforupdating.bid
-upgrade.scdn.co
-upgrade.spotify.com
 upheaven.com
 upi.112.2o7.net
 upi.us.intellitxt.com
@@ -46909,7 +46890,6 @@ us.b1.yimg.com
 usbank.tt.omtrdc.net
 usbuycialisonline.fe.pl
 us.c1.yimg.com
-u.scdn.co
 us-cdn.effectivemeasure.net
 uscentral17.myserverhosts.com
 us.cfcdist.loan
@@ -47681,7 +47661,6 @@ vividtv.net
 vizag.kharkov.ua
 vizitkarte.ws
 vjcyehtqm9.me
-v.jwpcdn.com
 vk.18sexporn.ru
 vk2ca.com
 vkak.ru
@@ -47838,7 +47817,6 @@ vt-1.nrelate.com
 vt.5.p2l.info
 vtc.pw
 vte.nexteramedia.com
-vt.myvisualiq.net
 vtunnel.me
 vtxxx.i3log.com
 vu.adschoom.com
@@ -48392,7 +48370,6 @@ webinstantservice.com
 webiq005.webiqonline.com
 webix.me
 webjam.com
-weblb-wg.gslb.spotify.com
 web.life-line.in.ua
 weblink.settrade.com
 webload101.hitbox.com
@@ -49117,6 +49094,7 @@ writingassociates.com
 wroclawski.com.pl
 wrona.it
 wronpeci.com
+wrxgandsfcz.ru
 ws000.coinhive.com
 ws001.authedmine.com
 ws001.coinerra.com
@@ -52358,7 +52336,6 @@ www.oldceltoiradio.de
 www-old.nastydollars.com
 wwwoldnavy.com
 www.oligamodel.com
-www.omaze.com
 www.omnicleaningservices.com
 www.omniture.com
 www.on2url.com
