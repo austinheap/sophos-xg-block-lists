@@ -130,6 +130,7 @@ assets.alphonso.tv
 a.stat.xiaomi.com
 bale.alphonso.tv
 banners.mediaparade.net
+beap-bc.yahoo.com
 bebe.alphonso.tv
 beckham.alphonso.tv
 best.alphonso.tv
@@ -202,6 +203,7 @@ exchange.face2trade.com
 external.stealthedeal.com
 ext.privacyassistant.net
 fcanr.tracking.miui.com
+fc.yahoo.com
 fgoogle.com
 files.ctnet4.space
 gamblerush.com
@@ -267,6 +269,7 @@ postmediamontrealgazette2.files.wordpress.com
 powertradeprofit.com
 pp.alphonso.tv
 ppjs.alphonso.tv
+pr-bh.ybp.yahoo.com
 privacyassistant.net
 promo.buzzclicks.com
 promo.enatimedia.com
@@ -299,6 +302,7 @@ sdkconfig.ad.xiaomi.com
 sdklogs.avocarrot.com
 sdktm.w.inmobi.com
 sebder.roboinside.me
+secure.footprint.net
 security-check-551.com
 segment.hotstar.com
 sentry.io
@@ -331,6 +335,7 @@ test.ad.xiaomi.com
 test.e.ad.xiaomi.com
 test.new.api.ad.xiaomi.com
 tn.alphonso.tv
+token.rubiconproject.com
 torrenty-org.pl
 tracker.clickopon.com
 tracking.beginads.com
