@@ -6,7 +6,7 @@
 1q2w3.me
 1q2w3.top
 1q2w3.website
-2giga.dowload
+2giga.download
 2giga.link
 2ledhenone.com
 300ca0d0.space
@@ -370,7 +370,6 @@ en.cookiescript.info
 enjoyableoffers.club
 escobar.pr0gramm.com
 es.cookiescript.info
-estream.to
 etacontent.com
 et-code.ru
 eth-pocket.de
@@ -522,7 +521,6 @@ karbowanec.crypto-webminer.com
 kdowqlpt.info
 kedtise.com
 kho3au7l4z.me
-kickass.cd
 kinohabr.net
 kippbeak.cf
 kissdoujin.com
@@ -559,9 +557,11 @@ ltstyov.ru
 m001.monerise.com
 m1.monerise.com
 m1.streaming.estream.to
+m1.stream.vidzi.tv
 m1.videos.vidto.me
 m2.cdn-jquery.host
 m2.streaming.estream.to
+m2.stream.vidzi.tv
 m2.videos.vidto.me
 m3.cdn-jquery.host
 m4.cdn-jquery.host
@@ -706,8 +706,6 @@ ohac.github.io
 oinkinns.tk
 okexysylgzo.ru
 okeyletsgo.ml
-oload.info
-onion.top
 onlinereserchstatistics.online
 open-hive-server-1.pp.ua
 openkatalog.com
@@ -732,7 +730,6 @@ pcejuyhjucmkiny.ru
 pdf-1.infamylists.com
 pearno.com
 pertholin.com
-p.estream.to
 p.hemnes.win
 phx-2.xmrpool.net
 phx-3.xmrpool.net
@@ -740,6 +737,9 @@ phx-4.xmrpool.net
 platform.jsecoin.com
 playerassets.info
 player.h-cdn.com
+play.streaming.estream.to
+play.stream.vidzi.tv
+play.video.estream.nu
 plexcoin.info
 podrltid.info
 pon.ewtuyytdf45.com
@@ -785,7 +785,6 @@ questionfly.com
 r8nu86wg.me
 rack.cryptaloot.pro
 rand.com.ru
-rapidvideo.com
 ratingtoplist.com
 realnetwrk.com
 reasedoper.pw
@@ -816,10 +815,12 @@ s1.vidtod.me
 s23.crypto-loot.com
 s2.analytics.blue
 s2.appelamule.com
+s2.video.estream.nu
 s2.vidtod.me
 s3.analytics.blue
 s3.gasolina.ml
 s3.minexmr.com
+s3.video.estream.nu
 s3.vidtod.me
 s7ven.com
 saas.webmine.pro
@@ -894,7 +895,6 @@ stonecalcom.com
 stone.cryptaloot.pro
 stone.webmine.pro
 stream.nullrefexcep.com
-streamplay.top
 subloader.cf
 sumo.cpufan.club
 sumo.cryptonoter.com
@@ -974,9 +974,8 @@ verresof.com
 vg02h8z1ul.me
 viaxmr.com
 video.streaming.estream.to
+video.stream.vidzi.tv
 video.videos.vidto.me
-vidfile.net
-vidzi.tv
 vip.cfcnet.top
 vjcyehtqm9.me
 vl8c4g7tmo.me
