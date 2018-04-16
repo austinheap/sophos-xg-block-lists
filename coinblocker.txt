@@ -432,6 +432,7 @@ fxnow.ru
 gasolina.ml
 gate.hws.ru
 g-content.bid
+gekko.coinnebula.com
 gemius.pl
 getcryptotab.com
 get.webxmr.com
@@ -1166,6 +1167,7 @@ ws019.ws.tidafors.xyz
 ws019.www.datasecu.download
 ws019.www.jqwww.download
 ws01cn.streamplay.to
+ws01.coinlab.biz
 ws01.coinnebula.com
 ws01.crypto-loot.com
 ws01.ppoi.org
@@ -1328,6 +1330,7 @@ ws2.bmnr.pw
 ws2.bmst.pw
 ws2.coin-have.com
 ws2.g-content.bid
+ws2.minr.pw
 ws2.stati.bid
 ws2.statistic.date
 ws30.crypto-loot.com
@@ -1353,6 +1356,7 @@ ws39.crypto-loot.com
 ws3.bmnr.pw
 ws3.coin-have.com
 ws3.g-content.bid
+ws3.minr.pw
 ws3.statistic.date
 ws40.crypto-loot.com
 ws4.1beb2a44.space
@@ -1492,6 +1496,7 @@ www.coinhive-manager.com
 www.coinhub.win
 www.coinimp.com
 www.coinlab.biz
+www.coinnebula.com
 www.coinpot.co
 www.coinrail.io
 www.cookiescript.info
