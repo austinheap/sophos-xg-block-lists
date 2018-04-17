@@ -358,6 +358,7 @@ us-east1.serve.enatimedia.com
 ustat.batmobi.net
 vanpersie.alphonso.tv
 vdtrack.com
+videoplayer.vice.technology
 vidutils.taboola.com
 villa.alphonso.tv
 virtual.thewhig.com
