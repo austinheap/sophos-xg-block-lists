@@ -2512,6 +2512,7 @@ adx.theledger.com
 ad.yadro.ru
 ad.yemeksepeti.com
 ad.yieldmanager.com
+a.dynad.net
 ad-yt-bfp.doubleclick.net
 ad.za.doubleclick.net
 adz.afterdawn.net
@@ -3448,7 +3449,6 @@ buy-phentermine-online.i-ltda.net
 buy-phentermine.polybuild.ru
 buy-phentermine.thepizza.net
 buy-tamiflu.asian-flu-vaccine.com
-buy.tinypass.com
 buy-ultram-online.iscool.nl
 buy-valium-cheap-valium-online.com
 buy-valium.este.ru
@@ -3786,6 +3786,7 @@ cdn.zeusclicks.com
 cds26.ams9.msecn.net
 cds.adecn.com
 cdxbin.vulnerap.com
+c.dynad.net
 c.eblastengine.com
 cecash.com
 ced.sascdn.com
@@ -5110,7 +5111,6 @@ exnjmdgda1.doubleclick.net
 exnjmdgds1.doubleclick.net
 expedia4.112.2o7.net
 expedia.ca.112.2o7.net
-experience.tinypass.com
 expertland.net
 experts.us.intellitxt.com
 exponential.com
@@ -9388,6 +9388,7 @@ sdk.streamrail.com
 sdogiu.bestamazontips.com
 s.domob.cn
 sdo.oewabox.at
+s.dynad.net
 seacoastonlinecom.112.2o7.net
 se.adserver.yahoo.com
 sea.net.edu.cn
@@ -10269,6 +10270,7 @@ tc.tradetracker.net
 tdameritrade.tt.omtrdc.net
 tdc.advertorials.dk
 tdkads.ads.dk
+t.dynad.net
 te.about.com
 te.adlandpro.com
 te.advance.net
@@ -12946,6 +12948,7 @@ www.shoptosaveenergy.com
 www.showcaserealestate.net
 www.simplecounter.net
 www.simpli.fi
+www.simplyhelper.com
 www.sinera.org
 www.siom.ac.cn
 www.sizzle-savings.com
@@ -13361,6 +13364,7 @@ zc1.delta-boa.com
 zc1.zeroredirect11.com
 z.ceotrk.com
 zdads.e-media.com
+z.dynad.net
 zebutal.1.p2l.info
 zeevex-online.com
 zemgo.com
