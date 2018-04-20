@@ -99,6 +99,7 @@ analytics.phando.com
 analytics.picsart.com
 analytics.poolshool.com
 analytics.posttv.com
+analytics.publitas.com
 analytics.siliconexpert.com
 analytics.thevideo.me
 anayltics.kuikr.com
