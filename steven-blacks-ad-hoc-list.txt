@@ -379,6 +379,7 @@ urldelivery.com
 us-east1.serve.elixmedia.com
 us-east1.serve.enatimedia.com
 ustat.batmobi.net
+v10.vortex-win.data.microsoft.com
 vanpersie.alphonso.tv
 vdtrack.com
 videoplayer.vice.technology
