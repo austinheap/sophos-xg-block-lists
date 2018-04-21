@@ -69,6 +69,7 @@ ads.alphonso.tv
 ads.chacomedia.com
 adserver.adtech.de
 adserver.ministryofads.com
+adservice.google.co.in
 ads.feedly.com
 adsflame.com
 ads.grandonmedia.com
@@ -114,11 +115,16 @@ api.ad.snappea.com
 api.ad.xiaomi.com
 api.alphonso.tv
 api.axiatraders.com
+api.branch.io
 api.d.xiaomi.com
 api.grandonmedia.com
+api.moengage.com
 api.oneaudience.com
 api.pubnative.net
 api.stats.appa.pe
+api.taplytics.com
+apiv2.moengage.com
+apiv3.moengage.com
 apple.com-notice.info
 applog.camera360.com
 applog.uc.cn
@@ -127,6 +133,7 @@ apps3.cointraffic.io
 apps.id.net
 ap-sonar.sociomantic.com
 asap.sharethrough.com
+ase.clmbtech.com
 assets.alphonso.tv
 a.stat.xiaomi.com
 bale.alphonso.tv
@@ -154,9 +161,11 @@ cc.sys.miui.com
 cdn5.userzoom.com
 cdn.ad.xiaomi.com
 cdnapi.kaltura.com
+cdn.auditude.com
 cdn.beginads.com
 cdn.mxpnl.com
 cdn.segment.com
+cdn-settings.segment.com
 cdn.zarget.com
 cfvod.kaltura.com
 chuknu.sokrati.com
@@ -181,6 +190,7 @@ data.cnn.com
 datacollect.vmall.com
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
+decide.mixpanel.com
 degea.alphonso.tv
 dembele.alphonso.tv
 demo.alphonso.tv
@@ -198,6 +208,7 @@ edge.api.brightcove.com
 elixmedia.com
 embed.sendtonews.com
 enatimedia.com
+e-ssl.apsalar.com
 event.ksosoft.com
 events3.adcolony.com
 events.appsflyer.com
@@ -217,13 +228,17 @@ graph.accountkit.com
 honolulu.alphonso.tv
 hosted.stats.com
 hosted.stats.com.edgesuite.net
+hotstar.pubnub.net
 hotstar.worldgravity.com
 howupdateworks.amazingupdates4youtoday.website
 i1.dl-ad.com
+ibeat.indiatimes.com
 imprlatbmp.taboola.com
 imysurvey.com
 indiaonclick.com
 insights.alphonso.tv
+in-starlive-preroll.videoplaza.tv
+in-starlive.videoplaza.tv
 in-star.videoplaza.tv
 jackbootedroom.com
 jira.face2trade.com
@@ -237,6 +252,7 @@ lepodownload.mediatek.com
 letitbefaster.website
 login.dotomi.com
 login.dotomi.net
+logs.gaana.com
 l-v1.presage.io
 ma312-r.analytics.edgesuite.net
 mackeeperapp.zeobit.com
@@ -289,6 +305,7 @@ pussysaga.com
 quark.plaimedia.com
 quickcash-system.com
 realestate2.deshmedia.com
+reports.crashlytics.com
 rereddit.com
 roboinside.me
 rotator.axiatraders.com
@@ -311,6 +328,7 @@ security-check-551.com
 segment.hotstar.com
 service.face2trade.com
 service.videoplaza.tv
+settings.crashlytics.com
 sf-3.east.kobenetwork.com
 sf3.east.kobenetwork.com
 sf-3.st.adtekmedia.com
@@ -321,9 +339,12 @@ socrates.alphonso.tv
 specialsections.siteseer.ca
 spiegel-de.spiegel.de
 sportsinteraction.com
+sqm.telemetry.microsoft.com
 ssl.widgets.webengage.com
 ssp.ad.xiaomi.com
 ssp.face2trade.com
+stat-c.maxthon.com
+static.clmbtech.com
 static.elixmedia.com
 stats.wp.com
 stealthedeal.com
@@ -334,6 +355,7 @@ s.zkcdn.net
 taboola-d.openx.net
 tag.hockeycurve.com
 tags.news.com.au
+t.appsflyer.com
 telemetry.layer.com
 test.ad.xiaomi.com
 test.e.ad.xiaomi.com
@@ -352,6 +374,7 @@ ttwitter.com
 tvads.alphonso.tv
 tvmds.tvpassport.com
 twitter.cm
+udm.scorecardresearch.com
 urldelivery.com
 us-east1.serve.elixmedia.com
 us-east1.serve.enatimedia.com
@@ -362,6 +385,7 @@ videoplayer.vice.technology
 vidutils.taboola.com
 villa.alphonso.tv
 virtual.thewhig.com
+vortex-win.data.microsoft.com
 web2.alphonso.tv
 weconfirmyou.com
 wf.taboola.com
