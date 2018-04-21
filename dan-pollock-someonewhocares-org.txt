@@ -1685,6 +1685,7 @@ adserv.geocomm.com
 adserv.iafrica.com
 adservice.google.ca
 adservice.google.com
+adservice.google.com.au
 adservices.google.com
 adservices.picadmedia.com
 adservicestats.com
@@ -2678,6 +2679,7 @@ analytics.msnbc.msn.com
 analytics.onesearch.id
 analytics.percentmobile.com
 analytics.prx.org
+analytics.publitas.com
 analytics.services.kirra.nl
 analytics.shareaholic.com
 analytics.spotta.nl
@@ -3364,6 +3366,7 @@ brxfinance.com
 bsads.looksmart.com
 bserver.blick.com
 bs.israelinfo.ru
+bsnj.eyeblaster.akadns.net
 bs.serving-sys.com
 bstats.adbrite.com
 b.stats.paypal.com
@@ -8988,6 +8991,7 @@ rdsa2012.com
 reacherinst.com
 reactads.cdn.adglare.net
 readheadstick.biz
+readyupdate.thelatestmostreadytocontentgetnowfast.top
 realads.realmedia.com
 realcouponnow.com
 realgfsbucks.com
