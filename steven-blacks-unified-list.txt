@@ -3942,7 +3942,9 @@ adserv.iafrica.com
 adservice.aliexpress.com
 adservicedomain.info
 adservice.google.ca
+adservice.google.co.in
 adservice.google.com
+adservice.google.com.au
 adservices.google.com
 adservices.picadmedia.com
 adservicestats.com
@@ -4127,7 +4129,6 @@ ads.halogennetwork.com
 ads.hamptonroads.com
 ads.hamtonroads.com
 ads.happyidiots.nl
-ads.hardwaresecrets.com
 ads.hardwarezone.com
 adsharenetwork.com
 ad.sharethis.com
@@ -7223,6 +7224,7 @@ api.bizographics.com
 apib.monerise.com
 api.boomtrain.com
 api.bounceexchange.com
+api.branch.io
 apibrowsesmartne-a.akamaihd.net
 api.bttrack.com
 api-cache.adsnative.com
@@ -7265,6 +7267,7 @@ apimegabrowsebiz-a.akamaihd.net
 api.minero.cc
 api.minexmr.com
 api.mixpanel.com
+api.moengage.com
 api.monerise.com
 api.monero.hashvault.pro
 api.moneroocean.stream
@@ -7302,10 +7305,13 @@ api.stats.appa.pe
 api.sumo.hashvault.pro
 api.sumokoin.hashvault.pro
 api.taboola.com
+api.taplytics.com
 a.pitatagata.com
 api.tns-cs.net
 api.trackuity.com
 api.tumra.com
+apiv2.moengage.com
+apiv3.moengage.com
 api.viaxmr.com
 api.viglink.com
 apiwebwebgetcom-a.akamaihd.net
@@ -7750,6 +7756,7 @@ asdfz.pro
 as.dialog.si
 asd.tynt.com
 as.ebz.io
+ase.clmbtech.com
 asecurecraft.com
 a.senolati.com
 aserve.directorym.com
@@ -9366,6 +9373,7 @@ best-businessman.ru
 bestcalovebracelet.cn
 bestchoice.cf
 bestcoin.cc
+bestcoinsignals.com
 best-coupon-offer.com
 bestcreampies.com
 bestcurs.org
@@ -9575,7 +9583,6 @@ bidr.trellian.com
 bidswitch.net
 bidsystem.com
 bidtraffic.com
-bidtrk.com
 bidvertiser.com
 biedronaa.5v.pl
 bielertb.wemfbox.ch
@@ -10510,6 +10517,7 @@ b.skinstore.com
 b.sli-spark.com
 bsmarcas.com.br
 bs-meta.yandex.ru
+bsnj.eyeblaster.akadns.net
 bsnteamsports.co
 bspixel.bidsystem.com
 bsrv.adohana.com
@@ -11728,6 +11736,7 @@ cdn.atlassbx.com
 cdn.atomex.net
 cdna.tremormedia.com
 cdn.atwola.com
+cdn.auditude.com
 cdn.augur.io
 cdn.avmws.com
 cdnaws.mobidea.com
@@ -11934,6 +11943,7 @@ cdns.amgdgt.com
 cdn.scarabresearch.com
 cdn.segment.com
 cdn.segment.io
+cdn-settings.segment.com
 cdn.shoppingminds.net
 cdn.siftscience.com
 cdns.mydirtyhobby.com
@@ -14971,6 +14981,7 @@ de-burda.com
 debuttheatre.org
 decapsuleurderonde.free.fr
 decenttools.com
+decide.mixpanel.com
 decidesilver.net
 decisiveducks.com
 decknetwork.net
@@ -17640,6 +17651,7 @@ esqchamber.com
 essenceoferotica.blogspot.com
 esseximages.co.uk
 es.sitestat.com
+e-ssl.apsalar.com
 essmann-hamburg.de
 estabay.com
 estaminet-halluin.com
@@ -17705,6 +17717,7 @@ euadoroisso.com.br
 eu.cfcdist.loan
 eu.cfcnet.top
 eu-cookie-law.info
+eucsoft.com
 eue.collect-opnet.com
 eueukpcxjtxt.bid
 eugenevaultstorage.com
@@ -23249,6 +23262,7 @@ hotslutz.com
 hotspot.cz
 hotspotint.dk
 hotspotshield.com
+hotstar.pubnub.net
 hotstar.worldgravity.com
 hotstreams.de
 hotsuds.nu
@@ -23587,6 +23601,7 @@ ib.adnxs.com
 ibaveh.yadozalamom.pw
 ibb.com.ua
 ibdsubscribers.com
+ibeat.indiatimes.com
 ibeatmymeat.com
 ibg.hitbox.com
 ibibo.112.2o7.net
@@ -24490,6 +24505,8 @@ instantgiftcodes.com
 instantmadness.com
 instantonlineloanss.com
 instantwinner953.club
+in-starlive-preroll.videoplaza.tv
+in-starlive.videoplaza.tv
 in-star.videoplaza.tv
 instasexmatch.ru
 i.nster.net
@@ -27495,6 +27512,7 @@ logs1285.xiti.com
 logs.comics.com
 logs.eresmas.com
 logs.eresmas.net
+logs.gaana.com
 logs.loggly.com
 logs.sexy-parade.com
 logs.spilgames.com
@@ -37285,6 +37303,7 @@ readserver.net
 ready2sex.com
 readyexpress.com.ve
 readyfile.pl
+readyupdate.thelatestmostreadytocontentgetnowfast.top
 reagroup.122.2o7.net
 real6.dk
 realads.realmedia.com
@@ -37658,6 +37677,7 @@ reporting.aatkit.com
 reportingsales.com
 reporting.singlefeed.com
 report.mitsubishicars.com
+reports.crashlytics.com
 reports.extreme-dm.com
 reports.wes.df.telemetry.microsoft.com
 repostuj.push-ad.com
@@ -39726,6 +39746,7 @@ serw.myroitracking.com
 se.sitestat.com
 sessioncam.com
 s.estat.com
+settings.crashlytics.com
 settings.luckyorange.net
 settings-win.data.microsoft.com
 setup.advancedcleaner.com
@@ -41778,6 +41799,7 @@ sq2trk2.com
 sq7.co.uk
 sqlservercentral.us.intellitxt.com
 sql-server-driver.beesearch.info
+sqm.telemetry.microsoft.com
 squarefootball.uk.intellitxt.com
 squartera.info
 squeamishscarecrow.com
@@ -42040,6 +42062,7 @@ stat.axelspringer.hu
 stat.blogads.com
 stat.cliche.se
 stat.clickfrog.ru
+stat-c.maxthon.com
 stat.cncenter.cz
 statcounter.com
 stat-counter.tass-online.ru
@@ -42111,6 +42134,7 @@ static.clickonometrics.pl
 static.clickpapa.com
 static.clicktorrent.info
 static.clicktripz.com
+static.clmbtech.com
 static-cnt.bid
 static.contentabc.com
 static.cpalead.com
@@ -43387,6 +43411,7 @@ tapelock.com
 tapestry.tapad.com
 tapinfluence.com
 t.app5.pw
+t.appsflyer.com
 tap.rubiconproject.com
 tap-secure.rubiconproject.com
 taqplayer.info
@@ -45480,6 +45505,7 @@ travesties.info
 travesti.ws
 travidia.112.2o7.net
 travidiathebrick.112.2o7.net
+traviilo.com
 travis.bosscasinos.com
 travlers.com
 travmateholidays.com
@@ -46039,6 +46065,7 @@ udm.ri6.scorecardresearch.com
 udm.ri7.scorecardresearch.com
 udm.ri8.scorecardresearch.com
 udm.ri9.scorecardresearch.com
+udm.scorecardresearch.com
 udmserve.net
 udriveme2.com
 udrivemyr54.com
@@ -46587,6 +46614,7 @@ uzvoj.com
 uzweb.net
 v0.extreme-dm.com
 v0.stat.ku6.com
+v10.vortex-win.data.microsoft.com
 v10.xmlsearch.miva.com
 v16.56.com
 v1.cnzz.com
@@ -47292,6 +47320,7 @@ vorhang.net
 vorlagen-land.de
 voronezh.xrus.org
 vortex.dragonmastering.com
+vortex-win.data.microsoft.com
 vos-stars-nues.biz
 vostoktrade.info
 votamicuerpo.es
@@ -47744,6 +47773,7 @@ wasabiam.com.br
 washingtontimes.us.intellitxt.com
 was.io8.org
 was-ist-magersucht.de
+wasm24.ru
 wastell.com
 watch24.com
 watchandwheels.com
@@ -48259,6 +48289,7 @@ whosonmyserver.com
 whosread.com
 whs9.com
 whyblocks.com
+whysoserius.club
 wi.5.p2l.info
 wichsen.de.lv
 wichshilfe.de
@@ -53496,6 +53527,7 @@ xmr6.crypto-pool.fr
 xmr7.crypto-pool.fr
 xmr8.crypto-pool.fr
 xmr.coinlab.biz
+xmr.cool
 xmr.cpufan.club
 xmr.cryptonoter.com
 xmr.crypto-pool.fr
@@ -53706,6 +53738,7 @@ xumabheajpiko.bid
 xuoitwefz.bid
 xvga.org
 xvideosbay.com
+xvideosharing.site
 xvideosporn.biz
 xvideosproibidos.info
 xvika.net
