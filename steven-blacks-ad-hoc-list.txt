@@ -204,7 +204,6 @@ donovan.alphonso.tv
 dsp.face2trade.com
 e.ad.xiaomi.com
 ecommerce.roboinside.me
-edge.api.brightcove.com
 elixmedia.com
 embed.sendtonews.com
 enatimedia.com
@@ -283,7 +282,6 @@ ping.chartbeat.net
 pixel.onaudience.com
 pixel.realclever.com
 plaimedia.com
-players.brightcove.net
 pl-v2.presage.io
 postmediamontrealgazette2.files.wordpress.com
 powertradeprofit.com
