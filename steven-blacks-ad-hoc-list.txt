@@ -154,6 +154,7 @@ btds.artplay.info
 buzzclicks.com
 bwlkup.alphonso.tv
 c.adskeeper.co.uk
+camsoda.com
 canuck-method.com
 ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
@@ -270,6 +271,7 @@ mediaparade.net
 metrics.adage.com
 metrics.brightcove.com
 montrealgazette.stats.com
+msmetrics.ws.sonos.com
 mysterysnooper.com
 mywot.com
 mywot.net
@@ -410,6 +412,7 @@ www.beginads.com
 www.bigsharkmedia.com
 www.btds.artplay.info
 www.buzzclicks.com
+www.camsoda.com
 www.canuck-method.com
 www.chacomedia.com
 www.click.elixmedia.com

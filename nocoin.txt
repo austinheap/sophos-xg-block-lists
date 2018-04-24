@@ -2,6 +2,7 @@
 1q2w3.fun
 1q2w3.me
 1q2w3.website
+2giga.download
 300ca0d0.space
 310ca263.space
 320ca3f6.space
@@ -28,6 +29,7 @@ aeros09.tk
 aeros10.tk
 aeros11.tk
 aeros12.tk
+altavista.ovh
 analytics.blue
 andlache.com
 api.aalbbh84.info
@@ -87,6 +89,7 @@ dev.cryptobara.com
 didnkinrab.com
 digger.cryptobara.com
 dronml.ml
+encoding.ovh
 eth-pocket.de
 eu.cfcdist.loan
 eu.cfcnet.top
@@ -99,12 +102,14 @@ freshrefresher.com
 g-content.bid
 go2.mercy.ga
 go.megabanners.cf
+graftpool.ovh
 gridiogrid.com
 gus.host
 gustaver.ddns.net
 hatcalter.com
 hegrinhar.com
 hemnes.win
+hide.ovh
 hive.tubetitties.com
 hodlers.party
 hodling.faith
@@ -149,7 +154,9 @@ mxcdn1.now.sh
 mxcdn2.now.sh
 nathetsof.com
 nebabrop.com
+never.ovh
 new.minr.pw
+nexttime.ovh
 nfwebminer.com
 niematego.tk
 noblock.pro
@@ -175,10 +182,12 @@ rintindown.com
 rintinwa.com
 rocks.io
 s2.appelamule.com
+scaleway.ovh
 smectapop12.pl
 sparnove.com
 staticsfs.host
 static.sparechange.io
+support.2giga.link
 sxcdn02.now.sh
 sxcdn1.herokuapp.com
 sxcdn4.now.sh
