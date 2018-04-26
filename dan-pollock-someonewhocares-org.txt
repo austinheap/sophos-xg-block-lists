@@ -11104,6 +11104,7 @@ uvimage.56.com
 uwz.oewabox.at
 v0.extreme-dm.com
 v0.stat.ku6.com
+v10.vortex-win.data.microsoft.com
 v16.56.com
 v1.extreme-dm.com
 v1.nedstatbasic.net
@@ -11252,6 +11253,7 @@ voluumtrk3.com
 voluumtrk.com
 vomitgirl.org
 voordeel.ad.nl
+vortex-win.data.microsoft.com
 vox-static.liverail.com
 voyager1.telesat.com.co
 vp.tscapeplay.com
