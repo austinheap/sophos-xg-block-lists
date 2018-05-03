@@ -429,6 +429,7 @@ us-east1.serve.elixmedia.com
 us-east1.serve.enatimedia.com
 users.quantumgraph.com
 ustat.batmobi.net
+v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 vanpersie.alphonso.tv
 vdtrack.com
