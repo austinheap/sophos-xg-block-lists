@@ -454,7 +454,6 @@ adserver.break-even.it
 adserver.cams.com
 adserver.com
 adserver.digitoday.com
-adserver.finditquick.com
 adserver.flossiemediagroup.com
 adserver.freecity.de
 adserver.friendfinder.com
@@ -1356,6 +1355,7 @@ dnads.directnic.com
 docksalmon.com
 domaining.in
 domainsponsor.com
+domainsteam.de
 domdex.com
 doubleclick.com
 doubleclick.de
@@ -2106,6 +2106,7 @@ ranking-liste.de
 rankingscout.com
 ranking-street.de
 rank-master.com
+rank-master.de
 rankyou.com
 rapidcounter.com
 rate.ru
@@ -2398,6 +2399,7 @@ top90.ro
 topacity.info
 topbarh.box.sk
 topbucks.com
+top-casting-termine.de
 topforall.com
 topgamesites.net
 toplista.mw.hu
