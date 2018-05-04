@@ -301,12 +301,15 @@ mediadirectx.com
 mediaparade.net
 metrics.adage.com
 metrics.brightcove.com
+mobile.pipe.aria.microsoft.com
 montrealgazette.stats.com
 msmetrics.ws.sonos.com
 mysterysnooper.com
 mywot.com
 mywot.net
 new.api.ad.xiaomi.com
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com
 neymar.alphonso.tv
 onlineusagesurveys.com
 open.oneplus.net
@@ -402,6 +405,7 @@ taboola-d.openx.net
 tag.hockeycurve.com
 tags.news.com.au
 t.appsflyer.com
+telemetry.firstpartyapps.oaspapps.com
 telemetry.layer.com
 test.ad.xiaomi.com
 test.e.ad.xiaomi.com
