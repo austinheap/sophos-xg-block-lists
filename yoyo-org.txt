@@ -1149,6 +1149,7 @@ cbanners.virtuagirlhd.com
 c.bigmir.net
 cbmall.com
 cdn.freefarcy.com
+cdn.onesignal.com
 cdn.segment.com
 cecash.com
 centerpointmedia.com
