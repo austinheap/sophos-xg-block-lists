@@ -164,6 +164,7 @@ beta.coinrail.io
 beta.monerise.com
 bewaslac.com
 bewhoyouare.gq
+bezoglasa.online
 bhzejltg.info
 biberukalap.com
 bitcoiner.win
@@ -178,7 +179,9 @@ boostbox.com.br
 bowithow.com
 b.proxy4.nullrefexcep.com
 brominer.com
+browsermine.12finance.com
 browsermine.com
+browsersurf.12finance.com
 btc.cpufan.club
 butcalve.com
 buyandfun.review
@@ -282,6 +285,7 @@ cpanel.monerominer.rocks
 cpu2cash.link
 cpufan.club
 cqfnvznw.info
+creadordedinero.com
 cryptaloot.pro
 cryptobara.com
 cryptocoinabout.com
@@ -330,6 +334,8 @@ d.cpufan.club
 de.cookiescript.info
 deepc.cc
 dekoder.ws
+de-mi-nis-ner2.info
+de-mi-nis-ner.info
 de.moneroocean.stream
 demo.webxmr.com
 depttake.ga
@@ -347,6 +353,7 @@ direct.cpufan.club
 dle-news.pw
 dmdamedia.hu
 dmg.crypto.csgocpu.com
+dmitrovna.github.io
 do69ifsly4.me
 donate.cpufan.club
 doubleclick1.xyz
@@ -356,6 +363,7 @@ doubleclick4.xyz
 doubleclick5.xyz
 doubleclick6.xyz
 dronml.ml
+dynya-may.github.io
 dzizsih.ru
 earncoins.club
 easyhash.io
@@ -375,7 +383,10 @@ escobar.pr0gramm.com
 es.cookiescript.info
 etacontent.com
 et-code.ru
+eth-pocket.com
 eth-pocket.de
+eth-pocket.eu
+ethtrader.de
 etn.cpufan.club
 etnpool.minekitten.io
 etn.spacepools.org
@@ -502,11 +513,13 @@ intense.hashvault.pro
 interestingz.pw
 ipv6.freebitco.in
 irrrymucwxjl.ru
+istlandoll.com
 it.cookiescript.info
 itns.cpufan.club
 itsmyturn.nablabee.com
 ivuovhsn.ru
 ixvenhgwukn.ru
+japveny.ru
 jasmine.noblock.pro
 jhondi33.duckdns.org
 jqcdn01.herokuapp.com
@@ -575,6 +588,7 @@ m3.cdn-jquery.host
 m4.cdn-jquery.host
 m5.cdn-jquery.host
 machieved.com
+ma.herphemiste.com
 mail.coinhive-manager.com
 mail.cookiescript.info
 mail.crypto-loot.com
@@ -662,18 +676,21 @@ mwnodes.viaxmr.com
 mxcdn1.now.sh
 mxcdn2.now.sh
 myadstats.com
+my-deltaplan.github.io
 myfhology.sbhmn-miner.com
 mylovelymommy.tk
 mylovesister.gq
 myoffers.bid
 myoffers.party
 my-retrospace.sbhmn-miner.com
+my-rigs.com
 nablabee.com
 nametraff.com
 na.monerise.com
 nathetsof.com
 nddmcconmqsy.ru
 nebabrop.com
+nerdorium.org
 nerohut.com
 never.ovh
 newark01.monero.hashvault.pro
@@ -737,6 +754,7 @@ party-vqgdyvoycc.now.sh
 pascal3.science
 pasoherb.gq
 pat.ron.si
+pazl1.ru
 pcejuyhjucmkiny.ru
 pdf-1.infamylists.com
 pearno.com
@@ -745,6 +763,7 @@ p.hemnes.win
 phx-2.xmrpool.net
 phx-3.xmrpool.net
 phx-4.xmrpool.net
+pizz-tuna.github.io
 platform.jsecoin.com
 playerassets.info
 player.h-cdn.com
@@ -860,6 +879,7 @@ serie-vostfr.com
 server4.nullrefexcep.com
 server.adless.io
 server.jsecoin.com
+sharing-is-caring.info
 shrink-service.it
 sickrage.ca
 silimbompom.com
@@ -869,10 +889,12 @@ singapore01.monero.hashvault.pro
 site.coinnebula.com
 siteverification.online
 siteverification.site
+skencituer.com
 sm3na.com
 smartoffer.site
 smectapop12.pl
 smurf.crypto.csgocpu.com
+snahome.com
 spacepools.org
 sparechange.io
 sparnove.com
@@ -933,6 +955,7 @@ t.analytics.blue
 tazm9p7tso.trade
 techhome-js.github.io
 template-download.top
+teramill.com
 terethat.ru
 test.cdn-jquery.host
 test.cryptonoter.com
@@ -1583,6 +1606,7 @@ xbasfbno.info
 x.browsermine.com
 xdn.cpufan.club
 xgmc6lu8fs.me
+xmg.cool
 xml.mining.best
 xmr10.crypto-pool.fr
 xmr1.crypto-pool.fr
