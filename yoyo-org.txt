@@ -802,7 +802,6 @@ advertisespace.com
 advertisingbanners.com
 advertisingbox.com
 advertising.com
-advertising.guildlaunch.net
 advertisingtag.net
 advertmarket.com
 advertmedia.de
@@ -1140,7 +1139,6 @@ cashfiesta.com
 cashlayer.com
 cashpartner.com
 casinogames.com
-casinopays.com
 casinorewards.com
 casinotraffic.com
 casinotreasure.com
@@ -1166,6 +1164,7 @@ checkm8.com
 checkstat.nl
 cherrythread.com
 chestionar.ro
+chiefcurrent.com
 chitika.net
 ch.questionmarket.com
 christingel.com
@@ -1471,7 +1470,6 @@ flexbanner.com
 floodprincipal.com
 flowgo.com
 flurry.com
-fonecta.leiki.com
 foo.cosmocode.de
 foresee.com
 forex-affiliate.net
@@ -2417,7 +2415,6 @@ topsearcher.com
 topsir.com
 top-site-list.com
 topsite.lv
-topsites.com.br
 topstats.com
 totemcash.com
 touchclarity.com
