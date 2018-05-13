@@ -70,6 +70,7 @@ ads.chacomedia.com
 adserver.adtech.de
 adserver.ministryofads.com
 adservice.google.co.in
+adservice.google.nl
 ads.feedly.com
 adsflame.com
 ads.grandonmedia.com
