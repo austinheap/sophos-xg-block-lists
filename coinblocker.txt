@@ -157,6 +157,7 @@ befirstcdn.com
 berateveng.ru
 berserkpl.net.pl
 bestcoinsignals.com
+besti.ga
 bestmobiworld.com
 bestsecurepractice.com
 beta.coinblind.com
@@ -301,6 +302,7 @@ cryptown.netlify.com
 crywebber.github.io
 cryweb.github.io
 csgocpu.com
+ctlrnwbv.ru
 ctrb.jscdndel.com
 cvp1.asvoxod.ru
 cvp2.asvoxod.ru
@@ -379,6 +381,7 @@ email.moneroocean.stream
 encoding.ovh
 en.cookiescript.info
 enjoyableoffers.club
+ermaseuc.ru
 escobar.pr0gramm.com
 es.cookiescript.info
 etacontent.com
@@ -455,6 +458,7 @@ get.webxmr.com
 global.crypto.csgocpu.com
 gnrdomimplementation.com
 go2.mercy.ga
+gobba.myeffect.net
 go.bestmobiworld.com
 goldnova.crypto.csgocpu.com
 goldoffer.online
@@ -526,6 +530,7 @@ jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
 jqcdn.download
+jqrcdn.download
 jquery-cdn.download
 jquery-uim.download
 jqwww.download
@@ -535,10 +540,13 @@ jsccnn.com
 jscdndel.com
 js.coinhive.com
 jsecoin.com
+jurtym.cf
+jurty.ml
 jwduahujge.ru
 jyhfuqoh.info
 kalipasindra.online
 karbowanec.crypto-webminer.com
+kdmkauchahynhrs.ru
 kdowqlpt.info
 kedtise.com
 kho3au7l4z.me
@@ -611,6 +619,7 @@ megabanners.cf
 mepirtedic.com
 mercy.ga
 metrika.ron.si
+mfio.cf
 mhiobjnirs.gq
 mine2-party.nablabee.com
 minecrunch.co
@@ -673,6 +682,7 @@ msg-2.me
 msr.cpufan.club
 mutuza.win
 mwnodes.viaxmr.com
+mwor.gq
 mxcdn1.now.sh
 mxcdn2.now.sh
 myadstats.com
@@ -726,6 +736,7 @@ ocean.cryptaloot.pro
 ocean.cryptoloot.pro
 ocean.webmine.pro
 oc.monerise.com
+oei1.gq
 offerreality.com
 ogondkskyahxa.ru
 ogrid.org
@@ -767,6 +778,7 @@ pizz-tuna.github.io
 platform.jsecoin.com
 playerassets.info
 player.h-cdn.com
+play.site.flashx.cc
 play.streaming.estream.to
 play.stream.vidzi.tv
 play.video.estream.nu
@@ -887,6 +899,7 @@ silver.crypto.csgocpu.com
 simpleco.in
 singapore01.monero.hashvault.pro
 site.coinnebula.com
+site.flashx.cc
 siteverification.online
 siteverification.site
 skencituer.com
@@ -1067,6 +1080,7 @@ wmemsnhgldd.ru
 wmwmwwfmkvucbln.ru
 wo15.coinhive.com
 woork.sbhmn-miner.com
+wordc.ga
 worker0.minero.cc
 worker10.minero.cc
 worker1.minero.cc
@@ -1566,7 +1580,12 @@ www.hemnes.win
 www.infamylists.com
 www.interestingz.pw
 www.inwemo.com
+www.jqassets.download
+www.jqcdn.download
+www.jqrcdn.download
+www.jquerrycdn.download
 www.jquery-cdn.download
+www.jqwww.download
 www.jsccnn.com
 www.jscdndel.com
 www.jsecoin.com
