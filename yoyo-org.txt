@@ -5,7 +5,6 @@
 180hits.de
 180searchassistant.com
 207.net
-20a840a14a0ef7d6.com
 247media.com
 24log.com
 24log.de
@@ -639,7 +638,6 @@ ads.oneplace.com
 ads.optusnet.com.au
 ad-souk.com
 ads.outpersonals.com
-ad-space.net
 adspace.ro
 ads.passion.com
 adspeed.net
@@ -1008,7 +1006,6 @@ banner.relcom.ru
 banners.adultfriendfinder.com
 banners.amigos.com
 banners.asiafriendfinder.com
-banners.audioholics.com
 banners.babylon-x.com
 banners.bol.com.br
 banners.cams.com
@@ -1371,7 +1368,6 @@ eadexchange.com
 e-adimages.scrippsnetworks.com
 eas.almamedia.fi
 easyhits4u.com
-e-bannerx.com
 ebayadvertising.com
 ebocornac.com
 ebuzzing.com
@@ -2337,7 +2333,6 @@ supertop100.com
 supertop.ru
 surfmusik-adserver.de
 swan-swan-goose.com
-swissadsolutions.com
 switchadhub.com
 switchads.com
 swordfishdc.com
@@ -2415,6 +2410,7 @@ topsearcher.com
 topsir.com
 top-site-list.com
 topsite.lv
+topsites.com.br
 topstats.com
 totemcash.com
 touchclarity.com
