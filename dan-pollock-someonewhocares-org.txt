@@ -6696,6 +6696,7 @@ livecheck2update.thepointofforcontentingclear.bid
 livecheck.theperfectsystoupdating.date
 live.rads.msn.com
 livestats.atlanta-airport.com
+liveupdate.feednowforbrandnewcontestdistributor.win
 livingnet.adtech.de
 ll.atdmt.com
 l.linkpulse.com
@@ -12928,6 +12929,7 @@ www.regflow.com
 www.registrarads.com
 www.reklam3.net
 www.reklamzadserver.com
+www.remotepartition.com
 www.remotrk.com
 www.resolvingserver.com
 www.rewardblvd.com
