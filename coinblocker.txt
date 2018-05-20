@@ -431,7 +431,7 @@ fr1.monerise.com
 frankfurt01.monero.hashvault.pro
 frankfurt-1.xmrpool.net
 fr.cookiescript.info
-Free4Faucet.com
+free4faucet.com
 freebitco.in
 freecontent.bid
 freecontent.com
@@ -576,7 +576,6 @@ live.4480.org
 livelyoffers.club
 lmodr.biz
 load.jsecoin.com
-lọgrhythm.com
 london01.monero.hashvault.pro
 losangeles01.monero.hashvault.pro
 losital.ru
@@ -783,7 +782,6 @@ play.site.flashx.cc
 play.streaming.estream.to
 play.stream.vidzi.tv
 play.video.estream.nu
-play.video.estream.nu/
 plexcoin.info
 podrltid.info
 pon.ewtuyytdf45.com
