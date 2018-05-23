@@ -143,6 +143,7 @@ api.moengage.com
 api.oneaudience.com
 api.pubnative.net
 api.quantumgraph.com
+api.rollbar.com
 api.stats.appa.pe
 api.taplytics.com
 apiv2.moengage.com
@@ -395,6 +396,7 @@ reports.crashlytics.com
 req.startappservice.com
 rereddit.com
 roboinside.me
+rollbar.com
 rotator.axiatraders.com
 rotator.beginads.com
 rotator.buzzclicks.com
@@ -551,6 +553,7 @@ www.powertradeprofit.com
 www.pussysaga.com
 www.quickcash-system.com
 www.roboinside.me
+www.rollbar.com
 www.rotator.buzzclicks.com
 www.security-check-551.com
 www.sf-3.st.adtekmedia.com
