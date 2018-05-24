@@ -62,6 +62,7 @@ aeros09.tk
 aeros10.tk
 aeros11.tk
 aeros12.tk
+afdjljiyagf.ru
 afflow.18-plus.net
 afminer.com
 ait7ee.win
@@ -95,6 +96,7 @@ api.aeon.hashvault.pro
 api-backup.viaxmr.com
 api.bhzejltg.info
 apib.monerise.com
+api.browsermine.com
 api.coinerra.com
 api.coinhive.com
 api.crypto-loot.com
@@ -108,6 +110,7 @@ api.minexmr.com
 api.monerise.com
 api.monero.hashvault.pro
 api.moneroocean.stream
+api.netflare.info
 apin.monerise.com
 api.ppoi.org
 api.pzoifaum.info
@@ -174,6 +177,9 @@ bjorksta.men
 blockchain.jsecoin.com
 blox.minexmr.com
 blue-js.github.io
+bmcm.ml
+bmcm.pw
+bmnadutub.ru
 bmnr.pw
 bmst.pw
 boostbox.com.br
@@ -211,6 +217,7 @@ cdnfile.xyz
 cdn.inwemo.com
 cdn-jquery.host
 cdn.jquery-uim.download
+cdnjs.cloudflane.com
 cdn.minescripts.info
 cdn.nablabee.com
 cdn.rocks.io
@@ -328,6 +335,7 @@ darking09.tk
 dashboard.inwemo.com
 dashboard.monerise.com
 datasecu.download
+dataservices.download
 db.xmrpool.net
 d.cfcdist.gdn
 d.cfcnet.gdn
@@ -365,6 +373,7 @@ doubleclick4.xyz
 doubleclick5.xyz
 doubleclick6.xyz
 dronml.ml
+dxmhkisurxxxhm.ru
 dynya-may.github.io
 dzizsih.ru
 earncoins.club
@@ -373,6 +382,7 @@ ebd.cda.pl
 ec2-13-58-215-234.us-east-2.compute.amazonaws.com
 edgeno.de
 eeme7j.win
+eflbruwqt.ru
 electroneum.crypto-webminer.com
 electroneum.hashvault.pro
 electroneum.monerise.com
@@ -390,6 +400,7 @@ eth-pocket.com
 eth-pocket.de
 eth-pocket.eu
 ethtrader.de
+etlrsq.ru
 etn.cpufan.club
 etnpool.minekitten.io
 etn.spacepools.org
@@ -413,6 +424,7 @@ external.monerise.com
 fatisin.ru
 fbtc-audio.freebitco.in
 fbtc-uab.freebitco.in
+fdtpyqqsnzxvt.ru
 ffinwwfpqi.gq
 ffjk.space
 fge9vbrzwt.bid
@@ -446,6 +458,7 @@ freshrefresher.com
 fruitice.realnetwrk.com
 ftp.coinhive-manager.com
 ftp.coinlab.biz
+ftzivuesohvebj.ru
 futeboltv.com
 fxnow.ru
 gasolina.ml
@@ -475,6 +488,7 @@ gridcash.net
 gridiogrid.com
 gtg02.bestsecurepractice.com
 gulf.moneroocean.stream
+gus.host
 gustaver.ddns.ne
 gustaver.ddns.net
 hallaert.online
@@ -484,6 +498,7 @@ hashto.cash
 hashvault.pro
 hatcalter.com
 hatevery.info
+hbeuwgqt.ru
 hegrinhar.com
 hemnes.win
 herphemiste.com
@@ -501,6 +516,7 @@ host.d-ns.ga
 hrfziiddxa.ru
 huiwiw.hit.gemius.pl
 hzsod71wov.me
+igdxzzeglrlqm.ru
 igrid.org
 ihdvilappuxpgiv.ru
 iisl7wpf.me
@@ -525,12 +541,16 @@ ivuovhsn.ru
 ixvenhgwukn.ru
 japveny.ru
 jasmine.noblock.pro
+jhfdmiwcgnty.ru
 jhondi33.duckdns.org
+jqassets.download
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
 jqcdn.download
+jqr-cdn.download
 jqrcdn.download
+jquerrycdn.download
 jquery-cdn.download
 jquery-uim.download
 jqwww.download
@@ -543,6 +563,7 @@ jsecoin.com
 jurtym.cf
 jurty.ml
 jwduahujge.ru
+jwwhsqz.ru
 jyhfuqoh.info
 kalipasindra.online
 karbowanec.crypto-webminer.com
@@ -558,6 +579,7 @@ kiwifarms.net
 krb.devphp.org.ua
 ksimdw.ru
 kunay.nullrefexcep.com
+kxrcjhogag.ru
 l33tsite.info
 laferia.cr
 lan.datasecu.download
@@ -574,6 +596,7 @@ likeminer.nablabee.com
 listat.biz
 live.4480.org
 livelyoffers.club
+lmeeulcfttqv.ru
 lmodr.biz
 load.jsecoin.com
 london01.monero.hashvault.pro
@@ -654,6 +677,7 @@ miscws018.coinhive.com
 miscws027.coinhive.com
 miscws029.coinhive.com
 mjija.github.io
+mlib.browsermine.com
 mmc.center
 mmpool.org
 momwentthere.cf
@@ -770,6 +794,8 @@ pcejuyhjucmkiny.ru
 pdf-1.infamylists.com
 pearno.com
 pertholin.com
+pertosj.ru
+p.estream.to
 p.hemnes.win
 phx-2.xmrpool.net
 phx-3.xmrpool.net
@@ -807,6 +833,7 @@ ppoi.org
 pr0gram.org
 premiumstats.xyz
 pricefbcf.gq
+proj2018.xyz
 projectpoi.com
 proxy2.nullrefexcep.com
 proxy3.nullrefexcep.com
@@ -823,6 +850,8 @@ punchsub.net
 px1.papoto.com
 px2.papoto.com
 pzoifaum.info
+qlzwfzfatjth.ru
+qpmsybxqvlje.ru
 questionfly.com
 r8nu86wg.me
 rack.cryptaloot.pro
@@ -910,6 +939,7 @@ snahome.com
 spacepools.org
 sparechange.io
 sparnove.com
+sptlkiyjsglayc.ru
 sr.cookiescript.info
 srv01.bitcoiner.win
 srv02.bitcoiner.win
@@ -1004,6 +1034,7 @@ tulip18.com
 turnsocial.com
 turnsocial.now.sh
 two-jj.github.io
+udqgbokvzbnqkf.ru
 uebawtz7.me
 ullnot.download
 ulnawoyyzbljc.ru
@@ -1034,7 +1065,9 @@ video.videos.vidto.me
 vip.cfcnet.top
 vjcyehtqm9.me
 vl8c4g7tmo.me
+voumxy.ru
 vpzccwpyilvoyg.ru
+vuryua.ru
 vuuwd.com
 vxelkrhl.info
 vzhjnorkudcxbiy.com
@@ -1075,8 +1108,10 @@ willacrit.com
 witkom.sbhmn-miner.com
 witthethim.com
 wittyoffers.club
+wkkjfcgjofbix.ru
 wmemsnhgldd.ru
 wmwmwwfmkvucbln.ru
+wnmyerzbjhu.ru
 wo15.coinhive.com
 woork.sbhmn-miner.com
 wordc.ga
@@ -1538,6 +1573,7 @@ www.ajcryptominer.com
 www.analytics.blue
 www.assetscdn.stream
 www.authedmine.com
+www.aymcsx.ru
 www.bablace.com
 www.baiduccdn1.com
 www.banner.boostbox.com.br
@@ -1548,6 +1584,7 @@ www.brominer.com
 www.browsermine.com
 www.cloudcdn.gdn
 www.cloudcoins.co
+www.cloudflane.com
 www.coinblind.com
 www.coinerra.com
 www.coin-have.com
@@ -1614,6 +1651,7 @@ www-tb7c.pr0gramm.com
 www.terethat.ru
 www.test.cryptonoter.com
 www.viaxmr.com
+www.webassembly.stream
 www.webmine.pro
 www.ws.freebitco.in
 www.wsnew.freebitco.in
@@ -1643,15 +1681,20 @@ xmr.mining.best
 xmrminingproxy.com
 xmrm.pw
 xmrpool.net
+xssrmimmnq.ru
 xvideosharing.site
 xy.nullrefexcep.com
+ybjfsqcevow.ru
+yoaabgvkm.ru
 youporn.sexy
 yrdrtzmsmt.com
 yuyyio.com
 zavzlen.ru
 zgdfz6h7po.me
+zivbxion.ru
 ziykrgc.ru
 zjemch.ru
 zlx.com.br
 zny.coiner.site
 zxc1-ustokyyneikyfasnm.stackpathdns.com
+zzqhsrg.ru
