@@ -184,7 +184,6 @@ adinjector.net
 adinterax.com
 adisfy.com
 adition.com
-adition.de
 adition.net
 adizio.com
 ad.jamba.net
@@ -487,7 +486,6 @@ adserver.twitpic.com
 adserver.viagogo.com
 adserver.virginmedia.com
 adserver.yahoo.com
-adserv.evo-x.de
 adserv.gamezone.de
 adserv.iafrica.com
 adservinginternational.com
@@ -638,6 +636,7 @@ ads.oneplace.com
 ads.optusnet.com.au
 ad-souk.com
 ads.outpersonals.com
+ad-space.net
 adspace.ro
 ads.passion.com
 adspeed.net
@@ -702,7 +701,6 @@ ads.themovienation.com
 ads.thestar.com
 ads.thrillsaffiliates.com
 ads.tmcs.net
-ads.t-online.de
 ads.totallyfreestuff.com
 ads.townhall.com
 ads.trinitymirror.co.uk
@@ -1499,7 +1497,6 @@ game-advertising-online.com
 gamehouse.com
 gamesites100.net
 gamesites200.com
-gamesitestop100.com
 gbanners.hornymatches.com
 geobanner.adultfriendfinder.com
 geo.digitalpoint.com
@@ -1515,6 +1512,7 @@ gmads.net
 go-clicks.de
 goingplatinum.com
 goldstats.com
+googleadapis.l.google.com
 googleadservices.com
 google-analytics.com
 googlesyndication.com
@@ -1527,6 +1525,7 @@ grapeshot.co.uk
 graph.instagram.com
 greetzebra.com
 greystripe.com
+gstaticadssl.l.google.com
 gtop100.com
 guardedgovernor.com
 guitarbelieve.com
@@ -2505,7 +2504,6 @@ valuead.com
 valueclick.com
 valueclickmedia.com
 valuecommerce.com
-valuesponsor.com
 variablefitness.com
 veille-referencement.com
 ventivmedia.com
