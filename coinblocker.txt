@@ -306,8 +306,6 @@ cryptosearch.site
 cryptotab.net
 crypto-webminer.com
 cryptown.netlify.com
-crywebber.github.io
-cryweb.github.io
 csgocpu.com
 ctlrnwbv.ru
 ctrb.jscdndel.com
@@ -488,7 +486,6 @@ gridcash.net
 gridiogrid.com
 gtg02.bestsecurepractice.com
 gulf.moneroocean.stream
-gus.host
 gustaver.ddns.ne
 gustaver.ddns.net
 hallaert.online
