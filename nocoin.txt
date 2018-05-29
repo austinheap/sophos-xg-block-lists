@@ -91,8 +91,6 @@ crypto.csgocpu.com
 crypto-loot.com
 cryptoloot.pro
 crypto-webminer.com
-crywebber.github.io
-cryweb.github.io
 ctlrnwbv.ru
 d.cfcnet.top
 d.cpufan.club
@@ -119,7 +117,6 @@ gobba.myeffect.net
 go.megabanners.cf
 graftpool.ovh
 gridiogrid.com
-gus.host
 gustaver.ddns.net
 hatcalter.com
 hegrinhar.com
