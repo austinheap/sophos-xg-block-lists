@@ -1512,7 +1512,6 @@ gmads.net
 go-clicks.de
 goingplatinum.com
 goldstats.com
-googleadapis.l.google.com
 googleadservices.com
 google-analytics.com
 googlesyndication.com
