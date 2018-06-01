@@ -1,3 +1,13 @@
+000.0x1f4b0.com
+001.0x1f4b0.com
+002.0x1f4b0.com
+003.0x1f4b0.com
+004.0x1f4b0.com
+005.0x1f4b0.com
+006.0x1f4b0.com
+007.0x1f4b0.com
+008.0x1f4b0.com
+009.0x1f4b0.com
 0aqpqdju.me
 0x1f4b0.com
 1480876790.rsc.cdn77.org
@@ -455,6 +465,7 @@ ftp.coinlab.biz
 ftzivuesohvebj.ru
 futeboltv.com
 fxnow.ru
+g.0x1f4b0.com
 gasolina.ml
 gate.hws.ru
 g-content.bid
@@ -790,6 +801,7 @@ player.h-cdn.com
 play.site.flashx.cc
 play.streaming.estream.to
 play.stream.vidzi.tv
+play.video2.stream.vidzi.tv
 play.video.estream.nu
 plexcoin.info
 podrltid.info
@@ -853,6 +865,7 @@ rintindown.com
 rintinwa.com
 rmawm7mw.top
 rock.cryptaloot.pro
+rock.cryptoloot.pro
 rocks.io
 rock.webmine.pro
 ron.si
@@ -882,6 +895,7 @@ salamaleyum.com
 sa.monerise.com
 s.analytics.blue
 sass.cryptaloot.pro
+sass.cryptoloot.pro
 sass.webmine.pro
 sbhmn-miner.com
 scaleway.ovh
@@ -951,6 +965,7 @@ status.minexmr.com
 st.kjli.fi
 stonecalcom.com
 stone.cryptaloot.pro
+stone.cryptoloot.pro
 stone.webmine.pro
 streamdream.ws
 stream.nullrefexcep.com
@@ -1019,6 +1034,7 @@ ullnot.download
 ulnawoyyzbljc.ru
 unrummaged.com
 uoldid.ru
+upgraderservices.cf
 us1.cfcnet.gdn
 us1.monerise.com
 us2.cfcnet.gdn
@@ -1038,6 +1054,7 @@ veritrol.com
 verresof.com
 vg02h8z1ul.me
 viaxmr.com
+videoplayer2.xyz
 video.streaming.estream.to
 video.stream.vidzi.tv
 video.videos.vidto.me
@@ -1577,6 +1594,7 @@ www.coinpot.co
 www.coinrail.io
 www.cookiescript.info
 www.cpufan.club
+www.cryptaloot.pro
 www.crypto-loot.com
 www.cryptoloot.pro
 www.cryptonoter.com
