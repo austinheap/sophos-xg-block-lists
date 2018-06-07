@@ -51,6 +51,7 @@ as.cfcdist.loan
 as.cfcnet.top
 authedmine.com
 authedmine.eu
+authedwebmine.cz
 axoncoho.tk
 azvjudwr.info
 bablace.com
@@ -214,6 +215,8 @@ rintinwa.com
 rocks.io
 s2.appelamule.com
 scaleway.ovh
+site.flashx.cc
+skencituer.com
 smectapop12.pl
 sparnove.com
 staticsfs.host
