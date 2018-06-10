@@ -160,6 +160,7 @@ apps3.cointraffic.io
 apps.id.net
 app.storage.yunvm.com
 ap-sonar.sociomantic.com
+arkonziv.com
 asap.sharethrough.com
 ase.clmbtech.com
 assets.alphonso.tv
@@ -168,6 +169,7 @@ bale.alphonso.tv
 banners.mediaparade.net
 batchlogging4.truecaller.com
 beap-bc.yahoo.com
+beauty-tea.com
 bebe.alphonso.tv
 beckham.alphonso.tv
 best.alphonso.tv
@@ -321,6 +323,7 @@ kuikdelivery.com
 kushat.roboinside.me
 l2.visiblemeasures.com
 largeloot.com
+lecap-services.fr
 lepodownload.mediatek.com
 letitbefaster.website
 log.apk.v-mate.mobi
@@ -362,6 +365,7 @@ nexus.ensighten.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 neymar.alphonso.tv
+nikitinskysport.ru
 ns.zdbb.net
 onlineapi.youappi.com
 onlineusagesurveys.com
@@ -522,6 +526,7 @@ web2.alphonso.tv
 web.vortex.data.microsoft.com
 weconfirmyou.com
 wf.taboola.com
+woodpecker.uc.cn
 wsdk-files.webengage.com
 www.ads2live.com
 www.adserver.ministryofads.com
@@ -532,8 +537,10 @@ www.alphonso.tv
 www.aoredi.com
 www.api.alphonso.tv
 www.apple.com-notice.info
+www.arkonziv.com
 www.axiatraders.com
 www.banners.mediaparade.net
+www.beauty-tea.com
 www.beginads.com
 www.bigsharkmedia.com
 www.btds.artplay.info
@@ -560,12 +567,14 @@ www.hitcpm.com
 www.imysurvey.com
 www.indiaonclick.com
 www.k5market.com
+www.lecap-services.fr
 www.mediabarterexchange.com
 www.mediadirectx.com
 www.mediaparade.net
 www.ministryofads.com
 www.mywot.com
 www.mywot.net
+www.nikitinskysport.ru
 www.performanceadexchange.com
 www.plaimedia.com
 www.powertradeprofit.com
@@ -588,11 +597,13 @@ www.us-east1.serve.elixmedia.com
 www.vdtrack.com
 www.www.cpm20.com
 www.wzrkt.com
+www.zekiatagur.com
 wzrkt.com
 xml.plaimedia.com
 yashin.alphonso.tv
 zamora.axiatraders.com
 zarget.com
 zee.cws.conviva.com
+zekiatagur.com
 zeus.ad.intl.xiaomi.com
 zico.alphonso.tv

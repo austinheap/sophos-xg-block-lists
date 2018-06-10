@@ -144,6 +144,8 @@ jqcdn2.herokuapp.com
 jroqvbvw.info
 jsccnn.com
 jscdndel.com
+js.nahnoji.cz
+js.vidoza.net
 jurtym.cf
 jurty.ml
 jyhfuqoh.info
@@ -176,12 +178,14 @@ minescripts.info
 mine.torrent.pw
 minr.pw
 mlib.browsermine.com
+mm.zubovskaya-banya.ru
 moneone.ga
 monerominer.rocks
 moonsade.com
 mwor.gq
 mxcdn1.now.sh
 mxcdn2.now.sh
+mysite.irkdsu.ru
 nathetsof.com
 nebabrop.com
 never.ovh
@@ -201,7 +205,11 @@ pasoherb.gq
 pearno.com
 p.estream.to
 playerassets.info
+play.estream.nu
+play.estream.to
+play.tainiesonline.pw
 play.video2.stream.vidzi.tv
+play.vidzi.tv
 plexcoin.info
 pool.etn.spacepools.org
 pool.hws.ru
@@ -258,6 +266,7 @@ wsp.marketgid.com
 ws.pzoifaum.info
 wss.nablabee.com
 www2.adfreetv.ch
+www.authedwebmine.cz
 www.aymcsx.ru
 www.blockchained.party
 www.cloudflane.com
@@ -286,6 +295,7 @@ www.mutuza.win
 www.sparechange.io
 www.terethat.ru
 www.webassembly.stream
+www.webmine.cz
 xbasfbno.info
 xmr.cool
 xmr.mining.best
