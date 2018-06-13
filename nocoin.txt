@@ -207,6 +207,8 @@ p.estream.to
 playerassets.info
 play.estream.nu
 play.estream.to
+play.malictuiar.com
+play.pampopholf.com
 play.tainiesonline.pw
 play.video2.stream.vidzi.tv
 play.vidzi.tv
@@ -222,6 +224,8 @@ rintindown.com
 rintinwa.com
 rocks.io
 s2.appelamule.com
+s3.malictuiar.com
+s3.pampopholf.com
 scaleway.ovh
 site.flashx.cc
 skencituer.com
