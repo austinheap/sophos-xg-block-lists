@@ -80,12 +80,14 @@ adserver.adtech.de
 adserver.ministryofads.com
 adservice.google.co.in
 adservice.google.nl
+ads.exoclick.com
 ads.feedly.com
 adsflame.com
 ads.grandonmedia.com
 ads.mp.mydas.mobi
 adsmws.cloudapp.net
 ads.nexage.com
+adspaces.ero-advertising.com
 ads.proc.cc
 adtekmedia.com
 adv.axiatraders.com
