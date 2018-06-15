@@ -221,7 +221,6 @@ click.union.ucweb.com
 client-analytics.braintreegateway.com
 clockskew.alphonso.tv
 com-notice.info
-connect.facebook.net
 consumerproductsusa.com
 convhkmp.taboola.com
 convlatbmp.taboola.com
