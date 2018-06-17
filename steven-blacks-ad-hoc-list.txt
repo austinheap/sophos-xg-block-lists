@@ -601,6 +601,7 @@ sdklogs.avocarrot.com
 sdktm.w.inmobi.com
 sdkupgrade.insight.ucweb.com
 sebder.roboinside.me
+secure.exoclick.com
 secure.footprint.net
 securemetrics.apple.com
 security-check-551.com
@@ -645,9 +646,11 @@ stats.jpush.cn
 stats.speedclicks.ero-advertising.com
 stats.wp.com
 stealthedeal.com
+steenbergen.web.ero-advertising.com
 sterling.alphonso.tv
 storeconfig.mistat.intl.xiaomi.com
 support.apple.com-notice.info
+syndication-evo.exoclick.com
 s.zkcdn.net
 taboola-d.openx.net
 tag.hockeycurve.com
@@ -769,6 +772,7 @@ www.elixmedia.com
 www.enatimedia.com
 www.ero-adverising.com.ero-advertising.com
 www.ero-advertising.com
+www.exoclick.com
 www.face2trade.com
 www.gamblerush.com
 www.googletagmanager.com
