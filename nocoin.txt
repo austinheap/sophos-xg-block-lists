@@ -210,6 +210,9 @@ play.estream.to
 play.estream.xyz
 play.malictuiar.com
 play.pampopholf.com
+play.play.estream.nu
+play.play.estream.to
+play.play.estream.xyz
 play.tainiesonline.pw
 play.video2.stream.vidzi.tv
 play.vidzi.tv
