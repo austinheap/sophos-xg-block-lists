@@ -212,9 +212,11 @@ api.moengage.com
 api.oneaudience.com
 api.pubnative.net
 api.quantumgraph.com
+api.redshell.io
 api.rollbar.com
 api.stats.appa.pe
 api.taplytics.com
+api.treasuredata.com
 apiv2.moengage.com
 apiv3.moengage.com
 app.adjust.com
@@ -518,7 +520,6 @@ opps.taboola.com
 optout.alphonso.tv
 orion.iad.appboy.com
 oscar.alphonso.tv
-o_thus.ero-advertising.com
 ovc2-ustokyyneikyfasnm.stackpathdns.com
 ozil.alphonso.tv
 oz.ministryofads.com
@@ -567,6 +568,7 @@ quickcash-system.com
 rata.ero-advertising.com
 realestate2.deshmedia.com
 redirect.ero-advertising.com
+redshell.io
 register.appsflyer.com
 reports.crashlytics.com
 req.startappservice.com
@@ -668,7 +670,6 @@ thumbads.ero-advertising.com
 thumb.ero-advertising.com
 thumbs2.ero-advertising.com
 thumbs.xlaces.ero-advertising.com
-_thums.ero-advertising.com
 tiumbs.ero-advertising.com
 tn.alphonso.tv
 t.newlimitedoffer.com
@@ -687,6 +688,7 @@ track.tenjin.io
 tradersbrokers.com
 trafforsrv.com
 tr.alphonso.tv
+treasuredata.com
 tripan.me
 ttwitter.com
 tvads.alphonso.tv
