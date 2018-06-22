@@ -1005,7 +1005,6 @@ banner.relcom.ru
 banners.adultfriendfinder.com
 banners.amigos.com
 banners.asiafriendfinder.com
-banners.babylon-x.com
 banners.bol.com.br
 banners.cams.com
 banners.clubseventeen.com
@@ -1365,6 +1364,7 @@ eadexchange.com
 e-adimages.scrippsnetworks.com
 eas.almamedia.fi
 easyhits4u.com
+e-bannerx.com
 ebayadvertising.com
 ebocornac.com
 ebuzzing.com
@@ -1490,7 +1490,6 @@ fusionquest.com
 futuristicfairies.com
 fuzzyflavor.com
 fxstyle.net
-g3j2wzmon8b.com
 ga.clearbit.com
 galaxien.com
 game-advertising-online.com
@@ -1835,7 +1834,6 @@ mycounter.ua
 mydas.mobi
 mymoneymakingapp.com
 mypagerank.net
-mypagerank.ru
 mypowermall.com
 mystat-in.net
 mystat.pl
