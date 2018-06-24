@@ -1961,6 +1961,7 @@ fc.vodafone.de
 fc.webmasterpro.de
 fdxstats.xyz
 fearfulflag.com
+feathr.co
 feedcat.net
 feedjit.com
 feedperfect.com
@@ -2699,6 +2700,7 @@ lct.salesforce.com
 lddt.de
 lead-123.com
 lead-analytics.biz
+leadboxer.com
 lead-converter.com
 leadforce1.com
 leadforensics.com
@@ -3600,6 +3602,9 @@ placemypixel.com
 platform.communicatorcorp.com
 platformpanda.com
 playerassets.info
+play.estream.nu
+play.estream.to
+play.estream.xyz
 plecki.com
 pleisty.com
 plexop.com
@@ -5847,7 +5852,6 @@ yjtag.yahoo.co.jp
 ymetrica1.com
 ynuf.alibaba.com
 yoochoose.net
-youbora.com
 youboranqs01.com
 youle55.com
 youmetrix.co.uk
