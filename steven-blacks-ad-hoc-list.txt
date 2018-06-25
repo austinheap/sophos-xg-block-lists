@@ -150,6 +150,7 @@ adstaces.ero-advertising.com
 adtekmedia.com
 adv.axiatraders.com
 adv.grandonmedia.com
+adv.sec.intl.miui.com
 adw.ero-advertising.com
 adwpaces.ero-advertising.com
 adzerk.com
@@ -203,17 +204,22 @@ api.ad.xiaomi.com
 api.alphonso.tv
 api.axiatraders.com
 api.branch.io
+api.brs.intl.miui.com
 api.c.avazunativeads.com
 api.cloudmobi.net
+api.collect.data.intl.miui.com
 api.d.xiaomi.com
 api.eqmob.com
 api.grandonmedia.com
+api.hybrid.intl.xiaomi.com
 api.moengage.com
 api.oneaudience.com
 api.pubnative.net
 api.quantumgraph.com
 api.redshell.io
 api.rollbar.com
+api.sec.intl.miui.com
+api.setting.intl.miui.com
 api.stats.appa.pe
 api.taplytics.com
 api.treasuredata.com
@@ -234,6 +240,7 @@ ase.clmbtech.com
 assets.alphonso.tv
 a.stat.xiaomi.com
 ata.ero-advertising.com
+authbe.sec.intl.miui.com
 bale.alphonso.tv
 ban3ers.ero-advertising.com
 ban4ers.ero-advertising.com
@@ -334,6 +341,7 @@ datacollect.vmall.com
 data-ero-advertising.com
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
+data.sec.intl.miui.com
 date.ero-advertising.com
 dats.ero-advertising.com
 datt.ero-advertising.com
@@ -387,6 +395,7 @@ feedback.uc.cn
 fgoogle.com
 fhatfee.ero-advertising.com
 files.ctnet4.space
+flash.sec.intl.miui.com
 flashtest.ero-advertising.com
 flatdee.ero-advertising.com
 flatfae.ero-advertising.com
@@ -616,6 +625,7 @@ sf-3.east.kobenetwork.com
 sf3.east.kobenetwork.com
 sf-3.st.adtekmedia.com
 sg.mmstat.com
+sgp.o2o.api.xiaomi.com
 silva.alphonso.tv
 sin.ero-advertising.com
 sionicmedia.com
@@ -746,6 +756,7 @@ www.a.ero-advertising.com
 www.alliance4media.com
 www.alphonso.tv
 www.aoredi.com
+www.api.ad.intl.xiaomi.com
 www.api.alphonso.tv
 www.apple.com-notice.info
 www.arkonziv.com
@@ -829,5 +840,6 @@ zarget.com
 zee.cws.conviva.com
 zekiatagur.com
 zeus.ad.intl.xiaomi.com
+zeus.ad.xiaomi.com
 zico.alphonso.tv
 zww.ero-advertising.com

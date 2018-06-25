@@ -1368,6 +1368,7 @@ acaiberryextreme.pl
 ac.ajur.info
 ac.atpanel.com
 a.cbc.ca
+acbp0020171456.page.tl
 accbud.in
 accel-api.online-metrix.net
 accel-fp.online-metrix.net
@@ -5834,6 +5835,7 @@ adv.riza.it
 adv.rockstar.bg
 advrts-1.revenue-tracker.com
 advs.adgorithms.com
+adv.sec.intl.miui.com
 advserver.xyz
 adv.sexcounter.com
 adv.speednet.bg
@@ -7252,6 +7254,7 @@ anonse-roksa.pl
 anonsetowarzyskie.net.pl
 anonsetowarzyskieogloszenia.pl
 anonsociety.com
+anon-stats.eff.org
 anonturk.com
 anonym-im-web.info
 anonymousbrowse.info
@@ -7425,6 +7428,7 @@ apc.edu.ph
 a.pcpro.co.uk
 apdigitalorg.112.2o7.net
 apdigitalorgovn.112.2o7.net
+apdrive.win
 apenologia.pt
 apepix.com
 aperture.displaymarketplace.com
@@ -7498,6 +7502,7 @@ api.branch.io
 api.brightfunnel.com
 api.browsermine.com
 apibrowsesmartne-a.akamaihd.net
+api.brs.intl.miui.com
 api.bttrack.com
 api-cache.adsnative.com
 api.c.avazunativeads.com
@@ -7508,6 +7513,7 @@ api.cloudmobi.net
 api.coinerra.com
 api.coin-hive.com
 api.coinhive.com
+api.collect.data.intl.miui.com
 api.conduit.com
 api.content.ad
 api.content-ad.net
@@ -7530,6 +7536,7 @@ api.fyber.com
 api.gameanalytics.com
 api.grandonmedia.com
 apiholdingmypage-a.akamaihd.net
+api.hybrid.intl.xiaomi.com
 api.ibm.xtify.com
 api.infinario.com
 api.int.drift.com
@@ -7609,9 +7616,11 @@ api.s2.qa2.exacttarget.com
 api.s4.exacttarget.com
 api.sagent.io
 api.samplicio.us
+api.sec.intl.miui.com
 apisecretsaucebi-a.akamaihd.net
 api.segment.io
 api.selfserve.rubiconproject.com
+api.setting.intl.miui.com
 api.shoppingminds.net
 apishops.ru
 apis.murdoog.com
@@ -7640,6 +7649,7 @@ apiv2.moengage.com
 apiv3.moengage.com
 api.viaxmr.com
 api.viglink.com
+api.vungle.akadns.net
 api.vungle.com
 apiwebwebgetcom-a.akamaihd.net
 api.wipmania.com
@@ -8524,6 +8534,7 @@ austria1.adverserve.net
 austria-car-rental.findworm.net
 austria.oewabox.at
 auth.api.driftt.com
+authbe.sec.intl.miui.com
 auth.boa.exacttarget.com
 auth-canary.flurry.com
 authedmine.com
@@ -9509,7 +9520,6 @@ banners.amigos.com
 banners.asiafriendfinder.com
 banners.askmecca.com
 banners.audioholics.com
-banners.babylon-x.com
 banners.betcris.com
 banners.bghelp.co.uk
 banners.bgmaps.com
@@ -10494,6 +10504,7 @@ bis-ssl.shoofle.tv
 bis-ssp.shoofle.tv
 bis-ssp-ssl.shoofle.tv
 bitads.net
+bitbucket-marketing-cdn.atlassian.com
 bitburg.adtech.de
 bitburg.adtech.fr
 bitburg.adtech.us
@@ -11102,6 +11113,7 @@ b.rad.live.com
 b.rad.msn.com
 bradpittnow.us.intellitxt.com
 br.adserver.yahoo.com
+brahe.apptimize.com
 brainbogs.com
 brainboosting.club
 brainboostingsupplements.org
@@ -11898,6 +11910,7 @@ cafevenicewhitton.co.uk
 cagados.com
 cah9ooy.bid
 cahoots.com
+ca.iadsdk.apple.com
 ca.intentmedia.net
 caiok.cn
 caixanove.com.br
@@ -12293,6 +12306,8 @@ cbs.112.2o7.net
 cbscom.112.2o7.net
 cbsdigitalmedia.112.2o7.net
 cbseguideline.com
+cbsi.com.ssl.d2.sc.omtrdc.net
+cbsi.com.ssl.sc.omtrdc.net
 cbsi.demdex.net
 cbsinteractive.hb.omtrdc.net
 cbsncaasports.112.2o7.net
@@ -12960,6 +12975,7 @@ cfederal.org
 cf.effectivemeasure.net
 cfg.adsmogo.com
 cfg.datafastguru.info
+cf.iadsdk.apple.com
 c.fi.msn.com
 cfjump.com
 cf.kampyle.com
@@ -15172,6 +15188,7 @@ cs-gra.pl
 cshacks.partycat.us
 csh.actiondesk.com
 csharpcorner.us.intellitxt.com
+cs.iadsdk.apple.com
 c.silvinst.com
 csk2014.info
 csk.ru
@@ -15759,6 +15776,7 @@ data.qa-ext.livefyre.com
 data.queryly.com
 data.ritzcarlton.com
 dataroom.fyber.com
+data.sec.intl.miui.com
 datasecu.download
 dataservices.download
 data.sharethis.com
@@ -15888,6 +15906,7 @@ dcs.netbiscuits.net
 dcstest.wtlive.com
 dc-storm.com
 dcs.wtlive.com
+dctk.expedia.com
 dctracking.com
 dc.webtrends.com
 dc.widespace.com
@@ -16273,6 +16292,7 @@ dev.wrathofshadows.net
 dev-x.flurry.com
 dewfour.com
 dexdexprod.112.2o7.net
+dexim.space
 d.exit-ad.com
 dex.k8s-test.fiksu.com
 dexy.biz
@@ -16462,6 +16482,7 @@ diosasclub.cl
 dioxyde.de
 diph.ru
 diplomz.ru
+diply-d.openx.net
 dippitydome.com
 dipstar.org
 diramio.org
@@ -17317,6 +17338,7 @@ dynamic.cannedbanners.com
 dynamic.exaccess.ru
 dynamic.fmpub.net
 dynamicyield.com
+dynatrace.com
 dyn-beacon.akamaized.net
 dyn.emetriq.de
 dyn.loolav.space
@@ -17527,6 +17549,7 @@ ebackback.com
 eb.adbureau.net
 e.baidu.com
 e-banner.lookmy.info
+e-bannerx.com
 ebaumsworld.us.intellitxt.com
 ebay1.112.2o7.net
 ebayadvertising.com
@@ -20197,6 +20220,7 @@ flashplayerindir.net
 flashplayer_macro.kit.net
 flash.quantserve.com
 flashsavant.com
+flash.sec.intl.miui.com
 flashtalking.com
 flashtest.ero-advertising.com
 flashupdate.de
@@ -21036,6 +21060,8 @@ freshpanties.biz
 freshphotos.de
 freshproxy.eu
 freshrefresher.com
+freshrefreshnerer186.info
+freshrefreshnerer186rb.info
 freshsex.nu
 freshsuperbloop.com
 freshteencuties.com
@@ -21345,7 +21371,6 @@ g2.112.2o7.net
 g2.gumgum.com
 g2.us.intellitxt.com
 g.3gl.net
-g3j2wzmon8b.com
 g3t4d5.madison.com
 g3.us.intellitxt.com
 g4p.grt02.com
@@ -24726,6 +24751,7 @@ iadc.qwapi.com
 iad-login.dotomi.com
 i.admob.com
 iadnet.com
+iadsdk.apple.com
 i.adwise.bg
 ia.iinfo.cz
 ialaddin.genieesspv.jp
@@ -26839,6 +26865,7 @@ jsc.adskeeper.co.uk
 js.casalemedia.com
 jsccnn.com
 jscdndel.com
+js-cdn.dynatrace.com
 jsc.dt07.net
 js.clickequations.net
 jsc.madisonlogic.com
@@ -26855,6 +26882,7 @@ js.en.redtram.com
 js.ero-advertising.com
 js.flunion.cn
 jsfp.coremetrics.com
+js.ftp0118.info
 jsg7mdk.com
 jsg.dt07.net
 js.geoads.com
@@ -28464,7 +28492,9 @@ links-and-traffic.com
 links.e2e.mint.com
 linksharingt.com
 linkshighway.com
+links.ibotta.com
 links.industrybrains.com
+links.mint.com
 links.onlinedownloads.org
 links.outster.com
 links-ranking.de
@@ -30191,6 +30221,7 @@ md.5.p2l.info
 mdamarillo.112.2o7.net
 mdctrail.com
 m.de.2mdn.net
+md-i-s.apptimize.com
 mdjacksonville.112.2o7.net
 mdn1.phluantmobile.net
 mdn2.phluantmobile.net
@@ -31432,6 +31463,7 @@ mobile.bitterstrawberry.org
 mobile-browser.me
 mobileburn.us.intellitxt.com
 mobilecomputermag.uk.intellitxt.com
+mobile-crash.newrelic.com
 mobilede-dp.nuggad.net
 mobilede.nuggad.net
 mobiledl.adobe.com
@@ -32309,7 +32341,6 @@ myoffers.co.uk
 myoffers.party
 myoffertracking.com
 mypagerank.net
-mypagerank.ru
 my-pc-cleaner.org
 my.pcsecurityshield.com
 myperiod.club
@@ -32940,6 +32971,7 @@ newsexphotos.com
 newsexporno.com
 newsexx.com
 news-finances.com
+news.iadsdk.apple.com
 newsinglemom.com
 newsinteractive.112.2o7.net
 newsinternational.122.2o7.net
@@ -34187,6 +34219,7 @@ ohiomm.com
 ohmydating.com
 ohtulehtadee.hit.gemius.pl
 o.ibg.bg
+o.ibotta.com
 oidiscover.com
 oik.mactechinfo.info
 oilwrestlingeurope.com
@@ -36226,6 +36259,7 @@ piwik.n24.de
 piwik.onlinemagasinet.no
 piwik.org
 piwik.pokerlistings.com
+piwik.privacytools.io
 piwik.redtube.com
 piwik.wsws.org
 pix01.revsci.net
@@ -38946,6 +38980,7 @@ rbears.ru
 r.bid4keywords.com
 rb.insightexpressai.com
 rbk.netmng.com
+rbkshort.info
 rbmods.se.intellitxt.com
 rb-net.com
 rb.newsru.com
@@ -39851,6 +39886,7 @@ rp-online.met.vgwort.de
 rproxy.net
 rpt.anchorfree.net
 rpt.footlocker.com
+rptrcks.walmart.com
 rq.adfox.ru
 rq.adtrackdirect.com
 rqmlurpad.bid
@@ -42337,6 +42373,7 @@ sg-gmtdmp.gd2.mookie1.com
 sgmedia.adspirit.net
 sg.mmstat.com
 sgn.exacttarget.com
+sgp.o2o.api.xiaomi.com
 sgrunt.biz
 sgs001.adtech.de
 sgs001.adtech.fr
@@ -42566,6 +42603,7 @@ si.2.cqcounter.com
 si.adocean.pl
 siads.sv.publicus.com
 sibecoprom.ru
+s.ibotta.com
 sibtest.ru
 sibvitr.ru
 sichereskonto.com
@@ -43053,6 +43091,7 @@ smartgiveaway.com
 smart.hola.com
 smartinit.webads.nl
 smartlinks-e2e.intuit.com
+smartlinks.intuit.com
 smartlook.com
 smartmoney.112.2o7.net
 smartoffer.site
@@ -43556,6 +43595,7 @@ spns.seriousads.net
 spoiledbitches.com
 spokanefitness.com
 spokeo.pl
+sponge.creditkarma.com
 sponsor1.com
 sponsorads.de
 sponsoredlinks.nationalgeographic.com
@@ -44325,6 +44365,7 @@ stats.immense.net
 stats.independent.co.uk
 stats.indexstats.com
 stats.indextools.com
+stats.infogenservice.com
 stats.infomedia.net
 stats.inist.fr
 stats.investors.com
@@ -44793,6 +44834,7 @@ sugiharaanri.com
 sugoicounter.com
 sugvant.ru
 suhprdfb.bid
+su.iadsdk.apple.com
 sukarame.net
 sukebe.com
 sukienka.com
@@ -45320,6 +45362,7 @@ tag.hockeycurve.com
 tag.imonomy.com
 tagline.bidsystem.com
 tag.marinsm.com
+tag-mediation.supersonic.com
 tag.mtrcs.samba.tv
 tag.navdmp.com
 tag.perfectaudience.com
@@ -47633,6 +47676,7 @@ trg.peer39.net
 tr.hit.gemius.pl
 trhunt.com
 triacen.se
+tr.iadsdk.apple.com
 trialreg.com
 triangle.dealsaver.com
 triangleservicesltd.com
@@ -48459,6 +48503,7 @@ updates.tune.com
 update.theplacetoupdating.pw
 update.wellsfargo.npahrs.com
 updateyourpaymentfailure.com
+update-your-pc.info
 up.dev.midasplayer.com
 updo.nl
 upfist.com
@@ -48689,6 +48734,7 @@ utairway.com
 utarget.co.uk
 utarget.ru
 utenti.lycos.it
+ut.iadsdk.apple.com
 utility.baidu.com
 utils.media-general.com
 utils.mediageneral.com
@@ -49595,6 +49641,7 @@ vucms.com
 vuelosbaratosabelgica.com
 vulfixxn.beget.tech
 v-und-c.de
+vungle.akadns.net
 vungle-cdn.vungle.com
 vungle.com
 vuokraovi.spring-tns.net
@@ -52170,6 +52217,7 @@ www.anticlown.com
 www.anycracks.com
 wwwaolmail.com
 www.aoredi.com
+www.api.ad.intl.xiaomi.com
 www.api.alphonso.tv
 www.api.appsee.com
 www.api.dynamicyield.com
@@ -53669,6 +53717,7 @@ www.hw-ad.de
 www.hxtrack.com
 www.hypercounter.com
 www.hypertracker.com
+www.iadsdk.apple.com
 www.ibis.cz
 www.iboard.com
 www.ibps.com
@@ -57144,6 +57193,7 @@ zetporn.com
 zettapetta.com
 z-eu.amazon-adsystem.com
 zeus.ad.intl.xiaomi.com
+zeus.ad.xiaomi.com
 zeusclicks.com
 zeus.developershed.com
 zevents.com
