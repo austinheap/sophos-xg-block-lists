@@ -2804,6 +2804,7 @@ api.murdoog.com
 api.opencandy.com
 api.optnmnstr.com
 api-public.addthis.com
+api.redshell.io
 api.sagent.io
 api.shoppingminds.net
 apis.murdoog.com
@@ -6278,6 +6279,7 @@ internet.billboard.cz
 interyield.td573.com
 intnet-offer.com
 intrack.pl
+in.treasuredata.com
 int.sitestat.com
 invitefashion.com
 invite.gezinti.com
@@ -9088,6 +9090,7 @@ redirect.hotkeys.com
 re.directrev.com
 redirect.xmlheads.com
 redonetype.com
+redshell.io
 redsheriff.com
 reduxads.valuead.com
 refinance.shengen.ru
@@ -10507,7 +10510,6 @@ timewarner.122.2o7.net
 tipsforall.xyz
 tips.oewabox.at
 tipsurf.com
-tiqcdn.com
 tirolcom.oewabox.at
 titan-gel-extra.com
 tivvitter.com
@@ -10945,6 +10947,7 @@ trckaction.com
 trcko.com
 trc.taboola.com
 trc.taboolasyndication.com
+treasuredata.com
 trekmedia.net
 trendingpatrol.com
 trendnews.com
