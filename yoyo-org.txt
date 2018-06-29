@@ -136,7 +136,6 @@ adengage.com
 ad.eurosport.com
 adexchangegate.com
 adexchangeprediction.com
-adexcite.com
 adexpose.com
 adext.inkclub.com
 ad.f1cd.ru
@@ -220,7 +219,6 @@ admarketplace.net
 admarvel.com
 admax.nexage.com
 admedia.com
-admedia.ro
 ad.media-servers.net
 ad.mediastorm.hu
 admeld.com
@@ -574,7 +572,6 @@ ads.justhungry.com
 adsk2.co
 ads.kabooaffiliates.com
 ads.kaktuz.net
-adskape.ru
 ads.kelbymediagroup.com
 ads.kinobox.cz
 ads.kinxxx.com
@@ -954,7 +951,6 @@ avzadsrv.com
 awempire.com
 awin1.com
 a.xanga.com
-b0b1o.bid
 b-1st.com
 b59812ee54afcabd.com
 ba.afl.rakuten.co.jp
@@ -1005,6 +1001,7 @@ banner.relcom.ru
 banners.adultfriendfinder.com
 banners.amigos.com
 banners.asiafriendfinder.com
+banners.babylon-x.com
 banners.bol.com.br
 banners.cams.com
 banners.clubseventeen.com
@@ -1518,7 +1515,6 @@ go-rank.de
 gorgeousground.com
 gostats.com
 gp.dejanews.com
-grafstat.ro
 grapeshot.co.uk
 graph.instagram.com
 greetzebra.com
@@ -1834,6 +1830,7 @@ mycounter.ua
 mydas.mobi
 mymoneymakingapp.com
 mypagerank.net
+mypagerank.ru
 mypowermall.com
 mystat-in.net
 mystat.pl
@@ -1847,7 +1844,6 @@ nastydollars.com
 nativeroll.tv
 navigator.io
 navrcholu.cz
-nbhxgjz.com
 nbjmp.com
 ncaudienceexchange.com
 ndparking.com
@@ -2229,7 +2225,6 @@ sitestat.com
 sixsigmatraffic.com
 skimresources.com
 skylink.vn
-slickaffiliate.com
 slopeaota.com
 smart4ads.com
 smartadserver.com
@@ -2499,6 +2494,7 @@ valuead.com
 valueclick.com
 valueclickmedia.com
 valuecommerce.com
+valuesponsor.com
 variablefitness.com
 veille-referencement.com
 ventivmedia.com
