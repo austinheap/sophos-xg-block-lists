@@ -519,6 +519,7 @@ nikitinskysport.ru
 nl1.ero-advertising.com
 nl2.ero-advertising.com
 nners.ero-advertising.com
+notification-browser.tools
 ns.zdbb.net
 oata.ero-advertising.com
 onlineapi.youappi.com
@@ -590,6 +591,7 @@ rotator.buzzclicks.com
 rs2.ero-advertising.com
 rs.ero-advertising.com
 rt.applovin.com
+rtb-adsterra.flshtrk.store
 rtbdev4.alphonso.tv
 rtblbtr.alphonso.tv
 rtb-useast.kobenetwork.com
@@ -621,6 +623,7 @@ s.ero-advertising.com
 service.face2trade.com
 service.videoplaza.tv
 settings.crashlytics.com
+sex-and-flirt.com
 sf-3.east.kobenetwork.com
 sf3.east.kobenetwork.com
 sf-3.st.adtekmedia.com
@@ -661,6 +664,7 @@ stealthedeal.com
 steenbergen.web.ero-advertising.com
 sterling.alphonso.tv
 storeconfig.mistat.intl.xiaomi.com
+supload.com
 support.apple.com-notice.info
 syndication-evo.exoclick.com
 s.zkcdn.net
