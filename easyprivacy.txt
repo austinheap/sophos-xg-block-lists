@@ -878,7 +878,6 @@ bytemgdd.com
 bzclk.baidu.com
 c0i8h8ac7e.bid
 c1exchange.com
-c212.net
 c2s-openrtb.liverail.com
 c3metrics.com
 c3metrics.medifast1.com
@@ -1644,6 +1643,7 @@ dkj2m377b0yzw.cloudfront.net
 dk-statistik.de
 dl1d2m8ri9v3j.cloudfront.net
 dle-news.pw
+dl.meliacloud.com
 dlrowehtfodne.com
 dlvkf5067xruv.cloudfront.net
 dmanalytics1.com
@@ -3775,6 +3775,7 @@ quadran.eu
 quaintcan.com
 quantcount.com
 quantummetric.com
+quartic.pl
 qubitanalytics.appspot.com
 qubitproducts.com
 questionpro.com
@@ -4014,6 +4015,7 @@ sajari.com
 salecycle.com
 salemove.com
 salesgenius.com
+salesmanago.pl
 saletrack.co.uk
 sal.isanook.com
 sambaads.com
@@ -4196,6 +4198,7 @@ skylog.kz
 sl-ct5.com
 slingpic.com
 slogantrend.de
+smadex.com
 smallseotools.com
 smartctr.com
 smart-digital-solutions.com
@@ -4771,6 +4774,7 @@ synconnector.com
 sync.rambler.ru
 synergy-e.com
 synergy-sync.com
+synerise.com
 synovite-scripts.com
 synthasite.net
 sysomos.com
