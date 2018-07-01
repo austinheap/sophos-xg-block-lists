@@ -1320,6 +1320,7 @@ counter.star.lg.ua
 counterstation.de
 counterstatistik.de
 counter.theconversation.edu.au
+counter.tldw.me
 counter.top.ge
 counter.top.kg
 counter.tovarro.com
@@ -2839,6 +2840,7 @@ log.olark.com
 log.optimizely.com
 log.outbrain.com
 log.pinterest.com
+log.prezi.com
 log.r7.com
 log.ren.tv
 logrocket.com
@@ -3172,6 +3174,7 @@ mwstats.net
 mxcdn.net
 mxptint.net
 myaffiliateprogram.com
+myaudience.de
 mycounter.com.ua
 mycounter.ua
 mycrypto.company
@@ -3484,6 +3487,7 @@ perfiliate.com
 performanceanalyser.net
 performancerevenues.com
 performances.bestofmedia.com
+performance.typekit.net
 performax.cz
 performtracking.com
 perimeterx.net
@@ -5549,6 +5553,7 @@ vinsight.de
 vinub.com
 viralninjas.com
 vira.ru
+virgul.com
 virool.com
 virtualnet.co.uk
 vi-serve.com
