@@ -224,6 +224,7 @@ api.stats.appa.pe
 api.taplytics.com
 api.treasuredata.com
 api.tvpage.com
+api.userstyles.org
 apiv2.moengage.com
 apiv3.moengage.com
 app.adjust.com
