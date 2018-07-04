@@ -223,9 +223,11 @@ api.setting.intl.miui.com
 api.stats.appa.pe
 api.taplytics.com
 api.treasuredata.com
+api.tvpage.com
 apiv2.moengage.com
 apiv3.moengage.com
 app.adjust.com
+appcdn.tvpage.com
 apple.com-notice.info
 applog.camera360.com
 applog.uc.cn
@@ -240,6 +242,7 @@ ase.clmbtech.com
 assets.alphonso.tv
 a.stat.xiaomi.com
 ata.ero-advertising.com
+a.tvpage.com
 authbe.sec.intl.miui.com
 bale.alphonso.tv
 ban3ers.ero-advertising.com
@@ -296,6 +299,7 @@ cdn.auditude.com
 cdn.beginads.com
 cdn.bitmedianetwork.com
 cdn-jp.gsecondscreen.com
+cdnjs.tvpage.com
 cdn.moengage.com
 cdn.mxpnl.com
 cdn.segment.com
@@ -496,6 +500,7 @@ mediaparade.net
 metrics.adage.com
 metrics.brightcove.com
 miami.ero-advertising.com
+mktg.tvpage.com
 mobileads.ero-advertising.com
 mobile.pipe.aria.microsoft.com
 montrealgazette.stats.com
@@ -633,6 +638,7 @@ sgp.o2o.api.xiaomi.com
 silva.alphonso.tv
 sin.ero-advertising.com
 sionicmedia.com
+sitecdn.tvpage.com
 sixstitch.win
 smetrics.bestbuy.com
 smtp.ero-advertising.com
@@ -651,6 +657,7 @@ srv.pixel.parsely.com
 ssl.widgets.webengage.com
 ssp.ad.xiaomi.com
 ssp.face2trade.com
+stage.tvpage.com
 stat-c.maxthon.com
 static.clmbtech.com
 static.elixmedia.com
@@ -708,6 +715,7 @@ tripan.me
 ttwitter.com
 tvads.alphonso.tv
 tvmds.tvpassport.com
+tvpage.com
 twitter.cm
 typo3.ero-advertising.com
 udm.scorecardresearch.com
@@ -726,6 +734,7 @@ vamsoupowoa.com
 vanpersie.alphonso.tv
 vdtrack.com
 videoplayer.vice.technology
+videos-bleepingcomputers-com.tvpagecdn.com
 vidutils.taboola.com
 villa.alphonso.tv
 virtual.thewhig.com
@@ -830,6 +839,7 @@ www.support.apple.com-notice.info
 www.thumb.ero-advertising.com
 www.torrenty-org.pl
 www.tradersbrokers.com
+www.tvpage.com
 www.tvpassport.com
 www.urldelivery.com
 www.us-east1.serve.elixmedia.com
