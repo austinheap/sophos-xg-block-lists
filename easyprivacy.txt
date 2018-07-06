@@ -1590,6 +1590,7 @@ deliver.ifeng.com
 deliv.lexpress.fr
 demandmedia.s3.amazonaws.com
 de-mi-nis-ner2.info
+denakop.com
 depttake.ga
 dep-x.com
 deqwas.net
@@ -2813,6 +2814,7 @@ logger.rm.uol.com.br
 logger.snackly.co
 logger.sociablelabs.com
 logger.su
+logger.uol.com.br
 logger.viki.io
 loggingapi.spingo.com
 logging.carambo.la
@@ -3235,6 +3237,7 @@ naytev.com
 nb.myspace.com
 ncdnprorogeraie.lol
 ncom.dk
+nctrk.abmail.com.br
 nddmcconmqsy.ru
 ndf81.com
 ndg.io
@@ -3286,6 +3289,7 @@ nfwebminer.com
 ngacm.com
 ngastatic.com
 ngmco.net
+nicequest.com
 nicewii.com
 niematego.tk
 niftymaps.com
@@ -4893,6 +4897,7 @@ thatresha.com
 theadex.com
 theagency.com
 thebestlinks.com
+thecounter.com
 thefreehitcounter.com
 thehairofcaptainpicard.com
 thermstats.com
@@ -5366,6 +5371,7 @@ triggertag.gorillanation.com
 triggit.com
 tr.interlake.net
 triptease.io
+trk.absuite.com.br
 trk.adbutter.net
 trk.bhs4.com
 trk.email.dynect.net
@@ -5393,6 +5399,7 @@ truehits.net
 trugaze.io
 truoptik.com
 truthfulturn.com
+tru.webelapp.com
 tr.webantenna.info
 tr.werkenntwen.de
 try.abtasty.com
