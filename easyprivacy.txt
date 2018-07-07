@@ -483,6 +483,7 @@ analytics.yahoo.com
 analytics.yolacdn.net
 analytics.yola.net
 analytics.zhihu.com
+analytics.ziftsolutions.com
 analytic.xingcloud.com
 analytk.com
 analyze.full-marke.com
@@ -5192,6 +5193,7 @@ tracking.nextdoor.com
 tracking.novem.pl
 tracking.oe24.at
 tracking.olx-st.com
+tracking.pacharge.com
 tracking.performgroup.com
 tracking.plattformad.com
 tracking.plinga.de
