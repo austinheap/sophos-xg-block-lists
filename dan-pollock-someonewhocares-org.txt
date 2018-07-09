@@ -6303,6 +6303,7 @@ ipdata.adtech.fr
 ipdata.adtech.us
 iphone-avril.offreflash.xyz
 iplogger.org
+ipm-provider.ff.avast.com
 iprocollect.realmedia.com
 iq001.adtech.de
 iq001.adtech.fr
@@ -9785,6 +9786,7 @@ s.media-imdb.com
 smedizin.oewabox.at
 s.megaclick.com
 smetrics.att.com
+smetrics.tesco.com
 smibs.112.2o7.net
 smile-angel.com
 smile.modchipstore.com
