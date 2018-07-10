@@ -1375,7 +1375,6 @@ academy.dynamicyield.com
 academyfm.com
 academy.gigya.com
 academy.tune.com
-academy.wix.com
 acaiberry.de
 acaiberrydot.com
 acaiberryextreme.pl
@@ -6675,6 +6674,7 @@ akamai-san1.exacttarget.com
 akamai-san20.exacttarget.com
 akamai-san21.exacttarget.com
 akamai-san22.exacttarget.com
+akamai-san23.exacttarget.com
 akamai-san24.exacttarget.com
 akamai-san4.exacttarget.com
 akamai-san5.exacttarget.com
@@ -7186,6 +7186,7 @@ amourangels.biz
 a.mouseflow.com
 amoxicillin.ourtablets.com
 a.mozefakt.com
+ampblog.tritondigital.com
 amp.casalemedia.com
 ampedmedia.directtrack.com
 amphion.se
@@ -7203,6 +7204,7 @@ amp.locations.yext.com
 ampmetrics.engadget.com
 ampmetrics.techcrunch.com
 amp.mxptint.net
+am-pops.xml.adx1.com
 ampower.me
 amp.services
 amricanfidelity.com
@@ -7388,6 +7390,7 @@ analytics.rogersmedia.com
 analytics.safelinking.net
 analytics.sanoma.fi
 analytics.services.kirra.nl
+analytics-service.us-east-1.prod.public.atl-paas.net
 analytics.shareaholic.com
 analytics.siliconexpert.com
 analytics.sitewit.com
@@ -7634,7 +7637,6 @@ anshrit.com
 anstanley.com
 answerbag.us.intellitxt.com
 answerhub.com
-answers.42.wix.com
 answers.chartboost.com
 answers.dynatrace.com
 answers.livefyre.com
@@ -7930,6 +7932,7 @@ api.bidder7.mookie1.com
 api.bidder9.mookie1.com
 api.bidr.io
 api.bigmobileads.com
+api.billing.internal.intercom.io
 api.bizographics.com
 apib.monerise.com
 api.boa.exacttarget.com
@@ -8077,8 +8080,6 @@ api.sec.intl.miui.com
 apisecretsaucebi-a.akamaihd.net
 api.segment.io
 api.selfserve.rubiconproject.com
-api-seowizard2.wix.com
-api-seowizard.wix.com
 api.setting.intl.miui.com
 api.shoppingminds.net
 apishops.ru
@@ -8352,7 +8353,6 @@ app.stage.driftt.com
 app-stage.truconversion.com
 app.storage.yunvm.com
 app.super-links.net
-apps.wix.com
 app.syndicaster.tv
 apptester.tk
 app.test.exacttarget.com
@@ -10945,7 +10945,6 @@ bis-ssp-ssl.installfarm.com
 bis-ssp-ssl.placeyourview.com
 bis-ssp-ssl.shoofle.tv
 bitads.net
-bitbucket-marketing-cdn.atlassian.com
 bitburg.adtech.de
 bitburg.adtech.fr
 bitburg.adtech.us
@@ -11174,7 +11173,6 @@ bloggang.co
 bloggedporn.com
 bloggen.be
 bloggerads.net
-blogger.apps.wix.com
 bloggernetwork-d.openx.net
 bloggers.fuckyoucash.com
 bloggers.nl
@@ -11188,7 +11186,6 @@ blog.intelsad.com
 blog.intercom.com
 blog.intercom.io
 blog.intext.ero-advertising.com
-blog.ipinfo.io
 blogjp.taboola.com
 blog.koorg.ru
 blog.koreadaily.com
@@ -14612,7 +14609,6 @@ c.mrdarkddos.com
 cmrpolice.com
 cms.ad2click.nl
 cms.advertising.com
-cms.apps.wix.com
 cms.c1exchange.com
 cm.shareaholic.com
 c.msn.com
@@ -15109,7 +15105,6 @@ connect.returnpath.com
 connect.secure.ggj4m.wellsfarg0-onllne.net
 connect-testing.urbanairship.com
 connect.urbanairship.com
-connect-your-domain.wix.com
 conneries.free.fr
 connexionsafe.com
 connexity.net
@@ -17020,7 +17015,6 @@ dashboard.adcalls.nl
 dashboard.appsee.com
 dashboard.bom.test.appsee.com
 dashboard.bugsnag.appstore.a2z.com
-dashboard.client.apps.wix.com
 dashboard-demo.wootric.com
 dashboard.firetv.bugsnag.appstore.a2z.com
 dashboard.fyber.com
@@ -17657,7 +17651,6 @@ developmn.org
 dev.exacttarget.com
 dev.flurry.com
 dev.fortrader.ru
-devforum.wix.com
 devfw.imrworldwide.com
 dev.gumgum.com
 dev.hitbox.com
@@ -17710,7 +17703,6 @@ dev.visualwebsiteoptimizer.com
 devvm.imprev.net
 dev.webapi.gumgum.com
 dev.widget.databoxer.mgr.consensu.org
-dev.wix.com
 dev.wrathofshadows.net
 dev-www.taboola.com
 dev-x.flurry.com
@@ -18320,7 +18312,6 @@ domainsponsor.com
 domainsteam.de
 domain-submit.info
 domain.webkeyit.com
-domain.wix.com
 domcran.net
 domdex.com
 domenov.ru
@@ -18615,7 +18606,6 @@ drindor.free.fr
 drinkbreak.net
 drinksomecoffee.com
 drive13.tripod.com
-drive.apps.wix.com
 drivelikeyoulivehere.com
 drivepark.ru
 driveporno.com
@@ -18743,6 +18733,7 @@ dsum.casalemedia.com
 dsum-sec.casalemedia.com
 ds.us1.gigya.com
 dsvf.ru
+dsys1.franklyinc.com
 dt.admission.net
 dt.adsafeprotected.com
 d.tailtarget.com
@@ -18762,6 +18753,7 @@ dtta.ero-advertising.com
 d.t.tailtarget.com
 d.turn.com
 dtxzz.pcloadletter.quhu.info
+dua1.franklyinc.com
 dualvaccine.com
 dubai.best-top.biz
 dubaidesertrose.com
@@ -18860,6 +18852,9 @@ dynamic.aol.com
 dynamic.cannedbanners.com
 dynamic.exaccess.ru
 dynamic.fmpub.net
+dynamic-template-engine.prod.paperg.com
+dynamic-template-engine.production.paperg.com
+dynamic-template-engine.staging.paperg.com
 dynamicyield.com
 dynatrace.com
 dynatrace.demo.dynatrace.com
@@ -19271,7 +19266,6 @@ edit-imprimerie.com
 editmedios.com
 editorial.outbrain.com
 editoriasa.rda.it
-editor.wix.com
 edits.mywebsearch.com
 edivision.pl
 edkl.in
@@ -19701,9 +19695,7 @@ emailprocessingincome.info
 emailproductreview.com
 email-reflex.com
 email.returnpath.com
-emails2.wix.com
 emailsrv6.gdn
-emails.wix.com
 email.tenjin.com
 email.urbaninsight.com
 emapadserver.com
@@ -20619,6 +20611,7 @@ evgnet.com
 ev.ib-ibi.com
 eviboli576.o-f.com
 evidencecleanergold.com
+evidon.mgr.consensu.org
 evil69.com
 evilbeetgossip.us.intellitxt.com
 evile.co.uk
@@ -24978,6 +24971,7 @@ gthrdhxhwdt.bid
 gtlt.hit.gemius.pl
 gtlv.hit.gemius.pl
 gtmedia.us.intellitxt.com
+gtm.intercom.io
 gtop100.com
 gtop.ro
 gtopstats.com
@@ -25113,6 +25107,7 @@ gyrotrash.com
 gyvyokpmmb.bid
 gyzzpyez.bid
 gz2.bbsoldes.fr
+gz7.adx1.com
 g.zedo.com
 g.zeroredirect.com
 gzhazcfkr.bid
@@ -26750,6 +26745,7 @@ ibm-notebook-battery.wp-club.net
 ib.mookie1.com
 ibmvideo.com
 ibm.xtify.com
+ibn.adx1.com
 ibpsexamhelp.com
 ibrainer.net
 ib.reachjunction.com
@@ -27759,7 +27755,6 @@ inspectorclick.com
 instadia.112.2o7.net
 instaflow.eu
 instafollow.pl
-instagram.apps.wix.com
 instagram-followers.pl
 instahookupalert.ru
 installer.betterinstaller.com
@@ -27961,7 +27956,6 @@ investorbg.adocean.pl
 investors.citrix.com
 investors.fyber.com
 investors.healthysmileclub.com
-investors.wix.com
 invest-pamm.ru
 investpamm.ru
 investsuccess.org
@@ -28054,12 +28048,12 @@ iphone.stage-one.heyzap.com
 iphone.stage-three.heyzap.com
 iphone.stage-two.heyzap.com
 iphwttyqzuhucw.bid
-ipinfo.io
 ipintu.com.cn
 ipl.hk
 iplogger.org
 iplookup.adready.com
 i.plug.it
+ipm-provider.ff.avast.com
 ipmsc.com
 ipndulsempjgb.bid
 ip.nuggad.net
@@ -30465,7 +30459,6 @@ libertymutual.exacttarget.com
 libido2.free.fr
 libidoo.net
 library.cowley.edu
-library.wix.com
 libs.de.coremetrics.com
 lib.xmrm.pw
 licasd.com
@@ -30665,6 +30658,7 @@ li.pxl.ace.advertising.com
 liquidad.narrowcastmedia.com
 liquify.truconversion.com
 liquimondo.com
+liqwid.mgr.consensu.org
 liqwid.net
 lirunet.ru
 lisacoquine.free.fr
@@ -31913,6 +31907,7 @@ mail.ioc.ac.ru
 mail.issas.ac.cn
 mail.juicemobile.com
 mailla.tritondigital.com
+mail.marketing365.mk
 mail.marketingmachine.co.za
 mail.marketo.com
 mail.maxpoint.com
@@ -32119,7 +32114,6 @@ mariuspetrescu.gq
 markbruinink.nl
 market2.the-adult-company.com
 marketaff.com
-market.apps.wix.com
 market-buster.com
 marketer.monetate.net
 marketer-next-release.monetate.net
@@ -32291,6 +32285,7 @@ matrixwharehouse.co.za
 matrxabsence.com
 mattemorden.se
 mattermost.gitlab.gcp.datamind.ru
+matthew-testing-something.intercom.io
 mattressusa.122.2o7.net
 matts-celebs.com
 ma.tune.com
@@ -33277,7 +33272,6 @@ metrics.timewarnercable.com
 metrics.tlc.com
 metrics.tmz.com
 metrics.toptenreviews.com
-metrics.torproject.org
 metrics.toyota.com
 metrics.toysrus.com
 metrics.traderonline.com
@@ -34014,6 +34008,7 @@ monetisetrk4.co.uk
 monetisetrk5.co.uk
 monetisetrk6.co.uk
 monetisetrk.co.uk
+monetization-framework.bsa.netdna-cdn.com
 monetizationking.net
 monetize-me.com
 monetizer.com-01.site
@@ -38595,7 +38590,6 @@ penwithian.co.uk
 people-choice-sites.com
 peopleinmotion.datasenter.no
 peopleofkink.com
-people.wix.com
 people.yourbb.eu
 pepelacer.computingservices123.com
 pepipo.com
@@ -40622,7 +40616,6 @@ preflight.stage-two.heyzap.com
 pre.force.com
 preland.softmonetize.com
 preligions.com
-premium.42.wix.com
 premiumanalytics.swrve.com
 premium.ascensionweb.com
 premium.aws.wix.com
@@ -42308,7 +42301,6 @@ recordpage-a.akamaihd.net
 recover-fb08900.000webhostapp.com
 recovery-fanpage1662.suport7288.gq
 recreation-leisure-rewardpath.com
-recruiters.people.wix.com
 recruiter-talk.com
 recs.richrelevance.com
 rectangledownloads.com
@@ -44803,7 +44795,6 @@ seo-2-0.com
 seoanalyses.com
 seocheckupx.com
 seocheki.net
-seoguide.wix.com
 seoholding.com
 seoic.cn
 seomatrix.webtrackingservices.com
@@ -44817,9 +44808,6 @@ seosoftware.onlinedownloads.org
 seo-traffic-ranking.info
 seoulcar.co.kr
 seoulproducts.com
-seowizardadmin.wix.com
-seowizarddashboard2.wix.com
-seowizarddashboard.wix.com
 separatesilver.com
 separm.com
 septembersno.com
@@ -45030,6 +45018,7 @@ services.hearstmags.com
 services.krxd.net
 service.sp.advertising.com
 services.syndicaster.tv
+service.stg-aws.fyber.com
 services.webspectator.com
 services.x-traceur.com
 service.urchin.com
@@ -46632,6 +46621,7 @@ smetrics.cnn.com
 smetrics.creditreport.com
 smetrics.ctv.ca
 smetrics.freecreditreport.com
+smetrics.tesco.com
 smetrics.walgreens.com
 smetrics.yellowbook.com
 smf-modellismo.net
@@ -46979,7 +46969,6 @@ sot-v.ru
 soubrette.be
 soulravens.com
 soundcloud.adswizz.com
-soundcloud.apps.wix.com
 soundclouddownloader.info
 soundfrost.org
 soundsketch.com
@@ -47391,7 +47380,6 @@ ssl.ticbeat.co
 ssl.tmathtag.com
 ssl-top.oewabox.at
 ssltracking.esearchvision.com
-sslusers.wix.com
 ssl-uspgvat.oewabox.at
 ssl-vg03.met.vgwort.de
 ssl-visa.net
@@ -47435,6 +47423,7 @@ ss.prod.paperg.com
 ssp.streamrail.net
 ssp.videostat.com
 ssq.tr.blismedia.com
+ssr.franklyinc.com
 sssex.be
 ss.staging.paperg.com
 sstatic1.histats.com
@@ -47852,8 +47841,6 @@ static.virgul.com
 static.vpptechnologies.com
 static.way2traffic.com
 static.williamhill.com
-static.wix.com
-static.wixstatic.com
 static.wooboo.com.cn
 static.woopra.com
 static.xtify.com
@@ -48693,7 +48680,6 @@ support-unusual-activity-i.cloud
 support.urbanairship.com
 support.vungle.com
 support-win1230.com
-support.wix.com
 supportxmr.com
 supporty7.regis-fanpageee-confirm.ga
 support.yext.com
@@ -49613,6 +49599,7 @@ telescopiosatm.com
 telesoundmusic.com
 teless.info
 telesvoboda.ru
+teletype.internal.intercom.io
 televisions.nu
 telewizjada.net
 telewizja-internetowa24.pl
@@ -51811,7 +51798,6 @@ tukejrh.angelfire.com
 tula.mdverey.ru
 tulatoly.com
 tulip18.com
-tumblr.apps.wix.com
 tumi.112.2o7.net
 tune.com
 tunez9ja.com
@@ -52628,7 +52614,6 @@ users.effectivebrand.com
 usersegment.wpdigital.net
 users.ero-advertising.com
 users.quantumgraph.com
-users.wix.com
 user-sync.adhese.com
 use-tor.adsrvr.org
 us.event.cmp.advertising.com
@@ -53307,6 +53292,7 @@ vidstat.taboola.com
 vidstat.taboola.com.cdn.cloudflare.net
 vidutils.taboola.com
 vidwerks.com
+vidyorouterldn.rubiconproject.com
 vidyo.rubiconproject.com
 vieille.fr
 vieille-salope.recherche-sexe.info
@@ -54491,6 +54477,7 @@ webtrekk.mediaset.net
 webtrekk.net
 webtrends1.britishgas.co.uk
 webtrends.besite.be
+webtrendsinc.https.internapcdn.net
 webtrendslive.com
 webtrends.randallpub.com
 webtrends.telenet.be
@@ -54911,12 +54898,8 @@ witthethim.com
 wittyoffers.club
 wivesneedsex.com
 wiwicafe.de
-wix.com
-wixed-qa.wix.com
-wixed-staging.wix.com
 wixed.wix.com
 wixpix.de
-wixstatic.com
 wixx.caliptopis.cl
 wizjatv-kody.pl
 wizjatv.za-darmo.eu
@@ -56729,7 +56712,6 @@ www.blog.fullstory.com
 www.blog.fyber.com
 www.blog-hits.com
 www.blog.intelsad.com
-www.blog.ipinfo.io
 www.blog.marketing365.mk
 www.blogrankers.com
 www.blogtoplist.com
@@ -57062,7 +57044,6 @@ www.cm1359.com
 www.cme.adx1.com
 www.cmi.netseer.com
 www.cm.netseer.com
-www.cms.apps.wix.com
 www.cnbnews.com
 www.cnn.cm
 www.cnnnew.com
@@ -57112,7 +57093,6 @@ www.conduit-banners.com
 www.conduit.com
 www.congratulations.website
 www.connectionlead.com
-www.connect-your-domain.wix.com
 www.console.xtify.com
 www.consoliads.com
 www.consumedmedia.com
@@ -57510,8 +57490,6 @@ www.emailadvantagegroup.com
 www.emaildeals.biz
 www.email-login-support.com
 www.emailproductreview.com
-www.emails2.wix.com
-www.emails.wix.com
 www.email.urbaninsight.com
 www.emarketmakers.com
 www.em.dynamicyield.com
@@ -57650,6 +57628,7 @@ www.finance-offer.com
 www.finance.vicedata.com
 www.financial-advice-books.com
 www.finanzmarkt2004.de
+www.findalgorithm.com
 www.finder.cox.net
 www.findit-quick.com
 www.fineclicks.com
@@ -58129,6 +58108,7 @@ www.iadsdk.apple.com
 www.ibis.cz
 www.iboard.com
 www.ibps.com
+www.ibv.doubleclick.rtb.adx1.com
 www.iccee.com
 www.icecars.com
 www.icentric.net
@@ -58226,7 +58206,6 @@ www.internetsecurity.com
 www.interstats.nl
 www.interstitialzone.com
 www.intnet-offer.com
-www.investors.wix.com
 www.invitefashion.com
 www.inwemo.com
 www.iovation.com
@@ -58234,7 +58213,6 @@ www.iovation.co.uk
 www.ipcounter.de
 www.iperbanner.com
 www.iphonegames3g.com
-www.ipinfo.io
 www.ipstat.com
 www.iranwebads.com
 www.irganalytics.com
@@ -58470,6 +58448,7 @@ www.linkwithin.com
 www.linkworth.com
 www.lintelligence.de
 www.linz-vpn.dynatrace.com
+www.liqwid.mgr.consensu.org
 www.liqwid.net
 www.litec-fr.com
 www.litra.com.mk
@@ -58551,6 +58530,7 @@ www.lyzgs.com
 www.lzjl.com
 www.m1crosoft.com
 www.m2trk.com
+www.m4f.adx1.com
 www.m-99.co.uk
 www.maatch.com
 www.macaheadapps.com
@@ -58587,7 +58567,6 @@ www.map.vicedata.com
 www.marcopolo.uk.net
 www.marinoderosas.com
 www.markbruinink.nl
-www.market.apps.wix.com
 www.marketbill.com
 www.market-buster.com
 www.marketing365.mk
@@ -59099,7 +59078,6 @@ www.penix.nl
 wwwpennys.com
 www.penwithian.co.uk
 www.people-choice-sites.com
-www.people.wix.com
 www.pepipo.com
 www.perderbarriga.me
 www.performanceadexchange.com
@@ -59378,7 +59356,6 @@ www.realtracker.com
 www.rebeccacella.com
 www.rebuildxxsdrfght.yodelmobile.com
 www.recreation-leisure-rewardpath.com
-www.recruiters.people.wix.com
 www.redactiepartners.nl
 www.red.dmpxs.com
 www.redemptionengine.com
@@ -60332,6 +60309,7 @@ www.videolove.clanteam.com
 www.videomediagroep.nl
 www.videosongplayer.com
 www.videostan.ru
+www.vidyorouterldn.rubiconproject.com
 www.vidyo.rubiconproject.com
 www.view4cash.de
 www.viewsignage.com
@@ -60488,7 +60466,6 @@ www.winmediaplayerplus.com
 www.winnerschoiceservices.com
 www.winscholarship.com
 www.win-spy.com
-www.wix.com
 www.wkmg.co.kr
 www.wmediaplayernow.com
 www.wmmax.com
