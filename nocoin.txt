@@ -120,12 +120,14 @@ evengparme.com
 ffinwwfpqi.gq
 flare-analytics.com
 flophous.cf
+flowplayer.space
 freshrefresher.com
 g-content.bid
 go2.mercy.ga
 gobba.myeffect.net
 go.megabanners.cf
 graftpool.ovh
+gramombird.com
 gridiogrid.com
 gustaver.ddns.net
 hatcalter.com
@@ -244,8 +246,12 @@ rintinwa.com
 rock2.authcaptcha.com
 rocks.io
 s2.appelamule.com
+s2.flowplayer.space
+s2.thersprens.com
+s3.flowplayer.space
 s3.malictuiar.com
 s3.pampopholf.com
+s3.thersprens.com
 sass2.authcaptcha.com
 scaleway.ovh
 sea2.authcaptcha.com
@@ -263,6 +269,7 @@ sxcdn4.now.sh
 sxcdn5.herokuapp.com
 sxcdn6.now.sh
 test.minr.pw
+thersprens.com
 tidafors.xyz
 tokyodrift.ga
 traviilo.com
