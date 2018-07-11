@@ -569,6 +569,7 @@ ad.cl.doubleclick.net
 adclick.g.doubleclick.net
 adclick.hit.gemius.pl
 adclickservice.com
+adclicks.io
 adclient.163.com
 adclient1.tucows.com
 adclient-af.lp.uol.com.br
@@ -3443,7 +3444,6 @@ cdn.mercent.com
 cdn.mgid.com
 cdn.mirageads.net
 cdn.mplxtms.com
-cdn.mxpnl.com
 cdn.my-pc-cleaner.org
 cdn.ndparking.com
 cdn.nsimg.net
@@ -3821,6 +3821,7 @@ collectiveads.net
 collector-1054.tvsquared.com
 collector-184.tvsquared.com
 collector-195.tvsquared.com
+collector-2398.tvsquared.com
 collector-428.tvsquared.com
 collector.deepmetrix.com
 collector.githubapp.com
@@ -7172,6 +7173,7 @@ mreg.hit.gemius.pl
 mrp.rubiconproject.com
 ms.adpremium.org
 m.sancdn.net
+mscom.demdex.net
 m.servebom.com
 mseupwinxpfam.112.2o7.net
 msfn.us.intellitxt.com
@@ -7513,6 +7515,7 @@ nxtck.com
 nyads.ny.publicus.com
 nydailynews.d1.sc.omtrdc.net
 nym1.b.adnxs.com
+nym1-ib.adnxs.com
 nym1.ib.adnxs.com
 nysun.com.112.2o7.net
 nytbglobe.112.2o7.net
@@ -8634,7 +8637,6 @@ realmedia.channel4.com
 realmedia.nana.co.il
 realtimeads.com
 realtime.deximedia.com
-realtime.services.disqus.com
 realtouchbannerwidget.aebn.net
 realtracker.com
 rebtelnetworks.112.2o7.net
@@ -9316,7 +9318,6 @@ seekbang.com
 seethisinaction.com
 s.effectivemeasure.net
 segapi.quantserve.com
-segment-data.zqtk.net
 segment-pixel.invitemedia.com
 segments.adaptv.advertising.com
 seg.sharethis.com
