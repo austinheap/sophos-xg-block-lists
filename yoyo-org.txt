@@ -129,7 +129,6 @@ add.newmedia.cz
 ad.doctissimo.fr
 ad.domainfactory.de
 adecn.com
-ad.e-kolay.net
 ademails.com
 adengage.com
 ad.eurosport.com
@@ -770,6 +769,7 @@ adtology.com
 adtoma.com
 adtrace.org
 adtrade.net
+adtrading.de
 adtrak.net
 adtriplex.com
 ad.turn.com
@@ -910,7 +910,6 @@ annonser.dagbladet.no
 an.tacoda.net
 anxiousapples.com
 api.intensifier.de
-app.adblockhyper.us
 app.pendo.io
 appsflyer.com
 aps.hearstnp.com
@@ -998,6 +997,7 @@ banner.relcom.ru
 banners.adultfriendfinder.com
 banners.amigos.com
 banners.asiafriendfinder.com
+banners.babylon-x.com
 banners.bol.com.br
 banners.cams.com
 banners.clubseventeen.com
@@ -1659,13 +1659,13 @@ k.iinfo.cz
 kindads.com
 kissmetrics.com
 kliks.nl
+kniverto.com
 knorex.com
 koinser.in
 komoona.com
 kompasads.com
 kontera.com
 ktu.sv2.biz
-lacerta.space
 lakequincy.com
 launchbit.com
 layer-ad.de
@@ -2194,6 +2194,7 @@ sexcounter.com
 sexinyourcity.com
 sexlist.com
 sextracker.com
+sexystat.com
 shakesea.com
 shakytaste.com
 shareadspace.com
@@ -2388,7 +2389,6 @@ topping.com.ua
 top.proext.com
 toprebates.com
 topsafelist.net
-topsearcher.com
 topsir.com
 top-site-list.com
 topsite.lv
