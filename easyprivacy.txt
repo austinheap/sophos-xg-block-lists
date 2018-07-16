@@ -2814,6 +2814,7 @@ log.flight.qunar.com
 logger.co.kr
 logger.dailymotion.com
 logger.logidea.info
+logger.nerdwallet.com
 logger.rm.uol.com.br
 logger.snackly.co
 logger.sociablelabs.com
