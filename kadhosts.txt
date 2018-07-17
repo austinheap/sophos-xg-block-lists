@@ -494,9 +494,9 @@ i-mobi.pl
 imperialwinners.men
 inagrody.pl
 informacjeszok24.blogspot.com
-informatyk-centrum.warszawa.pl^
-informatyk-dla-domu.pl^
-informatyk-dla-firmy.pl^
+informatyk-centrum.warszawa.pl
+informatyk-dla-domu.pl
+informatyk-dla-firmy.pl
 informujemy24h.cba.pl
 ininmacerad.pro
 instafollow.pl
