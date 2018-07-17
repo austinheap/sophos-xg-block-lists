@@ -4613,6 +4613,7 @@ stats.mf.cz
 stats.miarroba.info
 stats.milenio.com
 stats.mituyu.com
+stats.mos.ru
 stats.nebula.fi
 stats.nekapuzer.at
 stats.netbopdev.co.uk
