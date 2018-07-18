@@ -219,6 +219,7 @@ advancedtracker.appspot.com
 advanced-web-analytics.com
 advconversion.com
 adv.drtuber.com
+advertising.com
 adwiretracker.fwix.com
 adx.com.ru
 adxvip.com
@@ -3564,6 +3565,7 @@ pixel.buzzfeed.com
 pixel.colorupmedia.com
 pixel.cpex.cz
 pixel.digitalspy.co.uk
+pixel.europapress.net
 pixeleze.com
 pixel.fanbridge.com
 pixel.glimr.io
@@ -5330,7 +5332,6 @@ trafficfuelpixel.s3-us-west-2.amazonaws.com
 trafficjoint.com
 trafficmaxx.de
 traffic.prod.cobaltgroup.com
-traffic.pubexchange.com
 trafficregenerator.com
 traffic.shareaholic.com
 traffic.tuberip.com
