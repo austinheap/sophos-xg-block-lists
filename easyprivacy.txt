@@ -4228,6 +4228,7 @@ smartlook.com
 smartnews-ads.com
 smartology.co
 smartracker.net
+smartsuppchat.com
 smartzonessva.com
 smct.co
 smectapop12.pl
@@ -5437,7 +5438,6 @@ turnsocial.com
 t.vimeo.com
 t.wayfair.com
 twcount.com
-tw.cx
 tw.i.hulu.com
 twopointo.io
 txn.grabnetworks.com
