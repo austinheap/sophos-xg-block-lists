@@ -136,7 +136,6 @@ adexchangegate.com
 adexchangeprediction.com
 adexpose.com
 adext.inkclub.com
-ad.f1cd.ru
 adfarm.mediaplex.com
 adflight.com
 ad.flurry.com
@@ -769,7 +768,6 @@ adtology.com
 adtoma.com
 adtrace.org
 adtrade.net
-adtrading.de
 adtrak.net
 adtriplex.com
 ad.turn.com
@@ -1311,6 +1309,7 @@ debtbusterloans.com
 decisiveducks.com
 decknetwork.net
 delightdriving.com
+deloo.de
 deloton.com
 demandbase.com
 demdex.net
