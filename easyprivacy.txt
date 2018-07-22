@@ -202,6 +202,7 @@ adservicemedia.dk
 adsettings.com
 adskom.com
 adspsp.com
+adsrvx.com
 adstat.4u.pl
 ads-trk.vidible.tv
 adswizz.com
@@ -721,6 +722,7 @@ beencounter.com
 befirstcdn.com
 behavioralengine.com
 bekannt-im-web.de
+belicimo.pw
 beliebtestewebseite.de
 belstat.at
 belstat.be
@@ -928,6 +930,7 @@ cbs.wondershare.com
 cbtrk.net
 cccpmo.com
 ccgateway.net
+cc.gofile.io
 c.compete.com
 ccrtvi.com
 cc.swiftype.com
@@ -1444,6 +1447,7 @@ customer.io
 cux.io
 c-webstats.de
 c.wen.ru
+c.wort-suche.com
 cx.atdmt.com
 c.x.oanda.com
 cxt.ms
@@ -1999,6 +2003,7 @@ flix360.com
 flixfacts.co.uk
 flixsyndication.net
 flophous.cf
+flowplayer.space
 flowstats.net
 fluctuo.com
 fluencymedia.com
@@ -2097,6 +2102,7 @@ gasolina.ml
 gather.hankyung.com
 gaug.es
 ga.webdigi.co.uk
+gay-hotvideo.net
 g.bitmag.com.br
 g.bit.pt
 gbotvisit.com
@@ -2226,6 +2232,7 @@ govmetric.com
 goyavelab.com
 gpr.hu
 graftpool.ovh
+gramombird.com
 grapheffect.com
 graphinsider.com
 gratisbacklink.de
@@ -2272,6 +2279,7 @@ g.yccdn.com
 h4k5.com
 hallaert.online
 halldata.com
+halo77.com
 halstats.com
 hammerhearing.com
 haostat.qihoo.com
@@ -2431,6 +2439,7 @@ id.localsearch.ch
 idntfy.ru
 idot.cz
 idtargeting.com
+idt.id-news.net
 id-visitors.com
 iedc.fitbit.com
 ifactz.com
@@ -2525,6 +2534,7 @@ intactoffers.club
 integritystat.com
 intelevance.com
 intelimet.com
+intellecthosting.net
 intelliad.de
 intelliad-tracking.com
 intelli.ageuk.org.uk
@@ -3216,6 +3226,7 @@ mystat.it
 my-stats.info
 mystats.nl
 mysumo.de
+mytestminer.xyz
 mytictac.com
 myusersonline.com
 myvisitors.se
@@ -3624,6 +3635,7 @@ playerassets.info
 play.estream.nu
 play.estream.to
 play.estream.xyz
+play.mix.kinostuff.com
 plecki.com
 pleisty.com
 plexop.com
@@ -4262,6 +4274,7 @@ somniture.theglobeandmail.com
 s-onetag.com
 sophus3.com
 soska.us
+sourcecode.pro
 spacedust.netmediaeurope.com
 spacehits.net
 space-link.de
@@ -4623,6 +4636,7 @@ stats.nekapuzer.at
 stats.netbopdev.co.uk
 stats-newyork1.bloxcms.com
 stats.nymag.com
+stat.social
 stats.olark.com
 stats.ombx.io
 stats.openload.co
@@ -4827,6 +4841,7 @@ tag-stats.huffpost.com
 tags.transportdirect.info
 tagx.nytimes.com
 tailtarget.com
+tainiesonline.pw
 t-ak.hulu.com
 tamedia.ch
 tamgrt.com
@@ -4911,6 +4926,7 @@ thecounter.com
 thefreehitcounter.com
 thehairofcaptainpicard.com
 thermstats.com
+thersprens.com
 thesearchagency.net
 thespecialsearch.com
 thestat.net
@@ -5361,6 +5377,7 @@ trax.tvguide.com
 trbna.com
 trbo.com
 tr.bt.matrixspa.it
+trck.bdi-services.de
 trck.dlpo.jp
 trck.meinprospekt.de
 trck.sixt.com
@@ -5883,6 +5900,7 @@ yjtag.jp
 yjtag.yahoo.co.jp
 ymetrica1.com
 ynuf.alibaba.com
+yololike.space
 yoochoose.net
 youboranqs01.com
 youle55.com
