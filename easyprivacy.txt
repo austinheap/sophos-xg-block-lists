@@ -354,6 +354,7 @@ analytics.bigcommerce.com
 analytics.bloomberg.com
 analytics.blue
 analytics.brandcrumb.com
+analytics.brave.com
 analytics.carambatv.ru
 analytics.carambo.la
 analyticschecker.com
@@ -1198,6 +1199,7 @@ compteur.org
 compteur-visite.com
 compteur.websiteout.net
 comradepony.com
+conductrics.com
 confirmational.com
 confirmit.com
 confirm-referer.glrsales.com
@@ -2402,6 +2404,7 @@ hsdn.org
 hstrck.com
 hub.com.pl
 hubrus.com
+hubvisor.io
 hudb.pl
 humanclick.com
 hung.ch
@@ -2797,6 +2800,7 @@ livestats.kaltura.com
 livestats.la7.tv
 livestats.matrix.it
 livetex.ru
+livetrafficfeed.com
 liveviewer.ez.no
 livewebstats.dk
 lizardslaugh.com
@@ -4058,6 +4062,7 @@ sarevtop.com
 sarov.ws
 sas15k01.com
 sas.com
+sa.sky.it
 sa.squareup.com
 sa.tf1.fr
 sat.sanoma.fi
