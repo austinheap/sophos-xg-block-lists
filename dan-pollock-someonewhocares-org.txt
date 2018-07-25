@@ -2837,6 +2837,7 @@ app4.letslowbefast.today
 app5.letitbefaster.life
 app5.letitbefaster.website
 app5.letslowbefast.site
+app-analytics.snapchat.com
 apparelncs.com
 apparel-offer.com
 app.datafastguru.info
@@ -3371,6 +3372,7 @@ brandsurveypanel.com
 BRApolice.com
 bravo.israelinfo.ru
 bravospots.com
+b.recwwcc5.info
 brightcove.112.2o7.net
 brightonclick.com
 brightroll.com
@@ -3642,6 +3644,7 @@ cashback.co.uk
 cashbackwow.co.uk
 cashcounter.com
 cashflowmarketing.com
+cashreportz.com
 casino770.com
 casino-gambling-online.searchservice.info
 casino-online.100gal.net
@@ -4043,6 +4046,7 @@ closeoutproductsreview.com
 cloudcrown.com
 clownsong.com
 c.l.qq.com
+clubwinnerz.com
 cluster3.adultadworld.com
 cluster.adultadworld.com
 cm1359.com
@@ -4417,6 +4421,7 @@ crowdignite.com
 c.ru.msn.com
 crux.songline.com
 crwdcntrl.net
+cryptolabpro.com
 crypto-loot.com
 cryptoloot.pro
 cs.adxpansion.com
@@ -7675,6 +7680,7 @@ mt58.mtree.com
 mt.5.p2l.info
 mtccsun.imtech.ernet.in
 mtcount.channeladvisor.com
+m.tidebuy.com
 mtrcs.popcap.com
 m.tribalfusion.com
 mttwtrack.com
@@ -8804,6 +8810,7 @@ preligions.com
 premium.ascensionweb.com
 premiumholidayoffers.com
 premium-live-scan.com
+premium-offers.space
 premiumproductsonline.com
 premium-reward-club.com
 premiumvideoupdates.com
@@ -10499,6 +10506,7 @@ thoughtfully-free.com
 thoughtsmedia.us.intellitxt.com
 thruport.com
 ticket20.tripod.com
+tidebuy.com
 tiku.io
 timebus2.112.2o7.net
 timecom.112.2o7.net
@@ -11141,6 +11149,7 @@ usatravel-specials.com
 usatravel-specials.net
 us.b1.yimg.com
 us.c1.yimg.com
+usc.adserver.snapads.com
 us-choicevalue.com
 us.cqcounter.com
 us.d1.yimg.com
@@ -13334,6 +13343,7 @@ www.youripad4free.com
 www.yourrewardzone.com
 www.yoursmartrewards.com
 www.ypmate.com
+www.zabavazaodrasle.com
 www.zbippirad.info
 www.zemgo.com
 www.zentastic.com
@@ -13471,6 +13481,7 @@ z0.extreme-dm.com
 z1.adserver.com
 z1.extreme-dm.com
 za1.sierra-fox.com
+zabavazaodrasle.com
 z.admob.com
 zads.zedo.com
 zanaflex.1.p2l.info

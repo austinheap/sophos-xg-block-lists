@@ -1892,6 +1892,7 @@ events.air.tv
 events.antenna.is
 events.bounceexchange.com
 events.izooto.com
+events.jora.com
 events.jotform.com
 events.kaloo.ga
 events.launchdarkly.com
@@ -1927,6 +1928,7 @@ exactag.com
 exapxl.de
 exclusiveclicks.com
 exe.bid
+exitbee.com
 exitmonitor.com
 exmarkt.de
 exovueplatform.com
@@ -4100,6 +4102,7 @@ scripts.psyma.com
 scroll.com
 scupio.com
 sddan.com
+sdrive.skoda-auto.com
 sea-nov-1.com
 searchfeed.com
 searchignite.com
