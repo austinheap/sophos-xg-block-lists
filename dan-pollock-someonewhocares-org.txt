@@ -5130,6 +5130,7 @@ eur.a1.yimg.com
 europe.adserver.yahoo.com
 eu-sonar.sociomantic.com
 eu.track.digitaladsystems.com
+euw.adserver.snapads.com
 eu.xtms.net
 eveley.club
 event-log.videe.tv
@@ -9411,6 +9412,7 @@ sc10.net
 sc1.admob.com
 sc.5.p2l.info
 sc9.admob.com
+sc-analytics.appspot.com
 scan.antispyware-free-scanner.com
 scanner.best-click-av1.info
 scanner.best-protect.info
