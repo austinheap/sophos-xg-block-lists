@@ -1919,7 +1919,6 @@ open.oneplus.net
 openx.angelsgroup.org.uk
 openx.blindferret.com
 opienetwork.com
-opinionstage.com
 optimizely.com
 optimize-stats.voxmedia.com
 optimost.com
@@ -2329,6 +2328,7 @@ tailsweep.se
 takru.com
 tangerinenet.biz
 tapad.com
+tapfiliate.com
 tapinfluence.com
 targad.de
 targetingnow.com
