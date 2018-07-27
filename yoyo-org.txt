@@ -691,7 +691,6 @@ adstage.io
 ads.tahono.com
 adstat.4u.pl
 ads.techtv.com
-ads.telegraph.co.uk
 adstest.weather.com
 ads.themovienation.com
 ads.thestar.com
@@ -1301,7 +1300,6 @@ d.adroll.com
 dakic-ia-300.com
 danban.com
 dapper.net
-datashreddergold.com
 dbbsrv.com
 dc-storm.com
 de17a.com
@@ -1660,7 +1658,6 @@ kissmetrics.com
 kliks.nl
 kniverto.com
 knorex.com
-koinser.in
 komoona.com
 kompasads.com
 kontera.com
