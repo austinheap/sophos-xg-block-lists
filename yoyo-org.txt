@@ -2213,6 +2213,7 @@ simpli.fi
 simplisticnose.com
 sinoa.com
 sitedataprocessing.com
+siteimproveanalytics.com
 sitemeter.com
 sitestat.com
 sixsigmatraffic.com
@@ -2407,6 +2408,8 @@ trackalyzer.com
 track.anchorfree.com
 track.contently.com
 track.dating-4-you.com
+trackedlink.net
+trackedweb.net
 tracker.icerocket.com
 tracker.marinsm.com
 tracker-pm2.spilleren.com
