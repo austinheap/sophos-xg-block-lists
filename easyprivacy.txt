@@ -1890,6 +1890,7 @@ event.previewnetworks.com
 event-reporting-dot-webylytics.appspot.com
 events.air.tv
 events.antenna.is
+events.apester.com
 events.bounceexchange.com
 events.izooto.com
 events.jora.com
