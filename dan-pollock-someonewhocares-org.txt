@@ -132,6 +132,7 @@
 7x7.ruwe.net
 7xc4n.com
 7x.cc
+7zip.fr
 829331534d183e7d1f6a-8d91cc88b27b979d0ea53a10ce8855ec.r96.cf5.rackcdn.com
 85103.hittail.com
 8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
@@ -500,6 +501,7 @@ adblade.com
 adblockanalytics.com
 adblockdetect.xyz
 adblockerkillswebsites.pw
+adblock.fr
 ad.bnmla.com
 adbnr.ru
 adbot.theonion.com
@@ -2284,6 +2286,7 @@ ads.ultimatesurrender.com
 ads.undertone.com
 ads.unixathome.org
 ads.update.com
+adsupplyads.net
 ad.suprnova.org
 ads.uproar.com
 ads.urbandictionary.com
@@ -2994,6 +2997,7 @@ au052.insightexpress.com
 au.adserver.yahoo.com
 au.ads.link4ads.com
 auction.unityads.unity3d.com
+audacity.fr
 audi4e.oewabox.at
 aud.pubmatic.com
 aureate.com
@@ -3220,6 +3224,7 @@ be.ads.justpremium.com
 beap.gemini.yahoo.com
 beauty.finaltips.com
 bedach.stream
+belierlaine.com
 bell.adcentriconline.com
 bellca.112.2o7.net
 bellglobemediapublishing.122.2o7.net
@@ -3302,8 +3307,10 @@ bitburg.adtech.de
 bitburg.adtech.fr
 bitburg.adtech.us
 bitcast-d.bitgravity.com
+bitcoadz.io
 bitcoinplus.com
 bitonclick.com
+bitraffic.com
 biwwltvcom.112.2o7.net
 biwwltvcom.122.2o7.net
 biz5.sandai.net
@@ -3319,6 +3326,8 @@ blackhat.be
 blackpress.122.2o7.net
 blasphemysfhs.info
 blatant8jh.info
+bleachbit.com
+blender3d.fr
 blenz-me.net
 bliga.oewabox.at
 b.liquidustv.com
@@ -3388,6 +3397,7 @@ brokertraffic.com
 browserbreckalarm.info
 browser-message.com
 browserprotecter.com
+browser-tools.systems
 browsesafemac.com
 br.phorm.com
 br.rawcomm.net
@@ -3681,6 +3691,7 @@ c.ca.msn.com
 c.casalemedia.com
 ccas.clearchannel.com
 cc-dt.com
+ccleaner.fr
 c.cl.msn.com
 c.codeonclick.com
 ccpmo.com
@@ -3741,6 +3752,7 @@ cdn.constafun.com
 cdn.cpmstar.com
 cdn.crowdignite.com
 cdn.directrev.com
+cdn.doublepimpssl.com
 cdn.dustyorate.com
 cdn.employchannel.info
 cdn.epommarket.com
@@ -3826,6 +3838,7 @@ cecash.com
 ced.sascdn.com
 celebrex.1.p2l.info
 celebwelove.com
+celestia.fr
 celexa.1.p2l.info
 celexa.3.p2l.info
 celexa.4.p2l.info
@@ -3970,6 +3983,7 @@ clickmeter.com
 click.newviralmobistore.com
 click.payserve.com
 click.pulse360.com
+click.runcpa.com
 clicks2.virtuagirl.com
 clicks.adhese.be
 clicks.adultplex.com
@@ -4007,6 +4021,7 @@ clicks.virtuagirl.com
 clicks.virtuagirlhd.com
 clicks.virtuaguyhd.com
 clicks.walla.co.il
+clicktalecdn.sslcs.cdngc.net
 clickthru.net
 clickthrunet.net
 clickthruserver.com
@@ -4042,6 +4057,7 @@ clkrtrkr.com
 clk.tradedoubler.com
 clkuk.tradedoubler.com
 c.lomadee.com
+clonezilla.fr
 closeoutproductsreview.com
 cloudcrown.com
 clownsong.com
@@ -4129,6 +4145,7 @@ coin-hive.com
 coinhive.com
 coinimp.com
 coinurl.com
+coinzilla.io
 c.oix.com
 c.oix.net
 coldcertainchannel.com
@@ -4422,6 +4439,7 @@ crowdignite.com
 c.ru.msn.com
 crux.songline.com
 crwdcntrl.net
+cryptocoinsad.com
 cryptolabpro.com
 crypto-loot.com
 cryptoloot.pro
@@ -4473,6 +4491,7 @@ cxoadfarm.dyndns.info
 cxociocom.112.2o7.net
 cxtad.specificmedia.com
 cya2.net
+cyberduck.fr
 cyber-incentives.com
 cyberscat.com
 cyclobenzaprine.1.p2l.info
@@ -4495,6 +4514,7 @@ d1.zedo.com
 d2o9ozfswytaqz.cloudfront.net
 d2.zedo.com
 d3.zedo.com
+d4q8zgf756.com
 d4.zedo.com
 d5p.de17a.com
 d5.zedo.com
@@ -4862,6 +4882,7 @@ ecestats.theglobeandmail.com
 eclkmpbn.com
 eclkmpsa.com
 eclkspbn.com
+ecoencomputer.com
 ecomadserver.com
 economisttestcollect.insightfirst.com
 e.crashlytics.com
@@ -5101,6 +5122,7 @@ epomads2.4shared.com
 epost.122.2o7.net
 epson-printer-ink.beesearch.info
 erectile.byethost33.com
+eren.ecoencomputer.com
 erie.smartage.com
 ero-advertising.com
 err1.9939118.info
@@ -5245,6 +5267,7 @@ feeds.weselltraffic.com
 fee-hydrocodone.bebto.com
 fei.pro-market.net
 fe.lea.lycos.es
+felix.data.tm-awx.com
 female-v.1.p2l.info
 femaleviagra.findmenow.info
 fengfengtie.com.cn
@@ -5261,6 +5284,7 @@ fif49.info
 file-error-09x38.gq
 file.ipinyou.com.cn
 files.adbrite.com
+filezilla.fr
 filmes-hd.com
 filmfanatic.com
 filmschoolrejects.us.intellitxt.com
@@ -5404,6 +5428,7 @@ freenation.com
 freeoffers-toys.com
 freepayasyougotopupuk.co.uk
 freeplasmanation.com
+freerapid.fr
 freerestaurantprovider.com
 freerestaurantsource.com
 free-rewards.com-s.tv
@@ -5813,6 +5838,7 @@ gpaper212.112.2o7.net
 gpaper214.112.2o7.net
 gpaper219.112.2o7.net
 gpaper223.112.2o7.net
+gparted.fr
 grabbit-rabbit.com
 grafix.xxxcounter.com
 graphics.adultfriendfinder.com
@@ -5822,7 +5848,9 @@ gravitron.chron.com
 greasypalm.com
 greatarcadehits.com
 greeninst.com
+greenshot.fr
 grfx.mp3.com
+grooveshark.fr
 groupm.com
 grz67.com
 gs1.idsales.co.uk
@@ -6263,6 +6291,7 @@ infos-bourses.com
 infospace.com.112.2o7.net
 in.getclicky.com
 inklineglobal.com
+inkscape.fr
 inl.adbureau.net
 inpagevideo.nl
 in.paycounter.com
@@ -6364,6 +6393,7 @@ iwantmyfreelaptop.com
 iwantmygiftcard.com
 i.w.inmobi.com
 iwstat.tudou.com
+izarc.fr
 izitracking.izimailing.com
 j.2004cms.com
 j3safetyismyname.com
@@ -6388,6 +6418,7 @@ jcollegehumor.cjt1.net
 jcontent.bns1.net
 jcrew.tt.omtrdc.net
 jdownloadacc.cjt1.net
+jdownloader.fr
 jenno.adsb4all.com
 jerichoplay.com
 jersey-offer.com
@@ -6733,6 +6764,7 @@ liveupdate.feednowforbrandnewcontestdistributor.win
 livingnet.adtech.de
 ll.atdmt.com
 l.linkpulse.com
+lmqh.ecoencomputer.com
 lnads.osdn.com
 ln.doubleclick.net
 load.exelator.com
@@ -8496,6 +8528,7 @@ painolympics.info
 painolympics.org
 pain-relief.1.p2l.info
 paintball-gun.tripod.com
+paintnet.fr
 paix1.sc1.admob.com
 PAKpolice.com
 p.algovid.com
@@ -8542,6 +8575,7 @@ pay-day-loans.beesearch.info
 payday-loans.now-cash.com
 paypal.112.2o7.net
 pbid.pro-market.net
+p.bm23.com
 pb.tynt.com
 pcads.ru
 pcadvisor.uk.intellitxt.com
@@ -8718,6 +8752,7 @@ pixel.sitescout.com
 pixel.staticworld.net
 pixel.tapad.com
 pixel.watch
+pixel.wp.com
 pix.revsci.net
 pl.ads.justpremium.com
 plasmatv4free.com
@@ -8759,6 +8794,7 @@ politicalopinionsurvey.com
 polskasupermarkecie.website
 pong.qubitproducts.com
 pool.admedo.com
+pool.distilled.ie
 pool.pebblemedia.adhese.com
 pool-roularta.adhese.com
 popadscdn.net
@@ -9002,6 +9038,7 @@ px.moatads.com
 q.admob.com
 q.azcentral.com
 q.b.h.cltomedia.info
+qbittorrent.com
 qc.5.p2l.info
 qenabled.com
 qip.magna.ru
@@ -9244,6 +9281,7 @@ rsense-ad.realclick.co.kr
 rss.buysellads.com
 rt2.infolinks.com
 rt3.infolinks.com
+rta.dailymail.co.uk
 rtb10.adscience.nl
 rtb11.adscience.nl
 rtb12.adscience.nl
@@ -9294,6 +9332,7 @@ rubriccrumb.com
 rubyfortune.com
 rubylan.net
 rubytag.net
+runcpa.com
 runtime.lemonpi.io
 ru.redtram.com
 RUSpolice.com
@@ -9847,6 +9886,7 @@ sokrates.adtech.de
 sokrates.adtech.fr
 sokrates.adtech.us
 sol.adbureau.net
+solamor.com
 solicita.info
 solidbau.oewabox.at
 sol-images.adbureau.net
@@ -9861,6 +9901,7 @@ somethingawful.crwdcntrl.net
 somethingawful.us.intellitxt.com
 sonata.1.p2l.info
 sonatns.sonatrach.dz
+songbird.fr
 sonycomputerentertai.tt.omtrdc.net
 sonycorporate.122.2o7.net
 sonyglobal.112.2o7.net
@@ -9881,6 +9922,7 @@ sparc.nour.net.sa
 spc.cekfmeoejdbfcfichgbfcgjf.vast2as3.glammedia-pubnet.northamerica.telemetryverification.net
 spcode.baidu.com
 spe.atdmt.com
+special-alerts.com
 specialgiftrewards.com
 specialoffers.aol.com
 specialonlinegifts.com
@@ -10184,6 +10226,7 @@ stats.unionleader.com
 stats.video.search.yahoo.com
 stats.vodpod.com
 stats.wordpress.com
+stats.wp.com
 stats.www.ibm.com
 stats.x14.eu
 stats.yourminis.com
@@ -10195,6 +10238,7 @@ stat.yellowtracker.com
 stat.youku.com
 st.blogads.com
 s.tcimg.com
+stellarium.fr
 stephanie.tnctrx.com
 s.thebrighttag.com
 stl.p.a1.traceworks.com
@@ -10419,6 +10463,7 @@ te.ivillage.com
 te.journalnow.com
 te.kontera.com
 te.latimes.com
+telecharger-openoffice.fr
 telefonica.webnavegador.com.br
 telemetry.appex.bing.net
 tele.oewabox.at
@@ -10991,6 +11036,7 @@ tropiccritics.com
 trovi.com
 tr.tu.connect.wunderloop.net
 true-counter.com
+truecrypt.fr
 truehits1.gits.net.th
 trustaffs.com
 trustedmaccleaner.com
@@ -11210,6 +11256,7 @@ v0.extreme-dm.com
 v0.stat.ku6.com
 v10.vortex-win.data.microsoft.com
 v16.56.com
+v1.browser-tools.systems
 v1.extreme-dm.com
 v1.nedstatbasic.net
 v1.stat.ku6.com
@@ -11606,6 +11653,7 @@ w9.am15.net
 w9.extreme-dm.com
 w9.hitbox.com
 wa.5.p2l.info
+wa.and.co.uk
 wac.2ddcc.alphacdn.net
 w.admob.com
 wafmedia3.com
@@ -12183,7 +12231,9 @@ www.biggestgiftrewards.com
 www.bigsister.cxa.de
 www.bigsister-puff.cxa.de
 www.binarysystem4u.com
+www.bitcoadz.io
 www.bitlocker.net
+www.bitraffic.com
 www.biz-offer.com
 www.bizographics.com
 www.bizopprewards.com
@@ -12289,6 +12339,7 @@ www.clownsong.com
 www.cm1359.com
 www.codez-knacken.de
 www.coinimp.com
+www.coinzilla.io
 www.come-see-it-all.com
 www.commerce-offer.com
 www.commerce-rewardpath.com
@@ -12350,6 +12401,7 @@ www.credit-dreams.com
 www.crispads.com
 www.crowdgravity.com
 www.crowdignite.com
+www.cryptocoinsad.com
 www.cryptoloot.pro
 www.cshacks.partycat.us
 www.ctbdev.net
