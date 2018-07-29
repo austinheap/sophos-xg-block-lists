@@ -2707,6 +2707,7 @@ analytics.rayjump.com
 analytics.services.kirra.nl
 analytics.shareaholic.com
 analytics.spotta.nl
+analytics-static.ugc.bazaarvoice.com
 analytics.verizonenterprise.com
 analytics.vodafone.co.uk
 analyzer51.fc2.com
@@ -6314,6 +6315,7 @@ interac.refund-canada.com
 interia.adsearch.adkontekst.pl
 internet.billboard.cz
 interyield.td573.com
+intljs.rmtag.com
 intnet-offer.com
 intrack.pl
 in.treasuredata.com
