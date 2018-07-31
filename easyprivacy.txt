@@ -36,6 +36,8 @@
 2cnt.net
 2giga.download
 2ip.ua
+2parale.ro
+2performant.com
 300ca0d0.space
 310ca263.space
 320ca3f6.space
@@ -1458,6 +1460,7 @@ cya2.net
 cybermonitor.com
 cytoclause.com
 d10lpsik1i8c69.cloudfront.net
+d11a2fzhgzqe7i.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
@@ -2781,6 +2784,7 @@ link-smart.com
 linksynergy.com
 linktausch.li
 linktausch-pagerank.de
+link.tym.cool
 linkwi.se
 linkxchanger.com
 listat.biz
@@ -2963,6 +2967,8 @@ marketing.net.jumia.com.ng
 marketing.nodesource.com
 marketing-page.de
 marketizator.com
+marketshot.com
+marketshot.fr
 markitondemand.com
 marsflag.com
 martianstats.com
@@ -3948,6 +3954,7 @@ res.rbl.ms
 retadint.com
 retags.us
 retag.xyz
+retargeting.biz
 retargeting.vistaprint.com
 retargetly.com
 retentionscience.com
