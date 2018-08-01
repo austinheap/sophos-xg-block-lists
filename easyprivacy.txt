@@ -680,6 +680,7 @@ beacon-1.newrelic.com
 beacon2.indieclick.com
 beacon2.indieclicktv.com
 beacon.affil.walmart.com
+beacon.aimtell.com
 beacon.ehow.com
 beacon.errorception.com
 beacon.examiner.com
@@ -714,6 +715,7 @@ beacon.viewlift.com
 beacon.walmart.com
 beacon.wikia-services.com
 beacon.www.theguardian.com
+beampulse.com
 beanscattering.jp
 beanstalkdata.com
 beanstock.com
@@ -2428,6 +2430,7 @@ i2ad.jp
 i2i.jp
 i401xox.com
 iadvize.com
+iaudienc.com
 ib.adnxs.com
 ibeat.indiatimes.com
 ib-ibi.com
@@ -2825,6 +2828,7 @@ log1.survey.io
 log2.adop.cc
 log.51cto.com
 logaholic.com
+log.aimtell.com
 log.artipbox.net
 log.bitauto.com
 logcounter.com
