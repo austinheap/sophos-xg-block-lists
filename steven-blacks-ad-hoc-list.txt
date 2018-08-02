@@ -437,6 +437,7 @@ go.ad1data.com
 goodblock.gladly.io
 grandonmedia.com
 graph.accountkit.com
+greatmacsoft.tech
 gtsdk.batmobi.net
 gum.criteo.com
 gurgle.zdbb.net
@@ -447,6 +448,7 @@ hosted.stats.com.edgesuite.net
 hotstar.pubnub.net
 hotstar.worldgravity.com
 howupdateworks.amazingupdates4youtoday.website
+hrtya.com
 h-sdk.online-metrix.net
 i1.dl-ad.com
 ibeat.indiatimes.com
