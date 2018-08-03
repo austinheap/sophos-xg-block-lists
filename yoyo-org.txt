@@ -40,7 +40,6 @@ abruptroad.com
 absoluteclickscom.com
 abz.com
 a.consumer.net
-a-counter.kiev.ua
 ac.rnm.ca
 actionsplash.com
 actualdeals.com
@@ -151,7 +150,6 @@ ad.gate24.ch
 ad.globe7.com
 adgoto.com
 ad.grafika.cz
-adgridwork.com
 ad.hbv.de
 adhese.be
 adhese.com
@@ -1131,7 +1129,6 @@ casinotreasure.com
 casterist.info
 cbanners.virtuagirlhd.com
 c.bigmir.net
-cbmall.com
 cdn.freefarcy.com
 cdn.onesignal.com
 cdn.segment.com
@@ -1497,7 +1494,6 @@ globaltakeoff.net
 globe7.com
 globus-inter.com
 gmads.net
-go-clicks.de
 goingplatinum.com
 goldstats.com
 googleadservices.com
@@ -1573,7 +1569,6 @@ iasds01.com
 i-clicks.net
 iconadserver.com
 icptrack.com
-idcounter.com
 identads.com
 idtargeting.com
 ientrymail.com
@@ -1647,7 +1642,6 @@ js.users.51.la
 juicyads.com
 jumptap.com
 justrelevant.com
-justwebads.com
 kanoodle.com
 kargo.com
 karonty.com
@@ -1716,7 +1710,6 @@ lytics.io
 lzjl.com
 m1.webstats4u.com
 m32.media
-m4n.nl
 mackeeperapp.mackeeper.com
 madclient.uimserv.net
 madisonavenue.com
@@ -1913,6 +1906,7 @@ openads.org
 openad.tf1.fr
 openad.travelnow.com
 open.oneplus.net
+opentag-stats.qubit.com
 openx.angelsgroup.org.uk
 openx.blindferret.com
 opienetwork.com
@@ -2074,6 +2068,7 @@ radiate.com
 rampidads.com
 rankchamp.de
 rankingchart.de
+ranking-charts.de
 ranking-hits.de
 ranking-id.de
 ranking-links.de
@@ -2169,7 +2164,6 @@ scratch2cash.com
 scripte-monster.de
 scrubsky.com
 scrubswim.com
-searchfeast.com
 searchmarketing.com
 searchramp.com
 secure.webconnect.net
@@ -2223,7 +2217,6 @@ smart.brvaffs.com
 smartlook.com
 smetrics.ctv.ca
 smetrics.walgreens.com
-smowtion.com
 snakesort.com
 snapads.com
 sneaklevel.com
@@ -2350,7 +2343,6 @@ tfag.de
 theadex.com
 theadhost.com
 theads.me
-thebugs.ws
 therapistla.com
 therichkids.com
 thirdrespect.com
@@ -2548,6 +2540,7 @@ webtracky.com
 webtraffic.se
 webtraxx.de
 webtrendslive.com
+webtrends.telegraph.co.uk
 werbung.meteoxpress.com
 wetrack.it
 whaleads.com
@@ -2619,5 +2612,6 @@ zenkreka.com
 zenzuu.com
 zeusclicks.com
 zeus.developershed.com
+zm232.com
 zmedia.com
 zqtk.net
