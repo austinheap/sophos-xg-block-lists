@@ -585,6 +585,7 @@ atraxio.com
 atsfi.de
 atticwicket.com
 attracta.com
+attraqt.com
 attributionapp.com
 attributiontrackingga.googlecode.com
 audience.acpm.fr
@@ -924,6 +925,7 @@ capture.condenastdigital.com
 capturemedia.network
 capturly.com
 carl.pubsvs.com
+carts.guru
 cashburners.com
 cashcount.com
 caspionlog.appspot.com
@@ -1734,6 +1736,7 @@ dyntrk.com
 dzizsih.ru
 dzmxze7hxwn6b.cloudfront.net
 dzxxxg6ij9u99.cloudfront.net
+ea.celio.com
 ea.clubic.com
 ea.jeuxvideopc.com
 ea.lexpress.fr
@@ -3310,6 +3313,7 @@ netmonitor.fi
 netratings.com
 netstats.dk
 netupdater.info
+netvigie.com
 netzaehler.de
 netzstat.ch
 never.ovh
@@ -3455,6 +3459,7 @@ origin-tracking.trulia.com
 orts.wixawin.com
 os-data.com
 osd.oxygem.it
+o-s.io
 ositracker.com
 ospserver.net
 osxau.de
@@ -3475,6 +3480,7 @@ p2poolmining.net
 p.adbrn.com
 pagefair.com
 page-hit.de
+pageinfo.motorsport.com
 pagerank4you.eu
 pagerank-backlink.eu
 pagerankfree.com
@@ -4856,7 +4862,6 @@ tag.myplay.com
 tags.master-perf-tools.com
 tags.msnbc.com
 tags.newscgp.com
-tags.news.com.au
 tag.sonymusic.com
 tagsrvcs.com
 tag-stats.huffpost.com
