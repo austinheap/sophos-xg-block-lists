@@ -723,6 +723,7 @@ beanstock.com
 beap-bc.yahoo.com
 bebj.com
 beeftransmission.com
+beemray.com
 beemrdwn.com
 beencounter.com
 befirstcdn.com
@@ -1636,6 +1637,7 @@ digidip.net
 digital-metric.com
 digitaloptout.com
 digitaltarget.ru
+digitru.st
 dignow.org
 dig.ultimedia.com
 dimestore.com
