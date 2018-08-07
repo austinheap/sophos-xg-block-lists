@@ -4978,7 +4978,6 @@ connexplace.com
 connextra.com
 connor-kauft.de
 consciouscabbage.com
-consciouschairs.com
 consivenu.com
 constintptr.com
 construment.com
@@ -5621,6 +5620,7 @@ d3oep4gb91kpuv.cloudfront.net
 d3ojzyhbolvoi5.cloudfront.net
 d3p2b5qewrnsyv.cloudfront.net
 d3phbp7p78bdk9.cloudfront.net
+d3pvcolmug0tz6.cloudfront.net
 d3q33rbmdkxzj.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
 d3r7h55ola878c.cloudfront.net
@@ -11036,6 +11036,7 @@ log-player.arte.tv
 logql.yahoo.co.jp
 log.quora.com
 log.rutube.ru
+logs.ntvplus.tv
 logsoc.ru
 logs.spilgames.com
 logs.supersonic.com
