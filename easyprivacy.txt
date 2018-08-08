@@ -3298,6 +3298,7 @@ nalook.com
 nametraff.com
 nanostats.nanopress.it
 nanovisor.io
+natero.com
 nathetsof.com
 native.ai
 natpal.com
@@ -4772,6 +4773,7 @@ stats.urban-media.com
 stats.uswitch.com
 stats.vc.gg
 stats.viddler.com
+stats.videodelivery.net
 stats.video.search.yahoo.com
 statsview.it
 stats.visistat.com

@@ -3579,6 +3579,7 @@ c9.statcounter.com
 ca3.revieworbit.com
 ca4.revieworbit.com
 ca.5.p2l.info
+ca8g5.win
 ca.adserver.yahoo.com
 cablevision.112.2o7.net
 cablyshaw.com
@@ -4699,6 +4700,7 @@ dl.ncbuy.com
 dl.neodownload.webcam
 dl.newflashenter.review
 dl-plugin.com
+dl.provesoftware.review
 dlvr.readserver.net
 dmn2.bjpeu.edu.cn
 dmp.vihub.ru
@@ -12524,6 +12526,7 @@ www.finder.cox.net
 www.fineclicks.com
 www.fischereszter.hu
 www.flagcounter.com
+www.flexibleadmin.com
 www.flowers-offer.com
 www.flu23.com
 www.focalex.com
