@@ -866,6 +866,7 @@ bridgevine.com
 bright.bncnt.com
 brightedge.com
 brilig.com
+broaddoor.com
 brominer.com
 browsermine.com
 browser-statistik.de
@@ -3730,7 +3731,6 @@ pool.etn.spacepools.org
 pool.hws.ru
 poolmining.eu
 poolmining.net
-poool.fr
 popsample.com
 popstats.com.br
 popt.in
@@ -5396,7 +5396,6 @@ tracktrk.net
 track.uc.cn
 track.ugamezone.com
 track.ultimate-guitar.com
-track.uniqodo.com
 track.untd.com
 track.veedio.it
 trackvoluum.com
