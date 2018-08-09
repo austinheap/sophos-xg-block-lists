@@ -266,6 +266,7 @@ play.estream.to
 play.estream.xyz
 playe.vidto.se
 play.flowplayer.space
+play.gramombird.com
 play.malictuiar.com
 play.mine.gay-hotvideo.net
 play.mix.kinostuff.com
@@ -374,6 +375,7 @@ ws.bhzejltg.info
 wsp.marketgid.com
 ws.pzoifaum.info
 wss.nablabee.com
+wss.rand.com.ru
 wtm.monitoringservice.co
 www2.adfreetv.ch
 www.authedwebmine.cz
@@ -404,6 +406,7 @@ www.monkeyminer.net
 www.mutuza.win
 www.sparechange.io
 www.terethat.ru
+www.verifier.live
 www.webassembly.stream
 www.webmine.cz
 xbasfbno.info
