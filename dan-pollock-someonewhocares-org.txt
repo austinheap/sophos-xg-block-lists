@@ -3311,6 +3311,7 @@ bitburg.adtech.us
 bitcast-d.bitgravity.com
 bitcoadz.io
 bitcoinplus.com
+bitmedia.io
 bitonclick.com
 bitraffic.com
 biwwltvcom.112.2o7.net
@@ -3963,6 +3964,7 @@ click1.rbc.magna.ru
 click2.rbc.magna.ru
 click3.rbc.magna.ru
 click4.rbc.magna.ru
+click.a-ads.com
 clickad.eo.pl
 click.adpile.net
 click.am1.adm.cnzz.net
@@ -4147,10 +4149,12 @@ coin-ad.com
 coinad.com
 coinerra.com
 coin-have.com
+coinhits.com
 coin-hive.com
 coinhive.com
 coinimp.com
 coinurl.com
+coinverti.com
 coinzilla.io
 c.oix.com
 c.oix.net
@@ -9762,6 +9766,7 @@ sharebar.addthiscdn.com
 share-server.com
 shawinternets.com
 shc-rebates.com
+shdfsdf.info
 shell.xhhow4.com
 sherkatkonandeh.com
 sherkhundi.com
@@ -10607,6 +10612,7 @@ tn.adserve.com
 tnttv.112.2o7.net
 toads.osdn.com
 todayresearch.com
+token.ad
 tommysbookmarks.com
 tommysbookmarks.net
 tomorrownewstoday.com
@@ -12250,6 +12256,7 @@ www.bigsister-puff.cxa.de
 www.binarysystem4u.com
 www.bitcoadz.io
 www.bitlocker.net
+www.bitmedia.io
 www.bitraffic.com
 www.biz-offer.com
 www.bizographics.com
@@ -12359,6 +12366,7 @@ www.codez-knacken.de
 www.coin-ad.com
 www.coinad.com
 www.coinimp.com
+www.coinverti.com
 www.coinzilla.io
 www.come-see-it-all.com
 www.commerce-offer.com
@@ -13142,6 +13150,7 @@ www.shafou.com
 www.shareasale.com
 www.share-server.com
 www.shc-rebates.com
+www.shdfsdf.info
 www.shinilchurch.net
 www.shockcounter.com
 www.shopperpromotions.com
@@ -13347,8 +13356,10 @@ www.vthought.com
 www.vtoyshop.com
 www.vulcannonibird.de
 wwww.8cr.purredheanb.online
+wwww.a-ads.com
 www.walkthedinosaur.com
 www.wantsfly.com
+wwww.coinhits.com
 www.wdm29.com
 www.webabrufe.de
 www.webassembly.stream
@@ -13390,10 +13401,12 @@ www.wormgush.com
 www.worry-free-savings.com
 www.wowjs.1www.cn
 www.wppluginspro.com
+wwww.token.ad
 www.wtp101.com
 www.xaxis.com
 www.xbn.ru
 www.xcr-286.com
+www.xl-trk.com
 www.xn--turkishirlines-1p8g.com
 www.xvideoslive.com
 www.xxxcounter.com
@@ -13478,6 +13491,7 @@ x.interia.pl
 xkygmtrrjalx.com
 xlivehost.com
 xlonhcld.xlontech.net
+xl-trk.com
 xml.adfclick1.com
 xml.ad-maven.com
 xml.adservme.com
