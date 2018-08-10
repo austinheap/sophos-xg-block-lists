@@ -40,6 +40,7 @@ abruptroad.com
 absoluteclickscom.com
 abz.com
 a.consumer.net
+a-counter.kiev.ua
 ac.rnm.ca
 actionsplash.com
 actualdeals.com
@@ -636,7 +637,6 @@ ad-space.net
 ads.passion.com
 adspeed.net
 ads.pennet.com
-ads.penny-arcade.com
 ads.phpclasses.org
 adspirit.de
 ads.planet.nl
@@ -1083,7 +1083,6 @@ bn.bfast.com
 boersego-ads.de
 boilingbeetle.com
 boomads.com
-boom.ro
 boost-my-pr.de
 boudja.com
 bounceexchange.com
@@ -1591,6 +1590,7 @@ imprese.cz
 impressionmedia.cz
 impressionz.co.uk
 imrworldwide.com
+inaccused.com
 inboxdollars.com
 incentaclick.com
 incognitosearches.com
