@@ -2136,6 +2136,7 @@ gallupnet.fi
 gammachug.com
 ga.nsimg.net
 gasolina.ml
+gateway.reddit.com
 gather.hankyung.com
 gaug.es
 ga.webdigi.co.uk
@@ -2927,6 +2928,7 @@ logs.thebloggernetwork.com
 log.suchen.de
 log.superweb.ws
 logs.vmixcore.com
+log.sv.pandora.tv
 log.sz-online.de
 log.tagtic.cn
 log.thevideo.me
