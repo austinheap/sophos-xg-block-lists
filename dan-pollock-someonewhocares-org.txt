@@ -4753,7 +4753,6 @@ download.yesmessenger.com
 dp1.33across.com
 dpbolvw.net
 d.phormlabs.com
-dpm.demdex.net
 dqs001.adtech.de
 dqs001.adtech.fr
 dqs001.adtech.us
@@ -7495,7 +7494,6 @@ metrics.dallasnews.com
 metrics.elle.com
 metrics.experts-exchange.com
 metrics.fandome.com
-metrics.foxnews.com
 metrics.gap.com
 metrics.health.com
 metrics.hrblock.com
