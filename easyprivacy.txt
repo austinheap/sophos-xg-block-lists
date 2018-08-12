@@ -2136,7 +2136,6 @@ gallupnet.fi
 gammachug.com
 ga.nsimg.net
 gasolina.ml
-gateway.reddit.com
 gather.hankyung.com
 gaug.es
 ga.webdigi.co.uk
@@ -3013,6 +3012,7 @@ marketizator.com
 marketshot.com
 marketshot.fr
 markitondemand.com
+maropost.com
 marsflag.com
 martianstats.com
 mar.vip.com
@@ -4345,6 +4345,7 @@ sodoit.com
 soflopxl.com
 softonic-analytics.net
 sojern.com
+soko.ai
 sokrati.com
 sometrics.com
 somniture.theglobeandmail.com
