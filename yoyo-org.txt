@@ -1701,6 +1701,7 @@ loading321.com
 log.btopenworld.com
 logger.snackly.co
 logrocket.com
+logs.roku.com
 logua.com
 lop.com
 lopsidedspoon.com
@@ -2407,6 +2408,7 @@ trackedweb.net
 tracker.icerocket.com
 tracker.marinsm.com
 tracker-pm2.spilleren.com
+tracker.trackerfix.com
 track.flexlinks.com
 track.flexlinkspro.com
 track.gawker.com
