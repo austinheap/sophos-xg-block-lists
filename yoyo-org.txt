@@ -1045,6 +1045,7 @@ bbn.img.com.ua
 beacon.gu-web.net
 beamincrease.com
 beamkite.com
+bebi.com
 begun.ru
 behavioralengine.com
 belstat.com
@@ -1516,6 +1517,7 @@ gunggo.com
 harrenmedia.com
 harrenmedianetwork.com
 havamedia.net
+heapanalytics.com
 heap.com
 heias.com
 hellobar.com
@@ -1700,6 +1702,7 @@ lizardslaugh.com
 loading321.com
 log.btopenworld.com
 logger.snackly.co
+log.logrocket.io
 logs.logrocket.com
 logs.roku.com
 logua.com
@@ -1976,6 +1979,7 @@ phpmyvisites.net
 picadmedia.com
 piet2eix3l.com
 pietexture.com
+piguiqproxy.com
 pillscash.com
 pimproll.com
 ping.ublock.org
@@ -2607,6 +2611,7 @@ yieldmanager.net
 yieldmo.com
 yieldtraffic.com
 yldbt.com
+ymetrica1.com
 yoggrt.com
 z5x.net
 zangocash.com
