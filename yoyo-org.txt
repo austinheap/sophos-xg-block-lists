@@ -1746,7 +1746,6 @@ media-adrunner.mycomputer.com
 mediaarea.eu
 mediabridge.cc
 mediacharger.com
-mediadvertising.ro
 media.ftv-publicite.fr
 media.funpic.de
 mediageneral.com
@@ -1989,7 +1988,6 @@ pixel.redditmedia.com
 pixel.sojern.com
 pixel.watch
 play4traffic.com
-playhaven.com
 playmobileads.com
 plista.com
 plugrush.com
@@ -2032,7 +2030,6 @@ promobenef.com
 promos.bwin.it
 promos.fling.com
 promote.pair.com
-promotion-campaigns.com
 promo.ulust.com
 pronetadvertising.com
 propellerads.com
@@ -2318,7 +2315,6 @@ swan-swan-goose.com
 switchadhub.com
 switchads.com
 swordfishdc.com
-sx.trhnt.com
 taboola.com
 tacoda.net
 tagular.com
@@ -2352,6 +2348,7 @@ tfag.de
 theadex.com
 theadhost.com
 theads.me
+thebugs.ws
 therapistla.com
 therichkids.com
 thirdrespect.com
@@ -2447,7 +2444,6 @@ trekblue.com
 trekdata.com
 trendcounter.com
 trendmd.com
-trhunt.com
 tribalfusion.com
 trickycelery.com
 tritetongue.com
@@ -2503,7 +2499,6 @@ videoegg.com
 video-stats.video.google.com
 vidora.com
 view4cash.de
-viewpoint.com
 visiblemeasures.com
 visistat.com
 visitbox.de
