@@ -791,6 +791,7 @@
 529collegesaving.com
 52djcy.com
 531.xg4ken.com
+5322221.fls.doubleclick.net
 5362399.fls.doubleclick.net
 53.localytics.com
 540.filost.com
@@ -1354,7 +1355,6 @@ ab.vendemore.com
 abz.com
 ac9d98.r.axf8.net
 academy.dynamicyield.com
-academy.gigya.com
 academy.tune.com
 acaiberryextreme.pl
 ac.ajur.info
@@ -1382,16 +1382,12 @@ accountlock-demo.iovation.com
 account.maximus.co
 account.paypal-inc.tribesiren.com
 accountprotection.xyz
-accounts.au1.gigya.com
 accounts.backtrace.io
-accounts.eu1.gigya.com
-accounts.gigya.com
 accounts.in.backtrace.io
 accounts.inlocomedia.com
 accounts.livefyre.com
 accounts.qa-ext.livefyre.com
 accounts.t402.livefyre.com
-accounts.us1.gigya.com
 a.cctv.com
 accur.biz
 accuserveadsystem.com
@@ -2270,7 +2266,6 @@ adfpaces.ero-advertising.com
 ad.fr.doubleclick.net
 ad.freecity.de
 adfreetv.ch
-adfs.gigya.com
 adfu.blockstackers.com
 ad.funpic.de
 adfun.ru
@@ -2664,9 +2659,7 @@ admin.drawbrid.ge
 adminec1.hitbox.com
 ad-miner.com
 adminer.com
-admin.eu1.gigya.com
 admin.getambassador.com
-admin.gigya.com
 admin.hotkeys.com
 admin.iesnare.com
 admin.iesnare.co.uk
@@ -2697,7 +2690,6 @@ admin.streetview.siliconorchard.com
 admin-styleguide.dynamicyield.com
 adm.intel-intg.dynamicyield.com
 adm.intel-stage.dynamicyield.com
-admin.us1.gigya.com
 admin.usc-ppa-test.urbaninsight.com
 admin.vserv.mobi
 admin-x.de
@@ -7106,7 +7098,10 @@ amelie95.free.fr
 amercanfidelity.com
 amer.hops.glbdns.microsoft.com
 america.monerise.com
+americana-p.shopcurbside.com
+americana.shopcurbside.com
 americanas-ofertasimperdiveis.com
+americana-s.shopcurbside.com
 americanbaby.112.2o7.net
 americancareconcept.com
 americancontractbuyers.com
@@ -7424,7 +7419,6 @@ andr.net
 android4fun.org
 androidads23.adcolony.com
 androidandme.us.intellitxt.com
-androidapk.world
 android.bcfads.com
 android.bigresource.com
 androidcentral.us.intellitxt.com
@@ -7997,11 +7991,13 @@ apiportalmorecom-a.akamaihd.net
 api.ppoi.org
 api.promotions.skype.com
 api.proofpositivemedia.com
+api-p.shopcurbside.com
 api-public.addthis.com
 api.pubnative.net
 api.pubwise.io
 api.pushspring.com
 api.pzoifaum.info
+api-q1.shopcurbside.com
 api.qa1.corp.mparticle.com
 api.qa2.corp.mparticle.com
 api.qa.branch.io
@@ -8050,6 +8046,7 @@ api.speedcurve.com
 api.spotxchange.com
 apispringsmartne-a.akamaihd.net
 apis.sharethrough.com
+api-s.shopcurbside.com
 apis-staging.sharethrough.com
 apis.staging.sharethrough.com
 api-staging.lisnr.com
@@ -8075,6 +8072,7 @@ api.tns-cs.net
 api.trackuity.com
 api.traffiliate.com
 api.treasuredata.com
+api-t.shopcurbside.com
 api.tumra.com
 api.tushar.env.sandbox53.localytics.com
 api.tushar-test.env.sandbox53.localytics.com
@@ -8318,6 +8316,7 @@ apps.demo.dynatrace.com
 appsdorado.com
 appsecurityr.com
 appsee.com
+app.sentry.io
 apps.epom.com
 appsflyer.com
 appsflyer-impressions-1319352537.eu-west-1.elb.amazonaws.com
@@ -8994,11 +8993,7 @@ atyss.barginginfrance.net
 atzdk.dk
 au-01.adtomafusion.com
 au052.insightexpress.com
-au1a-email-mng.gigya.com
-au1.gigya.com
 au1.qualtrics.com
-au1-st1.gigya.com
-au1-st2.gigya.com
 au.2.cqcounter.com
 au.adserver.yahoo.com
 au.ads.link4ads.com
@@ -10602,7 +10597,11 @@ betaone.eap.force.com
 betaone.visual.eap.force.com
 beta.optimizely.com
 beta.outbrain.com
+beta-p.shopcurbside.com
 beta.reports.advertising.com
+beta.shopcurbside.com
+beta-shop.shopcurbside.com
+beta-s.shopcurbside.com
 bet-at-home.com
 betathree.content.eap.force.com
 betathree.eap.force.com
@@ -10922,6 +10921,7 @@ bis-ssp-ssl.bestcontentonline.com
 bis-ssp-ssl.installfarm.com
 bis-ssp-ssl.placeyourview.com
 bis-ssp-ssl.shoofle.tv
+bis.vidazoo.com
 bitads.net
 bitbucket.districtm.net
 bitbucket-testing.districtm.net
@@ -11174,7 +11174,6 @@ bloggerads.net
 bloggernetwork-d.openx.net
 bloggers.fuckyoucash.com
 bloggers.nl
-blog.gigya.com
 bloggpropecia.com
 blog.gumgum.com
 blog-hanger.autopilothq.com
@@ -11213,6 +11212,7 @@ blog.replacemycontacts.com
 blog.returnpath.com
 blog.roboinside.me
 blogrush.com
+blog.sentry.io
 blogsexe.biz
 blogsexe.cc
 blogsexe.eu
@@ -12406,6 +12406,7 @@ caixanove.com.br
 cakeaway.se
 cakemediahq.com.au
 cakkk.com
+cal.a.sentry.io
 calc-for-credit.ru
 calcularpagerank.com
 calculate.de
@@ -12653,6 +12654,7 @@ cartoonsex.nu
 car-truck-boat-bonuspath.com
 car-truck-boat-premiumblvd.com
 cartujano-pre.de
+caruso.shopcurbside.com
 casablancamanor.co.za
 casadecarnessola.com.br
 casa-dei.eu
@@ -12838,6 +12840,7 @@ cc-gastro.de
 ccg.jd2g.com
 cc.gofile.io
 c.chango.com
+cc.hb.omtrdc.net
 ccinext.count.ly
 cc.iwon.com
 ccleaner.fr
@@ -12903,7 +12906,6 @@ cdn-1.convertexperiments.com
 cdn1.crispadvertising.com
 cdn1.eyewonder.com
 cdn1.fyber.com
-cdn1.gigya.com
 cdn1ht.traffichaus.com
 cdn1.inner-active.mobi
 cdn1-marketplace.vntsm.com
@@ -12925,7 +12927,6 @@ cdn2.amateurmatch.com
 cdn2.crispadvertising.com
 cdn2.emediate.eu
 cdn2.fyber.com
-cdn2.gigya.com
 cdn2.inwemo.com
 cdn2.lfstmedia.com
 cdn2-marketplace.vntsm.com
@@ -12936,14 +12937,11 @@ cdn2.truconversion.com
 cdn3.adexprts.com
 cdn3.emediate.eu
 cdn3.fyber.com
-cdn3.gigya.com
 cdn3.optimizely.com
 cdn3.telemetryverification.net
 cdn454.telemetryverification.net
 cdn4.fyber.com
-cdn4.gigya.com
 cdn4s.steelhousemedia.com
-cdn5.gigya.com
 cdn5.js.ad.dotandad.com
 cdn5.tribalfusion.com
 cdn5.userzoom.com
@@ -13021,7 +13019,6 @@ cdn.atlassbx.com
 cdn.atomex.net
 cdna.tremormedia.com
 cdn.atwola.com
-cdn.au1.gigya.com
 cdn.auditude.com
 cdn.augur.io
 cdn.avmws.com
@@ -13107,7 +13104,6 @@ cdn.epicgameads.com
 cdn.epom.com
 cdn.epommarket.com
 cdn.eqads.com
-cdn.eu1.gigya.com
 cdn-eu.dynamicyield.com
 cdneval.adnxs.com
 cdn.evergage.com
@@ -13142,7 +13138,6 @@ cdn.geni.us
 cdn.getambassador.com
 cdn.getambassador.com.sandbox.getambassador.com
 cdn.getsmartcontent.com
-cdn.gigya.com
 cdn-gl.imrworldwide.com
 cdn.go.arbo.bbelements.com
 cdn.go.arbopl.bbelements.com
@@ -13274,23 +13269,15 @@ cdn.roiq-vice.ranker.com
 cdn.rollbar.com
 cdn.rove.cl
 cdn-rtb.sape.ru
-cdns1.gigya.com
-cdns2.gigya.com
-cdns3.gigya.com
-cdns4.gigya.com
-cdns5.gigya.com
 cdn.sagent.io
 cdn.sail-horizon.com
 cdn-s.amazon-adsystem.com
 cdns.amgdgt.com
-cdns.au1.gigya.com
 cdn.scarabresearch.com
 cdn.segment.com
 cdn.segment.io
 cdn.selectablemedia.com
 cdn-settings.segment.com
-cdns.eu1.gigya.com
-cdns.gigya.com
 cdn.shoppingminds.net
 cdn.siftscience.com
 cdns.mydirtyhobby.com
@@ -13314,7 +13301,6 @@ cdnsteelpro.com
 cdn.stickyadstv.com
 cdn.streambeam.io
 cdn.stroeerdigitalmedia.de
-cdns.us1.gigya.com
 cdns.ws
 cdn.syndication.twitter.com
 cdn.syn.verticalacuity.com
@@ -13347,7 +13333,6 @@ cdnt.yottos.com
 cdn.udmserve.net
 cdn.undertone.com
 cdn.unityads.unity3d.com
-cdn.us1.gigya.com
 cdn.usabilitytracker.com
 cdn.userreport.com
 cdn.us.goldspotmedia.com
@@ -13602,11 +13587,8 @@ chaseonline.com
 chat2.livechatinc.com
 chat.adspaces.ero-advertising.com
 chat.api.drift.com
-chat.au1.gigya.com
 chat.effectivebrand.com
 chat.ero-advertising.com
-chat.eu1.gigya.com
-chat.gigya.com
 chatliebe.com
 chatproxy.net
 chatroulette.online
@@ -13618,7 +13600,6 @@ chattes-poilues.biz
 chatte.xxl-list.com
 chat.trackalyzer.com
 chat.urbanairship.com
-chat.us1.gigya.com
 chaudelaura90b.free.fr
 chaussures-nike.org
 chaveiro.bio.br
@@ -13751,14 +13732,6 @@ chinaelitecheapjerseys.com
 china.inmobi.com
 chinajerseyswholesalecoupons.com
 chinamedicalnews.com
-china-proxy1.us1.gigya.com
-china-proxy2.us1.gigya.com
-china-proxy3.us1.gigya.com
-china-proxy4.us1.gigya.com
-china-proxy5.us1.gigya.com
-china-proxy6.us1.gigya.com
-china-proxy7.us1.gigya.com
-china-proxy8.us1.gigya.com
 china.sizmek.com
 china-top.ru
 chinchoi.cn
@@ -14544,7 +14517,6 @@ cmtvia.112.2o7.net
 cmweb.ilike.alibaba.com
 c.my.msn.com
 c.mystat-in.net
-cn1.gigya.com
 cn2.adserver.yahoo.com
 cnad1.economicoutlook.net
 cnad2.economicoutlook.net
@@ -14877,10 +14849,7 @@ com-kodak.netmng.com
 commandwalk.com
 commbau.com
 comment-devenirriche.com
-comments.au1.gigya.com
-comments.eu1.gigya.com
-comments.gigya.com
-comments.us1.gigya.com
+commerce-api.sprinklr.com
 commerce-offer.com
 commerce-rewardpath.com
 commerce.www.ibm.com
@@ -14903,6 +14872,7 @@ community-old2.dynamicyield.com
 community-old.dynamicyield.com
 community.optimizely.com
 communitypetclinicmanteca.com
+community.sentry.io
 community-staging.appdynamics.com
 community-staging.optimizely.com
 com-nbc-news.com
@@ -15045,7 +15015,6 @@ consentmanager.mgr.consensu.org
 console.adserve.video
 console.all-stars.pl
 console.backtrace.io
-console.gigya.com
 console.ibm.xtify.com
 console.truconversion.com
 console.xtify.com
@@ -15726,6 +15695,7 @@ crackelite.com
 crackfulldownload.com
 crackguru.tk
 crackle.demdex.net
+crackle.hb.omtrdc.net
 crack.oxygen.phone.sms13.de
 crackserialkeys.net
 crackspider.net
@@ -16624,6 +16594,10 @@ cvp8.asvoxod.ru
 cvp.cdn.turner.com
 c.vrvm.com
 c.vserv.mobi
+cvs-p.shopcurbside.com
+cvs.shopcurbside.com
+cvs-s.shopcurbside.com
+cvs-t.shopcurbside.com
 cvt.mydas.mobi
 cvvy.com
 cwcwcw.tk
@@ -17448,7 +17422,6 @@ demo.celebrus.com
 demo.convertro.com
 demo.dmp.piwik.pro
 demo.getsitecontrol.com
-demo.gigya.com
 demo.intercom.io
 demo-jp.adlearnop.advertising.com
 demo.kampyle.com
@@ -17650,7 +17623,6 @@ developers.adroll.com
 developers.autopilothq.com
 developers.convertkit.com
 developers.dev.getambassador.com
-developers.gigya.com
 developer.sharethis.com
 developers.intercom.io
 developers.marketo.com
@@ -18036,6 +18008,7 @@ display.provenpixel.com
 disqusads.com
 disruptingdinnerparties.com
 dis.sv.us.criteo.com
+dist42.shopcurbside.com
 distancephotography.com
 dist.belnk.com
 distillery.wistia.com
@@ -18228,6 +18201,7 @@ docs.newrelic.com
 docs.pyrthon.org
 docs-ra.newrelic.com
 docs.rollbar.com
+docs.sentry.io
 docs-staging.newrelic.com
 docs.staging.wootric.com
 docstoc.com
@@ -18501,7 +18475,6 @@ downloads.adx1.com
 downloadsex.info
 downloads-finereader.ru
 downloads.fotorome.com
-downloads.gigya.com
 downloads.larivieracasino.com
 downloads-mobile.com
 downloads.mytvandmovies.com
@@ -18619,6 +18592,7 @@ drindor.free.fr
 drinkbreak.net
 drinksomecoffee.com
 drive13.tripod.com
+drive.a.sentry.io
 drivepark.ru
 driveporno.com
 driverguide.us.intellitxt.com
@@ -18698,18 +18672,15 @@ ds2.contextweb.com
 ds.advg.jp
 ds-aksb-a.akamaihd.net
 ds.amateurmatch.com
-ds.au1.gigya.com
 ds.contextweb.com
 dscwgodlllls.net
 ds.cybereps.com
 dsedu.co.kr
 dserver.hw.net
 d.serve-sys.com
-ds.eu1.gigya.com
 ds.eyeblaster.com
 dsfonts.com
 dsfsd.usaharvest.com
-ds.gigya.com
 d.shareaholic.com
 ds.ign.us.intellitxt.com
 ds.keshet-i.com
@@ -18745,7 +18716,6 @@ dstroy.su
 ds-ui-mockups.dev.gumgum.com
 dsum.casalemedia.com
 dsum-sec.casalemedia.com
-ds.us1.gigya.com
 dsvf.ru
 dsys1.franklyinc.com
 dt.admission.net
@@ -20355,18 +20325,14 @@ eu18.visual.force.com
 eu19.content.force.com
 eu19.force.com
 eu19.visual.force.com
-eu1a-email-mng.gigya.com
 eu1.cfcnet.gdn
 eu1.content.force.com
 eu1.cpufan.club
 eu1.force.com
-eu1.gigya.com
 eu1.heatmap.it
 eu1.madsone.com
 eu1.recompenses.win
 eu1.snoobi.com
-eu1-st1.gigya.com
-eu1-st2.gigya.com
 eu1.thunderhead.com
 eu1.visual.force.com
 eu25.content.force.com
@@ -20763,8 +20729,12 @@ expressaffiliatesite.com
 express.maxpoint.com
 expressodenoticias.com.br
 expressomatogrosso.com.br
+express-p.shopcurbside.com
+express.shopcurbside.com
+express-s.shopcurbside.com
 express-submit.de
 expresstoplivo.ru
+express-t.shopcurbside.com
 express.uk.intellitxt.com
 exquisiteporn.com
 exscan.ads.scanapps.com
@@ -21557,8 +21527,6 @@ fidelityfunding.com
 fidellty.com
 fidelove.com
 fidgetspinner.5v.pl
-fidm.au1.gigya.com
-fidm.eu1.gigya.com
 fif49.info
 fifa14-hack-players.biz
 fifa-coins.online
@@ -22106,6 +22074,7 @@ forex-trading-benefits.blogspot.com
 forextrading.hut1.ru
 forexunion.net
 forfucksakes.com
+forge.sentry.io
 forgiveme.ru
 forgotten-deals.com
 formalyzer.com
@@ -22151,6 +22120,7 @@ forums.cybercitizens.com
 forums.d2jsp.org
 forums.data2.ero-advertising.com
 forumsdediscussion.com
+forum.sentry.io
 forums.ero-advertising.com
 forums.thatchickensite.com
 forum-windows.eu
@@ -23858,7 +23828,6 @@ gigistar.tv
 gigoloioslo.tk
 gigup.net
 gigwise.us.intellitxt.com
-gigya.com
 gilbertbanda.net
 gillout.oewabox.at
 gilutech.com
@@ -24063,13 +24032,10 @@ glsenpgh.org
 glx.com.br
 gmads.mookie1.com
 gmads.net
-gm.au1.gigya.com
 gmchevyapprentice.112.2o7.net
 gm.demdex.net
 gmdtrk.com
-gm.eu1.gigya.com
 gmf.celebrus.com
-gm.gigya.com
 gmgmacfs.112.2o7.net
 gmgmacmortgage.112.2o7.net
 gmgmcom.112.2o7.net
@@ -24083,7 +24049,6 @@ gmskdoc.com
 g.msn.com
 gmtdmp.mookie1.com
 gm.touchclarity.com
-gm.us1.gigya.com
 gmx.oewabox.at
 gne8.com
 gneill.com
@@ -24666,7 +24631,11 @@ groupielovedvd.com
 groupm.com
 groupmoney.ru
 grouppics.allmanpages.com
+groups.a.sentry.io
 groupsexxx.com
+grove-p.shopcurbside.com
+grove.shopcurbside.com
+grove-s.shopcurbside.com
 growingconfidence.org
 growmyfunds.ca
 growsex.com
@@ -24712,7 +24681,6 @@ gsasearchengineranker.xyz
 gsautotrading.com
 gsbs.com.ua
 gscontxt.net
-gscounters.au1.gigya.com
 gscounters.eu1.gigya.com
 gscounters.gigya.com
 gscounters.us1.gigya.com
@@ -25303,7 +25271,6 @@ help.brightfunnel.com
 help.clearbit.com
 help.convertkit.com
 help.convertro.com
-helpdesk.gigya.com
 helpdesk.marketbill.com
 help.drift.com
 helper-stats.wondershare.com
@@ -25324,6 +25291,7 @@ help-page-report-notification-in.hostreo.com
 help.returnpath.com
 help.rollbar.com
 helps-confrim1777.suport-acount-confrim12.ga
+help.sentry.io
 helpsfind.com
 help.sharethis.com
 helpshop.org
@@ -26121,11 +26089,9 @@ hpr.outbrain.com
 hq1.appsflyer.com
 hq.appsflyer.com
 hq-celebrity.us.intellitxt.com
-hqq.tv
 hqsexmovies.com
 hr.adocean.pl
 hrbot.beta.aviasales.ru
-hr-cv.gigya.com
 hrdcvn.com.vn
 hreade.com
 hr-engine.xclaimwords.net
@@ -26197,7 +26163,6 @@ httpp.gdn
 httppp.com
 httpring.qq.com
 https-legalrc.biz
-httpswww.coinimp.com
 httpwwwadserver.com
 ht.tube8.com
 ht.xtube.com
@@ -26534,11 +26499,7 @@ idp.adsrvr.org
 idpix.media6degrees.com
 idqsygpvizjp.bid
 idrct.com
-ids.au1.gigya.com
-ids.eu1.gigya.com
-ids.gigya.com
 idspaces.ero-advertising.com
-ids.us1.gigya.com
 idsync.mparticle.com
 idsync.rlcdn.com
 idtargeting.com
@@ -27019,7 +26980,6 @@ imonitor.nethost.cz
 imouto.be
 imp2.track.tappx.com
 impact.cossette-webpact.com
-impact.gigya.com
 impacts.alliancehub.com
 impactsystems.co.ke
 impactwrestling.us.intellitxt.com
@@ -27279,6 +27239,7 @@ ingdieba.de
 ing-district.clicktale.net
 ingest.advertising.com
 ingest-qa.kube-prod.vungle.com
+ingest.sentry.io
 ingest.vungle.com
 in.getclicky.com
 in-gmtdmp.mookie1.com
@@ -29213,7 +29174,6 @@ knogg.net
 knol.pw
 knorex.com
 knowledge.digitalremedy.com
-knowledge.gigya.com
 knowledge.tapjoy.com
 known.counsellor.gov.cn
 knowyourmobile.uk.intellitxt.com
@@ -29771,6 +29731,7 @@ learn-new.optimizely.com
 learn.newrelic.com
 learn.optimizely.com
 learn-ra.newrelic.com
+learn.sentry.io
 learn-staging.newrelic.com
 learn.survicate.com
 learn.thirdpresence.com
@@ -29950,7 +29911,6 @@ lga-rts-kube-test.contextweb.com
 lg.brandreachsys.com
 lgelectronics.122.2o7.net
 lgkzmjfu.bid
-lgn.www.gigya.com
 lgogujahrnxr.bid
 l.heatmap.it
 lhmnbgieieksdv.bid
@@ -30227,7 +30187,6 @@ livecams.dreamnet.com
 livecams.nl
 livecamstreams.com
 live.chartboost.com
-livechat.gigya.com
 livechatpartner.com
 livecheck2update.thepointofforcontentingclear.bid
 livecheck.theperfectsystoupdating.date
@@ -30268,6 +30227,7 @@ liversely.com
 livescience.us.intellitxt.com
 liveseek.de
 live.sekindo.com
+live.sentry.io
 livesex24.ch
 livesex99.com
 livesexbunnys.com
@@ -30496,7 +30456,6 @@ login.adtechus.com
 login.adx1.com
 login.auth.mparticle.com
 login-canary.flurry.com
-login.console.gigya.com
 login.console.unrulymedia.com
 login.darkhost.info
 login.dotomi.com
@@ -31397,6 +31356,7 @@ mail.airvertiseme.com
 mail.allnews24.in
 mail.analyse.advertisingbox.com
 mail.analyticson.com
+mail.a.sentry.io
 mailatl.tritondigital.com
 mail.avis.cm
 mail.bangla.net
@@ -31541,7 +31501,6 @@ manage001.adtech.us
 manage-api.s50.exacttarget.com
 managed.internal.dynatrace.com
 manage.ext.s50.exacttarget.com
-manage.gigya.com
 manager.rovion.com
 manage.s50.exacttarget.com
 manage.sharethrough.com
@@ -32567,6 +32526,7 @@ metrics.chacha.com
 metrics.chron.com
 metrics.cleveland.com
 metrics.clickconvertsell.com
+metrics.cloudflarebolt.com
 metrics.cnn.com
 metrics-collector-1584522448.us-east-1.elb.amazonaws.com
 metricscollector.lp.xcal.tv
@@ -33025,7 +32985,6 @@ miner.cinemafacil.com
 minerclaim.net
 minercry.pt
 miner.cryptobara.com
-minergate.com
 miner.nablabee.com
 minero.cc
 miner.oozing.co
@@ -33472,7 +33431,6 @@ monero-miner.net
 monerominer.rocks
 monero.monerise.com
 moneroocean.stream
-moneropool.phoenix.dj
 monetarycard.com
 monetate.net
 monetisetrk2.co.uk
@@ -34047,8 +34005,6 @@ mycleanpc.com
 mycleanpc.tk
 myclicknet.ro
 myclicknet.romtelecom.ro
-my.console.gigya.com
-my.console.ru1.gigya.com
 mycooch.com
 my.coolestmobi.com
 mycounter.tinycounter.com
@@ -34947,7 +34903,6 @@ nerez-schodiste-zabradli.com
 nerohut.com
 nero-us.com
 nerudlogistik.ru
-nestle.gigya.com
 nestorconsulting.net
 nestscape.com
 nesty.ru
@@ -38727,13 +38682,13 @@ platform-api.supersonic.com
 platform.blismedia.com
 platform.communicatorcorp.com
 platform.drawbrid.ge
-platform.gigya.com
 platform.jsecoin.com
 platform.mobileapptracking.com
 platform.shoofle.tv
 platform.sizmek.com
 platfrom-api.beeviewd.com
 platfrom-api.placeyourview.com
+platfrom-api.vidazoo.com
 platinumcpr.com
 platinum-girls.com
 plattangsborste.se
@@ -39800,7 +39755,6 @@ potvaporizer.com
 poudreschools.hosting.exacttarget.com
 pousadaalohajeri.com.br
 poushaketabriz.ir
-povw1deo.com
 powabcyfqe.com
 powellsbooks.122.2o7.net
 powenlite24.ru
@@ -41215,8 +41169,6 @@ r6---sn-5ualdne7.c.2mdn.net
 r7mediar.com
 r8nu86wg.me
 r9accelerator.co.nz
-ra2-il.gigya.com
-ra3-il.gigya.com
 raagjat.com
 raahenseutu.jainos.fi
 raavidesigns.com
@@ -41238,7 +41190,6 @@ r.adrolays.de
 r.adserver01.de
 rads.stackoverflow.com
 rahulthehacker.tk
-ra-il.gigya.com
 railsplitter-e2e.flurry.com
 railsplitter-stg.flurry.com
 rainbowclub.hitbox.com
@@ -41271,13 +41222,11 @@ rakuten.112.2o7.net
 rakuten.digitrust.mgr.consensu.org
 ralae.info
 rallyeair.com
-ra-lnd.gigya.com
 rammstien.de
 rampagegramar.com
 rampant.nu
 rampidads.com
 ramsayandwellington.one-integration.ci.convertro.com
-ra-mv.gigya.com
 ranbux.com
 rancher.mgmt.us-east-1.kops.kargo.com
 ranchoporno.com
@@ -41312,7 +41261,6 @@ ranksonic.info
 ranks.sextracker.com
 rankyou.com
 rantsports.us.intellitxt.com
-ra-ny.gigya.com
 rapax.it
 rapedpussy.com
 rapefiles.nu
@@ -41891,17 +41839,13 @@ reportingsales.com
 reporting.singlefeed.com
 report.mitsubishicars.com
 reports.advertising.com
-reports.au1.gigya.com
 reports.crashlytics.com
 reports.datamark.net
 reports.dna.247realmedia.com
-reports.eu1.gigya.com
 reports.extreme-dm.com
-reports.gigya.com
 reports.jp.advertising.com
 reports.leadnationmedia.com
 reports.sem.advertising.com
-reports.us1.gigya.com
 reports.vizury.com
 reports.wes.df.telemetry.microsoft.com
 repostuj.push-ad.com
@@ -41986,6 +41930,8 @@ resultshub-a.akamaihd.net
 results.optimizely.com
 resume-help-queen.com
 retadint.com
+retailers.shopcurbside.com
+retailers-s.shopcurbside.com
 retailwith.com
 retaraga.ru
 retarcl.net
@@ -42209,7 +42155,6 @@ rock.directprimal.com
 rocketadt.com
 rocketadv.com
 rocketadx.com
-rocket.gigya.com
 rocketspaceks.com
 rockhestershie.com
 rockingclicks.com
@@ -42558,10 +42503,6 @@ rtv-delta.com
 rtve.d1.sc.omtrdc.net
 rt.visilabs.com
 rtw.monerise.com
-ru1-direct.gigya.com
-ru1.gigya.com
-ru1-st1.gigya.com
-ru1-st2.gigya.com
 ru2.hit.stat24.com
 ru4.com
 rubanners.com
@@ -42771,6 +42712,7 @@ s1.g1-iad.qualtrics.com
 s1.gratkapl.adocean.pl
 s1.hit.stat24.com
 s1.hit.stat.pl
+s1.hqq.tv
 s1.inviziads.com
 s1.listrakbi.com
 s1.my.adocean.pl
@@ -42823,6 +42765,7 @@ s2.flowplayer.space
 s2.go-mpulse.net
 s2.hit.stat24.com
 s2.hit.stat.pl
+s2.hqq.tv
 s2p.estream.to
 s2.play.estream.nu
 s2.play.estream.to
@@ -44048,6 +43991,7 @@ sen-to-zdrowie.ml
 sentrol.cl
 sentry.adthrive.com
 sentry.adwyze.com
+sentry.io
 sentry.livefyre.com
 sentry.nullrefexcep.com
 seo-2-0.com
@@ -44228,6 +44172,7 @@ server-stockh.imrworldwide.com
 server-ua.imrworldwide.com
 server-uk.imrworldwide.com
 server-us.imrworldwide.com
+server.vidazoo.com
 server-za.imrworldwide.com
 server.zoiets.be
 servethis.com
@@ -45186,6 +45131,7 @@ shopalliedpools.com
 shop.analyticson.com
 shopbitcoin.ru
 shop.convertkit.com
+shopcurbside.com
 shop-electron.ru
 shop-hasan.ru
 shopiconboutiqe.com
@@ -45210,6 +45156,7 @@ shoppingsiterewards.com
 shoppstop.comood.opsource.net
 shoppytoolmac.com
 shopsellcardsdumps.com
+shop.shopcurbside.com
 shop.skin-safety.com
 shops-malls-rewardpath.com
 shopstickersbysandstone.com
@@ -45363,7 +45310,6 @@ sin.ero-advertising.com
 sinestesia.host.sk
 sinettrk.com
 singapore01.monero.hashvault.pro
-singaporeair.sslproxy.gigya.com
 singhamrecords.com
 single1women.freehomepage.com
 single-online.petrovka.info
@@ -45432,6 +45378,7 @@ sitemeter.com
 siteonline.stream
 siteonomy.com
 siterecruit.comscore.com
+sites.a.sentry.io
 sites.asianschoolfuck.com
 sitesearch.hitbox.com
 sitesgratuits.fr
@@ -45934,10 +45881,7 @@ social-buttons.com
 socialbuttons.xyz
 social-fun.ru
 socialitelife.us.intellitxt.com
-socialize.au1.gigya.com
 socialize.eu1.gigya.com
-socialize.gigya.com
-socialize.us1.gigya.com
 socialking.in
 sociallitelife.tags.crwdcntrl.net
 socialmadesimple.com
@@ -46649,7 +46593,6 @@ staging.banners.advidi.com
 staging-banner-server.fyber.com
 staging-bidding-agent.fyber.com
 staging.bid.snapads.com
-staging.blog.gigya.com
 staging-bs-creatives.fyber.com
 staging.clickconvertsell.com
 staging.c.msas.media.net
@@ -46658,7 +46601,6 @@ staging.criteo.com
 staging.c.vindicosuite.com
 staging-defect.dynatrace.com
 staging.demandbase.com
-stagingdemo.gigya.com
 staging-discuss.newrelic.com
 staging.d.msas.media.net
 staging.eam.pubocean.com
@@ -46699,14 +46641,12 @@ staging-tlx.3lift.com
 staging-tracker.fyber.com
 staging.tt.omtrdc.net
 staging.unityads.unity3d.com
-staging-uploads.www.gigya.com
 staging.us-east-1.kops.kargo.com
 staging.us-west-1.kops.kargo.com
 staging-video.fyber.com
 staging.vindicosuite.com
 staging.webxmr.com
 staging.wootric.com
-staging.www.gigya.com
 staging-x.flurry.com
 staging.x.vindicosuite.com
 staging.yodelmobile.com
@@ -46766,6 +46706,7 @@ start.outster.com
 startpornwebmasters.com
 startpunt.nu.site-id.nl
 start.qip.ru
+start.sentry.io
 start.sextracker.com
 start.stage.driftt.com
 startufa.ru
@@ -47011,6 +46952,7 @@ static.unister-adservices.com
 static.unocdn.com
 static-upload.appdynamics.com
 static.vertamedia.com
+static.vidazoo.com
 static.vilynx.com
 static.virgul.com
 static.vpptechnologies.com
@@ -47317,6 +47259,7 @@ status.marketo.com
 status.minexmr.com
 status.newrelic.com
 status.optimizely.com
+status.sentry.io
 status.thunderhead.com
 status.ticbeat.co
 status.trackjs.com
@@ -47850,6 +47793,8 @@ support.optimizely.com
 support.piwik.pro
 support.placed.com
 support.prudential.qa-dest.imprev.net
+support-p.shopcurbside.com
+support-q1.shopcurbside.com
 support.qa-dest.imprev.net
 support.remax.qa-dest.imprev.net
 support.returnpath.com
@@ -47863,12 +47808,14 @@ support.shareaholic.com
 support.sharethis.com
 support.sharethrough.com
 support.sizmek.com
+support-s.shopcurbside.com
 support-staging.dynamicyield.com
 support.sweepstakes.com
 support.swrve.com
 support.syndicaster.tv
 support.thirdpresence.com
 support.tritondigital.com
+support-t.shopcurbside.com
 support.tune.com
 support.urbanairship.com
 support.vungle.com
@@ -48408,6 +48355,7 @@ targeting.unrulymedia.com
 targetnet.com
 target.net.finam.ru
 targetpoint.com
+target.shopcurbside.com
 target.smi2.net
 tarno.tradedoubler.com
 tar.tradedoubler.com
@@ -50743,6 +50691,7 @@ try.newrelic.com
 try.rollbar.com
 try-rx.com
 try.seemyass.com
+try.shopcurbside.com
 try.tapad.com
 trytoimprovesecurity.com
 ts1.hitbox.com
@@ -51489,9 +51438,7 @@ updatenewversion.freeupgradelive.com
 update.onescan.co.kr
 update.placelocal.com
 update.privdog.com
-updates.au1.gigya.com
 updates.desktop.ak-networks.com
-updates.eu1.gigya.com
 update-skype.freehostia.com
 updates.onlinesucces.nl
 update.spaceinter.com
@@ -51527,7 +51474,6 @@ uploads.github.exacttarget.com
 uploads.kobatochan.co
 uploads.ticbeat.co
 uploads.tmweb.ru
-uploads.www.gigya.com
 upload.ticbeat.co
 uploadtops.is
 up.mykings.pw
@@ -51560,6 +51506,8 @@ uptodatecontent.net
 upupa.net
 uqie4nzy.com
 uqz.com
+ur93pklmrzha.ingest.sentry.io
+ur93pklmrzha.sentry.io
 ural-buldozer.ru
 uraya.org
 urban.adspirit.de
@@ -51596,24 +51544,11 @@ urzedowski.eu
 us0.adlibr.com
 us15.campaign-archive.com
 us16.campaign-archive.com
-us1a-email-mng.gigya.com
-us1a.gigya.com
-us1b.gigya.com
 us1.cfcnet.gdn
-us1d.gigya.com
-us1-direct.gigya.com
-us1d-st1.gigya.com
-us1d-st2.gigya.com
-us1d-st4.gigya.com
-us1-email-mng.gigya.com
-us1.gigya.com
 us1.monerise.com
 us1.siteimprove.com
-us1-st1.gigya.com
-us1-st2.gigya.com
 us2.cfcnet.gdn
 us.2.cqcounter.com
-us2.gigya.com
 us2.monerise.com
 us2.qualtrics.com
 us2.siteimprove.com
@@ -52244,6 +52179,7 @@ vida-fiesta.com
 vidassets.terminus.services
 vid.atdmt.com
 vid.atm.youku.com
+vidazoo-bi-worker-connection.vidazoo.com
 vidclips.info
 videmob.com
 videno.pl
@@ -53653,7 +53589,10 @@ westermarkanjou.se
 westerntaneyfire.com
 westernunionglobal.112.2o7.net
 westernunion.tt.omtrdc.net
+westfield-p.shopcurbside.com
+westfield.shopcurbside.com
 westfieldsports.nsw.edu.au
+westfield-s.shopcurbside.com
 westgateleisureresort.com
 westjet.112.2o7.net
 west.thecarseatcompany.com
@@ -55114,7 +55053,6 @@ www.abm-certification.demandbase.com
 www.abp.mxptint.net
 www.abrogatesdv.info
 www.academy.dynamicyield.com
-www.academy.gigya.com
 www.acbp0020171456.page.tl
 www.acceleration.mparticle.com
 www.access.adx1.com
@@ -55183,7 +55121,6 @@ www.adfirmative.com
 www.adforati.com
 www.adforgames.com
 www.adfreetv.ch
-www.adfs.gigya.com
 www.adfunkyserver.com
 www.adfusion.com
 www.adgitize.com
@@ -55644,7 +55581,6 @@ www.atomictime.net
 www.atousoft.com
 www.atpanel.com
 www.atp.mxptint.net
-www.au1a-email-mng.gigya.com
 www.auctiondirectory.org
 www.auctionshare.net
 www.audia6.com
@@ -56103,12 +56039,8 @@ www.chainsawoffer.com
 www.chartbeat.com
 www.chartboost.com
 www.chaseonline.com
-www.chat.au1.gigya.com
 www.chatbaran.info
-www.chat.eu1.gigya.com
-www.chat.gigya.com
 www.chat.trackalyzer.com
-www.chat.us1.gigya.com
 www.ch.browsermine.com
 www.cheap-laptops-notebook-computers.info
 www.cheap-online-stamp.cast.cc
@@ -56306,6 +56238,7 @@ www.commerce-rewardpath.com
 www.commercialclientsgroup.ru
 www.commissionempire.com
 www.commission-junction.com
+www.community.sentry.io
 www.com-notice.info
 www.compufixshop.com
 www.computer-offer.com
@@ -56541,7 +56474,6 @@ www.demandbase.com
 www.demandbase.demandbase.com
 www.demo1.use.dynamicyield.com
 www.demo.getsitecontrol.com
-www.demo.gigya.com
 www.demo.live.dynatrace.com
 www.demo.pardot.com
 www.demo-staging.live.dynatrace.com
@@ -56566,7 +56498,6 @@ www.dev.adx1.com
 www.devappgrant.space
 www.dev.clickconvertsell.com
 www.developer.fyber.com
-www.developers.gigya.com
 www.dev.gohenry.pinterest.adtz.com
 www.devis-abri-de-piscine.fr
 www.dev.khingtracking.com
@@ -56817,7 +56748,6 @@ www.etracker.de
 www.e-traffic.com
 www.etraffic.com
 www.etzbnfuigipwvs.ru
-www.eu1a-email-mng.gigya.com
 www.eu.cdn.survey.medallia.com
 www.eucsoft.com
 www.eue.demo.dynatrace.com
@@ -57218,7 +57148,6 @@ www.giftcardsurveys.us.com
 www.giftfunnew.com
 www.giftrewardzone.com
 www.gifts-flowers-rewardpath.com
-www.gigya.com
 www.gilvision.com
 www.gimmethatreward.com
 www.gitgrub.pro
@@ -57351,7 +57280,6 @@ www.hebdotop.com
 www.hegrinhar.com
 www.heimlich-gefilmt.cxa.de
 www.helltraffic.com
-www.helpdesk.gigya.com
 www.help.fullstory.com
 www.helpmedownload.com
 www.helpme.rubiconproject.com
@@ -57439,12 +57367,10 @@ www.hotranks.com
 www.hotspotshield.com
 www.howtocleanacomputervirus.com
 www.howtotroll.org
-www.hr-cv.gigya.com
 www.hrfziiddxa.ru
 www.h-sdk.online-metrix.net
 www.htmate2.com
 www.httpp.gdn
-www.httpswww.coinimp.com
 www.huaxintrip.com
 www.huberts-kochseite.de
 www.hubtraffic.com
@@ -57769,7 +57695,6 @@ www.km69.de
 www.kmdl101.com
 www.kmindex.ru
 www.knacads.com
-www.knowledge.gigya.com
 www.kochava.com
 www.koch-backrezepte.de
 www.komodia.com
@@ -57895,7 +57820,6 @@ www.littlesturgisrally.com
 www.live.4480.org
 www.liveadclicks.com
 www.liveadexchanger.com
-www.livechat.gigya.com
 www.livecount.fr
 www.livefyre.com
 www.livejasmin.com
@@ -58870,7 +58794,6 @@ www.qzip.cjb.net
 www.r2prod.com
 www.racingandclassic.com
 www.radiate.com
-www.ra-il.gigya.com
 www.rampidads.com
 www.ranchapptag.com
 www.randki-sex.com
@@ -58883,7 +58806,6 @@ www.ranking-hits.de
 www.ranking-links.de
 www.rankmaschine.de
 www.rankyou.com
-www.ra-ny.gigya.com
 www.rapidcounter.com
 www.rapidvideo.com
 www.ratemodels.net
@@ -58995,7 +58917,6 @@ www.rlec-use.dynamicyield.com
 www.rmawm7mw.top
 www.roboinside.me
 www.robtopol.in
-www.rocket.gigya.com
 www.rocks.io
 www.rocnation.lisnr.com
 www.roi.airpr.com
@@ -59154,6 +59075,7 @@ www.sellmeyourtraffic.com
 www.sendfwd.com
 www.sendori.com
 www.sentrol.cl
+www.sentry.io
 www.seoholding.com
 www.seonetwizard.com
 www.seo-portal.ro
@@ -59203,6 +59125,7 @@ www.shoofle.tv
 www.shop.adx1.com
 www.shop.analyticson.com
 www.shopathome.com
+www.shopcurbside.com
 www.shopify-app.heatmap.it
 www.shopperpromotions.com
 www.shopping-artikel.de
@@ -59232,7 +59155,6 @@ www.simpli.fi
 www.simplyhelper.com
 www.simsweek.pl
 www.sinera.org
-www.singaporeair.sslproxy.gigya.com
 www.singlesadnetwork.com
 www.singular-cy.com
 www.siom.ac.cn
@@ -59394,7 +59316,6 @@ www.staging5.dynamicyield.com
 www.staging.analytics.ispot.tv
 www.staging.clickconvertsell.com
 www.staging-defect.dynatrace.com
-www.stagingdemo.gigya.com
 www-staging.dynamicyield.com
 www.staging-h-api.online-metrix.net
 www.staging.lisnr.com
@@ -59846,6 +59767,7 @@ www.trvelocity.com
 www.trx625.com
 www.try.backtrace.io
 www.try.rollbar.com
+www.try.shopcurbside.com
 www.try.tapad.com
 www.t-sb.net
 www.t.sf14g.com
@@ -59937,8 +59859,6 @@ www.urdoot.win
 www.uriyuri.com
 www.urlcash.net
 www.urldelivery.com
-www.us1a-email-mng.gigya.com
-www.us1-email-mng.gigya.com
 www.usadserver.com
 www.usaenterprise.com
 www.usatravel-specials.com
