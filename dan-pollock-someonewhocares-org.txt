@@ -6216,7 +6216,6 @@ images.taboola.com
 images.trafficmp.com
 imarker.com
 imarker.ru
-imasdk.googleapis.com
 im.banner.t-online.de
 imc.l.qq.com
 i.media.cz
@@ -9624,7 +9623,6 @@ secure-js.kontera.com
 securemacfix.com
 secure.netscope.marktest.pt
 secure-nz.imrworldwide.com
-securepubads.g.doubleclick.net
 securerr.com
 securerunner.com
 secure-uk.imrworldwide.com
