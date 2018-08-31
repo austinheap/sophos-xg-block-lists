@@ -326,6 +326,7 @@ ads.activestate.com
 ads.adfox.ru
 ads.administrator.de
 ads.adshareware.net
+ads.adstream.com.ro
 ads.adultfriendfinder.com
 ads.adultswim.com
 ads.advance.net
@@ -379,6 +380,7 @@ adscale.de
 ads.canalblog.com
 ads.canoe.ca
 ads.casinocity.com
+ads.casumoaffiliates.com
 ads.cbc.ca
 ads.cc
 ads.cc-dt.com
@@ -390,7 +392,9 @@ adscience.nl
 ads.clearchannel.com
 ads-click.com
 ads.co.com
+ads.colombiaonline.com
 ads.com.com
+ads.comeon.com
 ads.contactmusic.com
 ads.contentabc.com
 ads.contextweb.com
@@ -423,6 +427,7 @@ ads.eatinparis.com
 ads.economist.com
 ads.edbindex.dk
 ads.egrana.com.br
+ads.elcarado.com
 ads.electrocelt.com
 ads.elitetrader.com
 ads.emirates.net.ae
@@ -535,6 +540,7 @@ ads.guardian.co.uk
 ads.guardianunlimited.co.uk
 ads.guru3d.com
 ads.harpers.org
+ads.harvard.edu
 ads.hbv.de
 ads.hearstmags.com
 ads.heartlight.org
@@ -575,6 +581,7 @@ ads.kinxxx.com
 adsklick.de
 ads.kompass.com
 ads.krawall.de
+ads.lapalingo.com
 ads.larryaffiliates.com
 ads.leovegas.com
 ads.lesbianpersonals.com
@@ -582,6 +589,7 @@ ads.linkedin.com
 ads.linuxfoundation.org
 ads.linuxsecurity.com
 ads.livenation.com
+ads.lordlucky.com
 ad.slutload.com
 ads.mariuana.it
 adsmarket.com
@@ -596,6 +604,7 @@ ads.mgnetwork.com
 ads.miarroba.com
 ads.mmania.com
 ads.mobilautomaten.com
+ads.mobilebet.com
 adsmogo.com
 ads.motor-forum.nl
 ads.motormedia.nl
@@ -651,6 +660,7 @@ ads.program3.com
 ads.programattik.com
 ads.psd2html.com
 ads.pushplay.com
+ads.quasaraffiliates.com
 ads.quoka.de
 ads.rcs.it
 ads.recoletos.es
@@ -678,6 +688,7 @@ ads.sift.co.uk
 ads.silverdisc.co.uk
 ads.slim.com
 ads.smartclick.com
+ads.socialtheater.com
 ads.soft32.com
 ads.space.com
 ads.sptimes.com
@@ -695,6 +706,7 @@ ads.themovienation.com
 ads.thestar.com
 ads.thrillsaffiliates.com
 ads.tmcs.net
+ads.toplayaffiliates.com
 ads.totallyfreestuff.com
 ads.townhall.com
 ads.trinitymirror.co.uk
@@ -718,11 +730,13 @@ ads.v3.com
 ads.verticalresponse.com
 ads.vgchartz.com
 ads.videosz.com
+ads.viksaffiliates.com
 ads.virtualcountries.com
 ads.virtual-nights.com
 ads.vnumedia.com
 ads.waps.cn
 ads.wapx.cn
+ads.watson.ch
 ads.weather.ca
 ads.web.aol.com
 ads.web.cs.com
@@ -737,6 +751,7 @@ adswizz.com
 ads.wwe.biz
 ads.xhamster.com
 ads.xtra.co.nz
+ads.xtribeapp.com
 ads.y-0.net
 ads.yahoo.com
 ads.yap.yahoo.com
