@@ -4948,6 +4948,7 @@ targetfuel.com
 targeting.wpdigital.net
 targetix.net
 target.mirtesen.ru
+target.mixi.media
 target.smi2.net
 target.smi2.ru
 target.ukr.net
@@ -5372,6 +5373,7 @@ track.ning.com
 track.omg2.com
 track.parse.ly
 trackpm.shop2market.com
+track.prezna.com
 track.pricespider.com
 track.promptfile.com
 track.propelplus.com
