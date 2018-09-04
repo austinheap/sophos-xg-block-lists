@@ -2309,6 +2309,7 @@ ads.veoh.com
 ads.verkata.com
 ads.vesperexchange.com
 ads.vg.basefarm.net
+ads.viber.com
 ads.viddler.com
 ads.videoadvertising.com
 adsvidsdouble.com
@@ -10137,7 +10138,6 @@ static.creatives.livejasmin.com
 static.criteo.net
 staticd.cdn.adblade.com
 static.doubleclick.net
-static-eu-cdn.eporner.com
 static.eu.criteo.net
 static.everyone.net
 static.exoclick.com
