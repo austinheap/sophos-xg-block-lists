@@ -423,7 +423,6 @@ collectiable.com
 collector-1054.tvsquared.com
 collector.leaddyno.com
 collector-pxel3l4xih.perimeterx.net
-collect.tealiumiq.com
 collect-us-east-1.tealiumiq.com
 columbahouse.com
 columbianhouse.com
