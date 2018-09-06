@@ -1028,6 +1028,7 @@ citypaketet.se
 cityua.net
 clarifyingquack.com
 claritytag.com
+clarium.global.ssl.fastly.net
 clck.yandex.com
 clc.stackoverflow.com
 clearviewstats.com
@@ -4023,6 +4024,7 @@ retag.xyz
 retargeting.biz
 retargeting.vistaprint.com
 retargetly.com
+retargettracker.com
 retentionscience.com
 retrack.q-divisioncdn.de
 reussissonsensemble.fr
