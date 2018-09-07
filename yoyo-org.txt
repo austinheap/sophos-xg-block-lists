@@ -335,6 +335,7 @@ adsafeprotected.com
 ads.affiliates.match.com
 ads.affiliates-spinit.com
 ads.ak.facebook.com.edgesuite.net
+ads.allvatar.com
 ads.alt.com
 ads.amdmb.com
 ads.amigos.com
@@ -1007,7 +1008,6 @@ banner.relcom.ru
 banners.adultfriendfinder.com
 banners.amigos.com
 banners.asiafriendfinder.com
-banners.babylon-x.com
 banners.bol.com.br
 banners.cams.com
 banners.clubseventeen.com
@@ -1114,7 +1114,6 @@ bttrack.com
 budsinc.com
 bullseye.backbeatmedia.com
 bumpberam.pro
-buyhitscheap.com
 buysellads.com
 buzzonclick.com
 bwp.download.com
@@ -1177,7 +1176,6 @@ class-act-clicks.com
 click2freemoney.com
 click2paid.com
 clickability.com
-click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1512,6 +1510,7 @@ globaltakeoff.net
 globe7.com
 globus-inter.com
 gmads.net
+go-clicks.de
 goingplatinum.com
 goldstats.com
 googleadservices.com
@@ -1733,6 +1732,7 @@ lytics.io
 lzjl.com
 m1.webstats4u.com
 m32.media
+m4n.nl
 mackeeperapp.mackeeper.com
 madclient.uimserv.net
 madisonavenue.com
@@ -1761,6 +1761,7 @@ media-adrunner.mycomputer.com
 mediaarea.eu
 mediabridge.cc
 mediacharger.com
+mediadvertising.ro
 media.ftv-publicite.fr
 media.funpic.de
 mediageneral.com
@@ -2207,7 +2208,6 @@ sexcounter.com
 sexinyourcity.com
 sexlist.com
 sextracker.com
-sexystat.com
 shakesea.com
 shakytaste.com
 shareadspace.com

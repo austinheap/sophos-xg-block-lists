@@ -6240,6 +6240,7 @@ img2.ru.redtram.com
 img4.cdn.adjuggler.com
 img-a2.ak.imagevz.net
 img.alibaba.com
+img.awr.im
 img.blogads.com
 img-cdn.mediaplex.com
 img.directtrack.com
@@ -10653,6 +10654,7 @@ timepeople.122.2o7.net
 timepopsci.122.2o7.net
 timerealsimple.112.2o7.net
 timewarner.122.2o7.net
+t.info.rezbine.com
 tipsforall.xyz
 tips.oewabox.at
 tipsurf.com
@@ -10787,6 +10789,7 @@ track.eg-innovations.net
 track.emailsvc.net
 track.enviodemails.com
 tracker1.leadiya.com
+tracker.awr.im
 tracker.baidu.com
 tracker.blueprintinteractivetest.com
 tracker.bonnint.net
