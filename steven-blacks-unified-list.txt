@@ -1092,6 +1092,7 @@ a2.websponsors.com
 a2zgroup.in
 a32.g.a.yimg.com
 a3.adzs.nl
+a3.innovid.com
 a3.suntimes.com
 a3.websitealive.com
 a3.websponsors.com
@@ -1100,9 +1101,11 @@ a407.casalemedia.com
 a460.cell.phone.ringtone.samsung.sms13.de
 a48.info
 a4.adzs.nl
+a4.innovid.com
 a4p.adpartner.pro
 a4.websponsors.com
 a-5.info
+a5.innovid.com
 a5.websponsors.com
 a62.info
 a71.info
@@ -6300,6 +6303,7 @@ aghanyna.com
 a.giantrealm.com
 ag-i.co.uk
 agiextrade.com
+ag.innovid.com
 agisdayra.com
 agitrotto.it
 agkn.com
@@ -9223,6 +9227,7 @@ aws-production-banner-server-eu-west-1.banner-server.fyber.com
 aws-production-banner-server-us-west-2.banner-server.fyber.com
 aws.rubiconproject.com
 aws-staging-banner-eu-west-1.staging-banner.fyber.com
+awstrack.me
 awto-tros.ru
 awxjpkxoqfwaj.bid
 awz.biz
@@ -9427,6 +9432,7 @@ backstock-records.de
 backtrace.io
 backuperwebcam.weebly.com
 backvids.com
+baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
 bacr.com.pk
 badaboem.nl
 ba-da-boom.com
@@ -10459,9 +10465,16 @@ betting-online.petrovka.info
 betune.onlinewebshop.net
 betwinservice.com
 b.eu0.visual.force.com
+b-eu10.stripcdn.com
+b-eu15.stripcdn.com
 b.eu1.visual.force.com
 b.eu2.visual.force.com
 b.eu3.visual.force.com
+b-eu4.stripcdn.com
+b-eu5.stripcdn.com
+b-eu6.stripcdn.com
+b-eu8.stripcdn.com
+b-eu9.stripcdn.com
 beufosew.bid
 beurette93.com
 beurette-chaleur.com
@@ -13219,6 +13232,12 @@ ceskydomov.alias.ngs.modry.cz
 c.es.msn.com
 cetelemportugal2.solution.weborama.fr
 cetrk.com
+c-eu1.stripcdn.com
+c-eu2.stripcdn.com
+c-eu3.stripcdn.com
+c-eu4.stripcdn.com
+c-eu5.stripcdn.com
+c-eu8.stripcdn.com
 c.evidon.com
 ce.wielkanagroda.com
 ce.wielkaniespodzianka.pl
@@ -16008,6 +16027,7 @@ cs9000.visual.force.com
 cs9001.content.force.com
 cs9001.force.com
 cs9001.visual.force.com
+cs905.wac.systemcdn.net
 cs90.content.force.com
 cs90.force.com
 cs90.visual.force.com
@@ -16217,6 +16237,12 @@ curtaincows.com
 curtasgastronomia.pt
 curvaplay.com
 c.us1.dyntrk.com
+c-us1.stripcdn.com
+c-us2.stripcdn.com
+c-us3.stripcdn.com
+c-us4.stripcdn.com
+c-us5.stripcdn.com
+c-us8.stripcdn.com
 cuseemee.free.fr
 cusors.io
 custem.ru
@@ -19338,6 +19364,7 @@ engine.bitmedianetwork.com
 engine.carbonads.com
 engine.cmmeglobal.com
 engine-dsa.fyber.com
+engineering.innovid.com
 engineering.intercom.io
 engineering.swrve.com
 engineering.taboola.com
@@ -19987,6 +20014,7 @@ eu-u.openx.net
 eu.u.staging.fastly-insights.com
 eu.u.test.fastly-insights.com
 euw.adserver.snapads.com
+eu-west-1.awstrack.me
 eu-west-1.bid.bidr.io
 eu-west-1.stinger-ad.bidr.io
 eu.xtms.net
@@ -20039,6 +20067,7 @@ events.kiosked.com
 events.marketo.com
 events.mobile.optimizely.com
 events.mparticle.com
+event.spotxchange.com
 events.redditmedia.com
 events.stackshare.io
 events.startappservice.com
@@ -23670,6 +23699,7 @@ govpro.us.intellitxt.com
 go.vrvm.com
 gov.yanao.ru
 gowin7.com
+go.xhamsterlive.com
 goxmrminer.com
 go.yieldmo.com
 go.youlamedia.com
@@ -24529,6 +24559,7 @@ helper-stats.wondershare.com
 help.fullstory.com
 help.imprev.net
 helpingtrk.com
+help.innovid.com
 helpint.mywebsearch.com
 help.marketo.com
 helpmedb.com
@@ -24872,6 +24903,8 @@ hlcc.ca
 hlok.qertewrt.com
 hlpidkr.ru
 hlserve.com
+hls.stripcdn.com
+hls-us2.stripcdn.com
 hlu9tseh.men
 hm.baidu.com
 hm.console.xtify.com
@@ -26109,6 +26142,7 @@ img.directtrack.com
 img.discovery.com
 img.dt00.net
 img.en25.com
+img-eu.stripcdn.com
 imgg.adskeeper.co.uk
 imgg-cdn.adskeeper.co.uk
 imgg-cdn.steepto.com
@@ -26151,6 +26185,7 @@ img.sn00.net
 img.soulmate.com
 img.speedcurve.com
 img.staging.paperg.com
+img.stripcdn.com
 img.thebugs.ws
 img.tradedoubler.com
 img.unrealmarketing.com
@@ -26369,6 +26404,7 @@ info.engagio.com
 info.fiksu.com
 info-id-apple.com
 info-images.rambler.ru
+info.innovid.com
 info.intelli-direct.com
 infokonkurs.ru
 infolinia-kontakt-telefon.pl
@@ -27273,6 +27309,7 @@ jejuskypension.com
 jeld-wem.com
 jellybitches.weblogger.com.br
 jellygoat.com
+jelly.mdhv.io
 jellywrestling.nu
 jemeclate.free.fr
 jemytoxxxsexepage.free.fr
@@ -30018,6 +30055,7 @@ m1.se.2mdn.net
 m1.sg.2mdn.net
 m1.streaming.estream.to
 m1.stream.vidzi.tv
+m1.torrenti.al
 m1.uk.2mdn.net
 m1.ve.2mdn.net
 m1videos.com
@@ -34440,6 +34478,7 @@ ns1.openinternetexchange.com
 ns1.phorm.com
 ns1p.net
 ns1.primeinteractive.net
+ns1.stripcdn.com
 ns1.the-sinner.net
 ns1.ticbeat.co
 ns1.updatesdns.org
@@ -34462,6 +34501,7 @@ ns2.openinternetexchange.com
 ns2.phorm.com
 ns2.primeinteractive.net
 ns2.rosprint.ru
+ns2.stripcdn.com
 ns2.vicp.net
 ns2.w3open.com
 ns2.webwise.com
@@ -34472,7 +34512,9 @@ ns2.youcanoptout.com
 ns3.ishosting.net
 ns3.kobatochan.co
 ns3.openinternetexchange.com
+ns3.stripcdn.com
 ns3.ticbeat.co
+ns4.stripcdn.com
 ns.5.p2l.info
 nsads4.us.publicus.com
 nsads.hotwired.com
@@ -36220,6 +36262,7 @@ p0.raasnet.com
 p0rnking.com
 p0rnsite.com
 p0rnuha.com
+p0.stripcdn.com
 p-10.org
 p128902.clksite.com
 p13178.adskape.ru
@@ -36231,6 +36274,7 @@ p1.assetscdn.stream
 p1.gnrdomimplementation.com
 p1.interestingz.pw
 p1.midasplayer.com
+p1.stripcdn.com
 p1.tcr21.tynt.com
 p232207.mybestmv.com
 p2408.adskape.ru
@@ -36856,6 +36900,7 @@ petras-erotik-shop.de
 petrenko.biz
 pets.finaltips.com
 petsmovies.com
+p-eu4.stripcdn.com
 pfa.levexis.com
 pfaltzgraf.com
 pfcuay.o-f.com
@@ -37517,6 +37562,7 @@ player.bestcontentonline.com
 playercdn.jivox.com
 player-galleries.com
 playerhost.aniview.com
+player.innovid.com
 player.installfarm.com
 player.logs.videmob.com
 player.mediabong.net
@@ -37603,6 +37649,7 @@ play.syndicaster.tv
 play.tainiesonline.pw
 play.tainiesonline.stream
 playtimecasino.net
+playtime-tm.everesttech.net
 playtime.tubemogul.com
 play.traffpartners.com
 play-tube.pl
@@ -38730,6 +38777,7 @@ printmail.biz
 printronix.net.cn
 priora-2.com
 prioritygirls.com
+priority.innovid.com
 pr-iq.adtech.de
 pr-iq.adtechus.com
 prisacom.112.2o7.net
@@ -39462,6 +39510,7 @@ purplesphere.in
 purplestats.com
 purredheanb.online
 purryowl.com
+p-us1.stripcdn.com
 puserving.com
 push-ad.com
 push.api.drift.com
@@ -40023,6 +40072,7 @@ ravenblaque.com
 ravene.de
 ravengroupbd.com
 ravenslinks.com
+ravm.tv
 rawcocks.nu
 rawgaybears.net
 raw.github.exacttarget.com
@@ -40654,6 +40704,7 @@ return.uk.domainnamesales.com
 reunioncom.112.2o7.net
 reunion.tt.omtrdc.net
 reuters-d.openx.net
+r.eu-west-1.awstrack.me
 rev.adip.ly
 rev.avsforum.com
 revcontent.com
@@ -41143,6 +41194,7 @@ rtbhouse.mgr.consensu.org
 rtb.infinity.blismedia.com
 rtb-lb1.impresionesweb.com
 rtb-lbdns.impresionesweb.com
+rtb-lb-event-iad-1a-tm.everesttech.net
 rtb-lb-event-sjc.tubemogul.com
 rtblbtr.alphonso.tv
 rtb.metrigo.com
@@ -41166,6 +41218,7 @@ rtl.oewabox.at
 rtmark.net
 rtrgt2.com
 rtr.innovid.com
+rtrx.innovid.com
 rts.contextweb.com
 rts.doublepimp.com
 rts.pgmediaserve.com
@@ -41232,6 +41285,7 @@ rupor.info
 ruptly-d.openx.net
 ru.redtram.com
 rusads.toysrus.com
+r.us-east-1.awstrack.me
 rushmind.com
 rushrepublic.co.uk
 rusoft-zone.ru
@@ -41251,6 +41305,7 @@ russintv.fr
 russkie-gorki.ru
 russkoe-zdorovie.ru
 russ-shalavy.ru
+r.us-west-2.awstrack.me
 ru.theswiftones.com
 ru-traffic.com
 rutrk.org
@@ -41279,6 +41334,7 @@ rxeospfus.bid
 rxjzpvsziytui.bid
 rxnic.com
 r.x-pictures.org
+rxr.ravm.tv
 r.xyz1.pl
 ry1wnld.com
 ryanrhodes.net
@@ -42135,6 +42191,7 @@ scuba-marin.de
 scuolaartispettacolo.it
 sc.vmware.com
 s.cxt.ms
+scysvr03.r.us-east-1.awstrack.me
 scz.hit.gemius.pl
 sd.5.p2l.info
 sdadimkvartiru.ru
@@ -43526,6 +43583,7 @@ sf.bizible.com
 sfdc.clearbit.com
 sfd-chess.ru
 sffh.de
+s-files.innovid.com
 sfj-ror.no
 s.flite.com
 sfmc-dev.urbanairship.com
@@ -44777,6 +44835,7 @@ spinmedia-d.openx.net
 spin.spinbox.net
 spir.hit.gemius.pl
 spixel.adsafeprotected.com
+s.pixsrvcs.com
 spklds.com
 splashnews.uk.intellitxt.com
 spl.hit.gemius.pl
@@ -45668,6 +45727,7 @@ stats.freeonlinegames.com
 stats.free-rein.net
 stats.f-secure.com
 stats.ft.com
+statsf-tm.everesttech.net
 stats.gamestop.com
 stats.gc.apple.com
 stats.gc-apple.com.akadns.net
@@ -45767,6 +45827,7 @@ stats.superstats.com
 stat.stars.ru
 stats.telegraph.co.uk
 stats.thoughtcatalog.com
+stats-tm.everesttech.net
 stats.topofblogs.com
 stats.townnews.com
 statstracker.celebrity-gossip.net
@@ -46031,6 +46092,7 @@ strictlyvodka.com
 strigkaomsk.ru
 strikeadcdn.s3.amazonaws.com
 strikead.sizmek.com
+stripcdn.com
 stripper.anheng.com.cn
 striprtg.pl
 stripteas.com
@@ -46045,6 +46107,7 @@ strv.se
 st.sageanalyst.net
 st.smartredirect.de
 stsoftware.biz
+st.stripcdn.com
 st.targetix.net
 sttc.affiliate.hu
 st.top100.ru
@@ -46305,6 +46368,7 @@ support.doubleclick.net
 support.dynamicyield.com
 support.engagio.com
 support.foresee.com
+support.innovid.com
 support-ip.com
 support.kobatochan.co
 support.kochava.com
@@ -46549,6 +46613,7 @@ sxcdn3.now.sh
 sxcdn4.now.sh
 sxcdn5.herokuapp.com
 sxcdn6.now.sh
+sx.innovid.com
 sx.nazari.org
 sxp.mxptint.net
 sxxyy.info
@@ -50030,6 +50095,7 @@ usd.sierra-boa.com
 us.e1.yimg.com
 use.adserver.snapads.com
 use.adsrvr.org
+us-east-1.awstrack.me
 us-east-1.bid.bidr.io
 us-east-1.dc.ads.linkedin.com
 us-east1.serve.elixmedia.com
@@ -50137,6 +50203,7 @@ us.w1.yimg.com
 uswebapps.sizmek.com
 uswebconf.sizmek.com
 usweb.dotomi.com
+us-west-2.awstrack.me
 us-west-2.bid.bidr.io
 us-west-2.prod.aws.keen.io
 us-west-2.stinger-ad.bidr.io
@@ -50694,6 +50761,7 @@ videos.video-loader.com
 videos.vidto.me
 videos-xxx.biz
 video.theparentingvillage.com
+video-thumbs.stripcdn.com
 videotroncom.112.2o7.net
 video.unrulymedia.com
 video.videos.vidto.me
@@ -55066,6 +55134,7 @@ www.enatimedia.com
 www.enchantier.com
 www.encoding.ovh
 www.engelfire.com
+www.engineering.innovid.com
 www.engineering.tapad.com
 www.eng.tapjoy.com
 www.enhance.com
@@ -55825,6 +55894,7 @@ www.ingorob.com
 www.ininmacerad.pro
 www.inlocomedia.com
 www.innatek.com
+www.innovid.com
 www.inpagevideo.nl
 www.inside.getambassador.com
 www.insightexpress.com
@@ -56940,6 +57010,7 @@ www.plasmatvreward.com
 www.platform.blismedia.com
 www.platinumbucks.com
 www.playerassist.com
+www.player.innovid.com
 www.player.mediabong.net
 www.playersaid.com
 www.playgril.com
@@ -57039,6 +57110,7 @@ www.pricefbcf.gq
 www.priiceline.com
 www.primosearch.com
 www.printmail.biz
+www.priority.innovid.com
 www.privatamateure.com
 www.privdog.com
 www.privy.com
