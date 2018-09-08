@@ -152,6 +152,7 @@ ad.aloodo.com
 adalyser.com
 adblade.com
 adblockmetrics.ru
+adblockrelief.com
 adc.9news.com.au
 adc.api.nine.com.au
 adchemix.com
@@ -1561,7 +1562,6 @@ d8rk54i4mohrb.cloudfront.net
 d9lq0o81skkdj.cloudfront.net
 dable.io
 dacounter.com
-dadi.technology
 d.adrolays.de
 dailycaller-alerts.com
 da.netease.com
@@ -3598,6 +3598,7 @@ perr.h-cdn.com
 persianstat.com
 persianstat.ir
 personage.name
+personalicanvas.com
 personyze.com
 pertholin.com
 petiteumbrella.com
@@ -4282,6 +4283,7 @@ simpli.fi
 simplycast.us
 simplymeasured.com
 s.infogr.am
+s.infogram.com
 singlefeed.com
 site24x7rum.com
 sitebot.cn
@@ -4349,6 +4351,7 @@ snowsignal.com
 socdm.com
 socialhoney.co
 socialprofitmachine.com
+social-sb.com
 socialtrack.co
 socialtrack.net
 sociaplus.com
@@ -4564,6 +4567,7 @@ stathat.com
 stathound.com
 stat.hudong.com
 static-cnt.bid
+static-sb.com
 staticsfs.host
 statisfy.net
 statistic.date
@@ -5358,6 +5362,7 @@ tracking.ustream.tv
 tracking.vengovision.ru
 tracking.vid4u.org
 tracking.waterfrontmedia.com
+tracking.wlscripts.net
 tracking.worldmedia.net
 tracking.yourfilehost.com
 track.juno.com
@@ -5560,6 +5565,7 @@ t.wayfair.com
 twcount.com
 tw.i.hulu.com
 twopointo.io
+txmoadserver.net
 txn.grabnetworks.com
 txn.thenewsroom.com
 tylere.net
