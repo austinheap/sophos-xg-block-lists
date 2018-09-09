@@ -143,6 +143,7 @@ activities.niagara.comedycentral.com
 activity.frequency.com
 activity.homescape.com
 actnx.com
+acuityplatform.com
 acxiomapac.com
 acxiom-online.com
 ad7.bigmir.net
@@ -4277,6 +4278,7 @@ silimbompom.com
 silvergamed.com
 silverpop.com
 silverpush.co
+simpleheatmaps.com
 simplehitcounter.com
 simplereach.com
 simpli.fi
