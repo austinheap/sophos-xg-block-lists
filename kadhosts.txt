@@ -805,6 +805,7 @@ pl.longup.co
 pl.mevida.me
 pl.mobile-redirection.com
 pl.mysafesmartphone.com
+pl.patterntrader.biz
 pl.princessmask.pro
 pl.slimg0ji-berry.com
 pl.superando.net
@@ -1070,6 +1071,7 @@ trackgsm.co.uk
 trackgsm.de
 trackgsm.pl
 tracksms.pl
+track.walentynkowyprezent.pl
 trafisz.com
 transmisje24.net
 tri-book.pl
