@@ -102,6 +102,7 @@ cloudcdn.gdn
 cnhv.co
 cnt.statistic.date
 coinblind.com
+coin-cube.com
 coinerra.com
 coin-have.com
 coin-hive.com
@@ -113,6 +114,7 @@ coinpirate.cf
 coinpot.co
 coinrail.io
 coin-service.com
+coin-services.info
 cryptaloot.pro
 crypto.csgocpu.com
 crypto-loot.com
@@ -122,6 +124,10 @@ ctlrnwbv.ru
 d8acddffe978b5dfcae6.date
 d.cfcnet.top
 d.cpufan.club
+de-mi-nis-ner2.info
+de-mi-nis-ner.info
+de-ner-mi-nis4.info
+de-nis-ner-mi-5.info
 depttake.ga
 dev.cryptobara.com
 dexim.space
@@ -206,8 +212,10 @@ mebablo.com
 mepirtedic.com
 mfio.cf
 mhiobjnirs.gq
+mi-de-ner-nis3.info
 minemytraffic.com
 mine.nahnoji.cz
+minerad.com
 minercry.pt
 miner.cryptobara.com
 miner.nablabee.com
@@ -224,6 +232,8 @@ mlib.browsermine.com
 mm.zubovskaya-banya.ru
 moneone.ga
 monerominer.rocks
+money-maker-default.info
+money-maker-script.info
 moonsade.com
 mwor.gq
 mxcdn1.now.sh
@@ -312,6 +322,7 @@ sass2.authcaptcha.com
 scaleway.ovh
 sea2.authcaptcha.com
 serie-vostfr.com
+service4refresh.info
 silimbompom.com
 site.flashx.cc
 skencituer.com
