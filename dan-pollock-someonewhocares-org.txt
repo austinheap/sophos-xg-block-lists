@@ -4006,6 +4006,7 @@ click.investopedia.com
 click.israelinfo.ru
 clickit.go2net.com
 click.jve.net
+click.maaxmarket.com
 clickmedia.ro
 clickmeter.com
 click.newviralmobistore.com
@@ -7165,6 +7166,7 @@ m9.uk.2mdn.net
 m9.ve.2mdn.net
 m9.za.2mdn.net
 ma.5.p2l.info
+maaxmarket.com
 ma.baidu.com
 macaddictads.snv.futurenet.com
 macads.net
@@ -12957,6 +12959,7 @@ www.lpmxp2027.com
 www.lucky-day-uk.com
 www.luckyday.world
 www.m2trk.com
+www.maaxmarket.com
 www.macaheadapps.com
 www.mac.com-w.net
 www.macfillerck.com
