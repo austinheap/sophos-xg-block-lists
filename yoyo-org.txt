@@ -1008,6 +1008,7 @@ banner.relcom.ru
 banners.adultfriendfinder.com
 banners.amigos.com
 banners.asiafriendfinder.com
+banners.babylon-x.com
 banners.bol.com.br
 banners.cams.com
 banners.clubseventeen.com
@@ -1175,6 +1176,7 @@ class-act-clicks.com
 click2freemoney.com
 click2paid.com
 clickability.com
+click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1470,7 +1472,6 @@ forex-affiliate.net
 fpctraffic2.com
 fpctraffic.com
 fqtag.com
-fragmentserv.iac-online.de
 freebanner.com
 free-banners.com
 freelogs.com
@@ -1738,7 +1739,6 @@ madisonavenue.com
 mads.cnet.com
 madvertise.de
 marchex.com
-market-buster.com
 marketing.888.com
 marketing.hearstmagazines.nl
 marketing.nyi.net
@@ -1760,7 +1760,6 @@ media-adrunner.mycomputer.com
 mediaarea.eu
 mediabridge.cc
 mediacharger.com
-mediadvertising.ro
 media.ftv-publicite.fr
 media.funpic.de
 mediageneral.com
@@ -2424,7 +2423,6 @@ trackedweb.net
 tracker.icerocket.com
 tracker.marinsm.com
 tracker-pm2.spilleren.com
-tracker.trackerfix.com
 track.flexlinks.com
 track.flexlinkspro.com
 track.gawker.com
