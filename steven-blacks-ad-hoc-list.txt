@@ -177,6 +177,7 @@ analytics.colacoweb.net
 analytics.digit.in
 analytics-digit-in.cdn.ampproject.org
 analytics.ero-advertising.com
+analytics.ff.avast.com
 analytics.htmedia.in
 analytics.icons8.com
 analytics.jabong.com
