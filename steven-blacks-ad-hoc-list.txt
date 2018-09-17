@@ -125,6 +125,7 @@ ads.adtekmedia.com
 ads.aerserv.com
 ads.alphonso.tv
 adsances.ero-advertising.com
+adscan.yelabapp.com
 ads.chacomedia.com
 adserver.adtech.de
 adserver.ministryofads.com
