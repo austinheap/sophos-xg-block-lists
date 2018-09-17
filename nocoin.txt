@@ -312,6 +312,7 @@ rock2.authcaptcha.com
 rocks.io
 s2.appelamule.com
 s2.flowplayer.space
+s2.soodatmish.com
 s2.thersprens.com
 s3.flowplayer.space
 s3.malictuiar.com
