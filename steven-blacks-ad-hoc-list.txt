@@ -526,6 +526,7 @@ msmetrics.ws.sonos.com
 mt.rtmark.net
 mx.ero-advertising.com
 mybb.ero-advertising.com
+myfreecams.com
 my.rtmark.net
 mysterysnooper.com
 mywot.com
@@ -838,6 +839,7 @@ www.mediadirectx.com
 www.mediaparade.net
 www.ministryofads.com
 www.movieads.ero-advertising.com
+www.myfreecams.com
 www.mywot.com
 www.mywot.net
 www.nikitinskysport.ru
