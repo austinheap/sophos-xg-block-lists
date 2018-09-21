@@ -2818,6 +2818,7 @@ api-public.addthis.com
 api.redshell.io
 api.sagent.io
 api.shoppingminds.net
+api.simpleanalytics.io
 apis.murdoog.com
 api.tumra.com
 api.viglink.com
@@ -3832,6 +3833,7 @@ cdn.pickyopahs.com
 cdn.radiatewheel.info
 cdn.sagent.io
 cdn.shoppingminds.net
+cdn.simpleanalytics.io
 cdns.mydirtyhobby.com
 cdn-social.janrain.com
 cdns.privatamateure.com
@@ -7961,6 +7963,7 @@ newbs.hutz.co.il
 newcarnet.uk.intellitxt.com
 newclk.com
 new-dating-2012.info
+neweggstats.com
 newip427.changeip.net
 newjunk4u.com
 newlaunches.uk.intellitxt.com
