@@ -49,6 +49,7 @@ api.aalbbh84.info
 api.bhzejltg.info
 api.browsermine.com
 api.inwemo.com
+api.jsecoin.com
 api.netflare.info
 api.pzoifaum.info
 as.cfcdist.loan
@@ -324,6 +325,7 @@ sass2.authcaptcha.com
 scaleway.ovh
 sea2.authcaptcha.com
 serie-vostfr.com
+server.jsecoin.com
 service4refresh.info
 silimbompom.com
 site.flashx.cc
