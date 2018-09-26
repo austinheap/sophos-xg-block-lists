@@ -1335,6 +1335,7 @@ counter.nope.dk
 counter.ok.ee
 counteronline.de
 counter.opinion.com.ua
+counter.packa2.cz
 counter-pagerank.de
 counter.pagesview.com
 counter.pax.com
