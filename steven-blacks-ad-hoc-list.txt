@@ -215,6 +215,7 @@ api.ad.snappea.com
 api.ad.xiaomi.com
 api.alphonso.tv
 api.axiatraders.com
+api.b2c.com
 api.branch.io
 api.brs.intl.miui.com
 api.c.avazunativeads.com
@@ -275,6 +276,7 @@ banners.mediaparade.net
 bannevs.ero-advertising.com
 batchlogging4.truecaller.com
 bavners2.ero-advertising.com
+beacon.statful.com
 beap-bc.yahoo.com
 beauty-tea.com
 bebe.alphonso.tv
@@ -284,6 +286,7 @@ best.alphonso.tv
 betpromo247.com
 bi-collector.oneapm.com
 bid.axiatraders.com
+bidgear.com
 bid.grandonmedia.com
 bigsharkmedia.com
 blatfee.ero-advertising.com
@@ -512,6 +515,7 @@ mata.ero-advertising.com
 matchmyip.com
 match.taboola.com
 mediabarterexchange.com
+media.complex.com
 mediadirectx.com
 mediaparade.net
 metrics.adage.com
@@ -573,6 +577,7 @@ pixel.nc0.co
 pixel.onaudience.com
 pixel.realclever.com
 plaimedia.com
+platform.bidgear.com
 ploy.batmobi.net
 pl-v2.presage.io
 popacs.ero-advertising.com
@@ -684,6 +689,7 @@ static.clmbtech.com
 static.elixmedia.com
 static.youappi.com
 stats.adspaces.ero-advertising.com
+stats.bidgear.com
 stats.data2.ero-advertising.com
 stats.ero-advertising.com
 stats.jpush.cn
@@ -720,6 +726,7 @@ t.newlimitedoffer.com
 token.rubiconproject.com
 topads.ero-advertising.com
 torrenty-org.pl
+track.adtrue.com
 tracker.clickopon.com
 tracking.beginads.com
 tracking.ero-advertising.com
@@ -803,6 +810,7 @@ www.banners.mediaparade.net
 www.beauty-tea.com
 www.beginads.com
 www.bet365.com
+www.bidgear.com
 www.bigsharkmedia.com
 www.btds.artplay.info
 www.buzzclicks.com

@@ -485,6 +485,8 @@ adapd.com
 adapi.ragapa.com
 adap.tv
 ad.aquamediadirect.com
+adashx4ae.ut.taobao.com
+adashx.ut.taobao.com
 ad.asv.de
 ad-audit.tubemogul.com
 ad.auditude.com
@@ -3240,6 +3242,7 @@ bdnad1.bangornews.com
 bdv.bidvertiser.com
 beacon-1.newrelic.com
 beacon-3.newrelic.com
+beaconin2.notinote.me
 beacon.scorecardresearch.com
 beacons.helium.com
 beacons.hottraffic.nl
@@ -3399,6 +3402,7 @@ bostonsubwayoffer.com
 bottleguy.com
 bowlgirl.com
 bowlingle.com
+bp.adkmob.com
 bp.specificclick.net
 b.rad.live.com
 b.rad.msn.com
@@ -5941,6 +5945,8 @@ h1.msn.com
 h1.ripway.com
 hackedgadgets.us.intellitxt.com
 hackerz.ir
+h-adashx4ae.ut.taobao.com
+h-adashx.ut.taobao.com
 hadik.info
 h.admob.com
 h-afnetwww.adshuffle.com
@@ -5984,6 +5990,7 @@ hellwert.biz
 help.adtech.de
 help.adtech.fr
 help.adtech.us
+helpbatteryov1.ksmobile.com
 helpint.mywebsearch.com
 helpmedb.com
 helpmymacfaster.club
@@ -6261,6 +6268,7 @@ imgg.dt00.net
 imgg.marketgid.com
 imgg.mgid.com
 img.layer-ads.de
+img.liczniki.org
 img.marketgid.com
 imgn.dt00.net
 imgn.dt07.com
@@ -6631,6 +6639,8 @@ karriere.oewabox.at
 katu.adbureau.net
 kaytri.com
 kazaa.adserver.co.il
+kbd1.kpns.ijinshan.com
+kbd2.kpns.ijinshan.com
 kczambians.com
 kddi.122.2o7.net
 kdowqlpt.info
@@ -6801,6 +6811,7 @@ liapentruromania.ro
 libdgel.net
 liberty.gedads.com
 licasd.com
+liczniki.org
 lie2anyone.com
 lighthouse2k.com
 ligtv.kokteyl.com
@@ -10358,6 +10369,7 @@ storage.trafic.ro
 st.pba.xl.pt
 stpetersburgtimes.122.2o7.net
 straighttangerine.cz.cc
+strategy.lmobi.net
 strawpoii.me
 streamate.com
 streamate.doublepimp.com
@@ -11235,6 +11247,7 @@ uawj.moqhixoz.cn
 ubmcmm.baidustatic.com
 uc.csc.adserver.yahoo.com
 ucstat.baidu.com
+ud.adkmob.com
 udarem.com
 udc.msn.com
 uedata.amazon.com
@@ -11317,6 +11330,7 @@ usc.adserver.snapads.com
 us-choicevalue.com
 us.cqcounter.com
 us.d1.yimg.com
+usdk.batmobi.net
 usd.sierra-boa.com
 us.e1.yimg.com
 usemax.de
@@ -12030,6 +12044,7 @@ www24a.glam.com
 www24.glam.com
 www25a.glam.com
 www25.glam.com
+www2.activebestakamaiflash.icu
 www2.addfreestats.com
 www2.adireland.com
 www2.adserverpub.com
@@ -12053,6 +12068,7 @@ www2.kampanyatakip.net
 www2.pagecount.com
 www2.pubdirecte.com
 www2.smallregularbestflash.club
+www2.upgradebestonlineflash.icu
 www2.zapadserver1.com
 www30a1.glam.com
 www30a1-orig.glam.com
@@ -13449,6 +13465,7 @@ www.us-topsites.com
 www.utarget.co.uk
 www.v61.com
 www.valueclick.com
+www.vb1rc5l52n.us
 www.venturead.com
 www.verypositiveus.com
 www.via22.net
