@@ -3244,6 +3244,7 @@ bdv.bidvertiser.com
 beacon-1.newrelic.com
 beacon-3.newrelic.com
 beaconin2.notinote.me
+beacon.krxd.net
 beacon.scorecardresearch.com
 beacons.helium.com
 beacons.hottraffic.nl
@@ -9217,6 +9218,7 @@ rc.wl.webads.nl
 rd1.hitbox.com
 rd.alphabirdnetwork.com
 rd.intl.doubleclick.net
+r.dlx.addthis.com
 r.domob.cn
 rdsa2012.com
 reacherinst.com
@@ -9351,6 +9353,7 @@ rmedia.boston.com
 rmm1u.checkm8.com
 rms.admeta.com
 rncgopcom.122.2o7.net
+r.nexac.com
 ro.bbelements.com
 robot.royalcactus.com
 rocks.io
@@ -9962,6 +9965,7 @@ smedizin.oewabox.at
 s.megaclick.com
 smetrics.att.com
 smetrics.tesco.com
+smetrics.washingtonpost.com
 smibs.112.2o7.net
 smile-angel.com
 smile.modchipstore.com
