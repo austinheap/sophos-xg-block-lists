@@ -596,7 +596,6 @@ atraxio.com
 atsfi.de
 atticwicket.com
 attracta.com
-attraqt.com
 attributionapp.com
 attributiontrackingga.googlecode.com
 audience.acpm.fr
@@ -1689,6 +1688,7 @@ djers.com
 djfhwosjck.bid
 djibeacon.djns.com
 dj.renren.com
+djtflbt20bdde.cloudfront.net
 dkj2m377b0yzw.cloudfront.net
 dk-statistik.de
 dl1d2m8ri9v3j.cloudfront.net
