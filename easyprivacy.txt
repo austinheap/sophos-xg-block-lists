@@ -361,6 +361,7 @@ analytics.archive.org
 analytics.artirix.com
 analytics.avanser.com.au
 analytics.aweber.com
+analytics.bhaskar.com
 analytics.bigcommerce.com
 analytics.bloomberg.com
 analytics.blue
@@ -4951,6 +4952,7 @@ tag.sonymusic.com
 tagsrvcs.com
 tag-stats.huffpost.com
 tags.transportdirect.info
+tag.triboomedia.it
 tagx.nytimes.com
 tailtarget.com
 tainiesonline.pw
@@ -5018,6 +5020,7 @@ tendatta.com
 tenmax.io
 tentaculos.net
 terabytemedia.com
+tercept.com
 terethat.ru
 teriotracker.de
 testin.cn
