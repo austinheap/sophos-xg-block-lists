@@ -757,6 +757,7 @@ us-east1.serve.enatimedia.com
 users.ero-advertising.com
 users.quantumgraph.com
 ustat.batmobi.net
+v10c.events.data.microsoft.com
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 vamsoupowoa.com
