@@ -352,7 +352,6 @@ adsatt.espn.go.com
 adsatt.espn.starwave.com
 Adsatt.go.starwave.com
 ads.avazu.net
-ads.batpmturner.com
 ads.belointeractive.com
 ads.berlinonline.de
 ads.betanews.com
@@ -1130,7 +1129,6 @@ cash4popup.de
 cashcrate.com
 cashengines.com
 cashfiesta.com
-cashlayer.com
 cashpartner.com
 casinogames.com
 casinopays.com
@@ -1246,7 +1244,6 @@ copperchickens.com
 copycarpenter.com
 copyrightaccesscontrols.com
 coremetrics.com
-cottawa.info
 counted.com
 counter.bloke.com
 counter.cnw.cz
@@ -1787,7 +1784,6 @@ mg2connext.com
 mgid.com
 microstatic.pl
 microticker.com
-midnightclicking.com
 misstrends.com
 mixedreading.com
 mixpanel.com
@@ -1894,7 +1890,6 @@ oas.uniontrib.com
 oas.villagevoice.com
 oclasrv.com
 oewa.at
-oewabox.at
 offerforge.com
 offermatica.com
 olivebrandresponse.com
@@ -2258,7 +2253,6 @@ spotxchange.com
 spykemediatrack.com
 spylog.com
 spywarelabs.com
-spywarenuker.com
 spywords.com
 squeamishscarecrow.com
 srwww1.com
@@ -2323,7 +2317,6 @@ taboola.com
 tacoda.net
 tagular.com
 tailsweep.com
-tailsweep.co.uk
 tailsweep.se
 takru.com
 tangerinenet.biz
