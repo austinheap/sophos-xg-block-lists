@@ -3585,6 +3585,7 @@ pclick.internal.yahoo.com
 pclicks.com
 pclick.yahoo.com
 pcspeedup.com
+pdbu.net
 p.delivery.net
 pdheuryopd.loan
 p.dsero.net
@@ -3880,6 +3881,7 @@ px.owneriq.net
 px.reactrmod.com
 px.spiceworks.com
 px.topspin.net
+pymx5.com
 p.yotpo.com
 pzkysq.pink
 pzoifaum.info
@@ -4831,6 +4833,7 @@ statsy.net
 stats.ynet.co.il
 stats.yourminis.com
 stats.zmags.com
+stats.zotabox.com
 statt-collect.herokuapp.com
 stattds.club
 stat.tianya.cn
