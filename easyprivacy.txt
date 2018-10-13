@@ -2152,6 +2152,7 @@ ga.canoe.ca
 gacela.eu
 ga.kvideo.io
 gallupnet.fi
+gameanalytics.com
 gammachug.com
 ga.nsimg.net
 gasolina.ml
@@ -2632,6 +2633,7 @@ ip2location.com
 ip2map.com
 ip2phrase.com
 ipaddresslabs.com
+ipapi.co
 ip-api.com
 ip.breitbart.com
 ipcatch.com
@@ -3128,6 +3130,7 @@ metrics.uol.com.br
 metrics.upcload.com
 metrics.washingtonpost.com
 metrics.wikinvest.com
+metrigo.zalan.do
 metriweb.be
 metrixlablw.customers.luna.net
 met.vgwort.de
@@ -4145,6 +4148,8 @@ salecycle.com
 salemove.com
 salesgenius.com
 salesmanago.pl
+salesviewer.com
+salesviewer.org
 saletrack.co.uk
 sal.isanook.com
 sambaads.com
@@ -4941,7 +4946,6 @@ t.9gag.com
 t.a3cloud.net
 tag4arm.com
 tag-abe.cartrawler.com
-tag.aticdn.net
 tag.brandcdn.com
 tagcdn.com
 tag.email-attitude.com
@@ -5582,6 +5586,7 @@ tt.onthe.io
 ttwbs.channelintelligence.com
 tubetrafficcash.com
 tulip18.com
+tunnl.com
 turnsocial.com
 t.vimeo.com
 t.wayfair.com
