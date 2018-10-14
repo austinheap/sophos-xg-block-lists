@@ -384,6 +384,7 @@ analytics.datahc.com
 analytics.dev.springboardvideo.com
 analytics.digitouch.it
 analytics.dol.gr
+analytics.dvidshub.net
 analytics.ecosia.org
 analytics-egain.com
 analytics-engine.net
@@ -394,6 +395,7 @@ analytics.ettoredelnegro.pro
 analytics.fairfax.com.au
 analytics.favcy.com
 analytics.femalefirst.co.uk
+analytics.foresee.com
 analytics.freespee.com
 analytics.gameforge.de
 analytics.gazeta.pl
@@ -2718,6 +2720,7 @@ jstracker.com
 jumptime.com
 jump-time.net
 junopink.ml
+junta.net
 jurtym.cf
 jurty.ml
 justuno.com
@@ -3239,6 +3242,7 @@ mowfruit.com
 mparticle.com
 m-pathy.com
 mplxtms.com
+mppapi.io
 mp.pianomedia.eu
 mps-gba.de
 mpstat.us
