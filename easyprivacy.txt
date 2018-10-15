@@ -4610,6 +4610,7 @@ statistics.infowap.info
 statistics.klicktel.de
 statistics.m0lxcdn.kukuplay.com
 statistics.rbi-nl.com
+statistics.riskommunal.net
 statistics.ro
 statistics.tattermedia.com
 statistics.wibiya.com

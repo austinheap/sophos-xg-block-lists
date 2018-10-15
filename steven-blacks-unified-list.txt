@@ -3364,7 +3364,6 @@ ads.balkanec.bg
 ads.bangkokpost.co.th
 ads.banner.t-online.de
 ads.barnonedrinks.com
-ads.batpmturner.com
 ads.battle.net
 ads.bauerpublishing.com
 ads.baventures.com
@@ -5960,7 +5959,6 @@ adzones.com
 adzone.stltoday.com
 adzpower.com
 adzservice.theday.com
-ae01.alicdn.com
 ae1-devwebui1.dev.corp.mparticle.com
 ae1-devwebui2.dev.corp.mparticle.com
 ae1-devwebui3.dev.corp.mparticle.com
@@ -6872,6 +6870,7 @@ a.mozefakt.com
 amp.automatad.com
 ampblog.tritondigital.com
 amp.casalemedia.com
+ampcid.google.com
 ampedmedia.directtrack.com
 amphorasf.com
 amplexus.org
@@ -7049,6 +7048,7 @@ analytics.newsvine.com
 analyticson.com
 analytics.onesearch.id
 analytics.ooyala.com
+analytics.paddle.com
 analytic.spamfighter.com
 analytics.percentmobile.com
 analytics.phando.com
@@ -7355,6 +7355,7 @@ aolyedda.122.2o7.net
 a-o.ninja
 a.openinternetexchange.com
 aop-prog.advertising.com
+a.optmnstr.com
 a.optmstr.com
 a.optnmstr.com
 aoredi.com
@@ -7479,6 +7480,7 @@ apibrowsesmartne-a.akamaihd.net
 api.brs.intl.miui.com
 api.bttrack.com
 api-cache.adsnative.com
+api.calq.io
 api.c.avazunativeads.com
 api.cheatsheet.me
 api.chillyc.env.sandbox53.localytics.com
@@ -7503,6 +7505,7 @@ apidemo.eazybiz.ng
 api-dev-bos.yottaa.com
 api-development.lisnr.com
 api-development-us-west-2.lisnr.com
+api-dev.instartlogic.com
 api.dev.jivox.com
 api-dev-new.yottaa.com
 api-dev.yottaa.com
@@ -7515,6 +7518,8 @@ api.districtm.ca
 api.dna.247realmedia.com
 api-doc.adtech.de
 api-doc.adtechus.com
+apidocs-dev.instartlogic.com
+apidocs.instartlogic.com
 api-docs.playhaven.com
 api.drift.com
 api.driftt.com
@@ -7542,6 +7547,7 @@ api-iad.bandwidthx.net
 api.ibm.xtify.com
 api.infinario.com
 api.inmobi.com
+api.instartlogic.com
 api.int.drift.com
 api.intel.dynamicyield.com
 api.intellimize.co
@@ -7717,6 +7723,7 @@ api.uat.dev.sizmek.com
 api.urbanairship.com
 api.userstyles.org
 api-us-west-1.petametrics.com
+api-v2.instartlogic.com
 api-v2.lootsie.com
 apiv2.moengage.com
 api-v3_0.us-west-2.prod.aws.keen.io
@@ -7786,6 +7793,15 @@ app5.letslowbefast.site
 app-ab12.marketo.com
 app-ab13.marketo.com
 app-ab14.marketo.com
+app-ab15.marketo.com
+app-ab16.marketo.com
+app-ab17.marketo.com
+app-ab18.marketo.com
+app-ab19.marketo.com
+app-ab20.marketo.com
+app-ab21.marketo.com
+app-ab22.marketo.com
+app-ab23.marketo.com
 app-ab24.marketo.com
 app-abc.marketo.com
 app-abd.marketo.com
@@ -7814,6 +7830,7 @@ app.convertkit.com
 app.datafastguru.info
 appdemo.eazybiz.ng
 appdev.addthis.com
+app-dev.instartlogic.com
 app.dev.jivox.com
 app.dev.pardot.com
 appdynamics.com
@@ -7835,6 +7852,7 @@ app.getresponse.com
 app.getsitecontrol.com
 appgrowth.appsee.com
 appie.com
+app.instartlogic.com
 app.intellimize.co
 app.intuit.launchdarkly.com
 appiq.mobi
@@ -8598,6 +8616,7 @@ authbe.sec.intl.miui.com
 auth.boa.exacttarget.com
 auth-canary.flurry.com
 authcaptcha.com
+auth.corp.instartlogic.com
 authedmine.com
 authedmine.eu
 authedwebmine.cz
@@ -9578,6 +9597,7 @@ bbw-central.com
 bbwhardcoreporn.com
 bbwlizphonesex.com
 bbwvideos.info
+bc43.pl
 bc.5.p2l.info
 bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
 bcanalytics.bigcommerce.com
@@ -9934,6 +9954,7 @@ bevo-us-east-1.adsnative.com
 bewaslac.com
 bewhoyouare.gq
 be-wild.pl
+bewox.net
 bewumuhax.bid
 bextra.ourtablets.com
 bextra-store.shengen.ru
@@ -10387,6 +10408,7 @@ blog.autopilothq.com
 blog.aviasales.ru
 blog.branch.io
 blog.byethost.com
+blog.calq.io
 blogchanie.com
 blog.clearbit.com
 blogcounter.com
@@ -10527,6 +10549,7 @@ bn.adx1.com
 bn.bfast.com
 bnc.lt
 b.nevadaprivateoffice.com
+bnewsb.com
 b.nex.bg
 bnfastigheter.se
 bng.in
@@ -10667,6 +10690,7 @@ bormis.com
 born-genius.se
 bororango.com
 borrower.it
+boryskowalski.pl
 bos.ads.nexage.com
 boschetto-hotel.gr
 bosecom.112.2o7.net
@@ -10811,6 +10835,7 @@ bridgetrack.com
 bridgetrack.speedera.r3h.net
 briebailey.tripod.com
 brightcove.112.2o7.net
+brightcove.map.fastly.net
 brightfunnel.com
 brighthouse.122.2o7.net
 brighthub.us.intellitxt.com
@@ -10866,6 +10891,7 @@ browsepedia.com
 browsepulse-a.akamaihd.net
 browseraccelerator.com
 browserbreckalarm.info
+browsergames2018.com
 browserhawk.com
 browser-message.com
 browsermine.12finance.com
@@ -11457,6 +11483,7 @@ callingcardsinstantly.com
 callmd5map.com
 calmfoot.com
 calouskype.over-blog.com
+calq.io
 calworthingtonford.com
 c.am10.ru
 c.am11.ru
@@ -11662,7 +11689,6 @@ cashengines.com
 cashext.com
 cashfiesta.com
 cashflowmarketing.com
-cashlayer.com
 cashpartner.com
 cashreportz.com
 casino770.com
@@ -12551,6 +12577,7 @@ chat.adspaces.ero-advertising.com
 chat.api.drift.com
 chat.effectivebrand.com
 chat.ero-advertising.com
+chat.instartlogic.com
 chatliebe.com
 chatproxy.net
 chatroulette.online
@@ -13096,6 +13123,10 @@ clickstatsview.new2007casinobonus.com
 clicks.totemcash.com
 clicks.toteme.com
 clicks.traffictrader.net
+clickstream-killswitch-api.hd-personalization-prod.gcp.homedepot.com
+clickstream-killswitch.hd-personalization-prod.gcp.homedepot.com
+clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
+clickstream-producer.hd-personalization-prod.gcp.homedepot.com
 clicks.virtuagirl.com
 clicks.virtuagirlhd.com
 clicks.virtuaguyhd.com
@@ -13751,6 +13782,7 @@ community.appboy.com
 community.appdynamics.com
 community.appsflyer.com
 community.dynamicyield.com
+community.instartlogic.com
 community.marketo.com
 community.monerise.com
 community-old2.dynamicyield.com
@@ -14185,7 +14217,6 @@ costcoworld.life
 cota.in
 cotscoauto.com
 cottageofgrace.com
-cottawa.info
 couches-express.fr
 couchetard.free.fr
 cougfan.info
@@ -14796,6 +14827,8 @@ csp-testsite.timecommerce.net
 csr.onet.pl
 cs.rubiconproject.com
 cs.sexcounter.com
+cs.shiporama.com
+cs.spotlessweb.com
 c.statcounter.com
 cstatic.weborama.fr
 cstest.adtech.de
@@ -14939,6 +14972,7 @@ customer-folder.dynamicyield.com
 customer-folder-eu.dynamicyield.com
 customergrowthsystems.com
 customerguru.in
+customer.instartlogic.com
 customerpromos-a.akamaihd.net
 customerscreensavers.com
 customerservice-appleid.com
@@ -17336,6 +17370,7 @@ ecarecosmetics.com
 ec.atdmt.com
 eccdn.yext.com
 ecchi.nu
+e-cda.pl
 ecda.pl
 ecdn.firstimpression.io
 ecdtrk.com
@@ -21890,6 +21925,7 @@ greeninst.com
 greenpanel.corp.mixpanel.com
 greenshot.fr
 green-tea.tv
+greerlies.pro
 greetzebra.com
 greev.randbinternationaltravel.com
 gremimedia.pl
@@ -22590,6 +22626,7 @@ hhl.adx1.com
 hhnamywutsvovm.bid
 hhnvtfiiitzf.bid
 h.hollywood.com
+h-homedepot.online-metrix.net
 hhtransports.pk
 hi1001.co.kr
 hi.5.p2l.info
@@ -23306,6 +23343,7 @@ hunterboots.online
 huntingtonbank.tt.omtrdc.net
 huomdgde.adocean.pl
 hurricanedigitalmedia.com
+hurtownia.kolrise.com
 hu.search.etargetnet.com
 husky-shop.cz
 hu.static.etargetnet.com
@@ -24230,6 +24268,7 @@ info.engagio.com
 info.fiksu.com
 info-images.rambler.ru
 info.innovid.com
+info.instartlogic.com
 info.intelli-direct.com
 infolinia-kontakt-telefon.pl
 infolinks.com
@@ -24353,6 +24392,7 @@ insights.evidon.com
 insights.foresee.com
 insights.goodyield.com
 insights.gumgum.com
+insights.integralads.com
 insights.irganalytics.com
 insights.juicemobile.com
 insights.marketingmachine.co.za
@@ -24392,6 +24432,7 @@ instantmadness.com
 instantonlineloanss.com
 in-starlive-preroll.videoplaza.tv
 in-starlive.videoplaza.tv
+instartlogic.com
 in-star.videoplaza.tv
 instasexmatch.ru
 insticator-d.openx.net
@@ -24494,10 +24535,12 @@ internal-clarity.idsp.inmobi.com
 internal.dev.kargo.com
 internal.fuckyoucash.com
 internal.fullstory.com
+internal.instartlogic.com
 internal.intentmedia.net
 internal.intercom.io
 internal.revcontent.com
 internal.s50.exacttarget.com
+internals.instartlogic.com
 internal.staging.fullstory.com
 internal.staging.kargo.com
 internationalmarble.com
@@ -27098,6 +27141,7 @@ login-apps.eloqua.com
 login.auth.mparticle.com
 login-canary.flurry.com
 login.console.unrulymedia.com
+login-dev.instartlogic.com
 login.dotomi.com
 login.dotomi.net
 login.drawbrid.ge
@@ -27105,6 +27149,7 @@ login.driftt.com
 login.eloqua.com
 login.exacttarget.com
 login.flurry.com
+login.instartlogic.com
 login.k8s-test.fiksu.com
 login.linkpulse.com
 login.poc.exacttarget.com
@@ -29433,7 +29478,6 @@ midget-sex-video.com
 midget-xxx.com
 midialeto.com
 midiasomeluz.com.br
-midnightclicking.com
 mid.rkdms.com
 midsen.112.2o7.net
 miercuri.gq
@@ -31101,6 +31145,7 @@ news-finances.com
 news.iadsdk.apple.com
 newsinteractive.112.2o7.net
 newsinternational.122.2o7.net
+newsite.instartlogic.com
 newsite.yieldmo.com
 newsletter.adsonar.com
 newsletter.adsttc.com
@@ -31483,6 +31528,7 @@ np.lexity.com
 nps1.getsitecontrol.com
 npttech.com
 nqm.blackcurranthumidifiers.site
+nqs.nice264.com
 nrads.1host.co.il
 nrb.footprintdns.com
 nrd.adsttc.com
@@ -31660,6 +31706,7 @@ ny5expe.fwmrm.net
 ny.5.p2l.info
 ny7f6goy.bid
 nyads.ny.publicus.com
+nyctrk.com
 nydailynews.d1.sc.omtrdc.net
 nym1.b.adnxs.com
 nym1-ib.adnxs.com
@@ -32198,7 +32245,6 @@ oeinerge.pt
 oem.inmobi.com
 oesterreich-schweiz.de
 oewa.at
-oewabox.at
 oewa.oewabox.at
 o.fandango.com
 of-course-secondhand.de
@@ -35551,6 +35597,7 @@ product.atom.adjust.com
 product.beta.adwyze.com
 product.braze.com
 production-adserver-666328397.us-east-1.elb.amazonaws.com
+production-analytics-collector-592917094.us-east-1.elb.amazonaws.com
 production.ap-southeast-2.kops.kargo.com
 production-bidding-agent.fyber.com
 production.cjadsystems.dotomi.com
@@ -36904,6 +36951,8 @@ recl.kulinar.bg
 recluse.me
 recommendation.algolia.com
 recommendation.citrix.com
+recommendation-hybrid.wpdigital.net
+recommendation-newsletter.wpdigital.net
 recommendedforyou.xyz
 recommendedlab.com
 recommenderprodwestus.cloudapp.net
@@ -37869,6 +37918,7 @@ rtst.122.2o7.net
 rt.udmserve.net
 r.turn.com
 r.turn.com.akadns.net
+rtvagdpro.net
 rtv-delta.com
 rtve.d1.sc.omtrdc.net
 rt.visilabs.com
@@ -39165,6 +39215,7 @@ security.fblaster.com
 securityinbox6876.000webhostapp.com
 securityinfo6467.000webhostapp.com
 securityinfonuman.000webhostapp.com
+security.instartlogic.com
 securityjam.000webhostapp.com
 securityscan.us
 securityteamuin.000webhostapp.com
@@ -40250,6 +40301,7 @@ shinystat.it
 shinystat.shiny.it
 shinyworld.co.uk
 ship-marvel.co.ua
+shiporama.com
 ships.zapto.org
 shisha-swag.de
 shit4shit.com
@@ -41302,6 +41354,7 @@ spot.fitness.com
 spotfront.mathtag.com
 spotify.backtrace.io
 spotify.sp.backtrace.io
+spotlessweb.com
 spots.ah-me.com
 spotsniper.ru
 spotx2eventsbidder-east.extend.tv
@@ -42782,6 +42835,7 @@ support.foresee.com
 support.freshmarketer.com
 support.inmobi.com
 support.innovid.com
+support.instartlogic.com
 support-ip.com
 support.iubenda.com
 support.kochava.com
@@ -43140,6 +43194,7 @@ szalonenagrody.com
 szalonepromocje.com
 szaloneupusty.pl
 szamponrevita.pl
+szczepienie.info
 szene1.oewabox.at
 s.zeroredirect.com
 szexcsata.hu
@@ -43286,7 +43341,6 @@ tag.yieldoptimizer.com
 tahit.wastech2016.in
 tahoesup.com
 tailsweep.com
-tailsweep.co.uk
 tailsweep.se
 tainiesonline.pw
 tainiesonline.stream
@@ -43365,6 +43419,7 @@ targeting-shadow.snapads.com
 targeting.snapads.com
 targeting.tronc.arcpublishing.com
 targeting.unrulymedia.com
+targeting.washpost.nile.works
 targetnet.com
 target.net.finam.ru
 targetpoint.com
@@ -43684,6 +43739,7 @@ telemetry.layer.com
 telemetry.malwarebytes.com
 telemetry.sdk.inmobi.com
 telemetry.servers.getgo.com
+telemetry.sonarsource.com
 telenor.112.2o7.net
 tele.oewabox.at
 teletype.internal.intercom.io
@@ -43772,6 +43828,7 @@ test.fastly-insights.com
 testgoat.dev.getambassador.com
 testgw.iovation.com
 testiab.53.localytics.com
+test.instartlogic.com
 testinteligencji.bo.pl
 test.iovation.com
 test.ishvara-yoga.com
@@ -44122,6 +44179,7 @@ thome.112.2o7.net
 thoroclean.com
 thoughtfully-free.com
 thoughtsmedia.us.intellitxt.com
+thputr.pro
 threadandmirror.com
 threadwatch.us.intellitxt.com
 three-jj.github.io
@@ -45649,6 +45707,7 @@ tuneci.us-west-2.k8s.ops.tune.com
 tune.com
 tunez9ja.com
 tungshinggroup.com.vn
+tuniaf.com
 tunmedia.tns-cs.net
 tuno.nuggad.net
 t.update.3lift.com
@@ -46094,6 +46153,7 @@ undefined.it
 undertone.com
 undertonenetworks.com
 uniclick.openv.com
+unifi.corp.instartlogic.com
 uniform-gals.com
 uniformimages.com
 uniformsex.biz
@@ -46987,6 +47047,7 @@ vid-io.springserve.com
 vidnet.pl
 vidnet.us.intellitxt.com
 vidora.com
+vidplayer.pl
 vids24.pl
 vid.springserve.com
 vidstatb.taboola.com
@@ -48224,6 +48285,7 @@ wgc1.acecounter.com
 wg-gesucht.de.intellitxt.com
 whabi.csheaven.com
 whaleads.com
+whatcounts_saas.s3.amazonaws.com
 whathyx.com
 whatishotnow.net
 whatseek.com
@@ -49396,6 +49458,7 @@ www2.glam.com
 www2.gorillavid.in
 www.2guys1stump.org
 www2.hitslink.com
+www2.instartlogic.com
 www2.kampanyatakip.net
 www2.kampyle.com
 www2.kiehls.com
@@ -50496,6 +50559,7 @@ www.cadillacescalade.com
 www.cafecoquin.com
 www.californiastateparks.com
 wwwcallwave.com
+www.calq.io
 www.calworthingtonford.com
 www.cam4.fr
 www.cambodiaoutsourcing.com
@@ -50580,6 +50644,7 @@ www.centerfind.com
 www.centertrk.com
 www.centralsignnew.com
 www.centralwestwater.com.au
+www.centrumfilmowe.bc43.pl
 www.centrum-kredytowe.net
 www.cerquasas.it
 www.cert1.franklyinc.com
@@ -50965,6 +51030,7 @@ www.currentupdateconcepts.com
 www.curryheinz.de
 www.custombi.sizmek.com
 www.customer-folder.dynamicyield.com
+www.customer.instartlogic.com
 www.customersupporthelp.com
 www.cw.nu
 www.cxcc.ssacdn.com
@@ -51420,6 +51486,7 @@ www.fictioncinema.com
 www.fiduciariobajio.com.mx
 www.fif49.info
 www.fiksu.com
+www.filedeposit.eu
 www.filefortune.com
 www.fileoasis.net
 www.files-download.xcc24.pl
@@ -52075,6 +52142,7 @@ www.insights.maxpoint.com
 www.inskinad.com
 www.ins-offer.com
 www.installfarm.com
+www.instartlogic.com
 www.instorm.com
 www.insurance-rewardpath.com
 www.integration.sharethrough.com
@@ -52369,6 +52437,7 @@ www.ledinund.com
 www.lefos.net
 www.legal-rewardpath.com
 www.legendofdragoon.com
+www-le.instartlogic.com
 www.leisure-offer.com
 www.lejournaldescarrieres.com
 www.lemonparty.biz
@@ -53957,6 +54026,7 @@ www.staging.analytics.ispot.tv
 www.staging.clickconvertsell.com
 www-staging.dynamicyield.com
 www.staging-h-api.online-metrix.net
+www-staging.instartlogic.com
 www.staging.lisnr.com
 www.staging.mater.iubenda.com
 www.staging.om.api.ispot.tv
@@ -54059,6 +54129,7 @@ www.support.beemray.com
 www.support-beta.demandbase.com
 www.support.dynamicyield.com
 www.support.inmobi.com
+www.support.instartlogic.com
 www.support.mparticle.com
 www.supportmx.support.tapjoy.com
 www.support.rubiconproject.com
@@ -54158,6 +54229,7 @@ www.techops.yext.com
 www.techtricksworld.com
 wwwteens.net
 www.telemetry.sdk.inmobi.com
+www.telescopethesky.com
 www.temo.analyticson.com
 www.template-download.top
 www.terethat.ru
@@ -54170,6 +54242,7 @@ www.testbanners.analyticson.com
 www.test.cryptonoter.com
 www.testjira.corp.ev1.inmobi.com
 www-test.metaps.com
+www.testns.instartlogic.com
 www.testracking.com
 www.test.tapjoyads.com
 www.test.vilynx.com
@@ -54188,6 +54261,7 @@ www.thatrendsystem.com
 www.thatresha.com
 www.thatsjustgay.com
 www.thatsphucked.com
+www.thdws.com
 www.theads.me
 www.theaffiliateprogram.com
 www.theappgrader.com
@@ -55113,6 +55187,7 @@ wygrajnike.blogspot.com
 wygrajpsc.eu
 wygraj-quiz.pl
 wygraj-teraz.com
+wygrana-wpisz-dane.eu
 wygrania.com
 wygrywa.pl
 w.yieldmo.com
@@ -55770,6 +55845,7 @@ yourofferpro.com
 yourothersite.com
 yourpage.blazenet.net
 yourpagesupdale.cf
+yourpayment.online
 yourperlebleue.com
 yourporn.cc
 yourporn.com
