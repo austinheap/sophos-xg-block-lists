@@ -1168,6 +1168,7 @@ cnxweb.com
 cnzz.com
 cnzz.net
 codata.ru
+cod.bitrec.com
 cogmatch.net
 cognitivematch.com
 coinblind.com
@@ -1539,6 +1540,7 @@ d2ry9vue95px0b.cloudfront.net
 d2so4705rl485y.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
+d2wzl9lnvjz3bh.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d3135glefggiep.cloudfront.net
@@ -1954,6 +1956,7 @@ events.redditmedia.com
 events.snacktv.de
 events.turbosquid.com
 events.whisk.com
+events.yourcx.io
 eventtracker.elitedaily.com
 eventtracker.videostrip.com
 event.trove.com
@@ -2910,6 +2913,7 @@ logger.viki.io
 loggingapi.spingo.com
 logging.carambo.la
 logging.goodgamestudios.com
+logging.prefixbox.com
 loggingservices.tribune.com
 logging.wilmaa.com
 loggly.cheatsheet.com
@@ -5660,6 +5664,7 @@ urtracker.q-sis.de
 usabilitytools.com
 usabilla.com
 usa.cc
+useitbetter.com
 usemaxserver.de
 user-api.com
 userchecker.info
