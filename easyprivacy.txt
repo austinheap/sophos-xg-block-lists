@@ -720,6 +720,7 @@ beacon.rum.dynapis.com
 beacons.brandads.net
 beacon.search.yahoo.com
 beacon.securestudies.com
+beacon.shazam.com
 beacons.helium.com
 beacon.sina.com.cn
 beacons.mediamelon.com
@@ -2016,6 +2017,7 @@ fastcounter.de
 fastcounter.onlinehoster.net
 fast.forbes.com
 fastly-analytics.com
+fastly-insights.com
 fastonlineusers.com
 faststart.ru
 fast-thinking.co.uk
@@ -3485,7 +3487,6 @@ om.rogersmedia.com
 omt.shinobi.jp
 onaudience.com
 ondu.ru
-onecount.net
 onefeed.co.uk
 onelink-translations.com
 onespot-tracking.herokuapp.com
