@@ -2822,6 +2822,7 @@ api.sagent.io
 api.shoppingminds.net
 api.simpleanalytics.io
 apis.murdoog.com
+api.taboola.com
 api.tumra.com
 api.viglink.com
 ap.lijit.com
@@ -2969,6 +2970,7 @@ asg10.casalemedia.com
 asg11.casalemedia.com
 asg12.casalemedia.com
 asg13.casalemedia.com
+ash.creativecdn.com
 ashow.pcpop.com
 asianread.com
 ASKBOT.com
@@ -3117,6 +3119,7 @@ bannerads.zwire.com
 banner.affactive.com
 banner.betroyalaffiliates.com
 banner.betwwts.com
+banner.boostbox.com.br
 banner.cdpoker.com
 banner.clubdicecasino.com
 bannerconnect.net
@@ -3415,6 +3418,7 @@ brandsurveypanel.com
 BRApolice.com
 bravo.israelinfo.ru
 bravospots.com
+breakthroughtrend.com
 b.recwwcc5.info
 brightcove.112.2o7.net
 brightonclick.com
@@ -6832,6 +6836,7 @@ lilovakia.info
 lin31.metriweb.be
 link2me.ru
 link4ads.com
+link4win.net
 linkcounter.com
 linkcounter.pornosite.com
 link.masterstats.com
@@ -6866,6 +6871,7 @@ load.sumome.com
 loadus.exelator.com
 loan.aol.msk.su
 loan.maybachexelero.org
+loboclick.com
 loc1.hitsprocessor.com
 local
 localhost
@@ -9917,11 +9923,13 @@ sinera.org
 single-online.petrovka.info
 s.innovid.com
 site.adform.com
+siteadvisor.com-br.site
 siteimproveanalytics.com
 siteonline.stream
 sitesearch.hitbox.com
 sitestat.com
 sitestats.tiscali.co.uk
+sitionne.pro
 sixapart.adbureau.net
 sizzle-savings.com
 sjguild.com
@@ -9961,6 +9969,7 @@ smartclip.com
 smartclip.net
 smartcontext.pl
 smartinit.webads.nl
+smartlifeguides.com
 smart-scripts.com
 smartshare.lgtvsdp.com
 smartstats.com
@@ -12995,6 +13004,7 @@ www.linkwithin.com
 www.littledevildoubt.com
 www.liveadexchanger.com
 www.lldiettracker.com
+www.loboclick.com
 www.lolhello.com
 www.lolshock.com
 www.loltrain.com
@@ -13667,6 +13677,7 @@ xml.mediashakers.com
 xml.yepmedia.com
 x.mochiads.com
 xn--lt-68s.com
+xn--oogle-wmc.com
 xoomer.alice.it
 xpantivirus.com
 xpcs.ads.yahoo.com
