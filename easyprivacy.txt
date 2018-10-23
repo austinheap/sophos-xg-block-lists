@@ -17,6 +17,7 @@
 1l-hit.mail.ru
 1pel.com
 1q2w3.fun
+1q2w3.life
 1q2w3.me
 1q2w3.top
 1q2w3.website
@@ -317,6 +318,7 @@ amavalet.com
 amazingcounters.com
 ambercrow.com
 amctp.net
+amhixwqagiz.ru
 amikay.com
 amilliamilli.com
 amoad.com
@@ -560,6 +562,7 @@ arcadeweb.com
 arch-nicto.com
 arena-quantum.co.uk
 arianelab.com
+arizona-miner.tk
 arkayne.com
 arlime.com
 arpuonline.com
@@ -637,6 +640,7 @@ avazudsp.net
 avencio.de
 avenseo.com
 averoconnector.com
+avero.xyz
 avmws.com
 avstat.it
 awaps.yandex.net
@@ -803,6 +807,7 @@ b.imwx.com
 bionicclick.com
 bitclub.network
 bitclubnetwork.com
+bitcoin-pay.eu
 bitdash-reporting.appspot.com
 bit.ehow.com
 bitrix.info
@@ -950,6 +955,7 @@ capturemedia.network
 capturly.com
 carl.pubsvs.com
 carts.guru
+cashbeet.com
 cashburners.com
 cashcount.com
 caspionlog.appspot.com
@@ -970,6 +976,7 @@ cctvgb.com.cn
 ccvwtdtwyu.trade
 cc.zeit.de
 cd.musicmass.com
+cdn1.pebx.pl
 cdn-analytics.ladmedia.fr
 cdn-analytics.pl
 cdnanalytics.xyz
@@ -1174,6 +1181,7 @@ cogmatch.net
 cognitivematch.com
 coinblind.com
 coincheck.com
+coin-cube.com
 coinerra.com
 coin-have.com
 coin-hive.com
@@ -1189,6 +1197,7 @@ coinpot.co
 coinrail.io
 coin-service.com
 coin-services.info
+coinwebmining.com
 coinwire.eu
 coletor.terra.com
 coll1onf.com
@@ -1607,6 +1616,7 @@ dataperforma.com
 data.queryly.com
 data.ryanair.com
 datasecu.download
+dataservices.download
 dataxpand.com
 data.younow.com
 datvantage.com
@@ -1639,7 +1649,10 @@ deliver.ifeng.com
 deliv.lexpress.fr
 demandmedia.s3.amazonaws.com
 de-mi-nis-ner2.info
+de-mi-nis-ner.info
 denakop.com
+de-ner-mi-nis4.info
+de-nis-ner-mi-5.info
 depttake.ga
 dep-x.com
 deqwas.net
@@ -1680,6 +1693,7 @@ dinkstat.com
 dircont3.com
 directcounter.de
 directcrm.ru
+directprimal.com
 directrdr.com
 dirt.dennis.co.uk
 discover-path.com
@@ -1740,6 +1754,7 @@ dpm.bluray-disc.de
 dps-reach.com
 dreamcounter.de
 dronml.ml
+drupalupdates.tk
 ds-aksb-a.akamaihd.net
 ds.haaretz.co.il
 d.shareaholic.com
@@ -1755,6 +1770,7 @@ dt.sellpoint.net
 dtxngr.com
 du8783wkf05yr.cloudfront.net
 dufue2m4sondk.cloudfront.net
+dugroscaca.com
 dummy-domain-do-not-change.com
 durocount.com
 duu8lzqdm8tsz.cloudfront.net
@@ -1893,10 +1909,13 @@ etacontent.com
 etahub.com
 et.grabnetworks.com
 etherealhakai.com
+ethereum-pocket.de
+ethereum-pocket.eu
 ethn.io
 ethnio.com
 eth-pocket.com
 eth-pocket.de
+eth-pocket.eu
 ethtrader.de
 etnhashpool.tk
 et.nytimes.com
@@ -2001,6 +2020,7 @@ ezakus.net
 ezec.co.uk
 e-zeeinternet.com
 ezytrack.com
+f1tbit.com
 f92j5.com
 fab.interia.pl
 fabricww.com
@@ -2062,6 +2082,7 @@ flcounter.com
 flix360.com
 flixfacts.co.uk
 flixsyndication.net
+flnqmin.org
 flophous.cf
 flowplayer.space
 flowstats.net
@@ -2154,6 +2175,7 @@ fusion.bonniertidskrifter.se
 fusion.nettavisen.no
 fuziontech.net
 fyreball.com
+g1thub.com
 ga-beacon.appspot.com
 ga.canoe.ca
 gacela.eu
@@ -2234,6 +2256,9 @@ getfreebl.com
 gets.faz.net
 getsmartlook.com
 getstatistics.se
+gettate.date
+gettate.faith
+gettate.racing
 gezaehlt.de
 gez.io
 gft2.de
@@ -2380,6 +2405,7 @@ hellosherpa.com
 hello.staticstuff.net
 hemnes.win
 hentaicounter.com
+herphemiste.com
 hetchi.com
 hexagon-analytics.com
 heystaks.com
@@ -2441,6 +2467,7 @@ hitweb2.chosun.com
 hitwebcounter.com
 hivps.xyz
 hk.ndx.nextmedia.com
+hlpidkr.ru
 hm.baidu.com
 hodlers.party
 hodling.faith
@@ -2466,6 +2493,7 @@ hotstats.gr
 hottraffic.nl
 hpr.outbrain.com
 hqhrt.com
+hrfziiddxa.ru
 hrum.hotelsapi.io
 hsadspixel.net
 hs-analytics.net
@@ -2520,6 +2548,7 @@ ifactz.com
 igaming.biz
 igg.biz
 igrid.org
+ihdvilappuxpgiv.ru
 ihstats.cloudapp.net
 i.imedia.cz
 iivt.com
@@ -2534,6 +2563,7 @@ imcht.net
 imetrix.it
 imgstat.ameba.jp
 imgtrack.domainmarket.com
+imhvlhaelvvbrq.ru
 immanalytics.com
 immassets.s3.amazonaws.com
 i-mobile.co.jp
@@ -2675,6 +2705,7 @@ is.base.de
 i-stats.com
 i-stats.ieurop.net
 istats.nl
+istlandoll.com
 istrack.com
 ist-track.com
 italianadirectory.com
@@ -2686,12 +2717,14 @@ itracking.fccinteractive.com
 itracmediav4.com
 ivcbrasil.org.br
 ivitrack.com
+ivuovhsn.ru
 ivw.discover-outdoor.de
 ivw.dumontreise.de
 ivw.fem.com
 iwebtrack.com
 iwstats.com
 ixiaa.com
+ixvenhgwukn.ru
 iyi.net
 izea.com
 izearanks.com
@@ -2709,11 +2742,13 @@ jirafe.com
 jobs.hrkspjbs.com
 jqassets.download
 jqcdn.download
+jqr-cdn.download
 jqrcdn.download
 jquerrycdn.download
 jquery-cdn.download
 jquery-uim.download
 jqwww.download
+jqxrrygqnagn.ru
 jroqvbvw.info
 js-agent.newrelic.com
 jsccnn.com
@@ -2730,6 +2765,7 @@ junta.net
 jurtym.cf
 jurty.ml
 justuno.com
+jwduahujge.ru
 jwmstats.com
 jyhfuqoh.info
 k3dqv.ru
@@ -2777,12 +2813,14 @@ kontagent.net
 kopsil.com
 kostenlose-counter.com
 kqzyfj.com
+ksimdw.ru
 k.streamrail.com
 ksyrium0014.com
 ktxtr.com
 kupona.de
 l33tsite.info
 l.5min.com
+laferia.cr
 lanchaeanly.pro
 landingpg.com
 lansrv030.com
@@ -2875,6 +2913,7 @@ livestats.fr
 livestats.kaltura.com
 livestats.la7.tv
 livestats.matrix.it
+livestatsnet.services
 livetex.ru
 livetrafficfeed.com
 liveviewer.ez.no
@@ -3154,12 +3193,14 @@ micodigo.com
 micpn.com
 microcounter.de
 midas-i.com
+mi-de-ner-nis3.info
 midkotatraffic.net
 millioncounter.com
 mindtake.com
 minecrunch.co
 minemytraffic.com
 mine.nahnoji.cz
+minerad.com
 mineralt.io
 minercry.pt
 minero.cc
@@ -3171,6 +3212,7 @@ minewhat.com
 minexmr.com
 minexmr.stream
 mining.best
+mininghub.club
 minr.pw
 mint.boingboing.net
 mint.good.is
@@ -3188,6 +3230,7 @@ mlno6.com
 mlstat.com
 mlweb.dmlab.hu
 mm7.net
+mmc.center
 mmccint.com
 mmetrix.mobi
 mmi-agency.com
@@ -3225,11 +3268,14 @@ mobylog.jp
 mochibot.com
 modernus.is
 mokuz.ru
+mollnia.com
 momently.com
 monerise.com
 monerominer.rocks
 moneromining.online
 moneroocean.stream
+money-maker-default.info
+money-maker-script.info
 monitis.com
 monitus.net
 monkeytracker.cz
@@ -3307,6 +3353,7 @@ mypagerank.net
 my-ranking.de
 myrcrypto.com
 myreferer.com
+myregeneaf.com
 myroitracking.com
 myscoop-tracking.googlecode.com
 myseostats.com
@@ -3327,6 +3374,7 @@ mywebstats.com.au
 mywebstats.org
 n74s9.com
 naayna.com
+nabaza.com
 nablabee.com
 nahnoji.cz
 najsiejfnc.win
@@ -3365,6 +3413,7 @@ nedstatpro.net
 neki.org
 neocounter.neoworx-blog-tools.net
 nepohita.com
+ner-de-mi-nis-6.info
 nerfherdersolo.com
 nerohut.com
 nero.live
@@ -3398,6 +3447,8 @@ newsanalytics.com.au
 newscurve.com
 newstatscounter.info
 nexeps.com
+nexioniect.com
+nextbdom.ru
 nextstat.com
 nexttime.ovh
 nfwebminer.com
@@ -3409,6 +3460,9 @@ nicewii.com
 niematego.tk
 niftymaps.com
 nik.io
+nimiqpool.com
+nimiqtest.net
+nimiq.watch
 ninestats.com
 n.mailfire.io
 nm.newegg.com
@@ -3461,6 +3515,7 @@ offerpoint.net
 offerreality.com
 offers.keynote.com
 offerstrategy.com
+ogondkskyahxa.ru
 ogrid.org
 ogt.jp
 ogxatekkyzr.com
@@ -3479,6 +3534,7 @@ omeda.com
 ometria.com
 omguk.com
 omiki.com
+omine.org
 omkt.co
 omniconvert.com
 omni.nine.com.au
@@ -3548,6 +3604,7 @@ overstat.com
 owlanalytics.io
 owldata.com
 oxidy.com
+oxwwoeukjispema.ru
 p0.raasnet.com
 p0y.cn
 p2poolmining.com
@@ -3823,6 +3880,7 @@ profilesnitch.com
 profiling.avandor.com
 profitshare.ro
 programmatic.cz
+proj2018.xyz
 projecthaile.com
 projectpoi.com
 projectsunblock.com
@@ -3932,6 +3990,7 @@ rainbow-uk.mythings.com
 rampanel.com
 rampmetrics.com
 ramp.purch.com
+rand.com.ru
 rank4all.eu
 rankchamp.de
 rank-hits.com
@@ -3979,6 +4038,7 @@ realtracking.ninja
 realytics.io
 realzeit.io
 reasedoper.pw
+reauthenticator.com
 reco.hardsextube.com
 recommendation.24.com
 recoset.com
@@ -4139,6 +4199,7 @@ rumpelstiltskinhead.com
 ru.net
 runtnc.net
 rutarget.ru
+ruvuryua.ru
 rva.outbrain.com
 rwt.reichelt.de
 rztrkr.com
@@ -4146,6 +4207,7 @@ s2.youtube.com
 s.360.cn
 s3s-main.net
 s3-tracking.synthasite.net.s3.amazonaws.com
+s7ven.com
 sa135.macworld.co.uk
 sa.bbc.com
 sa.bbc.co.uk
@@ -4250,6 +4312,7 @@ sendtraffic.com
 sense.dailymotion.com
 sensic.net
 sensor.org.ua
+sentemanactri.com
 seo-master.net
 seomonitor.ro
 seomoz.org
@@ -4260,10 +4323,12 @@ sepyra.com
 serating.ru
 serie-vostfr.com
 serious-partners.com
+serv1swork.com
 serv-ac.com
 servebom.com
 servedby.o2.co.uk
 servestats.com
+service4refresh.info
 service-stat.tbn.ru
 servicetick.com
 servinator.pw
@@ -4555,6 +4620,7 @@ sp.zanesvilletimesrecorder.com
 sqate.io
 s.qhupdate.com
 squidanalytics.com
+srcip.com
 s.renren.com
 srpx.net
 srt.pch.com
@@ -4592,6 +4658,7 @@ statcounters.info
 stat-counter.tass-online.ru
 statdb.pressflex.com
 stat.dealtime.com
+statdynamic.com
 stat.eagleplatform.com
 stat.easydate.biz
 stat.ed.cupidplc.com
@@ -4891,6 +4958,8 @@ storesurprise.com
 stormcontainertag.com
 stormiq.com
 storygize.net
+str1kee.com
+streamplay.to
 streamsend.com
 streamstats1.blinkx.com
 streem.com.au
@@ -4930,11 +4999,13 @@ surveyscout.com
 surveywall-api.survata.com
 surveywriter.com
 survicate.com
+svivqrhrh.ru
 s-vop.sundaysky.com
 svr-prc-01.com
 svtrd.com
 swcs.jp
 swfstats.com
+swiftmining.win
 swiss-counter.com
 swoopgrid.com
 sxtracking.com
@@ -5569,6 +5640,7 @@ truehits1.gits.net.th
 truehits3.gits.net.th
 truehits.in.th
 truehits.net
+truemine.org
 trugaze.io
 truoptik.com
 truthfulturn.com
@@ -5713,6 +5785,8 @@ v.emedia.cn
 vendri.io
 ventivmedia.com
 vepxl1.net
+verifier.live
+verifypow.com
 veritrol.com
 verresof.com
 vertical-leap.co.uk
@@ -5797,6 +5871,7 @@ voodooalerts.com
 voss.collegehumor.com
 votistics.com
 vppst.iltrovatore.it
+vpzccwpyilvoyg.ru
 vra.outbrain.com
 vrp.outbrain.com
 vrt.outbrain.com
@@ -5810,6 +5885,7 @@ vtrtl.de
 vunetotbe.com
 vuryua.ru
 vzhjnorkudcxbiy.com
+vzzexalcirfgrf.ru
 w3counter.com
 w88.espn.com
 w88.m.espn.go.com
@@ -5827,6 +5903,7 @@ wa.ui-portal.de
 waust.at
 way2traffic.com
 wbdds.allocine.fr
+wbmwss.beetv.net
 wbtrk.net
 wcfbc.net
 wcs.naver.com
@@ -5966,6 +6043,9 @@ wisetrack.net
 wishloop.com
 witthethim.com
 wl.jd.com
+wmemsnhgldd.ru
+wmtech.website
+wmwmwwfmkvucbln.ru
 wonder-ma.com
 woopra.com
 woopra-ns.com
@@ -5981,6 +6061,7 @@ wp-stat.s3.amazonaws.com
 wp-stats.com
 wredint.com
 wrmwb.7val.com
+wrxgandsfcz.ru
 wsb.aracert.com
 wsp.marketgid.com
 wstatslive.com
@@ -6076,6 +6157,7 @@ zaehler.tv
 zampda.net
 zanox-affiliate.de
 zarget.com
+zavzlen.ru
 zdbb.net
 zdlogs.sphereup.com
 zdtag.com
@@ -6089,6 +6171,7 @@ zesep.com
 zhihu-web-analytics.zhihu.com
 zipstat.dk
 zirve100.com
+ziykrgc.ru
 ziyu.net
 zlx.com.br
 zminer.zaloapp.com
@@ -6107,3 +6190,5 @@ ztcadx.com
 zt-dst.com
 ztsrv.com
 zvsuhljiha-a.akamaihd.net
+zymerget.stream
+zymerget.win
