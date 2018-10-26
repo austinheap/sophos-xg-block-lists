@@ -333,6 +333,7 @@ adsafeprotected.com
 ads.affiliates.match.com
 ads.affiliates-spinit.com
 ads.ak.facebook.com.edgesuite.net
+ads.allvatar.com
 ads.alt.com
 ads.amdmb.com
 ads.amigos.com
@@ -414,7 +415,6 @@ ads.digital-digest.com
 ads.digitalmedianet.com
 ads.digitalpoint.com
 ads.directionsmag.com
-adsdk.com
 ads.domain.com
 ads.domeus.com
 ads.eagletribune.com
@@ -490,7 +490,6 @@ adserving.unibet.com
 ads.eu.msn.com
 ads.exactdrive.com
 ads.expat-blog.biz
-ads.expedia.com
 ad.seznam.cz
 adsfac.eu
 adsfac.net
@@ -632,7 +631,6 @@ ads.okcimg.com
 adsoldier.com
 ads.ole.com
 ads.olivebrandresponse.com
-adsonar.com
 ads.oneplace.com
 ads.optusnet.com.au
 ad-souk.com
@@ -882,6 +880,7 @@ affiliation-france.com
 affili.net
 afftracking.justanswer.com
 afterview.ru
+agreemand.com
 ahalogy.com
 ah-ha.com
 aidu-ads.de
@@ -896,7 +895,6 @@ all4spy.com
 alladvantage.com
 allosponsor.com
 alphonso.tv
-amazingcounters.com
 amazon-adsystem.com
 ambitiousagreement.com
 americash.com
@@ -911,7 +909,6 @@ analytics.newsinc.com
 analytics.yahoo.com
 anm.intelli-direct.com
 annonser.dagbladet.no
-an.tacoda.net
 anxiousapples.com
 api.intensifier.de
 app-analytics.snapchat.com
@@ -1155,6 +1152,7 @@ cherrythread.com
 chiefcurrent.com
 chitika.net
 ch.questionmarket.com
+christingel.com
 cityads.telus.net
 cjbmanagement.com
 cj.com
@@ -1278,6 +1276,7 @@ crazypopups.com
 creafi-online-media.com
 creatives.as4x.tmcs.net
 creatives.livejasmin.com
+credishe.com
 criteo.com
 critictruck.com
 croissed.info
@@ -1370,6 +1369,7 @@ elasticchange.com
 elephantqueue.com
 elitedollars.com
 elitetoplist.com
+elthamely.com
 emarketer.com
 emediate.dk
 emediate.eu
@@ -1416,6 +1416,7 @@ exogripper.com
 exosrv.com
 experteerads.com
 exponea.com
+exponential.com
 express-submit.de
 extractorandburner.com
 extreme-dm.com
@@ -1437,6 +1438,7 @@ feedjit.com
 ffxcam.fairfax.com.au
 fimserve.com
 findcommerce.com
+findepended.com
 findyourcasino.com
 fineclicks.com
 firstlightera.com
@@ -1629,7 +1631,6 @@ ipro.com
 ireklama.cz
 itfarm.com
 itop.cz
-itsptp.com
 its-that-easy.com
 ivwbox.de
 ivykiosk.com
@@ -1672,7 +1673,6 @@ lfstmedia.com
 liftdna.com
 ligatus.com
 ligatus.de
-lightningcast.net
 lightspeedcash.com
 lijit.com
 limpingline.com
@@ -1708,6 +1708,7 @@ lp3tdqle.com
 lucidmedia.com
 lucklayed.info
 lumpyleaf.com
+lwfjd.today
 lytics.io
 lzjl.com
 m1.webstats4u.com
@@ -1790,6 +1791,7 @@ mmtro.com
 moatads.com
 mobclix.com
 mobileiconnect.com
+moggattice.com
 monetate.net
 moneyexpert.com
 monsterpops.com
@@ -1987,6 +1989,7 @@ plista.com
 plugrush.com
 pointroll.com
 popads.net
+popflawlessads.com
 popmyads.com
 popub.com
 pop-under.ru
@@ -2036,7 +2039,6 @@ provideplant.com
 prsitecheck.com
 pr-star.de
 ps7894.com
-psstt.com
 pub.chez.com
 pub.club-internet.fr
 pubdirecte.com
@@ -2058,7 +2060,6 @@ quantummetric.com
 quarterserver.de
 questaffiliates.net
 quicksandear.com
-quigo.com
 quinst.com
 quisma.com
 radar.cedexis.com
@@ -2222,6 +2223,7 @@ sneaklevel.com
 sneakystamp.com
 snoobi.com
 socialspark.com
+softclick.com.br
 somniture.stuff.co.nz
 sonobi.com
 sortable.com
@@ -2306,7 +2308,6 @@ switchadhub.com
 switchads.com
 swordfishdc.com
 taboola.com
-tacoda.net
 tagular.com
 tailsweep.com
 tailsweep.se
@@ -2355,6 +2356,7 @@ tns-counter.ru
 tntclix.co.uk
 top100-images.rambler.ru
 top100.mafia.ru
+top123.ro
 top20free.com
 top90.ro
 topbarh.box.sk
@@ -2430,6 +2432,7 @@ trekblue.com
 trekdata.com
 trendcounter.com
 trendmd.com
+tribalfusion.com
 trickycelery.com
 tritetongue.com
 trix.net
@@ -2462,7 +2465,6 @@ usapromotravel.com
 useriq.com
 userreplay.com
 userreplay.net
-utarget.co.uk
 utils.mediageneral.net
 v1.cnzz.com
 validclick.com
