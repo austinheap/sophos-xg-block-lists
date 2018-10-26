@@ -1550,7 +1550,6 @@ d2ry9vue95px0b.cloudfront.net
 d2so4705rl485y.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
-d2wzl9lnvjz3bh.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d3135glefggiep.cloudfront.net
@@ -1768,6 +1767,7 @@ dti-ranker.com
 dtscout.com
 dt.sellpoint.net
 dtxngr.com
+du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
 dufue2m4sondk.cloudfront.net
 dugroscaca.com
@@ -1834,6 +1834,7 @@ efatik.me
 e.funnymel.com
 ejyymghi.com
 e-kaiseki.com
+ekg.riotgames.com
 ekmpinpoint.com
 ekmpinpoint.co.uk
 e-kuzbass.ru
@@ -1881,6 +1882,7 @@ e-pagerank.net
 eperfectdata.com
 epilot.com
 epiodata.com
+episerver.net
 epitrack.com
 epl.paypal-communication.com
 eproof.com
@@ -2614,8 +2616,6 @@ ininmacerad.pro
 innomdc.com
 innovateads.com
 inphonic.com
-inpref.com
-inpref.s3.amazonaws.com
 inpwrd.com
 inquiries.redhat.com
 insdrbot.com
@@ -4415,6 +4415,7 @@ skyglue.com
 skylog.kz
 sl-ct5.com
 slingpic.com
+slipstream.skyscanner.net
 slogantrend.de
 smadex.com
 smallseotools.com
@@ -4708,6 +4709,7 @@ stat.novinky.cz
 stat.nyheter24.se
 statowl.com
 stat.php-d.com
+statpipe.ru
 stat.pl
 stat.pladform.ru
 stat.ppstream.com
@@ -6136,6 +6138,7 @@ yieldsoftware.com
 yigao.com
 yjtag.jp
 yjtag.yahoo.co.jp
+yldr.io
 ymetrica1.com
 ynuf.alibaba.com
 yololike.space
