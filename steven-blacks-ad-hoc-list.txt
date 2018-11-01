@@ -431,6 +431,7 @@ forums.adspaces.ero-advertising.com
 forums.data2.ero-advertising.com
 forums.ero-advertising.com
 fpa.ero-advertising.com
+fp-analytics.hotstar.com
 gamblerush.com
 gata.ero-advertising.com
 geofence.sys.miui.com
@@ -448,6 +449,7 @@ gtsdk.batmobi.net
 gum.criteo.com
 gurgle.zdbb.net
 hata.ero-advertising.com
+hb-analytics.hotstar.com
 honolulu.alphonso.tv
 hosted.stats.com
 hosted.stats.com.edgesuite.net
