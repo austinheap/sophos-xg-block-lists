@@ -87,7 +87,6 @@ ad.abum.com
 adaction.de
 ad.admitad.com
 adadvisor.net
-ad.afy11.net
 ad.allstar.cz
 ad.altervista.org
 ad.amgdgt.com
@@ -250,7 +249,6 @@ adnet.asahi.com
 adnet.biz
 adnet.de
 adnetinteractive.com
-adnet-media.net
 adnet.ru
 adnetwork.net
 adnetworkperformance.com
@@ -692,7 +690,6 @@ ads.shizmoo.com
 ads.shopstyle.com
 ads.sift.co.uk
 ads.silverdisc.co.uk
-ads.slim.com
 ads.smartclick.com
 ads.socialtheater.com
 ads.soft32.com
@@ -2004,7 +2001,6 @@ mytrafficads.com
 mzbcdn.net
 n69.com
 naj.sk
-namimedia.com
 nastydollars.com
 nativeroll.tv
 navigator.io
@@ -2665,7 +2661,6 @@ toplist.cz
 toplist.pornhost.com
 top.list.ru
 top.mail.ru
-topping.com.ua
 top.proext.com
 toprebates.com
 topsafelist.net
