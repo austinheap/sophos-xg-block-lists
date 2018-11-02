@@ -1019,6 +1019,7 @@ cgicounter.oneandone.co.uk
 cgicounter.onlinehome.de
 cgicounter.puretec.de
 cgi.tbs.co.jp
+cguru.ga
 chainblock.science
 chanalytics.merchantadvantage.com
 chardneave.info
@@ -1689,7 +1690,6 @@ digitaloptout.com
 digitaltarget.ru
 digitru.st
 dignow.org
-dig.ultimedia.com
 dimestore.com
 dimml.io
 dinkstat.com
