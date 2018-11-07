@@ -1501,6 +1501,7 @@ customerconversio.com
 customerdiscoverytrack.com
 customer.io
 cux.io
+cvtr.io
 c-webstats.de
 c.wen.ru
 c.wort-suche.com
@@ -1543,6 +1544,7 @@ d1z2jf7jlzjs58.cloudfront.net
 d21o24qxwf7uku.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
+d23pi6hvdpcc5i.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
@@ -3465,6 +3467,7 @@ nicewii.com
 niematego.tk
 niftymaps.com
 nik.io
+nile.works
 nimiqpool.com
 nimiqtest.net
 nimiq.watch
@@ -5767,6 +5770,7 @@ userreplay.net
 userreport.com
 users.51.la
 users-api.com
+usersegment.wpdigital.net
 usmetric.rediff.com
 usuarios-online.com
 utrack.hexun.com
