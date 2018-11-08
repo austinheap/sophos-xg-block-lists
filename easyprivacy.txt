@@ -2951,6 +2951,7 @@ logdy.com
 log.flight.qunar.com
 logger.co.kr
 logger.dailymotion.com
+logger.kataweb.it
 logger.logidea.info
 logger.nerdwallet.com
 logger.rm.uol.com.br
