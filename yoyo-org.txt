@@ -1,5 +1,6 @@
 101com.com
 101order.com
+123found.com
 123freeavatars.com
 180hits.de
 180searchassistant.com
@@ -719,7 +720,6 @@ ads.tripod.lycos.de
 ads.tripod.lycos.es
 ads.tripod.lycos.it
 ads.tripod.lycos.nl
-ads.tripod.spray.se
 ads-trk.vidible.tv
 ads.tso.dennisnet.co.uk
 ads.twitter.com
@@ -729,7 +729,6 @@ ads.uncrate.com
 ads.undertone.com
 adsupply.com
 ads.usatoday.com
-ads.v3.com
 ads.verticalresponse.com
 ads.vgchartz.com
 ads.videosz.com
@@ -1726,7 +1725,6 @@ illustriousoatmeal.com
 imageads.canoe.ca
 imagecash.net
 images-pw.secureserver.net
-images.v3.com
 imarketservices.com
 img.prohardver.hu
 imgpromo.easyrencontre.com
@@ -2681,7 +2679,6 @@ track.adform.net
 trackalyzer.com
 track.anchorfree.com
 track.contently.com
-track.dating-4-you.com
 trackedlink.net
 trackedweb.net
 tracker.icerocket.com

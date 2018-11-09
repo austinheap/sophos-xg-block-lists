@@ -194,7 +194,6 @@ gramombird.com
 gridiogrid.com
 gustaver.ddns.net
 hallaert.online
-happy-davinci-53144f.netlify.com
 hashing.win
 hatcalter.com
 hegrinhar.com
@@ -284,7 +283,6 @@ niematego.tk
 noblock.pro
 node.cfcdist.gdn
 npcdn1.now.sh
-objective-wright-961fed.netlify.com
 ocean2.authcaptcha.com
 oei1.gq
 offerreality.com
