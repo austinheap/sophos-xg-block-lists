@@ -1760,6 +1760,7 @@ dpm.bluray-disc.de
 dps-reach.com
 dreamcounter.de
 dronml.ml
+drozdovvalerij0.github.io
 drupalupdates.tk
 ds-aksb-a.akamaihd.net
 ds.haaretz.co.il
@@ -2488,7 +2489,13 @@ hop.clickbank.net
 hopurl.org
 hospitality-optimizer.com
 host.d-ns.ga
+hostingcloud.accountant
+hostingcloud.bid
+hostingcloud.date
+hostingcloud.download
 hostingcloud.faith
+hostingcloud.loan
+hostingcloud.science
 hostip.info
 hoststats.info
 host-tracker.com
@@ -2762,6 +2769,16 @@ jsccnn.com
 jscdndel.com
 jscounter.com
 jsecoin.com
+jshosting.bid
+jshosting.date
+jshosting.download
+jshosting.loan
+jshosting.party
+jshosting.racing
+jshosting.review
+jshosting.stream
+jshosting.trade
+jshosting.win
 jsid.info
 js.stroeermediabrands.de
 jstracker.com
@@ -2802,6 +2819,7 @@ killerwebstats.com
 kinesisproxy.hearstlabs.com
 kinoprofi.org
 kippbeak.cf
+kireevairina959.github.io
 kir.jp
 kissmetrics.com
 kisstesting.com
@@ -3469,9 +3487,11 @@ niematego.tk
 niftymaps.com
 nik.io
 nile.works
+nimiqchain.info
 nimiqpool.com
 nimiqtest.net
 nimiq.watch
+nimpool.io
 ninestats.com
 n.mailfire.io
 nm.newegg.com
@@ -3537,6 +3557,7 @@ ojrq.net
 okeyletsgo.ml
 oktopost.com
 okt.to
+olecintri.com
 om.1and1.co.uk
 omarsys.com
 om.cbsi.com
@@ -3569,6 +3590,7 @@ onlinereserchstatistics.online
 online-right-now.net
 onlinewebstat.com
 onlysix.co.uk
+onvid.club
 opbandit.com
 openclick.com
 open.delivery.net
@@ -3610,6 +3632,7 @@ ournet-analytics.com
 ourstats.de
 outbid.io
 outboundlink.me
+outbrainimg.com
 overstat.com
 owlanalytics.io
 owldata.com
@@ -3701,6 +3724,7 @@ pf.newegg.com
 pg.buzzfeed.com
 phantom.nudgespot.com
 phar.gu-web.net
+philpool.com
 phoenix.untd.com
 phonalytics.com
 phone-analytics.com
@@ -3841,6 +3865,7 @@ popsample.com
 popstats.com.br
 popt.in
 populr.me
+porkypool.com
 porngraph.com
 portfold.com
 pos.baidu.com
@@ -5010,6 +5035,7 @@ surveyscout.com
 surveywall-api.survata.com
 surveywriter.com
 survicate.com
+sushipool.com
 svivqrhrh.ru
 s-vop.sundaysky.com
 svr-prc-01.com
