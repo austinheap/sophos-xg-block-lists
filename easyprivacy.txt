@@ -2681,6 +2681,7 @@ invoca.solutions
 invoc.us
 iocnt.net
 iogous.com
+iolam.it
 ip2location.com
 ip2map.com
 ip2phrase.com
