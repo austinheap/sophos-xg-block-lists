@@ -8944,6 +8944,7 @@ popups.afftrack001.com
 popups.infostart.com
 popup.softreklam.com
 popup.taboola.com
+pornstargals.com
 pos.baidu.com
 posed2shade.com
 postbox.mos.ru
@@ -9682,6 +9683,7 @@ secimage.adtech.us
 secondchancecoaching.com
 secretlanguage.co
 secret.ɢoogle.com
+secret.xn--oogle-wmc.com
 secserv.adtech.de
 secserv.adtech.fr
 secserv.adtech.us
