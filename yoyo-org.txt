@@ -365,6 +365,7 @@ adsatt.espn.go.com
 adsatt.espn.starwave.com
 Adsatt.go.starwave.com
 ads.avazu.net
+ads.batpmturner.com
 ads.belointeractive.com
 ads.berlinonline.de
 ads.betanews.com
@@ -523,7 +524,6 @@ ads.forium.de
 ads.fortunecity.com
 ads.fotosidan.se
 ads.foxnetworks.com
-ads.foxnews.com
 ads.freecity.de
 ads.friendfinder.com
 ads.ft.com
@@ -556,7 +556,6 @@ ads.hideyourarms.com
 ads.hollywood.com
 ads.horsehero.com
 ads.horyzon-media.com
-ads.iafrica.com
 ads.ibest.com.br
 ads.ibryte.com
 ads.icq.com
@@ -1219,7 +1218,6 @@ claria.com
 class-act-clicks.com
 clearcomb.com
 click2freemoney.com
-click2paid.com
 clickability.com
 click.absoluteagency.com
 clickadz.com
@@ -1504,7 +1502,6 @@ euros4click.de
 eusta.de
 eventbeacon.ca
 evergage.com
-evidencecleanergold.com
 ewebcounter.com
 exchangead.com
 exchange.bg
@@ -1522,7 +1519,6 @@ experteerads.com
 exponea.com
 exponential.com
 express-submit.de
-extractorandburner.com
 extreme-dm.com
 extremetracking.com
 eyeblaster.com
@@ -2638,7 +2634,6 @@ thinkablerice.com
 thirdrespect.com
 thirstytwig.com
 threechurch.com
-thrnt.com
 throattrees.com
 thruport.com
 tia.timeinc.net
@@ -2669,6 +2664,7 @@ toplist.cz
 toplist.pornhost.com
 top.list.ru
 top.mail.ru
+topping.com.ua
 top.proext.com
 toprebates.com
 topsafelist.net
