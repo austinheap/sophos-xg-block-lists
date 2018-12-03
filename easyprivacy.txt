@@ -376,6 +376,7 @@ analytics.brandcrumb.com
 analytics.brave.com
 analytics.carambatv.ru
 analytics.carambo.la
+analytics-cdiscount.com
 analyticschecker.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
@@ -6097,7 +6098,6 @@ woopra-ns.com
 wordc.ga
 worker.salon.com
 worldlogger.com
-worldoftulo.com
 wos.lv
 wowanalytics.co.uk
 wpdstat.com
