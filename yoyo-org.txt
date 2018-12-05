@@ -1605,6 +1605,7 @@ geobanner.adultfriendfinder.com
 geo.digitalpoint.com
 geovisite.com
 getclicky.com
+getwisdom.io
 giddycoat.com
 globalismedia.com
 globaltakeoff.net
