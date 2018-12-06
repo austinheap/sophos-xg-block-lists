@@ -281,6 +281,7 @@ agillic.eu
 agilone.com
 agkn.com
 aheadday.com
+aicontents.net
 aid-ad.jp
 aidata.io
 ai.idg.se
@@ -1633,6 +1634,7 @@ dataxpand.com
 data.younow.com
 datvantage.com
 da.virginmedia.com
+dawin.tv
 daylife-analytics.com
 daylogs.com
 dc8na2hxrj29i.cloudfront.net
@@ -2972,6 +2974,7 @@ logaholic.com
 log.aimtell.com
 log.artipbox.net
 log.bitauto.com
+log.cizion.com
 logcounter.com
 log.data.disney.com
 log.deutschegrammophon.com
@@ -4002,6 +4005,7 @@ px.marchex.io
 px.owneriq.net
 px.reactrmod.com
 px.spiceworks.com
+px.staticfiles.at
 px.topspin.net
 pymx5.com
 p.yotpo.com
@@ -5468,6 +5472,7 @@ tracking.jotform.com
 tracking.kdata.fr
 tracking.keywee.co
 tracking.koego.com
+tracking.krone.at
 tracking.kurier.at
 trackinglabs.com
 tracking.ladies.de
