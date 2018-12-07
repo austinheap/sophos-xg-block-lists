@@ -323,6 +323,7 @@ amadesa.com
 amavalet.com
 amazingcounters.com
 ambercrow.com
+amcdn.vn
 amctp.net
 amhixwqagiz.ru
 amikay.com
@@ -1280,6 +1281,7 @@ contentsfeed.com
 contentspread.net
 content-square.net
 contentsquare.net
+contineljs.com
 continue.com
 control.cityofcairns.com
 convergetrack.com
@@ -2266,6 +2268,7 @@ geoservice.curse.com
 geo.theawesomer.com
 geo.xcel.io
 geo.yahoo.com
+getaim.info
 getbackstory.com
 getblueshift.com
 getconversion.net
@@ -4571,6 +4574,8 @@ speedtracker.de
 speed-trap.com
 speedtrap.shopdirect.com
 speed.wikia.net
+speee-ad.akamaized.net
+speee-ad.jp
 spelar.org
 sp.fdlreporter.com
 sp.floridatoday.com
@@ -5214,6 +5219,7 @@ tighting.info
 timeslogtn.timesnow.tv
 timestrends.indiatimes.com
 timestrends.timesnow.tv
+tinb.net
 tinglog.baidu.com
 tinycounter.com
 tinystat.ir
