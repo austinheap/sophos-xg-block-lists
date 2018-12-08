@@ -37,6 +37,7 @@
 2cnt.net
 2giga.download
 2ip.ua
+2iui01.com
 2parale.ro
 2performant.com
 300ca0d0.space
@@ -918,6 +919,7 @@ bulb.76.my
 bumlam.com
 bunchbox.co
 burstbeacon.com
+businessinsider-fr.businessinsider.fr
 business.sharedcount.com
 butcalve.com
 bux1le001.com
@@ -1736,6 +1738,7 @@ d-markets.net
 dmclick.cn
 dm.commentcamarche.net
 dmd53.com
+dm-event.net
 dm.hugolescargot.com
 dm.journaldesfemmes.com
 dm.journaldunet.com
@@ -2631,6 +2634,7 @@ influxer.onion.com
 infocollect.dk
 info.elba.at
 infopro-insight.com
+informers.sinoptik.ua
 informer.yandex.ru
 informz.net
 infostroy.nnov.ru
@@ -6247,6 +6251,7 @@ zirve100.com
 ziykrgc.ru
 ziyu.net
 zlx.com.br
+zmctrack.net
 zminer.zaloapp.com
 zndaowjdnf.stream
 zontera.com
