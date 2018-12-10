@@ -188,7 +188,6 @@ a.as-us.falkag.net
 aaukqiooaseseuke.org
 aax.amazon-adsystem.com
 aax-cpm.amazon-adsystem.com
-aax-eu.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
 ab.5.p2l.info
@@ -9562,7 +9561,6 @@ sa.jumptap.com
 salesforce.122.2o7.net
 salesforcecom.tt.omtrdc.net
 salzburg.oewabox.at
-s.amazon-adsystem.com
 samsclub33.pochta.ru
 samsung3.solution.weborama.fr
 sanalreklam.com
