@@ -5123,6 +5123,7 @@ tagger.opecloud.com
 tagifydiageo.com
 tag.leadplace.fr
 tagmanager.cn
+tagmngrs.com
 tag.myplay.com
 tags.cdn.circlesix.co
 tags.master-perf-tools.com

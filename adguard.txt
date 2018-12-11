@@ -2936,6 +2936,7 @@ analytics-tracker.thescore.com
 analytics.traidnt.net
 analytics.tribeca.vidavee.com
 analytics.twitter.com
+analytics-udg.netdna-ssl.com
 analytics.unister-gmbh.de
 analytics.upworthy.com
 analytics.urx.io
@@ -3351,6 +3352,7 @@ astree.be
 astro-way.com
 astrsk.net
 asuler.ru
+asumi.shinobi.jp
 asv.whatismyip.win
 aszdmbftkccdkj.com
 atadserver.com
@@ -5683,6 +5685,7 @@ colleable.info
 collect2.sas.com
 collect.albacross.com
 collect.data.tm-awx.com
+collecte.audience.acpm.fr
 collect.finanzen.net
 collect.igodigital.com
 collection.acromas.com
@@ -6497,6 +6500,7 @@ d23p9gffjvre9v.cloudfront.net
 d23pi6hvdpcc5i.cloudfront.net
 d240937yockcdo.cloudfront.net
 d24afgsm39csxt.cloudfront.net
+d24cze5sab2jwg.cloudfront.net
 d258hxk86e2ixw.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d269y12mnftu9c.cloudfront.net
@@ -9236,6 +9240,7 @@ genesismedia.com
 geniad.net
 genieedmp.com
 genieessp.com
+genieessp.jp
 genieesspv.jp
 geni.us
 geniusbanners.com
@@ -9775,6 +9780,7 @@ grt03.com
 grteab.com
 grubpbrmek.com
 grumpyadzen.com
+grumrt.com
 grxpaizsvdzw.com
 gsasd.info
 gscontxt.net
@@ -11036,6 +11042,7 @@ inphonic.com
 inpref.com
 inpref.s3.amazonaws.com
 inpwrd.com
+inrd.ru
 inrool.com
 insbrvwfrcgb.com
 insdrbot.com
@@ -12427,6 +12434,7 @@ ladbrokesaffiliates.com.au
 ladhyjqqgerr.com
 ladiesnadosuge.com
 ladnova.info
+ladsp.com
 ladyads.ru
 ladycash.ru
 ladyclicks.ru
@@ -12764,6 +12772,7 @@ link-smart.com
 linksmart.com
 linkstation.de
 linkstorm.net
+links.voyeurweb.com
 links-wm.ru
 linksynergy.com
 linktausch.li
@@ -12993,6 +13002,7 @@ logo-net.co.uk
 logoole.yahoo.co.jp
 log.optimizely.com
 log.outbrain.com
+log.outbrainimg.com
 logping.exblog.jp
 log.pinterest.com
 log-player.arte.tv
@@ -17691,6 +17701,7 @@ rcersu5g.party
 rcjthosmxldl.com
 rckxwyowygef.com
 rclmc.top
+rcm.shinobi.jp
 rcnkflgtxspr.com
 rcounter.rambler.ru
 r.cpa6.ru
@@ -19133,6 +19144,7 @@ sjqskcctmv.com
 sjsmartcontent.org
 sjtevvoviqhe.com
 sjustus.info
+sjv.io
 sk1n.fr
 sk5mb7b2.men
 sk8t.fr
@@ -20313,6 +20325,7 @@ sync.adotmob.com
 sync.mobojoy.baidu.com
 sync.morgdm.ru
 synconnector.com
+sync.shinobi.jp
 syndicatedsearchresults.com
 syndication.exoclick.com
 syndication.exosrv.com
@@ -20398,6 +20411,7 @@ tag.nifty.com
 tagon.co
 tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
 tags.bluekai.com
+tags.cdn.circlesix.co
 tagshost.com
 tags.master-perf-tools.com
 tags.newscgp.com
@@ -21827,6 +21841,7 @@ trk.vidible.tv
 trk.vindicosuite.com
 tr-metrics.loomia.com
 trmit.com
+tr.n2.hk
 trndoffers.com
 trobely.co
 trocado.at
@@ -22424,6 +22439,7 @@ us.b3018.pw
 usbanners.com
 uscvlpjeaggyq.com
 useads.com
+useg.nextdigital.com.hk
 useitbetter.com
 usekahuna.com
 uselayer.com
@@ -23993,6 +24009,7 @@ x.55peixun.com
 x5k0pyxd.cricket
 x5qa0pxy.science
 x8bhr.com
+x9.shinobi.jp
 xacexccntjbrht.com
 xa-counter.com
 xadcentral.com
