@@ -34,7 +34,6 @@
 82o9v830.com
 99count.com
 a135.wftv.com
-a32.g.a.yimg.com
 aaddzz.com
 a-ads.com
 a.aproductmsg.com
@@ -347,7 +346,6 @@ ads.affiliates.match.com
 ads.affiliates-spinit.com
 ads.ak.facebook.com.edgesuite.net
 ads.allvatar.com
-ads.alt.com
 ads.amdmb.com
 ads.amigos.com
 ads.aol.com
@@ -1207,7 +1205,6 @@ chickensstation.com
 chiefcurrent.com
 chinsnakes.com
 chitika.net
-ch.questionmarket.com
 christingel.com
 cityads.telus.net
 cjbmanagement.com
@@ -1218,7 +1215,6 @@ class-act-clicks.com
 clearcomb.com
 click2freemoney.com
 clickability.com
-click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1498,7 +1494,6 @@ etracker.de
 eu1.madsone.com
 eu-adcenter.net
 eurekster.com
-euroclick.com
 euros4click.de
 eusta.de
 eventbeacon.ca
@@ -2128,7 +2123,6 @@ pagerank4you.com
 pagerank-ranking.de
 pagerank-submitter.de
 pageranktop.com
-pagerank-united.de
 paleleaf.com
 paradoxfactor.com
 parchedangle.com
@@ -2181,7 +2175,6 @@ piquantpigs.com
 pixel.adsafeprotected.com
 pixel.condenastdigital.com
 pixel.digitru.st
-pixel.redditmedia.com
 pixel.sojern.com
 pixel.watch
 play4traffic.com
@@ -2290,7 +2283,6 @@ ranking-links.de
 ranking-liste.de
 rankingscout.com
 rank-master.com
-rank-master.de
 rankyou.com
 rapidcounter.com
 rapidkittens.com
@@ -2585,8 +2577,6 @@ supertop.ru
 surfmusik-adserver.de
 swan-swan-goose.com
 swimslope.com
-switchadhub.com
-switchads.com
 swordfishdc.com
 swordgoose.com
 taboola.com
@@ -2726,6 +2716,7 @@ trafic.ro
 traktrafficflow.com
 tranquilside.com
 travis.bosscasinos.com
+trekdata.com
 tremendoustime.com
 trendcounter.com
 trendmd.com
