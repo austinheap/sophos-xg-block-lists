@@ -1440,6 +1440,7 @@
 4h8p.adj.st
 4.hidemyass.com
 4imprint.glancecdn.net
+4info.com
 4inn.pl
 4j0lrl61.r.us-west-2.awstrack.me
 4jnzhl0d0.com
@@ -2955,7 +2956,6 @@ a3287.casalemedia.com
 a3288.casalemedia.com
 a3291.casalemedia.com
 a3295.casalemedia.com
-a32.g.a.yimg.com
 a3300.casalemedia.com
 a3301.casalemedia.com
 a3302.casalemedia.com
@@ -4582,6 +4582,7 @@ adgui.ace.advertising.com
 adhall.com
 ad.hankooki.com
 ad.harrenmedianetwork.com
+adhaven.com
 ad.hbv.de
 adhealers.com
 adhearus.com
@@ -10641,6 +10642,7 @@ apodir.oewabox.at
 apo.ero-advertising.com
 apolloadlv.hit.gemius.pl
 apollo.internal.glbs.keen.io
+apolloprogram.io
 apopt.hbmediapro.com
 aporg.112.2o7.net
 a.postrelease.com
@@ -13406,6 +13408,7 @@ blmcaptions.rt.cquotient.com
 blm.rt.cquotient.com
 blobar.org
 blobs.omnitagjs.com
+blockadblock.com
 blockchained.party
 blockchain.jsecoin.com
 blockchain.metaps.com
@@ -15264,6 +15267,7 @@ cdn.fyber.com
 cdn.geni.us
 cdn.getambassador.com
 cdn.getambassador.com.sandbox.getambassador.com
+cdn.getshogun.com
 cdn.getsmartcontent.com
 cdn-gl.imrworldwide.com
 cdn.go.arbo.bbelements.com
@@ -15901,7 +15905,6 @@ ch-orange.netmng.com
 chosencourse.leadpages.co
 chosun-d.openx.net
 choueiri.adswizz.com
-ch.questionmarket.com
 chrchrobinsoncom09.122.2o7.net
 chris-jasnowidz.pl
 christianbroadcastne-mkt-prod1-t.campaign.adobe.com
@@ -16158,7 +16161,6 @@ click3.rbc.magna.ru
 click4.rbc.magna.ru
 click.a-ads.com
 clickability.com
-click.absoluteagency.com
 click.adbiq.com
 clickad.eo.pl
 click.adimmix.com
@@ -16825,6 +16827,7 @@ coffeehausblog.com
 coffeol.com
 cogivea.com
 co-gmtdmp.mookie1.com
+cognitiv.ai
 cognitiv.us-east-1.stinger-ad.bidr.io
 cohorts.appsflyer.com
 coihive.com
@@ -17512,6 +17515,7 @@ conversation.api.driftt.com
 conversation.dev.api.driftt.com
 conversion.7search.com
 conversion.ace.advertising.com
+conversionbet.com
 conversion-pixel.invitemedia.com
 conversionruler.com
 conversions.adaptv.advertising.com
@@ -17587,6 +17591,7 @@ cooper.logs.roku.com
 coop-gamers.ru
 coordinatedcub.com
 coordino.com
+cooster.ru
 copa.qualtrics.com
 copblock.org
 cope.it
@@ -20755,6 +20760,7 @@ dsp.videostat.comdsp.videostat.com
 dsp.xapads.com
 ds.serving-sys.com
 d.sspcash.adxcore.com
+dstillery.com
 ds-ui-mockups.dev.gumgum.com
 dsum.casalemedia.com
 dsum-sec.casalemedia.com
@@ -22339,7 +22345,6 @@ eurekster.com
 eurico.org
 euroad1.advantage.as
 euroagd.net
-euroclick.com
 eurogamer.monetizer101.com
 euronews-ams.gscontxt.net
 euronewsgroup.demdex.net
@@ -28774,6 +28779,7 @@ iqdigital.demdex.net
 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 iq.doubleverify.com
 i.qitrck.com
+iqm.com
 iqoption.com
 iqoption.pro
 iqreport.adtech.de
@@ -37875,7 +37881,6 @@ pagerank-ranking.de
 pagerank.scambiositi.com
 pagerank-submitter.de
 pageranktop.com
-pagerank-united.de
 pagerduty-bot.corp.mixpanel.com
 pager.site50.net
 pages2.marketo.com
@@ -38946,7 +38951,6 @@ pixel.newscgp.com
 pixel.newscred.com
 pixel---nj-ads.lfstmedia.com
 pixel-nl--de-ads.lfstmedia.com
-pixel.nymag.com
 pixel.onaudience.com
 pixel.optimalq.net
 pixel-origin.mathtag.com
@@ -41459,7 +41463,6 @@ ranking-links.de
 ranking-liste.de
 rankingscout.com
 rank-master.com
-rank-master.de
 rankmytattoos.us.intellitxt.com
 ranksays.com
 ranks.boardtracker.com
@@ -45544,6 +45547,7 @@ showup-tv.com.pl
 shredder.adwyze.com
 shrek.6.cn
 shrink-service.it
+shutterfly.com.ssl.sc.omtrdc.net
 shutterflycom.tt.omtrdc.net
 shutterfly.demdex.net
 shutterfly.narvar.com
@@ -48726,8 +48730,6 @@ switch5.hitbox.com
 switch6.hitbox.com
 switch8.hitbox.com
 switch9.hitbox.com
-switchadhub.com
-switchads.com
 switch.atdmt.com
 switchboard.mixpanel.com
 switch.d-agency.net
@@ -49876,6 +49878,7 @@ threadwatch.us.intellitxt.com
 threechurch.com
 three-jj.github.io
 throattrees.com
+throtle.io
 throttled.api.test.appsee.com
 thruk.svc.insnw.net
 thruport.com
@@ -51295,6 +51298,7 @@ trc.taboolasyndication.com
 tr.de.adlink.net
 treasuredata.com
 treavelocity.com
+trekdata.com
 trekmedia.net
 trekweb.us.intellitxt.com
 trello.intercom.io
@@ -53120,6 +53124,7 @@ verresof.com
 versionsupport.set2updatenowsafesystemset4now.info
 versionsupport.thebig-centeralplacecontentgreat.date
 vertadnet.com
+verticalmass.com
 verticals.marketolive.com
 vertical-stats.huffpost.com
 vertoz.fs.ak-is.net
@@ -54326,6 +54331,7 @@ webnetra.entelnet.bo
 web.nyc.ads.juno.co
 web-olymp.ru
 web-online.pl
+weborama.com
 weborama.fr
 webordermanager.com
 weborg.hut1.ru
