@@ -3168,6 +3168,9 @@ mb-srv.com
 mbsy.co
 mbww.com
 mcs.delvenetworks.com
+mc.webvisor.com
+mc.webvisor.org
+mc.webvisor.ru
 md-ia.info
 mdotlabs.com
 measure.ameblo.jp
@@ -3299,6 +3302,7 @@ mmm.theweek.co.uk
 mmpool.org
 mmpstats.mirror-image.com
 mms.al.com
+mms.blick.ch
 mms.cbslocal.com
 mms.cleveland.com
 mms.cnn.com
@@ -4249,6 +4253,7 @@ roivista.com
 rok.com.com
 roll.bankofamerica.com
 rollingcounters.com
+roosterfirework.com
 r.orange.fr
 royalcount.de
 rpdtrk.com
@@ -4770,6 +4775,7 @@ statistics.crowdynews.com
 statistics.infowap.info
 statistics.klicktel.de
 statistics.m0lxcdn.kukuplay.com
+statistics.raiffeisen.ch
 statistics.rbi-nl.com
 statistics.riskommunal.net
 statistics.ro
@@ -4828,6 +4834,7 @@ stats.aplus.com
 stats.articlesbase.com
 stats.asp24.pl
 stats.autohome.com.cn
+stats.autoscout24.ch
 stats.av.de
 stats.avg.com
 stats.bbc.co.uk
@@ -5162,6 +5169,7 @@ target.mixi.media
 target.smi2.net
 target.smi2.ru
 target.ukr.net
+ta.sanook.com
 tausch-link.de
 t.beopinion.com
 tbe.tom.ru
@@ -5359,6 +5367,7 @@ trackalyzer.com
 track.atgstores.com
 track.bannedcelebs.com
 trackbar.info
+track.bernerzeitung.ch
 track.bluecompany.cl
 track.briskfile.com
 track.byzon.swelen.net
@@ -5376,6 +5385,7 @@ trackconsole.com
 track.contently.com
 track.cooster.ru
 track.cordial.io
+track.derbund.ch
 track.dictionary.com
 track.did-it.com
 track.digitalriver.com
@@ -5779,6 +5789,7 @@ tunnl.com
 turnsocial.com
 t.vimeo.com
 t.wayfair.com
+twch.20min.ch
 twcount.com
 tw.i.hulu.com
 twopointo.io
@@ -5991,6 +6002,7 @@ vtracking.in.com
 vtrtl.de
 vunetotbe.com
 vuryua.ru
+vv.ricardo.ch
 vzhjnorkudcxbiy.com
 vzzexalcirfgrf.ru
 w3counter.com
