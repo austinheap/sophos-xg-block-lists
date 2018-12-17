@@ -102,6 +102,7 @@ cdn-jquery.host
 cdn.jquery-uim.download
 cdnjs.cloudflane.com
 cdn.minescripts.info
+cdn.nimiq.com
 cdn.static-cnt.bid
 cdn.streambeam.io
 cfcdist.gdn
@@ -248,6 +249,7 @@ minerad.com
 minercry.pt
 miner.cryptobara.com
 miner.nablabee.com
+miner.nimiq.com
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
@@ -280,6 +282,7 @@ new.minr.pw
 nexttime.ovh
 nfwebminer.com
 niematego.tk
+nimiq.com
 noblock.pro
 node.cfcdist.gdn
 npcdn1.now.sh
