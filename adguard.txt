@@ -3106,6 +3106,7 @@ api.gameofwhales.com
 api.gimbal.com
 api.instabug.com
 api.inwemo.com
+api.ipify.org
 api-keks.com
 api.kiip.me
 api.leadbolt.net
@@ -22204,6 +22205,7 @@ ueosdjscxucj.com
 ueptzgugtxis.com
 uerhhgezdrdi.com
 uerladwdpkge.com
+uescuqejoirsh.com
 uetqkude.com
 ueuerea.com
 uewejiuqwqx.com

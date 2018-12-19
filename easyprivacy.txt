@@ -921,7 +921,6 @@ bulb.76.my
 bumlam.com
 bunchbox.co
 burstbeacon.com
-businessinsider-fr.businessinsider.fr
 business.sharedcount.com
 butcalve.com
 bux1le001.com
@@ -1988,6 +1987,7 @@ events.air.tv
 events.antenna.is
 events.apester.com
 events.bounceexchange.com
+events.ingatlan.com
 events.izooto.com
 events.jora.com
 events.jotform.com
@@ -3302,7 +3302,6 @@ mmm.theweek.co.uk
 mmpool.org
 mmpstats.mirror-image.com
 mms.al.com
-mms.blick.ch
 mms.cbslocal.com
 mms.cleveland.com
 mms.cnn.com
@@ -3670,6 +3669,7 @@ otoshiana.com
 otracking.com
 ournet-analytics.com
 ourstats.de
+outal.origo.hu
 outbid.io
 outboundlink.me
 overstat.com
@@ -3679,6 +3679,7 @@ oxidy.com
 oxwwoeukjispema.ru
 p0.raasnet.com
 p0y.cn
+p24.hu
 p2poolmining.com
 p2poolmining.net
 p.adbrn.com
@@ -4223,6 +4224,7 @@ rightstats.com
 rineventrec.com
 rintindown.com
 rintinwa.com
+ripost.services
 ritecounter.com
 ritogaga.com
 ritzykey.com
@@ -4280,6 +4282,7 @@ rtrk.com
 rtrk.co.nz
 rtt.campanja.com
 rumanalytics.com
+rum.marquardmedia.hu
 rumpelstiltskinhead.com
 ru.net
 runtnc.net
@@ -5619,6 +5622,7 @@ tracks.arubamediamarketing.it
 track.sauce.ly
 track.searchignite.com
 track.securedvisit.com
+track-server-100.com
 trackset.com
 trackset.it
 track.shop2market.com
@@ -5790,7 +5794,6 @@ tunnl.com
 turnsocial.com
 t.vimeo.com
 t.wayfair.com
-twch.20min.ch
 twcount.com
 tw.i.hulu.com
 twopointo.io
