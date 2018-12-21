@@ -240,7 +240,6 @@ admex.com
 adm.fwmrm.net
 ad.mgd.de
 adminder.com
-ad-miner.com
 adminshop.com
 admized.com
 admob.com
@@ -281,7 +280,6 @@ ad.preferances.com
 adprofile.net
 ad.profiwin.de
 ad.prv.pl
-adq.nextag.com
 ad.rambler.ru
 adrazzi.com
 adreactor.com
@@ -348,6 +346,7 @@ ads.affiliates.match.com
 ads.affiliates-spinit.com
 ads.ak.facebook.com.edgesuite.net
 ads.allvatar.com
+ads.alt.com
 ads.amdmb.com
 ads.amigos.com
 ads.aol.com
@@ -810,7 +809,6 @@ advertmarket.com
 advertmedia.de
 advertpro.sitepoint.com
 advertpro.ya.com
-adverts.carltononline.com
 advertserve.com
 advertstream.com
 advertwizard.com
@@ -1113,7 +1111,6 @@ blockadblock.com
 blogads.com
 blogcounter.de
 blogherads.com
-blogrush.com
 blogtoplist.se
 blogtopsites.com
 blueadvertise.com
@@ -1222,6 +1219,7 @@ class-act-clicks.com
 clearcomb.com
 click2freemoney.com
 clickability.com
+click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1360,7 +1358,6 @@ crowdgravity.com
 crownclam.com
 crtv.mate1.com
 crwdcntrl.net
-ctnet2.in
 ctnetwork.hu
 cubics.com
 cumbersomecloud.com
@@ -2082,7 +2079,6 @@ oascentral.register.com
 oas.foxnews.com
 oas.repubblica.it
 oas.roanoke.com
-oas.salon.com
 oas.toronto.com
 oas.uniontrib.com
 oas.villagevoice.com
@@ -2916,6 +2912,7 @@ xxxmyself.com
 yab-adimages.s3.amazonaws.com
 yabuka.com
 yadro.ru
+yepads.com
 yesads.com
 yesadvertising.com
 y.ibsys.com
