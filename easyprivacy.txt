@@ -967,6 +967,7 @@ capture.condenastdigital.com
 capturemedia.network
 capturly.com
 carl.pubsvs.com
+carrotquest.io
 carts.guru
 cashbeet.com
 cashburners.com
@@ -1510,6 +1511,7 @@ curate.nestedmedia.com
 customerconversio.com
 customerdiscoverytrack.com
 customer.io
+customerlabs.co
 cux.io
 cvtr.io
 c-webstats.de
@@ -2178,6 +2180,7 @@ freihit.de
 fremaks.net
 frescoerspica.com
 freshcounter.com
+freshmarketer.com
 freshplum.com
 freshrefresher.com
 fresh.techdirt.com
@@ -5599,6 +5602,7 @@ track.mailerlite.com
 track.mobicast.io
 track.mycliplister.com
 trackmytarget.com
+trackmyusers.com
 trackmyweb.net
 track.netzero.net
 track.ning.com
@@ -6239,6 +6243,7 @@ x-stat.de
 xtgreat.com
 x-traceur.com
 xtractor.no
+xtraffstat.com
 xtremline.com
 xvideosharing.site
 x.weather.com
