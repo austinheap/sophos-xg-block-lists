@@ -149,6 +149,7 @@ actnx.com
 acuityplatform.com
 acxiomapac.com
 acxiom-online.com
+ad5track.com
 ad7.bigmir.net
 ad7.com
 adabra.com
@@ -994,6 +995,7 @@ cdn1.pebx.pl
 cdn-analytics.ladmedia.fr
 cdn-analytics.pl
 cdnanalytics.xyz
+cdnbigdata.azureedge.net
 cdnfile.xyz
 cdn.hiido.cn
 cdn-jquery.host
@@ -1050,6 +1052,7 @@ christiantop1000.com
 christmalicious.com
 chrumedia.com
 chunk.bustle.com
+cifraclub.com.br
 c.imedia.cz
 cint.com
 c.ipaddress.com
@@ -1062,6 +1065,7 @@ claritytag.com
 clarium.global.ssl.fastly.net
 clck.yandex.com
 clc.stackoverflow.com
+clearsale.com.br
 clearviewstats.com
 cleveritics.com
 clevi.com
@@ -1989,6 +1993,7 @@ events.air.tv
 events.antenna.is
 events.apester.com
 events.bounceexchange.com
+events.chaordicsystems.com
 events.ingatlan.com
 events.izooto.com
 events.jora.com
@@ -3176,6 +3181,7 @@ mc.webvisor.org
 mc.webvisor.ru
 md-ia.info
 mdotlabs.com
+mdxapi.io
 measure.ameblo.jp
 measure.ly
 measuremap.com
@@ -3743,6 +3749,7 @@ pebed.dm.gg
 peerius.com
 peermapcontent.affino.com
 percentmobile.com
+percycle.com
 perfdrive.com
 perfiliate.com
 performanceanalyser.net
