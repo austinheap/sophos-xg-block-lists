@@ -4758,6 +4758,7 @@ dl.provesoftware.review
 dlvr.readserver.net
 dmn2.bjpeu.edu.cn
 dmp.vihub.ru
+dmxleo.dailymotion.com
 dnads.directnic.com
 dnps.com
 dnps.us.intellitxt.com
@@ -8713,6 +8714,7 @@ pd1.funnyhost.com
 pdns.nudt.edu.cn
 pe.5.p2l.info
 peaky.tags.yield-atx.com
+pebed.dm-event.net
 pei-ads.playboy.com
 pei-ads.thesmokingjacket.com
 penton.us.intellitxt.com
