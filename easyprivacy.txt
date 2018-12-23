@@ -9,7 +9,9 @@
 123compteur.com
 123count.com
 123-counter.de
+126.net
 12mnkys.com
+163yun.com
 168logger.com
 1beb2a44.space
 1-cl0ud.com
@@ -829,6 +831,7 @@ bizible.com
 bizo.com
 bizsolutions.strands.com
 bizspring.net
+bjcathay.com
 bjorksta.men
 bkvtrack.com
 blacktri-a.akamaihd.net
@@ -1372,6 +1375,7 @@ counter.packa2.cz
 counter-pagerank.de
 counter.pagesview.com
 counter.pax.com
+counter.people.cn
 counter.photopulse.ru
 counter.pixplug.in
 counter.powweb.com
@@ -1800,6 +1804,7 @@ du8783wkf05yr.cloudfront.net
 dufue2m4sondk.cloudfront.net
 dugroscaca.com
 dummy-domain-do-not-change.com
+dup.baidustatic.com
 durocount.com
 duu8lzqdm8tsz.cloudfront.net
 dv0.info
@@ -2546,6 +2551,7 @@ hs-analytics.net
 hsdn.org
 hstrck.com
 hub.com.pl
+hubpd.com
 hubrus.com
 hubvisor.io
 hudb.pl
@@ -2561,6 +2567,7 @@ hydesolo.tk
 hyfntrak.com
 hyperactivate.com
 hypestat.com
+hyrankhit.meldingcloud.com
 i2ad.jp
 i2i.jp
 i401xox.com
@@ -3001,6 +3008,7 @@ logaholic.com
 log.aimtell.com
 log.artipbox.net
 log.bitauto.com
+log.china.cn
 log.cizion.com
 logcounter.com
 log.data.disney.com
@@ -3048,6 +3056,7 @@ lognormal.net
 log.olark.com
 log.optimizely.com
 log.outbrain.com
+log.outbrainimg.com
 log.pinterest.com
 log.prezi.com
 log.r7.com
@@ -5338,6 +5347,7 @@ top.sec.uz
 topsem.com
 topsite.lv
 top.skyzone.ro
+topstat.cn
 topstat.com
 toptracker.ru
 top.wn.com
