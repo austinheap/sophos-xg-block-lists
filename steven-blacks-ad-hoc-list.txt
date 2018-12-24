@@ -296,6 +296,7 @@ blog.ero-advertising.com
 blog.intext.ero-advertising.com
 blog.roboinside.me
 breaksurvey.com
+browser.pipe.aria.microsoft.com
 btds.artplay.info
 btw.ero-advertising.com
 buzzclicks.com
