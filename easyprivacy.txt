@@ -9,7 +9,6 @@
 123compteur.com
 123count.com
 123-counter.de
-126.net
 12mnkys.com
 163yun.com
 168logger.com
@@ -3237,6 +3236,7 @@ metric-agent.i10c.net
 metric.inetcore.com
 metric.nwsource.com
 metrics.apartments.com
+metrics.api.drift.com
 metrics.aviasales.ru
 metrics.aws.sitepoint.com
 metrics.brightcove.com
@@ -3991,7 +3991,6 @@ prospecteye.com
 prostats.it
 provenpixel.com
 providence.voxmedia.com
-proxad.net
 proxypage.msn.com
 pr-rang.de
 prstats.postrelease.com
@@ -5422,6 +5421,7 @@ trackedweb.net
 track.engagesciences.com
 tracker2.apollo-mail.net
 tracker.advisable.pl
+tracker.affirm.com
 tracker.anandtech.com
 tracker-api.my.com
 trackerapi.truste.com
