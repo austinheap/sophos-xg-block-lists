@@ -59,6 +59,7 @@ actualdeals.com
 actuallysheep.com
 actuallysnake.com
 acuityads.com
+acuityplatform.com
 ad01.mediacorpsingapore.com
 ad0.bigmir.net
 ad.100.tbn.ru
@@ -408,6 +409,7 @@ ads.comeon.com
 ads.contactmusic.com
 ads.contentabc.com
 ads.contextweb.com
+ad-score.com
 adscpm.com
 ads.crakmedia.com
 ads.creativematch.com
@@ -888,6 +890,7 @@ affrh2014.com
 affrh2022.com
 afftracking.justanswer.com
 afterview.ru
+agkn.com
 agreeableprice.com
 agreeablestew.com
 agreemand.com
@@ -901,6 +904,7 @@ ak0gsh40.com
 aktrack.pubmatic.com
 alclick.com
 alenty.com
+alert.com.mt
 alexametrics.com
 alexa-sitestats.s3.amazonaws.com
 alipromo.com
@@ -1135,6 +1139,7 @@ box.anchorfree.net
 bpath.com
 braincash.com
 branch.io
+brand-display.com
 brandreachsys.com
 bridgetrack.com
 brightinfo.com
@@ -1183,6 +1188,7 @@ casinotreasure.com
 casterist.info
 cbanners.virtuagirlhd.com
 c.bigmir.net
+cbsi.com
 cdn.freefarcy.com
 cdn.onesignal.com
 cdn.segment.com
@@ -1216,6 +1222,7 @@ cjlog.com
 claria.com
 class-act-clicks.com
 clearcomb.com
+clevernt.com
 click2freemoney.com
 clickability.com
 click.absoluteagency.com
@@ -1387,6 +1394,7 @@ decisivedrawer.com
 decisiveducks.com
 decknetwork.net
 decoycreation.com
+deepintent.com
 defectivesun.com
 delegatediscussion.com
 delightdriving.com
@@ -1497,6 +1505,7 @@ entrecard.s3.amazonaws.com
 enviousthread.com
 e-planning.net
 eqads.com
+erne.co
 ero-advertising.com
 errortablet.com
 estat.com
@@ -1509,6 +1518,7 @@ eurekster.com
 euros4click.de
 eusta.de
 eventbeacon.ca
+everesttech.net
 evergage.com
 ewebcounter.com
 exchangead.com
@@ -1523,6 +1533,7 @@ exitfuel.com
 exoclick.com
 exogripper.com
 exosrv.com
+experianmarketingservices.digital
 experteerads.com
 exponea.com
 exponential.com
@@ -1786,6 +1797,7 @@ invitesugar.com
 ioam.de
 ip193.cn
 iperceptions.com
+ipredictive.com
 ip.ro
 ipro.com
 iqm.com
@@ -1808,6 +1820,7 @@ js.users.51.la
 juicyads.com
 jumptap.com
 justicejudo.com
+justpremium.com
 justrelevant.com
 kanoodle.com
 kargo.com
@@ -1844,6 +1857,7 @@ leaplunchroom.com
 lettucelimit.com
 levelrate.de
 lfstmedia.com
+liadm.com
 liftdna.com
 ligatus.com
 ligatus.de
@@ -1869,6 +1883,7 @@ liveadexchanger.com
 liveintent.com
 liverail.com
 lizardslaugh.com
+lkqd.com
 loading321.com
 log.btopenworld.com
 logger.snackly.co
@@ -1891,6 +1906,7 @@ lzjl.com
 m1.webstats4u.com
 m32.media
 m4n.nl
+m6r.eu
 mackeeperapp.mackeeper.com
 madclient.uimserv.net
 madisonavenue.com
@@ -1959,6 +1975,7 @@ metrics.foxnews.com
 metrics.govexec.com
 metrics.windowsitpro.com
 metrilo.com
+mfadsrvr.com
 mg2connext.com
 mgid.com
 microstatic.pl
@@ -1976,6 +1993,7 @@ mmismm.com
 mmstat.com
 mmtro.com
 moatads.com
+moatpixel.com
 mobclix.com
 mobileiconnect.com
 modifyeyes.com
@@ -1998,6 +2016,7 @@ mtrcs.samba.tv
 mtree.com
 musiccounter.ru
 muwmedia.com
+mxptint.net
 myaffiliateprogram.com
 mybestmv.com
 mybloglog.com
@@ -2014,6 +2033,7 @@ mystat.pl
 mysteriousmonth.com
 mytop-in.net
 mytrafficads.com
+myvisualiq.net
 mzbcdn.net
 n69.com
 naganoadigei.com
@@ -2024,6 +2044,7 @@ navigator.io
 navrcholu.cz
 nbjmp.com
 ncaudienceexchange.com
+ndnops.com
 ndparking.com
 nedstatbasic.net
 nedstat.com
@@ -2041,6 +2062,7 @@ netcommunities.com
 netdirect.nl
 net-filter.com
 netincap.com
+netmng.com
 netpool.netbookia.net
 netshelter.net
 neudesicmediagroup.com
@@ -2093,6 +2115,7 @@ olivebrandresponse.com
 omniscientspark.com
 omniture.com
 omtrdc.net
+onaudience.com
 onclasrv.com
 onclickads.net
 oneandonlynetwork.com
@@ -2235,6 +2258,7 @@ pro-advertising.com
 proext.com
 profero.com
 profitrumour.com
+programattik.com
 projectwonderful.com
 promo.badoink.com
 promobenef.com
@@ -2378,6 +2402,7 @@ rose.ixbt.com
 rotabanner.com
 roughroll.com
 roxr.net
+r.scoota.co
 rta.dailymail.co.uk
 rtbpop.com
 rtbpopd.com
@@ -2528,6 +2553,7 @@ spywords.com
 squeamishscarecrow.com
 squirrelhands.com
 srwww1.com
+stackadapt.com
 stakingscrew.com
 stakingslope.com
 standingnest.com
@@ -2572,6 +2598,7 @@ stickyadstv.com
 storesurprise.com
 stormyachiever.com
 stormysponge.com
+storygize.net
 stoveseashore.com
 straightnest.com
 straightschool.com
@@ -2621,6 +2648,7 @@ tcads.net
 tdxio.com
 teads.tv
 tealeaf.com
+tealiumiq.com
 techclicks.net
 tedioustooth.com
 teenrevenue.com
@@ -2772,6 +2800,7 @@ untd.com
 untidyquestion.com
 unusualtitle.com
 unwrittenspot.com
+urbanairship.com
 urlcash.net
 us.a1.yimg.com
 usapromotravel.com
@@ -2799,6 +2828,7 @@ veruta.com
 vervewireless.com
 vibrantmedia.com
 videoadex.com
+videoamp.com
 videoegg.com
 video-stats.video.google.com
 vidora.com
@@ -2813,11 +2843,13 @@ visualrevenue.com
 vmmpxl.com
 voicefive.com
 voicevegetable.com
+volvelle.tech
 vpon.com
 vrs.cz
 vs.tucows.com
 vtracy.de
 vungle.com
+w55c.net
 wa.and.co.uk
 wantmobi.bid
 warlog.ru
@@ -2934,6 +2966,7 @@ zantracker.com
 zbwp6ghm.com
 zealousfield.com
 zedo.com
+zemanta.com
 zencudo.co.uk
 zenkreka.com
 zenzuu.com
