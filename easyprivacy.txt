@@ -400,6 +400,7 @@ analytics.dol.gr
 analytics.dvidshub.net
 analytics.ecosia.org
 analytics-egain.com
+analytics.eip.telegraph.co.uk
 analytics-engine.net
 analyticsengine.s3.amazonaws.com
 analytics.epi.es
