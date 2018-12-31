@@ -93,6 +93,7 @@ a8ww.net
 aaa.aj5.info
 aa.avvo.com
 aaddzz.com
+aalbbh84.info
 aamsitecertifier.com
 aan.amazon.com
 aaxdetect.com
@@ -246,6 +247,18 @@ adxvip.com
 adyapper.com
 adzjzewsma.cf
 adzoe.de
+aeros01.tk
+aeros02.tk
+aeros03.tk
+aeros04.tk
+aeros05.tk
+aeros06.tk
+aeros07.tk
+aeros08.tk
+aeros09.tk
+aeros10.tk
+aeros11.tk
+aeros12.tk
 afairweb.com
 affilae.com
 affiliateedge.eu
@@ -642,6 +655,7 @@ audrte.com
 audsp.com
 audtd.com
 a.unanimis.co.uk
+authcaptcha.com
 authedmine.eu
 authorinsights.com
 autoaffiliatenetwork.com
@@ -703,6 +717,7 @@ basilic.netdna-cdn.com
 bat.adforum.com
 bat.bing.com
 bats.video.yahoo.com
+bauersagtnein.myeffect.net
 b-aws.aol.com
 b-aws.techcrunch.com
 baywttgdhe.download
@@ -782,6 +797,7 @@ benchtag2.co
 bench.uc.cn
 berateveng.ru
 berg-6-82.com
+besstahete.info
 bestcoinsignals.com
 besti.ga
 bestsecurepractice.com
@@ -999,6 +1015,8 @@ cdn-analytics.ladmedia.fr
 cdn-analytics.pl
 cdnanalytics.xyz
 cdnbigdata.azureedge.net
+cdn.cloudcoins.co
+cdn-code.host
 cdnfile.xyz
 cdn.hiido.cn
 cdn-jquery.host
@@ -1213,6 +1231,7 @@ coinhiveproxy.com
 coinhive-proxy.party
 coinlab.biz
 coinminerz.com
+coinminingonline.com
 coinnebula.com
 coinpirate.cf
 coinpot.co
@@ -1481,6 +1500,7 @@ crypto-coins.club
 crypto-coins.com
 crypto-coins.info
 crypto-coins-now.com
+crypto.csgocpu.com
 crypto-loot.com
 cryptoloot.pro
 cryptomine.pro
@@ -2103,6 +2123,7 @@ fge9vbrzwt.bid
 fiksu.com
 filament-stats.herokuapp.com
 filitrac.com
+filmoljupci.com
 fimg-resp.seznam.cz
 finalid.com
 finderlocator.com
@@ -2111,6 +2132,7 @@ fishhoo.com
 fitanalytics.com
 fixcounter.com
 flagcounter.com
+flags.es
 flakyfeast.com
 flare-analytics.com
 flashadengine.com
@@ -2157,10 +2179,6 @@ fqtag.com
 frailoffer.com
 fraudmetrix.cn
 freebloghitcounter.com
-freecontent.bid
-freecontent.loan
-freecontent.racing
-freecontent.win
 freecountercode.com
 free-counter.com
 free-counter.co.uk
@@ -2249,6 +2267,7 @@ genieedmp.com
 genieessp.jp
 genieesspv.jp
 geni.us
+geoapi.indiatimes.com
 geobar.ziffdavisinternational.com
 geobeacon.ign.com
 geobytes.com
@@ -2301,9 +2320,6 @@ getfreebl.com
 gets.faz.net
 getsmartlook.com
 getstatistics.se
-gettate.date
-gettate.faith
-gettate.racing
 gezaehlt.de
 gez.io
 gft2.de
@@ -2336,6 +2352,7 @@ gnezdo.ru
 gnpge.com
 gnrdomimplementation.com
 goaltraffic.com
+gobba.myeffect.net
 go.bestmobiworld.com
 go.bluewin.ch
 gocp.stroeermediabrands.de
@@ -2343,6 +2360,7 @@ godhat.com
 goingup.com
 goldoffer.online
 goldstats.com
+go.megabanners.cf
 goneviral.com
 goodcounter.org
 googleadservices.com
@@ -2526,12 +2544,6 @@ hopurl.org
 hospitality-optimizer.com
 host.d-ns.ga
 hostingcloud.accountant
-hostingcloud.bid
-hostingcloud.date
-hostingcloud.download
-hostingcloud.faith
-hostingcloud.loan
-hostingcloud.science
 hostip.info
 hoststats.info
 host-tracker.com
@@ -2551,6 +2563,7 @@ hsadspixel.net
 hs-analytics.net
 hsdn.org
 hstrck.com
+httpp.gdn
 hub.com.pl
 hubpd.com
 hubrus.com
@@ -2813,19 +2826,10 @@ jsccnn.com
 jscdndel.com
 jscounter.com
 jsecoin.com
-jshosting.bid
-jshosting.date
-jshosting.download
-jshosting.loan
-jshosting.party
-jshosting.racing
-jshosting.review
-jshosting.stream
-jshosting.trade
-jshosting.win
 jsid.info
 js.stroeermediabrands.de
 jstracker.com
+js.vidoza.net
 jumptime.com
 jump-time.net
 junopink.ml
@@ -2887,6 +2891,7 @@ k.streamrail.com
 ksyrium0014.com
 ktxtr.com
 kupona.de
+l2.io
 l33tsite.info
 l.5min.com
 ladsp.com
@@ -2980,6 +2985,7 @@ livehit.net
 live.philips.com
 liverank.org
 livesegmentservice.com
+livesession.io
 livestat.com
 livestats.fr
 livestats.kaltura.com
@@ -3145,6 +3151,7 @@ magnify360.com
 maik.ff-bt.net
 mailstat.us
 malictuiar.com
+m.anyfiles.ovh
 maploco.com
 mapmyuser.com
 marcycoin.org
@@ -3346,6 +3353,7 @@ mmstat.com
 mms.theroot.com
 mmtro.com
 mm.welt.de
+mm.zubovskaya-banya.ru
 mno.link
 mobalyzer.net
 mobylog.jp
@@ -3354,7 +3362,9 @@ modernus.is
 mokuz.ru
 mollnia.com
 momently.com
+moneone.ga
 monerise.com
+monero-miner.com
 monerominer.rocks
 moneromining.online
 moneroocean.stream
@@ -3362,6 +3372,7 @@ money-maker-default.info
 money-maker-script.info
 monitis.com
 monitus.net
+monkeyminer.net
 monkeytracker.cz
 montblanc.lenta.ru
 montblanc.rambler.ru
@@ -3441,6 +3452,7 @@ myregeneaf.com
 myroitracking.com
 myscoop-tracking.googlecode.com
 myseostats.com
+mysite.irkdsu.ru
 mysitetraffic.net
 mysocialpixel.com
 mystat.hu
@@ -3512,6 +3524,7 @@ netcounter.de
 netdebit-counter.de
 net-filter.com
 netflame.cc
+netflare.info
 netgraviton.net
 net.haier.com
 netinsight.co.kr
@@ -3547,6 +3560,7 @@ nik.io
 nile.works
 nil.naver.com
 nimiqchain.info
+nimiq.com
 nimiqpool.com
 nimiqtest.net
 nimiq.watch
@@ -3563,6 +3577,7 @@ noowho.com
 nordicresearch.com
 northclick-statistiken.de
 notifyvisitors.com
+notmining.org
 nova.dice.net
 novately.com
 nowinteract.com
@@ -3722,6 +3737,7 @@ pageview.goroost.com
 pagoda56.com
 paidstats.com
 pam.nextinpact.com
+pampopholf.com
 panelsave.com
 pa-oa.com
 papoto.com
@@ -3736,6 +3752,7 @@ partners.mysavings.com
 partners.thefilter.com
 partner.worldoftanks.com
 party-vqgdyvoycc.now.sh
+pasoherb.gq
 pass-1234.com
 passport.pfn.bz
 passul.t-online.de
@@ -3896,8 +3913,10 @@ play.estream.nu
 play.estream.to
 play.estream.xyz
 play.mix.kinostuff.com
+play.vidzi.tv
 plecki.com
 pleisty.com
+plexcoin.info
 plexop.com
 plexworks.de
 p-log.ykimg.com
@@ -3918,6 +3937,7 @@ podrltid.info
 pointomatic.com
 polarcdn-pentos.com
 polymorphicads.jp
+pon.ewtuyytdf45.com
 pong.gannettdigital.com
 pong.production.gannettdigital.com
 pool.etn.spacepools.org
@@ -4448,6 +4468,7 @@ servingtrkid.com
 servustats.com
 sessioncam.com
 sessions.exchange
+sessionstack.com
 session.timecommerce.net
 session-tracker.badcreditloans.com
 sett.i12.de
@@ -4846,6 +4867,7 @@ stats2513.com
 stats2.algo.at
 stats2.com
 stats2.lightningcast.net
+stats2.tune.pk
 stats3.unrulymedia.com
 stats4all.com
 stats4free.de
@@ -4953,6 +4975,7 @@ stats.nebula.fi
 stats.nekapuzer.at
 stats.netbopdev.co.uk
 stats-newyork1.bloxcms.com
+stats.nimiq-network.com
 stats.nymag.com
 stat.social
 stats.olark.com
@@ -5079,6 +5102,7 @@ stormcontainertag.com
 stormiq.com
 storygize.net
 str1kee.com
+streambeam.io
 streamplay.to
 streamsend.com
 streamstats1.blinkx.com
@@ -5275,6 +5299,7 @@ thisisacoolthing.com
 thisisanothercoolthing.com
 t.hypers.com.cn
 ticklesign.com
+tidafors.xyz
 tidningsnatet.se
 tighting.info
 timeslogtn.timesnow.tv
@@ -5640,6 +5665,7 @@ track.qcri.org
 track.qoof.com
 track.ra.icast.cn
 track.recreativ.ru
+track.rediff.com
 track.redirecting2.net
 track.revolvermarketing.ru
 track.ringcentral.com
@@ -5951,6 +5977,7 @@ verypopularwebsite.com
 veta.naver.com
 vfd2dyn.vodafone.de
 video-ad-stats.googlesyndication.com
+videoplayer2.xyz
 videos.oms.eu
 videostat.com
 videostat.index.hu
@@ -6346,5 +6373,3 @@ ztcadx.com
 zt-dst.com
 ztsrv.com
 zvsuhljiha-a.akamaihd.net
-zymerget.stream
-zymerget.win
