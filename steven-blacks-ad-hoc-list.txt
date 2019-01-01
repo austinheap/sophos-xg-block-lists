@@ -312,7 +312,6 @@ cc.sys.intl.xiaomi.com
 cc.sys.miui.com
 cdn5.userzoom.com
 cdn.ad.xiaomi.com
-cdnapi.kaltura.com
 cdn.auditude.com
 cdn.beginads.com
 cdn.bitmedianetwork.com
@@ -325,7 +324,6 @@ cdn-settings.segment.com
 cdn.tsyndicate.com
 cdn.zarget.com
 ceromobi.club
-cfvod.kaltura.com
 chat.adspaces.ero-advertising.com
 chat.ero-advertising.com
 chuknu.sokrati.com
