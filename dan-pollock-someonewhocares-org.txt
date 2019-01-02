@@ -460,6 +460,7 @@ ad.adriver.ru
 ad.adserve.com
 ad.adserverplus.com
 ad.adsmart.net
+ad.adsrvr.org
 ad.adtegrity.net
 ad.adtoma.com
 ad.adverticum.net
@@ -4587,6 +4588,7 @@ dadparty.com
 d.adserve.com
 dads.new.digg.com
 d.ads.readwriteweb.com
+d.adup-tech.com
 d.adxcore.com
 d.agkn.com
 daily-saver.com
@@ -6381,6 +6383,7 @@ inl.adbureau.net
 inpagevideo.nl
 in.paycounter.com
 input.insights.gravity.com
+insight.adsrvr.org
 insightexpressai.com
 insightfirst.com
 insightxe.looksmart.com
