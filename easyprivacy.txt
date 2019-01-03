@@ -329,6 +329,7 @@ alkemics.com
 alltagcloud.info
 alltracked.com
 alnera.eu
+alocdn.com
 altabold1.com
 altastat.com
 altavista.ovh
@@ -1558,6 +1559,7 @@ d11a2fzhgzqe7i.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
+d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1cerpgff739r9.cloudfront.net
@@ -3824,6 +3826,7 @@ pingagenow.com
 pingback.sogou.com
 ping.buto.tv
 pingdom.net
+ping-dot-acp-magento.appspot.com
 ping.dozuki.com
 ping-fast.com
 ping.hungama.com
@@ -4399,6 +4402,7 @@ scripts21.com
 scriptshead.com
 scripts.psyma.com
 scroll.com
+sc-static.net
 scupio.com
 sddan.com
 sdrive.skoda-auto.com
@@ -5298,6 +5302,7 @@ thewise.com
 thingswontend.com
 thisisacoolthing.com
 thisisanothercoolthing.com
+thrtle.com
 t.hypers.com.cn
 ticklesign.com
 tidafors.xyz
@@ -5807,6 +5812,7 @@ trovus.co.uk
 trowel.twitch.tv
 tr.price.com.hk
 trs.cn
+tr.snapchat.com
 trtl.ws
 tru.am
 truconversion.com
