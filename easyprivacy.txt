@@ -1150,6 +1150,7 @@ clicktrack1.com
 clicktracker.iscan.nl
 clicktracks.aristotle.net
 clicktracks.com
+clicktrkservices.com
 click.tv.repubblica.it
 click.udimg.com
 click.uol.com.br
@@ -2756,6 +2757,7 @@ ipfrom.com
 ipify.org
 ipinfodb.com
 ipinfo.info
+ipinfo.io
 ipinyou.com
 ipinyou.com.cn
 ip-label.net
@@ -3850,6 +3852,7 @@ pixanalytics.com
 pix.eads.com
 pixel.1und1.de
 pixel.4players.de
+pixel-a.basis.net
 pixel.ad
 pixel.anyclip.com
 pixel.bild.de
@@ -4010,6 +4013,7 @@ projectsunblock.com
 projop.dnsalias.com
 promotionengine.com
 proofly.win
+proofpoint.com
 proofpositivemedia.com
 propagerank.de
 prophet.heise.de
@@ -4318,6 +4322,7 @@ rta2.metro.co.uk
 rta.dailymail.co.uk
 rtb123.com
 rtbauction.com
+rtb-seller.com
 rtfn.net
 rtmark.net
 rtn.thestar.com
