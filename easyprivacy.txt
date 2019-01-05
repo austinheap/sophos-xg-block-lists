@@ -1723,6 +1723,7 @@ dexim.space
 dfanalytics.dealerfire.com
 df-srv.de
 dgmsearchlab.com
+d.haberler.com
 dhmtracking.co.za
 diag.doba.com
 dialogtech.com
@@ -5121,6 +5122,7 @@ stripedcollar.net
 strivesidewalk.com
 strossle.it
 strs.jp
+st.tmgrup.com.tr
 st.vq.ku6.cn
 su.addthis.com
 sub2tech.com
@@ -6012,6 +6014,7 @@ virtualnet.co.uk
 vi-serve.com
 visibility-stats.com
 visibli.com
+visilabs.net
 visioncriticalpanels.com
 visistat.com
 visit.dealspwn.com
