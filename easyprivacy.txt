@@ -496,6 +496,7 @@ analytics.snidigital.com
 analytics.solidbau.at
 analytics.sonymusic.com
 analytics.spankbang.com
+analytics.sportybet.com
 analytics.springboardvideo.com
 analytics.staticiv.com
 analytics-static.ugc.bazaarvoice.com
@@ -2324,6 +2325,7 @@ getcounter.de
 getdrip.com
 getetafun.info
 getfreebl.com
+getrockerbox.com
 gets.faz.net
 getsmartlook.com
 getstatistics.se
@@ -2921,6 +2923,7 @@ lead-123.com
 lead-analytics.biz
 leadboxer.com
 lead-converter.com
+leadfeeder.com
 leadforce1.com
 leadforensics.com
 leadformix.com
@@ -3894,6 +3897,7 @@ pixel.sprinklr.com
 pixel.staging.tree.com
 pixels.youknowbest.com
 pixel.tree.com
+pixel.tuko.co.ke
 pixel.usrsync.com
 pixel.vmm-satellite2.com
 pixel.watch
