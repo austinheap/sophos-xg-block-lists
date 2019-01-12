@@ -515,6 +515,7 @@ analytics.tio.ch
 analytics.tout.com
 analytics.traidnt.net
 analytics.tribeca.vidavee.com
+analytics.truecarbon.org
 analytics.unister-gmbh.de
 analytics.upworthy.com
 analytics.urx.io
@@ -1107,6 +1108,7 @@ clickanalyzer.jp
 click.appinthestore.com
 click.aristotle.net
 click.bokecc.com
+clickbrainiacs.com
 clickcease.com
 clickclick.net
 clickcloud.info
