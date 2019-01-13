@@ -385,6 +385,7 @@ analytics.anvato.net
 analytics.apnewsregistry.com
 analytics.archive.org
 analytics.artirix.com
+analytics.arz.at
 analytics.avanser.com.au
 analytics.aweber.com
 analytics.bhaskar.com
@@ -529,6 +530,7 @@ analytics.websolute.it
 analytics.wetpaint.me
 analytics.whatculture.com
 analytics.wildtangent.com
+analytics.witglobal.net
 analyticswizard.com
 analytics.yahoo.com
 analytics.yolacdn.net
@@ -2359,6 +2361,7 @@ gm99.com
 gmodmp.jp
 gmonitor.aliimg.com
 g.msn.com
+gnar.grammarly.com
 gnezdo.ru
 gnpge.com
 gnrdomimplementation.com
@@ -3790,6 +3793,7 @@ pearno.com
 pebed.dm.gg
 peerius.com
 peermapcontent.affino.com
+pega.com
 percentmobile.com
 percycle.com
 perfdrive.com
@@ -4249,6 +4253,7 @@ reseau-pub.com
 reservedoffers.club
 reshin.de
 reson8.com
+response.pure360.com
 responsetap.com
 res.rbl.ms
 resulticks.com
@@ -4882,6 +4887,7 @@ stat.rum.cdnvideo.ru
 stat.russianfood.com
 stat.ruvr.ru
 stats01.20min.ch
+stats02.topix.com
 stats1.tune.pk
 stats1x1.kapaza.be
 stats21.com
@@ -4894,6 +4900,7 @@ stats3.unrulymedia.com
 stats4all.com
 stats4free.de
 stats4u.lv
+stats4u.net
 stats4you.com
 statsadvance-01.net
 statsadv.dadapro.com
@@ -5805,6 +5812,7 @@ trf.intuitwebsites.com
 trgtcdn.com
 triad.technorati.com
 triggeredmessaging.com
+triggers.wfxtriggers.com
 triggertag.gorillanation.com
 triggit.com
 tr.interlake.net
@@ -6258,6 +6266,7 @@ woopra.com
 woopra-ns.com
 wordc.ga
 worker.salon.com
+worldflagcounter.com
 worldlogger.com
 wos.lv
 wowanalytics.co.uk
