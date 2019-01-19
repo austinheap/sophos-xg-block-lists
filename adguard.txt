@@ -2195,7 +2195,6 @@ ad.wiredvision.jp
 adwires.com
 adwiretracker.fwix.com
 adwods.com
-adwolf.ru
 adwordsservicapi.com
 adworkmedia.com
 adworldmedia.com
@@ -5616,6 +5615,7 @@ code.barrior.online
 code.barrior.ru
 code.curs.net.ua
 codeenter.ru
+codefund.app
 codefund.io
 code.kinofactor.ru
 code.lockbot.net
@@ -5669,6 +5669,7 @@ coinverti.com
 coinwebmining.com
 coinwire.eu
 coinzilla.io
+coinzillatag.com
 cokrrmzagaxn.com
 cold-cold-freezing.com
 colimavdar.ru
@@ -11973,6 +11974,7 @@ kamuajans-com.cdn.vidyome.com
 k-analytix.com
 kanoodle.com
 kantarmedia.com
+kantartns.lt
 kaojrivmhys.com
 karaokepesni.ru
 karasutanu.com
@@ -13072,6 +13074,7 @@ logql.yahoo.co.jp
 log.quora.com
 logrocket.com
 log.rutube.ru
+log.seekda.com
 log.snapdeal.com
 logs.ntvplus.tv
 logsoc.ru
@@ -16238,6 +16241,7 @@ performtracking.com
 perimeterx.net
 perinstallcash.com
 perion.com
+perkcanada.com
 permanyb.com
 permato.com
 permutive.com
@@ -16880,6 +16884,7 @@ prnetwork.de
 prnhpe.pro
 prnx.net
 pro100news.ru
+pro6e.com
 proadscdn.com
 proadsdirect.com
 pro-advert.de
@@ -16962,7 +16967,6 @@ promoviral.com
 promoworld.pw
 proofly.date
 proofly.win
-proofpoint.com
 proofpositivemedia.com
 propagerank.de
 propaid.de
@@ -19157,6 +19161,7 @@ shvdvzydgryx.com
 shyyyxjw.com
 siamzone.com
 sibulla.com
+sicksmash.com
 sielsmaats.com
 sifomedia.se
 siftscience.com
@@ -19761,6 +19766,7 @@ sqtsuzrfefwy.com
 squalid-linen.fun
 squartedo.info
 squarterun.com
+squeakzinc.com
 squeamishscarecrow.com
 squidanalytics.com
 sqwyxzrajzsxpx.com
@@ -20801,6 +20807,7 @@ teracent.net
 teracreative.com
 terapou.com
 teraxhif.com
+tercabilis.info
 tercept.com
 terepran.com
 terethat.ru
@@ -21946,6 +21953,7 @@ triad.technorati.com
 tribalfusion.com
 tributedz.com
 tricasi.info
+trick17.it
 trickycelery.com
 trigami.com
 triggeredmessaging.com
