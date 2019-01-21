@@ -847,7 +847,6 @@ bitclubnetwork.com
 bitcoin-pay.eu
 bitdash-reporting.appspot.com
 bit.ehow.com
-bitrix.info
 bizible.com
 bizo.com
 bizsolutions.strands.com
@@ -1788,6 +1787,7 @@ dm.journaldesfemmes.com
 dm.journaldunet.com
 dm.linternaute.com
 dmpcounter.com
+dmp.marketgid.com
 dmpxs.com
 dmtracker.com
 dmtracking.1688.com

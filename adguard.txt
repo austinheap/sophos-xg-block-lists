@@ -6539,6 +6539,7 @@ d2nn3xyicdpsrf.cloudfront.net
 d2nrdy2pg3k168.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2nzjxafm0iowq.cloudfront.net
+d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pc0q32fod0ha.cloudfront.net
 d2pppxxtaciku9.cloudfront.net
@@ -11860,6 +11861,8 @@ jumboaffiliates.com
 jumbolt.ru
 jumpelead.com
 jump.fhoa365.com
+jumplead.com
+jumplead.io
 jumptap.com
 jumptime.com
 jump-time.net
