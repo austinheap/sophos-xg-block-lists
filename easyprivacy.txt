@@ -470,6 +470,7 @@ analytics.paddle.com
 analytics.performable.com
 analytics.photorank.me
 analytics.piksel.com
+analytics.pinpoll.com
 analytics.plex.tv
 analytics.praetor.im
 analytics.prezly.com
@@ -3175,6 +3176,7 @@ magnify360-cdn.s3.amazonaws.com
 magnify360.com
 maik.ff-bt.net
 mailstat.us
+mairdumont.com
 malictuiar.com
 m.anyfiles.ovh
 maploco.com
@@ -3223,6 +3225,7 @@ mc.webvisor.com
 mc.webvisor.org
 mc.webvisor.ru
 md-ia.info
+md-nx.com
 mdotlabs.com
 mdxapi.io
 measure.ameblo.jp
@@ -3285,6 +3288,7 @@ metrics.ee.co.uk
 metrics.extremetech.com
 metrics.feedroom.com
 metrics.loomia.com
+metrics.n-tv.de
 metrics.scribblelive.com
 metrics.seenon.com
 metrics.sonymusicd2c.com
@@ -3298,7 +3302,6 @@ metrics.wikinvest.com
 metrigo.zalan.do
 metriweb.be
 metrixlablw.customers.luna.net
-met.vgwort.de
 meyersdalebixby.com
 mezzobit.com
 mfio.cf
@@ -5546,6 +5549,7 @@ tracker.vreveal.com
 tracker.washtimes.com
 tracker.winload.de
 tracker.wordstream.com
+track.express.de
 trackfeed.com
 trackfreundlich.de
 track.ft.com
@@ -6110,6 +6114,7 @@ vstats.digitaltrends.com
 vstat.vidigy.com
 vtracker.net
 vtracking.in.com
+vtracy.de
 vtrtl.de
 vunetotbe.com
 vuryua.ru
