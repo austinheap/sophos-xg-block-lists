@@ -2853,6 +2853,7 @@ analytics.paddle.com
 analytics.performable.com
 analytics.photorank.me
 analytics.piksel.com
+analytics.pinpoll.com
 analytics.posttv.com
 analytics.praetor.im
 analytics.prezly.com
@@ -3226,6 +3227,7 @@ arfttojxv.com
 arganostrella.com
 argyresthia.com
 arianelab.com
+a.ria.ru
 ariseboundary.com
 ariyayin.com
 arizona-miner.tk
@@ -4915,6 +4917,7 @@ cbanners.virtuagirlhd.com
 cbb16ef5c520a0f.com
 cbbabemymc.com
 cbbgdep.biz
+cbbvi.com
 cbclickbank.com
 cbclicks.com
 cb-content.com
@@ -13429,6 +13432,7 @@ mainadv.com
 mainclc.com
 mainroll.com
 maio.jp
+mairdumont.com
 maist.jp
 maizhenai.cn
 majoritishbettes.info
@@ -13617,6 +13621,7 @@ mdn2015x2.com
 mdn2015x3.com
 mdn2015x4.com
 mdn2015x5.com
+md-nx.com
 mdotlabs.com
 mdotm.com
 mdrkqbsirbry.com
@@ -13850,7 +13855,6 @@ metrics.cbslocal.com
 metrics-cbslocal-com.cdn.ampproject.org
 metrics.chmedia.com
 metrics.cnn.com
-metrics-collector.s-onetag.com
 metrics.ctvdigital.net
 metrics.dailymotion.com
 metricsdirect.com
@@ -16867,6 +16871,7 @@ presetrabbits.com
 presidery.info
 presistart.com
 presjots.ga
+pressekompass.net
 prestadsng.com
 prexista.com
 prfct.co
@@ -20009,6 +20014,7 @@ stats.articlesbase.com
 stats.asp24.pl
 stats.av.de
 stats.avg.com
+stats.aws.rubiconproject.com
 stats.bbc.co.uk
 stats.behance.net
 stats.big-boards.com
@@ -23377,6 +23383,7 @@ vtqdavdjsymt.com
 vtqmlzprsunm.com
 vtracker.net
 vtracking.in.com
+vtracy.de
 vtrtl.de
 vtvjkyqstvec.com
 vuajcxwi.com
