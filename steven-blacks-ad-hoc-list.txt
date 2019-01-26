@@ -146,6 +146,7 @@ adspaes.ero-advertising.com
 adspages.ero-advertising.com
 adspcces.ero-advertising.com
 ads.proc.cc
+ads.samsungads.com
 adsspaces.ero-advertising.com
 adstaces.ero-advertising.com
 adtekmedia.com
@@ -395,6 +396,7 @@ eedclicks.ero-advertising.com
 e-hpaces.ero-advertising.com
 elixmedia.com
 embed.sendtonews.com
+enabler.datalake.mediaset.it
 enatimedia.com
 engine.bitmedianetwork.com
 ers.ero-advertising.com
@@ -452,6 +454,7 @@ gum.criteo.com
 gurgle.zdbb.net
 hata.ero-advertising.com
 hb-analytics.hotstar.com
+hbbtv.mediaset.net
 honolulu.alphonso.tv
 hosted.stats.com
 hosted.stats.com.edgesuite.net
@@ -610,6 +613,7 @@ pussysaga.com
 quark.plaimedia.com
 quickcash-system.com
 rata.ero-advertising.com
+rdi.eu.criteo.com
 realestate2.deshmedia.com
 redirect.ero-advertising.com
 redshell.io
