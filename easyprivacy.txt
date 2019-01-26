@@ -2772,7 +2772,6 @@ ipfrom.com
 ipify.org
 ipinfodb.com
 ipinfo.info
-ipinfo.io
 ipinyou.com
 ipinyou.com.cn
 ip-label.net
@@ -3302,6 +3301,7 @@ metrics.wikinvest.com
 metrigo.zalan.do
 metriweb.be
 metrixlablw.customers.luna.net
+met.vgwort.de
 meyersdalebixby.com
 mezzobit.com
 mfio.cf
