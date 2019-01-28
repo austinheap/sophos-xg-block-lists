@@ -962,6 +962,7 @@ c3metrics.com
 c3metrics.medifast1.com
 c3tag.com
 c4tracking01.com
+caanalytics.com
 cache.am
 cache.fm
 cadreon.com
@@ -1087,6 +1088,7 @@ circle.am
 circular-counters.com
 citypaketet.se
 cityua.net
+ck-cdn.com
 clarifyingquack.com
 claritytag.com
 clarium.global.ssl.fastly.net
@@ -3405,6 +3407,7 @@ monkeyminer.net
 monkeytracker.cz
 montblanc.lenta.ru
 montblanc.rambler.ru
+monu.delivery
 moonsade.com
 mooseway.com
 mormont.gamer-network.net
@@ -6308,6 +6311,7 @@ ws.yellowpages.ca
 wt-eu02.net
 wtk.db.com
 wtm.monitoringservice.co
+wtmtrack.com
 wtp101.com
 wt-safetag.com
 wtstats.com
