@@ -651,6 +651,7 @@ audience-mostread.r7.com
 audience.newscgp.com
 audiencerate.com
 audienceserver.aws.forebase.com
+audiencesquare.com
 audiencia.r7.com
 audiencies.ccma.cat
 audiens.com
@@ -802,6 +803,7 @@ belstat.nl
 benchit.com
 benchtag2.co
 bench.uc.cn
+bentonow.com
 berateveng.ru
 berg-6-82.com
 besstahete.info
@@ -1291,6 +1293,7 @@ comms-web-tracking.uswitchinternal.com
 company-target.com
 compteur.cc
 compteur.com
+compteur.developpez.com
 compteur-fr.com
 compteur-gratuit.org
 compteur.org
@@ -1482,6 +1485,7 @@ cpaevent.ru
 c.paypal.com
 cpcmanager.com
 c.perlentaucher.de
+cphalk.com
 cpix.daserste.de
 cpmstar.com
 cptrack.de
@@ -1601,6 +1605,7 @@ d23pi6hvdpcc5i.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
+d2cpw6kwpff7n5.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
 d2gfi8ctn6kki7.cloudfront.net
 d2kmrmwhq7wkvs.cloudfront.net
@@ -2203,6 +2208,7 @@ freecounter.it
 free-counters.co.uk
 free-counters.net
 freecounterstat.com
+freegeoip.app
 freehitscounter.org
 freelogs.com
 freeonlineusers.com
@@ -2992,6 +2998,7 @@ linkpulse.com
 linkpuls.idg.no
 links.boom.ge
 link-smart.com
+link.subscribe.ru
 links.voyeurweb.com
 linksynergy.com
 linktausch.li
@@ -3276,6 +3283,7 @@ meter-svc.nytimes.com
 metric-agent.i10c.net
 metric.inetcore.com
 metric.nwsource.com
+metricool.com
 metrics.apartments.com
 metrics.api.drift.com
 metrics.aviasales.ru
@@ -3457,6 +3465,7 @@ munero.me
 murdoog.com
 musiccounter.ru
 musthird.com
+mutinyhq.com
 mutuza.win
 mvilivestats.com
 mvtracker.com
@@ -6134,6 +6143,7 @@ w3counter.com
 w88.espn.com
 w88.m.espn.go.com
 waframedia9.com
+walmeric.com
 wal.wolfram.com
 wa.metro.co.uk
 waplog.net
@@ -6290,6 +6300,7 @@ wl.jd.com
 wmemsnhgldd.ru
 wmtech.website
 wmwmwwfmkvucbln.ru
+womtp.com
 wonder-ma.com
 woopra.com
 woopra-ns.com

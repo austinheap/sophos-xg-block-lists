@@ -827,6 +827,7 @@ abs.firstvds.ru
 absolstats.co.za
 abs.proxistore.com
 abs-static.org
+abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
 abtest.swrve.com
 abtracker.us
@@ -894,7 +895,6 @@ acs86.com
 actiflex.org
 actionads.ru
 actionallocator.com
-actionbutton.co
 actiondesk.com
 action.evrikak.ru
 actionpay.ru
@@ -2575,6 +2575,7 @@ alephd.com
 alertpay.com
 alexacdn.com
 alexametrics.com
+alexandria.marfeelcdn.com
 alexrid.com
 alfainternet.su
 alfatarget.ru
@@ -4565,6 +4566,7 @@ brztxamj.com
 bsaixnxcpaai.com
 bseen2.biz
 bsepyppitmkkf.com
+bsheute.de
 bshjzxt3apcciws.ru
 bsjhbxtrbvkr.com
 bsmryjou.com
@@ -6758,7 +6760,6 @@ datam.com
 datametrical.com
 datamind.ru
 data.minute.ly
-data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 data.mob.com
 data.neosmi.ru
@@ -8533,6 +8534,7 @@ fdplttrk.com
 fdrkesvb.com
 fdsur.com
 fdvmskmentjob.com
+fdxdjkswppg.com
 fdxstats.xyz
 fdzylxffu.com
 fe95a992e6afb.com
@@ -8943,6 +8945,7 @@ free-domain.net
 freedownloadsoft.net
 freeexchange.ru
 freegamespub.com
+freegeoip.app
 freehitscounter.org
 freelogs.com
 freeonlineusers.com
@@ -9142,9 +9145,20 @@ fzwoa.com
 fzwxuqoy.com
 fzxrjx.com
 fzzudxglrnrr.com
+g1341551423.com
 g1thub.com
+g2247755016.com
+g2281971609.com
 g22rbb7.com
+g2438896021.com
+g2440001011.com
+g2526721279.com
+g2546417787.com
 g27zkdvsxl.com
+g2921554487.com
+g3369554495.com
+g344530742.com
+g3938452447.com
 g3j2wzmon8b.com
 g4p.redtram.com
 g4whisperermedia.com
@@ -12253,6 +12267,7 @@ klzvkrzluqnx.com
 kmcebwjulu.com
 kmclwuukyffyjf.com
 kmindex.ru
+kmjexpirqstyzv.com
 kmkdkefa.com
 kmkweqtfjw.com
 kmndj.top
@@ -13860,6 +13875,7 @@ metricfast.com
 metric.gstatic.com
 metric.inetcore.com
 metric.nwsource.com
+metricool.com
 metrics34.com
 metrics.adflake.com
 metrics.apartments.com
@@ -16156,6 +16172,7 @@ patriot.cs.pp.cn
 p.aty.sohu.com
 pautaspr.com
 pawxrbexeylzn.com
+paxmedia.net
 paxshqxkamhkh.com
 pay4member.com
 payae8moon9.com
@@ -16808,6 +16825,7 @@ poterrupte.co
 potmbbqbaqxwp.com
 poundaccordexecute.info
 povqrvsoljy.com
+powerad.ai
 poweradcash.net
 poweradvertising.co.uk
 powerbar-pagerank.de
@@ -17217,6 +17235,7 @@ pushfeeds.com
 pushfeeds.de
 pushimer.com
 pushlommy.com
+pushmenews.com
 pushnative.com
 pushnest.com
 pushno.com
@@ -20687,6 +20706,7 @@ target.fark.com
 targetfuel.com
 targeting.wpdigital.net
 targetix.net
+targetman.ru
 target.mirtesen.ru
 target.mixi.media
 targetnet.com
@@ -23547,6 +23567,7 @@ walasearch.com
 walftgaqiemcx.com
 wallacemaloneymindanao.info
 wallstrads.com
+walmeric.com
 walternsa.com
 walternse.com
 wamnetwork.com
@@ -24052,6 +24073,7 @@ women-and-handsome.info
 womenchop.com
 womenclick.ru
 womens-insider.info
+womtp.com
 wonclick.com
 wonder-ma.com
 woopra.com
