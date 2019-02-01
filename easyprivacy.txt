@@ -212,6 +212,7 @@ adquality.ch
 adrank24.de
 adrizer.com
 adrta.com
+adschoom.com
 ad-score.com
 adsensedetective.com
 adservicemedia.dk
@@ -2526,6 +2527,7 @@ hit-counts.com
 hit.dogannet.tv
 hitfarm.com
 hitgraph.jp
+hit.interia.pl
 hit.leboncoin.fr
 hitmaster.de
 hitmatic.com
@@ -4441,6 +4443,7 @@ s.clickability.com
 sclick.baidu.com
 scluster3.cliphunter.com
 scnt.rambler.ru
+scontent.services.tvn.pl
 scounter.rambler.ru
 scoutanalytics.net
 scout.haymarketmedia.com
@@ -5720,6 +5723,7 @@ trackmyweb.net
 track.netzero.net
 track.ning.com
 track.omg2.com
+track.omgpl.com
 track.parse.ly
 trackpm.shop2market.com
 track.prezna.com
