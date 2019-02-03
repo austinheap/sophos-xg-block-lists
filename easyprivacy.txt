@@ -517,6 +517,7 @@ analytics.thetab.com
 analytics.thevideo.me
 analytics.tio.ch
 analytics.tout.com
+analytics.traderlink.com
 analytics.traidnt.net
 analytics.tribeca.vidavee.com
 analytics.truecarbon.org
@@ -1169,6 +1170,7 @@ click.uol.com.br
 click-url.com
 click.vgnett.no
 clickwith.bid
+clickx.io
 clickzs.com
 clickzzs.nl
 client-event-reporter.twitch.tv
@@ -5343,6 +5345,7 @@ t.flux.com
 tgdaudience.com
 tget.me
 tgknt.com
+tglyr.co
 thatresha.com
 theadex.com
 theagency.com
@@ -5700,6 +5703,7 @@ tracking.thehut.net
 tracking.tidalhifi.com
 tracking.times247.com
 tracking.tradeking.com
+tracking.trovaprezzi.it
 tracking.ukwm.co.uk
 tracking.ustream.tv
 tracking.vengovision.ru
