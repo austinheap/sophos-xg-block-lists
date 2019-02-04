@@ -2480,6 +2480,7 @@ againstein.com
 agaso.de
 agcdn.com
 agencytradingdesk.net
+agentanalytics.com
 agentcenters.com
 agentinteractive.com
 agent.tamedia.com.tw
@@ -3487,6 +3488,7 @@ automatedtraffic.com
 automateyourlist.com
 automoc.net
 autonewspron.me
+autopilothq.com
 auto-ping.com
 autoteaser.ru
 autoua.com
@@ -4172,6 +4174,7 @@ bidderrtb.com
 bid.g.doubleclick.net
 bidgear.com
 bidgewatr.com
+bidhead.net
 bidoraln.com
 bidrev.net
 bidr.io
@@ -14054,6 +14057,7 @@ metrics.el-mundo.net
 metrics.extremetech.com
 metrics.feedroom.com
 metrics.foxnews.com
+metrics.infranken.de
 metrics.io
 metrics.loomia.com
 metrics.macys.net
@@ -21179,6 +21183,7 @@ tgijoezvmvvl.com
 tgjdebebaama.com
 tgkcxtvryb.com
 tgknt.com
+tglyr.co
 tgmnstr.com
 tg.mybb.ru
 tgmygw.biz
@@ -21964,6 +21969,7 @@ tracking.to
 tracking.tomshardware.co.uk
 tracking.tradeking.com
 tracking.trnox.com
+tracking.trovaprezzi.it
 tracking.ukwm.co.uk
 tracking.unrealengine.com
 tracking.ustream.tv

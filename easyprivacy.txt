@@ -290,6 +290,7 @@ afminer.com
 africal.info
 afsanalytics.com
 agencytradingdesk.net
+agentanalytics.com
 agentinteractive.com
 aggregator.inquisitr.com
 agilecrm.com
@@ -1757,6 +1758,7 @@ digidip.net
 digital-metric.com
 digitaloptout.com
 digitaltarget.ru
+digitiminimi.com
 digitru.st
 dignow.org
 dimestore.com
@@ -2630,6 +2632,7 @@ iclive.com
 ics0.com
 icstats.nl
 icu.getstorybox.com
+id5-sync.com
 id.allegisgroup.com
 ideoclick.com
 idigger.qtmojo.com
@@ -2988,6 +2991,7 @@ lh.secure.yahoo.com
 liadm.com
 libstat.com
 licensing.bitmovin.com
+lift.acquia.com
 lightminer.co
 lijit.com
 lilb2.shutterstock.com
@@ -3330,6 +3334,7 @@ microcounter.de
 midas-i.com
 mi-de-ner-nis3.info
 midkotatraffic.net
+mieru-ca.com
 millioncounter.com
 mimgoal.com
 mindtake.com
@@ -3518,6 +3523,7 @@ myvisualiq.net
 mywebstats.com.au
 mywebstats.org
 n74s9.com
+n8s.jp
 naayna.com
 nabaza.com
 nablabee.com
@@ -4113,6 +4119,7 @@ pv.ltn.com.tw
 pvmax.net
 pv.sohu.com
 pvstat.china.cn
+pvtag.yahoo.co.jp
 pv.udn.com
 pv.xcar.com.cn
 pvx.xcar.com.cn
@@ -5449,6 +5456,7 @@ topstat.com
 toptracker.ru
 top.wn.com
 torbit.com
+torimochi.line-apps.com
 toro-tags.com
 toruk.tanx.com
 total.shanghaidaily.com
