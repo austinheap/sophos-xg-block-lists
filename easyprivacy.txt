@@ -1886,6 +1886,7 @@ easyresearch.se
 easysol.net
 easytracking.de
 ebay.northernhost.com
+ebis.ne.jp
 ebtrk1.com
 ec2-prod-tracker.babelgum.com
 ec-concier.com
@@ -1977,6 +1978,7 @@ ermaseuc.ru
 erotikcounter.org
 erotop.lv
 errors.snackly.co
+error.videonow.ru
 esearchvision.com
 eservicesanalytics.com.au
 esm1.net
@@ -2650,6 +2652,7 @@ igg.biz
 igrid.org
 ihdvilappuxpgiv.ru
 ihstats.cloudapp.net
+iid-network.jp
 i.imedia.cz
 iivt.com
 ijncw.tv
@@ -5871,6 +5874,7 @@ triggit.com
 tr.interlake.net
 triptease.io
 triptease.net
+triver.jp
 trk.absuite.com.br
 trk.adbutter.net
 trk.bhs4.com
