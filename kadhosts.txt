@@ -315,6 +315,7 @@ energylandia-pl.win
 eonline.pl
 epliki24.pl
 eqology.com
+ergebnisse.ml
 ermail.pl
 ero-tv.pl
 esemeso.pl
@@ -547,6 +548,7 @@ huit.re
 humanverify.net
 hunterstyle.pl
 hurtownia.kolrise.com
+hwww.zweryfiikujdane.tk
 i4you.pl
 ibox.green
 ibrainer.net
@@ -793,7 +795,9 @@ neospes.com
 netleaders.com
 newmediaz.com
 newpassporn.com
+news-onet24.pl
 newsy-ben24.ml
+newsy-onet24.pl
 newtechagd.net
 n-mobile.net
 nonstopvideos.pl
@@ -809,6 +813,7 @@ obeyter.com
 obos-ankiety.pl
 odbierzdarmowedoladowanie.wordpress.com
 odbierz-paysafecard.ujm.pl
+odbiierz-nagrode.tk
 odchudzaniezpasja.pl
 odkryjfb.pl
 odliczamy.net
@@ -1263,6 +1268,8 @@ usa.cc
 ustaw--tlo-fb.blogspot.com
 usunwirusa.pl
 uvy3.pl
+uzupelniajdane.ga
+uzupelniajdane.gq
 uzupelniaj-dane.ml
 v7pjo.voluumtrk.com
 vaccgenocide.wordpress.com
@@ -1309,6 +1316,12 @@ web.yuppipuppy.com
 wellstar-company.com
 wellu.eu
 weon.pl
+weryfikacjadanych.ml
+weryfikacjadanych.tk
+wiadomosci-onet24.ml
+wiadomosci-onet24.pl
+wiadomosci-onet24.tk
+wiadomosci-tv24-onet.eu
 wiarygodnafirma24.pl
 wideo-pryszcz.blogspot.com
 widget-eforsa.pl
@@ -1587,5 +1600,7 @@ zoomica.pl
 zostan-zwyciezca.com
 zukiewicz.com
 zumodi.com
+zweryfiikujdane.tk
+zweryfikuj-sie.eu
 zweryfikuj-sie.pl
 zyski-z-innowacji.pl
