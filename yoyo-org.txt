@@ -28,6 +28,7 @@
 777partner.com
 77tracking.com
 7bpeople.com
+7f1au20glg.com
 7search.com
 82o9v830.com
 99count.com
@@ -588,7 +589,6 @@ ads.leovegas.com
 ads.lesbianpersonals.com
 ads.linkedin.com
 ads.linuxfoundation.org
-ads.linuxsecurity.com
 ads.livenation.com
 ads.lordlucky.com
 ad.slutload.com
@@ -1030,7 +1030,6 @@ banners.czi.cz
 banners.dine.com
 banners.direction-x.com
 banners.directnic.com
-banners.easydns.com
 bannerserver.com
 banners.freett.com
 banners.friendfinder.com
@@ -1897,7 +1896,6 @@ lumpyleaf.com
 lwfjd.today
 lytics.io
 lzjl.com
-m1.webstats4u.com
 m32.media
 m4n.nl
 m6r.eu
@@ -2407,6 +2405,7 @@ rulerabbit.com
 runads.com
 rundsp.com
 ruthlessrobin.com
+ru-traffic.com
 s2d6.com
 s.adroll.com
 sageanalyst.net
@@ -2450,6 +2449,7 @@ servethis.com
 services.hearstmags.com
 serving-sys.com
 sessioncam.com
+sexcounter.com
 sexinyourcity.com
 sexlist.com
 sextracker.com
@@ -2457,7 +2457,6 @@ shakesea.com
 shakesuggestion.com
 shakytaste.com
 shallowsmile.com
-shareadspace.com
 shareasale.com
 sharepointads.com
 sharethrough.com
@@ -2538,6 +2537,7 @@ spotxchange.com
 springaftermath.com
 spurioussteam.com
 spykemediatrack.com
+spylog.com
 spywarelabs.com
 spywords.com
 squeamishscarecrow.com
@@ -2869,7 +2869,6 @@ webstat.channel4.com
 web-stat.com
 webstat.com
 webstat.net
-webstats4u.com
 webtrackerplus.com
 webtracky.com
 webtraffic.se

@@ -2062,6 +2062,7 @@ events.privy.com
 events.realgravity.com
 events.reddit.com
 events.redditmedia.com
+events.secureserver.net
 events.snacktv.de
 events.turbosquid.com
 events.whisk.com
@@ -2184,6 +2185,7 @@ fluidsurveys.com
 fluidsurveys-com.fs.cm
 flx1.com
 flyingpt.com
+fn-pz.com
 fogl1onf.com
 followercounter.com
 fonderredd.info
@@ -2904,6 +2906,7 @@ keyword-match.com
 keywordmax.com
 keywordstrategy.org
 keyxel.com
+kg.aws.mashable.com
 kieden.com
 kiks.auto.ru
 killerwebstats.com
@@ -3668,6 +3671,7 @@ octavius.rocks
 octomarket.com
 octopart-analytics.com
 odesaconflate.com
+odin.mic.com
 odoscope.com
 oei1.gq
 oevery.com
@@ -5308,6 +5312,7 @@ t.c4tw.net
 tcactivity.net
 tc.airfrance.com
 t.cfjump.com
+tcheck.outbrainimg.com
 tcimg.com
 t.cinemablend.com
 tck.bangbros.com
@@ -5478,6 +5483,7 @@ t.pusk.ru
 t.quisma.com
 tr1.mailperformance.com
 tracc.it
+tracdelight.com
 trace-2000.com
 trace.events
 traceless.me
