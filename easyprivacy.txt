@@ -458,6 +458,7 @@ analytics.mailmunch.co
 analytics.matchbin.com
 analytics.mecloud.vn
 analytics.meituan.net
+analytics.midwesternmac.com
 analytics.mindjolt.com
 analytics.mlstatic.com
 analytics.moviepilot.de
@@ -902,7 +903,6 @@ bmnr.pw
 bmst.pw
 b.myspace.com
 bn.adultempire.com
-bnc.lt
 bnr.alza.cz
 bonitrust.de
 bonnieradnetwork.se
