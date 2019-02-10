@@ -438,6 +438,7 @@ analytics.greensender.pl
 analytics.groupe-seb.com
 analytics.grupogodo.com
 analytics.gvim.mobi
+analytics.hindustantimes.com
 analytics.hosting24.com
 analytics.hpprintx.com
 analytics.ifood.tv
