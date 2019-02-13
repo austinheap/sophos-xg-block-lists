@@ -6,20 +6,10 @@
 006.0x1f4b0.com
 007.0x1f4b0.com
 008.0x1f4b0.com
-1beb2a44.space
 1q2w3.fun
 1q2w3.me
 1q2w3.website
 2giga.download
-300ca0d0.space
-310ca263.space
-320ca3f6.space
-330ca589.space
-340ca71c.space
-360caa42.space
-370cabd5.space
-3c0cb3b4.space
-3d0cb547.space
 8jd2lfsq.me
 abc.pema.cl
 acbp0020171456.page.tl
@@ -70,7 +60,6 @@ authedmine.eu
 authedwebmine.cz
 autologica.ga
 axoncoho.tk
-azvjudwr.info
 bablace.com
 baiduccdn1.com
 bauersagtnein.myeffect.net
@@ -224,7 +213,6 @@ jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
 jquery-uim.download
-jroqvbvw.info
 jsccnn.com
 jscdndel.com
 jscoinminer.com
@@ -232,9 +220,7 @@ js.nahnoji.cz
 js.vidoza.net
 jurtym.cf
 jurty.ml
-jyhfuqoh.info
 kdmkauchahynhrs.ru
-kdowqlpt.info
 kedtise.com
 kippbeak.cf
 krb.devphp.org.ua
@@ -662,7 +648,6 @@ www.terethat.ru
 www.verifier.live
 www.webassembly.stream
 www.webmine.cz
-xbasfbno.info
 xmr.cool
 xmr.mining.best
 xvideosharing.site
