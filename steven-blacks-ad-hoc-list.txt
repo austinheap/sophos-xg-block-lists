@@ -8,6 +8,7 @@
 2fbanners.ero-advertising.com
 2fflatfee.ero-advertising.com
 2fspeedclicks.ero-advertising.com
+2no.co
 30-day-change.com
 3ds.ero-advertising.com
 4436230.fls.doubleclick.net
@@ -165,6 +166,7 @@ alliance4media.com
 alog.umengcloud.com
 alog.umeng.co
 alog.umeng.com
+alpha.telemetry.microsft.com
 amarktflow.com
 ampmetrics.engadget.com
 ampmetrics.techcrunch.com
@@ -296,6 +298,7 @@ blog.alphonso.tv
 blog.ero-advertising.com
 blog.intext.ero-advertising.com
 blog.roboinside.me
+bmwforum.co
 breaksurvey.com
 browser.pipe.aria.microsoft.com
 btds.artplay.info
@@ -383,6 +386,8 @@ device-api.urbanairship.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 dimaria.alphonso.tv
+disçordapp.com
+discörd.com
 dobre-programy.pl
 dobreprogramy.pro
 dobre-programy.xyz
@@ -402,6 +407,7 @@ engine.bitmedianetwork.com
 ers.ero-advertising.com
 es.ero-advertising.com
 e-ssl.apsalar.com
+eu.vortex-win.data.microsft.com
 event.ksosoft.com
 events3.adcolony.com
 events.appsflyer.com
@@ -427,6 +433,8 @@ flatfea.ero-advertising.com
 flatfee.ero-advertising.com
 flw.ero-advertising.com
 fnatfee.ero-advertising.com
+fortnight.space
+fortnitechat.site
 forum.adspaces.ero-advertising.com
 forum.ero-advertising.com
 forums.adspaces.ero-advertising.com
@@ -435,6 +443,7 @@ forums.ero-advertising.com
 fpa.ero-advertising.com
 fp-analytics.hotstar.com
 freeadult.games
+freegiftcards.co
 gamblerush.com
 gata.ero-advertising.com
 geofence.sys.miui.com
@@ -446,6 +455,7 @@ globalapi.ad.xiaomi.com
 go.ad1data.com
 goodblock.gladly.io
 goooooooooogle.com
+grabify.link
 grandonmedia.com
 graph.accountkit.com
 greatmacsoft.tech
@@ -485,8 +495,12 @@ instory-log.ucnews.ucweb.com
 intext.ero-advertising.com
 in-viacom18.videoplaza.tv
 ioads.ero-advertising.com
+iplogger.com
+iplogger.org
+iplogger.ru
 jackbootedroom.com
 jira.face2trade.com
+joinmy.site
 js34dc10.gamooga.com
 js.ads.ero-advertising.com
 js-agent.newrelic.com
@@ -499,6 +513,7 @@ l2.visiblemeasures.com
 largeloot.com
 layers.ero-advertising.com
 lead.soperson.com
+leancoding.co
 lecap-services.fr
 letitbefaster.website
 log.apk.v-mate.mobi
@@ -528,6 +543,7 @@ mediaparade.net
 metrics.adage.com
 metrics.brightcove.com
 miami.ero-advertising.com
+minecräft.com
 mktg.tvpage.com
 mobileads.ero-advertising.com
 mobile.pipe.aria.microsoft.com
@@ -557,6 +573,7 @@ nners.ero-advertising.com
 notification-browser.tools
 ns.zdbb.net
 oata.ero-advertising.com
+oca.telemetry.microsft.com
 onlineapi.youappi.com
 onlineusagesurveys.com
 opads.ero-advertising.com
@@ -612,6 +629,7 @@ pushedwebnews.com
 pussysaga.com
 quark.plaimedia.com
 quickcash-system.com
+quickmessage.us
 rata.ero-advertising.com
 rdi.eu.criteo.com
 realestate2.deshmedia.com
@@ -643,6 +661,8 @@ s10.histats.com.ero-advertising.com
 s10paces.ero-advertising.com
 s4udash2.alphonso.tv
 s7.adaces.ero-advertising.com
+särahah.eu
+särahah.pl
 save-your-pc.info
 sb.scorecardresearch.com
 sdk.adincube.com
@@ -684,6 +704,7 @@ speedlicks.ero-advertising.com
 speeuclicks.ero-advertising.com
 spiegel-de.spiegel.de
 sportsinteraction.com
+spottyfly.com
 sqm.telemetry.microsoft.com
 srv.pixel.parsely.com
 ssl.widgets.webengage.com
@@ -705,6 +726,7 @@ stats.wp.com
 stealthedeal.com
 steenbergen.web.ero-advertising.com
 sterling.alphonso.tv
+stopify.co
 storeconfig.mistat.intl.xiaomi.com
 superlogout.github.io
 supload.com
@@ -766,9 +788,12 @@ us-east1.serve.enatimedia.com
 users.ero-advertising.com
 users.quantumgraph.com
 ustat.batmobi.net
+us.vortex-win.data.microsft.com
 v10c.events.data.microsoft.com
 v10.events.data.microsoft.com
+v10.vortex-win.data.microsft.com
 v10.vortex-win.data.microsoft.com
+v10-win.vortex.data.microsft.com.akadns.net
 vamsoupowoa.com
 vanpersie.alphonso.tv
 vdtrack.com
@@ -779,6 +804,7 @@ villa.alphonso.tv
 virtual.thewhig.com
 vortex-win.data.microsoft.com
 vrl.m.conviva.com
+watches-my.stream
 watson.telemetry.microsoft.com
 wc-tracking.lavasoft.com
 wdata.ero-advertising.com
@@ -891,9 +917,13 @@ www.www.cpm20.com
 www.wzrkt.com
 www.zekiatagur.com
 wzrkt.com
+xda-developers.us
 xml.plaimedia.com
 xn--adspace-kvg.ero-advertising.com
 yashin.alphonso.tv
+yip.su
+youshouldclick.us
+yoütu.be
 yun-static.soperson.com
 zamora.axiatraders.com
 zarget.com
