@@ -180,6 +180,7 @@ a.ads2.msn.com
 a-ads.com
 a.adstome.com
 aads.treehugger.com
+a.adtng.com
 aams1.aim4media.com
 aan.amazon.com
 aa-nb.marketgid.com
@@ -2837,6 +2838,7 @@ api.simpleanalytics.io
 apis.murdoog.com
 api.taboola.com
 api.tumra.com
+api.uprivaladserver.net
 api.viglink.com
 ap.lijit.com
 apnonline.112.2o7.net
@@ -4769,6 +4771,7 @@ dinoadserver2.roka.net
 dinsalgsvagt.adservinginternational.com
 directads.mcafee.com
 directleads.com
+directoffers.go2cloud.org
 directpowerrewards.com
 directrev.cloudapp.net
 dir.opank.com
@@ -7015,6 +7018,7 @@ liveupdate.feednowforbrandnewcontestdistributor.win
 livingnet.adtech.de
 ll.atdmt.com
 l.linkpulse.com
+lmadvertising.engine.adglare.net
 lmqh.ecoencomputer.com
 lnads.osdn.com
 ln.doubleclick.net
@@ -11193,6 +11197,7 @@ tracking.summitmedia.co.uk
 tracking.trackmobistore.com
 tracking.trafficjunky.net
 tracking.trksrv.com
+tracking.truthfinder.com
 tracking.trutv.com
 tracking.veoxa.com
 tracking.vindicosuite.com
