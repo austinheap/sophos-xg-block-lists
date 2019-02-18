@@ -577,6 +577,7 @@ a-pagerank.net
 ape78cn2.com
 ape-tagit.timeinc.net
 apexstats.com
+apextag.com
 apextwo.com
 apicit.net
 api.fyreball.com
@@ -2455,7 +2456,6 @@ gstats.cn
 g-stats.openhost.es
 gtags.net
 gtcslt-di2.com
-g.techweekeurope.co.uk
 g.techweekeurope.it
 gtop.ro
 gtopstats.com
@@ -2927,6 +2927,7 @@ kmindex.ru
 km-sea.net
 knowlead.io
 knowledgevine.net
+koddi.com
 komtrack.com
 kono-research.de
 kontagent.net
@@ -4653,6 +4654,7 @@ smrk.io
 smrt.as
 smrtlnks.com
 snapdeal.biz
+snapsmedia.io
 snaps.vidiemi.com
 sniperlog.ru
 sniphub.com
