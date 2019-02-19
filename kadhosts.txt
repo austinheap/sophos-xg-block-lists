@@ -68,6 +68,12 @@ appcaptcha.com
 appfox.org
 appgasstation.com
 appiq.mobi
+apple.com-care-macbook-system.live
+apple.com-improve-macos.live
+apple.com-repair-macbook.live
+apple.com-repair-os.live
+apple.com-speedup-macbook.live
+apple.com-speedup-macos.live
 appsdorado.com
 apteka2000.pl
 areyouabot.net
@@ -1303,6 +1309,11 @@ www.amc.info
 www.amway.com
 www.amway.pl
 www.appcaptcha.com
+www.apple.com-care-macbook-system.live
+www.apple.com-improve-macos.live
+www.apple.com-repair-macbook.live
+www.apple.com-speedup-macbook.live
+www.apple.com-speedup-macos.live
 www.aquacell.pl
 www.areyouabot.net
 www.areyouahuman.co
@@ -1421,6 +1432,7 @@ www.pozycjeseksualne.pl
 www.pozyczkanatelefon24.pl
 www.prevalue.pl
 www.pro102.pl
+www.prooexpert.com
 www.prouve.com
 www.proventus.com.pl
 www.provida.pl

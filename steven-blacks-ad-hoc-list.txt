@@ -386,8 +386,6 @@ device-api.urbanairship.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 dimaria.alphonso.tv
-disçordapp.com
-discörd.com
 dobre-programy.pl
 dobreprogramy.pro
 dobre-programy.xyz
@@ -543,7 +541,6 @@ mediaparade.net
 metrics.adage.com
 metrics.brightcove.com
 miami.ero-advertising.com
-minecräft.com
 mktg.tvpage.com
 mobileads.ero-advertising.com
 mobile.pipe.aria.microsoft.com
@@ -661,8 +658,6 @@ s10.histats.com.ero-advertising.com
 s10paces.ero-advertising.com
 s4udash2.alphonso.tv
 s7.adaces.ero-advertising.com
-särahah.eu
-särahah.pl
 save-your-pc.info
 sb.scorecardresearch.com
 sdk.adincube.com
@@ -920,10 +915,15 @@ wzrkt.com
 xda-developers.us
 xml.plaimedia.com
 xn--adspace-kvg.ero-advertising.com
+xn--discrd-zxa.com
+xn--disordapp-s3a.com
+xn--minecrft-5za.com
+xn--srahah-bua.eu
+xn--srahah-bua.pl
+xn--yotu-1ra.be
 yashin.alphonso.tv
 yip.su
 youshouldclick.us
-yoütu.be
 yun-static.soperson.com
 zamora.axiatraders.com
 zarget.com
