@@ -4058,6 +4058,7 @@ proac.nationwide.com
 proactive.base.de
 proclivitysystems.com
 prod-metro-collector.cloudapp.net
+production.airswap.io
 production-eqbc.lvp.llnw.net
 production.mcs.delve.cust.lldns.net
 production-mcs.lvp.llnw.net

@@ -487,7 +487,6 @@ adserverpub.com
 adserver.sanomawsoy.fi
 adserver.sciflicks.com
 adserver.sharewareonline.com
-adserversolutions.com
 adserver.spankaway.com
 adserver.theonering.net
 adserver.twitpic.com
@@ -1176,7 +1175,6 @@ casinopays.com
 casinorewards.com
 casinotraffic.com
 casinotreasure.com
-casterist.info
 cbanners.virtuagirlhd.com
 c.bigmir.net
 cbsi.com
@@ -1717,7 +1715,6 @@ hystericalhelp.com
 i1img.com
 i1media.no
 iad.anm.co.uk
-iadnet.com
 ia.iinfo.cz
 iasds01.com
 i-clicks.net
@@ -1993,7 +1990,7 @@ modifyeyes.com
 moggattice.com
 moldyicicle.com
 monetate.net
-moneyexpert.com
+moneyexpert.co.uk
 monsterpops.com
 mookie1.com
 mopub.com
@@ -2156,6 +2153,7 @@ pagefair.net
 pagerank4you.com
 pagerank-ranking.de
 pagerank-submitter.de
+pageranktop.com
 paleleaf.com
 paradoxfactor.com
 parchedangle.com
@@ -2263,7 +2261,6 @@ propellerads.com
 props.id
 proton-tm.com
 protraffic.com
-provalist.info
 provexia.com
 provideplant.com
 prsitecheck.com
