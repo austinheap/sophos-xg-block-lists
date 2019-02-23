@@ -5487,6 +5487,7 @@ t.quisma.com
 tr1.mailperformance.com
 tracc.it
 tracdelight.com
+tracdelight.io
 trace-2000.com
 trace.events
 traceless.me
