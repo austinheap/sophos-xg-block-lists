@@ -2139,6 +2139,7 @@ faststart.ru
 fast-thinking.co.uk
 fastwebcounter.com
 fathomseo.com
+fbgpnk.com
 fbpixel.network.exchange
 fb_servpub-a.akamaihd.net
 fcs.ovh
@@ -3224,7 +3225,6 @@ marketizator.com
 marketo.com
 marketshot.com
 marketshot.fr
-markitondemand.com
 maropost.com
 marsflag.com
 martianstats.com
@@ -3642,6 +3642,7 @@ nonxt1.c.youtube.com
 noowho.com
 nordicresearch.com
 northclick-statistiken.de
+northstartravelmedia.com
 notifyvisitors.com
 notmining.org
 nova.dice.net
@@ -3674,6 +3675,7 @@ observer.ip-label.net
 octavius.rocks
 octomarket.com
 octopart-analytics.com
+oda.markitondemand.com
 odesaconflate.com
 odin.mic.com
 odoscope.com
@@ -6049,6 +6051,7 @@ ut.ratepoint.com
 uzrating.com
 v12group.com
 v3cdn.net
+va-endpoint.com
 valaffiliates.com
 valuedopinions.co.uk
 vamaker.com
