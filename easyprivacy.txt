@@ -1537,6 +1537,7 @@ csp.archant.co.uk
 csp-collector.appspot.com
 csr.onet.pl
 css.aliyun.com
+cssrvsync.com
 cszz.ru
 ctags.cn
 ct.buzzfeed.com
@@ -1610,6 +1611,7 @@ d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
 d23pi6hvdpcc5i.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
+d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
@@ -3184,6 +3186,7 @@ luxup2.ru
 luxupadva.com
 luxupcdna.com
 luxupcdnc.com
+lwadm.com
 lxtrack.com
 lymantriacypresdoctrine.biz
 lyngro.com
@@ -3335,6 +3338,7 @@ metrixlablw.customers.luna.net
 met.vgwort.de
 meyersdalebixby.com
 mezzobit.com
+mfadsrvr.com
 mfio.cf
 mhiobjnirs.gq
 mialbj6.com
@@ -6428,6 +6432,7 @@ ybotvisit.com
 ycctrk.co.uk
 yellowbrix.com
 ygsm.com
+yieldbird.com
 yieldbot.com
 yieldify.com
 yieldsoftware.com
