@@ -33,6 +33,7 @@
 82o9v830.com
 99count.com
 a135.wftv.com
+aaddzz.com
 a-ads.com
 a.aproductmsg.com
 abacho.net
@@ -67,7 +68,6 @@ ad1.kde.cz
 ad1.pamedia.com.au
 ad2flash.com
 ad2.iinfo.cz
-ad2.linxcz.cz
 ad2.lupa.cz
 ad2.xrea.com
 ad3.iinfo.cz
@@ -102,8 +102,6 @@ adblade.com
 adblockanalytics.com
 ad.bnmla.com
 ad.bondage.com
-adboost.de.vu
-adboost.net
 adbooth.net
 adbot.com
 adbrite.com
@@ -343,7 +341,6 @@ ads.adverline.com
 adsafeprotected.com
 ads.affiliates.match.com
 ads.affiliates-spinit.com
-ads.ak.facebook.com.edgesuite.net
 ads.allvatar.com
 ads.alt.com
 ads.amdmb.com
@@ -487,6 +484,7 @@ adserverpub.com
 adserver.sanomawsoy.fi
 adserver.sciflicks.com
 adserver.sharewareonline.com
+adserversolutions.com
 adserver.spankaway.com
 adserver.theonering.net
 adserver.twitpic.com
@@ -899,7 +897,6 @@ alexametrics.com
 alexa-sitestats.s3.amazonaws.com
 alipromo.com
 all4spy.com
-alladvantage.com
 allosponsor.com
 alphonso.tv
 amazingcounters.com
@@ -1214,7 +1211,6 @@ clearcomb.com
 clevernt.com
 click2freemoney.com
 clickability.com
-click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1327,7 +1323,6 @@ count.rin.ru
 counts.tucows.com
 count.west263.com
 coupling-media.de
-cowledges.com
 cp.abbp1.pw
 cpalead.com
 cpays.com
@@ -1484,7 +1479,6 @@ encouragingwilderness.com
 endurableshop.com
 engine.espace.netavenir.com
 enginenetwork.com
-enlarget.com
 enoratraffic.com
 enquisite.com
 ensighten.com
@@ -2666,7 +2660,6 @@ ticklesign.com
 tidaltv.com
 t.insigit.com
 tinybar.com
-tizers.net
 tlvmedia.com
 tnkexchange.com
 tns-counter.ru
@@ -2728,7 +2721,6 @@ trackmysales.com
 track.viewdeos.com
 tradeadexchange.com
 tradedoubler.com
-trafficadept.com
 traffic-exchange.com
 trafficfactory.biz
 traffic.focuusing.com
