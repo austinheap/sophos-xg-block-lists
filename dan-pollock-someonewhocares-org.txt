@@ -571,6 +571,7 @@ ad.directrev.com
 ad.dk.doubleclick.net
 ad.doganburda.com
 ad.doubleclick.net
+ad.doublemax.net
 ad.download.net
 addserver.mtv.com.tr
 addthiscdn.com
@@ -588,6 +589,7 @@ ad.eporner.com
 ad.es.doubleclick.net
 ad.espn.starwave.com
 ad.e-sport.com
+ad.ettoday.net
 ad.eurosport.com
 ade.wooboo.com.cn
 adexchangegate.com
@@ -3295,6 +3297,7 @@ be.sitestat.com
 best2017games.com
 bestadbid.com
 bestgift4you.cn
+bestgore.com
 best-hir.com
 bestlolaray.com
 bestmmo2018.com
@@ -10117,6 +10120,7 @@ shell.xhhow4.com
 sherkatkonandeh.com
 sherkhundi.com
 shinystat.shiny.it
+shockgore.com
 shop.kauffes.de
 shopperpromotions.com
 shoppingbox.partner.leguide.com
