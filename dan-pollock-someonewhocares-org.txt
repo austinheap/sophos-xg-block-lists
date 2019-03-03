@@ -10084,6 +10084,7 @@ serwisy.gremimedia.pl
 se.sitestat.com
 settings.crashlytics.com
 settings-win.data.microsoft.com
+settingupdate.yourgoodflashupgradingmain.icu
 setupdate24.updateworkfreshandnew.space
 setupdate24.updateworkfreshandnew.website
 setupnow.amazinglysafeistallsforeveryonethisweek.review
