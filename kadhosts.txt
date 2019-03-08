@@ -352,7 +352,6 @@ fargofinanse.pl
 fastdownload.com.pl
 fasterfiles.net
 fbcolor.blogspot.com
-fbile.pl
 fb-iq.pl
 fbjaki.pl
 fb-kolor.blogspot.com
@@ -565,6 +564,8 @@ instytut-pomocy.pl
 intconnectltd.com
 intelligenttechnologies.pl
 interbuty.pl
+interia-token.pl
+interia-zabezpieczenia.pl
 inwestujwrozwoj.pl
 iotiot.cf
 i-podgladacz.pl
@@ -842,7 +843,6 @@ paifemouchoa.com
 pakiet-steam.pl
 pakiety-lte-5gb.blogspot.com
 pakiety-pokemon-go.blogspot.com
-pandorabiżuteria.pl
 papla.pl
 paraphingxmfevapk.xyz
 parkingcrew.net
@@ -1202,6 +1202,7 @@ tinyfileshost.com
 titan-man.pro
 tniemyceny.net
 todolize.com
+token-interia.pl
 topseans.pl
 torrenty--org.pl
 track.adsfast.com
@@ -1561,6 +1562,7 @@ wyspaofert.com
 xbox1emulator.org
 xbox360emulator.com
 xmlgrab.com
+xn--pandorabiuteria-qkd.pl
 xtrak.me
 xzegarsmiercix.prv.pl
 y4681.6128786.com
