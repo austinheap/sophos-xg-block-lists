@@ -77,6 +77,7 @@ apple.com-care-macbook-system.live
 apple.com-improve-macos.live
 apple.com-repair-macbook.live
 apple.com-repair-os.live
+apple.com-speed-macos.live
 apple.com-speedup-macbook.live
 apple.com-speedup-macos.live
 appsdorado.com
@@ -671,6 +672,7 @@ lottoland.pl
 loveaholics.com
 lovemyshoes.pl
 lp-wip.pl
+maccleaner3.r.worldssl.net
 maendo.tv
 magadownloader.com
 magictrends.com.pl
@@ -931,6 +933,7 @@ pobierzpliki.pl
 pobierzse.pl
 pobierzteraz.mobi
 pobraniowo.pl
+pod004.site
 podgladfacebokaa.blogspot.com
 po.fyybox.com
 pogotowie-komputerowe24h.warszawa.pl
@@ -1204,6 +1207,7 @@ tniemyceny.net
 todolize.com
 token-interia.pl
 topseans.pl
+topshoes24.pl
 torrenty--org.pl
 track.adsfast.com
 trackgsm.co.uk
@@ -1346,6 +1350,7 @@ www.appcaptcha.com
 www.apple.com-care-macbook-system.live
 www.apple.com-improve-macos.live
 www.apple.com-repair-macbook.live
+www.apple.com-speed-macos.live
 www.apple.com-speedup-macbook.live
 www.apple.com-speedup-macos.live
 www.aquacell.pl
@@ -1583,6 +1588,7 @@ zakupymax.net
 zalukajfilmy.pl
 zalukaj-online.pl
 zamiana-koloru.blogspot.com
+zarabativaisazartom.net
 zarabiaj-dzis.pl
 zarabiajwsieci.5v.pl
 zarabianiefb.club
