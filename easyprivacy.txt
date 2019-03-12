@@ -992,6 +992,7 @@ ca-mpr.jp
 canalstat.com
 canddi.com
 candid.zone
+canlytics.com
 canopylabs.com
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
@@ -6051,6 +6052,7 @@ usmetric.rediff.com
 usuarios-online.com
 utrack.hexun.com
 ut.ratepoint.com
+uuxnwoevyb.com
 uzrating.com
 v12group.com
 v3cdn.net
