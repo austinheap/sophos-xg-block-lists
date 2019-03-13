@@ -2789,7 +2789,6 @@ ip2map.com
 ip2phrase.com
 ipaddresslabs.com
 ipapi.co
-ip-api.com
 ip.breitbart.com
 ipcatch.com
 ipcounter.de
@@ -6356,7 +6355,6 @@ wos.lv
 wowanalytics.co.uk
 wpdstat.com
 wp-monero-miner.de
-wp-stat.s3.amazonaws.com
 wp-stats.com
 wredint.com
 wrmwb.7val.com
