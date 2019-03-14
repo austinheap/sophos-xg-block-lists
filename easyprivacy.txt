@@ -409,6 +409,7 @@ analytics.cmg.net
 analytics.cnd-motionmedia.de
 analytics.cocolog-nifty.com
 analytics.codigo.se
+analytics.cohesionapps.com
 analytics.competitoor.com
 analytics.conmio.com
 analytics.convertlanguage.com
@@ -1621,6 +1622,7 @@ d2gfi8ctn6kki7.cloudfront.net
 d2kmrmwhq7wkvs.cloudfront.net
 d2kyy9hvbrzkgn.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
+d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pxb4n3f9klsc.cloudfront.net
@@ -3096,6 +3098,7 @@ logging.goodgamestudios.com
 logging.prefixbox.com
 loggingservices.tribune.com
 logging.wilmaa.com
+logg.kiwi.com
 loggly.cheatsheet.com
 loggly.com
 log.go.com
@@ -3109,6 +3112,7 @@ log.kibboko.com
 log.kukuplay.com
 log.kuwo.cn
 loglady.publicbroadcasting.net
+loglady.skypicker.com
 log.liverail.com
 logly.co.jp
 log.mappy.net
@@ -3218,6 +3222,7 @@ marinsm.com
 market015.com
 market2lead.com
 marketing.alibaba.com
+marketing.dropbox.com
 marketinghub.hp.com
 marketing.kalahari.net
 marketing.net.jumia.com.ng
