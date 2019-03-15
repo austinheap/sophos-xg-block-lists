@@ -28,7 +28,6 @@
 777partner.com
 77tracking.com
 7bpeople.com
-7f1au20glg.com
 7search.com
 82o9v830.com
 99count.com
@@ -158,7 +157,6 @@ ad.foxnetworks.com
 ad.freecity.de
 adgardener.com
 ad.gate24.ch
-ad.globe7.com
 adgoto.com
 ad.grafika.cz
 adhaven.com
@@ -291,6 +289,7 @@ adriver.ru
 adrolays.de
 adrotate.de
 ad-rotator.com
+adrotator.se
 adrotic.girlonthenet.com
 adrta.com
 ads03.redtube.com
@@ -409,7 +408,6 @@ ads.cricbuzz.com
 ads.cybersales.cz
 ads.dada.it
 adsdaq.com
-ads.datinggold.com
 ads.datingyes.com
 ads.dazoot.ro
 ads.deltha.hu
@@ -1077,7 +1075,6 @@ belstat.com
 belstat.nl
 berp.com
 bestboundary.com
-best-pr.info
 bestsearch.net
 best-top.ro
 bewilderedblade.com
@@ -1140,7 +1137,6 @@ bttrack.com
 bucketbean.com
 budsinc.com
 bullseye.backbeatmedia.com
-bumpberam.pro
 businessbells.com
 bustlinganimal.com
 buysellads.com
@@ -1210,7 +1206,6 @@ clearcomb.com
 clevernt.com
 click2freemoney.com
 clickability.com
-click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1479,7 +1474,6 @@ encouragingwilderness.com
 endurableshop.com
 engine.espace.netavenir.com
 enginenetwork.com
-enoratraffic.com
 enquisite.com
 ensighten.com
 entercasino.com
@@ -1887,6 +1881,7 @@ lumpyleaf.com
 lwfjd.today
 lytics.io
 lzjl.com
+m1.webstats4u.com
 m32.media
 m4n.nl
 m6r.eu
@@ -2016,7 +2011,6 @@ mystat-in.net
 mystat.pl
 mysteriousmonth.com
 mytop-in.net
-mytrafficads.com
 myvisualiq.net
 mzbcdn.net
 n69.com
@@ -2283,6 +2277,7 @@ qnsr.com
 quacksquirrel.com
 quaintcan.com
 quantcast.com
+quantcast.mgr.consensu.org
 quantserve.com
 quantummetric.com
 quarterbean.com
@@ -2449,6 +2444,7 @@ shakesea.com
 shakesuggestion.com
 shakytaste.com
 shallowsmile.com
+shareadspace.com
 shareasale.com
 sharepointads.com
 sharethrough.com
@@ -2855,6 +2851,7 @@ webstat.channel4.com
 web-stat.com
 webstat.com
 webstat.net
+webstats4u.com
 webtrackerplus.com
 webtracky.com
 webtraffic.se

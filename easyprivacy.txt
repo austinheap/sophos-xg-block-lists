@@ -194,6 +194,7 @@ admantx.com
 admaster.com.cn
 admatrix.jp
 admeira.ch
+admetric.io
 ad-miner.com
 adminer.com
 admitad.com
@@ -945,6 +946,7 @@ bstracker.blogspirit.net
 bs.yandex.ru
 bsyauqwerd.party
 bt.ilsemedia.nl
+bt.mediaimpact.de
 btn.clickability.com
 btrace.qq.com
 btrace.video.qq.com
@@ -2742,6 +2744,7 @@ insightgrit.com
 insight.mintel.com
 insights.blogfoster.com
 insights.gravity.com
+insights.plista.com
 insigit.com
 insitemetrics.com
 insitez.blob.core.windows.net
@@ -3795,6 +3798,7 @@ p0y.cn
 p24.hu
 p2poolmining.com
 p2poolmining.net
+p2r14.com
 p.adbrn.com
 pagefair.com
 page-hit.de
@@ -3938,6 +3942,7 @@ pixeleze.com
 pixel.fanbridge.com
 pixel.glimr.io
 pixel.holtzbrinckdigital.info
+pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixelinteractivemedia.com
 pixel.klout.com
@@ -4046,7 +4051,6 @@ pp8.com
 p.pagesjaunes.fr
 ppclocation.biz
 ppctracking.net
-ppoi.org
 ppro.de
 pr0gram.org
 p.raasnet.com
@@ -4084,7 +4088,6 @@ profitshare.ro
 programmatic.cz
 proj2018.xyz
 projecthaile.com
-projectpoi.com
 projectsunblock.com
 projop.dnsalias.com
 promotionengine.com
