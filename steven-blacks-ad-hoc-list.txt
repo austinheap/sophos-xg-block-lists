@@ -168,6 +168,7 @@ alog.umeng.co
 alog.umeng.com
 alpha.telemetry.microsft.com
 amarktflow.com
+amazonco.uk
 ampmetrics.engadget.com
 ampmetrics.techcrunch.com
 analysis.polarisoffice.com
@@ -820,6 +821,7 @@ ww2.ero-advertising.com
 wwa.ero-advertising.com
 wwbanners2.ero-advertising.com
 wws.ero-advertising.com
+www2.myishop.co.uk
 www.ads2live.com
 www.ads.ero-advertising.com
 www.adserver.ministryofads.com
@@ -879,6 +881,7 @@ www.mediaparade.net
 www.ministryofads.com
 www.movieads.ero-advertising.com
 www.myfreecams.com
+www.myishop.co.uk
 www.mywot.com
 www.mywot.net
 www.nikitinskysport.ru
