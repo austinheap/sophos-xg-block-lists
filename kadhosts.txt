@@ -68,6 +68,7 @@ anuluj-natreta.pl
 aoc.teleaudio.pl
 apartamentypoleska.pl
 api.myeforsa.pl
+app3555.bigbigabum4.live
 app8671.something-wrong5.agency
 appcaptcha.com
 appfox.org
@@ -122,6 +123,7 @@ bewox.net
 beyourbest.pl
 bezbiku.pro
 bigbangads.go2cloud.org
+bigbigabum4.live
 binomo.com
 bio-chemik24.pl
 biotalerz.pl
