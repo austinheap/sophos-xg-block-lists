@@ -247,7 +247,6 @@ datasmierci.pl
 davor.io
 denis928.000webhostapp.com
 dietstars.pro
-discfile.pl
 dlagier.com
 dlf.pl
 dlmyfile.com
@@ -273,7 +272,6 @@ domniespodzianek.com
 dom-server.tk
 dopalacze-sklep.org
 downfiles.pl
-download-24.pl
 download-24.tk
 downloadfile.eu
 downloadfiles.pl
@@ -321,7 +319,6 @@ ero-tv.pl
 erunner.pl
 esemeso.pl
 eskk.pl
-estream.com.pl
 euco.pl
 e-udanezakupy.pl
 euresco.pl
@@ -491,7 +488,6 @@ go.co-aa831.stream
 gogameportal.com
 gojiberry500.pl
 gokano.com
-goldenmark.com
 goldsaver.pl
 go.net-di20.stream
 goodmenonthego.com
@@ -574,7 +570,6 @@ iotiot.cf
 i-podgladacz.pl
 ipzd.pl
 iqtestuj.glt.pl
-iq-testuj.pl
 irpol24.pl
 isamuxpompapsc50.6ka.info
 islandmob.com
@@ -648,6 +643,7 @@ leadn.pl
 leadzu.com
 leadzupc.com
 legalizacja.5v.pl
+legitstore.pl
 liczbawiadomosci.pl
 lifehackz.net
 life-star.pl
@@ -693,6 +689,7 @@ mecz.ujm.pl
 mediaekspert24.pl
 mediafile.pl
 mediamax.in.net
+mediasam.net
 mediavideo.pl
 medicreporters.com
 megacloudz.net
@@ -749,14 +746,12 @@ m.pl.failmobile.net
 m.smsquiz.pl
 msphack.com.pl
 msphackonline.com
-msphack.pl
 msphacks.net
 multico.5v.pl
 mundialove.pl
 myacn.eu
 myaff.pl
 my.coolestmobi.com
-mydascoin.pl
 myeforsa.pl
 mylead.eu
 mylead.global
@@ -1022,7 +1017,6 @@ qwer3.pl
 ramissio.com
 randki-sex.com
 rapideo.pw
-rapid-host.pl
 rap-share.pl
 ratujlaptopa.pl
 ratuj-swojego-laptopa.pl
@@ -1038,7 +1032,6 @@ redirectzone.com
 redrct.online
 reducelant.com
 refundacjeregionalne.pl
-regme.pl
 reimageplus.com
 rekrutacja.zafriko.pl
 rep.privatesearch.club
@@ -1146,7 +1139,6 @@ steam-wallet-money.com
 stopnop.com.pl
 stop-sms.pl
 store-red.zostan-zwyciezca.com
-stream24.com.pl
 streamgo.pl
 stream-online.com.pl
 streamuj.org
@@ -1265,7 +1257,6 @@ uzupelniajdane.gq
 uzupelniaj-dane.ml
 v7pjo.voluumtrk.com
 vaccgenocide.wordpress.com
-vanssk8hi.pl
 vapormax.pl
 vasco-group.eu
 vcxz.pl
@@ -1274,7 +1265,6 @@ verifycaptcha.com
 verypl.net
 vesda.pl
 vfastdownload.com
-videon.com.pl
 videorazr.com
 videoway.net
 vidnet.pl
@@ -1322,7 +1312,6 @@ wielkaniespodzianka.pl
 wielkopolskie.refundacjeregionalne.pl
 wifiprotector.com
 wilkzwallstreet.blogspot.com
-wirtualna-polska.site
 wirtuozseksu.pl
 wizjatv-kody.pl
 wniosek-online.co.pl
