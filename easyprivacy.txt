@@ -2954,6 +2954,7 @@ kupona.de
 l2.io
 l33tsite.info
 l.5min.com
+laas.americanexpress.com
 ladsp.com
 laferia.cr
 lanchaeanly.pro
@@ -5620,7 +5621,6 @@ trackfeed.com
 trackfreundlich.de
 track.ft.com
 track.fxstreet.com
-track.gawker.com
 track.g-bot.net
 track.gridlockparadise.com
 track.hubspot.com
@@ -6350,6 +6350,7 @@ winter.metacafe.com
 wiredminds.de
 wisetrack.net
 wishloop.com
+wisteria-js.excite.co.jp
 witthethim.com
 wl.jd.com
 wmemsnhgldd.ru
