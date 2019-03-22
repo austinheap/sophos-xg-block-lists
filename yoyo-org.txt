@@ -1238,7 +1238,6 @@ clickxchange.com
 clickz.com
 clicmanager.fr
 clientmetrics-pa.googleapis.com
-clients.tbo.com
 clikerz.net
 cliksolution.com
 clixgalore.com
@@ -1542,7 +1541,6 @@ faultyfowl.com
 fc.webmasterpro.de
 feebleshock.com
 feedbackresearch.com
-feedjit.com
 ffxcam.fairfax.com.au
 fimserve.com
 findcommerce.com
@@ -1671,7 +1669,6 @@ hitlounge.com
 hitometer.com
 hit-parade.com
 hits4me.com
-hits4pay.com
 hits.europuls.eu
 hits.informer.com
 hitslink.com
@@ -1702,10 +1699,10 @@ hystericalhelp.com
 i1img.com
 i1media.no
 iad.anm.co.uk
+iadnet.com
 ia.iinfo.cz
 iasds01.com
 i-clicks.net
-iconadserver.com
 icptrack.com
 identads.com
 idtargeting.com
@@ -2823,7 +2820,6 @@ vtracy.de
 vungle.com
 w55c.net
 wa.and.co.uk
-wantmobi.bid
 warlog.ru
 waryfog.com
 watchingthat.com
@@ -2844,7 +2840,6 @@ webmasterplan.de
 weborama.com
 weborama.fr
 webpower.com
-webreseau.com
 webseoanalytics.com
 websponsors.com
 webstat.channel4.com
