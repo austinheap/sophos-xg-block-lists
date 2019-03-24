@@ -243,6 +243,7 @@ advanced-web-analytics.com
 advconversion.com
 adv.drtuber.com
 advertising.com
+adways.com
 adwiretracker.fwix.com
 adwstats.com
 adx.com.ru
@@ -1152,6 +1153,7 @@ clickmap.ch
 clickmatic.pl
 clickmeter.com
 click.mmosite.com
+click.oneplus.com
 clickonometrics.pl
 clickpathmedia.com
 clickprotector.com
@@ -5330,6 +5332,7 @@ target.smi2.net
 target.smi2.ru
 target.ukr.net
 ta.sanook.com
+taskanalytics.com
 tausch-link.de
 t.beopinion.com
 tbe.tom.ru

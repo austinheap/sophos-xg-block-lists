@@ -58,6 +58,7 @@ allfiles.pl
 alloversuccess.com
 all-player.pl
 allplayer.pl
+alwetagd.pl
 androidgameshacks.com
 androidsecurityplus.com
 ankiety-konsumenckie.pl
@@ -234,7 +235,6 @@ darmowetesty.com
 darmowygenerator.blogspot.com
 das33.io
 dascoin.com
-dascoin.com.ng
 dascoin.com.pl
 dascoingroup.com
 dascoininfo.blogspot.com
@@ -425,7 +425,6 @@ firesub.pl
 fit-buzz.com
 fizjoterapia.5v.pl
 flamefolder.com
-flirtarepertutti.com
 fmg.pl
 foreverliving.com
 fortnitehack2018.com
@@ -579,7 +578,6 @@ isamuxpompapsc50.6ka.info
 islandmob.com
 i-store365.com
 iv24.pl
-iwcollege.com
 jacketspolska.cn
 jakpodrywacnatinderze.pl
 jamba.pl
@@ -823,6 +821,7 @@ okaleczona15--latka.blogspot.com
 okaleczona15-llatka.blogspot.com
 okazyjnie.net
 ollando.com
+olympus-markets.com
 onecoin.eu
 onef.cf
 onliine.pl
@@ -1321,6 +1320,7 @@ wielkopolskie.refundacjeregionalne.pl
 wifiprotector.com
 wilkzwallstreet.blogspot.com
 wirtuozseksu.pl
+wisebanc.com
 wizjatv-kody.pl
 wniosek-online.co.pl
 wojciechrudzki.pl
