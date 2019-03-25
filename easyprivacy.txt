@@ -728,6 +728,7 @@ baiduccdn1.com
 baifendian.com
 balancebreath.com
 bam-x.com
+banstat.nadavi.net
 baptisttop1000.com
 barilliance.net
 barium.cheezdev.com
@@ -896,7 +897,6 @@ blogtraffic.sg
 blogtw.net
 blogverzeichnis.eu
 blog-webkatalog.de
-bloomjoy.com
 bluecava.com
 blueconic.net
 bluecounter.de
@@ -1716,6 +1716,8 @@ daylife-analytics.com
 daylogs.com
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
+dc.banggood.com
+dccss.banggood.com
 dc.letv.com
 dcmn.com
 dcs.mattel.com

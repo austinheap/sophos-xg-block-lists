@@ -707,6 +707,7 @@ ads.tripod.lycos.it
 ads.tripod.lycos.nl
 ads-trk.vidible.tv
 ads.tso.dennisnet.co.uk
+ads-twitter.com
 ads.twitter.com
 ads.uknetguide.co.uk
 ads.ultimate-guitar.com
@@ -1541,7 +1542,6 @@ faultyfowl.com
 fc.webmasterpro.de
 feebleshock.com
 feedbackresearch.com
-feefo.com
 ffxcam.fairfax.com.au
 fimserve.com
 findcommerce.com
