@@ -2119,6 +2119,7 @@ optimizely.com
 optimize-stats.voxmedia.com
 optimost.com
 optmd.com
+optmnstr.com
 optmstr.com
 optnmstr.com
 ordingly.com
@@ -2484,6 +2485,7 @@ smart.brvaffs.com
 smartlook.com
 smashsurprise.com
 smetrics.ctv.ca
+smetrics.foxnews.com
 smetrics.walgreens.com
 smilingwaves.com
 snakesort.com
