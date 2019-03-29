@@ -441,7 +441,6 @@ adserver1-images.backbeatmedia.com
 adserver1.mindshare.de
 adserver1.ogilvy-interactive.de
 adserver2.mindshare.de
-adserver.43plc.com
 adserver.71i.de
 adserver.adultfriendfinder.com
 adserver.aidameter.com
@@ -661,7 +660,6 @@ ads.rediff.com
 ads.redlightcenter.com
 ads.redtube.com
 ads.resoom.de
-adsrevenue.net
 adsrv.deviantart.com
 adsrv.eacdn.com
 adsrv.iol.co.za
@@ -909,7 +907,6 @@ anahtars.com
 analytics.adpost.org
 analytics.google.com
 analytics.live.com
-analytics.newsinc.com
 analytics.yahoo.com
 anm.intelli-direct.com
 annonser.dagbladet.no
@@ -1168,6 +1165,7 @@ cashpartner.com
 casinopays.com
 casinorewards.com
 casinotraffic.com
+casterist.info
 cbanners.virtuagirlhd.com
 c.bigmir.net
 cbsi.com
@@ -1543,6 +1541,7 @@ faultyfowl.com
 fc.webmasterpro.de
 feebleshock.com
 feedbackresearch.com
+feedjit.com
 ffxcam.fairfax.com.au
 fimserve.com
 findcommerce.com
@@ -1766,7 +1765,6 @@ interactive.forthnet.gr
 intergi.com
 internetfuel.com
 interreklame.de
-interstat.hu
 inventionpassenger.com
 inviterabbits.com
 invitesugar.com
@@ -2021,7 +2019,6 @@ navigator.io
 navrcholu.cz
 nbjmp.com
 ncaudienceexchange.com
-ndnops.com
 ndparking.com
 nedstatbasic.net
 nedstat.com
@@ -2196,6 +2193,7 @@ pixel.condenastdigital.com
 pixel.digitru.st
 pixel.sojern.com
 pixel.watch
+pix.spot.im
 play4traffic.com
 playhaven.com
 playmobileads.com
@@ -2270,6 +2268,7 @@ puffypurpose.com
 pushazer.com
 pushengage.com
 puzzlingfall.com
+px.ads.linkedin.com
 px.dynamicyield.com
 q.azcentral.com
 qctop.com
@@ -2799,7 +2798,6 @@ verblife-3.co
 vericlick.com
 vertadnet.com
 verticalmass.com
-veruta.com
 vervewireless.com
 vibrantmedia.com
 videoadex.com
