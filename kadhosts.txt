@@ -78,6 +78,7 @@ appiq.mobi
 apple.com-care-macbook-system.live
 apple.com-improve-macos.live
 apple.com-macos-clean-systems.live
+apple.com-repair.live
 apple.com-repair-macbook.live
 apple.com-repair-os.live
 apple.com-speed-macos.live
@@ -706,6 +707,7 @@ mobgames.mobi
 mobiapp-games.com
 mobicpi.com
 mobila.pl
+mobile0363.harddayforall4.life
 mobile-app.pl
 mobileaps.co
 mobileofferplace.site
@@ -1342,6 +1344,7 @@ www.amway.pl
 www.appcaptcha.com
 www.apple.com-care-macbook-system.live
 www.apple.com-improve-macos.live
+www.apple.com-repair.live
 www.apple.com-repair-macbook.live
 www.apple.com-speed-macos.live
 www.apple.com-speedup-macbook.live
