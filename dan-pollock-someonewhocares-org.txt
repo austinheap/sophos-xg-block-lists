@@ -12290,6 +12290,7 @@ ws-na.amazon-adsystem.com
 wss-gw-1.hitbox.com
 wss-gw-3.hitbox.com
 ws.xjb.ac.cn
+wt.bankmillennium.pl
 wtnj.worldnow.com
 wtp101.com
 wv.5.p2l.info
