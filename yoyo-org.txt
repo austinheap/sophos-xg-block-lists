@@ -1215,6 +1215,7 @@ clickcompare.co.uk
 clickdensity.com
 clickedyclick.com
 click.fool.com
+clickfunnels.com
 clickhereforcellphones.com
 clickhouse.com
 clickhype.com
@@ -1537,6 +1538,7 @@ fascinatedfeather.com
 fastclick.com
 fastclick.com.edgesuite.net
 fastclick.net
+fastly-insights.com
 faultycanvas.com
 faultyfowl.com
 fc.webmasterpro.de
