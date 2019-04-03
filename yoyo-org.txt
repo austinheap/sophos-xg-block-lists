@@ -600,6 +600,7 @@ ads.mmania.com
 ads.mobilautomaten.com
 ads.mobilebet.com
 adsmogo.com
+ads.mopub.com
 ads.motor-forum.nl
 ads.motormedia.nl
 ads.msn.com
@@ -1618,6 +1619,7 @@ go2affise.com
 go-clicks.de
 goingplatinum.com
 goldstats.com
+go-mpulse.net
 gondolagnome.com
 googleadservices.com
 google-analytics.com
@@ -1904,6 +1906,7 @@ matchcraft.com
 matheranalytics.com
 mathtag.com
 max.i12.de
+maximiser.net
 maximumcash.com
 maxonclick.com
 mbs.megaroticlive.com
@@ -2701,6 +2704,7 @@ tour.brazzers.com
 tpnads.com
 tracedesire.com
 track1.viewdeos.com
+track.addevent.com
 track.adform.net
 trackalyzer.com
 track.anchorfree.com
