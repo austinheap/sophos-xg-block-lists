@@ -949,6 +949,7 @@ pole-henny.com
 polsatboxingnight-transmisjahd.ujm.pl
 polska-tv.pl
 polskieinfo365.wordpress.com
+polskifilm.com.pl
 pomocnapozyczka.pro
 poprof.com
 pornmania.pl
@@ -1307,7 +1308,6 @@ wiadomosci-onet24.ml
 wiadomosci-onet24.pl
 wiadomosci-onet24.tk
 wiadomosci-tv24-onet.eu
-wiarygodnafirma24.pl
 widget-eforsa.pl
 wielkanagroda.com
 wielkaniespodzianka.pl
@@ -1610,7 +1610,6 @@ zgarnij.net
 zgarnijplik.pl
 zmienienie-koloru.blogspot.com
 zmienkolorfejsazafree.blogspot.com
-zmien-kolor.pl
 zmienkolory.blogspot.com
 zmien-motyw.blogspot.com
 zmotoryzowani24.pl
