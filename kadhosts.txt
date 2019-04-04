@@ -374,7 +374,6 @@ fidgetspinner.5v.pl
 filebay.org
 filecom.net
 file.co.pl
-filedownload.com.pl
 filedownloader.pl
 filedownloads.pl
 fileengine.org
@@ -544,7 +543,6 @@ humanverify.net
 hunterstyle.pl
 hurtownia.kolrise.com
 hwww.zweryfiikujdane.tk
-i4you.pl
 ibox.green
 ibrainer.net
 i-cda.pl
@@ -583,7 +581,6 @@ jamba.pl
 jamster.pl
 jedz-eco.pl
 jerzyzieba.com
-jetparty.net
 jordenmadsen.com
 juicywin.pl
 jumpers.mobi
@@ -683,7 +680,6 @@ marketpremium.pl
 martdiamonds.pl
 masenkotrkr.com
 max-host.pl
-mazowieckiecentrummedyczne.pl
 mecze24.6ka.info
 mecz.ujm.pl
 mediaekspert24.pl
@@ -808,7 +804,6 @@ odkryjfb.pl
 odlootowy.pl
 odpowiedzialni-rodzice.pl
 odzyskajsnapy.blogspot.com
-oferta4you.com.pl
 offerplaying.com
 offerzone.click
 ogladaj.online
@@ -1143,7 +1138,6 @@ stopnop.com.pl
 stop-sms.pl
 store-red.zostan-zwyciezca.com
 streamgo.pl
-stream-online.com.pl
 streamuj.org
 strefa-filmu.pl
 stuntoffer.com
