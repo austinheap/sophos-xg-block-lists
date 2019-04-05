@@ -541,6 +541,7 @@ analyticsv2.dol.gr
 analytics.vanillaforums.com
 analytics.vendemore.com
 analytics.volvocars.com
+analytics.webgains.io
 analytics.websolute.it
 analytics.wetpaint.me
 analytics.whatculture.com
@@ -626,12 +627,16 @@ ascend.ai
 asci.freenet.de
 aserve.directorym.com
 aservices.party
+as.mirapodo.de
+as.mytoys.de
+as.payback.it
 assetscdn.stream
 assoctrac.com
 aster18cdn.nl
 aster18prx.nl
 astro-way.com
 asumi.shinobi.jp
+as.yomonda.de
 atanx.alicdn.com
 atatus.com
 atax.gamermetrics.com
@@ -3498,6 +3503,7 @@ msparktrk.com
 mstracker.net
 mstrlytcs.com
 mtc.nhk.or.jp
+m-t.io
 mtoza.vzaar.com
 mtracking.com
 mtrack.nl
@@ -3716,6 +3722,7 @@ offerpoint.net
 offerreality.com
 offers.keynote.com
 offerstrategy.com
+oghub.io
 ogondkskyahxa.ru
 ogrid.org
 ogt.jp
@@ -3788,6 +3795,7 @@ optreadetrus.info
 oranges88.com
 orcapia.com
 org-dot-com.com
+oribi.io
 origin.chron.com
 origin-tracking.trulia.com
 orts.wixawin.com
@@ -5706,6 +5714,7 @@ tracking.kurier.at
 trackinglabs.com
 tracking.ladies.de
 tracking.lengow.com
+tracking.linda.de
 tracking.listhub.net
 tracking.livingsocial.com
 tracking.maxcdn.com
@@ -5912,6 +5921,7 @@ trendemon.com
 trf.intuitwebsites.com
 trgtcdn.com
 triad.technorati.com
+tribl.io
 trick17.it
 triggeredmessaging.com
 triggers.wfxtriggers.com
