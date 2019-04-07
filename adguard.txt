@@ -5202,6 +5202,7 @@ cdn-my3.ru
 cdn-my4.ru
 cdn-my5.ru
 cdn-net.com
+cdn.odoscope.cloud
 cdnondemand.org
 cdn.pljs.ru
 cdn.plopx.com
@@ -22702,6 +22703,7 @@ trackinglabs.com
 tracking.ladies.de
 tracking.lengow.com
 tracking.lenzmx.com
+tracking.linda.de
 tracking.listhub.net
 tracking.livingsocial.com
 tracking.lqm.io

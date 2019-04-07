@@ -396,6 +396,7 @@ analytics.apnewsregistry.com
 analytics.archive.org
 analytics.artirix.com
 analytics.arz.at
+analytics.audioeye.com
 analytics.avanser.com.au
 analytics.aweber.com
 analytics.bhaskar.com
@@ -1654,6 +1655,7 @@ d3135glefggiep.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d33im0067v833a.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
+d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
@@ -2392,6 +2394,7 @@ ggxt.net
 giddycoat.com
 giga-abs.de
 gigcount.com
+g.ign.com
 gim.co.il
 giml.ml
 giraff.io
@@ -3154,6 +3157,7 @@ log.prezi.com
 log.r7.com
 log.ren.tv
 logrocket.com
+logrocket.io
 logs.51cto.com
 logs.dashlane.com
 log.seekda.com
@@ -3961,6 +3965,7 @@ pixel.ad
 pixel.anyclip.com
 pixel.bild.de
 pixel.buzzfeed.com
+pixel.cdnwidget.com
 pixel.colorupmedia.com
 pixel.cpex.cz
 pixel.digitalspy.co.uk
@@ -5687,7 +5692,6 @@ tracking.ecookie.fr
 tracking.edvisors.com
 tracking.ehavior.net
 tracking.emsmobile.de
-tracking.epicgames.com
 tracking.eurosport.com
 tracking.fanbridge.com
 tracking.fccinteractive.com
@@ -6067,6 +6071,7 @@ usabilitytools.com
 usabilla.com
 usa.cc
 useg.nextdigital.com.hk
+useinsider.com
 useitbetter.com
 usemaxserver.de
 user-api.com
