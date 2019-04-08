@@ -553,6 +553,7 @@ analyticswizard.com
 analytics.yahoo.com
 analytics.yolacdn.net
 analytics.yola.net
+analytics.zg-api.com
 analytics.zhihu.com
 analytics.ziftsolutions.com
 analytic.xingcloud.com
@@ -2066,6 +2067,7 @@ eventbeacon.ca
 eventcapture03.com
 event.dkb.de
 eventgateway.soundcloud.com
+event.getblue.io
 event-listener.air.tv
 eventlogger.soundcloud.com
 eventlog.inspsearchapi.com
@@ -2197,6 +2199,7 @@ fishhoo.com
 fitanalytics.com
 fixcounter.com
 flagcounter.com
+flaghit.com
 flags.es
 flakyfeast.com
 flare-analytics.com

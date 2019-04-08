@@ -354,7 +354,6 @@ fastdownload.com.pl
 fasterfiles.net
 fbcolor.blogspot.com
 fb-iq.pl
-fbjaki.pl
 fb-kolor.blogspot.com
 fbpodgladacz.wordpress.com
 fb-podglad.blogspot.com
@@ -673,7 +672,6 @@ maendo.tv
 magadownloader.com
 magictrends.com.pl
 magiskmanager.com
-magviz-secondsz.com
 mamkase.pl
 marekporwol.pl
 mariuszpelczarski.pl
@@ -725,7 +723,6 @@ moje-iq.pl
 mojeklocki.com
 mojekumpele.blogspot.com
 mojepc.net
-mojepvpweryfikacja.tk
 mojezakupy.net
 momoxxio.com
 monetizer.info
@@ -1069,6 +1066,7 @@ sendspace.pl
 sendspace.pw
 senoctis.pl
 serendipitygalenite.club
+seriale24.com.pl
 serialefilmy.pl
 seriale.org.pl
 serwis.kb.help
@@ -1138,7 +1136,6 @@ steam-wallet-gifts.com
 steam-wallet-money.com
 stopnop.com.pl
 stop-sms.pl
-store-red.zostan-zwyciezca.com
 streamgo.pl
 streamuj.org
 strefa-filmu.pl
@@ -1148,7 +1145,6 @@ sug.com.pl
 sukces.pl
 sundaycashsaver.com
 superfiles.pl
-supermarket.zostan-zwyciezca.com
 superserwisy.pl
 super-tania-chwilowka.pl
 sweeps3093.something-wrong9.agency
@@ -1615,7 +1611,6 @@ znajdz-numer.pl
 zobacz24.pl
 zobaczktopodgladaa.blogspot.com
 zoomica.pl
-zostan-zwyciezca.com
 zukiewicz.com
 zumodi.com
 zweryfiikujdane.tk
