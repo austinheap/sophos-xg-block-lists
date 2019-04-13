@@ -10,6 +10,7 @@
 123count.com
 123-counter.de
 12mnkys.com
+15gifts.com
 168logger.com
 1beb2a44.space
 1-cl0ud.com
@@ -489,6 +490,7 @@ analytics.plex.tv
 analytics.praetor.im
 analytics.prezly.com
 analytics.prod.aws.ecnext.net
+analytics-production.hapyak.com
 analytics.proxer.me
 analytics.r17.com
 analytics.radiatemedia.com
@@ -1582,6 +1584,7 @@ cts.vresp.com
 ct.thegear-box.com
 cttracking02.com
 cuntador.com
+curalate.com
 curate.nestedmedia.com
 customerconversio.com
 customerdiscoverytrack.com
@@ -1643,7 +1646,6 @@ d2gfi8ctn6kki7.cloudfront.net
 d2kmrmwhq7wkvs.cloudfront.net
 d2kyy9hvbrzkgn.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
-d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pxb4n3f9klsc.cloudfront.net
@@ -1658,7 +1660,6 @@ d3135glefggiep.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d33im0067v833a.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
-d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
@@ -2238,7 +2239,6 @@ forkcdn.com
 formalyzer.com
 formisimo.com
 formulawire.com
-forter.com
 fortvision.com
 foundry42.com
 fourmtagservices.appspot.com
@@ -3572,6 +3572,7 @@ mystats.nl
 mysumo.de
 mytestminer.xyz
 mytictac.com
+mytrack.pro
 myusersonline.com
 myvisitors.se
 myvisualiq.net
