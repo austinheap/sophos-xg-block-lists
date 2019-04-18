@@ -486,6 +486,7 @@ adserver.viagogo.com
 adserver.virginmedia.com
 adserver.yahoo.com
 adserv.gamezone.de
+adservice.google.com
 adservinginternational.com
 adserving.unibet.com
 ads.eu.msn.com
@@ -1147,6 +1148,7 @@ calculatingcircle.com
 calculatingtoothbrush.com
 calculatorcamera.com
 callousbrake.com
+callrail.com
 calmfoot.com
 campaign.bharatmatrimony.com
 caniamedia.com
@@ -1907,6 +1909,7 @@ mas.sector.sk
 matchcraft.com
 matheranalytics.com
 mathtag.com
+mautic.com
 max.i12.de
 maximiser.net
 maximumcash.com
@@ -1966,6 +1969,7 @@ mgid.com
 microstatic.pl
 microticker.com
 militaryverse.com
+minewhat.com
 minormeeting.com
 misstrends.com
 mixedreading.com
@@ -2196,6 +2200,7 @@ piet2eix3l.com
 pietexture.com
 pimproll.com
 ping.ublock.org
+pi.pardot.com
 pippio.com
 piquantpigs.com
 pixel.adsafeprotected.com
