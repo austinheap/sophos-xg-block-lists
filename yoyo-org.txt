@@ -1627,6 +1627,7 @@ go-rank.de
 gorgeousground.com
 gossipmiser.com
 gostats.com
+gotraffic.net
 gp.dejanews.com
 gracefulsock.com
 grandioseguide.com
@@ -2497,6 +2498,7 @@ smashsurprise.com
 smetrics.ctv.ca
 smetrics.foxnews.com
 smetrics.walgreens.com
+smetrics.washingtonpost.com
 smilingwaves.com
 snakesort.com
 snapads.com
@@ -2530,6 +2532,7 @@ sponsors.thoughtsmedia.com
 spot.fitness.com
 spottysense.com
 spotxchange.com
+spotx.tv
 springaftermath.com
 spurioussteam.com
 spykemediatrack.com
