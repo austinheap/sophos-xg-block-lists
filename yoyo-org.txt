@@ -584,7 +584,6 @@ ads.linkedin.com
 ads.linuxfoundation.org
 ads.livenation.com
 ads.lordlucky.com
-ad.slutload.com
 ads.mariuana.it
 adsmarket.com
 ad.smartclip.net
@@ -989,7 +988,6 @@ banner.easyspace.com
 banner.elisa.net
 banner.eurogrand.com
 banner-exchange-24.de
-bannerexchange.cjb.net
 bannerflow.com
 banner.goldenpalace.com
 bannergrabber.internet.gr
@@ -1074,6 +1072,7 @@ belstat.com
 belstat.nl
 berp.com
 bestboundary.com
+best-pr.info
 bestsearch.net
 best-top.ro
 bewilderedblade.com
@@ -2021,6 +2020,7 @@ mystat-in.net
 mystat.pl
 mysteriousmonth.com
 mytop-in.net
+mytrafficads.com
 myvisualiq.net
 mzbcdn.net
 n69.com
