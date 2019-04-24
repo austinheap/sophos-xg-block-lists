@@ -1043,7 +1043,6 @@ puna.pl
 punkt-pozyczka.pl
 push-notification.tools
 px1alsry.com
-pynio.pl
 pyracity.info
 pz21.pl
 qpodgladacz.glt.pl
@@ -1246,7 +1245,6 @@ tniemyceny.net
 todolize.com
 token-interia.pl
 topseans.pl
-topshoes24.pl
 torrenty--org.pl
 track.adsfast.com
 trackgsm.co.uk
@@ -1298,7 +1296,6 @@ v7pjo.voluumtrk.com
 vaccgenocide.wordpress.com
 vapormax.pl
 vasco-group.eu
-vavotel.com
 vcxz.pl
 vegatestsklep.pl
 verifycaptcha.com
@@ -1615,7 +1612,6 @@ www.tiens.pl
 www.tigipro.pl
 www.totucafe.pl
 www.tslinfo.pl
-www.tuesdaysky.pl
 www.tupperware.pl
 www.twoja-wygrana.com
 www.twojszczesliwydzien.com
@@ -1627,7 +1623,6 @@ www.uggwyprzedaz.pl
 www.ultraexpert.pl
 www.updatestar.com
 www.vansallegro.pl
-www.vanssk8hi.pl
 www.vantis-holding.com
 www.vascoart.pl
 www.vegascosmetics.de
@@ -1638,7 +1633,6 @@ www.videodownloadconverter.com
 www.virtualsklep.com
 www.viskon.pl
 www.wiecznieczwarty.com.pl
-www.wildent.pl
 www.witnatura.pl
 www.wizecover.co.uk
 www.wraplo.pl
@@ -1669,7 +1663,6 @@ wypad3k0.blogspot.com
 wyspaofert.com
 xbox1emulator.org
 xbox360emulator.com
-xkomp.net
 xmlgrab.com
 xn--pandorabiuteria-qkd.pl
 xtrak.me
@@ -1689,10 +1682,8 @@ yuppipuppy.com
 za10groszy.pl
 zabawekswiat.eu
 zakupeo.com
-zakuprtvagd.net
 zakupyagd.net
 zakupymax.net
-zakupyrtvagd.pl
 zalukajfilmy.pl
 zalukaj-online.pl
 zamiana-koloru.blogspot.com
