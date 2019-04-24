@@ -2852,6 +2852,7 @@ app1.letitbefaster.life
 app1.letitbefaster.website
 app1.letmacworkfaster.site
 app1.letslowbefast.site
+app2.downloadmacsoft.site
 app2.downloadmacsoft.world
 app2.letitbefaster.life
 app2.letitbefaster.website
@@ -3297,6 +3298,7 @@ beseenad.looksmart.com
 be.sitestat.com
 best2017games.com
 bestadbid.com
+best.aliexpress.com
 bestgift4you.cn
 bestgore.com
 best-hir.com
@@ -3466,6 +3468,7 @@ broadent.vo.llnwd.net
 brokertraffic.com
 browserbreckalarm.info
 browsergames2018.com
+browsergames2019.com
 browser-message.com
 browser-notifications.bid
 browserprotecter.com
@@ -4824,6 +4827,7 @@ documents-signature.com
 doesok.top
 dogpile.112.2o7.net
 d.oix.com
+dolohen.com
 domwpm.stream
 donnez-votre-avis.org
 donotwatch.org
@@ -6041,6 +6045,7 @@ gug.ku6cdn.com
 guiaconsumidor.com
 guide2poker.com
 guildofangels.net
+gukne.koreastar.website
 GUMpolice.com
 guptamedianetwork.com
 guru.sitescout.netdna-cdn.com
@@ -6062,6 +6067,7 @@ h.admob.com
 h-afnetwww.adshuffle.com
 hai2u.com
 hair-dos.resourcesarchive.com
+hajoopteg.com
 hakerzy.net
 hakuba.janis.or.jp
 halfords.ukrpts.net
@@ -6512,6 +6518,7 @@ infinite-ads.com
 infomart.ca.112.2o7.net
 infopaypal.com
 informacja-dnia.com
+informereng.com
 infos-bourses.com
 infospace.com.112.2o7.net
 in.getclicky.com
@@ -6710,6 +6717,7 @@ jh.revolvermaps.com
 jhumour.cjt1.net
 jijsonline.122.2o7.net
 jingjia.qq.com
+jinxc.fruitaxis.pw
 jitmj4.122.2o7.net
 jivox.com
 jiztini.com
@@ -7101,6 +7109,7 @@ louisvil.app.ur.gcion.com
 louisvil.ur.gcion.com
 lp1.linkpulse.com
 lp4.linkpulse.com
+lp4.onlinecasinoreports.com
 lp7.mobilescaner.today
 lp.cleanmymac.online
 lpcloudsvr302.com
@@ -7392,6 +7401,7 @@ mac-os.apple.com-secured.online
 mac-osx.message-warning.net
 mac-protection.info
 macpurifier.com
+mac-safety-check.com.ppikkoyfug.db3irlfl8g2nrljgxnlsoqmvb1s.icu
 macshield8.club
 macskajaj.net
 mac.system-alert1.com
@@ -9498,6 +9508,7 @@ redirect.hotkeys.com
 re.directrev.com
 redirect.xmlheads.com
 redonetype.com
+redserv.giraffeeverest.com
 redshell.io
 redsheriff.com
 reduxads.valuead.com
@@ -9939,7 +9950,6 @@ secure-nz.imrworldwide.com
 securerr.com
 securerunner.com
 secure-uk.imrworldwide.com
-secure-us.imrworldwide.com
 secure.webconnect.net
 secure-za.imrworldwide.com
 securitas232maximus.xyz
@@ -10631,6 +10641,7 @@ stl.p.a1.traceworks.com
 st.marketgid.com
 stocker.bonnint.net
 stoiximan.gr
+stompebi.link
 stopphoulplay.com
 stopphoulplay.net
 stop-smoking.1.p2l.info
@@ -11211,6 +11222,7 @@ tracking.trafficjunky.net
 tracking.trksrv.com
 tracking.truthfinder.com
 tracking.trutv.com
+tracking.vcommission.com
 tracking.veoxa.com
 tracking.vindicosuite.com
 trackit.vicotech.com
@@ -11601,6 +11613,7 @@ uole.ad.uol.com.br
 updateauto.preparevideosafesystem4unow.site
 updateauto.preparevideosafesystem4unow.space
 updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
+updateplayer-flash.icu
 update.theplacetoupdating.pw
 upgradeget.thegreatforupdatesafemove.download
 upgradenote.enterbestforupdating.bid
@@ -13062,6 +13075,7 @@ www.freeshoppingsource.com
 www.freespinwinner.win
 www.freestats.com
 www.freo-stats.nl
+www.frequencyaccess.com
 www.frequencyscheduler.com
 www.friend-card.com
 www.friend-cards.com
@@ -13145,6 +13159,7 @@ www.grz67.com
 www.guesstheview.com
 www.guptamedianetwork.com
 www.hai2u.com
+www.hajoopteg.com
 www.hakerzy.net
 www.hallaert.online
 www.haoyunlaid.com
@@ -13214,6 +13229,7 @@ www.indexerflash.com
 www.indiads.com
 www.infinite-ads.com
 www.infopaypal.com
+www.informereng.com
 www.inpagevideo.nl
 www.ins-offer.com
 www.insurance-rewardpath.com
@@ -13750,6 +13766,7 @@ www.topbrandrewards.com
 www.topconsumergifts.com
 www.topdemaroc.com
 www.topmeds10.com
+www.topreward.site
 www.toy-offer.com
 www.toy-offer.net
 www.tqlkg.com
