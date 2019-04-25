@@ -587,7 +587,6 @@ instytut-pomocy.pl
 intconnectltd.com
 intelligenttechnologies.pl
 interbuty.pl
-interia-token.pl
 interia-zabezpieczenia.pl
 inwestujwrozwoj.pl
 iotiot.cf
@@ -1362,7 +1361,6 @@ wtmtrack.com
 ww7.openwrt.com
 www.4life.com
 www.7218.pl
-www.72933.pl
 www.a1a.pl
 www.ab4hr.com
 www.act-natural.pl
