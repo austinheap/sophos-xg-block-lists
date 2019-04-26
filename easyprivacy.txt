@@ -414,6 +414,7 @@ analytics.cincopa.com
 analytics.clickpathmedia.com
 analytics.closealert.com
 analytics.cmg.net
+analytics-cms.whitebeard.me
 analytics.cnd-motionmedia.de
 analytics.cocolog-nifty.com
 analytics.codigo.se
@@ -952,6 +953,7 @@ brcdn.com
 bridgevine.com
 bright.bncnt.com
 brightedge.com
+brightfunnel.com
 brilig.com
 broaddoor.com
 brominer.com
@@ -1259,6 +1261,7 @@ cnt.vivatube.com
 cnxweb.com
 cnzz.com
 cnzz.net
+cobaltgroup.com
 codata.ru
 cod.bitrec.com
 cogmatch.net
@@ -1707,6 +1710,7 @@ data.circulate.com
 datacollector.coin.scribol.com
 datacoral.com
 datacoral.io
+datadome.co
 data.econa.com
 datafeedfile.com
 data.gosquared.com
@@ -2546,6 +2550,7 @@ hentaicounter.com
 herphemiste.com
 hetchi.com
 hexagon-analytics.com
+heyhelga.net
 heystaks.com
 hhb123.tk
 hiconversion.com
@@ -3253,6 +3258,7 @@ m.anyfiles.ovh
 maploco.com
 mapmyuser.com
 marcycoin.org
+ma.register.it
 marinsm.com
 market015.com
 market2lead.com
@@ -3901,6 +3907,7 @@ percentmobile.com
 percycle.com
 perfdrive.com
 perfiliate.com
+perfops.net
 performanceanalyser.net
 performancerevenues.com
 performances.bestofmedia.com
@@ -4099,6 +4106,7 @@ pr.blogflux.com
 pr-chart.com
 pr-chart.de
 prchecker.info
+prd-collector-anon.playbuzz.com
 precisioncounter.com
 predicta.net
 predictivedna.com
@@ -4914,6 +4922,7 @@ stadig.ifeng.com
 stadsvc.com
 sta.ifeng.com
 star-cntr-5.com
+st.arte.tv
 startstat.ru
 stat08.com
 stat.1688.com
@@ -5064,6 +5073,7 @@ stats.digital-natives.de
 stats.directnic.com
 stats.dnaindia.com
 stats.dominoplaza.com
+statsd.zmags.com
 stats.ebay.com
 stats.edicy.com
 stat.segitek.hu
@@ -6394,6 +6404,7 @@ wisetrack.net
 wishloop.com
 wisteria-js.excite.co.jp
 witthethim.com
+wla.vivaldi.com
 wl.jd.com
 wmemsnhgldd.ru
 wmtech.website

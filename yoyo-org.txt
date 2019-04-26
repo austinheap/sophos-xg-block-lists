@@ -1314,7 +1314,6 @@ counter.snackly.co
 counter.sparklit.com
 counter.yadro.ru
 counting.kmindex.ru
-count.rbc.ru
 count.rin.ru
 counts.tucows.com
 count.west263.com
@@ -1427,7 +1426,6 @@ downloadr.xyz
 dq95d35.com
 drabsize.com
 dragzebra.com
-drumcash.com
 drydrum.com
 dsp.io
 dstillery.com
@@ -1497,7 +1495,6 @@ eu-adcenter.net
 eurekster.com
 euros4click.de
 eusta.de
-eventbeacon.ca
 everesttech.net
 evergage.com
 evyy.net
@@ -1676,6 +1673,7 @@ hitlounge.com
 hitometer.com
 hit-parade.com
 hits4me.com
+hits4pay.com
 hits.europuls.eu
 hits.informer.com
 hitslink.com
