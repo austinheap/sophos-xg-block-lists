@@ -4213,6 +4213,7 @@ px.reactrmod.com
 px.spiceworks.com
 px.staticfiles.at
 px.topspin.net
+px.wayfair.com
 pymx5.com
 p.yotpo.com
 pzkysq.pink
