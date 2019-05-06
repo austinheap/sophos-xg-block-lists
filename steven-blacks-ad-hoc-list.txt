@@ -247,6 +247,7 @@ apiv2.moengage.com
 apiv3.moengage.com
 app.adjust.com
 appcdn.tvpage.com
+apple.com-fasting.live
 apple.com-notice.info
 applog.camera360.com
 applog.uc.cn
@@ -343,6 +344,7 @@ clickrtb-useast.kobenetwork.com
 click.union.ucweb.com
 client-analytics.braintreegateway.com
 clockskew.alphonso.tv
+com-fasting.live
 com-notice.info
 consumerproductsusa.com
 convhkmp.taboola.com
@@ -836,6 +838,7 @@ www.alphonso.tv
 www.aoredi.com
 www.api.ad.intl.xiaomi.com
 www.api.alphonso.tv
+www.apple.com-fasting.live
 www.apple.com-notice.info
 www.arkonziv.com
 www.axiatraders.com
