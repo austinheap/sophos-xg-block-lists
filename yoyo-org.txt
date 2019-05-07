@@ -2286,7 +2286,6 @@ qctop.com
 qnsr.com
 quacksquirrel.com
 quaintcan.com
-qualtrics.com
 quantcast.com
 quantcast.mgr.consensu.org
 quantserve.com
@@ -2482,6 +2481,7 @@ sinefight-skinesia.com
 sinoa.com
 sitedataprocessing.com
 siteimproveanalytics.com
+siteintercept.qualtrics.com
 sitemeter.com
 sitestat.com
 sixscissors.com
