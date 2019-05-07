@@ -938,6 +938,7 @@ boomerang.com.au
 boomtrain.com
 boss.berlinonline.de
 botdetector.ru
+botize.com
 botman.ninja
 botscanner.com
 botsvisit.com
@@ -1325,6 +1326,8 @@ comet.ibsrv.net
 commander1.com
 comms-web-tracking.uswitchinternal.com
 company-target.com
+compare.easyviaggio.com
+compare.easyviajar.com
 compteur.cc
 compteur.com
 compteur.developpez.com
@@ -1976,6 +1979,7 @@ emediatrack.com
 emetriq.de
 emltrk.com
 emng.libero.it
+emxdgt.com
 encoderfarmced-stats-ns.servicebus.windows.net
 encoderfarmstatsnew.servicebus.windows.net
 encoding.ovh
@@ -3270,6 +3274,7 @@ marketing.net.jumia.com.ng
 marketing.nodesource.com
 marketing-page.de
 marketizator.com
+marketperf.com
 marketshot.com
 marketshot.fr
 maropost.com
@@ -3800,6 +3805,7 @@ opentracker.net
 openvenue.com
 openxtracker.com
 ophan.guardian.co.uk
+ophan.theguardian.com
 oproi.com
 optify.net
 optimahub.com
@@ -4444,6 +4450,7 @@ roosterfirework.com
 r.orange.fr
 royalcount.de
 rpdtrk.com
+rp-rep.net
 rqtrk.eu
 rrimpl.com
 rs0.co.uk
@@ -6266,6 +6273,7 @@ wa.ui-portal.de
 waust.at
 way2traffic.com
 wbdds.allocine.fr
+wbdx.fr
 wbmwss.beetv.net
 wbtrk.net
 wcfbc.net
