@@ -1769,6 +1769,7 @@ de-mi-nis-ner.info
 denakop.com
 de-ner-mi-nis4.info
 de-nis-ner-mi-5.info
+departapp.com
 depttake.ga
 dep-x.com
 deqwas.net
@@ -2094,6 +2095,7 @@ events.apester.com
 events.bounceexchange.com
 events.chaordicsystems.com
 events.demoup.com
+events.godaddy.com
 events.ingatlan.com
 events.izooto.com
 events.jora.com
@@ -5013,6 +5015,7 @@ stat.pladform.ru
 stat.ppstream.com
 stat.pptv.com
 stat.pravmir.ru
+stat.pubhtml5.com
 stat.radar.imgsmail.ru
 stat.ringier.cz
 stat.ringier.sk
