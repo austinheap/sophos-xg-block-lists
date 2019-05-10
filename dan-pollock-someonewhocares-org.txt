@@ -7418,6 +7418,7 @@ m.adnxs.com
 mads.amazon-adsystem.com
 mads.aol.com
 mads.cnet.com
+magento-analytics.com
 magyarkozosseg.net
 magyar-media.com
 magyarnep.me
