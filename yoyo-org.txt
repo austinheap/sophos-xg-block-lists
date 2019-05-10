@@ -922,7 +922,6 @@ app.pendo.io
 appsflyer.com
 aps.hearstnp.com
 apture.com
-apusx.com
 aquaticowl.com
 ar1nvz5.com
 arc1.msn.com
@@ -1208,6 +1207,7 @@ clearcomb.com
 clevernt.com
 click2freemoney.com
 clickability.com
+click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1426,6 +1426,7 @@ downloadr.xyz
 dq95d35.com
 drabsize.com
 dragzebra.com
+drumcash.com
 drydrum.com
 dsp.io
 dstillery.com
@@ -2011,6 +2012,7 @@ mybuys.com
 mycounter.ua
 mydas.mobi
 mylink-today.com
+mymoneymakingapp.com
 mypagerank.net
 mypagerank.ru
 mypowermall.com
@@ -2049,6 +2051,7 @@ netdirect.nl
 net-filter.com
 netincap.com
 netmng.com
+netpool.netbookia.net
 netshelter.net
 neudesicmediagroup.com
 newads.bangbros.com
@@ -2662,7 +2665,6 @@ theadhost.com
 theads.me
 thebugs.ws
 therapistla.com
-therichkids.com
 thinkablerice.com
 thirdrespect.com
 thirstytwig.com
@@ -2924,6 +2926,7 @@ xiti.com
 xovq5nemr.com
 xplusone.com
 xponsor.com
+xq1.net
 xtendmedia.com
 x-traceur.com
 xtremetop100.com
