@@ -3152,6 +3152,7 @@ loggly.cheatsheet.com
 loggly.com
 log.go.com
 log.hiiir.com
+log.hypebeast.com
 log.ideamelt.com
 log.idnes.cz
 loginlog.sdo.com

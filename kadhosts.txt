@@ -490,6 +490,7 @@ gdb-finance.pl
 geldorbank.pl
 gemverify.com
 generatorkodow.hpu.pl
+gerotel.com
 getfilesfrom.net
 getgamecheats.com
 getleads.pl
