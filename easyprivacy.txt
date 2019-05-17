@@ -1346,6 +1346,7 @@ confirmit.com
 confirm-referer.glrsales.com
 consciouscabbage.com
 consciouschairs.com
+contactatonce.com
 contactmonkey.com
 contadordevisitas.es
 contadores.bolsamania.com
@@ -1373,6 +1374,7 @@ conversionfly.com
 conversionlogic.net
 conversionly.com
 conversionruler.com
+convertcart.com
 convertexperiments.com
 convertglobal.com
 convertmarketing.net
@@ -1674,6 +1676,7 @@ d36wtdrdo22bqa.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
 d3alqb8vzo7fun.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
+d3eokk6ya562p5.cloudfront.net
 d3ezl4ajpp2zy8.cloudfront.net
 d3h1v5cflrhzi4.cloudfront.net
 d3hr5gm0wlxm5h.cloudfront.net
@@ -2520,6 +2523,7 @@ gu-pix.appspot.com
 guruquicks.net
 gus.host
 gustaver.ddns.net
+g.vev.io
 gvisit.com
 gweini.com
 gx.idg.se
@@ -2764,6 +2768,7 @@ influid.co
 influxer.onion.com
 infocollect.dk
 info.elba.at
+infoprodata.com
 infopro-insight.com
 informers.sinoptik.ua
 informer.yandex.ru
@@ -3215,6 +3220,7 @@ lookery.com
 lookit.cz
 lookmy.info
 look.urs.tw
+loopa.net.au
 loopfuse.net
 l.ooyala.com
 lopley.com
@@ -4427,6 +4433,7 @@ ripost.services
 ritecounter.com
 ritogaga.com
 ritzykey.com
+rivrai.com
 rkdms.com
 rktu.com
 rlcdn.com
