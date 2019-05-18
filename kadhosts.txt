@@ -57,6 +57,7 @@ ale-fotogragia.bo.pl
 aleshop.pl
 alexsoff.com
 alisto-pozyczki.pl
+alle-perfumy.pl
 allfiles.pl
 alloversuccess.com
 all-player.pl
@@ -64,6 +65,7 @@ allplayer.pl
 alwetagd.pl
 androidgameshacks.com
 androidsecurityplus.com
+aniadostawa.com
 ankiety-konsumenckie.pl
 antontech.pl
 antyspam.net
@@ -185,6 +187,7 @@ cellfun.mobi
 centrum-agd.net
 centrum-bezpiecznej-pozyczki.waw.pl
 centrumdxn.pl
+centrumfantastyki.pl
 centrummarek.pl
 centrumnaukowe.eu
 centrumofert.com
@@ -259,6 +262,7 @@ davor.io
 denis928.000webhostapp.com
 dietstars.pro
 dirtyhood.pl
+dketrade.top
 dlagier.com
 dlf.pl
 dlmyfile.com
@@ -309,6 +313,7 @@ ebeautyportal.com
 ebook4all.com.pl
 ebookeo.pl
 ebookipdf.pl
+ebuty.net.pl
 e-cda.pl
 eco-flow.pl
 econtent.pl
@@ -344,6 +349,7 @@ e-udanezakupy.pl
 euresco.pl
 euronicspl.net
 europronet.net
+eurortvagd24.pl
 eurortv.net
 excelz.com
 exeos.ws
@@ -498,6 +504,7 @@ getleads.pl
 getthesneakers.pl
 gift19.club
 gift-cards.co.pl
+gifts-for-free.online
 gigup.net
 girrrly.com
 giveskincs.nd.pl
@@ -550,6 +557,7 @@ hitlog.tk
 hitvisit.com
 hksfa.org
 holdenavenue.pl
+hollistersklep.pl
 homeagd.in.net
 homeekspert.net
 homeexpres.net
@@ -619,6 +627,7 @@ kasa-sms.pl
 kaufland.gift-cards.co.pl
 kdplay.net
 kekuko.com
+kickz4u.pl
 kimera.pl
 kinoman-tv.pl
 kinotek.pl
@@ -654,6 +663,7 @@ ksiazka-telefoniczna-online.pl
 ktopodgladamnienafacebooku.wordpress.com
 kupgo.net
 kupujemy24.net
+kupujemy.to
 kuriero.pl
 kuyxjgf.ga
 lampeberger.com.pl
@@ -723,6 +733,7 @@ megadown.net
 megadown.us
 mega-gry.com
 megazakupy.net
+m-electro.pl
 mememakers.mobi
 menshealthweb.co
 mezczyzna-trendy.pl
@@ -778,6 +789,7 @@ msphacks.net
 multico.5v.pl
 mundialove.pl
 music.jbl-solo.com
+muverbo.pl
 myacn.eu
 myaff.pl
 my.coolestmobi.com
@@ -797,6 +809,7 @@ namierz-telefon.pl
 napraw-laptopa.waw.pl
 narzedzia-fb.blogspot.com
 nasdacoin.io
+nassy.pl
 naszasa.pl
 naturabazar.pl
 naturday.pl
@@ -885,6 +898,7 @@ pay.mobiltek.pl
 pay.onebip.com
 pc-data.pl
 pcmban.com
+pc-serwis-brzozow.pl
 pcspeedup.com
 pdf.com.pl
 pegasuswebco.com
@@ -1024,6 +1038,7 @@ prooexpert.com
 provanto.pl
 przejdz.ml
 przepismix.pl
+przesyleczki.com
 przyspieszkomputer.pl
 przyspiesz.pl
 psialapka.pl
@@ -1129,6 +1144,7 @@ sklep-colway.pl
 skleptiande.pl
 skroc-link.ga
 skutecznesrodki-tabletkinapotencje.ovh
+slavcomp.pl
 sm4ll.in
 smallshop.pl
 smartoffer.site
@@ -1164,6 +1180,7 @@ sprawdzikk.v0r.org
 sprawdzktopodgglada.blogspot.com
 sprawdz-ogladaj.bo.pl
 spreadyourtentacles.com
+ssl.lnsanepay.net
 sspawdzktopodgglada.blogspot.com
 st.acstnst.com
 star-life.pl
@@ -1171,6 +1188,7 @@ steamco.de
 steamgifts.5v.pl
 steam-wallet-gifts.com
 steam-wallet-money.com
+stenplus.onewaywinner.com
 stopnop.com.pl
 stop-sms.pl
 streamgo.pl
@@ -1210,6 +1228,7 @@ teleaudio.pl
 telecop.in.net
 telefon-50-zl.is-best.net
 telewizja-internetowa24.pl
+tembakan.pl
 tengofoxfiles.com
 testinteligencji.bo.pl
 test--na--iq.blogspot.com
@@ -1259,6 +1278,7 @@ tvnewtop.pro
 tvonline.hol.es
 twojeartykuly.com
 twoje-piekno.pl
+twojhoroskop.com
 tyi4.pl
 tysiaczek.pl
 tyxuhuramolicul.tk
@@ -1656,6 +1676,7 @@ xn--pandorabiuteria-qkd.pl
 xtrak.me
 xzegarsmiercix.prv.pl
 y4681.6128786.com
+ychicenter.com
 yotafiles.com
 yotefiles.com
 yourebook.pl
@@ -1675,6 +1696,7 @@ zakupymax.net
 zalukajfilmy.pl
 zalukaj-online.pl
 zamiana-koloru.blogspot.com
+zamowienia-priorytetowe.pl
 zapraszamybowarto.pl
 zarabativaisazartom.net
 zarabiajwsieci.5v.pl
@@ -1688,6 +1710,7 @@ zdaj-to.pl
 zebrapozyczki.pl
 zejrzyj-zdjecia.bo.pl
 zennoa-poland.com
+zespolmayol.pl
 zgarniij_vouchher.skroc.pl
 zgarnij.net
 zgarnijplik.pl
@@ -1700,6 +1723,7 @@ znajdz-numer.pl
 zobacz24.pl
 zobaczktopodgladaa.blogspot.com
 zoomica.pl
+zosprp-wagrowiec.pl
 zukiewicz.com
 zumodi.com
 zweryfiikujdane.tk
