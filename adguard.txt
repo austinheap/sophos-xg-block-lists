@@ -21565,7 +21565,6 @@ statesol.net
 stat.freetool.it
 stathat.com
 stathound.com
-static.1dmp.io
 static-ads.akamaized.net
 static-ads.zaloapp.com
 static.adtidy.net
