@@ -1403,6 +1403,7 @@ dispensablestranger.com
 displayadsmedia.com
 disqusads.com
 dist.belnk.com
+distillery.wistia.com
 dk4ywix.com
 dmtracker.com
 dmtracking2.alibaba.com
@@ -1851,6 +1852,7 @@ linkstorms.com
 linkswaper.com
 linktarget.com
 liquidad.narrowcastmedia.com
+litix.io
 liveadexchanger.com
 liveintent.com
 liverail.com
@@ -2192,6 +2194,7 @@ pietexture.com
 pimproll.com
 ping.ublock.org
 pi.pardot.com
+pipedream.wistia.com
 pippio.com
 piquantpigs.com
 pixel.adsafeprotected.com
@@ -2567,6 +2570,7 @@ stats.x14.eu
 stat.webmedia.pl
 statxpress.com
 stat.zenon.net
+st.dynamicyield.com
 steadfastsound.com
 steadfastsystem.com
 steelhouse.com
@@ -2813,6 +2817,7 @@ visualrevenue.com
 vmmpxl.com
 voicefive.com
 voicevegetable.com
+voluum.com
 volvelle.tech
 vpon.com
 vrs.cz
