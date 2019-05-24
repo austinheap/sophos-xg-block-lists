@@ -8189,7 +8189,6 @@ beads.sx.atl.publicus.com
 beamfall.info
 beam.hlserve.com
 beamincrease.com
-beamkite.com
 beap.adx.yahoo.com
 beap-bc.yahoo.com
 beap.gemini.yahoo.com
@@ -10333,6 +10332,7 @@ click3.rbc.magna.ru
 click4.rbc.magna.ru
 click.a-ads.com
 clickability.com
+click.absoluteagency.com
 clickad.eo.pl
 click.adimmix.com
 click.adpile.net
@@ -10906,7 +10906,6 @@ comics.ign.us.intellitxt.com
 comingsoon.us.intellitxt.com
 com-kia.netmng.com
 com-kodak.netmng.com
-commandwalk.com
 commerce-offer.com
 commerce-rewardpath.com
 commerce.www.ibm.com
@@ -11556,7 +11555,6 @@ crosspixel.demdex.net
 crosspromo.voodoo.io
 crowdgravity.com
 crowdignite.com
-crownclam.com
 crs.adapf.com
 crtl.aimatch.com
 crtv.mate1.com
@@ -12156,7 +12154,6 @@ delfiadlv.hit.gemius.pl
 delfiee.adocean.pl
 delfilv.adocean.pl
 delfilv.hit.gemius.pl
-delightdriving.com
 delightful.112.2o7.net
 deliver.ads2.iid.jp
 deliver.ads3.iid.jp
@@ -12330,7 +12327,6 @@ diff2.smartadserver.com
 diff3.smartadserver.com
 diff4.smartadserver.com
 diff5.smartadserver.com
-differentdesk.com
 diff.smartadserver.com
 digg.analytics.live.com
 digger.cryptobara.com
@@ -21773,10 +21769,8 @@ nebnr.112.2o7.net
 neccorp.112.2o7.net
 neccorp.tt.omtrdc.net
 nedstatbasic.net
-nedstat.com
 nedstat.net
 nedstat.nl
-nedstatpro.net
 nedstat.s0.nl
 nedstat.tripod.com
 needadvertising.com
@@ -21791,7 +21785,6 @@ nellyticket.beast-space.com
 nelsongod.ca
 nend.net
 neocounter.neoworx-blog-tools.net
-neoffic.com
 neogenadro.hit.gemius.pl
 neo.go.sonobi.com
 neomedia24.net
@@ -27379,7 +27372,6 @@ sgmedia.adspirit.net
 sg.mmstat.com
 sgp.o2o.api.xiaomi.com
 sgqcvfjvr.onet.pl
-s.gravatar.com
 sgs001.adtech.de
 sgs001.adtech.fr
 sgs001.adtech.us

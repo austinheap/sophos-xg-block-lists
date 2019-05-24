@@ -725,7 +725,6 @@ ads.waps.cn
 ads.wapx.cn
 ads.watson.ch
 ads.weather.ca
-ads.web.aol.com
 ads.web.cs.com
 ads.web.de
 ads.webmasterpoint.org
@@ -1063,7 +1062,6 @@ bbelements.com
 bbn.img.com.ua
 beacon.gu-web.net
 beamincrease.com
-beamkite.com
 bebi.com
 bedsbreath.com
 begun.ru
@@ -1205,6 +1203,7 @@ clearcomb.com
 clevernt.com
 click2freemoney.com
 clickability.com
+click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1261,7 +1260,6 @@ cointraffic.io
 colonize.com
 comclick.com
 comfortablecheese.com
-commandwalk.com
 commindo-media-ressourcen.de
 commissionmonster.com
 commonswing.com
@@ -1336,7 +1334,6 @@ criteo.com
 critictruck.com
 croissed.info
 crowdgravity.com
-crownclam.com
 crtv.mate1.com
 crwdcntrl.net
 ctnetwork.hu
@@ -1373,7 +1370,6 @@ decoycreation.com
 deepintent.com
 defectivesun.com
 delegatediscussion.com
-delightdriving.com
 deloo.de
 deloton.com
 demandbase.com
@@ -1388,7 +1384,6 @@ di1.shopping.com
 dialerporn.com
 dianomi.com
 didtheyreadit.com
-differentdesk.com
 digital-ads.s3.amazonaws.com
 digitalmerkat.com
 directaclick.com
@@ -1596,7 +1591,6 @@ gamehouse.com
 gamesites100.net
 gamesites200.com
 gammamaximum.com
-gbanners.hornymatches.com
 geobanner.adultfriendfinder.com
 geo.digitalpoint.com
 geovisite.com
@@ -2028,13 +2022,9 @@ nbjmp.com
 ncaudienceexchange.com
 ndparking.com
 nedstatbasic.net
-nedstat.com
-nedstat.nl
-nedstatpro.net
 neighborlywatch.com
 nend.net
 neocounter.neoworx-blog-tools.net
-neoffic.com
 nervoussummer.com
 netaffiliation.com
 netagent.cz
