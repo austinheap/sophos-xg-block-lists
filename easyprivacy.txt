@@ -514,6 +514,7 @@ analytics.sitewit.com
 analytics.skyscanner.net
 analytics.slashdotmedia.com
 analytics.snidigital.com
+analytics.socialblade.com
 analytics.solidbau.at
 analytics.sonymusic.com
 analytics.spankbang.com
@@ -821,6 +822,8 @@ beemray.com
 beemrdwn.com
 beencounter.com
 befirstcdn.com
+behave.noen.at
+behave.sn.at
 behavioralengine.com
 bekannt-im-web.de
 belicimo.pw
@@ -1387,6 +1390,7 @@ cookietracker.cloudapp.net
 cookiex.ngd.yahoo.com
 cooladata.com
 coolertracks.emailroi.com
+coordinatedcub.com
 copacast.net
 copperegg.com
 copycarpenter.com
@@ -2032,6 +2036,7 @@ erotikcounter.org
 erotop.lv
 errors.snackly.co
 error.videonow.ru
+escalated.io
 esearchvision.com
 eservicesanalytics.com.au
 esm1.net
@@ -2551,7 +2556,6 @@ hashzone.io
 hatcalter.com
 haveamint.com
 hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
-haymarket.com
 hbx.df-srv.de
 h.cliphunter.com
 hdmtools.com
@@ -3283,6 +3287,7 @@ maploco.com
 mapmyuser.com
 marcycoin.org
 ma.register.it
+marfeelcache.com
 marinsm.com
 market015.com
 market2lead.com
@@ -4574,6 +4579,7 @@ scripts21.com
 scriptshead.com
 scripts.psyma.com
 scroll.com
+scrubswim.com
 sc-static.net
 scupio.com
 sddan.com
@@ -5450,6 +5456,7 @@ teljari.is
 tellapart.com
 tellaparts.com
 temnos.com
+tempo.inc.com
 tendatta.com
 tenmax.io
 tenping.kr
@@ -5500,6 +5507,7 @@ timeslogtn.timesnow.tv
 timestrends.indiatimes.com
 timestrends.timesnow.tv
 tinb.net
+t.indeed.com
 tinglog.baidu.com
 tinycounter.com
 tinystat.ir
@@ -5847,6 +5855,7 @@ trackla.stackla.com
 track.leadin.com
 track.leady.cz
 track.mailerlite.com
+trackmethod.com
 track.mobicast.io
 track.mycliplister.com
 trackmytarget.com
