@@ -4621,7 +4621,9 @@ d14.zedo.com
 d1.openx.org
 d1.zedo.com
 d2o9ozfswytaqz.cloudfront.net
+d2.sina.com.cn
 d2.zedo.com
+d3.sina.com.cn
 d3.zedo.com
 d4q8zgf756.com
 d4.zedo.com
@@ -6060,6 +6062,7 @@ gwynethpaltrow.ca.tt
 gw.youmi.net
 gx-in-f109.1e100.net
 gyros.es
+gzqroju.cinci.rr.com
 h1317070.stratoserver.net
 h1.msn.com
 h1.ripway.com
@@ -8009,6 +8012,7 @@ mrjeweller.us
 mrtg.hitbox.com
 ms127.0.0.101341.club
 ms.5.p2l.info
+msblhtsh.cinci.rr.com
 mseuppremain.112.2o7.net
 msgstore2.pldtprv.net
 mshelp247.weebly.com
@@ -8282,6 +8286,7 @@ nj.5.p2l.info
 nkcache.brandreachsys.com
 nl.adserver.yahoo.com
 nl.ads.justpremium.com
+nlccrunsemmvbbv.cinci.rr.com
 nl.nedstatbasic.net
 nm.5.p2l.info
 nmanchorage.112.2o7.net
@@ -9210,6 +9215,7 @@ pple.com.virus-mac.com
 ppoi.org
 p.profistats.net
 p.publico.es
+pqqyhbff.cinci.rr.com
 pq.stat.ku6.com
 pr.5.p2l.info
 precisioncounter.com
@@ -9730,6 +9736,7 @@ RUSpolice.net
 russian-sex.com
 russ-shalavy.ru
 rv.adcpx.v1.de.eusem.adaos-ads.net
+ryadqsgyfwx.cinci.rr.com
 ryanrhodes.net
 rya.rockyou.com
 ry.znvzzptgblovers.download
@@ -9783,6 +9790,7 @@ s39.sitemeter.com
 s3.adbers.com
 s3.buysellads.com
 s3.hit.stat.pl
+s3.pfp.sina.net
 s-41.algovid.com
 s41.sitemeter.com
 s42.sitemeter.com
@@ -10179,7 +10187,6 @@ signup.advance.net
 si.hit.gemius.pl
 siliconera.us.intellitxt.com
 simba.6.cn
-simg.sinajs.cn
 simg.zedo.com
 simpleads.net
 simpletrck.com
@@ -10837,6 +10844,7 @@ tcss.qq.com
 tc.tradetracker.net
 tdameritrade.tt.omtrdc.net
 tdc.advertorials.dk
+tdethzebgufhuqt.cinci.rr.com
 tdkads.ads.dk
 t.dynad.net
 te.about.com
@@ -11902,6 +11910,7 @@ vwr1.hitbox.com
 vwr2.hitbox.com
 vwr3.hitbox.com
 vxiframe.biz
+vxluvrwzs.cinci.rr.com
 vxv.phre.net
 vzarabotke.ru
 w0.drag0n.org
@@ -12290,6 +12299,7 @@ world-trade-center.hawaiicity.com
 wormgush.com
 worry-free-savings.com
 wowanalytics.co.uk
+wpad.cinci.rr.com
 wpadx.com
 wp-club.net
 wpni.112.2o7.net
@@ -14090,6 +14100,7 @@ yang.hitbox.com
 yasmin.1.p2l.info
 yasmin.3.p2l.info
 yasmin.4.p2l.info
+ybhssnaemxyer.cinci.rr.com
 y.cdn.adblade.com
 yepdigital.adk2x.com
 y.extreme-dm.com
