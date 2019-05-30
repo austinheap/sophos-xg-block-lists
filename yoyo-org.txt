@@ -1858,6 +1858,7 @@ loading321.com
 log.btopenworld.com
 logger.snackly.co
 log.logrocket.io
+log.pinterest.com
 logs.roku.com
 logua.com
 longinglettuce.com
@@ -1872,6 +1873,7 @@ lwfjd.today
 lytics.io
 lzjl.com
 m1.webstats4u.com
+m2.ai
 m32.media
 m4n.nl
 m6r.eu
@@ -2830,6 +2832,7 @@ webads.co.nz
 webads.nl
 webangel.ru
 webcash.nl
+webcontentassessor.com
 webcounter.cz
 webcounter.goweb.de
 webgains.com
