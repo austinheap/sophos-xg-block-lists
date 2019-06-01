@@ -2263,6 +2263,7 @@ pub.hardware.fr
 publicidad.elmundo.es
 publicidees.com
 pubmatic.com
+pub.network
 pub.realmedia.fr
 pubs.lemonde.fr
 puffyloss.com
