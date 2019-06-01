@@ -5126,7 +5126,6 @@ statsevent.com
 stats.eyeviewdigital.com
 stats.farfetch.com
 stats.fd.nl
-stats.firedrive.com
 stats.fittkaumaass.de
 statsforever.com
 stats.fr
@@ -6337,6 +6336,7 @@ web.dle-news.pw
 webeffective.keynote.com
 webengage.com
 webest.info
+webeyez.com
 webflowmetrics.com
 webforensics.co.uk
 webgains.com
