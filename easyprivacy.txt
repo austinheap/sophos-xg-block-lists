@@ -2107,6 +2107,7 @@ event-reporting-dot-webylytics.appspot.com
 events.air.tv
 events.antenna.is
 events.apester.com
+events.avantisvideo.com
 events.bounceexchange.com
 events.chaordicsystems.com
 events.demoup.com
