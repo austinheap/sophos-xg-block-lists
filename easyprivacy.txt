@@ -6212,7 +6212,6 @@ videostat.index.hu
 videostat-new.index.hu
 video-stats.video.google.com
 videotracker.washingtonpost.com
-video.videos.vidto.me
 vidigital.ru
 viewar.org
 viewstat.promoblocks.ru
