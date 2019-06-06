@@ -3153,6 +3153,7 @@ logger.dailymotion.com
 logger.kataweb.it
 logger.logidea.info
 logger.nerdwallet.com
+logger.pw
 logger.rm.uol.com.br
 logger.snackly.co
 logger.sociablelabs.com
