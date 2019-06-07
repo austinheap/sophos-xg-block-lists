@@ -4243,6 +4243,7 @@ px.dynamicyield.com
 px.excitedigitalmedia.com
 pxf.io
 pxi.pub
+pxlad.io
 pxlgnpgecom-a.akamaihd.net
 px.marchex.io
 px.owneriq.net
