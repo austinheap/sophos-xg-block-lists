@@ -1648,7 +1648,6 @@ d1uanozc5el74n.cloudfront.net
 d1wscoizcbxzhp.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1yu5hbtu8mng9.cloudfront.net
-d1z2jf7jlzjs58.cloudfront.net
 d21o24qxwf7uku.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
@@ -3098,7 +3097,6 @@ linkxchanger.com
 listat.biz
 listrakbi.com
 listtop.ru
-litix.io
 live-audience.dailymotion.com
 livecounter.dk
 livecounter.theyosh.nl
@@ -6122,6 +6120,7 @@ up.boston.com
 up.nytimes.com
 up-rank.com
 upravel.com
+upscore.com
 upstats.ru
 upstats.yadro.ru
 uptain.de

@@ -5,7 +5,6 @@
 15b37.skroc.pl
 1freesoftwareonline.com
 20pascals.nl
-24drukuj.pl
 24-fakty.pl
 24hoursready.cf
 3000-od-reki.pl
@@ -23,6 +22,7 @@
 9xa.pl
 ab4hr.com
 abbp35.com
+ablip.pl
 acaiberryextreme.pl
 ace.jamba.pl
 ace.jamster.pl
@@ -150,6 +150,7 @@ blog-in.biz
 blog.jacekpaciorek.pl
 blogonews.com
 blos24.pl
+blubox.pl
 bmgrp.tk
 bnewsb.com
 bodysecretrevelation.com
@@ -273,19 +274,10 @@ dketrade.top
 dlagier.com
 dlf.pl
 dlmyfile.com
+dnirownosci.pl
 dobreprogramy.pro
 dobre-programy.xyz
 dofinansowania-jezykowe.pl
-dofinansowanie-dolnoslaskie.pl
-dofinansowanie-kujawsko-pomorskie.pl
-dofinansowanie-lodzkie.pl
-dofinansowanie-lubelskie.pl
-dofinansowanie-malopolskie.pl
-dofinansowanie-mazowieckie.pl
-dofinansowanie-podkarpackie.pl
-dofinansowanie-podlaskie.pl
-dofinansowanie-slaskie.pl
-dofinansowanie-wielkopolskie.pl
 doladowania-telefonu.pl
 doladowanie50pln.ujm.pl
 doladujfona.net
@@ -585,7 +577,6 @@ hostujmy.pl
 hotawards.pl
 hothub.pl
 hotokazje.com
-hotprizes.pl
 hp.myway.com
 huit.re
 humanverify.net
@@ -828,7 +819,6 @@ napraw-laptopa.waw.pl
 narzedzia-fb.blogspot.com
 nasdacoin.io
 nassy.pl
-naszasa.pl
 naturabazar.pl
 naturaikropka.pl
 naturday.pl
@@ -914,7 +904,6 @@ paulinajanowicz.pl
 pay2me.pl
 pay.mobiltek.pl
 pay.onebip.com
-pc-data.pl
 pcmban.com
 pc-serwis-brzozow.pl
 pcspeedup.com
@@ -983,7 +972,6 @@ pl.superando.net
 pl.team
 pl-ticket.today
 pl.tvplusnewtab.com
-pobeiranie.pl
 pobieralnia.com.pl
 pobieram-plik.pl
 pobierane.pl
@@ -999,7 +987,6 @@ pobraniowo.pl
 pod004.site
 podgladfacebokaa.blogspot.com
 po.fyybox.com
-pogotowiekomputerowe.net
 pokemon2k16go.blogspot.com
 pokemon-go-pakiety.blogspot.com
 pokemon-vip.rdx.pl
@@ -1062,6 +1049,7 @@ przesyleczki.com
 przyspieszkomputer.pl
 przyspiesz.pl
 psialapka.pl
+pszczelezycie.pl
 ptgame.eu
 publisher.lead.network
 puna.pl
@@ -1082,7 +1070,6 @@ ramissio.com
 randki-sex.com
 rapideo.pw
 rap-share.pl
-ratujlaptopa.pl
 rbxfree.com
 r.clube62.date
 rdraff.com-app1.site
@@ -1145,6 +1132,7 @@ sexopia.pl
 sharefile365.com
 shiporama.com
 shoegallery.com.pl
+shoesvclub.com
 shop.dr-rath.com
 shopsneakers.pl
 showmeflix.com
@@ -1246,6 +1234,7 @@ teespoon.co
 teleaudio.pl
 telecop.in.net
 telefon-50-zl.is-best.net
+telemediaa.pl
 telewizja-internetowa24.pl
 tembakan.pl
 tengofoxfiles.com
@@ -1272,6 +1261,7 @@ titan-man.pro
 tniemyceny.net
 todolize.com
 token-interia.pl
+tomaszrabinski.pl
 topseans.pl
 torrenty--org.pl
 track.adsfast.com
@@ -1555,7 +1545,6 @@ www.msp-hack.com
 www.myduolife.com
 www.myworld.com
 www.najlepszedlaciebie.com
-www.naszasa.pl
 www.nb574.pl
 www.newpassporn.com
 www.niechoruje.pl
@@ -1742,6 +1731,7 @@ zobacz24.pl
 zobaczktopodgladaa.blogspot.com
 zoomica.pl
 zosprp-wagrowiec.pl
+zskleczany.pl
 zukiewicz.com
 zumodi.com
 zweryfiikujdane.tk
