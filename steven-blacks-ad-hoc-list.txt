@@ -74,6 +74,7 @@ adscan.yelabapp.com
 ads.chacomedia.com
 adserver.adtech.de
 adservice.google.co.in
+adservice.google.com.vn
 adservice.google.nl
 ads.exoclick.com
 ads.feedly.com

@@ -1524,6 +1524,7 @@ count.rin.ru
 count.snacktv.de
 count.spiegel.de
 countstat.ru
+count.upc.rakuten.co.jp
 countus.fr
 count.video.sina.com.cn
 count.yandeg.ru
@@ -2518,6 +2519,7 @@ g.siliconweek.es
 gsimedia.net
 gsp1.baidu.com
 gsspat.jp
+gsspcln.jp
 gssprt.jp
 gstats.cn
 g-stats.openhost.es
@@ -2848,6 +2850,7 @@ iocnt.net
 iogous.com
 iolam.it
 ionmvdpifz.com
+ip2c.landscape.co.jp
 ip2location.com
 ip2map.com
 ip2phrase.com
@@ -3694,6 +3697,7 @@ newpoints.info
 newsanalytics.com.au
 newscurve.com
 newstatscounter.info
+nex8.net
 nexeps.com
 nexioniect.com
 nextbdom.ru
@@ -3803,6 +3807,7 @@ omniture.eaeurope.eu
 omniture.stuff.co.nz
 omniture.theglobeandmail.com
 om.rogersmedia.com
+oms.expedia.com
 omt.shinobi.jp
 onaudience.com
 ondu.ru
@@ -3929,6 +3934,7 @@ pcspeedup.com
 pdbu.net
 p.delivery.net
 pdheuryopd.loan
+pdmp.jp
 p.dsero.net
 peakcounter.dk
 pearno.com
@@ -4320,7 +4326,6 @@ rc.rlcdn.com
 rcsmetrics.it
 rd.alice.it
 rd.meebo.com
-rd.rakuten.co.jp
 rdstation.com.br
 reachandrich.antevenio.com
 reachforce.com
@@ -4693,7 +4698,6 @@ silimbompom.com
 silvergamed.com
 silverpop.com
 silverpush.co
-simility.com
 simonsignal.com
 simpleanalytics.io
 simpleheatmaps.com
@@ -6515,6 +6519,7 @@ wzus1.thesaurus.com
 wzus.askkids.com
 x9.shinobi.jp
 xa-counter.com
+x.allabout.co.jp
 xara.hse24.de
 xbasfbno.info
 x.bloggurat.net
