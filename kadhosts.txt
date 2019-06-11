@@ -82,18 +82,10 @@ appcaptcha.com
 appfox.org
 appgasstation.com
 appiq.mobi
-apple.com-care-macbook-system.live
 apple.com-fasting.live
-apple.com-improve-macos.live
 apple.com-mac-booster.live
-apple.com-macos-clean-systems.live
 apple.com-repair.live
-apple.com-repair-macbook.live
-apple.com-repair-os.live
 apple.com-scan.live
-apple.com-speed-macos.live
-apple.com-speedup-macbook.live
-apple.com-speedup-macos.live
 appsdorado.com
 apteka2000.pl
 areyouabot.net
@@ -1408,6 +1400,7 @@ www.apple.com-mac-booster.live
 www.apple.com-repair.live
 www.apple.com-repair-macbook.live
 www.apple.com-scan.live
+www.apple.com-scan-mac.live
 www.apple.com-speed-macos.live
 www.apple.com-speedup-macbook.live
 www.apple.com-speedup-macos.live
