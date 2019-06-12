@@ -4980,6 +4980,7 @@ geoloc16.geovisite.com
 geoloc17.geovisite.com
 geoloc2.geovisite.com
 geoloc4.geovisite.com
+geolocation.onetrust.com
 geolocation.t-online.de
 geo.nbcsports.com
 geo.offermatica.com
@@ -7462,7 +7463,6 @@ outcome.supersonicads.com
 outils.yes-messenger.com
 outofsightmedia.us.intellitxt.com
 out.popads.net
-outwar.com
 overclockersonline.us.intellitxt.com
 overlay.ringtonematcher.com
 overstockcom.112.2o7.net
@@ -8122,6 +8122,7 @@ redefine.hit.stat24.com
 redemptionengine.com
 redir.adap.tv
 redirect.clickshield.net
+redirect.com
 redirectcpv.com
 redirectingat.com
 redirects.ero-advertising.com
@@ -8829,7 +8830,6 @@ s.idio.co
 siemens.d1.sc.omtrdc.net
 sifomedia.aftonbladet.se
 sifomedia.idg.se
-sigil.outwar.com
 si.hit.gemius.pl
 siliconera.us.intellitxt.com
 silveragesoftware.com
@@ -9778,7 +9778,6 @@ topsocialite.us.intellitxt.com
 topspeed.us.intellitxt.com
 toptechreviews.us.intellitxt.com
 toptenreviews.us.intellitxt.com
-torax.outwar.com
 torontostar.demdex.net
 tororango.com
 torquenews.us.intellitxt.com
@@ -10295,6 +10294,7 @@ vice-ads-cdn.vice.com
 vice-d.openx.net
 victoriaadvocate.112.2o7.net
 vid.atdmt.com
+videe.tv
 video1.adprimemedia.com
 video-adserver.ibillboard.com
 video-ad-stats.googlesyndication.com
@@ -10307,7 +10307,10 @@ video-stats.video.google.com
 videotroncom.112.2o7.net
 video.unrulymedia.com
 vidilife.crwdcntrl.net
+vid-io-dub.springserve.com
+vid-io.springserve.net
 vidnet.us.intellitxt.com
+vid.springserve.com
 view.admission.net
 view.binlayer.com
 viewer.peer39.com
@@ -11297,7 +11300,6 @@ www.opinionlab.com
 www.oreware.com
 www.os-downloads.com
 www.otherossettlement.com
-www.outwar.com
 www.oxiads.fr
 www.pagerank10.co.uk
 www.pantanalvip.com.br
