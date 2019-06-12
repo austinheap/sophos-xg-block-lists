@@ -785,6 +785,7 @@ beacon.gu-web.net
 beacon.heliumnetwork.com
 beacon.indieclick.com
 beacon.indieclicktv.com
+beacon.itmedia.jp
 beacon.kmi-us.com
 beacon.livefyre.com
 beacon.lycos.com
@@ -1660,6 +1661,7 @@ d28g9g3vb08y70.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
 d2gfi8ctn6kki7.cloudfront.net
+d2ibu2ug0mt5qp.cloudfront.net
 d2kmrmwhq7wkvs.cloudfront.net
 d2kyy9hvbrzkgn.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
@@ -2992,6 +2994,7 @@ kir.jp
 kissmetrics.com
 kisstesting.com
 kitbit.net
+kitchen.juicer.cc
 kitcode.net
 klamm-counter.de
 klert.com
@@ -3551,6 +3554,7 @@ ms.computerbild.de
 msecure108.com
 msg.71.am
 msgapp.com
+msgs.jp
 msgtag.com
 msparktrk.com
 mstracker.net
@@ -4243,6 +4247,7 @@ pv.udn.com
 pv.xcar.com.cn
 pvx.xcar.com.cn
 pwa.telephoneannuaire.fr
+pw.gigazine.net
 px.247inc.net
 pxc.otto.de
 px.dynamicyield.com
