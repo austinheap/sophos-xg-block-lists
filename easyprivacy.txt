@@ -1135,6 +1135,7 @@ ck-cdn.com
 clarifyingquack.com
 claritytag.com
 clarium.global.ssl.fastly.net
+clarivoy.com
 clck.yandex.com
 clc.stackoverflow.com
 clearsale.com.br
@@ -4254,7 +4255,6 @@ px.dynamicyield.com
 px.excitedigitalmedia.com
 pxf.io
 pxi.pub
-pxlad.io
 pxlgnpgecom-a.akamaihd.net
 px.marchex.io
 px.owneriq.net
