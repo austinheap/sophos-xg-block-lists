@@ -1116,6 +1116,7 @@ ads.active.com
 ads.ad4game.com
 ads.adamoads.com
 ads.adap.tv
+ads.adaptv.advertising.com
 ads.adbrite.com
 ads.adbroker.de
 ads.ad-center.com
@@ -3812,6 +3813,7 @@ cdn.adigniter.org
 cdn.adikteev.com
 cdn.adk2.com
 cdn.adnxs.com
+cdn.ad.plus
 cdn.adplxmd.com
 cdnads.cam4.com
 cdn.adservingsolutionsinc.com
@@ -3895,6 +3897,7 @@ cdn-social.janrain.com
 cdns.privatamateure.com
 cdn.stat.easydate.biz
 cdn.static-cnt.bid
+cdn.stat-rock.com
 cdn.stickyadstv.com
 cdn.syn.verticalacuity.com
 cdn.taboola.com
@@ -10118,6 +10121,7 @@ serving-sys.com
 serv-load.com
 servserv.generals.ea.com
 serv.tooplay.com
+servt.playbuzz.co
 servustv.oewabox.at
 serwisy.gremimedia.pl
 se.sitestat.com
@@ -12544,6 +12548,7 @@ www9.compblue.com
 www9.counter.bloke.com
 www9.paypopup.com
 www9.servequake.com
+www9.smartadserver.com
 www9.trickip.org
 www.a2uu36g43l.download
 www.abetterinternet.com
