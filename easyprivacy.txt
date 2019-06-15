@@ -480,6 +480,7 @@ analytics.myfinance.com
 analytics.newscred.com
 analytics.newsinc.com
 analytics.nextmedia.com
+analytics.ngfiles.com
 analytics.onlyonlinemarketing.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
@@ -3856,6 +3857,7 @@ optorb.com
 optreadetrus.info
 oranges88.com
 orcapia.com
+organicfruitapps.com
 org-dot-com.com
 oribi.io
 origin.chron.com
@@ -4085,6 +4087,7 @@ pjatr.com
 pjtra.com
 p.l1v.ly
 placemypixel.com
+pladform.ru
 platform.communicatorcorp.com
 platformpanda.com
 playerassets.info
@@ -4759,6 +4762,7 @@ smarterremarketer.net
 smart-ip.net
 smartlook.com
 smartnews-ads.com
+smartocto.com
 smartoffer.site
 smartology.co
 smartracker.net
@@ -5680,6 +5684,7 @@ tracker.bt.uol.com.br
 tracker.calameo.com
 tracker.cds-tracking.com
 tracker.cpapath.com
+tracker.data-vp.com
 tracker.downdetector.com
 tracker.euroweb.net
 tracker.everestnutrition.com
