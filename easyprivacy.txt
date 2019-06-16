@@ -3367,7 +3367,6 @@ mediatoday.ru
 mediator.mail.ru
 mediatraffic.com.ua
 mediav.com
-mediaweaver.jp
 mediego.com
 meetrics.net
 megabanners.cf
@@ -3842,7 +3841,6 @@ openstat.net
 opentracker.net
 openvenue.com
 openxtracker.com
-ophan.guardian.co.uk
 ophan.theguardian.com
 oproi.com
 optify.net
