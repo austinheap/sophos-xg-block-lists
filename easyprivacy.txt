@@ -1016,6 +1016,7 @@ callisto.fm
 callmeasurement.com
 callrail.com
 callreports.com
+call-tracking.by
 call-tracking.co.uk
 calltrackingmetrics.com
 calltracks.com
@@ -1066,7 +1067,6 @@ cdn-analytics.ladmedia.fr
 cdn-analytics.pl
 cdnanalytics.xyz
 cdnbigdata.azureedge.net
-cdn.cloudcoins.co
 cdn-code.host
 cdnfile.xyz
 cdn.hiido.cn
@@ -1074,7 +1074,6 @@ cdn-jquery.host
 cdnmaster.cn
 cdnmaster.com
 cdn-net.com
-cdn.static-cnt.bid
 cdnstats.tube8.com
 cdn.trafficexchangelist.com
 cdntrf.com
@@ -1568,7 +1567,6 @@ crypto-coins.club
 crypto-coins.com
 crypto-coins.info
 crypto-coins-now.com
-crypto.csgocpu.com
 crypto-loot.com
 cryptoloot.pro
 cryptomine.pro
@@ -2322,7 +2320,6 @@ friends.totallynsfw.com
 frog.wix.com
 frosmo.com
 fruitflan.com
-fruitice.realnetwrk.com
 fsd2.digital
 fshka.com
 f.staticlp.com
@@ -2469,7 +2466,6 @@ godhat.com
 goingup.com
 goldoffer.online
 goldstats.com
-go.megabanners.cf
 goneviral.com
 goodcounter.org
 googleadservices.com
@@ -4285,6 +4281,7 @@ quadran.eu
 quaintcan.com
 quantcount.com
 quantummetric.com
+quartic.pl
 qubitanalytics.appspot.com
 qubitproducts.com
 questionpro.com
@@ -6346,7 +6343,6 @@ webcounter.goweb.de
 web-counter.net
 webcounter.ws
 webdissector.com
-web.dle-news.pw
 webeffective.keynote.com
 webengage.com
 webest.info
