@@ -2,7 +2,9 @@
 1050-sklep.com
 10gb.6ka.info
 142.93.134.136
+159.65.193.7
 15b37.skroc.pl
+167.99.34.247
 1freesoftwareonline.com
 20pascals.nl
 24-fakty.pl
@@ -219,6 +221,7 @@ colwayinternational.com
 colway.pl
 colway-sklep.com
 colway-sklep.eu
+commanods.xyz
 concash.pl
 contentlocked.xyz
 contentlockingnetworks.com
@@ -565,6 +568,7 @@ heckcallohertons.info
 herbeauty.co
 heredatetime.com
 hibids10.com
+hilleness.info
 hitfilm.pl
 hitlog.tk
 hitvisit.com
@@ -1401,10 +1405,8 @@ wrig.pl
 wszystkododomu.net
 wtmtrack.com
 ww7.openwrt.com
-www.104.248.94.172
 www.1050-sklep.com
 www.10gb.6ka.info
-www.142.93.134.136
 www.15b37.skroc.pl
 www.1freesoftwareonline.com
 www.20pascals.nl
@@ -1657,6 +1659,7 @@ www.colway-kolagen.com
 www.colway.pl
 www.colway-sklep.com
 www.colway-sklep.eu
+www.commanods.xyz
 www.concash.pl
 www.contentlocked.xyz
 www.contentlockingnetworks.com
@@ -2042,6 +2045,7 @@ www.herbalife.pl
 www.herbeauty.co
 www.heredatetime.com
 www.hibids10.com
+www.hilleness.info
 www.hitfilm.pl
 www.hitlog.tk
 www.hitvisit.com
