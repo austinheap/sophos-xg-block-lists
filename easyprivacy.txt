@@ -1137,6 +1137,7 @@ claritytag.com
 clarium.global.ssl.fastly.net
 clarivoy.com
 clck.yandex.com
+clck.yandex.ru
 clc.stackoverflow.com
 clearsale.com.br
 clearviewstats.com
@@ -6435,6 +6436,7 @@ wecount4u.com
 weesh.co.uk
 welt-der-links.de
 wemfbox.ch
+we-stats.com
 whackedmedia.com
 whathyx.com
 whatismyip.win
