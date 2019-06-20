@@ -784,7 +784,6 @@ mobstarr.com
 mobverify.com
 mobyapps.net
 modimoda.pl
-modnakolekcja.com
 mojadietanamase.pl
 moje-iq.pl
 mojekumpele.blogspot.com
@@ -1151,6 +1150,7 @@ sexopia.pl
 sharefile365.com
 shiporama.com
 shoegallery.com.pl
+shoestyle.pl
 shoesvclub.com
 shop.dr-rath.com
 shopsneakers.pl
@@ -1339,7 +1339,6 @@ vapormax.pl
 vasco-group.eu
 vcxz.pl
 vegatestsklep.pl
-vemini.pl
 verifycaptcha.com
 verypl.net
 vesda.pl
@@ -2308,7 +2307,6 @@ www.mobverify.com
 www.mobyapps.net
 www.modi4moda.com
 www.modimoda.pl
-www.modnakolekcja.com
 www.modwebpro.pl
 www.mojadedra.pl
 www.mojadietanamase.pl
@@ -2708,6 +2706,7 @@ www.sexopia.pl
 www.sharefile365.com
 www.shiporama.com
 www.shoegallery.com.pl
+www.shoestyle.pl
 www.shoesvclub.com
 www.shop.dr-rath.com
 www.shopsneakers.pl
@@ -2938,7 +2937,6 @@ www.vasco-group.eu
 www.vcxz.pl
 www.vegascosmetics.de
 www.vegatestsklep.pl
-www.vemini.pl
 www.verifycaptcha.com
 www.verypl.net
 www.veryvoga.pl
