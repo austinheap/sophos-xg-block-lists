@@ -2473,7 +2473,6 @@ advertisers.federatedmedia.net
 advertising.aol.com
 advertisingbay.com
 advertising.bbcworldwide.com
-advertising.com
 advertising.gfxartist.com
 advertising.hiasys.com
 advertising.illinimedia.com
@@ -2736,6 +2735,7 @@ analytics.vodafone.co.uk
 analyzer51.fc2.com
 ancestrymsn.112.2o7.net
 ancestryuki.112.2o7.net
+and.co.uk.102.122.2o7.net
 ANDpolice.com
 andr0id.traffic-smart.com
 andrionmobileapp.bid
@@ -6288,6 +6288,7 @@ httpads.com
 httpring.qq.com
 httpwwwadserver.com
 hub.com.pl
+hud8mxdt.computerhelpmirror.top
 huis.istats.nl
 huiwiw.hit.gemius.pl
 humption.info
@@ -7841,6 +7842,7 @@ metrics.womansday.com
 metrics.yellowpages.com
 metrics.yousendit.com
 metric.thenation.com
+metro.co.uk.102.122.2o7.net
 metropol.oewabox.at
 metro.uk.intellitxt.com
 mexico-mmm.net
@@ -10742,6 +10744,8 @@ sview.avenuea.com
 s.visilabs.com
 s.visilabs.net
 svpro7.oewabox.at
+swa.and.co.uk
+swa.metro.co.uk
 sweet55ium55.com
 sweetsforfree.com
 swfhostltd.com
@@ -11378,6 +11382,7 @@ track.msadcenter.zvjw.com
 track.msadcenter.zzv.com
 track.mybloglog.com
 track.nifty.com
+track.nuxues.com
 track.offermarket.net
 track.omg2.com
 track.omgpl.com
