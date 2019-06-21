@@ -458,6 +458,7 @@ firegifts.pl
 firesub.pl
 firstweb.pl
 fit-buzz.com
+fixfuturetype-restclicks.icu
 fizjoterapia.5v.pl
 flamefolder.com
 fmg.pl
@@ -1925,6 +1926,7 @@ www.firegifts.pl
 www.firesub.pl
 www.firstweb.pl
 www.fit-buzz.com
+www.fixfuturetype-restclicks.icu
 www.fizjoterapia.5v.pl
 www.flamefolder.com
 www.flavonmax.com
