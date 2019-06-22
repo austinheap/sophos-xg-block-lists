@@ -2749,7 +2749,6 @@ imonitor.dhgate.com
 impactradius-event.com
 imp.ad-plus.cn
 imp.affiliator.com
-imp.appledaily.com
 imp.clickability.com
 imp.constantcontact.com
 impcounter.com
