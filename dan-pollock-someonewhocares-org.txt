@@ -1346,6 +1346,7 @@ ads.developershed.com
 ads.deviantart.com
 ads-dev.youporn.com
 ads.digitalacre.com
+ads.digitalcaramel.com
 ads.digital-digest.com
 ads.digitalhealthcare.com
 ads.digitalmedianet.com
@@ -3010,6 +3011,7 @@ asn.advolution.de
 asn.cunda.advolution.biz
 aspesa.info
 aspirin.about-tabs.com
+a.spolecznosci.net
 a.ss34.on9mail.com
 assets.applovin.com
 assets.igapi.com
@@ -3832,6 +3834,7 @@ cdn.augur.io
 cdnaws.mobidea.com
 cdn.banners.scubl.com
 cdn.bestssaker.com
+cdn.braun634.com
 cdn.carbonads.com
 cdn.classicdanube.info
 cdn.constafun.com
@@ -4880,6 +4883,7 @@ dra.amazon-adsystem.com
 dra.iesnare.com
 drc-group.net
 dreammates.112.2o7.net
+drecentreshu.info
 drei.oewabox.at
 drewbarrymore.ca.tt
 drizzydrake.us.intellitxt.com
@@ -5025,6 +5029,7 @@ ecs1.engageya.com
 ectestlampsplus1.112.2o7.net
 ed.at.is13.de
 ed.at.thamaster.de
+edchargina.pro
 eddamedia.linkpulse.com
 edge.bnmla.com
 edge.quantserve.com
@@ -8912,6 +8917,8 @@ panel.adtify.pl
 paperg.com
 paques-2016.offre-exceptionnelle.xyz
 parent.oewabox.at
+parronnotandone.com
+parronnotandone.info
 parserworld.info
 parskabab.com
 partner01.oingo.com
@@ -10379,6 +10386,8 @@ spinbox.versiontracker.com
 spin.spinbox.net
 spklds.com
 splashnews.uk.intellitxt.com
+spolecznosci.mgr.consensu.org
+spolecznosci.net
 sponsor1.com
 sponsors.behance.com
 sponsors.ezgreen.com
@@ -10428,6 +10437,7 @@ sso.canada.com
 ssp.adplus.co.id
 ssp.anyclip-media.com
 sspcash.adxcore.com
+s.spolecznosci.net
 s.spoutable.com
 ssp.streamrail.net
 s.statistici.ro
@@ -11796,6 +11806,7 @@ vcm.oewabox.at
 vedoriska.com
 veirregnant.club
 velocecdn.com
+vendorlist.consensu.org
 venetia.iad.appboy.com
 venturead.com
 venus.goclick.com
@@ -11859,6 +11870,7 @@ videos.twitter.secure-logins01.com
 videos.video-loader.com
 video.theparentingvillage.com
 vidnline.com
+vidroll.ru
 vidstatb.taboola.com
 vidstat.taboola.com
 view.atdmt.com
@@ -13921,6 +13933,7 @@ www.via22.net
 www.via99.org
 www.viagra-home.com
 www.vibrantmedia.com
+www.videoconverterhd.com
 www.video-game-rewards-central.com
 www.videogamerewardscentral.com
 www.videohube.eu

@@ -1040,7 +1040,6 @@ banners.thomsonlocal.com
 banners.videosz.com
 banners.virtuagirlhd.com
 bannerswap.com
-banners.wunderground.com
 banner.tanto.de
 bannertesting.com
 banner.titan-dsl.de
@@ -1190,7 +1189,6 @@ checkstat.nl
 cheerfulrange.com
 chewcoat.com
 chickensstation.com
-chiefcurrent.com
 chinsnakes.com
 chitika.net
 christingel.com
@@ -1217,12 +1215,12 @@ click.fool.com
 clickhereforcellphones.com
 clickhouse.com
 clickhype.com
+click.kmindex.ru
 clicklink.jp
 clickonometrics.pl
 clicks.equantum.com
 clickserve.cc-dt.com
 clicks.mods.de
-clicksor.com
 clicktag.de
 clickthruserver.com
 clickthrutraffic.com
@@ -1307,6 +1305,7 @@ counters.honesty.com
 counter.snackly.co
 counter.sparklit.com
 counter.yadro.ru
+counting.kmindex.ru
 count.rin.ru
 counts.tucows.com
 count.west263.com
@@ -1504,7 +1503,6 @@ exoclick.com
 exogripper.com
 exosrv.com
 experianmarketingservices.digital
-experteerads.com
 exponea.com
 exponential.com
 express-submit.de
@@ -2005,7 +2003,6 @@ mydas.mobi
 mylink-today.com
 mymoneymakingapp.com
 mypagerank.net
-mypagerank.ru
 mypowermall.com
 mystat-in.net
 mystat.pl

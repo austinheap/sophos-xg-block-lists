@@ -733,6 +733,7 @@ azalead.com
 azera-s014.com
 azointel.com
 azvjudwr.info
+b0e8.com
 b1img.com
 b1js.com
 b2c.com
@@ -925,6 +926,7 @@ blogverzeichnis.eu
 blog-webkatalog.de
 bluecava.com
 blueconic.net
+bluecore.com
 bluecounter.de
 blvdstatus.com
 bm23.com
@@ -1304,7 +1306,6 @@ collect2.sas.com
 collect.finanzen.net
 collection.acromas.com
 collection.theaa.com
-collector1.xhamster.com
 collector.air.tv
 collector.apester.com
 collector.automote.co.nz
@@ -1325,7 +1326,6 @@ collector.sspinc.io
 collector.statowl.com
 collector.tescocompare.com
 collector.trendmd.com
-collector.xhamster.com
 collect.rewardstyle.com
 collect.sas.com
 collect.tianya.cn
@@ -1792,6 +1792,7 @@ dep-x.com
 deqwas.net
 desa.fkapi.net
 desb.fkapi.net
+desiredirt.com
 desr.fkapi.net
 detectdiscovery.com
 detect.ergebnis-dienst.de
@@ -2265,6 +2266,7 @@ footprint.anetwork.ir
 footprintdns.com
 footprintlive.com
 force24.co.uk
+forecasttiger.com
 forensics1000.com
 foreseeresults.com
 forkcdn.com
@@ -3393,6 +3395,7 @@ metrics.apartments.com
 metrics.api.drift.com
 metrics.aviasales.ru
 metrics.aws.sitepoint.com
+metrics.bangbros.com
 metrics.brightcove.com
 metrics.cbn.com
 metrics.cbslocal.com
@@ -4065,6 +4068,7 @@ pixel.usrsync.com
 pixel.vmm-satellite2.com
 pixel.watch
 pixel.wp.com
+pixel.wp.pl
 pixel.xmladfeed.com
 pixel-xpanama.netdna-ssl.com
 pixel.yabidos.com
@@ -4088,9 +4092,7 @@ pladform.ru
 platform.communicatorcorp.com
 platformpanda.com
 playerassets.info
-play.estream.nu
 play.estream.to
-play.estream.xyz
 play.mix.kinostuff.com
 play.vidzi.tv
 plecki.com
@@ -4391,6 +4393,7 @@ rencohep.com
 renhertfo.com
 rentracks.jp
 rep0pkgr.com
+repixel.co
 report.downloastar.com
 reporting.flymonarch.com
 reporting.handll.net
@@ -4416,7 +4419,6 @@ research-int.se
 researchnow.co.uk
 research-tool.com
 reseau-pub.com
-reservedoffers.club
 reshin.de
 reson8.com
 response.pure360.com
@@ -5564,7 +5566,6 @@ tns-sifo.se
 tns.simba.taobao.com
 toc.io
 toftofcal.com
-tokyodrift.ga
 tomonline-inc.com
 tongji.mafengwo.cn
 tools.ranker.com
@@ -5892,12 +5893,12 @@ track.parse.ly
 trackpm.shop2market.com
 track.prezna.com
 track.pricespider.com
-track.promptfile.com
 track.propelplus.com
 track.pushbullet.com
 track.qcri.org
 track.qoof.com
 track.ra.icast.cn
+track-re01.com
 track.recreativ.ru
 track.rediff.com
 track.redirecting2.net
@@ -6469,6 +6470,7 @@ win.staticstuff.net
 winter.metacafe.com
 wiredminds.de
 wisetrack.net
+wishabi.net
 wishloop.com
 wisteria-js.excite.co.jp
 witthethim.com
