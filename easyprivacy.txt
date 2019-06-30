@@ -3673,6 +3673,7 @@ ner-de-mi-nis-6.info
 nerfherdersolo.com
 nerohut.com
 nero.live
+nervoussummer.com
 nestedmedia.com
 netagent.cz
 netapplications.com
@@ -4090,6 +4091,7 @@ p.l1v.ly
 placemypixel.com
 pladform.ru
 platform.communicatorcorp.com
+platform.iteratehq.com
 platformpanda.com
 playerassets.info
 play.estream.to
@@ -4916,6 +4918,7 @@ sp.poughkeepsiejournal.com
 sp.press-citizen.com
 sp.pressconnects.com
 sp.publicopiniononline.com
+sp.pushsquare.com
 sp.redding.com
 sp.reporternews.com
 sp.rgj.com
