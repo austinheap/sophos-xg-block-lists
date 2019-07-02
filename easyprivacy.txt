@@ -4287,7 +4287,6 @@ quadran.eu
 quaintcan.com
 quantcount.com
 quantummetric.com
-quartic.pl
 qubitanalytics.appspot.com
 qubitproducts.com
 questionpro.com
@@ -4360,6 +4359,7 @@ reauthenticator.com
 reco.hardsextube.com
 recommendation.24.com
 recoset.com
+rec.quartic.pl
 recruitics.com
 recs.atgsvcs.com
 rec.udn.com
