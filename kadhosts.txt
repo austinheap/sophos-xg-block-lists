@@ -992,6 +992,7 @@ plengistat.info
 pl.fmworld.com
 pl.fohow.eu
 pl.gamemine.com
+pl.gvgmall.com
 pl.health-line.me
 pliczek.pw
 pliki.pw
