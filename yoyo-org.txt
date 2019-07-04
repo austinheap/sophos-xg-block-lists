@@ -130,7 +130,6 @@ adcomplete.com
 adconion.com
 adcontent.gamespy.com
 ad.cooks.com
-ad.crwdcntrl.net
 adcycle.com
 ad-delivery.net
 addfreestats.com
@@ -209,7 +208,6 @@ adland.ru
 ad.leadbolt.net
 adledge.com
 adlegend.com
-adlightning.com
 ad.liveinternet.ru
 adlog.com.com
 adloox.com
@@ -520,6 +518,7 @@ ads.foxnetworks.com
 ads.freecity.de
 ads.friendfinder.com
 ads.ft.com
+ads-game-187f4.firebaseapp.com
 ads.gamecity.net
 ads.gamershell.com
 ads.gamespyid.com
@@ -1063,6 +1062,7 @@ beacon.gu-web.net
 beamincrease.com
 bebi.com
 bedsbreath.com
+beemray.com
 begun.ru
 behavioralengine.com
 belstat.com
@@ -1146,6 +1146,7 @@ calculatingtoothbrush.com
 calculatorcamera.com
 callousbrake.com
 callrail.com
+callstats.io
 campaign.bharatmatrimony.com
 caniamedia.com
 capablecows.com
@@ -1169,6 +1170,7 @@ cbanners.virtuagirlhd.com
 c.bigmir.net
 cbsi.com
 cdn.freefarcy.com
+cdn.heapanalytics.com
 cdn.onesignal.com
 cdn.segment.com
 cecash.com
@@ -1246,7 +1248,6 @@ cloudcoins.biz
 clrstm.com
 cluster.adultworld.com
 clustrmaps.com
-cml.sad.ukrd.com
 cnomy.com
 cnt1.pocitadlo.cz
 cnt.spbland.ru
@@ -1256,6 +1257,7 @@ coin-hive.com
 coinhive.com
 cointraffic.io
 colonize.com
+colpirio.com
 comclick.com
 comfortablecheese.com
 commindo-media-ressourcen.de
@@ -1398,6 +1400,7 @@ disqusads.com
 dist.belnk.com
 distillery.wistia.com
 dk4ywix.com
+dmp.mall.tv
 dmtracker.com
 dmtracking2.alibaba.com
 dmtracking.alibaba.com
@@ -1611,6 +1614,7 @@ gondolagnome.com
 googleadservices.com
 google-analytics.com
 googlesyndication.com
+googletagservices.com
 go-rank.de
 gorgeousground.com
 gossipmiser.com
@@ -1635,7 +1639,6 @@ harrenmedia.com
 harrenmedianetwork.com
 havamedia.net
 hdscout.com
-heapanalytics.com
 heap.com
 heias.com
 hellobar.com
@@ -1811,6 +1814,7 @@ knorex.com
 komoona.com
 kompasads.com
 kontera.com
+krxd.net
 ktu.sv2.biz
 l1.britannica.com
 lakequincy.com
@@ -2484,6 +2488,7 @@ sidebar.angelfire.com
 silkysquirrel.com
 sillyscrew.com
 similarsabine.com
+simpleanalytics.io
 simpli.fi
 sincerebuffalo.com
 sincerespy.com
@@ -2569,6 +2574,7 @@ stat.dyna.ultraweb.hu
 staticads.btopenworld.com
 static.fmpub.net
 static.itrack.it
+statistic.ads24h.net
 statistik-gallup.net
 statm.the-adult-company.com
 stat.pl
@@ -2627,6 +2633,7 @@ swimslope.com
 swordfishdc.com
 swordgoose.com
 taboola.com
+tagan.adlightning.com
 tagular.com
 tailsweep.com
 tailsweep.se
@@ -2914,6 +2921,7 @@ worriednumber.com
 worrybutter.com
 wpnrtnmrewunrtok.xyz
 wryfinger.com
+wt.bankmillennium.pl
 wt-eu02.net
 wtlive.com
 www8.glam.com
