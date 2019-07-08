@@ -2739,6 +2739,7 @@ track.gawker.com
 tracking01.walmart.com
 tracking101.com
 tracking.crunchiemedia.com
+tracking.discounts-promo.ga
 tracking.gajmp.com
 tracking.ibxlink.com
 tracking.internetstores.de
