@@ -243,7 +243,6 @@ cpbldi.com
 cpm10.com
 crediko.pl
 cristianlay.com
-crocsoutletpolska.pl
 csgoskinsproject.pl
 cs.nailrr.com
 cs.shiporama.com
@@ -379,7 +378,6 @@ eurortv.net
 excelz.com
 exeos.ws
 exitopolska.com
-expresowezakupy.net
 ex-torrentycom.5v.pl
 extragenerators.xyz
 exxotel.com
@@ -747,7 +745,6 @@ lnpush.pl
 localmeets.club
 loktrk.com
 longup.co
-looool.pl
 lopon.pl
 losowa-gra.pl
 lottoland.pl
@@ -762,7 +759,6 @@ mackeeperapp.mackeeper.com
 maendo.tv
 magadownloader.com
 magiskmanager.com
-mamkase.pl
 manaslu.pl
 marekporwol.pl
 mariuszpelczarski.pl
@@ -793,7 +789,6 @@ menshealthweb.co
 mezczyzna-trendy.pl
 mgid.com
 mieszkania-pokoje-wynajem.pl
-mikro24.pl
 minirtvshop.pl
 miresnahapsi.pro
 mmajerski.pl
@@ -1145,7 +1140,6 @@ roaringcash.com
 robloxhack.pl
 rosalieeve.pl
 roulettenumber.com
-rozsadnapozyczka.pl
 rtvagdpro.net
 ruletkasystem.eu
 ruletka-systemy.com
@@ -1186,7 +1180,6 @@ sexopia.pl
 sharefile365.com
 shiporama.com
 shoegallery.com.pl
-shoestyle.pl
 shoesvclub.com
 shop.dr-rath.com
 shopsneakers.pl
@@ -1214,6 +1207,7 @@ sms-za-darmo.pl
 sms-z-internetu.pl
 snap.cba.pl
 snapchat-save.blogspot.com
+sneakersshop.pl
 sneakerstore.com.pl
 sneakersypuma.pl
 snekdeal.com
@@ -1260,12 +1254,10 @@ streamgo.pl
 streamuj.org
 strefa-filmu.pl
 stuntoffer.com
-stylowoimodnie.pl
 suczki-mlode.blogspot.com
 sug.com.pl
 sukces.pl
 sundaycashsaver.com
-superdryonline.pl
 superserwisy.pl
 super-tania-chwilowka.pl
 sweepstakescentralusa.com
@@ -1726,7 +1718,6 @@ www.cpm10.com
 www.crediko.pl
 www.credy.pl
 www.cristianlay.com
-www.crocsoutletpolska.pl
 www.csgoskinsproject.pl
 www.cs.nailrr.com
 www.cs-podhale.pl
@@ -1881,7 +1872,6 @@ www.eurortv.net
 www.excelz.com
 www.exeos.ws
 www.exitopolska.com
-www.expresowezakupy.net
 www.ex-torrentycom.5v.pl
 www.extragenerators.xyz
 www.exxotel.com
@@ -2295,7 +2285,6 @@ www.lnpush.pl
 www.localmeets.club
 www.loktrk.com
 www.longup.co
-www.looool.pl
 www.lopon.pl
 www.losowa-gra.pl
 www.lottoland.pl
@@ -2314,7 +2303,6 @@ www.madagascaroasis.org
 www.maendo.tv
 www.magadownloader.com
 www.magiskmanager.com
-www.mamkase.pl
 www.manaslu.pl
 www.marekporwol.pl
 www.mariuszpelczarski.pl
@@ -2350,7 +2338,6 @@ www.mentor-cosmetics.com
 www.mezczyzna-trendy.pl
 www.mgid.com
 www.mieszkania-pokoje-wynajem.pl
-www.mikro24.pl
 www.minirtvshop.pl
 www.miresnahapsi.pro
 www.mistrzmotywacji.pl
@@ -2736,7 +2723,6 @@ www.robloxhack.pl
 www.roboclean-poland.com
 www.rosalieeve.pl
 www.roulettenumber.com
-www.rozsadnapozyczka.pl
 www.rtvagdpro.net
 www.ruletkasystem.eu
 www.ruletka-systemy.com
@@ -2781,7 +2767,6 @@ www.sexopia.pl
 www.sharefile365.com
 www.shiporama.com
 www.shoegallery.com.pl
-www.shoestyle.pl
 www.shoesvclub.com
 www.shop.dr-rath.com
 www.shopsneakers.pl
@@ -2812,6 +2797,7 @@ www.sms-za-darmo.pl
 www.sms-z-internetu.pl
 www.snap.cba.pl
 www.snapchat-save.blogspot.com
+www.sneakersshop.pl
 www.sneakerstore.com.pl
 www.sneakersypuma.pl
 www.sneakervclub.com
@@ -2865,12 +2851,10 @@ www.streamuj.org
 www.strefa-filmu.pl
 www.stuntoffer.com
 www.stylovemeble.pl
-www.stylowoimodnie.pl
 www.suczki-mlode.blogspot.com
 www.sug.com.pl
 www.sukces.pl
 www.sundaycashsaver.com
-www.superdryonline.pl
 www.superserwisy.pl
 www.super-tania-chwilowka.pl
 www.supplementum.pl
@@ -3089,7 +3073,6 @@ www.wtmtrack.com
 www.ww7.openwrt.com
 www.wwebsservice.info
 www.wybierz-nagrode.pl
-www.wybierzpieniadze.pl
 www.wydawca.lead.network
 www.wygrajpsc.eu
 www.wygrana-konkursu.eu
@@ -3174,7 +3157,6 @@ www.zweryfikuj-sie.eu
 www.zweryfikuj-sie.pl
 www.zyski-z-innowacji.pl
 wybierz-nagrode.pl
-wybierzpieniadze.pl
 wydawca.lead.network
 wygrajpsc.eu
 wygrana-konkursu.eu

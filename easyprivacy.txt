@@ -5647,6 +5647,7 @@ trackalyzer.com
 track.atgstores.com
 track.bannedcelebs.com
 trackbar.info
+track.bazonline.ch
 track.bernerzeitung.ch
 track.bluecompany.cl
 track.briskfile.com
