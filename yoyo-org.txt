@@ -989,7 +989,6 @@ banner.easyspace.com
 banner.elisa.net
 banner.eurogrand.com
 banner-exchange-24.de
-bannerflow.com
 banner.goldenpalace.com
 bannergrabber.internet.gr
 bannerhost.com
@@ -1170,6 +1169,7 @@ casterist.info
 cbanners.virtuagirlhd.com
 c.bigmir.net
 cbsi.com
+cdn.bannerflow.com
 cdn.freefarcy.com
 cdn.heapanalytics.com
 cdn.onesignal.com
@@ -2197,6 +2197,7 @@ permutive.com
 personagraph.com
 petiteumbrella.com
 pgl.example0101
+pgltestinghere
 pgmediaserve.com
 pgpartner.com
 pheedo.com
@@ -2729,6 +2730,7 @@ track.anchorfree.com
 track.contently.com
 trackedlink.net
 trackedweb.net
+tracker.bannerflow.com
 tracker.icerocket.com
 tracker.marinsm.com
 tracker-pm2.spilleren.com
