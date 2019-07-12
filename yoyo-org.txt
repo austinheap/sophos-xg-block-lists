@@ -669,7 +669,6 @@ adsrv.deviantart.com
 adsrv.eacdn.com
 adsrv.iol.co.za
 adsrvr.org
-ads.satyamonline.com
 ads.saymedia.com
 ads.scifi.com
 ads.seniorfriendfinder.com
@@ -2031,6 +2030,7 @@ mydas.mobi
 mylink-today.com
 mymoneymakingapp.com
 mypagerank.net
+mypagerank.ru
 mypowermall.com
 mystat-in.net
 mystat.pl
@@ -2569,7 +2569,6 @@ stat24.com
 stat24.meta.ua
 stat.cliche.se
 statcounter.com
-stat.dealtime.com
 stat.dyna.ultraweb.hu
 staticads.btopenworld.com
 static.fmpub.net

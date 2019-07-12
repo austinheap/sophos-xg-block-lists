@@ -2099,6 +2099,7 @@ event.api.drift.com
 eventapi.libring.com
 eventbeacon.ca
 eventcapture03.com
+event-collector.udsrv.com
 event.dkb.de
 eventgateway.soundcloud.com
 event.getblue.io
@@ -3890,6 +3891,7 @@ p2poolmining.com
 p2poolmining.net
 p2r14.com
 p.adbrn.com
+page-events-ustats.udemy.com
 pagefair.com
 page-hit.de
 pageinfo.motorsport.com
