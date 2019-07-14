@@ -3127,6 +3127,7 @@ balabass.peerserver.com
 balab.portx.net
 ballsack.org
 b.am15.net
+bam.nr-data.net
 bam-pilot.iovation.com
 bamulat.blogspot.hu
 bananacashback.com
@@ -3840,6 +3841,7 @@ cdn.classicdanube.info
 cdn.constafun.com
 cdn.cpmstar.com
 cdn.crowdignite.com
+cdn.decibelinsight.net
 cdn.directrev.com
 cdn.doublepimpssl.com
 cdn.dustyorate.com
