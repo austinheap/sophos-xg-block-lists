@@ -165,6 +165,7 @@ adc.api.nine.com.au
 adchemix.com
 adchemy.com
 adchemy-content.com
+adc-js.nine.com.au
 adclear.net
 adclickstats.net
 adc.nine.com.au
@@ -1551,6 +1552,7 @@ cquotient.com
 craftkeys.com
 craktraffic.com
 crashfootwork.com
+crazyclickstats.com
 crazyegg.com
 c-rings.net
 criteo.com
@@ -2433,6 +2435,7 @@ gez.io
 gft2.de
 ggxt.net
 giddycoat.com
+giddyuptrk.com
 giga-abs.de
 gigcount.com
 g.ign.com
@@ -2861,6 +2864,7 @@ ip2map.com
 ip2phrase.com
 ipaddresslabs.com
 ipapi.co
+ip-api.com
 ip.breitbart.com
 ipcatch.com
 ipcounter.de
@@ -4264,6 +4268,7 @@ pxf.io
 pxi.pub
 pxlgnpgecom-a.akamaihd.net
 px.marchex.io
+px.mvfglobal.com
 px.owneriq.net
 px.reactrmod.com
 px.spiceworks.com
@@ -4545,6 +4550,7 @@ sa135.macworld.co.uk
 sa.bbc.com
 sa.bbc.co.uk
 sadv.dadapro.com
+safe-click.net
 s.agava.ru
 sageanalyst.net
 sagetrc.com
@@ -5285,6 +5291,7 @@ stats.zotabox.com
 statt-collect.herokuapp.com
 stattds.club
 stat.tianya.cn
+stat.tildacdn.com
 stat.to.cupidplc.com
 stattooz.com
 stat.torrentbar.com
@@ -6175,6 +6182,7 @@ useg.nextdigital.com.hk
 useinsider.com
 useitbetter.com
 usemaxserver.de
+useproof.com
 user-api.com
 userchecker.info
 user-clicks.com
