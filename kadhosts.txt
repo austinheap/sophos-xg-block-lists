@@ -416,6 +416,7 @@ fb-szpieguj.likesyou.org
 fbweryfikacja123.blogspot.com
 fcolors.blogspot.com
 feed.engage.im
+feernews.biz
 fejs-colors.blogspot.com
 fejsopodgladacz.blogspot.com
 fejspodgllaadacz.blogspot.com
@@ -1241,6 +1242,7 @@ speedyshare.com
 spokeo.pl
 sportef.pl
 sportowy-stream.pl
+sportplus.pro
 sportsklep.com.pl
 spotlessweb.com
 sprawdziany-odpowiedzi.bo.pl
@@ -1426,6 +1428,7 @@ weon.pl
 weryfikacjadanych.ml
 weryfikacjadanych.tk
 westcoastboxerclub.com
+wiadomosci.ct8.pl
 wiadomosci-onet24.ml
 wiadomosci-onet24.pl
 wiadomosci-onet24.tk
@@ -1926,6 +1929,7 @@ www.fb-szpieguj.likesyou.org
 www.fbweryfikacja123.blogspot.com
 www.fcolors.blogspot.com
 www.feed.engage.im
+www.feernews.biz
 www.fejs-colors.blogspot.com
 www.fejsopodgladacz.blogspot.com
 www.fejspodgllaadacz.blogspot.com
@@ -2846,6 +2850,7 @@ www.speedyshare.com
 www.spokeo.pl
 www.sportef.pl
 www.sportowy-stream.pl
+www.sportplus.pro
 www.sportsklep.com.pl
 www.spotlessweb.com
 www.sprawdziany-odpowiedzi.bo.pl
@@ -3070,6 +3075,7 @@ www.weon.pl
 www.weryfikacjadanych.ml
 www.weryfikacjadanych.tk
 www.westcoastboxerclub.com
+www.wiadomosci.ct8.pl
 www.wiadomosci-onet24.ml
 www.wiadomosci-onet24.pl
 www.wiadomosci-onet24.tk
