@@ -669,6 +669,7 @@ adsrv.deviantart.com
 adsrv.eacdn.com
 adsrv.iol.co.za
 adsrvr.org
+ads.satyamonline.com
 ads.saymedia.com
 ads.scifi.com
 ads.seniorfriendfinder.com
@@ -1203,7 +1204,6 @@ clearcomb.com
 clevernt.com
 click2freemoney.com
 clickability.com
-click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1369,7 +1369,6 @@ decoycreation.com
 deepintent.com
 defectivesun.com
 delegatediscussion.com
-deloo.de
 deloton.com
 demandbase.com
 demdex.net
@@ -1673,7 +1672,6 @@ hit.ua
 hit.webcentre.lycos.co.uk
 hollandbusinessadvertising.nl
 hollowshake.com
-homepageking.de
 honeygoldfish.com
 hostedads.realitykings.com
 hotjar.com
