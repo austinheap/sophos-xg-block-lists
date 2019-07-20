@@ -60,6 +60,7 @@
 3gl.net
 3rdeye.spankbang.com
 3wnp9.ru
+404tracker.com
 40nuggets.com
 44-trk-srv.com
 4oney.com
@@ -445,6 +446,7 @@ analytics.foresee.com
 analytics.freespee.com
 analytics.gameforge.de
 analytics.gazeta.pl
+analytics.getshogun.com
 analytics.global.sky.com
 analytics.go.com
 analytics.gorillanation.com
@@ -559,6 +561,7 @@ analytics.whatculture.com
 analytics.wildtangent.com
 analytics.witglobal.net
 analyticswizard.com
+analytics.worldtable.co
 analytics.yahoo.com
 analytics.yolacdn.net
 analytics.yola.net
@@ -954,6 +957,7 @@ botize.com
 botman.ninja
 botscanner.com
 botsvisit.com
+bounceexchange.com
 bouncepilot.com
 bouncex.com
 bowithow.com
@@ -970,7 +974,9 @@ brightfunnel.com
 brilig.com
 broaddoor.com
 brominer.com
+bronto.com
 browsermine.com
+browser.sentry-cdn.com
 browser-statistik.de
 browsiprod.com
 brsrvr.com
@@ -1353,6 +1359,7 @@ conductrics.com
 confirmational.com
 confirmit.com
 confirm-referer.glrsales.com
+connatix.com
 consciouscabbage.com
 consciouschairs.com
 contactatonce.com
@@ -2120,7 +2127,6 @@ events.air.tv
 events.antenna.is
 events.apester.com
 events.avantisvideo.com
-events.bounceexchange.com
 events.chaordicsystems.com
 events.demoup.com
 events.godaddy.com
@@ -2199,6 +2205,7 @@ fandommetrics.com
 fanplayr.com
 farmer.wego.com
 fastanalytic.com
+fast.appcues.com
 fastcounter.bcentral.com
 fastcounter.de
 fastcounter.onlinehoster.net
@@ -2278,6 +2285,7 @@ forkcdn.com
 formalyzer.com
 formisimo.com
 formulawire.com
+forter.com
 fortvision.com
 foundry42.com
 fourmtagservices.appspot.com
@@ -2336,6 +2344,7 @@ fstrk.net
 ftbpro.com
 ftrack.ru
 fueldeck.com
+fuelx.com
 fugetech.com
 fun-hits.com
 funneld.com
@@ -2391,6 +2400,7 @@ geo.homepage-web.com
 geoip.al.com
 geoip.boredpanda.com
 geoip.cleveland.com
+geoip-db.com
 geoip.gulflive.com
 geoip.inquirer.net
 geoip.lehighvalleylive.com
@@ -2651,6 +2661,7 @@ hivps.xyz
 hk.ndx.nextmedia.com
 hlpidkr.ru
 hm.baidu.com
+hmstats.com
 hodlers.party
 hodling.faith
 hodling.party
@@ -3294,6 +3305,7 @@ macromill.com
 m.addthisedge.com
 madnet.ru
 magiq.com
+magnetairport.com
 magnetmail1.net
 magnify360-cdn.s3.amazonaws.com
 magnify360.com
@@ -5418,6 +5430,7 @@ tag.leadplace.fr
 tagmanager.cn
 tagmngrs.com
 tag.myplay.com
+tag.rmp.rakuten.com
 tags.cdn.circlesix.co
 tags.master-perf-tools.com
 tags.msnbc.com
