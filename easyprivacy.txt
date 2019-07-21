@@ -976,7 +976,6 @@ broaddoor.com
 brominer.com
 bronto.com
 browsermine.com
-browser.sentry-cdn.com
 browser-statistik.de
 browsiprod.com
 brsrvr.com
@@ -1693,6 +1692,7 @@ d33im0067v833a.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
+d38nbbai6u794i.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
 d3alqb8vzo7fun.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
@@ -1894,6 +1894,7 @@ dotmetrics.net
 dotomi.com
 dot-stat.radikal.ru
 dot.wp.pl
+doubleverify.com
 doug1izaerwt3.cloudfront.net
 dovinate.top
 downture.in
@@ -2091,6 +2092,7 @@ etui.fs.ml.com
 etyper.com
 etzbnfuigipwvs.ru
 eucsoft.com
+eu.groupondata.com
 euleriancdn.net
 eulerian.net
 eulerian.sarenza.com
@@ -2188,6 +2190,7 @@ extreme-dm.com
 extszm.web.de
 eyein.com
 eyeota.net
+eyereturn.com
 ezakus.net
 ezec.co.uk
 e-zeeinternet.com
@@ -3121,6 +3124,7 @@ linktausch-pagerank.de
 link.tym.cool
 linkwi.se
 linkxchanger.com
+liod1ours.com
 listat.biz
 listrakbi.com
 listtop.ru
@@ -3227,6 +3231,7 @@ log.ren.tv
 logrocket.com
 logrocket.io
 logs.51cto.com
+logsbin.dantri.com.vn
 logs.dashlane.com
 log.seekda.com
 logs.ggweb.nl
@@ -3239,6 +3244,7 @@ logstat.caixin.com
 logs.thebloggernetwork.com
 log.suchen.de
 log.superweb.ws
+log.suumo.jp
 logs.vmixcore.com
 log.sv.pandora.tv
 log.sz-online.de
@@ -3309,6 +3315,7 @@ magnetairport.com
 magnetmail1.net
 magnify360-cdn.s3.amazonaws.com
 magnify360.com
+magnuum.com
 maik.ff-bt.net
 mailstat.us
 mairdumont.com
@@ -3608,6 +3615,7 @@ mxcdn.net
 mxptint.net
 myaffiliateprogram.com
 myaudience.de
+mybluemix.net
 mycounter.com.ua
 mycounter.ua
 mycrypto.company
@@ -4457,6 +4465,7 @@ retargeting.biz
 retargeting.vistaprint.com
 retargetly.com
 retargettracker.com
+retcode.taobao.com
 retentionscience.com
 retrack.q-divisioncdn.de
 rettica.com
@@ -5475,6 +5484,7 @@ t.brand-server.com
 t.c4tw.net
 tcactivity.net
 tc.airfrance.com
+tce.alicdn.com
 t.cfjump.com
 tcheck.outbrainimg.com
 tcimg.com

@@ -483,6 +483,7 @@ firegifts.pl
 firesub.pl
 firstweb.pl
 fit-buzz.com
+fitsekret.pl
 fixfuturetype-restclicks.icu
 fizjoterapia.5v.pl
 flamefolder.com
@@ -1034,6 +1035,7 @@ plikson.pl
 pliks.pl
 pl.lider.pl
 pl.longup.co
+pl.medicreporters.com
 pl.melaleuca.com
 pl.mevida.me
 pl.mobile-redirection.com
@@ -2024,6 +2026,7 @@ www.firegifts.pl
 www.firesub.pl
 www.firstweb.pl
 www.fit-buzz.com
+www.fitsekret.pl
 www.fixfuturetype-restclicks.icu
 www.fizjoterapia.5v.pl
 www.flamefolder.com
