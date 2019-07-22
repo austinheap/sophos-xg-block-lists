@@ -589,6 +589,7 @@ ads.linkedin.com
 ads.linuxfoundation.org
 ads.livenation.com
 ads.lordlucky.com
+ads.mail.bg
 ads.mariuana.it
 adsmarket.com
 ad.smartclip.net
@@ -700,6 +701,7 @@ ads.tmcs.net
 ads.toplayaffiliates.com
 ads.totallyfreestuff.com
 ads.townhall.com
+ads.travelaudience.com
 ads.trinitymirror.co.uk
 ads.tripod.com
 ads.tripod.lycos.co.uk
@@ -921,6 +923,7 @@ apolloprogram.io
 app-analytics.snapchat.com
 app.pendo.io
 appsflyer.com
+apsalar.com
 aps.hearstnp.com
 apture.com
 aquaticowl.com
@@ -942,6 +945,7 @@ at-adserver.alltop.com
 atdmt.com
 athena-ads.wikia.com
 attractiveafternoon.com
+attribution.report
 attributiontracker.com
 atwola.com
 a.ucoz.net
@@ -1768,7 +1772,6 @@ iperceptions.com
 ipredictive.com
 ip.ro
 ipro.com
-iqm.com
 ireklama.cz
 is-tracking-pixel-api-prod.appspot.com
 itfarm.com
@@ -1967,6 +1970,7 @@ metrics.cnn.com
 metrics.consumerreports.org
 metrics.ctv.ca
 metrics.foxnews.com
+metrics.getrockerbox.com
 metrics.gfycat.com
 metrics.govexec.com
 metrics.windowsitpro.com
@@ -2169,6 +2173,7 @@ parsely.com
 parsimoniouspolice.com
 partnerad.l.google.com
 partner-ads.com
+partnerads.ysm.yahoo.com
 partnercash.de
 partner.pelikan.cz
 partners.priceline.com
@@ -2213,9 +2218,11 @@ piquantpigs.com
 pixel.adsafeprotected.com
 pixel.condenastdigital.com
 pixel.digitru.st
+pixel.mtrcs.samba.tv
 pixel.sojern.com
 pixel.watch
 pix.spot.im
+placed.com
 play4traffic.com
 playhaven.com
 playmobileads.com
@@ -2236,6 +2243,7 @@ porngraph.com
 porntrack.com
 possessivebucket.com
 possibleboats.com
+postback.iqm.com
 postrelease.com
 potenza.cz
 praddpro.de
@@ -2293,6 +2301,7 @@ pushengage.com
 px.ads.linkedin.com
 px.dynamicyield.com
 px.gfycat.com
+pxl.iqm.com
 q.azcentral.com
 qctop.com
 qnsr.com
@@ -2377,6 +2386,7 @@ resonantbrush.com
 resonate.com
 retargeter.com
 revcontent.com
+reveal.clearbit.com
 revenuedirect.com
 revenuehits.com
 revenue.net
@@ -2727,10 +2737,12 @@ track.anchorfree.com
 track.contently.com
 trackedlink.net
 trackedweb.net
+track.effiliation.com
 tracker.bannerflow.com
 tracker.icerocket.com
 tracker.marinsm.com
 tracker-pm2.spilleren.com
+tracker.samplicio.us
 tracker.trackerfix.com
 track.flexlinks.com
 track.flexlinkspro.com
@@ -2742,6 +2754,8 @@ tracking.discounts-promo.ga
 tracking.gajmp.com
 tracking.ibxlink.com
 tracking.internetstores.de
+tracking.olx-st.com
+tracking.publicidees.com
 trackingsoft.com
 trackmysales.com
 track.nuxues.com
@@ -2774,6 +2788,7 @@ trendmd.com
 tribalfusion.com
 trickycelery.com
 trix.net
+trkn.us
 trmit.com
 truckstomatoes.com
 truehits1.gits.net.th
@@ -2904,6 +2919,7 @@ widgetbucks.com
 widget.privy.com
 wikia-ads.wikia.com
 window.nixnet.cz
+win.iqm.com
 wintricksbanner.googlepages.com
 wirecomic.com
 wisepops.com
