@@ -111,6 +111,7 @@ abmr.net
 absolstats.co.za
 abs.proxistore.com
 abtrcking.com
+abtshield.com
 a-cast.jp
 ac.berlinonline.de
 acbp0020171456.page.tl
@@ -198,6 +199,7 @@ admaster.com.cn
 admatrix.jp
 admeira.ch
 admetric.io
+admile.ru
 ad-miner.com
 adminer.com
 admitad.com
@@ -627,6 +629,7 @@ aqtracker.com
 arcadeweb.com
 arch-nicto.com
 arena-quantum.co.uk
+ariane.abtasty.com
 arianelab.com
 arizona-miner.tk
 arkayne.com
@@ -1769,6 +1772,7 @@ dc.banggood.com
 dccss.banggood.com
 dc.letv.com
 dcmn.com
+dcmn.io
 dcs.mattel.com
 dcs.maxthon.com
 dc-storm.com
@@ -1795,6 +1799,7 @@ de-mi-nis-ner2.info
 de-mi-nis-ner.info
 denakop.com
 de-ner-mi-nis4.info
+d-engine.spankbang.com
 de-nis-ner-mi-5.info
 departapp.com
 depttake.ga
@@ -2087,6 +2092,7 @@ etracking24.de
 etrafficcounter.com
 etrafficstats.com
 etrigue.com
+etrust.eu
 et.twyn.com
 etui.fs.ml.com
 etyper.com
@@ -2874,6 +2880,7 @@ iocnt.net
 iogous.com
 iolam.it
 ionmvdpifz.com
+iotechnologies.com
 ip2c.landscape.co.jp
 ip2location.com
 ip2map.com
@@ -4821,6 +4828,7 @@ sniphub.com
 snoobi.com
 snowplow-collector.sugarops.com
 snowsignal.com
+snrbox.com
 socdm.com
 socialhoney.co
 socialprofitmachine.com
@@ -5012,6 +5020,7 @@ ssl4stats.de
 ssl-stats.wordpress.com
 s.sniphub.com
 ssp.hinet.net
+sstats.oui.sncf
 stack-sonar.com
 stadig.ifeng.com
 stadsvc.com
@@ -5232,6 +5241,7 @@ stats.olark.com
 stats.ombx.io
 stats.openload.co
 stats.opoloo.de
+stats.oui.sncf
 stats.ozwebsites.biz
 stats.pandora.com
 stats.paste2.org
@@ -5866,6 +5876,7 @@ tracking.nextdoor.com
 tracking.novem.pl
 tracking.oe24.at
 tracking.olx-st.com
+tracking.oui.sncf
 tracking.pacharge.com
 tracking.performgroup.com
 tracking.plattformad.com
@@ -6141,6 +6152,7 @@ twopointo.io
 txmoadserver.net
 txn.grabnetworks.com
 txn.thenewsroom.com
+txt.eu
 tylere.net
 t.ymlp275.net
 tynt.com
@@ -6340,6 +6352,7 @@ volvelle.tech
 voodooalerts.com
 voss.collegehumor.com
 votistics.com
+v.oui.sncf
 vppst.iltrovatore.it
 vpzccwpyilvoyg.ru
 vra.outbrain.com
