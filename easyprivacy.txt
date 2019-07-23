@@ -273,6 +273,7 @@ aeros11.tk
 aeros12.tk
 afairweb.com
 affilae.com
+affilbox.cz
 affiliateedge.eu
 affiliate.iamplify.com
 affiliate.mercola.com
@@ -339,6 +340,7 @@ alenty.com
 alexacdn.com
 alexametrics.com
 alexandria.marfeelcdn.com
+algopine.com
 alkemics.com
 alltagcloud.info
 alltracked.com
@@ -414,6 +416,7 @@ analytics.brave.com
 analytics.carambatv.ru
 analytics.carambo.la
 analytics-cdiscount.com
+analytics.ceneo.pl
 analyticschecker.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
@@ -1391,6 +1394,7 @@ convergetrack.com
 conversionfly.com
 conversionlogic.net
 conversionly.com
+conversion.pl
 conversionruler.com
 convertcart.com
 convertexperiments.com
@@ -1872,6 +1876,7 @@ d-markets.net
 dmclick.cn
 dm.commentcamarche.net
 dmd53.com
+dmdi.pl
 dm-event.net
 dm.hugolescargot.com
 dm.journaldesfemmes.com
@@ -2821,6 +2826,7 @@ ingest.onion.com
 ingorob.com
 inimbus.com.au
 ininmacerad.pro
+inistrack.net
 innomdc.com
 innovateads.com
 inphonic.com
@@ -3342,6 +3348,7 @@ marketing.kalahari.net
 marketing.net.jumia.com.ng
 marketing.nodesource.com
 marketing-page.de
+marketing.tr.netsalesmedia.pl
 marketizator.com
 marketperf.com
 marketshot.com
@@ -3362,6 +3369,7 @@ matheranalytics.com
 mathtag.com
 matomo.cloud
 maxtracker.net
+maxtraffic.com
 maxymiser.com
 maxymiser.net
 mb4a.com
@@ -3618,6 +3626,7 @@ mvtracker.com
 mv.treehousei.com
 mwor.gq
 mwstats.net
+mxapis.com
 mxcdn.net
 mxptint.net
 myaffiliateprogram.com
@@ -4184,6 +4193,7 @@ pp8.com
 p.pagesjaunes.fr
 ppclocation.biz
 ppctracking.net
+ppdb.pl
 ppro.de
 pr0gram.org
 p.raasnet.com
@@ -4304,10 +4314,13 @@ px.spiceworks.com
 px.staticfiles.at
 px.topspin.net
 px.wayfair.com
+px.wp.pl
 pymx5.com
 p.yotpo.com
 pzkysq.pink
 pzoifaum.info
+qai-ir.quartic.pl
+qai.quartic.pl
 qbaka.net
 qbop.com
 qchannel03.cn
@@ -4598,6 +4611,7 @@ sambaads.com
 sana.newsinc.com
 sana.newsinc.com.s3.amazonaws.com
 sapha.com
+sare25.com
 sarevtop.com
 sarov.ws
 sas15k01.com
@@ -5770,6 +5784,7 @@ tracker.roitesting.com
 tracker.secretescapes.com
 tracker.seoboost.net
 tracker.shopclues.com
+tracker.softcube.com
 trackerstatistik.init-ag.de
 tracker.stats.in.th
 tracker.stileo.it
