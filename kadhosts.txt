@@ -30,6 +30,7 @@ act-natural-sklep.pl
 adamdelivery.pl
 adaranth.com
 adblock-listefr.com
+adidas-collection.club
 adidasterrex.pl
 adobe.5v.pl
 adpro.futurenet.club
@@ -616,6 +617,7 @@ host1.5v.pl
 hostplik.pl
 hostujmy.pl
 hothub.pl
+hotnews24h.pl
 hotokazje.com
 hp.myway.com
 huit.re
@@ -710,7 +712,6 @@ kolor.oq.pl
 kolorowy-f-b.blogspot.com
 kolorowy-fejs.blogspot.com
 koloryfejsa.blogspot.com
-komornik-gov.tk
 kompansmaku.pl
 konferencje.vantis.pl
 konkursbiedronka.5v.pl
@@ -1522,6 +1523,7 @@ www.adamkepinski.pl
 www.adaranth.com
 www.adblock-listefr.com
 www.adidasbuty.pl
+www.adidas-collection.club
 www.adidasterrex.pl
 www.adidasterrexsolo.pl
 www.adobe.5v.pl
@@ -2177,6 +2179,7 @@ www.hostedfiles.net
 www.hostplik.pl
 www.hostujmy.pl
 www.hothub.pl
+www.hotnews24h.pl
 www.hotokazje.com
 www.hp.myway.com
 www.huit.re
@@ -2286,7 +2289,6 @@ www.kolor.oq.pl
 www.kolorowy-f-b.blogspot.com
 www.kolorowy-fejs.blogspot.com
 www.koloryfejsa.blogspot.com
-www.komornik-gov.tk
 www.kompansmaku.pl
 www.konferencje.vantis.pl
 www.konkursbiedronka.5v.pl
