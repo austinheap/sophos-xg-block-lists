@@ -1054,6 +1054,7 @@ capturemedia.network
 capturly.com
 carl.pubsvs.com
 carrotquest.io
+carscannon.com
 carts.guru
 cashbeet.com
 cashburners.com
@@ -1982,6 +1983,7 @@ ecn5.com
 ecommstats.com
 ecommstats.s3.amazonaws.com
 econda-monitor.de
+e-contenta.com
 ec-optimizer.com
 eco-tag.jp
 ecsanalytics.com
@@ -2721,6 +2723,7 @@ hurra.com
 hurterkranach.net
 hwpub.com
 hxtrack.com
+hybrid.ai
 hydesolo.tk
 hyfntrak.com
 hyperactivate.com
@@ -4747,6 +4750,7 @@ shinystat.it
 shinystat.lvlar.com
 shippinginsights.com
 shoelace.com
+shopnetic.com
 shoptimally.com
 showheroes.com
 showroomlogic.com
@@ -6488,6 +6492,7 @@ webstats.perfectworld.com
 webstats.sapo.pt
 webstats.seoinc.com
 webstats.thaindian.com
+webstats.thesoul-publishing.com
 web-t.9gag.com
 webtalking.ru
 webtrack.biz
@@ -6558,6 +6563,7 @@ womtp.com
 wonder-ma.com
 woopra.com
 woopra-ns.com
+wootric.com
 wordc.ga
 worker.salon.com
 worldflagcounter.com
