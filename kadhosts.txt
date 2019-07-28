@@ -77,6 +77,7 @@ antyspam.net
 anuluj-dlug.pl
 anuluj-mandat.pl
 anuluj-natreta.pl
+anwan.pl
 aoc.teleaudio.pl
 apartamentypoleska.pl
 api.myeforsa.pl
@@ -504,7 +505,6 @@ freehackpl.com
 freeiqtest.blogspot.com
 freeminecraft.cc
 freeminecraftgiftcode.net
-freevbucks-fortnite.pl
 freevbuckx.com
 freshiuz.com
 fulldownload.pl
@@ -664,7 +664,6 @@ jacketspolska.cn
 jakpodrywacnatinderze.pl
 jamba.pl
 jamster.pl
-jedz-eco.pl
 jerzyzieba.com
 jete.pl
 jezyckiszuszwol.pl
@@ -835,6 +834,7 @@ mobsfun.com
 mobstarr.com
 mobverify.com
 mobyapps.net
+model-agd.pl
 mojadietanamase.pl
 mojapsina.com
 moje-iq.pl
@@ -862,7 +862,6 @@ msphack.com.pl
 msphackonline.com
 msphacks.net
 multico.5v.pl
-mundialove.pl
 music.jbl-solo.com
 muverbo.pl
 myacn.eu
@@ -1099,7 +1098,6 @@ premium-offers.space
 prezent.odchudzaniezpasja.pl
 prime-management-ltd.com
 princessmask.pro
-pritom.pl
 private.atlanticgam.es
 prizefestival.mobi
 prizelava.com
@@ -1231,7 +1229,6 @@ skippyfile.com
 sklep466452.shoparena.pl
 sklep-colway.com
 sklep-colway.pl
-skleplara.pl
 skleptiande.pl
 skroc-link.ga
 skutecznesrodki-tabletkinapotencje.ovh
@@ -1445,7 +1442,6 @@ web-online.pl
 web.yuppipuppy.com
 wellstar-company.com
 wellu.eu
-weon.pl
 weryfikacjadanych.ml
 weryfikacjadanych.tk
 wesklan.pl
@@ -1573,6 +1569,7 @@ www.antyspam.net
 www.anuluj-dlug.pl
 www.anuluj-mandat.pl
 www.anuluj-natreta.pl
+www.anwan.pl
 www.aoc.teleaudio.pl
 www.apartamentypoleska.pl
 www.api.myeforsa.pl
@@ -2046,7 +2043,6 @@ www.freehackpl.com
 www.freeiqtest.blogspot.com
 www.freeminecraft.cc
 www.freeminecraftgiftcode.net
-www.freevbucks-fortnite.pl
 www.freevbuckx.com
 www.fresh-finance.pl
 www.freshiuz.com
@@ -2226,7 +2222,6 @@ www.jak-szybko-zarobic.com
 www.jamba.pl
 www.jamster.pl
 www.jasnypoker.pl
-www.jedz-eco.pl
 www.jelitto.pl
 www.jerzyzieba.com
 www.jete.pl
@@ -2427,6 +2422,7 @@ www.mobsfun.com
 www.mobstarr.com
 www.mobverify.com
 www.mobyapps.net
+www.model-agd.pl
 www.modi4moda.com
 www.modwebpro.pl
 www.mojadedra.pl
@@ -2463,7 +2459,6 @@ www.msphack.com.pl
 www.msphackonline.com
 www.msphacks.net
 www.multico.5v.pl
-www.mundialove.pl
 www.music.jbl-solo.com
 www.muverbo.pl
 www.myacn.eu
@@ -2704,7 +2699,6 @@ www.prevalue.pl
 www.prezent.odchudzaniezpasja.pl
 www.prime-management-ltd.com
 www.princessmask.pro
-www.pritom.pl
 www.private.atlanticgam.es
 www.prizefestival.mobi
 www.prizelava.com
@@ -2853,7 +2847,6 @@ www.skippyfile.com
 www.sklep466452.shoparena.pl
 www.sklep-colway.com
 www.sklep-colway.pl
-www.skleplara.pl
 www.skleptiande.pl
 www.skroc-link.ga
 www.skutecznesrodki-tabletkinapotencje.ovh
@@ -2967,7 +2960,6 @@ www.teleaudio.pl
 www.telecop.in.net
 www.telefon-50-zl.is-best.net
 www.telemediaa.pl
-www.telescopethesky.com
 www.telewizja-internetowa24.pl
 www.tembakan.pl
 www.tengofoxfiles.com
@@ -3113,7 +3105,6 @@ www.web-online.pl
 www.web.yuppipuppy.com
 www.wellstar-company.com
 www.wellu.eu
-www.weon.pl
 www.weryfikacjadanych.ml
 www.weryfikacjadanych.tk
 www.wesklan.pl
