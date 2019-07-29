@@ -1331,6 +1331,7 @@ creafi-online-media.com
 creatives.as4x.tmcs.net
 creatives.livejasmin.com
 credishe.com
+creep.world
 criteo.com
 critictruck.com
 croissed.info
@@ -2288,6 +2289,7 @@ pub.hardware.fr
 publicidad.elmundo.es
 publicidees.com
 pubmatic.com
+pubmine.com
 pub.network
 pub.realmedia.fr
 pubs.lemonde.fr
@@ -2594,6 +2596,7 @@ stats.self.com
 stats.townnews.com
 stats.unwired-i.net
 stats.wordpress.com
+stats.wp.com
 stats.x14.eu
 stat.webmedia.pl
 statxpress.com
