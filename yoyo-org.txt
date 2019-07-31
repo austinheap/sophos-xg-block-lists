@@ -831,6 +831,7 @@ ad.wsod.com
 ad.wz.cz
 adx.allstar.cz
 adx.atnext.com
+ad.xiaomi.com
 adxpansion.com
 adxpose.com
 ad.xrea.com
@@ -907,8 +908,24 @@ amplitude.com
 amung.us
 anahtars.com
 analytics.adpost.org
+analytics.bitrix.info
+analytics.cloudron.io
 analytics.google.com
+analytics.htmedia.in
+analytics.icons8.com
+analytics.jabong.com
 analytics.live.com
+analytics.mailmunch.co
+analytics.myfinance.com
+analytics.mytvzion.pro
+analytics.phando.com
+analytics.picsart.com
+analytics.poolshool.com
+analytics.posttv.com
+analytics-production.hapyak.com
+analytics.samdd.me
+analytics.siliconexpert.com
+analytics.swiggy.com
 analytics.yahoo.com
 anm.intelli-direct.com
 annonser.dagbladet.no
@@ -1460,6 +1477,7 @@ elitetoplist.com
 elthamely.com
 emarketer.com
 emebo.com
+emebo.io
 emediate.dk
 emediate.eu
 emerse.com
@@ -1701,6 +1719,7 @@ iadnet.com
 ia.iinfo.cz
 iasds01.com
 i-clicks.net
+iconadserver.com
 icptrack.com
 identads.com
 idtargeting.com
@@ -1880,6 +1899,7 @@ logger.snackly.co
 log.logrocket.io
 log.pinterest.com
 logs.roku.com
+logsss.com
 logua.com
 longinglettuce.com
 lop.com
@@ -2455,6 +2475,7 @@ searchramp.com
 secretivecub.com
 secretspiders.com
 securedopen-bp.com
+securemetrics.apple.com
 secure.webconnect.net
 sedoparking.com
 sedotracker.com
@@ -2519,6 +2540,7 @@ smartadserver.com
 smart.brvaffs.com
 smartlook.com
 smashsurprise.com
+smetrics.bestbuy.com
 smetrics.ctv.ca
 smetrics.foxnews.com
 smetrics.walgreens.com
@@ -2981,6 +3003,7 @@ zangocash.com
 zanox-affiliate.de
 zanox.com
 zantracker.com
+zarget.com
 zbwp6ghm.com
 zealousfield.com
 zedo.com

@@ -4055,6 +4055,7 @@ banners.getiton.com
 banners.haqqin.az
 bannersmania.com
 banners.mobile.yandex.net
+banners.myads.ge
 bannersnack.com
 bannersnack.net
 bannersold.eu
@@ -8734,6 +8735,7 @@ elite-s001.com
 elitics.com
 eljjyutgjiuh.com
 elkpxsfzrubq.com
+ellcurvth.com
 elle.alljournal.ru
 elmenor.xyz
 e.lndjj.com
@@ -9514,6 +9516,7 @@ feed-ads.com
 feedcat.net
 feedgist.com
 feedjit.com
+feed.monad-rtb.com
 feedperfect.com
 feesocrald.com
 feewoajy.net
@@ -15902,6 +15905,7 @@ mh9dskj8jg.com
 mhaafkoekzax.com
 mhbdezpwdq.com
 mhcttlcbkwvp.com
+m.helloworld2018.top
 mhfivsdhbpfgk.com
 mhfvtafbraql.com
 mhghzpotwnoh.com
@@ -18832,6 +18836,7 @@ pixel-a.basis.net
 pixel.ad
 pixel.admobclick.com
 pixel.anyclip.com
+pixelappcollector.thesun.co.uk
 pixel.bild.de
 pixel.bullion.media
 pixel.buzzfeed.com
@@ -19685,6 +19690,7 @@ pushno.com
 push-notifications.top
 pushservice.one
 pushs.site
+push-tools-system.com
 pushwhy.com
 pusk.ua
 pussl10.com
@@ -20827,6 +20833,7 @@ rewardtv.com
 rewartific.com
 rewdinghes.com
 reyden-x.com
+reydi.xyz
 reytata.ru
 rezilopompa.com
 reztksclx.com
@@ -23925,6 +23932,7 @@ thnqemehtyfe.com
 thogethoffic.co
 thomized.co
 thongke.24h.com.vn
+t.hoood.info
 thor-media.ru
 thor-z.com
 thoseads.com
@@ -28527,6 +28535,7 @@ yqtzhigbiame.com
 yqucllrbg.com
 yqufdqly.com
 yqutkbvrgvar.com
+yr9n47004g.com
 yrbjfusd.com
 yrcpupgqtn.com
 yrdrtzmsmt.com
