@@ -11,6 +11,7 @@
 4kstream.pl
 4shoes.pl
 4ur.click
+50kaweek.live
 5gb-internetu-pakiety.blogspot.com
 5k-player.com
 6j4cea2ybg.pl
@@ -192,6 +193,7 @@ cavotel.com
 cbldc.io
 cda-bez-limitu.pl
 cda-filmy.com.pl
+cda-flix.pl
 cdnrep.reimageplus.com
 cellfun.mobi
 centrum-agd.net
@@ -612,6 +614,7 @@ homeagd.in.net
 homeekspert.net
 homeexpres.net
 homejailbreak.com
+homgar.pl
 horafoo.xyz
 host1.5v.pl
 hostplik.pl
@@ -930,6 +933,7 @@ odlootowy.pl
 odzyskajsnapy.blogspot.com
 offerzone.click
 ogladaj.online
+ogladaj-online24.pl
 ogladamy24.pl
 okaleczenie15laatkii.blogspot.com
 okaleczon15-lattka.blogspot.com
@@ -1001,6 +1005,7 @@ pkworld.com.pk
 pl1.slimg0ji-berry.com
 pl1.the-titanium.com
 pl2.slimg0ji-berry.com
+pl.50kaweek.live
 pl.allsports4free.club
 planetazdrowia.com
 planet-tachyon.com
@@ -1490,6 +1495,7 @@ www.4kstream.pl
 www.4life.com
 www.4shoes.pl
 www.4ur.click
+www.50kaweek.live
 www.5gb-internetu-pakiety.blogspot.com
 www.5k-player.com
 www.6j4cea2ybg.pl
@@ -1697,6 +1703,7 @@ www.cavotel.com
 www.cbldc.io
 www.cda-bez-limitu.pl
 www.cda-filmy.com.pl
+www.cda-flix.pl
 www.cdnrep.reimageplus.com
 www.cedino.pl
 www.cellfun.mobi
@@ -2165,6 +2172,7 @@ www.homeagd.in.net
 www.homeekspert.net
 www.homeexpres.net
 www.homejailbreak.com
+www.homgar.pl
 www.horafoo.xyz
 www.host1.5v.pl
 www.hostedfiles.net
@@ -2540,6 +2548,7 @@ www.odlootowy.pl
 www.odzyskajsnapy.blogspot.com
 www.offerzone.click
 www.ogladaj.online
+www.ogladaj-online24.pl
 www.ogladamy24.pl
 www.okaleczenie15laatkii.blogspot.com
 www.okaleczon15-lattka.blogspot.com
