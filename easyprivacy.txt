@@ -515,6 +515,7 @@ analytics-rhwg.rhcloud.com
 analytics.rtbf.be
 analytics.sanoma.fi
 analytics.schoolwires.com
+analytics-scripts.cablelabs.com
 analytics.services.distractify.com
 analytics.shareaholic.com
 analytics.shop.hisense.com
@@ -872,6 +873,7 @@ betarget.com
 betarget.de
 betarget.net
 bettermetrics.co
+beusable.net
 bewaslac.com
 bewhoyouare.gq
 bfmio.com
@@ -2276,6 +2278,7 @@ flash-counter.com
 flashgamestats.com
 flash-stat.com
 flashstats.libsyn.com
+flashtalking.com
 flcounter.com
 flix360.com
 flixfacts.co.uk
@@ -2710,6 +2713,7 @@ hrfziiddxa.ru
 hrum.hotelsapi.io
 hsadspixel.net
 hs-analytics.net
+hscta.net
 hsdn.org
 hstrck.com
 httpp.gdn
