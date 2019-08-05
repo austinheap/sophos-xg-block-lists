@@ -1436,6 +1436,7 @@ drabsize.com
 dragzebra.com
 drumcash.com
 drydrum.com
+dsp.colpirio.com
 dsp.io
 dstillery.com
 dynamic.fmpub.net
@@ -1553,6 +1554,7 @@ fc.webmasterpro.de
 feebleshock.com
 feedbackresearch.com
 feedjit.com
+feynmanhopeful.eu
 ffxcam.fairfax.com.au
 fimserve.com
 findcommerce.com
@@ -1716,6 +1718,7 @@ iad.anm.co.uk
 iadnet.com
 ia.iinfo.cz
 iasds01.com
+ibillboard.com
 i-clicks.net
 iconadserver.com
 icptrack.com
@@ -1844,6 +1847,7 @@ leadboltads.net
 leadclick.com
 leadingedgecash.com
 leadplace.fr
+leady.com
 leadzupc.com
 leaplunchroom.com
 lettucelimit.com
@@ -2297,6 +2301,7 @@ props.id
 proton-tm.com
 protraffic.com
 provexia.com
+proxy-tracker.colpirio.com
 prsitecheck.com
 pr-star.de
 ps7894.com
@@ -2760,6 +2765,7 @@ trackedlink.net
 trackedweb.net
 track.effiliation.com
 tracker.bannerflow.com
+tracker.colpirio.com
 tracker.icerocket.com
 tracker.marinsm.com
 tracker-pm2.spilleren.com
@@ -2779,6 +2785,7 @@ tracking.internetstores.de
 tracking.olx-st.com
 tracking.publicidees.com
 trackingsoft.com
+track.mailerlite.com
 trackmysales.com
 track.nuxues.com
 track.viewdeos.com
@@ -2803,6 +2810,7 @@ trafic.ro
 traktrafficflow.com
 tranquilside.com
 travis.bosscasinos.com
+tr.colpirio.com
 trekdata.com
 tremendoustime.com
 trendcounter.com
@@ -2875,6 +2883,7 @@ visitbox.de
 visit.webhosting.yahoo.com
 visual-pagerank.fr
 visualrevenue.com
+vivtracking.com
 vmmpxl.com
 voicefive.com
 voicevegetable.com

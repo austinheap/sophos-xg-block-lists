@@ -58,7 +58,6 @@
 3dstats.com
 3enm.com
 3gl.net
-3rdeye.spankbang.com
 3wnp9.ru
 404tracker.com
 40nuggets.com
@@ -530,7 +529,6 @@ analytics.snidigital.com
 analytics.socialblade.com
 analytics.solidbau.at
 analytics.sonymusic.com
-analytics.spankbang.com
 analytics.sportybet.com
 analytics.springboardvideo.com
 analytics.staticiv.com
@@ -1654,6 +1652,7 @@ d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d1.abtshield.com
+d1aqhv4sn5kxtx.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1cerpgff739r9.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
@@ -1814,7 +1813,6 @@ de-mi-nis-ner2.info
 de-mi-nis-ner.info
 denakop.com
 de-ner-mi-nis4.info
-d-engine.spankbang.com
 de-nis-ner-mi-5.info
 departapp.com
 depttake.ga
@@ -3124,6 +3122,7 @@ lepoint-stat.sdv.fr
 leserservice-tracking.de
 les-experts.com
 letterboxtrail.com
+levelbehavior.com
 lexity.com
 l.fairblocker.com
 lfov.net
@@ -3396,6 +3395,7 @@ m-brain.fi
 mb-srv.com
 mbsy.co
 mbww.com
+mcloudglobal.com
 mcs.delvenetworks.com
 mc.webvisor.com
 mc.webvisor.org
