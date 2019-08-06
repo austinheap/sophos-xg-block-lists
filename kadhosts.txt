@@ -400,7 +400,6 @@ faccebook.5v.pl
 faceapp.eu
 facebbook.5v.pl
 facebokznajomi.blogspot.com
-facebook547341.5v.pl
 facebook.5v.pl
 facebookaplikacje.blogspot.com
 facebook-color.5v.pl
@@ -417,6 +416,15 @@ f-ads.pl
 failmobile.net
 fajne-filmy.pl
 faktopedia.com.pl
+fakturo-wnia.cf
+fakturo-wnia.ga
+fakturo-wnia.gq
+fakturo-wnia.ml
+fakturownia-pl.cf
+fakturownia-pl.ga
+fakturownia-pl.gq
+fakturownia-pl.ml
+fakturownia-pl.tk
 fargofinanse.pl
 fasterfiles.net
 favoriteadrequest.com
@@ -611,6 +619,7 @@ hitfilm.pl
 hitlog.tk
 hitvisit.com
 hksfa.org
+hokaeshop.com
 holdenavenue.pl
 hollisterwarszawa.pl
 homeagd.in.net
@@ -1943,7 +1952,6 @@ www.faccebook.5v.pl
 www.faceapp.eu
 www.facebbook.5v.pl
 www.facebokznajomi.blogspot.com
-www.facebook547341.5v.pl
 www.facebook.5v.pl
 www.facebookaplikacje.blogspot.com
 www.facebook-color.5v.pl
@@ -1961,6 +1969,15 @@ www.failmobile.net
 www.fajnefanty.com
 www.fajne-filmy.pl
 www.faktopedia.com.pl
+www.fakturo-wnia.cf
+www.fakturo-wnia.ga
+www.fakturo-wnia.gq
+www.fakturo-wnia.ml
+www.fakturownia-pl.cf
+www.fakturownia-pl.ga
+www.fakturownia-pl.gq
+www.fakturownia-pl.ml
+www.fakturownia-pl.tk
 www.fargofinanse.pl
 www.fasterfiles.net
 www.favoriteadrequest.com
@@ -2173,6 +2190,7 @@ www.hitfilm.pl
 www.hitlog.tk
 www.hitvisit.com
 www.hksfa.org
+www.hokaeshop.com
 www.holdenavenue.pl
 www.hollistersklep.com
 www.hollisterwarszawa.pl
