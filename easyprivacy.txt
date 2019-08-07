@@ -1652,7 +1652,6 @@ d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d1.abtshield.com
-d1aqhv4sn5kxtx.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1cerpgff739r9.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
@@ -3286,6 +3285,8 @@ log.wat.tv
 log.webnovel.com
 log.wilmaa.com
 log.worldsoft-cms.info
+logx.mtime.cn
+logx.mtime.com
 logxp.ru
 log.ynet.com
 logz.ru
