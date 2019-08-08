@@ -1888,6 +1888,7 @@ adserver.tutkusunucu.com
 adserver.ubiyoo.com
 adserver.unityads.unity3d.com
 adserver.yahoo.co.jp
+adserver.yahoo.com
 adservhere.com
 adservice.google.com.vn
 adservicemedia.dk
@@ -2684,6 +2685,7 @@ aijiboft.com
 aikdakxoc.com
 ailamtrieuphu.com
 ailanibah.com
+ailiyou1999.com
 ailtumty.net
 aim4media.com
 aimatch.com
@@ -6686,6 +6688,7 @@ cpagrip.com
 cpalead.com
 cpalock.com
 cpamatik.com
+cpamedia.info
 cpamnizzierk.com
 cpam.pro
 cpanuk.com
@@ -7115,7 +7118,6 @@ d191y0yd6d0jy4.cloudfront.net
 d194f913ee63.com
 d19uh5b0umbjrr.cloudfront.net
 d1af165twk0zgn.cloudfront.net
-d1aqhv4sn5kxtx.cloudfront.net
 d1b0fk9ns6n0w9.cloudfront.net
 d1bevsqehy4npt.cloudfront.net
 d1byvlfiet2h9q.cloudfront.net
@@ -8856,7 +8858,6 @@ enquisite.com
 ensighten.com
 enterads.com
 e-n-t-e-r-n-e-x.com
-enter-system.com
 enticelabs.com
 entimee.com
 entlydazhcmlgx.com
@@ -15639,7 +15640,6 @@ media-active.ru
 mediaad.org
 mediaadserver.org
 media.adtrack1.pl
-mediaalpha.com
 mediaarmor.com
 mediabaf.ru
 mediabanner.net
@@ -22259,6 +22259,7 @@ smartracker.net
 smarttargetting.com
 smarttargetting.co.uk
 smarttargetting.net
+smart-tds.info
 smarttds.ru
 smartyads.com
 smartzonessva.com
@@ -22353,6 +22354,7 @@ snsgsqyv.com
 s.nvrentao8.com
 snxjlicc.com
 snxvrnhe.com
+snyowx29.com
 soadvr.com
 soagitet.net
 socadvnet.com
@@ -22827,6 +22829,7 @@ stat.easydate.biz
 statecannoticed.com
 stat.ed.cupidplc.com
 statelead.com
+stat.enter-system.com
 state.sml2.ru
 statesol.net
 stat.freetool.it
@@ -25227,6 +25230,7 @@ tudsxyhpn.com
 tu.dxcnd.cn
 tufpmrcdc.com
 tuggbdzprgudk.com
+tuigang1999.com
 tujbidamlfrn.com
 tukuterus.com
 tuldmgwvimgowg.com
@@ -26289,6 +26293,7 @@ vicepiter.ru
 vickgdkdrwpdt.com
 vicofhozbuaf.com
 victorance.com
+victory1999.com
 vid7delivery.com
 vidalak.com
 vidapi.expepp.de
