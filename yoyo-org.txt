@@ -244,7 +244,6 @@ ad.nachtagenten.de
 adnet.asahi.com
 adnet.biz
 adnet.de
-adnetinteractive.com
 adnet.ru
 adnetwork.net
 adnetworkperformance.com
@@ -361,7 +360,6 @@ ads.belointeractive.com
 ads.berlinonline.de
 ads.betanews.com
 ads.betfair.com
-ads.betfair.com.au
 ads.bigchurch.com
 ads.bigfoot.com
 ads.bing.com
@@ -452,7 +450,7 @@ adserver.bizhat.com
 adserver.break-even.it
 adserver.cams.com
 adserver.com
-adserver.flossiemediagroup.com
+adserver.digitoday.com
 adserver.freecity.de
 adserver.friendfinder.com
 ad-server.gulasidorna.se
@@ -725,7 +723,6 @@ ads.waps.cn
 ads.wapx.cn
 ads.watson.ch
 ads.weather.ca
-ads.web.cs.com
 ads.web.de
 ads.webmasterpoint.org
 ads.websiteservices.com
@@ -1216,7 +1213,6 @@ cjbmanagement.com
 cj.com
 cjlog.com
 claria.com
-class-act-clicks.com
 clearcomb.com
 clevernt.com
 click2freemoney.com
@@ -1447,7 +1443,6 @@ earthquakescarf.com
 earthycopy.com
 eas.almamedia.fi
 easyhits4u.com
-e-bannerx.com
 ebayadvertising.com
 ebocornac.com
 ebuzzing.com
@@ -1911,7 +1906,6 @@ lp3tdqle.com
 lucidmedia.com
 lucklayed.info
 lumpyleaf.com
-lwfjd.today
 lytics.io
 lzjl.com
 m1.webstats4u.com
