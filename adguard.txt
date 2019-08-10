@@ -3033,6 +3033,7 @@ analytics.dev.springboardvideo.com
 analytics.digitouch.it
 analytics.dol.gr
 analytics.dvidshub.net
+analytics.easyvideo.vn
 analytics.ecosia.org
 analytics.edgekey.net
 analytics.edgesuite.net
@@ -5104,6 +5105,7 @@ buleor.com
 buletproofserving.com
 bulgarine.com
 bullads.net
+bulletprofit.com
 bulletproofserving.com
 bultenler.klscdn.com
 bumaikr.com
@@ -5914,6 +5916,7 @@ cleen.ru
 clente.com
 cleverads.vn
 cleveritics.com
+clevernet.vn
 clevernt.com
 clevi.com
 clevv.com
@@ -14894,6 +14897,7 @@ log.adap.tv
 logaholic.com
 log.aimtell.com
 log.aliyuncs.com
+log.anninhthudo.vn
 log.api.zaloapp.com
 log.artipbox.net
 log.baomoi.com
@@ -15416,6 +15420,7 @@ manchina.xyz
 maneta.info
 manfys.com
 mangoads.net
+mangoads.vn
 mangoforex.com
 manorparty.com
 mansion66.com
@@ -15808,6 +15813,7 @@ menuexamples.com
 meofur.ru
 mepchnbjsrik.com
 mepirtedic.com
+mepuzz.com
 meqxh.com
 mercadoclics.com
 mercatos.ru
@@ -15971,6 +15977,7 @@ micpn.com
 microadinc.com
 microad.jp
 microad.net
+microad.vn
 microcounter.de
 microsoftaffiliates.net
 micro-win.com
@@ -21520,6 +21527,7 @@ sandensi.ru
 sandsoftors.com
 sanglah.com
 sanksvohixxnlf.com
+san-spr-01.net
 saoboo.com
 saofjopps.com
 sapere.seed4.me
@@ -21886,6 +21894,7 @@ seuojaesymeriv.com
 sev4ifmxa.com
 sevenads.net
 sevendaystart.com
+sevootie.com
 sex4u.lg.ua
 sexcounter.com
 sex-finger.com
@@ -24738,6 +24747,7 @@ tracking.ukwm.co.uk
 tracking.unrealengine.com
 tracking.ustream.tv
 tracking.vengovision.ru
+tracking.vht.com.vn
 tracking.vid4u.org
 tracking.viewster.com
 tracking.vitringez.com
@@ -26732,6 +26742,7 @@ vtqdavdjsymt.com
 vtqmlzprsunm.com
 vtracker.net
 vtracking.in.com
+vtrack.vht.com.vn
 vtracy.de
 vtrtl.de
 vtvjkyqstvec.com
@@ -28549,6 +28560,7 @@ youlouk.com
 youmetrix.co.uk
 youmi.net
 youndoo.com
+younetmedia.com
 youngrul.pro
 youradexchange.com
 youramigo.com
