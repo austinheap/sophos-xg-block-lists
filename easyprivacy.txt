@@ -541,6 +541,7 @@ analytics.styria.hr
 analytics.suggestv.io
 analytics.supplyframe.com
 analytics.teespring.com
+analytics.thegedsection.com
 analytics.themarketiq.com
 analytics.thenest.com
 analytics.thenewslens.com
@@ -766,6 +767,7 @@ balancebreath.com
 bam-x.com
 banstat.nadavi.net
 baptisttop1000.com
+baremetrics.com
 barilliance.net
 barium.cheezdev.com
 basicstat.com
@@ -824,7 +826,6 @@ beacon.thred.woven.com
 beacon.tingyun.com
 beacon.toyota.co.jp
 beacon.viewlift.com
-beacon.walmart.com
 beacon.wikia-services.com
 beacon.www.theguardian.com
 beampulse.com
@@ -1775,6 +1776,7 @@ data.queryly.com
 data.ryanair.com
 datasecu.download
 dataservices.download
+datasteam.io
 dataxpand.com
 data.younow.com
 datvantage.com
@@ -2362,7 +2364,6 @@ fresh.techdirt.com
 friendbuy.com
 friends.totallynsfw.com
 frog.wix.com
-frosmo.com
 fruitflan.com
 fsd2.digital
 fshka.com
@@ -2415,7 +2416,6 @@ generaltracking.de
 genieedmp.com
 genieessp.jp
 genieesspv.jp
-geni.us
 geobar.ziffdavisinternational.com
 geobeacon.ign.com
 geobytes.com
@@ -3719,6 +3719,7 @@ navlog.channel4.com
 navrcholu.cz
 naytev.com
 nb.myspace.com
+ncaudienceexchange.com
 ncdnprorogeraie.lol
 ncom.dk
 nctrk.abmail.com.br
@@ -5105,6 +5106,7 @@ stathat.com
 stathound.com
 stat.hudong.com
 static-cnt.bid
+staticiv.com
 static-sb.com
 staticsfs.host
 statisfy.net
@@ -5397,6 +5399,7 @@ st.cdnco.us
 stcllctrs.com
 stcollection.moneysupermarket.com
 stcounter.com
+st.dynamicyield.com
 stealth.nl
 steelhousemedia.com
 steepsquirrel.com
