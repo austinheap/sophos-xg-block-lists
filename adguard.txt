@@ -3157,6 +3157,7 @@ analytics.themarketiq.com
 analytics.thenest.com
 analytics.thenewslens.com
 analytics.thetab.com
+analytics.thethao247.org
 analytics.thevideo.me
 analytics.tout.com
 analytics-tracker.thescore.com
@@ -3390,7 +3391,6 @@ apopgo.com
 app.adjust.io
 appads.com
 app.airtrack.jp
-appapicached.vtvgo.vn
 apparede.com
 appared.online
 apparest.com
@@ -6074,7 +6074,6 @@ client.midosoo.com
 client.perimeterx.net
 clientstat.castup.net
 client.tahono.com
-client.vads.net.vn
 clifftopper.com
 clipbongda.info
 c.live.com
@@ -8860,6 +8859,7 @@ enlnks.com
 enloe6qtkd.com
 enmaer.com
 enmbg.com
+enmisindingat.info
 enokjulejktukh.com
 enot.k-yroky.ru
 enoughts.info
@@ -9267,6 +9267,7 @@ ex.newsland.com
 exnyzdboihvi.com
 exnzg.de
 exoclick.com
+exoclsodaqs.com
 exogripper.com
 exo.kiev.ua
 exoneratedresignation.info
@@ -9405,6 +9406,7 @@ fafmybvsoj.com
 faftjhuu.com
 faggrim.com
 faibl.org
+faidoud.com
 fairadsnetwork.com
 fairfaxmedia.sharedcount.com
 fairlink.ru
@@ -14951,6 +14953,7 @@ log.hira-meki.jp
 log.ideamelt.com
 log.idnes.cz
 loginbox.ru
+log.infonet.vn
 login.tracking101.com
 log.invodo.com
 log-ird.outbrain.com
@@ -15010,6 +15013,7 @@ logupdate.avlyun.sec.miui.com
 logv2.mp3.zing.vn
 log.vdn.apps.cntv.cn
 log.v.iask.com
+log.vietnamdaily.net.vn
 log.vietnamplus.vn
 log.vov.vn
 log.wat.tv
@@ -19169,6 +19173,7 @@ ponyvod.ru
 poogriry.click
 pool5.info
 pool.etn.spacepools.org
+poolgmsd.com
 pool.hws.ru
 poolmining.eu
 poolmining.net
@@ -20190,10 +20195,12 @@ qqbyfhlctzty.com
 qqcbzxwzpmzdcd.com
 qqcjvbsd.com
 qqgtevtjnpwd.com
+qqjar.ru
 qqjmbj.com
 qqkxrlzaaul.com
 qqmilk.ru
 qqrkutrsg.com
+qqshoe.ru
 qqtqicbvrwg.com
 qquwjmmgtmle.com
 qqvatwaqtzgp.com
@@ -20899,6 +20906,7 @@ rewdinghes.com
 reyden-x.com
 reydi.xyz
 reytata.ru
+rezhiv.ru
 rezilopompa.com
 reztksclx.com
 reztrack.com
@@ -21882,7 +21890,6 @@ service-stat.tbn.ru
 services.wetek.com
 servinator.pw
 serving.adbetclickin.pink
-serving.ad.org.vn
 serving-ad.tv24.vn
 servingpps.com
 serving-sys.com
@@ -22858,9 +22865,9 @@ statesol.net
 stat.freetool.it
 stathat.com
 stathound.com
-static.ad.org.vn
 static-ads.akamaized.net
 static-ads.zaloapp.com
+staticad.thethao247.vn
 static.adtidy.net
 static.analytics-site.com
 static.clickscloud.net
@@ -24005,6 +24012,7 @@ thnqemehtyfe.com
 thogethoffic.co
 thomized.co
 thongke.24h.com.vn
+thongke.baotintuc.vn
 t.hoood.info
 thor-media.ru
 thor-z.com
