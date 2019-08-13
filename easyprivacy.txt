@@ -286,6 +286,7 @@ affiliates.minglematch.com
 affiliates.mozy.com
 affiliates.myfax.com
 affiliates-pro.com
+affiliates.purevpn.com
 affiliates.spark.net
 affiliates.swappernet.com
 affiliates.treasureisland.com
@@ -3614,6 +3615,7 @@ mps-gba.de
 mpstat.us
 mp.twitch.tv
 mpwe.net
+mql5.com
 mqs.ioam.de
 mr-rank.de
 mrycrypto.com
