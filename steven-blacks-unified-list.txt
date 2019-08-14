@@ -1070,6 +1070,7 @@ aa.newsblock.dt00.net
 aa.newsblock.marketgid.com
 aanqylta.com
 a.answers.com
+a.anthill.vn
 a.ants.vn
 aa.oasfile.aftenposten.no
 aa.online-metrix.net
@@ -1221,6 +1222,7 @@ ac7.i2i.jp
 ac8.i2i.jp
 ac9d98.r.axf8.net
 ac9.i2i.jp
+academy.accesstrade.vn
 ac.adpia.vn
 acads.net
 acaiberryextreme.pl
@@ -1232,7 +1234,6 @@ a.cbc.ca
 acbp0020171456.page.tl
 accessful.info
 accessport.jp
-accesstrade.com
 accesstrade.com.vn
 accesstrade.vn
 acces.streaming-direct.co
@@ -1688,6 +1689,7 @@ ad.abema.io
 ad.aboutwebservices.com
 ad.abum.com
 ad.accessmediaproductions.com
+ad.accesstrade.vn
 ad-ace.doubleclick.net
 adaction.de
 adactiongapl.hit.gemius.pl
@@ -5092,6 +5094,7 @@ ads.videosz.com
 adsvids.com
 adsvidsdouble.com
 ads.vidsense.com
+ads.vietad.vn
 adsview2.qq.com
 ads.viewlondon.co.uk
 adsview.qq.com
@@ -5442,6 +5445,7 @@ advertiseireland.com
 advertisementafterthought.com
 advertisement.avosapps.us
 advertisementnl.112.2o7.net
+advertiser.ad360.vn
 advertisers.federatedmedia.net
 advertiserurl.com
 advertisespace.com
@@ -6804,6 +6808,7 @@ api.3d0cb547.space
 api5.batmobil.net
 api.7segments.com
 api.aalbbh84.info
+api.accesstrade.vn
 api.adcalls.nl
 api.addnow.com
 api.addthis.com
@@ -6935,6 +6940,7 @@ apis.murdoog.com
 api.sponsorpay.com
 api.stathat.com
 api.stats.appa.pe
+api.subiz.com
 api.sumo.hashvault.pro
 api.sumokoin.hashvault.pro
 api.taboola.com
@@ -7028,6 +7034,7 @@ appelamule.com
 app.fancifulapp.cool
 appfixing.space
 appfox.org
+app.gammaplatform.com
 appgasstation.com
 app.getresponse.com
 appie.com
@@ -7129,7 +7136,6 @@ app.storage.yunvm.com
 app.subiz.com
 app.super-links.net
 app.ubertags.com
-app.vietad.vn
 app.winwords.adhood.com
 appyaviator.com
 app.yesware.com
@@ -7408,6 +7414,7 @@ astrsk.net
 asumi.shinobi.jp
 asu.msmu.ru
 as.ve.impact-ad.jp
+as.vietad.vn
 asv.nuggad.net
 asvoxod.ru
 as.vs4entertainment.com
@@ -7500,6 +7507,7 @@ audienceinsights.com
 audio-book.net.pl
 audio.de.intellitxt.com
 audit.median.hu
+audit.quantcast.mgr.consensu.org
 audit.webinform.hu
 aud.pubmatic.com
 au.effectivemeasure.net
@@ -8136,6 +8144,7 @@ bannerus1.axelsfun.com
 bannerus3.axelsfun.com
 banner.usacasino.com
 banner.vadian.net
+banner.vietad.vn
 banner.vrs.cz
 banner.webmersion.com
 banner.webtools24.net
@@ -9176,7 +9185,10 @@ c08.smaato.net
 c09.smaato.net
 c0.adalyser.com
 c0.amazingcounters.com
+c0.anthill.vn
 c0i8h8ac7e.bid
+c0.st.anthill.vn
+c0-vcdn.anthill.vn
 c10.smaato.net
 c10.statcounter.com
 c11370896.c.youradexchange.com
@@ -9742,6 +9754,7 @@ cdn77.cityads.com
 cdn.8digits.com
 cdn8.emediate.eu
 cdn.accelerator.arsdev.net
+cdn.accesstrade.vn
 cdn.ad1-click.com
 cdn.ad4game.com
 cdn.adbooth.net
@@ -10497,6 +10510,8 @@ click4.rbc.magna.ru
 click.a-ads.com
 clickability.com
 click.absoluteagency.com
+click.accesstrade.com.vn
+click.accesstrade.vn
 clickad.eo.pl
 click.adimmix.com
 click.adpia.vn
@@ -10743,6 +10758,7 @@ clk.atdmt.com
 clk.cloudyisland.com
 clkde.tradedoubler.com
 clkfeed.com
+clk.gammaplatform.com
 clk.madisonlogic.com
 clkoffers.com
 clk.pointroll.com
@@ -10815,6 +10831,7 @@ c.mdnhinc.com
 c.media-dl.co
 c.medialytics.com
 cm.eyereturn.com
+cm.gammaplatform.com
 cm.g.doubleclick.net
 c.mgid.com
 cmhtml.overture.com
@@ -10839,6 +10856,7 @@ cms.novaon.asia
 cms.quantserve.com
 cms.springboard.gorillanation.com
 cms.springboardplatform.com
+cm-supply-web.gammaplatform.com
 cms.vinaads.vn
 cm.the-n.overture.com
 cmtrading.ck-cdn.com
@@ -11629,6 +11647,7 @@ cpays.com
 cpbld.co
 cpbldi.com
 cpcclick.novanet.vn
+cpd.vietad.vn
 c.pebblemedia.be
 c.ph.msn.com
 c.pioneeringad.com
@@ -12132,8 +12151,10 @@ d-and-h.com
 dandingo.go2jump.org
 da.newstogram.com
 danger-phentermine.allforyourlife.com
+dangky.accesstrade.vn
 daniweb.us.intellitxt.com
 danmeneldur.com
+d.anthill.vn
 d.ants.vn
 dap.digitalgov.gov
 dapper.net
@@ -12660,6 +12681,7 @@ display.digitalriver.com
 display.gestionpub.com
 display.provenpixel.com
 display.qc.coccoc.com
+display.vietad.vn
 disqusads.com
 dis.sv.us.criteo.com
 dist.belnk.com
@@ -12768,6 +12790,7 @@ docfind.oewabox.at
 dock.inmobi.com
 docksalmon.com
 docs1.iwon.com
+docs.accesstrade.vn
 docs.subiz.com
 doctor-alex.com
 doctorsassociatesrx.112.2o7.net
@@ -13187,6 +13210,7 @@ eagamesuk.112.2o7.net
 eaglemiles.112.2o7.net
 e.ai.inmobi.com
 ea.logging.admicro.vn
+e.anthill.vn
 e.ants.vn
 eapogocom.112.2o7.net
 earncoins.club
@@ -13607,6 +13631,7 @@ e.maxtraffic.com
 embed.insticator.com
 embed.sendtonews.com
 embed-stats.rbl.ms
+embed.vietad.vn
 emc.122.2o7.net
 emea-bidder.mathtag.com
 emea.rel.msn.com
@@ -14306,6 +14331,7 @@ fascinatedfeather.com
 f.as-eu.falkag.net
 fashion-tube.be
 fast.accesstrade.com.vn
+fast.accesstrade.vn
 fast.adobe.demdex.net
 fast.bet.demdex.net
 fast.bostonglobe.demdex.net
@@ -16963,6 +16989,8 @@ hzs2.cnzz.com
 hzs4.cnzz.com
 hzs8.cnzz.com
 hzsod71wov.me
+i0.anthill.vn
+i0-vcdn.anthill.vn
 i.11zz.com
 i1.dl-ad.com
 i1img.com
@@ -17498,6 +17526,7 @@ img.soulmate.com
 img-space.net
 img.sunmediaads.com
 img.tradedoubler.com
+img.vietad.vn
 img.vietnamnetad.vn
 img.xnxx.com
 img.yomereba.com
@@ -17915,6 +17944,7 @@ invest-pamm.ru
 investreviewier.com
 in-viacom18.videoplaza.tv
 invideo.ero-advertising.com
+in-view.gammaplatform.com
 invitation.opinionbar.com
 invitefashion.com
 invite.gezinti.com
@@ -18113,6 +18143,7 @@ iusacomlive.112.2o7.net
 iv24.pl
 i.vcimg.jp
 iv.doubleclick.net
+i.vietad.vn
 ivillageglobal.112.2o7.net
 ivillage.us.intellitxt.com
 ivitrine.buscape.com
@@ -18796,6 +18827,7 @@ kharagpur.in
 khawatire.com
 kh-mi-lk.de
 kho3au7l4z.me
+khuyenmaitet.ad360.vn
 kickasscash.biz
 kickass.cd
 kickass-porn.com
@@ -19548,6 +19580,11 @@ log.anninhthudo.vn
 log.api.zaloapp.com
 log.apk.v-mate.mobi
 loga.xiti.com
+logb20.vietad.vn
+logb21.vietad.vn
+logb22.vietad.vn
+logb23.vietad.vn
+logb3.vietad.vn
 log.baomoi.com
 log.batdongsan.com.vn
 log.bling.samuraiworks.com
@@ -19735,6 +19772,7 @@ log.vov.vn
 logv.xiti.com
 logw312.ati-host.net
 logw349.ati-host.net
+logw.vietad.vn
 logx.optimizely.com
 log.zingmp3.vn
 l.ohmyad.co
@@ -19774,6 +19812,7 @@ losowa-gra.pl
 lostartofbeingadame.com
 losu.112.2o7.net
 lotate.adtune.jp
+lotte.accesstrade.vn
 lottery-lists.freebitco.in
 lottoga.com
 lottoland.pl
@@ -20448,6 +20487,7 @@ marykay.pl
 maryscott.angelcities.com
 masalatalk.us.intellitxt.com
 masari.crypto-webminer.com
+mascot.accesstrade.vn
 masenkotrkr.com
 mashable.d2.sc.omtrdc.net
 mashinkhabar.com
@@ -22689,6 +22729,7 @@ nl2.ero-advertising.com
 nl4.hit.stat24.com
 nl.adserver.yahoo.com
 nl.ads.justpremium.com
+nlb.vietad.vn
 nlccrunsemmvbbv.cinci.rr.com
 nlconsulateorlandoorg.siteprotect.net
 nl.cookiescript.info
@@ -24158,6 +24199,7 @@ parskabab.com
 partner01.oingo.com
 partner02.oingo.com
 partner03.oingo.com
+partner.accesstrade.vn
 partnerad.l.doubleclick.net
 partnerad.l.google.com
 partner-ads.com
@@ -25701,6 +25743,7 @@ pub49.bravenet.com
 pub50.bravenet.com
 pub7.bravenet.com
 pub9.bravenet.com
+pub.accesstrade.vn
 pubads.g.doubleclick.net
 pub.axiatraders.com
 pub.chez.com
@@ -25888,7 +25931,6 @@ quangcaotructuyen247.com
 quangcao.tuoitre.vn
 quantcast584928381.s.moatpixel.com
 quantcast.com
-quantcast.mgr.consensu.org
 quant.jp
 quantserve.com
 quantummetric.com
@@ -26427,6 +26469,7 @@ ressp.net
 restaurantcom.tt.omtrdc.net
 restoredchurchofgod.112.2o7.net
 restore-pc.com
+restream.accesstrade.vn
 restricted.pl
 resultplus.jp
 results.cafefind.net
@@ -27189,6 +27232,7 @@ sacredphoenix.com
 sact.atdmt.com
 s.ad121m.com
 s.ad131m.com
+s.ad360.vn
 sade-ecrivain.com
 s.adexpert.cz
 s.adframesrc.com
@@ -29278,6 +29322,7 @@ stage.hitbox.com
 stage.traffiliate.com
 stage.tvpage.com
 staging-e.anthill.vn
+staging-e-vcdn.anthill.vn
 staging.j.eclick.vn
 staging.novaonx.com
 staging.rungrinh.vn
@@ -29307,6 +29352,7 @@ st-analytics.anthill.vn
 standardsandpraiserepurpose.com
 standingnest.com
 standrewsgolfclub.com
+st.anthill.vn
 stanzapub.advertserve.com
 stapt.com
 star61.de
@@ -29491,6 +29537,7 @@ static.fmpub.net
 static.freebitco.in
 static.freenet.de
 static.freeskreen.com
+static.gammaplatform.com
 static.getclicky.com
 static.gfx.streamate.com
 static.gfx.streamen.com
@@ -30000,6 +30047,7 @@ s.tuoitre.vn
 stupendoussleet.com
 stupidcelebrities.us.intellitxt.com
 st.valueclick.com
+st-vcdn.anthill.vn
 st.videojam.tv
 st.vq.ku6.cn
 st.wetrack.it
@@ -30087,6 +30135,7 @@ sun.win
 suo.lp.mydas.mobi
 sup.adfox.ru
 superbay.li
+superbox.accesstrade.vn
 superbrewards.com
 supercars.us.intellitxt.com
 superclix.de
@@ -31154,6 +31203,7 @@ top100.rambler.ru
 top123.ro
 top1.list.ru
 top1site.3host.com
+top2017.accesstrade.vn
 top20free.com
 top3.list.ru
 top50.co.uk
@@ -31299,6 +31349,7 @@ track2.ultimateinternetoffers.com
 track3.your-picks.com
 track.941tracking.com
 tracka.businessleadbuilder.com
+track.accesstrade.vn
 track.acclaimnetwork.com
 track.ad4mmo.com
 track.adbooth.net
@@ -31437,6 +31488,7 @@ track.fling.com
 track.freemmo2017.com
 track.ft.com
 track.futureshop.ca
+track.gammaplatform.com
 track.gawker.com
 track.greatofferstoyou.net
 track.grmtracking.com
@@ -32200,6 +32252,7 @@ turnsocial.now.sh
 turtlecoin.crypto-webminer.com
 tutihirek.org
 tutorialoutpost.us.intellitxt.com
+tuyendung.accesstrade.vn
 tv2dk.nuggad.net
 tv2no.linkpulse.com
 tv4play-se.c.richmetrics.com
@@ -32698,8 +32751,10 @@ uzljra.ru
 uzupelniajdane.ga
 uzupelniajdane.gq
 uzupelniaj-dane.ml
+v0.anthill.vn
 v0.extreme-dm.com
 v0.stat.ku6.com
+v0-vcdn.anthill.vn
 v10c.events.data.microsoft.com
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
@@ -32717,8 +32772,10 @@ v2profit.com
 v2.stat.ku6.com
 v2st.shinobi.jp
 v2.urlads.net
+v3-ads-st-vcdn.anthill.vn
 v3.cnzz.com
 v3.stat.ku6.com
+v3-st-vcdn.anthill.vn
 v3.toolbar.soso.com
 v4.cnzz.com
 v5.chinoc.net
@@ -32805,6 +32862,7 @@ vbbg.adocean.pl
 v.bsvideos.com
 vccrm.admicro.vn
 vcdn.adnxs.com
+vcdn.anthill.vn
 vcfs6ip5h6.bi
 vcfs6ip5h6.bid
 vcipo.info
@@ -33844,6 +33902,7 @@ widdit.com
 widespace.com
 widestep.com
 widget3.linkwithin.com
+widget-4.subiz.com
 widget5.linkwithin.com
 widget6.linkwithin.com
 widget.achetezfacile.com
@@ -35065,6 +35124,7 @@ www.abtest.mistat.xiaomi.com
 www.acaiberryextreme.pl
 www.ac.auone-net.jp
 www.acbp0020171456.page.tl
+www.accesstrade.vn
 www.accidentadvicehelpline.co.uk
 www.ace.jamba.pl
 www.ace.jamster.pl
@@ -35523,6 +35583,7 @@ www.anrdoezrs.net
 www.antaraimedia.com
 www.ant.com
 www.antennash.com
+www.anthill.vn
 www.anticarredodolomiti.com
 www.anticlown.com
 www.antontech.pl
@@ -37378,6 +37439,7 @@ www.games-toys-free.com
 www.games-toys-rewardpath.com
 www.gamevance.com
 www.gamezmelt.com
+www.gammaplatform.com
 www.gano-excel.pl
 www.garciniacambogiaactives.pl
 www.garudaairlines.com
@@ -41946,6 +42008,7 @@ zona.plus
 zonawm.biz.popunder.ru
 zone3x.net
 zone.uniad.vn
+zone.vietad.vn
 zoodrawings.com
 zoofiliagratis.biz
 zoofilia-total.com
@@ -41990,6 +42053,7 @@ zuverink.net
 zuzzer5.com
 zverokruh-shop.cz
 zvetki.ru
+z.vietad.vn
 zviframe.biz
 zwariowane.pl
 zweryfiikujdane.tk

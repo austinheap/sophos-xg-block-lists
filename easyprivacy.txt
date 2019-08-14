@@ -4683,7 +4683,6 @@ scriptil.com
 scripts21.com
 scriptshead.com
 scripts.psyma.com
-scroll.com
 scrubswim.com
 sc-static.net
 scupio.com
@@ -6452,6 +6451,7 @@ wcfbc.net
 wcs.naver.com
 wdm.map24.com
 web1.51.la
+webads.eu
 webalytics.pw
 webassembly.stream
 web-boosting.net
