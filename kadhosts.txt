@@ -92,7 +92,6 @@ antyspam.net
 anuluj-dlug.pl
 anuluj-mandat.pl
 anuluj-natreta.pl
-anwan.pl
 aoc.teleaudio.pl
 apartamentypoleska.pl
 api.myeforsa.pl
@@ -384,7 +383,6 @@ easypdfcombine.com
 ebeautyportal.com
 ebook4all.com.pl
 ebookeo.pl
-ebookipdf.pl
 ebuty.net.pl
 e-cda.pl
 eco-flow.pl
@@ -442,6 +440,7 @@ ezdownloadpro.info
 f4u.pl
 faberlic.com
 fabrykaagd.com.pl
+fabryka-mebli.com
 fabryka-nagrod.com
 faccebook.5v.pl
 faceapp.eu
@@ -612,7 +611,6 @@ geniustrainer.net
 gerotel.com
 getalinkandshare.com
 getcouponsfast.com
-getdataback.pl
 getfilesfrom.net
 getgamecheats.com
 getleads.pl
@@ -635,7 +633,6 @@ glosowanie.ujm.pl
 go2affise.com
 go2cloud.org
 go.bestmobiworld.com
-go.co-aa831.stream
 go.data1rtb.com
 gogameportal.com
 go.globalhealingcenter.com
@@ -775,7 +772,6 @@ kasiakurier.info
 kaufland.gift-cards.co.pl
 kdplay.net
 kekuko.com
-kelerisriders.pl
 kenseeart.pl
 kickz4u.pl
 kiddabadam.com
@@ -881,7 +877,6 @@ macandwin.theforcontentingvideosystems.icu
 maccleaner.space
 maciekkurier.info
 mackeeperapp.mackeeper.com
-maczyn.pl
 madagascaroasis.org
 maendo.tv
 magadownloader.com
@@ -1154,7 +1149,6 @@ play-cda.pl
 playfilm.pl
 playgames4u.com
 play.leadzu.com
-play-logic-games.com
 playmax.co
 playmobia.com
 playmobilecrm.com
@@ -1285,6 +1279,7 @@ przyspieszkomputer.pl
 przyspiesz.pl
 psialapka.pl
 pszczelezycie.pl
+ptcspy.com
 ptgame.eu
 publisher.lead.network
 puna.pl
@@ -1338,8 +1333,10 @@ riverparkbaseball.org
 robloxhack.pl
 roboclean-poland.com
 rosalieeve.pl
+rossmannbonyzakupowe.grvdc.eu
 roulettenumber.com
 rowerowyrajd.pl
+rownet.pl
 rtvagdpro.net
 ruletkasystem.eu
 ruletka-systemy.com
@@ -1533,7 +1530,6 @@ tiande.ru
 tiandewarszawa.pl
 tiande.wroclaw.pl
 tiens.pl
-tigipro.pl
 tilido.com
 timeforvitamins.com
 tinyfilehost.com
@@ -1631,7 +1627,6 @@ vidzsource.net
 viewerfb.glt.pl
 vimeoo.net
 vipcheats.us
-viphack.pro
 vipon.pl
 virtualsklep.com
 vision2020.pl
@@ -1701,7 +1696,6 @@ www.24-fakty.pl
 www.24hoursready.cf
 www.3000-od-reki.pl
 www.4332.ws
-www4.co-aa198.stream
 www.4kplayer.pl
 www.4ksport.pl
 www.4kstream.pl
@@ -1789,7 +1783,6 @@ www.antyspam.net
 www.anuluj-dlug.pl
 www.anuluj-mandat.pl
 www.anuluj-natreta.pl
-www.anwan.pl
 www.aoc.teleaudio.pl
 www.apartamentypoleska.pl
 www.api.myeforsa.pl
@@ -2085,7 +2078,6 @@ www.easypdfcombine.com
 www.ebeautyportal.com
 www.ebook4all.com.pl
 www.ebookeo.pl
-www.ebookipdf.pl
 www.ebuty.net.pl
 www.e-cda.pl
 www.eco-flow.pl
@@ -2143,6 +2135,7 @@ www.ezdownloadpro.info
 www.f4u.pl
 www.faberlic.com
 www.fabrykaagd.com.pl
+www.fabryka-mebli.com
 www.fabryka-nagrod.com
 www.faccebook.5v.pl
 www.faceapp.eu
@@ -2313,7 +2306,6 @@ www.geniustrainer.net
 www.gerotel.com
 www.getalinkandshare.com
 www.getcouponsfast.com
-www.getdataback.pl
 www.getfilesfrom.net
 www.getgamecheats.com
 www.getleads.pl
@@ -2336,7 +2328,6 @@ www.glosowanie.ujm.pl
 www.go2affise.com
 www.go2cloud.org
 www.go.bestmobiworld.com
-www.go.co-aa831.stream
 www.go.data1rtb.com
 www.gogameportal.com
 www.go.globalhealingcenter.com
@@ -2476,7 +2467,6 @@ www.kasiakurier.info
 www.kaufland.gift-cards.co.pl
 www.kdplay.net
 www.kekuko.com
-www.kelerisriders.pl
 www.kenseeart.pl
 www.kickz4u.pl
 www.kiddabadam.com
@@ -2583,7 +2573,6 @@ www.macandwin.theforcontentingvideosystems.icu
 www.maccleaner.space
 www.maciekkurier.info
 www.mackeeperapp.mackeeper.com
-www.maczyn.pl
 www.madagascaroasis.org
 www.maendo.tv
 www.magadownloader.com
@@ -2851,7 +2840,6 @@ www.play-cda.pl
 www.playfilm.pl
 www.playgames4u.com
 www.play.leadzu.com
-www.play-logic-games.com
 www.playmax.co
 www.playmobia.com
 www.playmobilecrm.com
@@ -2958,6 +2946,7 @@ www.przyspieszkomputer.pl
 www.przyspiesz.pl
 www.psialapka.pl
 www.pszczelezycie.pl
+www.ptcspy.com
 www.ptgame.eu
 www.publisher.lead.network
 www.puna.pl
@@ -3011,8 +3000,10 @@ www.riverparkbaseball.org
 www.robloxhack.pl
 www.roboclean-poland.com
 www.rosalieeve.pl
+www.rossmannbonyzakupowe.grvdc.eu
 www.roulettenumber.com
 www.rowerowyrajd.pl
+www.rownet.pl
 www.rtvagdpro.net
 www.ruletkasystem.eu
 www.ruletka-systemy.com
@@ -3207,7 +3198,6 @@ www.tiande.ru
 www.tiandewarszawa.pl
 www.tiande.wroclaw.pl
 www.tiens.pl
-www.tigipro.pl
 www.tilido.com
 www.timeforvitamins.com
 www.tinyfilehost.com
@@ -3305,7 +3295,6 @@ www.vidzsource.net
 www.viewerfb.glt.pl
 www.vimeoo.net
 www.vipcheats.us
-www.viphack.pro
 www.vipon.pl
 www.virtualsklep.com
 www.vision2020.pl

@@ -353,7 +353,6 @@ ac.ajur.info
 a.cbc.ca
 acckalaharinet.112.2o7.net
 accuweather.us.intellitxt.com
-acdn.adnxs.com
 a.cdn.intentmedia.net
 ace.adoftheyear.com
 a.centrum.cz
@@ -11384,6 +11383,7 @@ www.regdefense.com
 www.relevantknowledge.com
 www.relmaxtop.com
 www.restore-pc.com
+www.retailproductzone.com
 www.revcontent.com
 www.revisitors.com
 www.rewardszoneusa.com
