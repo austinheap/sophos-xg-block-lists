@@ -1149,6 +1149,7 @@ chunk.bustle.com
 cifraclub.com.br
 c.imedia.cz
 cint.com
+cintnetworks.com
 c.ipaddress.com
 circle.am
 circular-counters.com
@@ -2013,6 +2014,7 @@ edw.edmunds.com
 edw.insideline.com
 efatik.me
 e.funnymel.com
+eggplant.cloud
 ejyymghi.com
 e-kaiseki.com
 ekg.riotgames.com
@@ -6194,6 +6196,7 @@ t.theoutplay.com
 tt.onthe.io
 ttwbs.channelintelligence.com
 tubetrafficcash.com
+tuinfra.com
 tulip18.com
 tunnl.com
 turnsocial.com
@@ -6588,6 +6591,7 @@ wiredminds.de
 wisetrack.net
 wishloop.com
 wisteria-js.excite.co.jp
+withcubed.com
 witthethim.com
 wla.vivaldi.com
 wl.jd.com

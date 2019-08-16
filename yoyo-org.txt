@@ -566,7 +566,6 @@ ads.jobsite.co.uk
 ads.jpost.com
 ads.jubii.dk
 ads.justhungry.com
-adsk2.co
 ads.kabooaffiliates.com
 ads.kaktuz.net
 adskeeper.co.uk
@@ -800,7 +799,6 @@ advertserve.com
 advertstream.com
 advertwizard.com
 adv.freeonline.it
-advfromnwl.com
 adv.hwupgrade.it
 advideo.uimserv.net
 adview.ppro.de
@@ -832,6 +830,7 @@ adxpose.com
 ad.xrea.com
 adxvalue.com
 ad.yadro.ru
+adyea.com
 ad.yourmedia.com
 adz2you.com
 ad.zanox.com
@@ -1219,7 +1218,6 @@ clearcomb.com
 clevernt.com
 click2freemoney.com
 clickability.com
-click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1691,6 +1689,7 @@ hit.ua
 hit.webcentre.lycos.co.uk
 hollandbusinessadvertising.nl
 hollowshake.com
+homepageking.de
 honeygoldfish.com
 hostedads.realitykings.com
 hotjar.com
@@ -2380,7 +2379,6 @@ record.affiliates.karjalakasino.com
 record.bonniergaming.com
 record.mrwin.com
 redirectvoluum.com
-reduxmedia.com
 referralware.com
 referrer.disqus.com
 reflectivereward.com
