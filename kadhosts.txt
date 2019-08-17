@@ -699,7 +699,6 @@ hothub.pl
 hotnews24h.pl
 hotokazje.com
 hp.myway.com
-huit.re
 humanverify.net
 hunterstyle24.com
 hunterstyle.pl
@@ -2394,7 +2393,6 @@ www.hothub.pl
 www.hotnews24h.pl
 www.hotokazje.com
 www.hp.myway.com
-www.huit.re
 www.humanverify.net
 www.hunterstyle24.com
 www.hunterstyle.pl

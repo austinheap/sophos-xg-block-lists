@@ -4135,8 +4135,10 @@ pixel.s3xified.com
 pixels.livingsocial.com
 pixelsnippet.com
 pixel.solvemedia.com
+pixel.spotify.com
 pixel.sprinklr.com
 pixel.staging.tree.com
+pixel-static.spotify.com
 pixels.youknowbest.com
 pixel.tree.com
 pixel.tuko.co.ke
