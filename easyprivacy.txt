@@ -136,6 +136,7 @@ a-counter.com.ua
 a-counter.kiev.ua
 a-counters.com
 acq.io
+acridtwist.com
 acs86.com
 actionallocator.com
 active24stats.nl
@@ -823,6 +824,7 @@ beacons.mediamelon.com
 beacon.sojern.com
 beacon.squixa.net
 beacon.statful.com
+beaconstreetservices.com
 beacon.thred.woven.com
 beacon.tingyun.com
 beacon.toyota.co.jp
@@ -1075,6 +1077,7 @@ c.bigmir.net
 cbs.wondershare.com
 cbtrk.net
 cccpmo.com
+ccexperimentsstatic.oracleoutsourcing.com
 ccgateway.net
 cc.gofile.io
 c.compete.com
@@ -1580,6 +1583,7 @@ craktraffic.com
 crashfootwork.com
 crazyclickstats.com
 crazyegg.com
+creator.zmags.com
 c-rings.net
 criteo.com
 cr.loszona.com
@@ -2882,6 +2886,7 @@ intelli.ageuk.org.uk
 intelli-direct.com
 intelligence.dgmsearchlab.com
 intelligencefocus.com
+intelligentscissors.com
 intellimize.co
 intelli-tracker.com
 intent.cbsi.com
@@ -3443,6 +3448,7 @@ megastat.net
 mega-stats.com
 melatstat.com
 memecounter.com
+memo.co
 mengis-linden.org
 mepirtedic.com
 mercadoclics.com
@@ -4303,6 +4309,7 @@ p.travelsmarter.net
 ptrk-wn.com
 ptsc.shoplocal.com
 pt-trx.com
+publicgood.com
 publicidees.com
 publishflow.com
 publish-int.se
@@ -4496,6 +4503,7 @@ report.shell.com
 reports.maxperview.com
 reports.pagesuite-professional.co.uk
 reports.tstlabs.co.uk
+report-uri.com
 report-uri.io
 report-zt.allmusic.com
 request.issuu.com
@@ -4894,6 +4902,7 @@ softonic-analytics.net
 sojern.com
 soko.ai
 sokrati.com
+sombersurprise.com
 sometrics.com
 somniture.theglobeandmail.com
 s-onetag.com
@@ -4985,6 +4994,7 @@ splyt.com
 sp.mansfieldnewsjournal.com
 sp.marionstar.com
 sp.marshfieldnewsherald.com
+sp-mms.weather.com
 sp.montgomeryadvertiser.com
 sp.mycentraljersey.com
 sp.naplesnews.com
@@ -5913,6 +5923,7 @@ tracking.krone.at
 tracking.kurier.at
 trackinglabs.com
 tracking.ladies.de
+tracking.legacyoffers.com
 tracking.lengow.com
 tracking.linda.de
 tracking.listhub.net
@@ -6138,6 +6149,7 @@ triver.jp
 trk.absuite.com.br
 trk.adbutter.net
 trk.bhs4.com
+trk.cloudsna.com
 trk.connatix.com
 trk.email.dynect.net
 trk.freepik.com
@@ -6247,6 +6259,7 @@ uniqodo.com
 universaltrackingcontainer.com
 unknowntray.com
 unrummaged.com
+untidyrice.com
 uoldid.ru
 upapi.net
 up.boston.com
@@ -6353,6 +6366,7 @@ vidigital.ru
 viewar.org
 viewstat.promoblocks.ru
 vihtori-analytics.fi
+vilynx.com
 vinlens.com
 vinsight.de
 vinub.com
@@ -6429,6 +6443,7 @@ vtracy.de
 vtrtl.de
 vunetotbe.com
 vuryua.ru
+vuukle.com
 vv.ricardo.ch
 vzhjnorkudcxbiy.com
 vzzexalcirfgrf.ru
@@ -6619,6 +6634,7 @@ wp-stats.com
 wredint.com
 wrmwb.7val.com
 wrxgandsfcz.ru
+ws.audioeye.com
 wsb.aracert.com
 wsp.marketgid.com
 wssgmstats.vibbo.com
