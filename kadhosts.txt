@@ -929,7 +929,6 @@ mobgames.mobi
 mobiapp-games.com
 mobicpi.com
 mobila.pl
-mobile-app.pl
 mobileaps.co
 mobilejmp.com
 mobileofferplace.site
@@ -1192,7 +1191,6 @@ pm-international.com
 pmpj.pl
 pobieralnia.com.pl
 pobieralnie-plikow.eu
-pobieram-plik.pl
 pobierane.pl
 pobierz24.pl
 pobierz.biz
@@ -1230,7 +1228,6 @@ pozyczka-minutowa.pl
 pozyczkanatelefon24.pl
 pozyczka-sms.pl
 pozyczka-tanio-szybko.pl
-pozyczki-inwestor.pl
 pozyczki-prywatne.com
 pozyczkiprywatne.com
 pozyczki-prywatne.com.pl
@@ -1576,6 +1573,7 @@ tyxuhuramolicul.tk
 ublock.org
 ucitrials.pl
 udziele-pozyczki-prywatnie.pl
+uggpolska.pl
 uggwyprzedaz.pl
 uio7.pl
 ukryteterapie.pl
@@ -2624,7 +2622,6 @@ www.mobgames.mobi
 www.mobiapp-games.com
 www.mobicpi.com
 www.mobila.pl
-www.mobile-app.pl
 www.mobileaps.co
 www.mobilejmp.com
 www.mobileofferplace.site
@@ -2858,7 +2855,6 @@ www.pm-international.com
 www.pmpj.pl
 www.pobieralnia.com.pl
 www.pobieralnie-plikow.eu
-www.pobieram-plik.pl
 www.pobierane.pl
 www.pobierz24.pl
 www.pobierz.biz
@@ -2896,7 +2892,6 @@ www.pozyczka-minutowa.pl
 www.pozyczkanatelefon24.pl
 www.pozyczka-sms.pl
 www.pozyczka-tanio-szybko.pl
-www.pozyczki-inwestor.pl
 www.pozyczki-prywatne.com
 www.pozyczkiprywatne.com
 www.pozyczki-prywatne.com.pl
@@ -3243,6 +3238,7 @@ www.tyxuhuramolicul.tk
 www.ublock.org
 www.ucitrials.pl
 www.udziele-pozyczki-prywatnie.pl
+www.uggpolska.pl
 www.uggwyprzedaz.pl
 www.uio7.pl
 www.ukryteterapie.pl
