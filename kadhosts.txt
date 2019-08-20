@@ -113,6 +113,7 @@ apple.com-shield.live
 apple.com-speed-macos.live
 apple.com-speedup-macbook.live
 apple.com-speedup-macos.live
+apps.co.pl
 appsdorado.com
 apteka2000.pl
 aquacell.pl
@@ -200,6 +201,7 @@ bustcream-pro.com
 butyadidas.pl
 butyasicsgel.pl
 butypremium.pl
+buty-shoes4u.pl
 buz2mobile.com
 buzz.mobiapp-games.com
 buzzonclick.com
@@ -322,6 +324,7 @@ denis928.000webhostapp.com
 derikaosos.info
 derotel.com
 detoxpolska.pl
+dev.apps.co.pl
 dhl-24.pl
 dietovo.pl
 dietstars.pro
@@ -351,6 +354,7 @@ doslubu24.pl
 dotabet103.com
 download24.site
 download-24.tk
+download.apps.co.pl
 downloadfile.eu
 downloadfiles.pl
 downloads-mobile.com
@@ -421,7 +425,6 @@ erunner.pl
 erunners.pl
 esemeso.pl
 eskk.pl
-esmok.pl
 euco.pl
 e-udanezakupy.pl
 euresco.pl
@@ -565,6 +568,7 @@ fotka10.ml
 fotolajt.pl
 fotoografie-pobierz.eu
 fotowalkowska.pl
+free.apps.co.pl
 free-gg.com
 freegiftcode.com
 freehackpl.com
@@ -593,6 +597,7 @@ futurepay.globway.eu
 gadajzdrow.eu
 galatransmisja.pe.hu
 galeria-zdjec-ola.pl
+game.apps.co.pl
 gamefiles.pl
 game-hack.biz
 gameinstallfiles.com
@@ -920,7 +925,6 @@ mergedocsnow.com
 mezczyzna-trendy.pl
 mgid.com
 mieszkania-pokoje-wynajem.pl
-milletpolska.pl
 minirtvshop.pl
 miresnahapsi.pro
 misja-cera.pl
@@ -1015,6 +1019,7 @@ neomediamax.net
 neopozyczki.pl
 neospes.com
 neotech.in.net
+netflix.apps.co.pl
 netleaders.com
 nevotel.com
 newmediaz.com
@@ -1222,6 +1227,7 @@ popcornvod.com
 poprof.com
 poradniaszczecin.pl
 pornmania.pl
+porwanonatalie.org.pl
 powerfactorsaver.com
 pozycjeseksualne.pl
 pożyczaj.online.pl
@@ -1375,6 +1381,7 @@ sexmonitor.net
 sexmonitor.top
 sexopia.pl
 sharefile365.com
+shidokan-lodz.pl
 shinden-anime.info
 shiporama.com
 shoegallery.com.pl
@@ -1805,6 +1812,7 @@ www.apple.com-speed-macos.live
 www.apple.com-speedup-macbook.live
 www.apple.com-speedup-macos.live
 www-apple-com-virus-removal-systems.fixingit.solutions
+www.apps.co.pl
 www.appsdorado.com
 www.apteka2000.pl
 www.aquacell.pl
@@ -1892,6 +1900,7 @@ www.bustcream-pro.com
 www.butyadidas.pl
 www.butyasicsgel.pl
 www.butypremium.pl
+www.buty-shoes4u.pl
 www.buz2mobile.com
 www.buzz.mobiapp-games.com
 www.buzzonclick.com
@@ -2015,6 +2024,7 @@ www.denis928.000webhostapp.com
 www.derikaosos.info
 www.derotel.com
 www.detoxpolska.pl
+www.dev.apps.co.pl
 www.dhl-24.pl
 www.dietovo.pl
 www.dietstars.pro
@@ -2045,6 +2055,7 @@ www.dotabet100.com
 www.dotabet103.com
 www.download24.site
 www.download-24.tk
+www.download.apps.co.pl
 www.downloadfile.eu
 www.downloadfiles.pl
 www.downloads-mobile.com
@@ -2116,7 +2127,6 @@ www.erunner.pl
 www.erunners.pl
 www.esemeso.pl
 www.eskk.pl
-www.esmok.pl
 www.euco.pl
 www.e-udanezakupy.pl
 www.euresco.pl
@@ -2260,6 +2270,7 @@ www.fotka10.ml
 www.fotolajt.pl
 www.fotoografie-pobierz.eu
 www.fotowalkowska.pl
+www.free.apps.co.pl
 www.free-gg.com
 www.freegiftcode.com
 www.freehackpl.com
@@ -2288,6 +2299,7 @@ www.futurepay.globway.eu
 www.gadajzdrow.eu
 www.galatransmisja.pe.hu
 www.galeria-zdjec-ola.pl
+www.game.apps.co.pl
 www.gamefiles.pl
 www.game-hack.biz
 www.gameinstallfiles.com
@@ -2616,7 +2628,6 @@ www.mergedocsnow.com
 www.mezczyzna-trendy.pl
 www.mgid.com
 www.mieszkania-pokoje-wynajem.pl
-www.milletpolska.pl
 www.minirtvshop.pl
 www.miresnahapsi.pro
 www.misja-cera.pl
@@ -2711,6 +2722,7 @@ www.neomediamax.net
 www.neopozyczki.pl
 www.neospes.com
 www.neotech.in.net
+www.netflix.apps.co.pl
 www.netleaders.com
 www.nevotel.com
 www.newmediaz.com
@@ -2889,6 +2901,7 @@ www.popcornvod.com
 www.poprof.com
 www.poradniaszczecin.pl
 www.pornmania.pl
+www.porwanonatalie.org.pl
 www.powerfactorsaver.com
 www.pozycjeseksualne.pl
 www.pożyczaj.online.pl
@@ -3042,6 +3055,7 @@ www.sexmonitor.net
 www.sexmonitor.top
 www.sexopia.pl
 www.sharefile365.com
+www.shidokan-lodz.pl
 www.shinden-anime.info
 www.shiporama.com
 www.shoegallery.com.pl
@@ -3423,6 +3437,7 @@ www.zgarniij_vouchher.skroc.pl
 www.zgarnij.net
 www.zgarnijplik.pl
 www.zinzino.com
+www.zkinstal.pl
 www.zmienienie-koloru.blogspot.com
 www.zmienkolorfejsazafree.blogspot.com
 www.zmienkolory.blogspot.com
@@ -3504,6 +3519,7 @@ zgarniij_vouchher.skroc.pl
 zgarnij.net
 zgarnijplik.pl
 zinzino.com
+zkinstal.pl
 zmienienie-koloru.blogspot.com
 zmienkolorfejsazafree.blogspot.com
 zmienkolory.blogspot.com
