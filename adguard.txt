@@ -3068,6 +3068,7 @@ analytics.hosting24.com
 analytics.hpprintx.com
 analytics.ifood.tv
 analytics-ingress.bitmovin.com
+analytics-ingress-global.bitmovin.com
 analyticsip.net
 analytics.iraiser.eu
 analytics.islamicfinder.org
@@ -3417,7 +3418,6 @@ apploading.mobi
 applog.uc.cn
 applog.ucdns.uc.cn
 applovin.com
-app.masoffer.net
 appmetr.com
 appmetrica.yandex.com
 appmetrica.yandex.net
@@ -4356,6 +4356,7 @@ berkuri.info
 beroll.ru
 berryfico.com
 berush.com
+beserte.pro
 besguses.pro
 besied.com
 besstahete.info
@@ -7097,6 +7098,7 @@ cymeeoolym.com
 cymuxbcnhinm.com
 cy-pr.com
 cypr.com
+cyqbtxpgarmc.com
 cyrirvvrn.com
 cyssfnqt.com
 cyteks.de
@@ -7695,6 +7697,7 @@ depodub.info
 depresis.com
 depttake.ga
 dep-x.com
+deqik.com
 deqrdwsjlpjz.com
 deqwas.net
 dergevqzqi.com
@@ -8915,6 +8918,7 @@ entry-stats.huffpost.com
 entygpeb.com
 enusbrzlmcmg.com
 enynwkvdb.com
+enzodpxuons.com
 enzyxtdcacde.com
 eocnpszthsf.com
 eoecdsfvceebrv.com
@@ -9364,6 +9368,7 @@ eyinwxkojgkfgs.com
 eylefeyrwl.com
 eylyitpslpqu.com
 eyqletzkhybsef.com
+eyrqubnodswlkw.com
 eysmaa.pw
 eytoshab.com
 eytqtjpjnmeas.com
@@ -12487,7 +12492,6 @@ img.hai61.com
 img.hunlimishu.com
 imgkcxjlrlqf.com
 imglt.com
-img.masoffer.net
 imgoatxhxior.com
 img-perli.com
 imgraovat.vnecdn.net
@@ -13379,6 +13383,7 @@ jjokvprdxwf.com
 jjpnveujkk.com
 jjpoxurorlsb.com
 jjptjphnkrqnc.com
+jjpvzyfarsjiac.com
 jjqoosuum.com
 jjrzlqho.com
 jjvdpetfxbjdbq.com
@@ -15081,6 +15086,7 @@ logsbin.dantri.com.vn
 log.sdk.zadn.vn
 log.seekda.com
 log.sggp.org.vn
+logs.insight.rapid7.com
 log.snapdeal.com
 logs.ntvplus.tv
 logsoc.ru
@@ -15583,6 +15589,7 @@ maryneallynndyl.com
 maschina.xyz
 mascqybw.com
 mas.nth.ch
+masoffer.net
 ma-static.ru
 masterads.org
 masteriklan.net
@@ -16595,6 +16602,7 @@ msbrandent.vo.llnwd.net
 ms.cmcm.com
 mse2v5oglm.com
 msecure108.com
+msegeqxwopq.com
 msg.71.am
 msgapp.com
 msg.ettoday.net
@@ -17911,6 +17919,7 @@ ognyvo24.ru
 ognyvo.ru
 ognyvo-topnews.ru
 ogondkskyahxa.ru
+ogqbessddhezi.com
 ogqclfvaq.com
 ogqeedybsojr.com
 ogqewglysfc.com
@@ -17994,6 +18003,7 @@ okdvodyejd.com
 okeyletsgo.ml
 okffuzmscjboad.com
 okgfvcourjeb.com
+okgzwezcrmchk.com
 okkytnaadhsqnb.com
 okmuxdbq.com
 oknmanswftcd.com
@@ -20040,6 +20050,7 @@ pzpdxayohfdc.com
 pzpotdmpv.com
 pzpwjawqbmei.com
 pzszpntjlz.com
+pzujqxug.com
 pzuth.cn
 pzuwqncdai.com
 pzzmqjrp.com
@@ -20582,6 +20593,7 @@ rankings24.de
 rankinteractive.com
 ranklink.de
 rank-power.com
+ranqpbnd.com
 rap4me.com
 rapidads.de
 rapidcounter.com
@@ -21078,6 +21090,7 @@ rfvicvayyfsp.com
 rfvnhjnnkifyx.com
 rfyphhvcczyq.com
 rgadvert.com
+rgahmllbgubakm.com
 rg-be.ru
 rgegqcdakbe.com
 rgejlqtlr.com
@@ -23034,7 +23047,6 @@ static.clickscloud.net
 static.doubleclick.net
 static.hoptopboy.com
 staticiv.com
-static.masoffer.net
 staticmedia.org
 static.parsely.com
 static.prototypes.ru
@@ -25853,6 +25865,7 @@ umamdmo.com
 umbel.com
 umboffikfkoc.com
 umekana.ru
+umlrvgjkexv.com
 umnsvtykkptl.com
 um-public-panel-prod.s3.amazonaws.com
 umqhjmowzjrl.com
@@ -26132,6 +26145,7 @@ utilistom.info
 utjznnqgd.com
 utlpwxdt.com
 utmcttmdaoqd.com
+utngexelkv.com
 utnkeaqurjca.com
 ut.o2.pl
 utokapa.com
@@ -27377,6 +27391,7 @@ wehtkuhlwsxy.com
 wejjmtywsne.com
 weline.info
 well365.ru
+wellbc6.website
 welllwrite.com
 wellmov.com
 wellturnedpenne.info
@@ -28399,6 +28414,7 @@ xxhgzzinkrbbo.com
 xxhqfprml.com
 xxlargepop.com
 xxlink.net
+xxnkyesp.com
 xxqriuedmqzs.com
 xxrniridsnzr.com
 xxslu.space
@@ -28436,6 +28452,7 @@ xzfswipynyuj.com
 xziqvbico.com
 xzismtaelciif.com
 xzmqokbeynlv.com
+xzooimhkjiwp.com
 xztsmbznuwyo.com
 xzwdhymrdxyp.com
 xzwdo.top
@@ -28832,6 +28849,7 @@ yptwqjdgikmcqc.com
 ypummbggdjex.com
 ypyarwgh.com
 yqaywudifu.date
+yqbyzekybmswii.com
 yqccpziiuak.com
 yqhgbmyfiomx.com
 yqjoqncxmufi.com
