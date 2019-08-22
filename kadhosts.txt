@@ -412,6 +412,7 @@ emporium-group.pl
 e-naturessunshine.com
 enbutique.com
 energetix.com.pl
+entermedia.pl
 eonline.pl
 epliki24.pl
 e-podgladaj.pl
@@ -473,6 +474,7 @@ fakturo-wnia.ml
 fakturownia-pl.cf
 fakturownia-pl.ga
 fakturownia-pl.gq
+fakty24-porwanie.pl
 fargofinanse.pl
 fasterfiles.net
 favoriteadrequest.com
@@ -1003,9 +1005,11 @@ namierzanie-telefonu.pl
 namierz-telefon.com.pl
 namierz-telefon.pl
 napraw-laptopa.waw.pl
+narelaks.pl
 narzedzia-fb.blogspot.com
 nasdacoin.io
 nassy.pl
+nataliaporwana.biz
 naturabazar.pl
 naturaikropka.pl
 naturalraport.pl
@@ -1519,6 +1523,7 @@ telemediaa.pl
 telewizja-internetowa24.pl
 tembakan.pl
 tengofoxfiles.com
+terazdzielnice.pl
 terrex.pl
 testinteligencji.bo.pl
 test--na--iq.blogspot.com
@@ -1606,6 +1611,7 @@ usa.odysseus-nua.com
 ustaw--tlo-fb.blogspot.com
 usunwirusa.pl
 uvy3.pl
+uwagaporwanie.eu
 uzupelniajdane.ga
 uzupelniajdane.gq
 uzupelniaj-dane.ml
@@ -2115,6 +2121,7 @@ www.emporium-group.pl
 www.e-naturessunshine.com
 www.enbutique.com
 www.energetix.com.pl
+www.entermedia.pl
 www.eonline.pl
 www.epliki24.pl
 www.e-podgladaj.pl
@@ -2176,6 +2183,7 @@ www.fakturo-wnia.ml
 www.fakturownia-pl.cf
 www.fakturownia-pl.ga
 www.fakturownia-pl.gq
+www.fakty24-porwanie.pl
 www.fargofinanse.pl
 www.fasterfiles.net
 www.favoriteadrequest.com
@@ -2707,9 +2715,11 @@ www.namierzanie-telefonu.pl
 www.namierz-telefon.com.pl
 www.namierz-telefon.pl
 www.napraw-laptopa.waw.pl
+www.narelaks.pl
 www.narzedzia-fb.blogspot.com
 www.nasdacoin.io
 www.nassy.pl
+www.nataliaporwana.biz
 www.naturabazar.pl
 www.naturaikropka.pl
 www.naturalraport.pl
@@ -3195,6 +3205,7 @@ www.telemediaa.pl
 www.telewizja-internetowa24.pl
 www.tembakan.pl
 www.tengofoxfiles.com
+www.terazdzielnice.pl
 www.terrex.pl
 www.testinteligencji.bo.pl
 www.test--na--iq.blogspot.com
@@ -3282,6 +3293,7 @@ www.usa.odysseus-nua.com
 www.ustaw--tlo-fb.blogspot.com
 www.usunwirusa.pl
 www.uvy3.pl
+www.uwagaporwanie.eu
 www.uzupelniajdane.ga
 www.uzupelniajdane.gq
 www.uzupelniaj-dane.ml
