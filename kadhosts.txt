@@ -1,7 +1,6 @@
 15b37.skroc.pl
 1freesoftwareonline.com
 20pascals.nl
-24-fakty.pl
 24hoursready.cf
 3000-od-reki.pl
 4332.ws
@@ -141,6 +140,7 @@ awin.com
 az27.pl
 babyeishgames.com
 backmoniterreq.icu
+balsit.org
 bartekzukiewicz.pl
 bazafilmowa.org
 bazartani.pl
@@ -272,6 +272,7 @@ cool4mob.com
 cool-technology.com
 coolvids.net
 coreplays.com
+corneliafunke.pl
 cpabuild.com
 cpagrip.com
 cpbld.co
@@ -474,7 +475,6 @@ fakturo-wnia.ml
 fakturownia-pl.cf
 fakturownia-pl.ga
 fakturownia-pl.gq
-fakty24-porwanie.pl
 fargofinanse.pl
 fasterfiles.net
 favoriteadrequest.com
@@ -966,6 +966,7 @@ mon.trackmysales.website
 morceko.pl
 mordi.fun
 morele.info
+morena.in.net
 morinda.com
 motifiles.com
 motyw-fb.blogspot.com
@@ -1589,7 +1590,6 @@ tyxuhuramolicul.tk
 ublock.org
 ucitrials.pl
 udziele-pozyczki-prywatnie.pl
-uggpolska.pl
 uggwyprzedaz.pl
 uio7.pl
 ukryteterapie.pl
@@ -1706,7 +1706,6 @@ wwebsservice.info
 www.15b37.skroc.pl
 www.1freesoftwareonline.com
 www.20pascals.nl
-www.24-fakty.pl
 www.24hoursready.cf
 www.3000-od-reki.pl
 www.4332.ws
@@ -1847,6 +1846,7 @@ www.awin.com
 www.az27.pl
 www.babyeishgames.com
 www.backmoniterreq.icu
+www.balsit.org
 www.bartekzukiewicz.pl
 www.bazafilmowa.org
 www.bazartani.pl
@@ -1979,6 +1979,7 @@ www.cool4mob.com
 www.cool-technology.com
 www.coolvids.net
 www.coreplays.com
+www.corneliafunke.pl
 www.cpabuild.com
 www.cpagrip.com
 www.cpbld.co
@@ -2183,7 +2184,6 @@ www.fakturo-wnia.ml
 www.fakturownia-pl.cf
 www.fakturownia-pl.ga
 www.fakturownia-pl.gq
-www.fakty24-porwanie.pl
 www.fargofinanse.pl
 www.fasterfiles.net
 www.favoriteadrequest.com
@@ -2676,6 +2676,7 @@ www.mon.trackmysales.website
 www.morceko.pl
 www.mordi.fun
 www.morele.info
+www.morena.in.net
 www.morinda.com
 www.motifiles.com
 www.motyw-fb.blogspot.com
@@ -3271,7 +3272,6 @@ www.tyxuhuramolicul.tk
 www.ublock.org
 www.ucitrials.pl
 www.udziele-pozyczki-prywatnie.pl
-www.uggpolska.pl
 www.uggwyprzedaz.pl
 www.uio7.pl
 www.ukryteterapie.pl
@@ -3411,7 +3411,6 @@ www.ychicenter.com
 www.yotafiles.com
 www.yotefiles.com
 www.yourebook.pl
-www.yourfiles.pl
 www.your-mac-security-analysis.net.guygr.upnpuqimdqnghau.icu
 www.your-movies.pl
 www.yourofferpro.com
@@ -3451,7 +3450,6 @@ www.zgarniij_vouchher.skroc.pl
 www.zgarnij.net
 www.zgarnijplik.pl
 www.zinzino.com
-www.zkinstal.pl
 www.zmienienie-koloru.blogspot.com
 www.zmienkolorfejsazafree.blogspot.com
 www.zmienkolory.blogspot.com
@@ -3493,7 +3491,6 @@ ychicenter.com
 yotafiles.com
 yotefiles.com
 yourebook.pl
-yourfiles.pl
 your-mac-security-analysis.net.guygr.upnpuqimdqnghau.icu
 your-movies.pl
 yourofferpro.com
@@ -3533,7 +3530,6 @@ zgarniij_vouchher.skroc.pl
 zgarnij.net
 zgarnijplik.pl
 zinzino.com
-zkinstal.pl
 zmienienie-koloru.blogspot.com
 zmienkolorfejsazafree.blogspot.com
 zmienkolory.blogspot.com
