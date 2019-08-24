@@ -89,6 +89,7 @@
 9nl.eu
 a013.com
 a2a.lockerz.com
+a4b-tracking.com
 a8ww.net
 aaa.aj5.info
 aa.avvo.com
@@ -348,6 +349,7 @@ alltagcloud.info
 alltracked.com
 alnera.eu
 alocdn.com
+als-svc.nytimes.com
 altabold1.com
 altastat.com
 altavista.ovh
@@ -2429,6 +2431,7 @@ geobeacon.ign.com
 geobytes.com
 geocompteur.com
 geocontatore.com
+geoedge.be
 geo.ertya.com
 geo.gorillanation.com
 geo.hltv.org
@@ -4109,6 +4112,7 @@ pixel-a.basis.net
 pixel.ad
 pixel.anyclip.com
 pixel.bild.de
+pixel.blivenyc.com
 pixel.buzzfeed.com
 pixel.cdnwidget.com
 pixel.colorupmedia.com
@@ -4972,6 +4976,7 @@ sp.greenbaypressgazette.com
 sp.greenvilleonline.com
 sp.guampdn.com
 sp.hattiesburgamerican.com
+sphereup.com
 sp.htrnews.com
 spider-mich.com
 spiffymachine.com
@@ -6088,6 +6093,7 @@ trafficfacts.com
 trafficfuel.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 trafficjoint.com
+trafficmanager.anyclip.com
 trafficmaxx.de
 traffic.prod.cobaltgroup.com
 trafficregenerator.com
