@@ -1183,6 +1183,7 @@ ad.cauly.co.kr
 ad.cbonds.info
 adcde.com
 adcdnx.com
+adcell.com
 adcel.vrvm.com
 adcentriconline.com
 adcfrthyo.tk
@@ -10541,6 +10542,7 @@ geobeacon.ign.com
 geobytes.com
 geocompteur.com
 geocontatore.com
+geoedge.be
 geo.ertya.com
 geo.go2s.co
 geo.gorillanation.com
@@ -14493,6 +14495,7 @@ lavetawhiting.com
 lavmeebdxwc.com
 lawbjcjsokmua.com
 lawvcpqtapzsh.com
+laydata.com
 laydcilck.com
 layerad.net
 layer-ad.org
@@ -17520,6 +17523,7 @@ novaonx.com
 novarevenue.com
 novately.com
 novbrom.com
+novelty.media
 novem.pl
 novfox2.com
 novhyaxaioxaon.com
@@ -17600,6 +17604,7 @@ nsnfokcikwf.com
 nspmotion.com
 nsqdwwwoxs.com
 ns.rvmkitt.com
+nsstatic.com
 nsstatic.net
 nstjenxcpvm.com
 nstracking.com
@@ -17966,6 +17971,7 @@ o.gweini.com
 ogxatekkyzr.com
 ogyhsyuhczvjg.com
 ogzivkwjhrs.com
+ohchat.net
 ohdoxowrbkyd.com
 ohecnqpldvuw.com
 ohjmzsvs.com
@@ -19068,6 +19074,7 @@ pixel.admobclick.com
 pixel.anyclip.com
 pixelappcollector.thesun.co.uk
 pixel.bild.de
+pixel.blivenyc.com
 pixel.bullion.media
 pixel.buzzfeed.com
 pixel.carambo.la
@@ -20053,6 +20060,7 @@ px.topspin.net
 pxvnhcdzuozqn.com
 px.wp.pl
 pxzacgmr.com
+px.za.zaloapp.com
 pycvhwxtqhknb.com
 pydpcqjenhjx.com
 pyfmxzhrnivq.com
@@ -22773,6 +22781,7 @@ sp.greenbaypressgazette.com
 sp.greenvilleonline.com
 sp.guampdn.com
 sp.hattiesburgamerican.com
+sphereup.com
 sphjqakwuteg.com
 sp.htrnews.com
 spider.ad
@@ -23719,7 +23728,6 @@ synovite-scripts.com
 synthasite.net
 synthes.vo.llnwd.net
 syorlvhuzgmdqbuxgiulsrusnkgkpvbwmxeqqcboeamyqmyexv.com
-sypi.gpshopper.com
 sypleni.ru
 syrnujjldljl.com
 sysdiag.ru
@@ -24927,6 +24935,7 @@ tracking.listhub.net
 tracking.livingsocial.com
 tracking.lqm.io
 tracking.maxcdn.com
+tracking.meete.co
 tracking.military.com
 tracking.mindshare.de
 tracking.miui.com
@@ -25163,6 +25172,7 @@ trafficjp.com
 trafficjunky.net
 trafficlayer.de
 trafficmagnates.com
+trafficmanager.anyclip.com
 trafficmasterz.net
 trafficmaxx.de
 traffic-media.co
