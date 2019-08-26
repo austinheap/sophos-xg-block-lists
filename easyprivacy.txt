@@ -1764,6 +1764,7 @@ data-analytics.jp
 data.beyond.com
 databrain.com
 datacaciques.com
+data.caroda.io
 data.circulate.com
 datacollector.coin.scribol.com
 datacoral.com
@@ -3914,6 +3915,7 @@ onlinereserchstatistics.online
 online-right-now.net
 onlinewebstat.com
 onlysix.co.uk
+onthe.io
 onvid.club
 opbandit.com
 openclick.com
@@ -4196,6 +4198,7 @@ plwosvr.net
 pm0.net
 pm14.com
 pmbox.biz
+pmdstatic.net
 pmetrics.performancing.com
 p.milliyet.com.tr
 pnstat.com
@@ -5991,6 +5994,7 @@ tracking.times247.com
 tracking.tradeking.com
 tracking.trovaprezzi.it
 tracking.ukwm.co.uk
+tracking.unitednaturals.com
 tracking.ustream.tv
 tracking.vengovision.ru
 tracking.vid4u.org
@@ -6214,7 +6218,6 @@ ts.tradetracker.net
 tsw0.com
 ttdetect.staticimgfarm.com
 t.theoutplay.com
-tt.onthe.io
 ttwbs.channelintelligence.com
 tubetrafficcash.com
 tuinfra.com

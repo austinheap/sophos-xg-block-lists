@@ -846,6 +846,7 @@ las-rp.pl
 lauretta-larix.eu
 lavylites.com
 lci1a.voluumtrk.com
+ldrcp.pl
 lead.network
 leadn.pl
 leadzu.com
@@ -1027,7 +1028,6 @@ neospes.com
 neotech.in.net
 netflix.apps.co.pl
 netleaders.com
-nevotel.com
 newmediaz.com
 newpassporn.com
 news-onet24.pl
@@ -1098,6 +1098,7 @@ oplacalna-gotowka.pl
 oplaca-sie.pl
 oplac-zaleglosc.eu
 oplatyi.pl
+oponykarbownik.pl
 optidee.nl
 optimask-pro.com
 orange-kodzik.890m.com
@@ -1206,6 +1207,7 @@ pm-international.com
 pmpj.pl
 pobieralnia.com.pl
 pobieralnie-plikow.eu
+pobieram-plik.pl
 pobierane.pl
 pobierz24.pl
 pobierz.biz
@@ -1432,6 +1434,7 @@ sneakerstore.com.pl
 sneakersypuma.pl
 sneakervclub.com
 socialbump.hekko24.pl
+societyjezuufamtobie.pl
 sofaforlife.com
 soft4click.com
 softmania.pl
@@ -2559,6 +2562,7 @@ www.las-rp.pl
 www.lauretta-larix.eu
 www.lavylites.com
 www.lci1a.voluumtrk.com
+www.ldrcp.pl
 www.lead.network
 www.leadn.pl
 www.leadzu.com
@@ -2740,7 +2744,6 @@ www.neospes.com
 www.neotech.in.net
 www.netflix.apps.co.pl
 www.netleaders.com
-www.nevotel.com
 www.newmediaz.com
 www.newpassporn.com
 www.news-onet24.pl
@@ -2811,6 +2814,7 @@ www.oplacalna-gotowka.pl
 www.oplaca-sie.pl
 www.oplac-zaleglosc.eu
 www.oplatyi.pl
+www.oponykarbownik.pl
 www.optidee.nl
 www.optimask-pro.com
 www.orange-kodzik.890m.com
@@ -2890,6 +2894,7 @@ www.pm-international.com
 www.pmpj.pl
 www.pobieralnia.com.pl
 www.pobieralnie-plikow.eu
+www.pobieram-plik.pl
 www.pobierane.pl
 www.pobierz24.pl
 www.pobierz.biz
@@ -3116,6 +3121,7 @@ www.sneakerstore.com.pl
 www.sneakersypuma.pl
 www.sneakervclub.com
 www.socialbump.hekko24.pl
+www.societyjezuufamtobie.pl
 www.sofaforlife.com
 www.soft4click.com
 www.softmania.pl
@@ -3417,6 +3423,7 @@ www.ychicenter.com
 www.yotafiles.com
 www.yotefiles.com
 www.yourebook.pl
+www.yourfiles.pl
 www.your-mac-security-analysis.net.guygr.upnpuqimdqnghau.icu
 www.your-movies.pl
 www.yourofferpro.com
@@ -3497,6 +3504,7 @@ ychicenter.com
 yotafiles.com
 yotefiles.com
 yourebook.pl
+yourfiles.pl
 your-mac-security-analysis.net.guygr.upnpuqimdqnghau.icu
 your-movies.pl
 yourofferpro.com
