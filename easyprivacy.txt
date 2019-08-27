@@ -6163,6 +6163,7 @@ trk.bhs4.com
 trk.cloudsna.com
 trk.connatix.com
 trk.email.dynect.net
+trk.flazio.com
 trk.freepik.com
 trkjmp.com
 trklvs.com
