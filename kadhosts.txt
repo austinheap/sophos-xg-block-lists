@@ -1,5 +1,4 @@
 15b37.skroc.pl
-1freesoftwareonline.com
 20pascals.nl
 24hoursready.cf
 3000-od-reki.pl
@@ -163,7 +162,6 @@ best-rated-offers.com
 bestselections.top
 betterware.pl
 be-wild.pl
-bewox.net
 beyourbest.pl
 bezbiku.pro
 bialoruskieprodukty.pl
@@ -786,6 +784,7 @@ kdplay.net
 kekuko.com
 kenseeart.pl
 kickz4u.pl
+kiepscy.evai.pl
 killingtonchukka.pl
 kimera.pl
 kinoman-tv.pl
@@ -954,7 +953,6 @@ mobsfun.com
 mobstarr.com
 mobverify.com
 mobyapps.net
-modi4moda.com
 modwebpro.pl
 mojadedra.pl
 mojadietanamase.pl
@@ -1097,6 +1095,7 @@ onlinewideo.pl
 onlyfiles.net
 oo.waw.pl
 openwrt.com
+oplac24.com
 oplacalna-gotowka.pl
 oplaca-sie.pl
 oplac-zaleglosc.eu
@@ -1716,7 +1715,6 @@ ww1.shinden-anime.info
 ww7.openwrt.com
 wwebsservice.info
 www.15b37.skroc.pl
-www.1freesoftwareonline.com
 www.20pascals.nl
 www.24hoursready.cf
 www.3000-od-reki.pl
@@ -1881,7 +1879,6 @@ www.best-rated-offers.com
 www.bestselections.top
 www.betterware.pl
 www.be-wild.pl
-www.bewox.net
 www.beyourbest.pl
 www.bezbiku.pro
 www.bialoruskieprodukty.pl
@@ -2507,6 +2504,7 @@ www.kdplay.net
 www.kekuko.com
 www.kenseeart.pl
 www.kickz4u.pl
+www.kiepscy.evai.pl
 www.killingtonchukka.pl
 www.kimera.pl
 www.kinoman-tv.pl
@@ -2676,7 +2674,6 @@ www.mobsfun.com
 www.mobstarr.com
 www.mobverify.com
 www.mobyapps.net
-www.modi4moda.com
 www.modwebpro.pl
 www.mojadedra.pl
 www.mojadietanamase.pl
@@ -2819,6 +2816,7 @@ www.onlinewideo.pl
 www.onlyfiles.net
 www.oo.waw.pl
 www.openwrt.com
+www.oplac24.com
 www.oplacalna-gotowka.pl
 www.oplaca-sie.pl
 www.oplac-zaleglosc.eu
