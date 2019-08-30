@@ -1115,6 +1115,7 @@ cellstats.mako.co.il
 cem.hotelsapi.io
 center.io
 centraltag.com
+ceros.com
 certifica.com
 cetlog.jp
 cetrk.com
@@ -1986,6 +1987,7 @@ earnitup.com
 ea.rueducommerce.fr
 easycounter.com
 easyhash.io
+easy-hit-counter.com
 easy-hit-counters.com
 easyhitcounters.com
 easy.lv
@@ -2946,6 +2948,7 @@ iprotrk.com
 ipstat.com
 iptrack.biz
 ipv6monitoring.eu
+iqdata.ai
 iqfp1.com
 irelandmetrix.ie
 ironbeast.io
@@ -5229,6 +5232,7 @@ stats.buzzea.com
 stats.cardschat.com
 stats.cdn.pfn.bz
 stats.cdn.playfair.co.za
+stats.cheddar.com
 stats.christianpost.com
 stats.clear-media.com
 stats.clickability.com
