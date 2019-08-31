@@ -423,6 +423,7 @@ analytics.carambatv.ru
 analytics.carambo.la
 analytics-cdiscount.com
 analytics.ceneo.pl
+analytics.chase.com
 analyticschecker.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
@@ -1658,6 +1659,7 @@ cya1t.net
 cya2.net
 cybermonitor.com
 cytoclause.com
+czx5eyk0exbhwp43ya.biz
 d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
 d169bbxks24g2u.cloudfront.net
@@ -4201,7 +4203,6 @@ plwosvr.net
 pm0.net
 pm14.com
 pmbox.biz
-pmdstatic.net
 pmetrics.performancing.com
 p.milliyet.com.tr
 pnstat.com
@@ -5878,6 +5879,7 @@ tracking2.channeladvisor.com
 tracking2.interweave.com
 tracking.adalyser.com
 tracking.adweb.co.kr
+tracking.aegpresents.com
 tracking.allposters.com
 tracking.ancestry.com
 trackingapi.cloudapp.net
@@ -6124,6 +6126,7 @@ traktr.news.com.au
 trakzor.com
 transactionale.com
 tra.pmdstatic.net
+tra.scds.pmdstatic.net
 traversedlp.com
 traviilo.com
 trax.dirxion.com

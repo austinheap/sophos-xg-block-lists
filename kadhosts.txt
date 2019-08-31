@@ -205,6 +205,7 @@ buz2mobile.com
 buzz.mobiapp-games.com
 buzzonclick.com
 calivita.com
+calzini.org
 captainquizz.de
 carambaba.com
 casada.pl
@@ -219,6 +220,7 @@ cda-flix.pl
 cdnrep.reimageplus.com
 cedino.pl
 cellfun.mobi
+cello24.net
 centrum-agd.net
 centrumdxn.pl
 centrumfantastyki.pl
@@ -320,6 +322,7 @@ dataasmierci.blogspot.com
 datasmierci01.blogspot.com
 davor.io
 decynsire.com
+deloxar.pl
 denis928.000webhostapp.com
 derikaosos.info
 derotel.com
@@ -1922,6 +1925,7 @@ www.buz2mobile.com
 www.buzz.mobiapp-games.com
 www.buzzonclick.com
 www.calivita.com
+www.calzini.org
 www.captainquizz.de
 www.carambaba.com
 www.casada.pl
@@ -1936,6 +1940,7 @@ www.cda-flix.pl
 www.cdnrep.reimageplus.com
 www.cedino.pl
 www.cellfun.mobi
+www.cello24.net
 www.centrum-agd.net
 www.centrumdxn.pl
 www.centrumfantastyki.pl
@@ -2038,6 +2043,7 @@ www.dataasmierci.blogspot.com
 www.datasmierci01.blogspot.com
 www.davor.io
 www.decynsire.com
+www.deloxar.pl
 www.denis928.000webhostapp.com
 www.derikaosos.info
 www.derotel.com
