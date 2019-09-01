@@ -4724,6 +4724,7 @@ securepaths.com
 secure-pixel.com
 secure-stat.canal-plus.com
 securite.01net.com
+securitytrfx.com
 s.edeka.de
 sedotracker.com
 sedotracker.de
@@ -4897,6 +4898,7 @@ sniperlog.ru
 sniphub.com
 snoobi.com
 snowplow-collector.sugarops.com
+snowplow.swm.digital
 snowsignal.com
 snrbox.com
 socdm.com
