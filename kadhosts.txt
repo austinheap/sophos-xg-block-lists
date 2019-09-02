@@ -986,7 +986,6 @@ moviestarplanet-haki-i-kody.crazylife.pl
 mozebyctwoje.com
 m.pl.failmobile.net
 m.smsquiz.pl
-mspbooster.com
 msp-hack.com
 msphack.com.pl
 msphackonline.com
@@ -1676,6 +1675,7 @@ wap.mobiltek.pl
 wapster.malutki.pl
 wapster.pl
 wartomiec.pl
+wdrodzenaratunek.pl
 weartexhibitions.com
 web.cellfun.mobi
 web-online.pl
@@ -2711,7 +2711,6 @@ www.moviestarplanet-haki-i-kody.crazylife.pl
 www.mozebyctwoje.com
 www.m.pl.failmobile.net
 www.m.smsquiz.pl
-www.mspbooster.com
 www.msp-hack.com
 www.msphack.com.pl
 www.msphackonline.com
@@ -3373,6 +3372,7 @@ www.wap.mobiltek.pl
 www.wapster.malutki.pl
 www.wapster.pl
 www.wartomiec.pl
+www.wdrodzenaratunek.pl
 www.weartexhibitions.com
 www.web.cellfun.mobi
 www.web-online.pl
