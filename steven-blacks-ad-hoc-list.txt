@@ -397,6 +397,7 @@ imprhkmp.taboola.com
 imprlatbmp.taboola.com
 imp.startappservice.com
 in8.zog.link
+incoming.telemetry.mozilla.org
 indiaonclick.com
 in-gmtdmp.mookie1.com
 init.startappservice.com

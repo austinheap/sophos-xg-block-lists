@@ -2881,6 +2881,7 @@ insitez.blob.core.windows.net
 inspectlet.com
 instadia.net
 instana.io
+instant.page
 instore.biz
 instore.pagomeno.it
 instreamatic.com

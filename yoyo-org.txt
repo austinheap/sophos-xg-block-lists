@@ -349,7 +349,7 @@ ads.as4x.tmcs.ticketmaster.com
 ads.asiafriendfinder.com
 ads.ask.com
 ads.aspalliance.com
-Adsatt.ABCNews.starwave.com
+adsatt.abcnews.starwave.com
 adsatt.abc.starwave.com
 adsatt.espn.go.com
 adsatt.espn.starwave.com
@@ -2025,6 +2025,7 @@ mookie1.com
 mopub.com
 mouseflow.com
 mousestats.com
+movad.net
 mowfruit.com
 mpstat.us
 mr-rank.de
@@ -2376,6 +2377,7 @@ record.bonniergaming.com
 record.mrwin.com
 re-directme.com
 redirectvoluum.com
+redshell.io
 referralware.com
 referrer.disqus.com
 reflectivereward.com
@@ -2802,6 +2804,7 @@ traktrafficflow.com
 tranquilside.com
 travis.bosscasinos.com
 tr.colpirio.com
+treasuredata.com
 trekdata.com
 tremendoustime.com
 trendcounter.com
