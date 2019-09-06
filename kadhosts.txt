@@ -375,6 +375,7 @@ drmartens1460.pl
 drnona.com
 drnona.pl
 dsa.pl
+dspinner.net
 durakbufecengelkoy.com
 duzyszczupak.pl
 dvzwh.voluumtrk.com
@@ -450,6 +451,7 @@ exxotel.com
 ezdownloadpro.info
 f4u.pl
 faberlic.com
+faberville.com
 fabrykaagd.com.pl
 fabryka-mebli.com
 fabryka-nagrod.com
@@ -662,6 +664,7 @@ gotowkanadzis.pl
 gotowkatutaj.pl
 gotsprouts.com
 graomilion.pl
+gratissos.com
 greenbarleyplus.pl
 green-kredyt.pl
 greerlies.pro
@@ -798,6 +801,7 @@ kino-tv.pl
 kinujemy.pl
 kipokahynr.xyz
 kirchbaum.pl
+kitchencollectivecool.info
 kixshop.pl
 kjhkgh.skroc.pl
 kktgi.company
@@ -1035,6 +1039,7 @@ netflix.apps.co.pl
 netleaders.com
 newmediaz.com
 newpassporn.com
+newsinsider.me
 news-onet24.pl
 news-paperz.com
 newsredir.com
@@ -1303,6 +1308,8 @@ pszczelezycie.pl
 ptcspy.com
 ptgame.eu
 publisher.lead.network
+pulse-biznesowe.xyz
+pulsebiznesu.xyz
 puna.pl
 punkt-pozyczka.pl
 push-notification.tools
@@ -2100,6 +2107,7 @@ www.drmartens1460.pl
 www.drnona.com
 www.drnona.pl
 www.dsa.pl
+www.dspinner.net
 www.durakbufecengelkoy.com
 www.duzyszczupak.pl
 www.dvzwh.voluumtrk.com
@@ -2175,6 +2183,7 @@ www.exxotel.com
 www.ezdownloadpro.info
 www.f4u.pl
 www.faberlic.com
+www.faberville.com
 www.fabrykaagd.com.pl
 www.fabryka-mebli.com
 www.fabryka-nagrod.com
@@ -2387,6 +2396,7 @@ www.gotowkanadzis.pl
 www.gotowkatutaj.pl
 www.gotsprouts.com
 www.graomilion.pl
+www.gratissos.com
 www.greenbarleyplus.pl
 www.green-kredyt.pl
 www.greerlies.pro
@@ -2523,6 +2533,7 @@ www.kino-tv.pl
 www.kinujemy.pl
 www.kipokahynr.xyz
 www.kirchbaum.pl
+www.kitchencollectivecool.info
 www.kixshop.pl
 www.kjhkgh.skroc.pl
 www.kktgi.company
@@ -2761,6 +2772,7 @@ www.netflix.apps.co.pl
 www.netleaders.com
 www.newmediaz.com
 www.newpassporn.com
+www.newsinsider.me
 www.news-onet24.pl
 www.news-paperz.com
 www.newsredir.com
@@ -3000,6 +3012,8 @@ www.pszczelezycie.pl
 www.ptcspy.com
 www.ptgame.eu
 www.publisher.lead.network
+www.pulse-biznesowe.xyz
+www.pulsebiznesu.xyz
 www.puna.pl
 www.punkt-pozyczka.pl
 www.push-notification.tools

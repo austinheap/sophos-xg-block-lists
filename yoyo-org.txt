@@ -33,7 +33,6 @@
 99count.com
 a135.wftv.com
 aaddzz.com
-a-ads.com
 a.aproductmsg.com
 aaxads.com
 abacho.net
@@ -48,6 +47,7 @@ absoluteclickscom.com
 absorbingband.com
 absurdwater.com
 abz.com
+acceptable.a-ads.com
 a.consumer.net
 acridtwist.com
 ac.rnm.ca
@@ -77,6 +77,7 @@ ad4mat.de
 ad4mat.net
 ad.71i.de
 ad.a8.net
+ad.a-ads.com
 ad.abcnews.com
 ad.abctv.com
 ad.aboutwebservices.com
@@ -358,7 +359,6 @@ ads.avazu.net
 ads.batpmturner.com
 ads.belointeractive.com
 ads.berlinonline.de
-ads.betanews.com
 ads.betfair.com
 ads.bigchurch.com
 ads.bigfoot.com
@@ -1214,6 +1214,7 @@ claria.com
 clearcomb.com
 clevernt.com
 click2freemoney.com
+click.a-ads.com
 clickability.com
 click.absoluteagency.com
 clickadz.com
@@ -1582,7 +1583,6 @@ freeonlineusers.com
 freepay.com
 freeskreen.com
 freestats.com
-freestats.tv
 freewebcounter.com
 freshmarketer.com
 frightenedpotato.com
@@ -2260,7 +2260,6 @@ possessivebucket.com
 possibleboats.com
 postback.iqm.com
 postrelease.com
-potenza.cz
 praddpro.de
 prchecker.info
 precisioncounter.com
@@ -2594,6 +2593,7 @@ stat24.meta.ua
 stat.cliche.se
 statcounter.com
 stat.dyna.ultraweb.hu
+static.a-ads.com
 staticads.btopenworld.com
 static.fmpub.net
 static.itrack.it
@@ -2874,6 +2874,7 @@ view4cash.de
 visiblemeasures.com
 visistat.com
 visitbox.de
+visitpath.com
 visit.webhosting.yahoo.com
 visual-pagerank.fr
 visualrevenue.com
