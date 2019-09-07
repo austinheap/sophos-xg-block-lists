@@ -1001,6 +1001,7 @@ muverbo.pl
 myacn.eu
 myaff.pl
 my.coolestmobi.com
+mydlokreacja.pl
 myduolife.com
 myeforsa.pl
 mylocker.pl
@@ -1583,6 +1584,7 @@ tracksms.pl
 tradeit.cash
 traffic-c.com
 trafisz.com
+transegz.pl
 transmisje24.net
 tri-book.pl
 triggerinstalls.com
@@ -1638,6 +1640,7 @@ uzupelniajdane.gq
 uzupelniaj-dane.ml
 v7pjo.voluumtrk.com
 vaccgenocide.wordpress.com
+vadecorso.pl
 vansallegro.pl
 vanssk8hi.pl
 vantis-holding.com
@@ -2734,6 +2737,7 @@ www.muverbo.pl
 www.myacn.eu
 www.myaff.pl
 www.my.coolestmobi.com
+www.mydlokreacja.pl
 www.myduolife.com
 www.myeforsa.pl
 www.mylocker.pl
@@ -3288,6 +3292,7 @@ www.tracksms.pl
 www.tradeit.cash
 www.traffic-c.com
 www.trafisz.com
+www.transegz.pl
 www.transmisje24.net
 www.tri-book.pl
 www.triggerinstalls.com
@@ -3343,6 +3348,7 @@ www.uzupelniajdane.gq
 www.uzupelniaj-dane.ml
 www.v7pjo.voluumtrk.com
 www.vaccgenocide.wordpress.com
+www.vadecorso.pl
 www.vansallegro.pl
 www.vanssk8hi.pl
 www.vantis-holding.com
