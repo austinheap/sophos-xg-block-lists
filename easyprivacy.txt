@@ -1054,6 +1054,7 @@ canalstat.com
 canddi.com
 candid.zone
 canlytics.com
+cannontwin.com
 canopylabs.com
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
@@ -1819,6 +1820,7 @@ declaredthoughtfulness.co
 deepattention.com
 deep.bi
 deepc.cc
+deepknow.egoid.me
 dejavu.mercadolivre.com.br
 dejavu.mlapps.com
 delegatediscussion.com
@@ -2419,6 +2421,7 @@ gay-hotvideo.net
 g.bitmag.com.br
 g.bit.pt
 gbotvisit.com
+gc.newsweek.com
 g-content.bid
 gcpdata.telegraph.co.uk
 g.deathandtaxesmag.com
@@ -3268,6 +3271,7 @@ log.liverail.com
 logly.co.jp
 log.mappy.net
 logmatic.io
+log.mediacategory.com
 log.m.sm.cn
 log.newsvine.com
 log.nordot.jp
@@ -4688,6 +4692,7 @@ scaledb.com
 scaleway.ovh
 scarabresearch.com
 scastnet.com
+sc.cc.com
 schoolyeargo.com
 sciencerevenue.com
 scintillatingspace.com
@@ -5433,6 +5438,7 @@ stcllctrs.com
 stcollection.moneysupermarket.com
 stcounter.com
 st.dynamicyield.com
+steadfastsystem.com
 stealth.nl
 steelhousemedia.com
 steepsquirrel.com
@@ -5521,6 +5527,7 @@ t.9gag.com
 t.a3cloud.net
 tag4arm.com
 tag-abe.cartrawler.com
+tag.aumago.com
 tag.brandcdn.com
 tagcdn.com
 tag.email-attitude.com
@@ -5614,6 +5621,7 @@ tenmax.io
 tenping.kr
 tentaculos.net
 terabytemedia.com
+teralog.techhub.co.kr
 tercept.com
 terethat.ru
 teriotracker.de
@@ -5700,6 +5708,7 @@ toc.io
 toftofcal.com
 tomonline-inc.com
 tongji.mafengwo.cn
+tongji.meizu.com
 tools.ranker.com
 tooso.ai
 top100bloggers.com
@@ -5818,6 +5827,7 @@ tracker.beezup.com
 tracker.bestshopping.com
 tracker.bt.uol.com.br
 tracker.calameo.com
+tracker.cauly.co.kr
 tracker.cds-tracking.com
 tracker.cpapath.com
 tracker.data-vp.com
@@ -6021,6 +6031,7 @@ track.leady.cz
 track.mailerlite.com
 trackmethod.com
 track.mobicast.io
+track.mopo.de
 track.mycliplister.com
 trackmytarget.com
 trackmyusers.com
