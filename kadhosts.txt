@@ -1312,6 +1312,7 @@ ptgame.eu
 publisher.lead.network
 pulse-biznesowe.xyz
 pulsebiznesu.xyz
+puls-sukcesu.net
 puna.pl
 punkt-pozyczka.pl
 push-notification.tools
@@ -1341,6 +1342,7 @@ rbxfree.com
 r.clube62.date
 rdraff.com-app1.site
 real-app.date
+realnyzarobek.pl
 recommendedlab.com
 rectangledownloads.com
 redirectzone.com
@@ -3020,6 +3022,7 @@ www.ptgame.eu
 www.publisher.lead.network
 www.pulse-biznesowe.xyz
 www.pulsebiznesu.xyz
+www.puls-sukcesu.net
 www.puna.pl
 www.punkt-pozyczka.pl
 www.push-notification.tools
@@ -3049,6 +3052,7 @@ www.rbxfree.com
 www.r.clube62.date
 www.rdraff.com-app1.site
 www.real-app.date
+www.realnyzarobek.pl
 www.recommendedlab.com
 www.rectangledownloads.com
 www.redirectzone.com
