@@ -5544,6 +5544,7 @@ tag.leadplace.fr
 tagmanager.cn
 tagmngrs.com
 tag.myplay.com
+tag.rightmessage.com
 tag.rmp.rakuten.com
 tags.cdn.circlesix.co
 tags.master-perf-tools.com
@@ -6343,6 +6344,7 @@ userdmp.com
 userfly.com
 userlog.synapseip.tv
 userlook.com
+user-metrics.onthemarket.com
 userneeds.dk
 useronlinecounter.com
 user-red.com
