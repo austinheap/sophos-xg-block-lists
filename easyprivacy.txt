@@ -439,6 +439,7 @@ analytics.conmio.com
 analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.datahc.com
+analytics.developer.riotgames.com
 analytics.dev.springboardvideo.com
 analytics.digitouch.it
 analytics.dol.gr
@@ -1278,7 +1279,20 @@ cmcore.com
 cm.g.doubleclick.net
 c.mgid.com
 cmmeglobal.com
+cmp.arnnet.com.au
+cmp.cio.com.au
+cmp.cmo.com.au
+cmp.computerworld.com.au
+cmp.cso.com.au
+cmp.digitalartsonline.co.uk
+cmp.greenbot.com
+cmp.macworld.com
+cmp.macworld.co.uk
+cmp.pcworld.com
+cmp.pcworld.co.nz
 cmptch.com
+cmp.techadvisor.co.uk
+cmp.techhive.com
 cms.grandcloud.cn
 cms.lv
 cms-pixel.crowdreport.com
@@ -5849,6 +5863,7 @@ tracker-id.cdiscount.com
 tracker.iltrovatore.it
 tracker.iqnomy.com
 tracker.issuu.com
+tracker.jawcloud.co
 tracker.joost.com
 tracker.keywordintent.com
 tracker.live.tudou.com
@@ -6425,6 +6440,7 @@ visibli.com
 visilabs.net
 visioncriticalpanels.com
 visistat.com
+visit.asb.co.nz
 visit.dealspwn.com
 visit.geocities.com
 visit.geocities.jp
