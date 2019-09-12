@@ -8,6 +8,7 @@
 4kstream.pl
 4life.com
 4shoes.pl
+4skype.pl
 4ur.click
 50kaweek.live
 5gb-internetu-pakiety.blogspot.com
@@ -323,6 +324,7 @@ daswallet.com
 dataasmierci.blogspot.com
 datasmierci01.blogspot.com
 davor.io
+ddgrawer.pl
 decynsire.com
 deloxar.pl
 denis928.000webhostapp.com
@@ -729,6 +731,7 @@ i-chomikuj.pl
 idealnafigura.com
 idgarin.com
 ifilefinder.com
+igrzyskasto.pl
 ilovemobi.com
 i-mobi.pl
 imperiumczerniizlota.pl
@@ -1460,6 +1463,7 @@ sofaforlife.com
 soft4click.com
 softmania.pl
 softsmart.mobi
+sokolagd.pl
 solucjegier.pl
 solvusoft.com
 something-wrong5.agency
@@ -1748,6 +1752,7 @@ www.4ksport.pl
 www.4kstream.pl
 www.4life.com
 www.4shoes.pl
+www.4skype.pl
 www.4ur.click
 www.50kaweek.live
 www.5gb-internetu-pakiety.blogspot.com
@@ -2065,6 +2070,7 @@ www.daswallet.com
 www.dataasmierci.blogspot.com
 www.datasmierci01.blogspot.com
 www.davor.io
+www.ddgrawer.pl
 www.decynsire.com
 www.deloxar.pl
 www.denis928.000webhostapp.com
@@ -2473,6 +2479,7 @@ www.i-chomikuj.pl
 www.idealnafigura.com
 www.idgarin.com
 www.ifilefinder.com
+www.igrzyskasto.pl
 www.ilovemobi.com
 www.i-mobi.pl
 www.imperiumczerniizlota.pl
@@ -3176,6 +3183,7 @@ www.sofaforlife.com
 www.soft4click.com
 www.softmania.pl
 www.softsmart.mobi
+www.sokolagd.pl
 www.solucjegier.pl
 www.solvusoft.com
 www.something-wrong5.agency
@@ -3482,7 +3490,6 @@ www.yotafiles.com
 www.yotefiles.com
 www.yourebook.pl
 www.yourfiles.pl
-www.your-mac-security-analysis.net.guygr.upnpuqimdqnghau.icu
 www.your-movies.pl
 www.yourofferpro.com
 www.yourpayment.online
@@ -3563,7 +3570,6 @@ yotafiles.com
 yotefiles.com
 yourebook.pl
 yourfiles.pl
-your-mac-security-analysis.net.guygr.upnpuqimdqnghau.icu
 your-movies.pl
 yourofferpro.com
 yourpayment.online

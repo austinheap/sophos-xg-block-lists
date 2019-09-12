@@ -1557,7 +1557,6 @@ findepended.com
 findyourcasino.com
 firstlightera.com
 first.nova.cz
-firstpromoter.com
 flakyfeast.com
 flashtalking.com
 flavordecision.com
@@ -1679,6 +1678,7 @@ hitometer.com
 hit-parade.com
 hits4me.com
 hits.europuls.eu
+hits-i.iubenda.com
 hits.informer.com
 hitslink.com
 hits.puls.lv
@@ -1920,6 +1920,7 @@ madvertise.de
 magicadz.co
 magnificentmist.com
 marchex.com
+marinsm.com
 markedcrayon.com
 markedpail.com
 market-buster.com
@@ -2019,6 +2020,7 @@ modifyeyes.com
 moggattice.com
 moldyicicle.com
 monetate.net
+monetizer101.com
 moneyexpert.co.uk
 monsterpops.com
 mookie1.com
@@ -2696,6 +2698,7 @@ textad.sexsearch.com
 text-link-ads.com
 textlinks.com
 tfag.de
+t.firstpromoter.com
 theadex.com
 theadhost.com
 thebugs.ws
@@ -2760,7 +2763,6 @@ track.effiliation.com
 tracker.bannerflow.com
 tracker.colpirio.com
 tracker.icerocket.com
-tracker.marinsm.com
 tracker-pm2.spilleren.com
 tracker.samplicio.us
 tracker.trackerfix.com

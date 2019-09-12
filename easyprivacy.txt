@@ -3622,6 +3622,7 @@ monitis.com
 monitus.net
 monkeyminer.net
 monkeytracker.cz
+monstat.com
 montblanc.lenta.ru
 montblanc.rambler.ru
 monu.delivery
@@ -5970,6 +5971,7 @@ tracking.military.com
 tracking.mindshare.de
 tracking.mobile.de
 tracking.moneyam.com
+tracking.monsido.com
 tracking.musixmatch.com
 tracking.mvsuite.de
 tracking.mycapture.com
