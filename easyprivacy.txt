@@ -1670,6 +1670,7 @@ c.wort-suche.com
 cws.conviva.com
 cx.atdmt.com
 c.x.oanda.com
+cxt.deutsche-bank.de
 cxt.ms
 cya1t.net
 cya2.net
@@ -2565,6 +2566,7 @@ google-rank.org
 gooo.al
 go.optifuze.com
 gopjn.com
+goprediction.com
 goredirect.party
 gorgeousground.com
 gostats.cn
@@ -3849,6 +3851,7 @@ nm.newegg.com
 nmtracking.netflix.com
 nnycrypto.com
 noblock.pro
+nokaut.link
 nol.yahoo.com
 nonxt1.c.youtube.com
 noowho.com
@@ -4506,6 +4509,7 @@ reedge.com
 referer.org
 refer.evine.com
 referforex.com
+refericon.pl
 referlytics.com
 referrer.disqus.com
 referrer.org

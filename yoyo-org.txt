@@ -245,6 +245,7 @@ ad.nachtagenten.de
 adnet.asahi.com
 adnet.biz
 adnet.de
+adnetinteractive.com
 adnet.ru
 adnetwork.net
 adnetworkperformance.com
@@ -1443,6 +1444,7 @@ earthquakescarf.com
 earthycopy.com
 eas.almamedia.fi
 easyhits4u.com
+e-bannerx.com
 ebayadvertising.com
 ebocornac.com
 ebuzzing.com
@@ -2091,7 +2093,6 @@ newopenx.detik.com
 newstarads.com
 newt1.adultadworld.com
 newt1.adultworld.com
-newtopsites.com
 nexage.com
 ng3.ads.warnerbros.com
 nitratory.com
@@ -2116,7 +2117,6 @@ oascentral.businessweek.com
 oascentral.chicagobusiness.com
 oascentral.fortunecity.com
 oascentral.register.com
-oas.foxnews.com
 oas.repubblica.it
 oas.roanoke.com
 oas.toronto.com
@@ -2286,6 +2286,7 @@ promobenef.com
 promos.bwin.it
 promos.fling.com
 promote.pair.com
+promotion-campaigns.com
 promo.ulust.com
 pronetadvertising.com
 propellerads.com
