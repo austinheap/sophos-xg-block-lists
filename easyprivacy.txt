@@ -308,6 +308,7 @@ afsanalytics.com
 agencytradingdesk.net
 agentanalytics.com
 agentinteractive.com
+agg.inquisitr.com
 aggregator.inquisitr.com
 agilecrm.com
 agillic.eu
@@ -1430,6 +1431,7 @@ conversionlogic.net
 conversionly.com
 conversion.pl
 conversionruler.com
+conversions.genieventures.co.uk
 convertcart.com
 convertexperiments.com
 convertglobal.com
@@ -1790,6 +1792,7 @@ data.circulate.com
 datacollector.coin.scribol.com
 datacoral.com
 datacoral.io
+datadoghq-browser-agent.com
 datadome.co
 data.econa.com
 datafeedfile.com
@@ -2412,6 +2415,7 @@ ftrack.ru
 fueldeck.com
 fuelx.com
 fugetech.com
+fundingchoicesmessages.google.com
 fun-hits.com
 funneld.com
 funn.graphiq.com
@@ -4426,6 +4430,7 @@ qubitproducts.com
 questionpro.com
 questradeaffiliates.com
 quick-counter.net
+quietknowledge.com
 quillion.com
 quintelligence.com
 qzlog.com
@@ -4954,9 +4959,11 @@ sometrics.com
 somniture.theglobeandmail.com
 s-onetag.com
 soodatmish.com
+sophi.io
 sophus3.com
 soska.us
 sourcecode.pro
+sourcepoint.vice.com
 spacedust.netmediaeurope.com
 spacehits.net
 space-link.de
@@ -5590,6 +5597,7 @@ taps.io
 tapstream.com
 target.fark.com
 targetfuel.com
+targeting.perso.aws.arc.pub
 targeting.wpdigital.net
 targetix.net
 target.mirtesen.ru
@@ -6289,6 +6297,7 @@ txt.eu
 tylere.net
 t.ymlp275.net
 tynt.com
+typicalteeth.com
 tyxo.bg
 tyxo.com
 tz284.com
