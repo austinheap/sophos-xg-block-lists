@@ -140,7 +140,6 @@ avita.net.pl
 awarialaptopa.pl
 awin.com
 az27.pl
-babyeishgames.com
 backmoniterreq.icu
 balsit.org
 bartekzukiewicz.pl
@@ -922,7 +921,6 @@ mediaexpres.in.net
 mediafile.pl
 mediamanago.pl
 mediamarkt.pl.dailyoffer.top
-mediamax.in.net
 mediartvagd.in.net
 mediasam.net
 mediavideo.pl
@@ -1375,6 +1373,7 @@ roulettenumber.com
 rowerowyrajd.pl
 rownet.pl
 rtvagdpro.net
+rubris.org
 ruletkasystem.eu
 ruletka-systemy.com
 runshoes.pl
@@ -1478,9 +1477,11 @@ speedyshare.com
 spokeo.pl
 sportef.pl
 sportowy-stream.pl
+sportowystream.pl
 sportplus.pro
 sportsklep.com.pl
 spotlessweb.com
+sprawa-531.eu
 sprawdziany-odpowiedzi.bo.pl
 sprawdzianyodpowiedzi.pl
 sprawdzianyonline.pl
@@ -1669,7 +1670,6 @@ vethurt.pl
 vexacion.com
 vfastdownload.com
 videodownloadconverter.com
-videorazr.com
 vidnet.pl
 vidplayer.pl
 vidzsource.net
@@ -1885,7 +1885,6 @@ www.avita.net.pl
 www.awarialaptopa.pl
 www.awin.com
 www.az27.pl
-www.babyeishgames.com
 www.backmoniterreq.icu
 www.balsit.org
 www.bartekzukiewicz.pl
@@ -2671,7 +2670,6 @@ www.mediaexpres.in.net
 www.mediafile.pl
 www.mediamanago.pl
 www.mediamarkt.pl.dailyoffer.top
-www.mediamax.in.net
 www.mediartvagd.in.net
 www.mediasam.net
 www.mediavideo.pl
@@ -3095,6 +3093,7 @@ www.roulettenumber.com
 www.rowerowyrajd.pl
 www.rownet.pl
 www.rtvagdpro.net
+www.rubris.org
 www.ruletkasystem.eu
 www.ruletka-systemy.com
 www.runshoes.pl
@@ -3199,9 +3198,11 @@ www.speedyshare.com
 www.spokeo.pl
 www.sportef.pl
 www.sportowy-stream.pl
+www.sportowystream.pl
 www.sportplus.pro
 www.sportsklep.com.pl
 www.spotlessweb.com
+www.sprawa-531.eu
 www.sprawdziany-odpowiedzi.bo.pl
 www.sprawdzianyodpowiedzi.pl
 www.sprawdzianyonline.pl
@@ -3390,7 +3391,6 @@ www.vethurt.pl
 www.vexacion.com
 www.vfastdownload.com
 www.videodownloadconverter.com
-www.videorazr.com
 www.vidnet.pl
 www.vidplayer.pl
 www.vidzsource.net
