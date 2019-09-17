@@ -1496,6 +1496,7 @@ st.acstnst.com
 starlife.eu
 star-life.pl
 starshipsanctuary.pl
+start.favbook.net
 statusnim.info
 steamco.de
 steamgifts.5v.pl
@@ -3217,6 +3218,7 @@ www.st.acstnst.com
 www.starlife.eu
 www.star-life.pl
 www.starshipsanctuary.pl
+www.start.favbook.net
 www.statusnim.info
 www.steamco.de
 www.steamgifts.5v.pl
