@@ -602,6 +602,7 @@ ad.flux.com
 adfoc.us
 adfocus.ru
 adforce.ru
+adform.net
 ad.foxnetworks.com
 ad.fr.doubleclick.net
 ad.freecity.de
@@ -614,6 +615,7 @@ adgeo.163.com
 ad.glossymedia.pl
 ad.go.com
 ad.gr.doubleclick.net
+adgrx.com
 adhall.com
 ad.hankooki.com
 ad.hbv.de
@@ -733,6 +735,7 @@ ad.no.doubleclick.net
 adn.static-files.com
 ad.nttnavi.co.jp
 ad.ntvmsnbc.com
+adnxs.com
 ad.nz.doubleclick.net
 adobe.demdex.net
 adocean-by.hit.gemius.pl
@@ -1514,6 +1517,7 @@ adsrv.ea.com
 adsrv.fashion.bg
 adsrvmedia.adk2.co
 adsrvmedia.adk2x.com
+adsrvr.org
 ads.sagabg.net
 ads.sapo.pt
 ads.scorecardresearch.com
@@ -1683,6 +1687,7 @@ ads.ztod.com
 adtactics.com
 adtago.s3.amazonaws.com
 adtag.sympatico.ca
+adtdp.com
 adtech.de
 adtegrity.com
 adtegrity.spinbox.net
@@ -2780,6 +2785,7 @@ bloggers.fuckyoucash.com
 blogtalkradio.crwdcntrl.net
 blueadvertise.com
 bluehparking.com
+bluekai.com
 blue.sexer.com
 bluewin.wemfbox.ch
 bluhostedbanners.blucigs.com
@@ -3199,6 +3205,7 @@ cdn.dmpcounter.com
 cdn.doubleverify.com
 cdn.earnify.com
 cdn.easy-ads.com
+cdnegc.trafficfactory.biz
 cdn.elasticad.net
 cdn.engine.4dsply.com
 cdn.engine.adsupply.com
@@ -4170,6 +4177,7 @@ delivery.yourfuckbook.com
 deliv.lexpress.fr
 dellinc.tt.omtrdc.net
 delta.rspcdn.com
+demdex.net
 demonews.us.intellitxt.com
 demoq.use-trade.com
 demr.myspace.com
@@ -7953,6 +7961,7 @@ psx.ign.us.intellitxt.com
 psy.mtree.com
 ptads.sv.publicus.com
 pt.peerius.com
+p.tvpixel.com
 pub12.bravenet.com
 pub13.bravenet.com
 pub16.bravenet.com
@@ -8332,7 +8341,6 @@ rumorfix.us.intellitxt.com
 rum-static.pingdom.net
 run.admost.com
 run.adrizer.com
-runslin.com
 ruptly-d.openx.net
 rusads.toysrus.com
 rutrk.org
@@ -10690,6 +10698,7 @@ www3.webhostingtalk.com
 www4.addfreestats.com
 www4.clustrmaps.com
 www4search.net
+www.4shared.com
 www4.smartadserver.com
 www5.addfreestats.com
 www5.afsanalytics.com
@@ -11057,6 +11066,7 @@ www.fastusersonline.com
 www.favicon.com
 www.feyads.com
 www.fhserve.com
+www.fileconvertertab.com
 www.firebanner.com
 www.fishclix.com
 www.flashadtools.com
