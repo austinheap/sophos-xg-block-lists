@@ -237,6 +237,8 @@ c2i-cdn.startappnetwork.com
 c.adskeeper.co.uk
 camsoda.com
 canuck-method.com
+castoola.com
+castoola.tv.lan
 cata.ero-advertising.com
 ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
@@ -247,6 +249,8 @@ cdn.ad.xiaomi.com
 cdn.auditude.com
 cdn.beginads.com
 cdn.bitmedianetwork.com
+cdn.castoola.com
+cdn.discoveryad.castoola.tv
 cdn-jp.gsecondscreen.com
 cdnjs.tvpage.com
 cdn.moengage.com
@@ -306,6 +310,7 @@ device-api.urbanairship.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 dimaria.alphonso.tv
+discoveryad.castoola.tv
 dobre-programy.pl
 dobreprogramy.pro
 dobre-programy.xyz
