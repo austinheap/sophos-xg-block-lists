@@ -649,7 +649,6 @@ giveskincs.nd.pl
 glinkss.com
 globalhealingcenter.com
 globalintergold.com
-globalmagazine24.eu
 globile.co
 glosowanie.ujm.pl
 go2affise.com
@@ -720,7 +719,6 @@ hostplik.pl
 hostujmy.pl
 hothub.pl
 hotnews24h.pl
-hotokazje.com
 hp.myway.com
 humanverify.net
 hunterstyle24.com
@@ -748,7 +746,6 @@ informacjeszok24.blogspot.com
 informujemy24h.cba.pl
 inpost24.me
 insanepays.com
-instantdownloadsz.com
 instantgiftcodes.com
 instantreward.site
 instytutmed.pl
@@ -914,6 +911,7 @@ marekporwol.pl
 mariuszpelczarski.pl
 mariza.com.pl
 marketpremium.pl
+marsonic.pl
 martdiamonds.pl
 marykay.pl
 masenkotrkr.com
@@ -1066,6 +1064,7 @@ nonstopvideos.pl
 normour.com
 norton.pl
 notifyday.com
+novits4.com
 novumedical.pl
 nowa.k-link-poland.pl
 nowaupadlosc.pl
@@ -1387,7 +1386,6 @@ r.xyz1.pl
 rzeczyzadarmo.pl
 rzetelna-pozyczka.pl
 s9kkremkr0.com
-sales-express.eu
 salomonsklep.online
 salomonwyprzedaz.pl
 santos24.net
@@ -2403,7 +2401,6 @@ www.giveskincs.nd.pl
 www.glinkss.com
 www.globalhealingcenter.com
 www.globalintergold.com
-www.globalmagazine24.eu
 www.globile.co
 www.glosowanie.ujm.pl
 www.go2affise.com
@@ -2474,7 +2471,6 @@ www.hostplik.pl
 www.hostujmy.pl
 www.hothub.pl
 www.hotnews24h.pl
-www.hotokazje.com
 www.hp.myway.com
 www.humanverify.net
 www.hunterstyle24.com
@@ -2502,7 +2498,6 @@ www.informacjeszok24.blogspot.com
 www.informujemy24h.cba.pl
 www.inpost24.me
 www.insanepays.com
-www.instantdownloadsz.com
 www.instantgiftcodes.com
 www.instantreward.site
 www.instytutmed.pl
@@ -2669,6 +2664,7 @@ www.marekporwol.pl
 www.mariuszpelczarski.pl
 www.mariza.com.pl
 www.marketpremium.pl
+www.marsonic.pl
 www.martdiamonds.pl
 www.marykay.pl
 www.masenkotrkr.com
@@ -2821,6 +2817,7 @@ www.nonstopvideos.pl
 www.normour.com
 www.norton.pl
 www.notifyday.com
+www.novits4.com
 www.novumedical.pl
 www.nowa.k-link-poland.pl
 www.nowaupadlosc.pl
@@ -3113,7 +3110,6 @@ www.r.xyz1.pl
 www.rzeczyzadarmo.pl
 www.rzetelna-pozyczka.pl
 www.s9kkremkr0.com
-www.sales-express.eu
 www.salomonsklep.online
 www.salomonwyprzedaz.pl
 www.santos24.net
@@ -3479,7 +3475,6 @@ www.wybierz-nagrode.pl
 www.wydawca.lead.network
 www.wygrajpsc.eu
 www.wygrana-konkursu.eu
-www.wygrana-wpisz-dane.eu
 www.wygrania.com
 www.wygrywa.pl
 www.wyjazd24.pl
@@ -3560,7 +3555,6 @@ wybierz-nagrode.pl
 wydawca.lead.network
 wygrajpsc.eu
 wygrana-konkursu.eu
-wygrana-wpisz-dane.eu
 wygrania.com
 wygrywa.pl
 wyjazd24.pl
