@@ -2498,6 +2498,7 @@ geoip.silive.com
 geoip.syracuse.com
 geoip.taskforce.is
 geoip.viamichelin.com
+geojs.io
 geo.kontagent.net
 geolocation.performgroup.com
 geo.ltassrv.com
@@ -4529,6 +4530,7 @@ redstatcounter.com
 reedbusiness.net
 reedge.com
 referer.org
+referer.pixplug.in
 refer.evine.com
 referforex.com
 refericon.pl
@@ -5924,6 +5926,7 @@ trackerstatistik.init-ag.de
 tracker.stats.in.th
 tracker.stileo.it
 tracker.streamroot.io
+trackertest.org
 tracker.thinkindot.com
 tracker.timesgroup.com
 tracker.tiu.ru
