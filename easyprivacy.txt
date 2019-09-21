@@ -1619,6 +1619,7 @@ crosswalkmail.com
 crowdtwist.com
 crsspxl.com
 crta.dailymail.co.uk
+crtx.info
 cryptaloot.pro
 cryptobara.com
 crypto-coins.club
@@ -2989,6 +2990,7 @@ iproanalytics.com
 ipro.com
 iprotrk.com
 ipstat.com
+ipstatp.com
 iptrack.biz
 ipv6monitoring.eu
 iqdata.ai
@@ -3845,6 +3847,7 @@ nexttime.ovh
 nfwebminer.com
 ngacm.com
 ngastatic.com
+ngenix.net
 ngmco.net
 nicequest.com
 nicewii.com
@@ -4153,6 +4156,7 @@ ping.tvmaze.com
 pipe-collect.ebu.io
 pipedream.wistia.com
 pipeline.realtime.active.com
+piper.amocrm.ru
 pipfire.com
 pippio.com
 pi-stats.com
@@ -5413,6 +5417,7 @@ stats.storify.com
 stats.suite101.com
 stats.surfaid.ihost.com
 stats.svpply.com
+stat.stars.ru
 stats.technopia.it
 stats.teledyski.info
 stat.stheadline.com

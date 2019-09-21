@@ -439,7 +439,6 @@ adserver01.de
 adserver1.backbeatmedia.com
 adserver1-images.backbeatmedia.com
 adserver1.mindshare.de
-adserver1.ogilvy-interactive.de
 adserver2.mindshare.de
 adserver.71i.de
 adserver.adultfriendfinder.com
@@ -1193,7 +1192,6 @@ ceskydomov.alias.ngs.modry.cz
 cetrk.com
 cgicounter.puretec.de
 chairscrack.com
-chameleon.ad
 channel1vids.com
 channelintelligence.com
 chardwardse.club
@@ -2384,6 +2382,7 @@ record.mrwin.com
 re-directme.com
 redirectvoluum.com
 redshell.io
+reduxmedia.com
 referralware.com
 referrer.disqus.com
 reflectivereward.com
@@ -2420,7 +2419,6 @@ richwebmaster.com
 rightstats.com
 ringsrecord.com
 ritzykey.com
-ritzysponge.com
 rlcdn.com
 rle.ru
 r.logrocket.io
@@ -2575,7 +2573,6 @@ sponsorads.de
 sponsorpro.de
 sponsors.thoughtsmedia.com
 spot.fitness.com
-spottysense.com
 spotxchange.com
 spotx.tv
 springaftermath.com
@@ -2694,7 +2691,6 @@ tedioustooth.com
 teenrevenue.com
 teenyvolcano.com
 teethfan.com
-teliad.de
 t.eloqua.com
 temelio.com
 tendertest.com
@@ -2976,7 +2972,6 @@ www-banner.chat.ru
 www.dnps.com
 www-google-analytics.l.google.com
 www.kaplanindex.com
-www.money4exit.de
 www.photo-ads.co.uk
 wwwpromoter.com
 x6.yakiuchi.com
