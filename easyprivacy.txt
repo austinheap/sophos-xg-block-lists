@@ -1376,6 +1376,7 @@ collector.sspinc.io
 collector.statowl.com
 collector.tescocompare.com
 collector.trendmd.com
+collector.wallapop.com
 collect.rewardstyle.com
 collect.sas.com
 collect.tianya.cn
@@ -2009,6 +2010,7 @@ dzizsih.ru
 dzmxze7hxwn6b.cloudfront.net
 dzxxxg6ij9u99.cloudfront.net
 ea.celio.com
+eacla.com
 ea.clubic.com
 ea.jeuxvideopc.com
 ea.lexpress.fr
@@ -2952,6 +2954,7 @@ interhits.de
 intermundomedia.com
 interstateanalytics.com
 intervigil.com
+intg.snapchat.com
 intrastats.com
 investhash.com
 invisioncloudstats.com
@@ -4019,6 +4022,7 @@ overstat.com
 owlanalytics.io
 owldata.com
 oxidy.com
+oxifwsabgd.nzz.ch
 oxwwoeukjispema.ru
 p071qmn.com
 p0.raasnet.com
@@ -4550,6 +4554,7 @@ relmaxtop.com
 rel.msn.com
 remarketingpixel.com
 remarketstats.com
+remind.me
 rem-track.bild.de
 rencohep.com
 renhertfo.com
@@ -6227,6 +6232,7 @@ tremorhub.com
 trendcounter.com
 trendcounter.de
 trendemon.com
+trezor.efscle.com
 trf.intuitwebsites.com
 trgtcdn.com
 triad.technorati.com
