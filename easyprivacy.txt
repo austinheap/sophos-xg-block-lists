@@ -1065,6 +1065,7 @@ canopylabs.com
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
 caphyon-analytics.com
+capsquirrel.com
 captify.co.uk
 captivate.ai
 captora.com
@@ -1328,6 +1329,7 @@ codata.ru
 cod.bitrec.com
 cogmatch.net
 cognitivematch.com
+co.hltv.org
 coinblind.com
 coincheck.com
 coin-cube.com
@@ -1617,7 +1619,6 @@ crmmetrixwris.com
 cr-nielsen.com
 crosspixel.net
 crosswalkmail.com
-crowdtwist.com
 crsspxl.com
 crta.dailymail.co.uk
 crtx.info
@@ -2909,6 +2910,7 @@ innovateads.com
 inphonic.com
 inpwrd.com
 inquiries.redhat.com
+inquisitiveinvention.com
 inrd.ru
 insdrbot.com
 inside-graph.com
@@ -3851,7 +3853,6 @@ nexttime.ovh
 nfwebminer.com
 ngacm.com
 ngastatic.com
-ngenix.net
 ngmco.net
 nicequest.com
 nicewii.com
@@ -4240,7 +4241,6 @@ pjatr.com
 pjtra.com
 p.l1v.ly
 placemypixel.com
-pladform.ru
 platform.communicatorcorp.com
 platform.iteratehq.com
 platformpanda.com
