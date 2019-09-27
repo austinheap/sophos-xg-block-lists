@@ -555,7 +555,6 @@ analytics.themarketiq.com
 analytics.thenest.com
 analytics.thenewslens.com
 analytics.thetab.com
-analytics.thevideo.me
 analytics.tio.ch
 analytics.tout.com
 analytics.tradedoubler.com
@@ -1818,6 +1817,7 @@ data.ryanair.com
 datasecu.download
 dataservices.download
 datasteam.io
+data.studybreakmedia.com
 dataxpand.com
 data.younow.com
 datvantage.com
@@ -2984,6 +2984,7 @@ ipcount.net
 iperceptions.com
 ipfingerprint.com
 ipfrom.com
+ipgeolocation.io
 ipify.org
 ipinfodb.com
 ipinfo.info
@@ -3350,7 +3351,6 @@ logs.vmixcore.com
 log.sv.pandora.tv
 log.sz-online.de
 log.tagtic.cn
-log.thevideo.me
 logua.com
 log.vdn.apps.cntv.cn
 log.v.iask.com
@@ -3518,6 +3518,7 @@ mercy.ga
 merlin.abc.go.com
 metakeyproducer.com
 metalyzer.com
+meteor.com
 meteorsolutions.com
 metering.pagesuite.com
 meter-svc.nytimes.com
@@ -5428,7 +5429,6 @@ stat.stars.ru
 stats.technopia.it
 stats.teledyski.info
 stat.stheadline.com
-stats.thevideo.me
 stats.topofblogs.com
 stats.townnews.com
 statstracker.celebrity-gossip.net
@@ -5504,6 +5504,7 @@ steepsquirrel.com
 stellaservice.com
 stetic.com
 stg-data-collector.playbuzz.com
+stiffstem.com
 stonecalcom.com
 storesurprise.com
 stormcontainertag.com
@@ -6522,6 +6523,7 @@ vm5apis.com
 vmmpxl.com
 vmm-satellite1.com
 vmm-satellite2.com
+vmstats.varrando.com
 vmtrk.com
 voicefive.com
 volgograd-info.ru

@@ -203,7 +203,6 @@ adjustnetwork.com
 adk2ads.tictacti.com
 adk2.co
 adk2.com
-ad.keenspace.com
 adland.ru
 ad.leadbolt.net
 adledge.com
@@ -469,7 +468,6 @@ adserver.omroepzeeland.nl
 ad-serverparc.nl
 adserver.pl
 adserverplus.com
-adserver.portalofevil.com
 adserver.portugalmail.net
 adserver.portugalmail.pt
 adserver.pressboard.ca
@@ -873,7 +871,6 @@ afftracking.justanswer.com
 afterview.ru
 agkn.com
 agreeablestew.com
-agreemand.com
 ahalogy.com
 aheadday.com
 ah-ha.com
@@ -1205,7 +1202,6 @@ chewcoat.com
 chickensstation.com
 chinsnakes.com
 chitika.net
-christingel.com
 cityads.telus.net
 cjbmanagement.com
 cj.com
@@ -1570,7 +1566,6 @@ flimsycircle.com
 floodprincipal.com
 flowgo.com
 flurry.com
-foamybox.com
 foo.cosmocode.de
 foresee.com
 forex-affiliate.net
@@ -2004,7 +1999,6 @@ militaryverse.com
 minewhat.com
 minormeeting.com
 mintegral.com
-misstrends.com
 mixedreading.com
 mixpanel.com
 mixtraffic.com
@@ -2155,7 +2149,6 @@ openad.travelnow.com
 open.oneplus.net
 opentag-stats.qubit.com
 openx.angelsgroup.org.uk
-openx.blindferret.com
 operationkettle.com
 opienetwork.com
 optimallimit.com
@@ -2866,7 +2859,6 @@ veille-referencement.com
 ventivmedia.com
 verblife-3.co
 vericlick.com
-vertadnet.com
 verticalmass.com
 vervewireless.com
 vibrantmedia.com
