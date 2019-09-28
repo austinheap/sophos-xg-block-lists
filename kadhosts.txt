@@ -30,6 +30,7 @@ acninc.com
 act-natural.pl
 act-natural-sklep.pl
 act.poznan.pl
+aczarniecka.pl
 adamdelivery.pl
 adamkepinski.pl
 adapterylaptopa.com
@@ -67,6 +68,7 @@ aktpl.com
 aktualizacjafacebooka.blogspot.com
 akuna.pl
 aldaniti.net
+aldashoes.eu
 aldashoes.pl
 ale-fotogragia.bo.pl
 alerter.pl
@@ -74,6 +76,7 @@ aleshop.pl
 alexsoff.com
 alfapro.pl
 alisto-pozyczki.pl
+allegro.pl-nowe-regulamini7913.uhu362.com
 alle-perfumy.pl
 allfiles.pl
 allonline.pl
@@ -296,6 +299,7 @@ cs-podhale.pl
 cs.shiporama.com
 cs.spotlessweb.com
 cultland.pl
+cultsneaks.pl
 cybermagicindia.com
 czas-na-fb.blogspot.com
 czyjtonumertel.pl
@@ -419,6 +423,7 @@ eglobalcentral.pl
 ekstrafilmy24.pl
 elavepene.us
 electrocity24.pl
+electroline.pl
 elektro24h.pl
 elektromax.in.net
 elememory.com
@@ -799,6 +804,7 @@ kaufland.gift-cards.co.pl
 kdplay.net
 kekuko.com
 kenseeart.pl
+kickstore.pl
 kickz4u.pl
 kiepscy.evai.pl
 killingtonchukka.pl
@@ -1043,6 +1049,7 @@ needforfile.net
 neomedia24.net
 neomedia.in.net
 neomediamax.net
+neonetmax.in.net
 neopozyczki.pl
 neospes.com
 neotech.in.net
@@ -1320,7 +1327,6 @@ przyspieszkomputer.pl
 przyspiesz.pl
 psialapka.pl
 pszczelezycie.pl
-ptcspy.com
 ptgame.eu
 publisher.lead.network
 pulse-biznesowe.xyz
@@ -1411,6 +1417,7 @@ secure-pge.eu
 sendspace.pl
 sendspace.pw
 senoctis.pl
+sensisslupca.pl
 serendipitygalenite.club
 seriale24.com.pl
 serialefilmy.pl
@@ -1427,6 +1434,7 @@ shidokan-lodz.pl
 shinden-anime.info
 shiporama.com
 shoegallery.com.pl
+shoesland.pl
 shoesvclub.com
 shop.dr-rath.com
 shop.planet-tachyon.com
@@ -1622,7 +1630,6 @@ tv-internetowa.pl
 tvnewtop.pro
 tvonline.hol.es
 twoja-wygrana.com
-twojeartykuly.com
 twoje-piekno.pl
 twojhoroskop.com
 twojszczesliwydzien.com
@@ -1785,6 +1792,7 @@ www.acninc.com
 www.act-natural.pl
 www.act-natural-sklep.pl
 www.act.poznan.pl
+www.aczarniecka.pl
 www.adamdelivery.pl
 www.adamkepinski.pl
 www.adapterylaptopa.com
@@ -1822,6 +1830,7 @@ www.aktpl.com
 www.aktualizacjafacebooka.blogspot.com
 www.akuna.pl
 www.aldaniti.net
+www.aldashoes.eu
 www.aldashoes.pl
 www.ale-fotogragia.bo.pl
 www.alerter.pl
@@ -1829,6 +1838,7 @@ www.aleshop.pl
 www.alexsoff.com
 www.alfapro.pl
 www.alisto-pozyczki.pl
+www.allegro.pl-nowe-regulamini7913.uhu362.com
 www.alle-perfumy.pl
 www.allfiles.pl
 www.allonline.pl
@@ -2053,6 +2063,7 @@ www.cs-podhale.pl
 www.cs.shiporama.com
 www.cs.spotlessweb.com
 www.cultland.pl
+www.cultsneaks.pl
 www.cybermagicindia.com
 www.czas-na-fb.blogspot.com
 www.czyjtonumertel.pl
@@ -2178,6 +2189,7 @@ www.eglobalcentral.pl
 www.ekstrafilmy24.pl
 www.elavepene.us
 www.electrocity24.pl
+www.electroline.pl
 www.elektro24h.pl
 www.elektromax.in.net
 www.elememory.com
@@ -2558,6 +2570,7 @@ www.kaufland.gift-cards.co.pl
 www.kdplay.net
 www.kekuko.com
 www.kenseeart.pl
+www.kickstore.pl
 www.kickz4u.pl
 www.kiepscy.evai.pl
 www.killingtonchukka.pl
@@ -2803,6 +2816,7 @@ www.needforfile.net
 www.neomedia24.net
 www.neomedia.in.net
 www.neomediamax.net
+www.neonetmax.in.net
 www.neopozyczki.pl
 www.neospes.com
 www.neotech.in.net
@@ -3051,7 +3065,6 @@ www.przyspieszkomputer.pl
 www.przyspiesz.pl
 www.psialapka.pl
 www.pszczelezycie.pl
-www.ptcspy.com
 www.ptgame.eu
 www.publisher.lead.network
 www.pulse-biznesowe.xyz
@@ -3142,6 +3155,7 @@ www.secure-pge.eu
 www.sendspace.pl
 www.sendspace.pw
 www.senoctis.pl
+www.sensisslupca.pl
 www.serendipitygalenite.club
 www.seriale24.com.pl
 www.serialefilmy.pl
@@ -3158,6 +3172,7 @@ www.shidokan-lodz.pl
 www.shinden-anime.info
 www.shiporama.com
 www.shoegallery.com.pl
+www.shoesland.pl
 www.shoesvclub.com
 www.shop.dr-rath.com
 www.shop.planet-tachyon.com
@@ -3354,7 +3369,6 @@ www.tv-internetowa.pl
 www.tvnewtop.pro
 www.tvonline.hol.es
 www.twoja-wygrana.com
-www.twojeartykuly.com
 www.twoje-piekno.pl
 www.twojhoroskop.com
 www.twojszczesliwydzien.com
@@ -3524,6 +3538,7 @@ www.zaho.pl
 www.zakupeo.com
 www.zakupyagd.net
 www.zakupymax.net
+www.zalukaj24.pl
 www.zalukajfilmy.pl
 www.zalukaj-online.pl
 www.zamiana-koloru.blogspot.com
@@ -3604,6 +3619,7 @@ zaho.pl
 zakupeo.com
 zakupyagd.net
 zakupymax.net
+zalukaj24.pl
 zalukajfilmy.pl
 zalukaj-online.pl
 zamiana-koloru.blogspot.com
