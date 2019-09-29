@@ -402,11 +402,13 @@ analytics00.meride.tv
 analytics.163.com
 analytics.21cn.com
 analytics.247sports.com
+analytics2.socialblade.com
 analytics.30m.com
 analytics.aasaam.com
 analytics.abacast.com
 analytics.adeevo.com
 analytics.adfreetime.com
+analytics.allovoisins.com
 analytics.amakings.com
 analytics.anvato.net
 analytics.apnewsregistry.com
@@ -707,6 +709,7 @@ audience.newscgp.com
 audiencerate.com
 audienceserver.aws.forebase.com
 audiencesquare.com
+audience.visiblemeasures.com
 audiencia.r7.com
 audiencies.ccma.cat
 audiens.com
@@ -1020,6 +1023,7 @@ bulb.76.my
 bumlam.com
 bunchbox.co
 burstbeacon.com
+businessclick.ch
 business.sharedcount.com
 butcalve.com
 bux1le001.com
@@ -1267,6 +1271,7 @@ clkstat.china.cn
 clkstat.qihoo.com
 clod.pw
 clog.go.com
+cloisteredcord.com
 cloudcdn.gdn
 cloudcoins.co
 cloud-exploration.com
@@ -1565,6 +1570,7 @@ countingbiz.info
 countino.de
 countit.ch
 count.joy.cn
+count.kandian.com
 count.livetv.ru
 count.livetv.sx
 count.merian.de
@@ -1579,17 +1585,18 @@ count.paycounter.com
 count.prx.org
 count.qiannao.com
 count.rin.ru
+count.rtl.de
 count.snacktv.de
 count.spiegel.de
 countstat.ru
 count.upc.rakuten.co.jp
 countus.fr
 count.video.sina.com.cn
+count.vrs.sohu.com
 count.yandeg.ru
 countyou.de
 countz.com
 cpaevent.ru
-c.paypal.com
 cpcmanager.com
 c.perlentaucher.de
 cphalk.com
@@ -1662,6 +1669,7 @@ cts-secure.channelintelligence.com
 cts.vresp.com
 ct.thegear-box.com
 cttracking02.com
+cubchannel.com
 cuntador.com
 curalate.com
 curate.nestedmedia.com
@@ -1752,7 +1760,6 @@ d38nbbai6u794i.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
 d3alqb8vzo7fun.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
-d3eokk6ya562p5.cloudfront.net
 d3ezl4ajpp2zy8.cloudfront.net
 d3h1v5cflrhzi4.cloudfront.net
 d3hr5gm0wlxm5h.cloudfront.net
@@ -2218,6 +2225,7 @@ events.realgravity.com
 events.reddit.com
 events.redditmedia.com
 events.secureserver.net
+events.sk.ht
 events.snacktv.de
 events.turbosquid.com
 events.whisk.com
@@ -2913,6 +2921,7 @@ inquiries.redhat.com
 inquisitiveinvention.com
 inrd.ru
 insdrbot.com
+insideall.com
 inside-graph.com
 insightera.com
 insight.fonecta.fi
@@ -3138,6 +3147,7 @@ ksyrium0014.com
 ktxtr.com
 kupona.de
 l2.io
+l2.visiblemeasures.com
 l33tsite.info
 l.5min.com
 laas.americanexpress.com
@@ -3711,6 +3721,7 @@ mts.mansion.com
 mts-ws.rueducommerce.fr
 mucocutaneousmyrmecophaga.com
 multicounter.de
+mundanepollution.com
 munero.me
 murdoog.com
 musiccounter.ru
@@ -3860,7 +3871,6 @@ nicewii.com
 niematego.tk
 niftymaps.com
 nik.io
-nile.works
 nil.naver.com
 nimiqchain.info
 nimiq.com
@@ -3918,6 +3928,7 @@ odesaconflate.com
 odin.mic.com
 odoscope.cloud
 odoscope.com
+od.visiblemeasures.com
 oei1.gq
 oevery.com
 oewabox.at
@@ -4092,6 +4103,7 @@ p.dsero.net
 peakcounter.dk
 pearno.com
 pebed.dm.gg
+pedropanther.com
 peep1alea.com
 peerius.com
 peermapcontent.affino.com
@@ -4624,6 +4636,8 @@ riastats.com
 rich-agent.s3.amazonaws.com
 richard-group.com
 richmetrics.com
+richstring.com
+rightmoveanalytics.co.uk
 rightstats.com
 rineventrec.com
 rintindown.com
@@ -4671,6 +4685,7 @@ rrimpl.com
 rs0.co.uk
 rs6.net
 r.sax.sina.com.cn
+rs.mail.ru
 rs.sinajs.cn
 rss.tmgrup.com.tr
 rstg.io
@@ -4920,6 +4935,7 @@ sitetracker.com
 sitetraq.nl
 siteverification.online
 siteverification.site
+sitizy.network
 sixpack.udimg.com
 sjv.io
 sk1n.fr
@@ -5327,6 +5343,7 @@ statsd.zmags.com
 stats.ebay.com
 stats.edicy.com
 stat.segitek.hu
+stats.e-go.gr
 stats.europe.newsweek.com
 statsevent.com
 stats.eyeviewdigital.com
@@ -5543,7 +5560,6 @@ supercounters.com
 superstat.info
 superstats.com
 supert.ag
-support.2giga.link
 supportxmr.com
 surefire.link
 surfcounters.com
@@ -5571,6 +5587,7 @@ sync.adap.tv
 synconnector.com
 sync.rambler.ru
 sync.shinobi.jp
+sync.tv
 synergy-e.com
 synergy-sync.com
 synerise.com
@@ -6229,6 +6246,7 @@ trc.pushnami.com
 tr.discuss.com.hk
 treasuredata.com
 tree-pixel-log.s3.amazonaws.com
+t.regionsjob.com
 trekmedia.net
 tremorhub.com
 trendcounter.com
@@ -6340,6 +6358,7 @@ uapoisk.net
 uarating.com
 ubertags.com
 ubertracking.info
+ubiquitousyard.com
 ubt.berlingskemedia.net
 uciservice.com
 ucounter.ucoz.net
@@ -6385,6 +6404,7 @@ urchin-tracker.bigpoint.net
 urc.taboolasyndication.com
 uriuridfg.com
 urlbrief.com
+urlcheck.hulu.com
 urlself.com
 url-stats.net
 urstats.de
@@ -6459,6 +6479,7 @@ verypopularwebsite.com
 veta.naver.com
 vfd2dyn.vodafone.de
 video-ad-stats.googlesyndication.com
+video.oms.eu
 videoplayer2.xyz
 videos.oms.eu
 videostat.com
@@ -6554,6 +6575,7 @@ vzhjnorkudcxbiy.com
 vzzexalcirfgrf.ru
 w3counter.com
 w88.espn.com
+w88.go.com
 waframedia9.com
 walmeric.com
 wal.wolfram.com
