@@ -1075,6 +1075,7 @@ captora.com
 capture.condenastdigital.com
 capturemedia.network
 capturly.com
+caramel.press
 caringzinc.com
 carl.pubsvs.com
 carrotquest.io
@@ -1406,6 +1407,7 @@ compteur-visite.com
 compteur.websiteout.net
 comradepony.com
 conductrics.com
+config.parsely.com
 confirmational.com
 confirmit.com
 confirm-referer.glrsales.com
@@ -3537,6 +3539,7 @@ metric.inetcore.com
 metric.nwsource.com
 metricool.com
 metrics.apartments.com
+metrics-api.dimensions.ai
 metrics.api.drift.com
 metrics.aviasales.ru
 metrics.aws.sitepoint.com
@@ -3655,6 +3658,7 @@ mno.link
 mobalyzer.net
 mobylog.jp
 mochibot.com
+mockingfish.com
 modernus.is
 mokuz.ru
 mollnia.com
@@ -4719,6 +4723,7 @@ s2.youtube.com
 s.360.cn
 s3s-main.net
 s3-tracking.synthasite.net.s3.amazonaws.com
+s3wfg.com
 s7ven.com
 sa135.macworld.co.uk
 sa.bbc.com
@@ -4809,6 +4814,7 @@ sedotracker.de
 seedtag.com
 seehits.com
 seesaa.jp
+seevolution.com
 seewhy.com
 segment-analytics.com
 segmentify.com
@@ -5354,6 +5360,7 @@ statsforever.com
 stats.fr
 stats.frankfurterneuepresse.de
 stats.free-rein.net
+stats.fs.com
 stats.geegain.com
 stats.gifs.com
 stats.harpercollins.com
