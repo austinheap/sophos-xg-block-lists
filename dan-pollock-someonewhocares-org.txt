@@ -1238,6 +1238,7 @@ ads.bfast.com
 ads.bfm.valueclick.net
 ads.bianca.com
 ads.bidclix.com
+ads.bidstreamserver.com
 ads.bidvertiser.com
 ads.bigcitytools.com
 ads.biggerboat.com
@@ -1717,6 +1718,7 @@ adserv.iafrica.com
 adservice.google.ca
 adservice.google.com
 adservice.google.com.au
+adservice.google.co.za
 adservice.google.nl
 adservices.google.com
 adservices.picadmedia.com
