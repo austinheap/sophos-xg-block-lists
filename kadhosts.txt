@@ -217,6 +217,7 @@ calivita.com
 calzini.org
 captainquizz.de
 carambaba.com
+carolinakurier.com
 casada.pl
 casadasklep.pl
 cashbackworld.com
@@ -1981,6 +1982,7 @@ www.calivita.com
 www.calzini.org
 www.captainquizz.de
 www.carambaba.com
+www.carolinakurier.com
 www.casada.pl
 www.casadasklep.pl
 www.cashbackworld.com
@@ -3531,6 +3533,7 @@ www.your-movies.pl
 www.yourofferpro.com
 www.yourpayment.online
 www.yourperlebleue.com
+www.your-sexydreams.com
 www.yoyo-zdjecia.bo.pl
 www.yummymobile.pl
 www.yuppipuppy.com
@@ -3612,6 +3615,7 @@ your-movies.pl
 yourofferpro.com
 yourpayment.online
 yourperlebleue.com
+your-sexydreams.com
 yoyo-zdjecia.bo.pl
 yummymobile.pl
 yuppipuppy.com
