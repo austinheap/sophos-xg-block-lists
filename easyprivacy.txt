@@ -141,6 +141,7 @@ a-counters.com
 acq.io
 acridtwist.com
 acs86.com
+act.acotedemoi.com
 actionallocator.com
 active24stats.nl
 activeconversion.com
@@ -1277,6 +1278,7 @@ cloudcdn.gdn
 cloudcoins.co
 cloud-exploration.com
 cloudflane.com
+cloudflareinsights.com
 cloudfront-labs.amazonaws.com
 cloud-iq.com
 cloudtracer101.com
@@ -1698,6 +1700,7 @@ d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
+d16xpr36wrmcmk.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
@@ -2026,6 +2029,8 @@ ea.jeuxvideopc.com
 ea.lexpress.fr
 ea.monsieurmanuel.com
 eanalyzer.de
+early-birds.fr
+early-birds.io
 earnitup.com
 ea.rueducommerce.fr
 easycounter.com
@@ -2656,6 +2661,7 @@ gustaver.ddns.net
 g.vev.io
 gvisit.com
 gweini.com
+gxgydnhz.com
 gx.idg.se
 g.yccdn.com
 h4k5.com
@@ -4691,6 +4697,7 @@ rs6.net
 r.sax.sina.com.cn
 rs.mail.ru
 rs.sinajs.cn
+rs.smc.tf
 rss.tmgrup.com.tr
 rstg.io
 rsvpgenius.com
@@ -5612,6 +5619,7 @@ t.a3cloud.net
 tag4arm.com
 tag-abe.cartrawler.com
 tag.aumago.com
+tag.boulanger.fr
 tag.brandcdn.com
 tagcdn.com
 tag.email-attitude.com
