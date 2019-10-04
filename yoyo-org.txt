@@ -203,6 +203,7 @@ adjustnetwork.com
 adk2ads.tictacti.com
 adk2.co
 adk2.com
+ad.keenspace.com
 adland.ru
 ad.leadbolt.net
 adledge.com
@@ -398,7 +399,6 @@ ads.contactmusic.com
 ads.contentabc.com
 ads.contextweb.com
 ad-score.com
-adscpm.com
 ads.crakmedia.com
 ads.creativematch.com
 ads.creative-serving.com
@@ -851,7 +851,6 @@ affiliates.allposters.com
 affiliates.babylon.com
 affiliates.digitalriver.com
 affiliates.globat.com
-affiliates.internationaljock.com
 affiliates.rozetka.com.ua
 affiliates.streamray.com
 affiliates.thinkhost.net
@@ -871,6 +870,7 @@ afftracking.justanswer.com
 afterview.ru
 agkn.com
 agreeablestew.com
+agreemand.com
 ahalogy.com
 aheadday.com
 ah-ha.com
@@ -1118,6 +1118,7 @@ blushingbeast.com
 blushingboundary.com
 bm.annonce.cz
 bn.bfast.com
+boersego-ads.de
 boilingbeetle.com
 boilingumbrella.com
 boomads.com
@@ -1192,6 +1193,7 @@ ceskydomov.alias.ngs.modry.cz
 cetrk.com
 cgicounter.puretec.de
 chairscrack.com
+chameleon.ad
 channel1vids.com
 channelintelligence.com
 chardwardse.club
@@ -1205,6 +1207,7 @@ chewcoat.com
 chickensstation.com
 chinsnakes.com
 chitika.net
+christingel.com
 cityads.telus.net
 cjbmanagement.com
 cj.com
@@ -1562,6 +1565,7 @@ findepended.com
 findyourcasino.com
 firstlightera.com
 first.nova.cz
+fixel.ai
 flakyfeast.com
 flashtalking.com
 flavordecision.com
@@ -1571,6 +1575,7 @@ flimsycircle.com
 floodprincipal.com
 flowgo.com
 flurry.com
+foamybox.com
 foo.cosmocode.de
 foresee.com
 forex-affiliate.net
@@ -1586,6 +1591,7 @@ freeonlineusers.com
 freepay.com
 freeskreen.com
 freestats.com
+freestats.tv
 freewebcounter.com
 freshmarketer.com
 frightenedpotato.com
@@ -1740,7 +1746,6 @@ immensehoney.com
 imonitor.nethost.cz
 importedincrease.com
 impossibleexpansion.com
-imprese.cz
 impressionmedia.cz
 impressionz.co.uk
 impulsehands.com
@@ -1970,7 +1975,6 @@ mediascale.de
 mediaserver.bwinpartypartners.it
 media-servers.net
 mediatext.com
-mediatrking.com
 mediavine.com
 mediavoice.com
 mediax.angloinfo.com
@@ -2274,7 +2278,6 @@ premium-offers.com
 presetrabbits.com
 previousplayground.com
 previouspotato.com
-primaryads.com
 primetime.net
 privatecash.com
 prmtracking.com
@@ -3027,6 +3030,7 @@ zenzuu.com
 zeusclicks.com
 zeus.developershed.com
 zlp6s.pw
+zm232.com
 zmedia.com
 zpu.samsungelectronics.com
 zqtk.net
