@@ -112,6 +112,7 @@ abmr.net
 absolstats.co.za
 absorbingband.com
 abs.proxistore.com
+absurdapple.com
 abtrcking.com
 abtshield.com
 a-cast.jp
@@ -997,6 +998,7 @@ bright.bncnt.com
 brightedge.com
 brightfunnel.com
 brilig.com
+broadcastbed.com
 broaddoor.com
 brominer.com
 bronto.com
@@ -2308,6 +2310,7 @@ faststart.ru
 fast-thinking.co.uk
 fastwebcounter.com
 fathomseo.com
+faultycanvas.com
 fbgpnk.com
 fbpixel.network.exchange
 fb_servpub-a.akamaihd.net
@@ -3160,6 +3163,7 @@ l.5min.com
 laas.americanexpress.com
 ladsp.com
 laferia.cr
+lamplow.com
 lanchaeanly.pro
 landingpg.com
 lansrv030.com
@@ -3344,6 +3348,7 @@ log.outbrain.com
 log.outbrainimg.com
 log.pinterest.com
 log.prezi.com
+log.quora.com
 log.r7.com
 log.ren.tv
 logrocket.com
@@ -5015,6 +5020,7 @@ s-onetag.com
 soodatmish.com
 sophi.io
 sophus3.com
+sortsummer.com
 soska.us
 sourcecode.pro
 sourcepoint.vice.com
@@ -6158,6 +6164,7 @@ track.rtb-media.ru
 tracks.arubamediamarketing.it
 track.sauce.ly
 track.searchignite.com
+track.searchiq.co
 track.securedvisit.com
 track-server-100.com
 trackset.com
@@ -6388,6 +6395,7 @@ ukw.jp
 ultrastats.it
 ultratokensx.com
 umbel.com
+unarmedindustry.com
 unicaondemand.com
 uniconsent.com
 unid.go.com
