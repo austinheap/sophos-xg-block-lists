@@ -303,6 +303,7 @@ affiliatly.com
 affilizr.com
 affinesystems.com
 affinitymatrix.com
+affirm.com
 affistats.com
 afflow.18-plus.net
 affl.sucuri.net
@@ -5917,7 +5918,6 @@ trackedweb.net
 track.engagesciences.com
 tracker2.apollo-mail.net
 tracker.advisable.pl
-tracker.affirm.com
 tracker.anandtech.com
 tracker-api.my.com
 trackerapi.truste.com
@@ -6195,6 +6195,7 @@ track.untd.com
 track.veedio.it
 trackvoluum.com
 track.vscash.com
+track.wayin.com
 track.webgains.com
 track-web.net
 track.websiteceo.com
