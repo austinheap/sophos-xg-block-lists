@@ -158,6 +158,7 @@ actnx.com
 acuityplatform.com
 acxiomapac.com
 acxiom-online.com
+ad4m.at
 ad5track.com
 ad7.bigmir.net
 ad7.com
@@ -2008,7 +2009,6 @@ dummy-domain-do-not-change.com
 dup.baidustatic.com
 durocount.com
 duu8lzqdm8tsz.cloudfront.net
-dv0.info
 dw.cbsi.com.cn
 dw.cnet.com
 dw-eu.com.com
@@ -5086,7 +5086,6 @@ sp.greenbaypressgazette.com
 sp.greenvilleonline.com
 sp.guampdn.com
 sp.hattiesburgamerican.com
-sphereup.com
 sp.htrnews.com
 spider-mich.com
 spiffymachine.com
