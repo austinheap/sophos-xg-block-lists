@@ -3544,7 +3544,6 @@ metalyzer.com
 meteor.com
 meteorsolutions.com
 metering.pagesuite.com
-meter-svc.nytimes.com
 metric-agent.i10c.net
 metric.inetcore.com
 metric.nwsource.com
@@ -5706,6 +5705,7 @@ tedioustooth.com
 ted.metro.co.uk
 t.eharmony.com
 telemetry.jivosite.com
+telemetry.qa.webex.com
 telemetry.reembed.com
 telemetry.soundcloud.com
 telemetrytaxonomy.net
