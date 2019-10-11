@@ -208,6 +208,7 @@ adland.ru
 ad.leadbolt.net
 adledge.com
 adlegend.com
+adlightning.com
 ad.liveinternet.ru
 adlog.com.com
 adloox.com
@@ -399,6 +400,7 @@ ads.contactmusic.com
 ads.contentabc.com
 ads.contextweb.com
 ad-score.com
+adscpm.com
 ads.crakmedia.com
 ads.creativematch.com
 ads.creative-serving.com
@@ -1277,6 +1279,7 @@ comfortablecheese.com
 commindo-media-ressourcen.de
 commissionmonster.com
 commonswing.com
+com-optimize-mac.live
 compactbanner.com
 completecabbage.com
 complextoad.com
@@ -1473,7 +1476,6 @@ elderlytown.com
 elephantqueue.com
 elitedollars.com
 elitetoplist.com
-elthamely.com
 emarketer.com
 emebo.com
 emebo.io
@@ -1955,7 +1957,6 @@ maximumcash.com
 maxonclick.com
 mbs.megaroticlive.com
 mbuyu.nl
-mdotm.com
 measuremap.com
 media01.eu
 media6degrees.com
