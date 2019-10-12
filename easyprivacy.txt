@@ -675,7 +675,6 @@ aster18cdn.nl
 aster18prx.nl
 astro-way.com
 asumi.shinobi.jp
-async-px.dynamicyield.com
 as.yomonda.de
 atanx.alicdn.com
 atatus.com
@@ -1037,6 +1036,7 @@ byebye.ml
 bytedance.com
 bytemgdd.com
 bzclk.baidu.com
+c0011.boursorama.com
 c0i8h8ac7e.bid
 c1exchange.com
 c2s-openrtb.liverail.com
@@ -1420,7 +1420,6 @@ confirm-referer.glrsales.com
 connatix.com
 consciouscabbage.com
 consciouschairs.com
-contactatonce.com
 contactmonkey.com
 contadordevisitas.es
 contadores.bolsamania.com
@@ -2019,6 +2018,7 @@ dwtracking.sdo.com
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
+dynamicyield.com
 dynatrace.com
 dynatracesaas.com
 dyntrk.com
@@ -3018,7 +3018,6 @@ iproanalytics.com
 ipro.com
 iprotrk.com
 ipstat.com
-ipstatp.com
 iptrack.biz
 ipv6monitoring.eu
 iqdata.ai
@@ -3494,6 +3493,7 @@ m-brain.fi
 mb-srv.com
 mbsy.co
 mbww.com
+mcdp-sadc1.outbrain.com
 mcloudglobal.com
 mcs.delvenetworks.com
 mc.webvisor.com
@@ -4248,6 +4248,7 @@ pixel.tuko.co.ke
 pixel.usrsync.com
 pixel.vmm-satellite2.com
 pixel.watch
+pixel.widgetly.com
 pixel.wp.com
 pixel.wp.pl
 pixel.xmladfeed.com
@@ -4437,7 +4438,6 @@ pwa.telephoneannuaire.fr
 pw.gigazine.net
 px.247inc.net
 pxc.otto.de
-px.dynamicyield.com
 px.excitedigitalmedia.com
 pxf.io
 pxi.pub
@@ -5188,6 +5188,7 @@ squidanalytics.com
 srcip.com
 s.renren.com
 srpx.net
+srtb.msn.com
 srt.pch.com
 srv1010elan.com
 srvtrck.com
@@ -5205,6 +5206,7 @@ stan.xing.com
 star-cntr-5.com
 st.arte.tv
 startstat.ru
+stas.outbrain.com
 stat08.com
 stat.1688.com
 stat-22.medialand.ru
@@ -5532,7 +5534,6 @@ st.cdnco.us
 stcllctrs.com
 stcollection.moneysupermarket.com
 stcounter.com
-st.dynamicyield.com
 steadfastsystem.com
 stealth.nl
 steelhousemedia.com
@@ -6186,7 +6187,6 @@ track.td3x.com
 track.tesiteca.it
 track.thesaurus.com
 track.tiara.daum.net
-track.totalav.com
 tracktrk.net
 track.uc.cn
 track.ugamezone.com
@@ -6324,7 +6324,6 @@ truehits.net
 truemine.org
 trugaze.io
 truoptik.com
-trustedform.com
 truthfulturn.com
 tru.webelapp.com
 tr.webantenna.info
