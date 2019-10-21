@@ -4,7 +4,6 @@
 24hoursready.cf
 3000-od-reki.pl
 4332.ws
-4kmj.com
 4kplayer.pl
 4ksport.pl
 4kstream.pl
@@ -58,6 +57,7 @@ adworkmedia.com
 aerosneakers.pl
 africanmango900.pl
 africanmango.pl
+ag-agency.pl
 agataszupke.pl
 agdeer.com
 agdkom.net
@@ -159,6 +159,7 @@ astrocash.org
 atchec.com
 atcofiles.com
 atlanticgam.online
+atlanticgdynia.pl
 atnimanvilla.com
 audio-book.net.pl
 audmax.pl
@@ -233,6 +234,7 @@ bonnisi.com
 boobi.biz
 bookbugg.com
 bootstraplugin.com
+boriouseruwer.info
 boryskowalski.pl
 botifiles.com
 bramka-sms-za-darmo.pl
@@ -272,6 +274,7 @@ cavotel.com
 cbdnewsdirect.com
 cbldc.io
 cclive.istage.cloud
+cda24.net
 cda-bez-limitu.pl
 cda-filmy.com.pl
 cda-flix.pl
@@ -311,6 +314,7 @@ ciepleklimaty.pl
 cigape.net
 cinema-online.pl
 cinemateka.pl
+cinematicfanatic.com
 circultural.com
 cityvida.com
 classicleather.pl
@@ -327,6 +331,7 @@ colorcredit.pl
 colorking.es
 colormessa.info
 colors-app.blogspot.com
+columbiapolskasklep.pl
 colwayinternational.com
 colway-international.com.pl
 colway-kolagen.com
@@ -415,6 +420,7 @@ dirproperties.com
 dirtyhood.pl
 discsplay.com
 ditds.xyz
+djarumgol.com
 dketrade.top
 dlagier.com
 dlf.pl
@@ -446,10 +452,12 @@ download-24.tk
 download.apps.co.pl
 downloadfile.eu
 downloadfiles.pl
+download.inboxace.com
 downloads-mobile.com
 download.televisionfanatic.com
 downloadtuesday.com
 downloaduj.pl
+download.weatherblink.com
 dragonflym.com
 dragonist.pl
 drapart.org
@@ -647,6 +655,7 @@ filmobox.pl
 filmonline.info.pl
 filmoo-maniacy.blogspot.com
 filmoteka.tv
+filmovnia.pl
 filmowo24.pl
 filmowo.com.pl
 filmplay.pl
@@ -680,6 +689,7 @@ flashplayerload.com
 flavonmax.com
 fliteilex.com
 flixsport.co
+florentynakurier.com
 flyszop.pl
 fmg.pl
 followergods.com
@@ -700,6 +710,7 @@ fotoografie-pobierz.eu
 fotowalkowska.pl
 foxnib.com
 foxrpas.com
+franciszkakurier.com
 free.apps.co.pl
 freefollower.eu
 free-gg.com
@@ -855,6 +866,7 @@ homeekspert.net
 homeexpres.net
 homejailbreak.com
 homgar.pl
+homoseksualizm.edu.pl
 horafoo.xyz
 host1.5v.pl
 hostedfiles.net
@@ -917,6 +929,7 @@ irismal.com
 islandmob.com
 i-store365.com
 itemagic.net
+itorrenty.org
 itsweeps3.space
 iv24.pl
 jacketspolska.cn
@@ -1339,6 +1352,7 @@ oswieconykochanek.pl
 oszukacruletke.blogspot.com
 oszukacruletke.like.pl
 oszukacruletke.pl
+otomoto.group
 otomoto-pl.eu
 outletowo.com
 ovb.pl
@@ -1562,6 +1576,9 @@ push-notification.tools
 px1alsry.com
 pyracity.info
 pz21.pl
+pzu-doplaty.pl
+pzu-sa.eu
+pzu.services
 qpodgladacz.glt.pl
 qubble.com
 questraworld.es
@@ -1571,6 +1588,7 @@ quiz-fun.com.my
 quizzstar.com
 qwer3.pl
 racerstore.pl
+radiorage.com
 rainbow.pl
 ralphlaurenskleponline.pl
 ralplauran.com
@@ -1618,6 +1636,7 @@ robotechcity.com
 rogene.tk
 rosalieeve.pl
 rossmannbonyzakupowe.grvdc.eu
+rossm.gift-cards.co.pl
 roulettenumber.com
 rowerowyrajd.pl
 rtvagdpro.net
@@ -1831,6 +1850,7 @@ teatac4bath.com
 teccenter.xyz
 techiwant.com
 technowebs.xyz
+tedsaliesdirekt.info
 teenzforfun.com
 teespoon.co
 teleaudio.pl
@@ -1876,6 +1896,7 @@ tommyhalfigero.top
 top-oferty.net
 topseans.pl
 toptarotist.nl
+torrento.pl
 torrenty--org.pl
 totucafe.pl
 tpc.hu
@@ -1935,7 +1956,6 @@ updatestar.com
 upshare.org
 uroffer.link
 urwijnagrody.pl
-usa.cc
 usa.dauid-iep.com
 usa.odysseus-nua.com
 ustaw--tlo-fb.blogspot.com
@@ -1946,6 +1966,7 @@ uzupelniajdane.ga
 uzupelniajdane.gq
 uzupelniaj-dane.ml
 v7pjo.voluumtrk.com
+vaccgenocide.blogspot.com
 vaccgenocide.wordpress.com
 valuesmatter.com.au
 vansallegro.pl
@@ -1995,12 +2016,12 @@ wanbuy.net
 wap.mobiltek.pl
 wapster.malutki.pl
 wapster.pl
+wardon.pl
 wartomiec.pl
 wdrodzenaratunek.pl
 weartexhibitions.com
 web.cellfun.mobi
 web-online.pl
-websuit.pl
 web.yuppipuppy.com
 wellstar-company.com
 wellu.eu
@@ -2029,6 +2050,7 @@ wisdementive.info
 wisebanc.com
 witnatura.pl
 wlatech.pl
+wolyncalyfilm.wordpress.com
 wolysport.pl
 womenempowermentpakistan.com
 wooptrk.com
@@ -2051,7 +2073,6 @@ www.20pascals.nl
 www.24hoursready.cf
 www.3000-od-reki.pl
 www.4332.ws
-www.4kmj.com
 www.4kplayer.pl
 www.4ksport.pl
 www.4kstream.pl
@@ -2105,6 +2126,7 @@ www.adworkmedia.com
 www.aerosneakers.pl
 www.africanmango900.pl
 www.africanmango.pl
+www.ag-agency.pl
 www.agataszupke.pl
 www.agdeer.com
 www.agdkom.net
@@ -2207,6 +2229,7 @@ www.astrocash.org
 www.atchec.com
 www.atcofiles.com
 www.atlanticgam.online
+www.atlanticgdynia.pl
 www.atnimanvilla.com
 www.audio-book.net.pl
 www.audmax.pl
@@ -2281,6 +2304,7 @@ www.bonnisi.com
 www.boobi.biz
 www.bookbugg.com
 www.bootstraplugin.com
+www.boriouseruwer.info
 www.boryskowalski.pl
 www.botifiles.com
 www.bramka-sms-za-darmo.pl
@@ -2320,6 +2344,7 @@ www.cavotel.com
 www.cbdnewsdirect.com
 www.cbldc.io
 www.cclive.istage.cloud
+www.cda24.net
 www.cda-bez-limitu.pl
 www.cda-filmy.com.pl
 www.cda-flix.pl
@@ -2360,6 +2385,7 @@ www.ciepleklimaty.pl
 www.cigape.net
 www.cinema-online.pl
 www.cinemateka.pl
+www.cinematicfanatic.com
 www.circultural.com
 www.cityvida.com
 www.classicleather.pl
@@ -2376,6 +2402,7 @@ www.colorcredit.pl
 www.colorking.es
 www.colormessa.info
 www.colors-app.blogspot.com
+www.columbiapolskasklep.pl
 www.colwayinternational.com
 www.colway-international.com.pl
 www.colway-kolagen.com
@@ -2464,6 +2491,7 @@ www.dirproperties.com
 www.dirtyhood.pl
 www.discsplay.com
 www.ditds.xyz
+www.djarumgol.com
 www.dketrade.top
 www.dlagier.com
 www.dlf.pl
@@ -2496,11 +2524,13 @@ www.download-24.tk
 www.download.apps.co.pl
 www.downloadfile.eu
 www.downloadfiles.pl
+www.download.inboxace.com
 www.downloads-mobile.com
 www.download.televisionfanatic.com
 www.downloadtuesday.com
 www.downloaduj.pl
 www.download.w65.pl
+www.download.weatherblink.com
 www.dragonflym.com
 www.dragonist.pl
 www.drapart.org
@@ -2698,6 +2728,7 @@ www.filmobox.pl
 www.filmonline.info.pl
 www.filmoo-maniacy.blogspot.com
 www.filmoteka.tv
+www.filmovnia.pl
 www.filmowo24.pl
 www.filmowo.com.pl
 www.filmplay.pl
@@ -2731,6 +2762,7 @@ www.flashplayerload.com
 www.flavonmax.com
 www.fliteilex.com
 www.flixsport.co
+www.florentynakurier.com
 www.flyszop.pl
 www.fmg.pl
 www.followergods.com
@@ -2751,6 +2783,7 @@ www.fotoografie-pobierz.eu
 www.fotowalkowska.pl
 www.foxnib.com
 www.foxrpas.com
+www.franciszkakurier.com
 www.free.apps.co.pl
 www.freefollower.eu
 www.free-gg.com
@@ -2906,6 +2939,7 @@ www.homeekspert.net
 www.homeexpres.net
 www.homejailbreak.com
 www.homgar.pl
+www.homoseksualizm.edu.pl
 www.horafoo.xyz
 www.host1.5v.pl
 www.hostedfiles.net
@@ -2968,6 +3002,7 @@ www.irismal.com
 www.islandmob.com
 www.i-store365.com
 www.itemagic.net
+www.itorrenty.org
 www.itsweeps3.space
 www.iv24.pl
 www.jacketspolska.cn
@@ -3391,6 +3426,7 @@ www.oswieconykochanek.pl
 www.oszukacruletke.blogspot.com
 www.oszukacruletke.like.pl
 www.oszukacruletke.pl
+www.otomoto.group
 www.otomoto-pl.eu
 www.outletowo.com
 www.ovb.pl
@@ -3584,6 +3620,9 @@ www.push-notification.tools
 www.px1alsry.com
 www.pyracity.info
 www.pz21.pl
+www.pzu-doplaty.pl
+www.pzu-sa.eu
+www.pzu.services
 www.qpodgladacz.glt.pl
 www.qubble.com
 www.questraworld.es
@@ -3593,6 +3632,7 @@ www.quiz-fun.com.my
 www.quizzstar.com
 www.qwer3.pl
 www.racerstore.pl
+www.radiorage.com
 www.rainbow.pl
 www.ralphlaurenskleponline.pl
 www.ralplauran.com
@@ -3640,6 +3680,7 @@ www.robotechcity.com
 www.rogene.tk
 www.rosalieeve.pl
 www.rossmannbonyzakupowe.grvdc.eu
+www.rossm.gift-cards.co.pl
 www.roulettenumber.com
 www.rowerowyrajd.pl
 www.rtvagdpro.net
@@ -3854,6 +3895,7 @@ www.teatac4bath.com
 www.teccenter.xyz
 www.techiwant.com
 www.technowebs.xyz
+www.tedsaliesdirekt.info
 www.teenzforfun.com
 www.teespoon.co
 www.teleaudio.pl
@@ -3899,6 +3941,7 @@ www.tommyhalfigero.top
 www.top-oferty.net
 www.topseans.pl
 www.toptarotist.nl
+www.torrento.pl
 www.torrenty--org.pl
 www.totucafe.pl
 www.tpc.hu
@@ -3958,7 +4001,6 @@ www.updatestar.com
 www.upshare.org
 www.uroffer.link
 www.urwijnagrody.pl
-www.usa.cc
 www.usa.dauid-iep.com
 www.usa.odysseus-nua.com
 www.ustaw--tlo-fb.blogspot.com
@@ -3969,6 +4011,7 @@ www.uzupelniajdane.ga
 www.uzupelniajdane.gq
 www.uzupelniaj-dane.ml
 www.v7pjo.voluumtrk.com
+www.vaccgenocide.blogspot.com
 www.vaccgenocide.wordpress.com
 www.valuesmatter.com.au
 www.vansallegro.pl
@@ -4018,12 +4061,12 @@ www.wanbuy.net
 www.wap.mobiltek.pl
 www.wapster.malutki.pl
 www.wapster.pl
+www.wardon.pl
 www.wartomiec.pl
 www.wdrodzenaratunek.pl
 www.weartexhibitions.com
 www.web.cellfun.mobi
 www.web-online.pl
-www.websuit.pl
 www.web.yuppipuppy.com
 www.wellstar-company.com
 www.wellu.eu
@@ -4052,6 +4095,7 @@ www.wisdementive.info
 www.wisebanc.com
 www.witnatura.pl
 www.wlatech.pl
+www.wolyncalyfilm.wordpress.com
 www.wolysport.pl
 www.womenempowermentpakistan.com
 www.wooptrk.com
@@ -4113,6 +4157,7 @@ www.zajonc.de
 www.zakupeo.com
 www.zakupyagd.net
 www.zakupymax.net
+www.zalukaj24.com
 www.zalukaj24.pl
 www.zalukaj.cc
 www.zalukaj-cda.pl
@@ -4121,7 +4166,6 @@ www.zalukaj-online.pl
 www.zalukaj.ws
 www.zamiana-koloru.blogspot.com
 www.zamowienia-priorytetowe.pl
-www.zapraszamybowarto.pl
 www.zaprojektujiwybuduj.pl
 www.zarabativaisazartom.net
 www.zarabiajwsieci.5v.pl
@@ -4144,7 +4188,6 @@ www.zgarnijplik.pl
 www.zhaoyouxiu.com
 www.zhouliang.info
 www.zielonadrewutnia.pl
-www.zieloneswiatki.pl
 www.zinzino.com
 www.zmienienie-koloru.blogspot.com
 www.zmienkolorfejsazafree.blogspot.com
@@ -4207,6 +4250,7 @@ zajonc.de
 zakupeo.com
 zakupyagd.net
 zakupymax.net
+zalukaj24.com
 zalukaj24.pl
 zalukaj.cc
 zalukaj-cda.pl
@@ -4215,7 +4259,6 @@ zalukaj-online.pl
 zalukaj.ws
 zamiana-koloru.blogspot.com
 zamowienia-priorytetowe.pl
-zapraszamybowarto.pl
 zaprojektujiwybuduj.pl
 zarabativaisazartom.net
 zarabiajwsieci.5v.pl
@@ -4238,7 +4281,6 @@ zgarnijplik.pl
 zhaoyouxiu.com
 zhouliang.info
 zielonadrewutnia.pl
-zieloneswiatki.pl
 zinzino.com
 zmienienie-koloru.blogspot.com
 zmienkolorfejsazafree.blogspot.com

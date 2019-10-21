@@ -296,6 +296,7 @@ adrotic.girlonthenet.com
 adrta.com
 ads10.speedbit.com
 ads180.com
+ads1-adnow.com
 ads1.canoe.ca
 ads1.mediacapital.pt
 ads1.msn.com
@@ -440,6 +441,7 @@ adserver01.de
 adserver1.backbeatmedia.com
 adserver1-images.backbeatmedia.com
 adserver1.mindshare.de
+adserver1.ogilvy-interactive.de
 adserver2.mindshare.de
 adserver.71i.de
 adserver.adultfriendfinder.com
@@ -451,6 +453,7 @@ adserver.bizhat.com
 adserver.break-even.it
 adserver.cams.com
 adserver.com
+adserver.dca13.com
 adserver.digitoday.com
 adserver.freecity.de
 adserver.friendfinder.com
@@ -594,6 +597,7 @@ ads.mediaodyssey.com
 ads.medienhaus.de
 ads.mgnetwork.com
 ads.miarroba.com
+ads.mic.com
 ads.mmania.com
 ads.mobilautomaten.com
 ads.mobilebet.com
@@ -890,6 +894,7 @@ alipromo.com
 all4spy.com
 allosponsor.com
 alphonso.tv
+als-svc.nytimes.com
 amazingcounters.com
 amazon-adsystem.com
 ambiguousquilt.com
@@ -950,6 +955,7 @@ assets1.exgfnetwork.com
 assoc-amazon.com
 as.webmd.com
 aswpapius.com
+aswpsdkus.com
 at-adserver.alltop.com
 atdmt.com
 athena-ads.wikia.com
@@ -1344,7 +1350,6 @@ crawlclocks.com
 crazyegg.com
 crazypopups.com
 creafi-online-media.com
-creatives.as4x.tmcs.net
 creatives.livejasmin.com
 credishe.com
 creep.world
@@ -1417,6 +1422,7 @@ displayadsmedia.com
 disqusads.com
 dist.belnk.com
 distillery.wistia.com
+districtm.ca
 dk4ywix.com
 dmp.mall.tv
 dmtracker.com
@@ -1506,6 +1512,7 @@ errortablet.com
 estat.com
 etahub.com
 etargetnet.com
+et.nytimes.com
 etracker.de
 eu1.madsone.com
 eu-adcenter.net
@@ -1749,6 +1756,7 @@ immensehoney.com
 imonitor.nethost.cz
 importedincrease.com
 impossibleexpansion.com
+imprese.cz
 impressionmedia.cz
 impressionz.co.uk
 impulsehands.com
@@ -1816,6 +1824,7 @@ jinkads.de
 joetec.net
 jquery-bin.com
 jsecoin.com
+jsrdn.com
 js.users.51.la
 juicyads.com
 jumptap.com
@@ -2028,6 +2037,7 @@ moat.com
 moatpixel.com
 mobclix.com
 mobileiconnect.com
+modernpricing.com
 modifyeyes.com
 moggattice.com
 moldyicicle.com
@@ -2233,6 +2243,7 @@ phoenix-adrunner.mycomputer.com
 photographpan.com
 phpadsnew.new.natuurpark.nl
 phpmyvisites.net
+piano.io
 picadmedia.com
 piet2eix3l.com
 pietexture.com
@@ -2329,6 +2340,7 @@ px.ads.linkedin.com
 px.dynamicyield.com
 px.gfycat.com
 pxl.iqm.com
+pymx5.com
 q.azcentral.com
 qctop.com
 qnsr.com
@@ -2420,6 +2432,7 @@ revenuehits.com
 revenue.net
 revsci.net
 revstats.com
+rhombusads.com
 richmails.com
 richmedia.yimg.com
 richstring.com
@@ -2794,6 +2807,7 @@ trackingsoft.com
 track.mailerlite.com
 trackmysales.com
 track.nuxues.com
+track.ultravpn.com
 track.viewdeos.com
 tradeadexchange.com
 tradedoubler.com

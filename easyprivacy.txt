@@ -88,6 +88,7 @@
 9juj88.com
 9nl.eu
 a013.com
+a.20minutes.fr
 a2a.lockerz.com
 a4b-tracking.com
 a8ww.net
@@ -304,7 +305,6 @@ affiliatly.com
 affilizr.com
 affinesystems.com
 affinitymatrix.com
-affirm.com
 affistats.com
 afflow.18-plus.net
 affl.sucuri.net
@@ -607,7 +607,6 @@ andersenit.dk
 andlache.com
 andyetanotherthing.com
 andyhoppe.com
-anexia-it.com
 angelfishstats.com
 angorch-cdr7.com
 angsrvr.com
@@ -1746,7 +1745,6 @@ d2ibu2ug0mt5qp.cloudfront.net
 d2kmrmwhq7wkvs.cloudfront.net
 d2kyy9hvbrzkgn.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
-d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pxb4n3f9klsc.cloudfront.net
@@ -1761,7 +1759,6 @@ d3135glefggiep.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d33im0067v833a.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
-d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
 d38nbbai6u794i.cloudfront.net
@@ -2197,6 +2194,9 @@ eu-survey.com
 evanetpro.com
 evengparme.com
 event-analytics.yesware.com
+event-api.contactatonce.com
+event-api.contactatonce.com.au
+event-api.contactatonce.co.uk
 event.api.drift.com
 eventapi.libring.com
 eventbeacon.ca
@@ -2383,7 +2383,6 @@ forkcdn.com
 formalyzer.com
 formisimo.com
 formulawire.com
-forter.com
 fortvision.com
 foundry42.com
 fourmtagservices.appspot.com
@@ -2542,6 +2541,7 @@ getcounter.de
 getdrip.com
 getetafun.info
 getfreebl.com
+getrewardful.com
 getrockerbox.com
 gets.faz.net
 getsmartlook.com
@@ -2995,7 +2995,6 @@ ip2location.com
 ip2map.com
 ip2phrase.com
 ipaddresslabs.com
-ipapi.co
 ip-api.com
 ip.breitbart.com
 ipcatch.com
@@ -3290,6 +3289,7 @@ log2.adop.cc
 log.51cto.com
 logaholic.com
 log.aimtell.com
+log.aliyuncs.com
 log.artipbox.net
 log.bitauto.com
 log.china.cn
@@ -3567,6 +3567,7 @@ metrics.extremetech.com
 metrics.feedroom.com
 metrics.loomia.com
 metrics.n-tv.de
+metrics.readme.io
 metrics.scribblelive.com
 metrics.seenon.com
 metrics.sonymusicd2c.com
@@ -4483,6 +4484,7 @@ quick-counter.net
 quietknowledge.com
 quillion.com
 quintelligence.com
+quitsnap-blue.com
 qzlog.com
 r24-tech.com
 r7ls.net
@@ -5467,6 +5469,7 @@ stat.stars.ru
 stats.technopia.it
 stats.teledyski.info
 stat.stheadline.com
+stats.tipser.com
 stats.topofblogs.com
 stats.townnews.com
 statstracker.celebrity-gossip.net
@@ -5919,6 +5922,7 @@ trackedweb.net
 track.engagesciences.com
 tracker2.apollo-mail.net
 tracker.advisable.pl
+tracker.affirm.com
 tracker.anandtech.com
 tracker-api.my.com
 trackerapi.truste.com
@@ -6195,6 +6199,7 @@ track.untd.com
 track.veedio.it
 trackvoluum.com
 track.vscash.com
+track.wattpad.com
 track.wayin.com
 track.webgains.com
 track-web.net
@@ -6618,6 +6623,7 @@ wbmwss.beetv.net
 wbtrk.net
 wcfbc.net
 wcs.naver.com
+wdfl.co
 wdm.map24.com
 web1.51.la
 webads.eu
