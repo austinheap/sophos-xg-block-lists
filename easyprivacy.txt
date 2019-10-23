@@ -261,6 +261,7 @@ adways.com
 adwiretracker.fwix.com
 adwstats.com
 adxadtracker.com
+adxcel-ec2.com
 adx.com.ru
 adxvip.com
 adyapper.com
@@ -486,6 +487,7 @@ analyticsip.net
 analytics.iraiser.eu
 analytics.islamicfinder.org
 analytics.jabong.com
+analytics.kaggle.io
 analytics.kaltura.com
 analytics.kapost.com
 analytics.linkwelove.com
@@ -909,6 +911,7 @@ bidswitch.net
 bigcattracks.com
 bigmining.com
 bigmir.net
+bigreal.org
 bigstats.net
 bigtracker.com
 bikepasture.com
@@ -2237,6 +2240,7 @@ events.redditmedia.com
 events.secureserver.net
 events.sk.ht
 events.snacktv.de
+events.tubecup.org
 events.turbosquid.com
 events.whisk.com
 events.yourcx.io
@@ -4262,6 +4266,7 @@ pix.gfycat.com
 pixiedust.buzzfeed.com
 piximedia.com
 pix.impdesk.com
+pixlee.com
 pix.nbcuni.com
 pix.news.at
 pix.speedbit.com
@@ -5170,6 +5175,7 @@ sp.thestarpress.com
 sp.thetimesherald.com
 sp.thetowntalk.com
 sp.timesrecordnews.com
+sp.tinymce.com
 sp.udimg.com
 spurioussteam.com
 sp.usatoday.com
@@ -5359,6 +5365,7 @@ stats-dc1.frz.io
 stats.de
 statsdev.treesd.com
 stats.dice.com
+stats.digg.com
 stats.digital-natives.de
 stats.directnic.com
 stats.dnaindia.com
@@ -6556,6 +6563,7 @@ visitortracklog.com
 visitorville.com
 visitping.rossel.be
 visits.lt
+visitstats.com
 visitstreamer.com
 visit.theglobeandmail.com
 visit.webhosting.yahoo.com

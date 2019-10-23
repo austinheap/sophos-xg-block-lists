@@ -1896,6 +1896,7 @@ affiliate.trk4.com
 aff.indirdik.com
 affinity.go2jump.org
 affinity-xml.t.domdex.com
+afflow.amazonpresent.info
 aff.naughtyconnect.com
 affntwklnk.com
 aff.primaryads.com
@@ -2394,6 +2395,7 @@ b130.takru.com
 b140.takru.com
 b180.takru.com
 b1.perfb.com
+b2u-system-err.icu
 b3a70b.t.axf8.net
 b3d.com
 b3.mookie1.com
@@ -3098,6 +3100,7 @@ cc.chango.com
 cc.connextra.com
 c.cfjump.com
 c.chango.com
+c.channeltraffic.net
 cc.iwon.com
 c.cnstats.ru
 c.cnzz.com
@@ -7329,6 +7332,7 @@ o.detik.com
 odzb5nkp.com
 o.fandango.com
 offers.affiliatetraction.com
+offers.cloackp.com
 offersquest.directtrack.com
 office.ad1.ru
 officer.us.intellitxt.com
@@ -8547,6 +8551,7 @@ saxowesterncommunications.122.2o7.net
 saxp.zedo.com
 sayac.onlinewebstat.com
 sayac.onlinewebstats.com
+s-bid.rmp.rakuten.com
 sb.monetate.net
 sbnationbidder-d.openx.net
 sbsblukgov.112.2o7.net
@@ -8844,6 +8849,7 @@ siliconera.us.intellitxt.com
 silveragesoftware.com
 simg.zedo.com
 simplehitcounter.com
+s-imp.rmp.rakuten.com
 sin1.g.adnxs.com
 sinettrk.com
 siniature.com
@@ -9972,6 +9978,7 @@ track.pubmatic.com
 track.realitykings.com
 track.recreativ.ru
 track.scrillaspace.com
+track.searchiq.co
 track.securedvisit.com
 track.send.microad.jp
 track.seorate.ru
@@ -11309,6 +11316,7 @@ www.omniture.com
 www.on2url.com
 www.onclickpredictiv.com
 www.one-door.com
+www.onesafe-software.com
 www.onestat.com
 www.onestatfree.com
 www.oofun.com
