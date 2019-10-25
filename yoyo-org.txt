@@ -93,7 +93,6 @@ ad.anuntis.com
 adapt.tv
 adap.tv
 ad.auditude.com
-adback.co
 ad-balancer.at
 ad-balancer.net
 adbard.net
@@ -476,7 +475,6 @@ adserverplus.com
 adserver.portugalmail.net
 adserver.portugalmail.pt
 adserver.pressboard.ca
-adserverpub.com
 adserver.sanomawsoy.fi
 adserver.sciflicks.com
 adserver.sharewareonline.com
@@ -607,7 +605,6 @@ ads.motor-forum.nl
 ads.motormedia.nl
 ads.msn.com
 ads.multimania.lycos.fr
-ads.nationalgeographic.com
 adsnative.com
 ads.ncm.com
 ads.ndtv1.com
@@ -1285,7 +1282,6 @@ comfortablecheese.com
 commindo-media-ressourcen.de
 commissionmonster.com
 commonswing.com
-com-optimize-mac.live
 compactbanner.com
 completecabbage.com
 complextoad.com
@@ -1482,6 +1478,7 @@ elderlytown.com
 elephantqueue.com
 elitedollars.com
 elitetoplist.com
+elthamely.com
 emarketer.com
 emebo.com
 emebo.io
@@ -2285,7 +2282,6 @@ postback.iqm.com
 postrelease.com
 praddpro.de
 prchecker.info
-precisioncounter.com
 predictad.com
 premium-offers.com
 presetrabbits.com
@@ -2440,6 +2436,7 @@ richwebmaster.com
 rightstats.com
 ringsrecord.com
 ritzykey.com
+ritzysponge.com
 rlcdn.com
 rle.ru
 r.logrocket.io
