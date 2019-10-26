@@ -1683,6 +1683,7 @@ cubchannel.com
 culturedcrayon.com
 cuntador.com
 curalate.com
+curated.fieldtest.cc
 curate.nestedmedia.com
 customerconversio.com
 customerdiscoverytrack.com
@@ -5201,6 +5202,7 @@ sqate.io
 s.qhupdate.com
 squeakzinc.com
 squidanalytics.com
+squirrelhands.com
 srcip.com
 s.renren.com
 srpx.net
