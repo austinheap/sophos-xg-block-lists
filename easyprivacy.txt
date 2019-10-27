@@ -279,6 +279,7 @@ aeros09.tk
 aeros10.tk
 aeros11.tk
 aeros12.tk
+aevents.izooto.com
 afairweb.com
 affclkr.com
 affilae.com
@@ -2260,6 +2261,7 @@ evisit.exeter.ac.uk
 ev.kck.st
 evnt.iol.it
 evolvemediametrics.com
+evt.izooto.com
 evt.klarna.com
 evyy.net
 ew3.io
@@ -2306,6 +2308,7 @@ familiarfloor.com
 familiarrod.com
 fandommetrics.com
 fanplayr.com
+farmergoldfish.com
 farmer.wego.com
 fastanalytic.com
 fast.appcues.com
@@ -3024,6 +3027,7 @@ ip.pichunter.com
 iproanalytics.com
 ipro.com
 iprotrk.com
+ipstack.com
 ipstat.com
 iptrack.biz
 ipv6monitoring.eu
@@ -3116,6 +3120,7 @@ k-analytix.com
 kantartns.lt
 kavijaseuranta.fi
 kaxsdc.com
+kbn.korben.info
 kctag.net
 kdmkauchahynhrs.ru
 kdowqlpt.info
@@ -3217,6 +3222,7 @@ ledinund.com
 legenhit.com
 legolas-media.com
 lentainform.com
+leokross.com
 leon08.tk
 lepoint-stat.sdv.fr
 leserservice-tracking.de
