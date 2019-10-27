@@ -203,6 +203,7 @@ beyourbest.pl
 bezbiku.pro
 bialoruskieprodukty.pl
 bigbangads.go2cloud.org
+bigdater.me
 bikelovers.blog.br
 billabeda.ga
 binomo.com
@@ -788,7 +789,6 @@ globalintergold.com
 globile.co
 glosowanie.ujm.pl
 go2affise.com
-go2cloud.org
 goadvert.pk
 go.bestmobiworld.com
 go.data1rtb.com
@@ -2275,6 +2275,7 @@ www.beyourbest.pl
 www.bezbiku.pro
 www.bialoruskieprodukty.pl
 www.bigbangads.go2cloud.org
+www.bigdater.me
 www.bikelovers.blog.br
 www.billabeda.ga
 www.binomo.com
@@ -2863,7 +2864,6 @@ www.globalintergold.com
 www.globile.co
 www.glosowanie.ujm.pl
 www.go2affise.com
-www.go2cloud.org
 www.goadvert.pk
 www.go.bestmobiworld.com
 www.go.data1rtb.com
