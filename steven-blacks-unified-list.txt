@@ -681,7 +681,6 @@
 50bots.nullrefexcep.com
 50centstreetkingimmortal.com
 50efa6486f1ef.skydivesolutions.be
-50h6v79p.top
 50hardcore.galleryprogram.com
 50kaweek.live
 50websads.com
@@ -722,7 +721,6 @@
 5forex.ru
 5gb-internetu-pakiety.blogspot.com
 5.hidemyass.com
-5hmmm1mk.top
 5i2.net
 5k-player.com
 5kstore.com
@@ -1124,7 +1122,6 @@ a.blogroll.click
 aboardlevel.com
 abogadodejacksonville.com
 abonne100.free.fr
-aboomnsaoq.top
 a.boom.ro
 abo.prismamediadigital.com
 abourselfi.com
@@ -1175,6 +1172,7 @@ a-cast.jp
 ac.atpanel.com
 a.cbc.ca
 acbp0020171456.page.tl
+acbsearch.com
 acceptable.a-ads.com
 accessful.info
 accessport.jp
@@ -1265,7 +1263,6 @@ actionscript.us.intellitxt.com
 actionsplash.com
 activeby.hit.gemius.pl
 active.cache.el-mundo.net
-activecampaign.dreamhosters.com
 active.hit.stat24.com
 activeideas.net
 activepr.ru
@@ -1727,6 +1724,7 @@ ad-arata.s3.amazonaws.com
 ad.ar.doubleclick.net
 adashx4ae.ut.taobao.com
 adashx.ut.taobao.com
+adasiaholdings.com
 ad.asntown.net
 ad.aspm.jp
 ad.asv.de
@@ -1789,6 +1787,7 @@ ad-brix.com
 adbrn.com
 ad.broadstreetads.com
 adbroker.de
+adbro.me
 adbtc.top
 ad.bubblestat.com
 adbucks.brandreachsys.com
@@ -2523,6 +2522,7 @@ adnet.ru
 ad.net-tool.jp
 adnetwork.5imedia.vn
 ad.network60.com
+adnetwork.adasiaholdings.com
 adnetwork.admicro.vn
 adnetwork.buzzlogic.com
 adnetwork.net
@@ -2605,6 +2605,8 @@ adotube.com
 ad.ourgame.com
 ad.oyy.ru
 adp.112.2o7.net
+adpa.adasiaholdings.com
+adpa-dooh-prod-vpn.adasiaholdings.com
 adp.adview.pl
 ad.pandora.tv
 ad.parom.hu
@@ -2998,6 +3000,7 @@ ads.adagent.chacha.com
 ads.adamoads.com
 ads.adap.tv
 ads.adaptv.advertising.com
+ads.adasiaholdings.com
 ads.adbrite.com
 ads.adbroker.de
 ads.ad-center.com
@@ -4218,6 +4221,7 @@ ads.isum.de
 ad.sitelement.sk
 ad.sitemaji.com
 ads.itmcash.com
+ads.itsgroup.vn
 ads.itv.com
 ads.itzdigital.com
 ads.iwangmedia.com
@@ -5393,6 +5397,7 @@ advertisementafterthought.com
 advertisement.avosapps.us
 advertisementnl.112.2o7.net
 advertiser.ad360.vn
+advertisers.adasiaholdings.com
 advertisers.federatedmedia.net
 advertiserurl.com
 advertisespace.com
@@ -6758,6 +6763,7 @@ api5.batmobil.net
 api.7segments.com
 api.aalbbh84.info
 api.accesstrade.vn
+api.adbro.me
 api.adcalls.nl
 api.addnow.com
 api.addthis.com
@@ -6879,6 +6885,7 @@ api.ranking.rakuten.co.jp
 api.redshell.io
 api.repro.io
 api.rollbar.com
+apis.adbro.me
 api.sagent.io
 api.sdk.zadn.vn
 api.sec.intl.miui.com
@@ -6920,6 +6927,7 @@ api.zhy333.com
 ap.lijit.com
 aplkp.valuecommerce.com
 aplsolutionsonline.com
+apm.adasiaholdings.com
 apnonline.112.2o7.net
 ap-notify.bidagent.xad.com
 ap.oasfile.aftenposten.no
@@ -7340,6 +7348,7 @@ assets3.admulti.com
 assets.adtaily.com
 assets.alphonso.tv
 assets.applovin.com
+assets.bilsyndication.com
 assets.buysellads.com
 assets.cntdy.mobi
 assets.customer.io
@@ -7632,7 +7641,6 @@ ayada.zapto.org
 ayboll.sgsrv.com
 ay.eastmoney.com
 ayehcleaners.com
-ayerbo.xhost.ro
 aymcsx.ru
 aynachatsrv.com
 az27.pl
@@ -7687,7 +7695,6 @@ bablace.com
 b.abnad.net
 babos.scrapping.cc
 babs.tv2.dk
-babsy.foreverhorny.com
 babycentercom.112.2o7.net
 babycenter.tt.omtrdc.net
 baby.dorki.info
@@ -8507,6 +8514,7 @@ bill.agent.v-56.com
 billboard.cz
 bill.ecsuite.com
 billing.speedboink.com
+biltag.bilsyndication.com
 bi.medscape.com
 bimg.abv.bg
 bimonline.insites.be
@@ -8655,8 +8663,11 @@ blog.with2.net
 blos24.pl
 blowfish.hitbox.com
 blox.minexmr.com
+bls.adasiaholdings.com
 blubox.pl
 blueadvertise.com
+blueconic.com
+blueconic.net
 bluecutsystem.com
 bluediamondoffers.com
 bluehparking.com
@@ -9763,7 +9774,9 @@ cdn.accelerator.arsdev.net
 cdn.accesstrade.vn
 cdn.ad1-click.com
 cdn.ad4game.com
+cdn.adasiaholdings.com
 cdn.adbooth.net
+cdn.adbro.me
 cdn.adengage.com
 cdn.adgear.com
 cdn.adigniter.org
@@ -10451,6 +10464,7 @@ citrix.tradedoubler.com
 cityads.com
 cityads.ru
 cityads.telus.net
+cityadstrack.com
 citycash2.blogspot.com
 citymediamagazin.hu
 cityvida.com
@@ -12533,6 +12547,7 @@ desifever.com
 designbloxlive.com
 designtechnica.us.intellitxt.com
 de.sitestat.com
+desk.adasiaholdings.com
 desk.mspaceads.com
 desk.opt.fimserve.com
 desktoprepair.info
@@ -12560,6 +12575,7 @@ dev.apps.co.pl
 devart.adbureau.net
 dev.coinlab.biz
 dev.cryptobara.com
+dev-desk.adasiaholdings.com
 dev.doublepimp.com
 developer.jsecoin.com
 developers.cityads.com
@@ -12755,6 +12771,7 @@ djeps.popunder.ru
 djfhwosjck.bi
 djfhwosjck.bid
 djsrp.com
+djtfkakbufpwot.com
 djugoogs.com
 djwnatural.go2cloud.org
 dk1.siteimprove.com
@@ -14387,7 +14404,6 @@ fam-ad.com
 fam.dsdemo.jp
 familienzahnaerzte.com
 family1st.ca
-familyholiday.ml
 familyhomefinance.com.au
 family-offer.com
 familyupport1.com
@@ -18060,7 +18076,6 @@ investments.com
 investopedia.us.intellitxt.com
 investoradbg.hit.gemius.pl
 investorbg.adocean.pl
-investors.healthysmileclub.com
 invest-pamm.ru
 investreviewier.com
 in-viacom18.videoplaza.tv
@@ -18380,6 +18395,7 @@ jcwhintey.com
 jcwhitey.com
 jcwhitney.112.2o7.net
 jdfabrication.com
+jdoqocy.com
 jdownloadacc.cjt1.net
 jdownloader.fr
 jd.revolvermaps.com
@@ -18910,7 +18926,6 @@ keepaneyeadmk.hit.gemius.pl
 keepaneyemk.adocean.pl
 keepass.com
 keepass.fr
-keepcolletive.com
 keephide.com
 keepongoing.info
 keepvacom.com
@@ -20954,6 +20969,7 @@ media99.fastclick.net
 media9.admicro.vn
 media9.fastclick.net
 media9.popmarker.com
+media.adasiaholdings.com
 media.adcarousel.pl
 media.adcentriconline.com
 media.adfrontiers.com
@@ -22853,6 +22869,7 @@ nh.5.p2l.info
 nhanthuong88.com
 nhatvip.net
 nhl.112.2o7.net
+nhpfvdlbjg.com
 nht-2.extreme-dm.com
 nht-3.extreme-dm.com
 nicappazaza.com
@@ -22993,6 +23010,7 @@ nofreezingmac.space
 nofreezingmac.work
 noiselessplough.com
 nojsstats.appspot.com
+nokia-n8.com
 nol.yahoo.com
 nomadztruck.com
 nondescriptcrowd.com
@@ -23071,6 +23089,7 @@ n.pcads.ru
 npcdn1.now.sh
 npdaqy6x1j.me
 np.lexity.com
+npttech.com
 nqm.blackcurranthumidifiers.site
 nrads.1host.co.il
 nr-data.net
@@ -24543,6 +24562,7 @@ p.chango.com
 pchealthcheckup.net
 pc-infopratique.fr.intellitxt.com
 pcinpact.fr.intellitxt.com
+p.cityadstrack.com
 pcmag.us.intellitxt.com
 pcmatic.com
 pcmax.jp
@@ -24918,6 +24938,7 @@ pixel1739.everesttech.net
 pixel.33across.com
 pixel-a.basis.net
 pixel.adadvisor.net
+pixel.adasiaholdings.com
 pixel.adblade.com
 pixel.adcrowd.com
 pixel.admedia.com
@@ -25415,6 +25436,7 @@ porntrack.com
 porntraff.com
 porn-tubes.net
 portablevaporizer.com
+portal.adbro.me
 portalfiremasters.com.br
 port.bg
 portraitphotographygroup.com
@@ -25745,6 +25767,7 @@ proparm.jp
 propdfconverter.com
 propecia.1.p2l.info
 propellerads.com
+propellerclick.com
 propellerpops.com
 proper.io
 propermedia-d.openx.net
@@ -26003,6 +26026,7 @@ publish.bonzaii.no
 publisher.admicro.vn
 publisher-config.unityads.unity3d.com
 publisher.lead.network
+publishers.adasiaholdings.com
 publishers.adscholar.com
 publishers.bidtraffic.com
 publishers.brokertraffic.com
@@ -26303,7 +26327,6 @@ rapidlyserv.com
 rapidresponse.directtrack.com
 rap-share.pl
 rapsubs.popunder.ru
-rarbg.to
 raresummer.com
 raskrutka.ucoz.com
 rasmussenreports.us.intellitxt.com
@@ -28401,6 +28424,7 @@ services1.adtech.us
 services.adtech.de
 services.adtech.fr
 services.adtech.us
+services.bilsyndication.com
 services.hearstmags.com
 services.krxd.net
 services-rakutencard.com
@@ -30016,6 +30040,7 @@ stats.buzzparadise.com
 stats.cafepress.com
 stats.canalblog.com
 stats.cartoonnetwork.com
+stats.cityadstrack.com
 stats.clickability.com
 stats.click-internet.fr
 stats.clicktracks.com
@@ -30727,6 +30752,7 @@ tagpress.oewabox.at
 tag.regieci.com
 tag.researchnow.com
 tags1.eclkspsa.com
+tags.adasiaholdings.com
 tags.api.umbel.com
 tags.bkrtx.com
 tags.bluekai.com
@@ -32117,6 +32143,7 @@ track.mybloglog.com
 trackmysales.com
 tracknet.twyn.com
 track.nifty.com
+track.nokia-n8.com
 track.nuxues.com
 track.oainternetservices.com
 track.offermarket.net
@@ -35547,6 +35574,7 @@ www.adamkepinski.pl
 www.adamsfilms.com
 www.adapterylaptopa.com
 www.adaranth.com
+www.adasiaholdings.com
 www.adbanner.gr
 www.adblockanalytics.com
 www.adblock.fr
@@ -42536,8 +42564,6 @@ yt.5.p2l.info
 ytaahg.vo.llnwd.net
 yt-adblocker.com
 ytdownloader.com
-ytf8i5ce.top
-yuarra.pluto.ro
 yubikk.info
 yudexjr.com
 yugk.net
