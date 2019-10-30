@@ -381,7 +381,6 @@ a.mobify.com
 amp-error-reporting.appspot.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
-amplitude.com
 amp.virginmedia.com
 ams.addflow.ru
 amung.us
