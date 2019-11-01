@@ -94,6 +94,7 @@ ad.anuntis.com
 adapt.tv
 adap.tv
 ad.auditude.com
+adback.co
 ad-balancer.at
 ad-balancer.net
 adbard.net
@@ -1423,7 +1424,6 @@ disqusads.com
 dist.belnk.com
 distillery.wistia.com
 districtm.ca
-djtfkakbufpwot.com
 dk4ywix.com
 dmp.mall.tv
 dmtracker.com
@@ -2311,7 +2311,6 @@ promobenef.com
 promos.bwin.it
 promos.fling.com
 promote.pair.com
-promotion-campaigns.com
 promo.ulust.com
 pronetadvertising.com
 propellerads.com
