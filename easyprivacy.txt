@@ -14,6 +14,7 @@
 168logger.com
 1beb2a44.space
 1-cl0ud.com
+1dmp.io
 1freecounter.com
 1l-hit.mail.ru
 1pel.com
@@ -381,6 +382,7 @@ a.mobify.com
 amp-error-reporting.appspot.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
+ampush.io
 amp.virginmedia.com
 ams.addflow.ru
 amung.us
@@ -420,6 +422,7 @@ analytics.apnewsregistry.com
 analytics.archive.org
 analytics.artirix.com
 analytics.arz.at
+analytics.atomiconline.com
 analytics.audioeye.com
 analytics.avanser.com.au
 analytics.aweber.com
@@ -517,6 +520,7 @@ analytics.photorank.me
 analytics.piksel.com
 analytics.pinpoll.com
 analytics.plex.tv
+analytics.posttv.com
 analytics.praetor.im
 analytics.prezly.com
 analytics.prod.aws.ecnext.net
@@ -531,6 +535,7 @@ analytics.redlink.com.ar
 analytics.revee.com
 analytics.reyrey.net
 analytics-rhwg.rhcloud.com
+analytics.rogersmedia.com
 analytics.rtbf.be
 analytics.sanoma.fi
 analytics.schoolwires.com
@@ -641,6 +646,7 @@ appelamule.com
 appier.net
 app.insightgrit.com
 apple.www.letv.com
+app.link
 appn.center
 appsha5.space
 aprtn.com
@@ -795,6 +801,7 @@ bats.video.yahoo.com
 bauersagtnein.myeffect.net
 b-aws.aol.com
 b-aws.techcrunch.com
+baynote.net
 baywttgdhe.download
 bb-analytics.jp
 b.bedop.com
@@ -813,6 +820,7 @@ beacon.ehow.com
 beacon.errorception.com
 beacon.examiner.com
 beacon.gcion.com
+beacon.guim.co.uk
 beacon.gutefrage.net
 beacon.gu-web.net
 beacon.heliumnetwork.com
@@ -930,6 +938,7 @@ bizsolutions.strands.com
 bizspring.net
 bjcathay.com
 bjorksta.men
+bkrtx.com
 bkvtrack.com
 blacktri-a.akamaihd.net
 blacktri.com
@@ -961,6 +970,7 @@ bluecava.com
 blueconic.net
 bluecore.com
 bluecounter.de
+bluekai.com
 blvdstatus.com
 bm23.com
 bm324.com
@@ -992,6 +1002,7 @@ bouncex.com
 bowithow.com
 bpmonline.com
 brain.foresee.com
+branch.io
 brandlock.io
 brandmetrics.com
 brat-online.ro
@@ -1015,6 +1026,7 @@ bstn-14-ma.com
 bstracker.blogspirit.net
 bs.yandex.ru
 bsyauqwerd.party
+btbuckets.com
 bt.ilsemedia.nl
 bt.mediaimpact.de
 btn.clickability.com
@@ -1158,6 +1170,7 @@ chanalytics.merchantadvantage.com
 chardneave.info
 chartaca.com
 chartaca.com.s3.amazonaws.com
+chartbeat.com
 chartbeat.net
 chart.dk
 checkeffect.at
@@ -1191,6 +1204,7 @@ clarivoy.com
 clck.yandex.com
 clck.yandex.ru
 clc.stackoverflow.com
+cleananalytics.com
 clearsale.com.br
 clearviewstats.com
 cleveritics.com
@@ -1298,6 +1312,7 @@ cmcintra.net
 cmcore.com
 cm.g.doubleclick.net
 c.mgid.com
+c.microsoft.com
 cmmeglobal.com
 cmp.arnnet.com.au
 cmp.cio.com.au
@@ -1368,8 +1383,10 @@ coinwebmining.com
 coinwire.eu
 coletor.terra.com
 coll1onf.com
+collarity.com
 collect2.sas.com
 collect.finanzen.net
+collect.igodigital.com
 collection.acromas.com
 collection.theaa.com
 collector.air.tv
@@ -1388,6 +1405,7 @@ collector.prod.expedia.com
 collector.roistat.com
 collector.schibsted.io
 collector.shopstream.co
+collector.shorte.st
 collector.snplow.net
 collector.sspinc.io
 collector.statowl.com
@@ -1636,6 +1654,7 @@ crmmetrixwris.com
 cr-nielsen.com
 crosspixel.net
 crosswalkmail.com
+crowdscience.com
 crsspxl.com
 crta.dailymail.co.uk
 crtx.info
@@ -1652,6 +1671,7 @@ cryptonoter.com
 crypto-pool.fr
 crypto-webminer.com
 csbew.com
+csdata1.com
 csgocpu.com
 csi.gstatic.com
 csi-tracking.com
@@ -1769,6 +1789,7 @@ d34ko97cxuv4p7.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
 d38nbbai6u794i.cloudfront.net
+d396ihyrqc81w.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
 d3alqb8vzo7fun.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
@@ -1781,6 +1802,7 @@ d3l3lkinz3f56t.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
 d3ojzyhbolvoi5.cloudfront.net
+d3qxwzhswv93jk.cloudfront.net
 d3r7h55ola878c.cloudfront.net
 d3rmnwi2tssrfx.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
@@ -1873,6 +1895,7 @@ delegatediscussion.com
 delidatax.net
 deliver.ifeng.com
 deliv.lexpress.fr
+demandbase.com
 demandmedia.s3.amazonaws.com
 de-mi-nis-ner2.info
 de-mi-nis-ner.info
@@ -1952,6 +1975,7 @@ dmclick.cn
 dm.commentcamarche.net
 dmd53.com
 dmdi.pl
+dmeserv.newsinc.com
 dm-event.net
 dm.hugolescargot.com
 dm.journaldesfemmes.com
@@ -1964,6 +1988,7 @@ dmtracker.com
 dmtracking.1688.com
 dmtracking2.alibaba.com
 dmtrack.xiu.com
+dmtry.com
 dmxleo.com
 dn34cbtcv9mef.cloudfront.net
 dna8twue3dlxq.cloudfront.net
@@ -2102,6 +2127,7 @@ emarketing.rmauctions.com
 embeddedanalytics.com
 emediatrack.com
 emetriq.de
+emjcd.com
 emltrk.com
 emng.libero.it
 emxdgt.com
@@ -2252,6 +2278,7 @@ events.yourcx.io
 eventtracker.elitedaily.com
 eventtracker.videostrip.com
 event.trove.com
+everestjs.net
 everesttech.net
 evergage.com
 evisitanalyst.com
@@ -2274,6 +2301,7 @@ exapxl.de
 exclusiveclicks.com
 exdynsrv.com
 exe.bid
+exelator.com
 exitbee.com
 exitmonitor.com
 exmarkt.de
@@ -2340,6 +2368,7 @@ feedperfect.com
 feesocrald.com
 felitb.rightinthebox.com
 ferank.fr
+fetchback.com
 ffinwwfpqi.gq
 fge9vbrzwt.bid
 fiksu.com
@@ -2377,6 +2406,7 @@ fluencymedia.com
 fluidsurveys.com
 fluidsurveys-com.fs.cm
 flx1.com
+flxpxl.com
 flyingpt.com
 fn-pz.com
 fogl1onf.com
@@ -2413,6 +2443,7 @@ free-counters.co.uk
 free-counters.net
 freecounterstat.com
 freegeoip.app
+freegeoip.net
 freehitscounter.org
 freelogs.com
 freeonlineusers.com
@@ -2540,6 +2571,7 @@ geo.mtvnn.com
 geo.perezhilton.com
 geo.play.it
 geo.q5media.net
+georiot.com
 geoservice.curse.com
 geo.theawesomer.com
 geo.xcel.io
@@ -2547,6 +2579,7 @@ geo.yahoo.com
 getaim.info
 getbackstory.com
 getblueshift.com
+getclicky.com
 getconversion.net
 getcounter.de
 getdrip.com
@@ -2555,6 +2588,7 @@ getfreebl.com
 getrewardful.com
 getrockerbox.com
 gets.faz.net
+getsmartcontent.com
 getsmartlook.com
 getstatistics.se
 gezaehlt.de
@@ -2602,6 +2636,7 @@ godhat.com
 goingup.com
 goldoffer.online
 goldstats.com
+go-mpulse.net
 goneviral.com
 goodcounter.org
 googleadservices.com
@@ -2779,6 +2814,7 @@ hitwebcounter.com
 hivps.xyz
 hk.ndx.nextmedia.com
 hlpidkr.ru
+hlserve.com
 hm.baidu.com
 hmstats.com
 hodlers.party
@@ -3164,6 +3200,7 @@ kontagent.net
 kopsil.com
 kostenlose-counter.com
 kqzyfj.com
+krxd.net
 ksimdw.ru
 k.streamrail.com
 ksyrium0014.com
@@ -3292,6 +3329,7 @@ lmodr.biz
 ln.ameba.jp
 lndata.com
 localads-statistics.maps.me
+localytics.com
 lockview.cn
 locotrack.net
 loc.rediff.com
@@ -3313,6 +3351,7 @@ log.data.disney.com
 log.deutschegrammophon.com
 logdev.openload.co
 logdy.com
+logentries.com
 log.flight.qunar.com
 logger.co.kr
 logger.dailymotion.com
@@ -3429,6 +3468,7 @@ luckyorange.net
 lugansk-info.ru
 lumatag.co.uk
 lumberamount.com
+luminate.com
 lunametrics.wpengine.netdna-cdn.com
 luxup2.ru
 luxupadva.com
@@ -3478,6 +3518,7 @@ marketing.nodesource.com
 marketing-page.de
 marketing.tr.netsalesmedia.pl
 marketizator.com
+marketo.com
 marketperf.com
 marketshot.com
 marketshot.fr
@@ -3566,6 +3607,7 @@ metricool.com
 metrics.apartments.com
 metrics-api.dimensions.ai
 metrics.api.drift.com
+metrics-api.librato.com
 metrics.aviasales.ru
 metrics.aws.sitepoint.com
 metrics.bangbros.com
@@ -3574,6 +3616,7 @@ metrics.cbn.com
 metrics.cbslocal.com
 metrics.chmedia.com
 metrics.cnn.com
+metrics.ctvdigital.net
 metrics.dailymotion.com
 metricsdirect.com
 metrics.ee.co.uk
@@ -3651,6 +3694,7 @@ mmc.center
 mmccint.com
 mmetrix.mobi
 mmi-agency.com
+mmi.bemobile.ua
 mmm.theweek.co.uk
 mmpool.org
 mmpstats.mirror-image.com
@@ -3697,6 +3741,7 @@ moneromining.online
 moneroocean.stream
 money-maker-default.info
 money-maker-script.info
+mongoosemetrics.com
 monitis.com
 monitus.net
 monkeyminer.net
@@ -3768,6 +3813,7 @@ mxcdn.net
 mxptint.net
 myaffiliateprogram.com
 myaudience.de
+mybloglog.com
 mybluemix.net
 mycounter.com.ua
 mycounter.ua
@@ -3929,6 +3975,7 @@ nowinteract.com
 npario-inc.net
 nprove.com
 nr7.us
+nr-data.net
 nrich.ai
 ns1p.net
 nsaudience.pl
@@ -4037,6 +4084,7 @@ optimierung-der-website.de
 optimix.asia
 optimizely.appspot.com
 optimize-stats.voxmedia.com
+optimost.com
 optin-machine.com
 optorb.com
 optreadetrus.info
@@ -4144,6 +4192,7 @@ perceivequarter.com
 percentmobile.com
 percycle.com
 perfdrive.com
+perfectaudience.com
 perfiliate.com
 performanceanalyser.net
 performancerevenues.com
@@ -4161,6 +4210,7 @@ personage.name
 personalicanvas.com
 personyze.com
 pertholin.com
+petametrics.com
 petiteumbrella.com
 petitionermaster.appspot.com
 pf.aclst.com
@@ -4193,6 +4243,7 @@ pingdom.net
 ping-dot-acp-magento.appspot.com
 ping.dozuki.com
 ping-fast.com
+ping.hellobar.com
 ping.hungama.com
 pingil.com
 pingomatic.com
@@ -4212,6 +4263,7 @@ pippio.com
 pi-stats.com
 pi.technik3d.com
 piti.bplaced.net
+piwik.pro
 pixanalytics.com
 pix.eads.com
 pixel.1und1.de
@@ -4229,6 +4281,7 @@ pixel.digitalspy.co.uk
 pixel.dorehernowi.pro
 pixel.europapress.net
 pixeleze.com
+pixel.facebook.com
 pixel.fanbridge.com
 pixel.glimr.io
 pixel.holtzbrinckdigital.info
@@ -4591,6 +4644,7 @@ referrer.org
 refersion.com
 refinedads.com
 refunevent.com
+reinvigorate.net
 reitingas.lt
 reitingi.lv
 rejestr.org
@@ -4739,6 +4793,7 @@ rt.prnewswire.com
 rtrk.com
 rtrk.co.nz
 rtt.campanja.com
+ru4.com
 rumanalytics.com
 rum.marquardmedia.hu
 rumpelstiltskinhead.com
@@ -4979,6 +5034,7 @@ sjv.io
 sk1n.fr
 sk8t.fr
 skencituer.com
+skimresources.com
 skyglue.com
 skylog.kz
 sl-ct5.com
@@ -5569,6 +5625,7 @@ stellaservice.com
 stetic.com
 stg-data-collector.playbuzz.com
 stiffstem.com
+stippleit.com
 stonecalcom.com
 storesurprise.com
 stormcontainertag.com
@@ -5739,6 +5796,7 @@ telemetry.reembed.com
 telemetry.soundcloud.com
 telemetrytaxonomy.net
 telemetry.tradingview.com
+telize.com
 teljari.is
 tellapart.com
 tellaparts.com
@@ -6165,6 +6223,7 @@ track.mailerlite.com
 trackmethod.com
 track.mobicast.io
 track.mopo.de
+track.mybloglog.com
 track.mycliplister.com
 trackmytarget.com
 trackmyusers.com
@@ -6627,6 +6686,7 @@ vv.ricardo.ch
 vzhjnorkudcxbiy.com
 vzzexalcirfgrf.ru
 w3counter.com
+w55c.net
 w88.espn.com
 w88.go.com
 waframedia9.com
@@ -6747,6 +6807,8 @@ webtrekk-asia.net
 webtrekk.de
 webtrekk.net
 webtrekk-us.net
+webtrends.com
+webtrendslive.com
 webts.adac.de
 webttracking.de
 webtuna.com
@@ -6920,6 +6982,7 @@ z444o.com
 zaehler.tv
 zampda.net
 zanox-affiliate.de
+zanox.com
 zarget.com
 zavzlen.ru
 zdbb.net
