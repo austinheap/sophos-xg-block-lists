@@ -318,6 +318,7 @@ agencytradingdesk.net
 agentanalytics.com
 agentinteractive.com
 agg.inquisitr.com
+agg.lifedaily.com
 aggregator.inquisitr.com
 agilecrm.com
 agillic.eu
@@ -426,6 +427,7 @@ analytics.atomiconline.com
 analytics.audioeye.com
 analytics.avanser.com.au
 analytics.aweber.com
+analytics.belgacom.be
 analytics.bhaskar.com
 analytics.bigcommerce.com
 analytics.bloomberg.com
@@ -493,6 +495,7 @@ analytics.jabong.com
 analytics.kaggle.io
 analytics.kaltura.com
 analytics.kapost.com
+analytics.ladmedia.fr
 analytics.linkwelove.com
 analytics.live.com
 analytics.livestream.com
@@ -869,6 +872,7 @@ behave.noen.at
 behave.sn.at
 behavioralengine.com
 bekannt-im-web.de
+belboon.de
 belicimo.pw
 beliebtestewebseite.de
 belstat.at
@@ -1033,6 +1037,7 @@ btn.clickability.com
 btrace.qq.com
 btrace.video.qq.com
 btserve.com
+btstatic.com
 btstats.devtribu.fr
 btttag.com
 bubblestat.com
@@ -1061,6 +1066,7 @@ c3metrics.medifast1.com
 c3tag.com
 c4tracking01.com
 caanalytics.com
+cache2.delvenetworks.com
 cache.am
 cache.fm
 cadreon.com
@@ -1618,6 +1624,7 @@ count.rtl.de
 count.snacktv.de
 count.spiegel.de
 countstat.ru
+count.taobao.com
 count.upc.rakuten.co.jp
 countus.fr
 count.video.sina.com.cn
@@ -1649,6 +1656,7 @@ creator.zmags.com
 c-rings.net
 criteo.com
 cr.loszona.com
+crm-analytics.imweb.ru
 crmmetrix.fr
 crmmetrixwris.com
 cr-nielsen.com
@@ -1955,6 +1963,7 @@ displaymarketplace.com
 distillery.wistia.com
 distiltag.com
 distralytics.com
+distribeo.com
 districtm.io
 divolution.com
 djers.com
@@ -2186,6 +2195,7 @@ estadisticasgratis.es
 estadisticas.lanacion.com.ar
 estadonline.publiguias.cl
 estara.com
+estat.com
 estrack.net
 etacontent.com
 etahub.com
@@ -2201,6 +2211,7 @@ eth-pocket.eu
 ethtrader.de
 etnhashpool.tk
 et.nytimes.com
+etracker.com
 etracker.de
 etracking24.de
 etrafficcounter.com
@@ -2694,6 +2705,7 @@ gsp1.baidu.com
 gsspat.jp
 gsspcln.jp
 gssprt.jp
+gstat.orange.fr
 gstats.cn
 g-stats.openhost.es
 gtags.net
@@ -3093,6 +3105,7 @@ ivcbrasil.org.br
 i.viafoura.co
 ivitrack.com
 ivuovhsn.ru
+ivwbox.de
 ivw.discover-outdoor.de
 ivw.dumontreise.de
 ivw.fem.com
@@ -3266,6 +3279,7 @@ leserservice-tracking.de
 les-experts.com
 letterboxtrail.com
 levelbehavior.com
+levexis.com
 lexity.com
 l.fairblocker.com
 lfov.net
@@ -3279,6 +3293,7 @@ lijit.com
 lilb2.shutterstock.com
 limbik.io
 lindon-pool.win
+linezing.com
 link.americastestkitchencorp.com
 linkconnector.com
 link-empfehlen24.de
@@ -4052,6 +4067,7 @@ onefeed.co.uk
 onelink-translations.com
 onespot-tracking.herokuapp.com
 onestat.com
+onetag.io
 onetag-sys.com
 ongsono.com
 on-line.lv
@@ -4246,6 +4262,7 @@ ping-fast.com
 ping.hellobar.com
 ping.hungama.com
 pingil.com
+pingjs.qq.com
 pingomatic.com
 ping.rasset.ie
 pings.blip.tv
@@ -4736,6 +4753,7 @@ ritogaga.com
 ritzykey.com
 rivrai.com
 rkdms.com
+rktch.com
 rktu.com
 rlcdn.com
 rl.heise.de
@@ -5019,6 +5037,7 @@ sitelinktrack.com
 sitemeter.com
 sitereport.org
 sitereports.officelive.com
+sitestat.com
 sitestats.live
 site-submit.com.ua
 sitetagger.co.uk
@@ -5219,6 +5238,7 @@ sp.reporternews.com
 sp.rgj.com
 spring.de
 springmetrics.com
+spring-tns.net
 sp.sctimes.com
 sp.sheboyganpress.com
 sp.shreveporttimes.com
@@ -5369,6 +5389,7 @@ stat.pladform.ru
 stat.ppstream.com
 stat.pptv.com
 stat.pravmir.ru
+stat.prsmedia.fr
 stat.pubhtml5.com
 stat.radar.imgsmail.ru
 stat.ringier.cz
@@ -5639,6 +5660,7 @@ streamstats1.blinkx.com
 streem.com.au
 stripedcollar.net
 strivesidewalk.com
+stroeerdigitalmedia.de
 strossle.it
 strs.jp
 st.tmgrup.com.tr
@@ -5827,6 +5849,7 @@ thatresha.com
 theadex.com
 theagency.com
 thebestlinks.com
+thebrighttag.com
 thecounter.com
 thefreehitcounter.com
 thehairofcaptainpicard.com
@@ -6032,6 +6055,7 @@ tracker.keywordintent.com
 tracker.live.tudou.com
 tracker.lolalytics.com
 tracker.marinsoftware.com
+tracker.mattel.com
 tracker.mgnetwork.com
 tracker.mspy.com
 tracker.mtrax.net
@@ -6297,6 +6321,7 @@ track.youniversalmedia.com
 trackyourstats.com
 track.zomato.com
 tracy.sadv.dadapro.com
+tradedoubler.com
 tradelab.fr
 tradescape.biz
 tr.advance.net
@@ -6546,6 +6571,7 @@ userreport.com
 users.51.la
 users-api.com
 usersegment.wpdigital.net
+userzoom.com
 usuarios-online.com
 utrack.hexun.com
 ut.ratepoint.com
@@ -6645,6 +6671,7 @@ visit.webhosting.yahoo.com
 visto1.net
 visualdna.com
 visualdna-stats.com
+visualrevenue.com
 visualwebsiteoptimizer.com
 vitamine.networldmedia.net
 vivistats.com
@@ -6874,6 +6901,7 @@ wpdstat.com
 wpfc.ml
 wp-monero-miner.de
 wp-stats.com
+wrating.com
 wredint.com
 wrmwb.7val.com
 wrxgandsfcz.ru
