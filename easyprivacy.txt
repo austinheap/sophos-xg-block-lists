@@ -1286,6 +1286,7 @@ clickwith.bid
 clickx.io
 clickzs.com
 clickzzs.nl
+client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
 clientgear.com
 clientlog.portal.office.com
@@ -1960,6 +1961,7 @@ dirt.dennis.co.uk
 discover-path.com
 discovertrail.net
 displaymarketplace.com
+display.studio
 distillery.wistia.com
 distiltag.com
 distralytics.com
@@ -2630,6 +2632,7 @@ globel.co.uk
 globetrackr.com
 glogger.inspcloud.com
 gm99.com
+g.mashable.com
 gmodmp.jp
 gmonitor.aliimg.com
 g.msn.com
@@ -3427,6 +3430,7 @@ logs-api.shoprunner.com
 logsbin.dantri.com.vn
 logs.dashlane.com
 log.seekda.com
+logs.gaana.com
 logs.ggweb.nl
 logs.live.tudou.com
 log.snapdeal.com
@@ -3716,7 +3720,9 @@ mmpstats.mirror-image.com
 mms.al.com
 mms.cbslocal.com
 mms.cleveland.com
+mms.cloudpro.co.uk
 mms.cnn.com
+mms.coachmag.co.uk
 mms.deadspin.com
 mms.gizmodo.com
 mms.gulflive.com
@@ -5000,6 +5006,7 @@ sibulla.com
 sicksmash.com
 sidebar.issuu.com
 sifomedia.se
+sift.com
 siftscience.com
 sig.atdmt.com
 sig.gamerdna.com
@@ -5651,6 +5658,7 @@ stonecalcom.com
 storesurprise.com
 stormcontainertag.com
 stormiq.com
+stormyachiever.com
 storygize.net
 str1kee.com
 streambeam.io
@@ -5825,6 +5833,7 @@ tellaparts.com
 temnos.com
 tempo.inc.com
 tendatta.com
+tendertest.com
 tenmax.io
 tenping.kr
 tentaculos.net
@@ -6469,6 +6478,7 @@ tulip18.com
 tunnl.com
 turnsocial.com
 t.vimeo.com
+tvpixel.com
 t.wayfair.com
 twcount.com
 twcouponcenter.com
