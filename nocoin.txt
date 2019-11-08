@@ -350,7 +350,6 @@ play2.flashx.pw
 play4.flashx.pw
 play5.flashx.pw
 play.besstahete.info
-play.cc.gofile.io
 playerassets.info
 play.estream.nu
 play.estream.to
