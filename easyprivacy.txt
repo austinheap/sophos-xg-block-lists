@@ -356,6 +356,7 @@ alexametrics.com
 alexandria.marfeelcdn.com
 algopine.com
 alkemics.com
+allowmailbox.com
 alltagcloud.info
 alltracked.com
 alnera.eu
@@ -1045,10 +1046,12 @@ bugherd.com
 bulb.76.my
 bumlam.com
 bunchbox.co
+burnbubble.com
 burstbeacon.com
 businessclick.ch
 business.sharedcount.com
 butcalve.com
+butterbulb.com
 butterburst.com
 bux1le001.com
 buzzbox.buzzfeed.com
@@ -1424,6 +1427,7 @@ collect.sas.com
 collect.tianya.cn
 collect.yinyuetai.com
 collserve.com
+colorfulafterthought.com
 colossusssp.com
 com.econa.com
 comet.ibsrv.net
@@ -1441,6 +1445,7 @@ compteur.org
 compteur-visite.com
 compteur.websiteout.net
 comradepony.com
+conditioncrush.com
 conductrics.com
 config.parsely.com
 confirmational.com
@@ -1830,6 +1835,7 @@ dadi.technology
 d.adrolays.de
 dagda.vilynx.com
 dailycaller-alerts.com
+damdoor.com
 da.netease.com
 dapxl.com
 daq0d0aotgq0f.cloudfront.net
@@ -2345,6 +2351,7 @@ facil-iti.com
 factortg.com
 faibl.org
 fallingfalcon.com
+falseframe.com
 familiarfloor.com
 familiarrod.com
 fandommetrics.com
@@ -2599,7 +2606,6 @@ getcounter.de
 getdrip.com
 getetafun.info
 getfreebl.com
-getrewardful.com
 getrockerbox.com
 gets.faz.net
 getsmartcontent.com
@@ -2720,6 +2726,7 @@ gtopstats.com
 gtrk.s3.amazonaws.com
 guanoo.net
 guardwork.info
+gulliblecamp.com
 gu-pix.appspot.com
 guruquicks.net
 gus.host
@@ -3122,6 +3129,7 @@ izea.com
 izearanks.com
 jack.allday.com
 jadeitite.com
+jamexistence.com
 janrain.xyz
 japanmetrix.jp
 javascriptcounter.appspot.com
@@ -3836,7 +3844,6 @@ mxptint.net
 myaffiliateprogram.com
 myaudience.de
 mybloglog.com
-mybluemix.net
 mycounter.com.ua
 mycounter.ua
 mycrypto.company
@@ -4172,8 +4179,10 @@ pa-oa.com
 papoto.com
 pap.zalando.de
 parameter.dk
+parcelcreature.com
 parklogic.com
 parrable.com
+parsimoniouspolice.com
 partner.cynapse.com
 partners.badongo.com
 partners.mysavings.com
@@ -4508,6 +4517,7 @@ pubplus.com
 pub.sheknows.com
 pubstack.io
 puffyloss.com
+puffypull.com
 pulleymarketing.com
 pulse-analytics-beacon.reutersmedia.net
 pulselog.com
@@ -4751,6 +4761,7 @@ richstring.com
 rightmoveanalytics.co.uk
 rightstats.com
 rineventrec.com
+ringplayground.com
 rintindown.com
 rintinwa.com
 ripost.services
@@ -4787,6 +4798,7 @@ roivista.com
 rok.com.com
 roll.bankofamerica.com
 rollingcounters.com
+roofrelation.com
 roosterfirework.com
 r.orange.fr
 royalcount.de
@@ -5230,6 +5242,7 @@ sponsored.com
 spoods.rce.veeseo.com
 spotlight.accuweather.com
 spotmx.com
+spottednoise.com
 spottysense.com
 sp.pal-item.com
 sp.pnj.com
@@ -5645,6 +5658,7 @@ st.cdnco.us
 stcllctrs.com
 stcollection.moneysupermarket.com
 stcounter.com
+steadfastsound.com
 steadfastsystem.com
 stealth.nl
 steelhousemedia.com
@@ -5672,6 +5686,7 @@ stroeerdigitalmedia.de
 strossle.it
 strs.jp
 st.tmgrup.com.tr
+stupendoussleet.com
 st.vq.ku6.cn
 su.addthis.com
 sub2tech.com
@@ -6626,6 +6641,7 @@ verypopularwebsite.com
 veta.naver.com
 vfd2dyn.vodafone.de
 video-ad-stats.googlesyndication.com
+videoevents.outbrain.com
 video.oms.eu
 videoplayer2.xyz
 videos.oms.eu

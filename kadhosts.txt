@@ -1466,6 +1466,7 @@ pl.allsports4free.club
 planetazdrowia.com
 planet-tachyon.com
 plastiquedesign.pl
+platinumprestige.pl
 platnosc24.com
 play.appiq.mobi
 playasrivieramaya.com
@@ -3592,6 +3593,7 @@ www.placidocn.com
 www.planetazdrowia.com
 www.planet-tachyon.com
 www.plastiquedesign.pl
+www.platinumprestige.pl
 www.platnosc24.com
 www.play.appiq.mobi
 www.playasrivieramaya.com
@@ -4278,6 +4280,7 @@ www.zalukaj.cc
 www.zalukaj-cda.pl
 www.zalukajfilmy.pl
 www.zalukaj-online.pl
+www.zalukaj.org
 www.zalukaj.ws
 www.zamedi.pl
 www.zamiana-koloru.blogspot.com
@@ -4373,6 +4376,7 @@ zalukaj.cc
 zalukaj-cda.pl
 zalukajfilmy.pl
 zalukaj-online.pl
+zalukaj.org
 zalukaj.ws
 zamedi.pl
 zamiana-koloru.blogspot.com

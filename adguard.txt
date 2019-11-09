@@ -869,6 +869,7 @@ aa24h.com
 aa53df329975c325.com
 aaa.aj5.info
 aaacompany.net
+aaadealstoday.com
 aabmxezph.com
 aacgeuvaoqbw.com
 aadbobwqgmzi.com
@@ -1885,6 +1886,7 @@ adsblockkpush.com
 adsblok.com
 ads.bluelithium.com
 adsbookie.com
+ads-brand-postback.unityads.unity3d.com
 adsbrook.com
 ads.bulldogcpi.com
 adscads.de
@@ -1973,6 +1975,7 @@ ads.fotoable.com
 adsfundi.com
 adsfundi.net
 adsfuse.com
+ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 ads.gercekgundem.com
 adsgid.com
 ads.glispa.com
@@ -3111,6 +3114,7 @@ analyticschecker.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
 analytics.closealert.com
+analytics.cloud.unity3d.com
 analytics.cmg.net
 analytics-cms.whitebeard.me
 analytics.cnd-motionmedia.de
@@ -3799,6 +3803,7 @@ attractivecap.com
 attributionapp.com
 attributiontrackingga.googlecode.com
 atwola.com
+atzcmddc.com
 au2m8.com
 auaop.com
 aubhiple2.com
@@ -5760,6 +5765,9 @@ cdn.c-i.as
 cdn-code.host
 cdn.comedia.coccoc.com
 cdn.cpiera.com
+cdn-creatives-akamai-prd.unityads.unity3d.com
+cdn-creatives-highwinds-prd.unityads.unity3d.com
+cdn-creatives-prd.unityads.unity3d.com
 cdn.debitcrebit669.com
 cdn.driveback.ru
 cdnfile.xyz
@@ -5803,16 +5811,20 @@ cdn.smartclick.io
 cdn.sportlabs.online
 cdnstats-a.akamaihd.net
 cdn.steambets.net
+cdn-store-icons-akamai-prd.unityads.unity3d.com
+cdn-store-icons-highwinds-prd.unityads.unity3d.com
 cdn.trafficexchangelist.com
 cdntrf.com
 cdntrf.de
 cdntrip.com
 cdn.unityads.unity3d.com
+cdn-webview-pge.unityads.unity3d.com
 cdn.welcome.pussysaga.com
 cdn.x-lift.jp
 cdobneyuq.com
 cdooewrzvec.com
 cdookjqkri.com
+cdp.cloud.unity3d.com
 cdqmeyhqrwinofutpcepbahedusocxqyfokvehqlqpusttfwve.com
 cdqweuwvagrbd.com
 cdrjblrhsuxljwesjholugzxwukkerpobmonocjygnautvzjjm.com
@@ -6009,6 +6021,7 @@ chief-con.pro
 chiefcurrent.com
 chikhanos.info
 chiliadv.com
+china-cdn3.unityads.unity3d.com
 chinagrad.ru
 chinahdcm.com
 china-netwave.com
@@ -7801,6 +7814,7 @@ data.minute.ly
 data.mistat.xiaomi.com
 data.mob.com
 data.neosmi.ru
+data-optout-service.uca.cloud.unity3d.com
 dataperforma.com
 data.permittingnorthlandseamen.info
 data.queryly.com
@@ -8615,7 +8629,9 @@ dsnjsdrbqwdu.com
 dsnr-affiliates.com
 dsn-vgtrk.ru
 dsparking.com
+dsp-endscreens.unityads.unity3d.com
 dsply.com
+dsp-tracking.unityads.unity3d.com
 dsstrk.com
 d-stats.com
 dstillery.com
@@ -9925,7 +9941,6 @@ farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
 farmergoldfish.com
 farmer.wego.com
 farpeiros.pw
-farsihd.pw
 farvqaxaoid.com
 fas.catholicgreatestinterpret.xyz
 f.asdfzxcv1312.com
@@ -10477,6 +10492,7 @@ fperefo.ru
 fpfivothg.com
 fpherzxrae.com
 fphnwvkp.info
+fpkcggyczcvix.com
 fpluhtibx.com
 fpmef.com
 fpnxicejwel.com
@@ -10612,6 +10628,7 @@ frosmo.com
 frqmnrlqk.com
 frrtrr.banggirls.ru
 frsqgvwmzjnun.com
+frsuli.com
 frtfwlvwuw.com
 frtyo.com
 fruitablock.net
@@ -10819,6 +10836,7 @@ fzhxi.com
 fzmogmfqh.com
 fznpq.com
 fzoneli.info
+fzorwhus.com
 fzpseyhkanhopd.com
 fzqxefkbjzwiqa.com
 fzrcalpbcu.com
@@ -11031,6 +11049,7 @@ genusaceracousticophobia.com
 geobar.ziffdavisinternational.com
 geobeacon.ign.com
 geobytes.com
+geocdn.unityads.unity3d.com
 geocompteur.com
 geocontatore.com
 geoedge.be
@@ -11505,6 +11524,7 @@ gooo.al
 go.optifuze.com
 goossb.com
 goozbkcchscvb.com
+gop1.co
 gopjn.com
 goprediction.com
 go.pushnative.com
@@ -12480,6 +12500,7 @@ hprofits.com
 hpr.outbrain.com
 hpsthxyqxqae.com
 hpufwccrmiwz.com
+hpuknttzl.com
 hpvvn.com
 hpwdohgicpmi.com
 hpwoowyxhrsatx.com
@@ -12654,6 +12675,7 @@ hwlykqjlytnm.com
 hwoxt.com
 hwpub.com
 hwsbehjaxebh.com
+hwstats.unity3d.com
 hwvwuoxsosfp.com
 hwyoikfrfdtjp.com
 hxbvbmxv.com
@@ -13349,6 +13371,7 @@ installads.net
 installads.org
 installp.com
 installtracker.com
+installtracker.unityads.unity3d.com
 instana.io
 instancetour.info
 instantbannercreator.com
@@ -13439,6 +13462,7 @@ intrev.co
 intrience.info
 inttrax.com
 intuneads.com
+inukjwvwhz.com
 inuvo.com
 inuxu.biz
 inuxu.co.in
@@ -13621,6 +13645,7 @@ isqbthtlvazequ.com
 isqgobsgtqsh.com
 isrecblqmlzi.com
 is.sabah.com.tr
+issuetracker.unity3d.com
 istanaiklan.com
 istana-impian.
 istanaimpian1.
@@ -13731,6 +13756,7 @@ iwebtrack.com
 iwfzluau.com
 iwgdguuz.com
 iwhha.top
+iwlvufxv.com
 iwmonrwpeeku.com
 iwpxkwojbw.com
 iwqownwjbk.com
@@ -15233,6 +15259,7 @@ lbsohfnkqgxo.com
 lbtifiprfzy.com
 lburmovcjefv.com
 lb.usemaxserver.de
+lbushibdda.com
 lbwtrvpgvqkqc.com
 lbypppwfvagq.com
 lbytagcqxefsn.com
@@ -16063,6 +16090,7 @@ luckyorange.com
 luckyorange.net
 luckypushh.com
 luckysearch123.com
+ludovwmhazsx.com
 lugansk-info.ru
 luhbhndh.com
 luhqeqaypvmc.com
@@ -17920,6 +17948,7 @@ ndfegyhf.com
 ndg.io
 ndgmwuxzxppa.com
 ndilzwjgblea.com
+ndjelsefd.com
 ndkes.com
 ndkvzncsuxgx.com
 ndndptjtonhh.com
@@ -18149,6 +18178,7 @@ ngaln.com
 ngastatic.com
 ngecity.com
 ngfsciiu.com
+nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 ngkqlfcm.com
 nglmedia.com
 nglrbsnu.com
@@ -18347,6 +18377,7 @@ nonstoppartner.net
 nonxt1.c.youtube.com
 noolablkcuyu.com
 noowho.com
+noproblfr.com
 noqukjy.com
 nordicresearch.com
 norentisol.com
@@ -18413,6 +18444,7 @@ nqiabjxpcsea.com
 nqlkwyyzzgtn.com
 nqlrewsfmywgbx.com
 nqmwfddfwogbhw.com
+nqtqrnfzvp.com
 nqtxbweqb.com
 nqtxg.xyz
 nqtyrwyklcmh.com
@@ -19857,6 +19889,7 @@ pg.buzzfeed.com
 pgcode.org
 pgdhapctt.com
 pgepkagfndl.com
+pge.unityads.unity3d.com
 pgfxwbgema.com
 pgkdyhdhul.com
 pgmediaserve.com
@@ -20830,6 +20863,8 @@ publicsunrise.link
 publift.com
 publir.com
 publisheradnetwork.com
+publisher-event.ads.prd.ie.internal.unity3d.com
+publisher-event.unityads.unity3d.com
 publisher.to
 publishflow.com
 publish-int.se
@@ -22678,6 +22713,7 @@ rwfqhbwkxpewc.com
 rwgvulisul.com
 rwhxz.space
 rwkxvess.com
+rwlyiedd.com
 rwlzbswwmmh.com
 rwmttawspapqcy.com
 rwpads.com
@@ -23871,6 +23907,7 @@ sp.coshoctontribune.com
 sp.courier-journal.com
 sp.courierpostonline.com
 sp.courierpress.com
+spcpgtepary.com
 sp.dailyrecord.com
 sp.dailyworld.com
 sp.delawareonline.com
@@ -24104,6 +24141,7 @@ srgev.com
 srgszwexkpehb.com
 srhovuokux.com
 sriaqmzx.com
+srigbxxv.com
 srizwhcdjruf.com
 srkdunvxun.com
 srkft.com
@@ -24560,6 +24598,7 @@ stbt.coupons.com
 st.cdnco.us
 stcllctrs.com
 stc-nas.nixcdn.com
+stc.nas.nixcdn.com
 stc.oa.zalo.me
 stcollection.moneysupermarket.com
 stcounter.com
@@ -24667,6 +24706,7 @@ su.addthis.com
 sualzmze.com
 sub2tech.com
 subemania.com
+subendorse.com
 sube.puwangkj.com
 sublimemedia.net
 subloader.cf
@@ -25416,6 +25456,7 @@ thewhizmarketing.com
 thewhizproducts.com
 thewise.com
 thiksikr.com
+thind-gke-euw.prd.data.corp.unity3d.com
 thingswontend.com
 thirdrespect.com
 thisisanothercoolthing.com
@@ -26074,6 +26115,7 @@ tracking.aatkit.com
 tracking.acekoala.com
 tracking.adactioninteractive.com
 tracking.adalyser.com
+tracking.adsx.unityads.unity3d.com
 tracking.adweb.co.kr
 tracking.aegpresents.com
 tracking.allposters.com
@@ -26172,6 +26214,7 @@ tracking.plinga.de
 tracking.porndoelabs.com
 tracking.pornhd.com
 tracking.practicefusion.com
+tracking.prd.mz.internal.unity3d.com
 tracking.promiflash.de
 tracking.propelmedia.com
 trackingpro.pro
@@ -27221,6 +27264,7 @@ uniquecaptcha.com
 unister-adservices.com
 unitedtraders.com
 unitethecows.com
+unityads.unity3d.com
 universalsearches.com
 universalsrc.com
 universaltrackingcontainer.com
@@ -27413,6 +27457,7 @@ useronlinecounter.com
 user-red.com
 userreplay.net
 userreport.com
+userreporting.cloud.unity3d.com
 users.51.la
 users-api.com
 usersegment.wpdigital.net
@@ -29152,6 +29197,7 @@ wpktjtwsidcz.com
 wplqgfpj.com
 wp-monero-miner.de
 wpnjs.com
+wpqvggsnc.com
 wp-stats.com
 wpswyoyev.com
 wpsyjttctdnt.com
@@ -29966,6 +30012,7 @@ yawnedgtuis.org
 yaxbqjjemnvben.com
 yaxdboxgsbgh.com
 yb0t.com
+ybaijkluq.com
 ybbqkfzmj.com
 ybgbaxrzxxlr.com
 ybhaoglgbgdk.com
@@ -30701,6 +30748,7 @@ zhrmtsxcdkjj.com
 zh.tiredduck.com
 zhuwawa.net
 zhuyuanp.top
+zhxdduzdibm.com
 zhxdiirwhtico.com
 zhxpnywjnltskd.com
 ziaxamkssw.com
