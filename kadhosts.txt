@@ -184,6 +184,7 @@ banvar.com
 barcaacademyistanbul.com
 barip15.com
 bartekzukiewicz.pl
+bazafilm.pl
 bazartani.pl
 bazasprawdzianow.pl
 bc43.pl
@@ -673,6 +674,7 @@ filespeedy.net
 filespeedy.org
 fileston.com
 filestrue.com
+fili.com.pl
 filionline.pl
 film-base.pl
 filmhd.ek1.pl
@@ -2313,6 +2315,7 @@ www.banvar.com
 www.barcaacademyistanbul.com
 www.barip15.com
 www.bartekzukiewicz.pl
+www.bazafilm.pl
 www.bazartani.pl
 www.bazasprawdzianow.pl
 www.bc43.pl
@@ -2805,6 +2808,7 @@ www.filespeedy.net
 www.filespeedy.org
 www.fileston.com
 www.filestrue.com
+www.fili.com.pl
 www.filionline.pl
 www.film-base.pl
 www.filmhd.ek1.pl
