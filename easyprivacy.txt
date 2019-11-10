@@ -1329,6 +1329,7 @@ cmp.cio.com.au
 cmp.cmo.com.au
 cmp.computerworld.com.au
 cmp.cso.com.au
+cmp.csoonline.com
 cmp.digitalartsonline.co.uk
 cmp.greenbot.com
 cmp.macworld.com
@@ -1802,7 +1803,6 @@ d33im0067v833a.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
-d38nbbai6u794i.cloudfront.net
 d396ihyrqc81w.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
 d3alqb8vzo7fun.cloudfront.net
@@ -6484,6 +6484,8 @@ t-staging.powerreviews.com
 tstlabs.co.uk
 ts.tradetracker.net
 tsw0.com
+ttauri.tomsguide.com
+ttauri.tomshardware.com
 ttdetect.staticimgfarm.com
 t.theoutplay.com
 ttwbs.channelintelligence.com
