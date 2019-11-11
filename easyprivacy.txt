@@ -4399,6 +4399,7 @@ pntrs.com
 pocitadlo.cz
 pocitadlo.sk
 podrltid.info
+pointillist.com
 pointomatic.com
 polarcdn-pentos.com
 polymorphicads.jp
@@ -5140,7 +5141,6 @@ sophus3.com
 sortsummer.com
 soska.us
 sourcecode.pro
-sourcepoint.vice.com
 spacedust.netmediaeurope.com
 spacehits.net
 space-link.de
