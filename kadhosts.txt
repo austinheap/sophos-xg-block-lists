@@ -3,7 +3,6 @@
 20pascals.nl
 24hoursready.cf
 2-login.alleqro-pl.choljai.info
-3000-od-reki.pl
 4332.ws
 4kplayer.pl
 4ksport.pl
@@ -49,7 +48,6 @@ ad-noise.net
 adobe.5v.pl
 adpro.futurenet.club
 adrianzajewicz.blogspot.com
-ads.akeemdom.com
 adsbtrack.com
 adsbtrk.com
 ad-servicestats.net
@@ -98,7 +96,6 @@ alle-perfumy.pl
 alleqro-pl.choljai.info
 allfiles.pl
 allonline.pl
-alloversuccess.com
 all-player.pl
 allplayer.pl
 alohasoftware.net
@@ -117,7 +114,6 @@ anglekeys.warzonedns.com
 aniventure.co.uk
 ankiety-konsumenckie.pl
 antonresidential.com
-antyspam.net
 anuluj-dlug.pl
 anuluj-mandat.pl
 anuluj-natreta.pl
@@ -541,7 +537,6 @@ ekipl.eu
 ekoinnowacyjne.pl
 ekonkarserai.com
 ekstrafilmy24.pl
-elavepene.us
 electroenchufe.com
 electroline.pl
 electros.co.ua
@@ -639,6 +634,7 @@ fasterfiles.net
 favoriteadrequest.com
 fbcolor.blogspot.com
 fb-kolor.blogspot.com
+fblinker.com
 fbpodgladacz.wordpress.com
 fb-podglad.blogspot.com
 fb-szpieguj.likesyou.org
@@ -887,7 +883,6 @@ herbalife.pl
 herbeauty.co
 heredatetime.com
 herrakop.co
-herrenmode.tk
 hexistrading.com
 hibids10.com
 highamnet.co.uk
@@ -964,7 +959,6 @@ interpathlaboratories.com
 investreviewier.com
 inwestujwrozwoj.pl
 iotiot.cf
-iphnelevenpro.luckyduckynet.com
 ipko.pl-weryfikacja-konta-bank-pko.j.pl
 i-podgladacz.pl
 iptivicini.com
@@ -978,6 +972,8 @@ itemagic.net
 itorrenty.org
 itsweeps3.space
 iv24.pl
+j0yp.l3f.info
+j4l.info
 jacketspolska.cn
 jakpodrywacnatinderze.pl
 jakpuch.pl
@@ -995,6 +991,7 @@ jezyckiszuszwol.pl
 jmbase.my
 jookerclik.site
 jordenmadsen.com
+jrly.l3f.info
 judomiedzyrzecz.pl
 juiceplus.com
 juicywin.pl
@@ -1010,6 +1007,7 @@ kajakurier.com
 kancelariaae.pl
 kancelariakufieta.pl
 kancelarialewickich.pl
+kantorfrank.pl
 karencupp.com
 karenshealthfoods.com
 karokorale.pl
@@ -1092,6 +1090,8 @@ kurtkiwyprzedaz.pl
 kuyxjgf.ga
 kwaterapodgruszka.pl
 kyani.com
+l2f.info
+l3f.info
 labersa.com
 lampeberger.com.pl
 laolle.com
@@ -1139,7 +1139,6 @@ losowa-gra.pl
 lottizzazionesavarra.it
 lottoland.pl
 loveaholics.com
-lovemyshoes.pl
 lp.macapps-centers.club
 lp.moviesearchcenter.com
 lp.speedytools.club
@@ -1640,7 +1639,6 @@ push-notification.tools
 px1alsry.com
 pyracity.info
 pz21.pl
-pzu-doplaty.pl
 pzu-sa.eu
 pzu.services
 qplaywin.com
@@ -1681,6 +1679,7 @@ reducelant.com
 reeboknpcii.pl
 refferalstaff.com
 refundacjeregionalne.pl
+reg-me.pl
 rehabretie.com
 reimageplus.com
 rekrutacja.zafriko.pl
@@ -1949,6 +1948,7 @@ themovienation.com
 thepropertydealerz.com
 thermomix.vorwerk.pl
 the-titanium.com
+th-games.com
 thinhvuongmedia.com
 think1.com
 thongtindonganh.vn
@@ -2097,6 +2097,7 @@ wapster.pl
 wardon.pl
 wartomiec.pl
 wdrodzenaratunek.pl
+wealthray4u.com
 wealthyme.warzonedns.com
 weartexhibitions.com
 web.cellfun.mobi
@@ -2153,7 +2154,6 @@ www.1channelhd.xyz
 www.20pascals.nl
 www.24hoursready.cf
 www.2-login.alleqro-pl.choljai.info
-www.3000-od-reki.pl
 www.4332.ws
 www.4kplayer.pl
 www.4ksport.pl
@@ -2199,7 +2199,6 @@ www.ad-noise.net
 www.adobe.5v.pl
 www.adpro.futurenet.club
 www.adrianzajewicz.blogspot.com
-www.ads.akeemdom.com
 www.adsbtrack.com
 www.adsbtrk.com
 www.ad-servicestats.net
@@ -2248,7 +2247,6 @@ www.alle-perfumy.pl
 www.alleqro-pl.choljai.info
 www.allfiles.pl
 www.allonline.pl
-www.alloversuccess.com
 www.all-player.pl
 www.allplayer.pl
 www.alohasoftware.net
@@ -2267,7 +2265,6 @@ www.anglekeys.warzonedns.com
 www.aniventure.co.uk
 www.ankiety-konsumenckie.pl
 www.antonresidential.com
-www.antyspam.net
 www.anuluj-dlug.pl
 www.anuluj-mandat.pl
 www.anuluj-natreta.pl
@@ -2695,7 +2692,6 @@ www.ekipl.eu
 www.ekoinnowacyjne.pl
 www.ekonkarserai.com
 www.ekstrafilmy24.pl
-www.elavepene.us
 www.electroenchufe.com
 www.electroline.pl
 www.electros.co.ua
@@ -2793,6 +2789,7 @@ www.fasterfiles.net
 www.favoriteadrequest.com
 www.fbcolor.blogspot.com
 www.fb-kolor.blogspot.com
+www.fblinker.com
 www.fbpodgladacz.wordpress.com
 www.fb-podglad.blogspot.com
 www.fb-szpieguj.likesyou.org
@@ -3041,7 +3038,6 @@ www.herbalife.pl
 www.herbeauty.co
 www.heredatetime.com
 www.herrakop.co
-www.herrenmode.tk
 www.hexistrading.com
 www.hibids10.com
 www.highamnet.co.uk
@@ -3118,7 +3114,6 @@ www.interpathlaboratories.com
 www.investreviewier.com
 www.inwestujwrozwoj.pl
 www.iotiot.cf
-www.iphnelevenpro.luckyduckynet.com
 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
 www.i-podgladacz.pl
 www.iptivicini.com
@@ -3132,6 +3127,8 @@ www.itemagic.net
 www.itorrenty.org
 www.itsweeps3.space
 www.iv24.pl
+www.j0yp.l3f.info
+www.j4l.info
 www.jacketspolska.cn
 www.jakpodrywacnatinderze.pl
 www.jakpuch.pl
@@ -3149,6 +3146,7 @@ www.jezyckiszuszwol.pl
 www.jmbase.my
 www.jookerclik.site
 www.jordenmadsen.com
+www.jrly.l3f.info
 www.judomiedzyrzecz.pl
 www.juiceplus.com
 www.juicywin.pl
@@ -3164,6 +3162,7 @@ www.kajakurier.com
 www.kancelariaae.pl
 www.kancelariakufieta.pl
 www.kancelarialewickich.pl
+www.kantorfrank.pl
 www.karencupp.com
 www.karenshealthfoods.com
 www.karokorale.pl
@@ -3247,6 +3246,8 @@ www.kurtkiwyprzedaz.pl
 www.kuyxjgf.ga
 www.kwaterapodgruszka.pl
 www.kyani.com
+www.l2f.info
+www.l3f.info
 www.labersa.com
 www.lampeberger.com.pl
 www.laolle.com
@@ -3294,7 +3295,6 @@ www.losowa-gra.pl
 www.lottizzazionesavarra.it
 www.lottoland.pl
 www.loveaholics.com
-www.lovemyshoes.pl
 www.lp.macapps-centers.club
 www.lp.moviesearchcenter.com
 www.lp.speedytools.club
@@ -3764,7 +3764,6 @@ www.push-notification.tools
 www.px1alsry.com
 www.pyracity.info
 www.pz21.pl
-www.pzu-doplaty.pl
 www.pzu-sa.eu
 www.pzu.services
 www.qplaywin.com
@@ -3805,6 +3804,7 @@ www.reducelant.com
 www.reeboknpcii.pl
 www.refferalstaff.com
 www.refundacjeregionalne.pl
+www.reg-me.pl
 www.rehabretie.com
 www.reimageplus.com
 www.rekrutacja.zafriko.pl
@@ -4074,6 +4074,7 @@ www.themovienation.com
 www.thepropertydealerz.com
 www.thermomix.vorwerk.pl
 www.the-titanium.com
+www.th-games.com
 www.thinhvuongmedia.com
 www.think1.com
 www.thongtindonganh.vn
@@ -4222,6 +4223,7 @@ www.wapster.pl
 www.wardon.pl
 www.wartomiec.pl
 www.wdrodzenaratunek.pl
+www.wealthray4u.com
 www.wealthyme.warzonedns.com
 www.weartexhibitions.com
 www.web.cellfun.mobi
@@ -4284,6 +4286,7 @@ www.wyjazd24.pl
 www.wyleczpc.pl
 www.wypad3k0.blogspot.com
 www.wypoczywajunas.pl
+www.wyspa-maitri.pl
 www.wyspaofert.com
 www.wytypowany-zwyciezca.com
 www.wytypowany-zwyciezca.pl
@@ -4381,6 +4384,7 @@ wyjazd24.pl
 wyleczpc.pl
 wypad3k0.blogspot.com
 wypoczywajunas.pl
+wyspa-maitri.pl
 wyspaofert.com
 wytypowany-zwyciezca.com
 wytypowany-zwyciezca.pl
