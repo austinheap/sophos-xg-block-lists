@@ -1157,7 +1157,6 @@ cellstats.mako.co.il
 cem.hotelsapi.io
 center.io
 centraltag.com
-ceros.com
 certifica.com
 cetlog.jp
 cetrk.com
@@ -2016,6 +2015,8 @@ dnn506yrbagrg.cloudfront.net
 do09.net
 doclix.com
 dogrose18.com
+dojomojo.com
+dojomojo.ninja
 dominocounter.net
 domodomain.com
 d.omsnative.de
@@ -2156,6 +2157,7 @@ enecto.com
 engage-cdn.schibsted.media
 engageclick.com
 engagemaster.com
+engagetosell.com
 engageya.com
 engagio.com
 engine212.com
@@ -3325,7 +3327,6 @@ linkwi.se
 linkxchanger.com
 liod1ours.com
 listat.biz
-listrakbi.com
 listtop.ru
 live-audience.dailymotion.com
 livecounter.dk
@@ -7000,6 +7001,7 @@ x.weather.com
 xxxcounter.com
 xy.nullrefexcep.com
 xyztraffic.com
+ya-counter.ru
 yamanoha.com
 yandex-metrica.ru
 yapi.awe.sm
