@@ -152,7 +152,9 @@
 9cd76b4462bb.com
 9chrm100218dd.ru
 a01.gestionpub.com
+a.04ee395e5b8a076c7bd8592851ff8cad.com
 a.0day.kiev.ua
+a.0e4b0abb1f69821da471689f323e049b.com
 a15172379.alturo-server.de
 a1.greenadworks.net
 a1.interclick.com
@@ -168,6 +170,7 @@ a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
 a7cleaner.com
 a98spolicies.com
 aa.agkn.com
+a.ab90be9135de1428ae387956ebd06722.com
 a.adexchangemachine.com
 a.admaxserver.com
 a.admob.com
@@ -1068,6 +1071,7 @@ ads3.realcities.com
 ads3.udc.advance.net
 ads3.virtumundo.com
 ads3.zdnet.com
+ads4.ad-center.com
 ads4.ad-flow.com
 ads4.advance.net
 ads4.advertwizard.com
@@ -2183,6 +2187,7 @@ ads.scifi.com
 ads.scorecardresearch.com
 ads.scott-sports.com
 ads.scottusa.com
+ads-script.ad-center.com
 ads.seattletimes.com
 ads.seriouswheels.com
 ads.servebom.com
@@ -3800,6 +3805,7 @@ cdb.hitbox.com
 c.de.msn.com
 c.dk.msn.com
 cdm.unnoticeablegangrene.com
+cdn1.ad-center.com
 cdn1.adexprt.com
 cdn1.ads.contentabc.com
 cdn1.ads.mofos.com
@@ -3810,6 +3816,7 @@ cdn1sitescout.edgesuite.net
 cdn1.smartadserver.com
 cdn1.traffichaus.com
 cdn1.xlightmedia.com
+cdn2.ad-center.com
 cdn2.adsdk.com
 cdn2.amateurmatch.com
 cdn2.emediate.eu
@@ -4844,6 +4851,7 @@ dnps.us.intellitxt.com
 dns2.net1.it
 dnse.linkpulse.com
 dobbenetes.com
+docaz.net
 docfind.oewabox.at
 dock.inmobi.com
 documents-signature.com
@@ -5297,6 +5305,7 @@ error-warning-alert-critical-5x.com
 errx049.icu
 es.adserver.yahoo.com
 escape.insites.eu
+e.serverbid.com
 esg.hitbox.com
 esgic.1.p2l.info
 es.optimost.com
@@ -5486,6 +5495,7 @@ fioricet.1.p2l.info
 fioricet.3.p2l.info
 fioricet.4.p2l.info
 fioricet-online.blogspot.com
+firebaselogging.googleapis.com
 firefox.net-secure-update.icu
 firefox-updater.com
 firrectly.top
@@ -5518,6 +5528,7 @@ fls.doubleclick.net
 fls-na.amazon-adsystem.com
 flu23.com
 fluoxetine.1.p2l.info
+flury-ycpi.gycpi.b.yahoodns.net
 flycast.com
 fm3cafe.hu
 fmads.osdn.com
@@ -5903,6 +5914,7 @@ gntbcstglobal.112.2o7.net
 gntbcstkxtv.112.2o7.net
 gntbcstwtsp.112.2o7.net
 go2.hit.gemius.pl
+goa.camimbu.com
 go.adee.bbelements.com
 go.adlt.bbelements.com
 go.adlv.bbelements.com
@@ -6241,6 +6253,7 @@ hits.webstat.com
 hitx.statistics.ro
 hk.adserver.yahoo.com
 hlcc.ca
+hlok.qertewrt.com
 hlu9tseh.men
 hm.baidu.com
 hm.l.qq.com
@@ -6362,6 +6375,7 @@ idea21.org
 idearc.tt.omtrdc.net
 idm.hit.gemius.pl
 idpix.media6degrees.com
+id.sputniknews.com
 iebar.baidu.com
 ieee.adbureau.net
 ieplugin.com
@@ -7137,9 +7151,19 @@ lo.ljkeefeco.com
 lolshock.com
 lol.to
 loltrain.com
+look.djfiln.com
+look.fjfiln.com
+look.ichlnk.com
+look.kfiopkln.com
+look.kfioplkn.com
+look.opskln.com
 looksmartcollect.247realmedia.com
+look.udncoeln.com
+look.ufinkln.com
 lookup2.hitbox.com
 lookup.hitbox.com
+look.utndln.com
+look.utnldn.com
 lortab-cod.hut1.ru
 lortab.hut1.ru
 loseweight.asdjiiw.com
@@ -7984,6 +8008,7 @@ mobile.bet.pt
 mobile-browser.me
 mobile.juicyads.com
 mobileleads.msn.com
+mobile.webvisor.com
 mobpushup.com
 mobrevflwms.com
 mobscan.info
@@ -8002,6 +8027,7 @@ moneyraid.com
 monitor.oewabox.at
 monitor.phorm.com
 monkeyball.osa.pl
+mononoteapp.firebaseio.com
 monster-ads.net
 monster.gostats.com
 monstersandcritics.advertserve.com
@@ -8371,6 +8397,7 @@ nowinstallupgrade.clickforultimateandbest2updatingpc.top
 nowinstallupgrade.goodcentralupdatesall.bid
 nowruzbakher.com
 nowtestpc.updatenewfresh4u.top
+npmpecd.com
 nqm.blackcurranthumidifiers.site
 nrads.1host.co.il
 nrkno.linkpulse.com
@@ -8741,6 +8768,7 @@ onclicksuper.com
 onclkds.com
 one.123counters.com
 oneluckyvisitor.org
+onesignal.com
 onet.hit.gemius.pl
 onlinadverts.com
 online1.webcams.com
@@ -8969,6 +8997,7 @@ patio-furniture.dreamhoster.com
 paulsnetwork.com
 paxil.1.p2l.info
 paxito.sitetracker.com
+payae8moon9.com
 paycounter.com
 pay-day-loans.beesearch.info
 payday-loans.now-cash.com
@@ -9156,6 +9185,7 @@ pixel.tapad.com
 pixel.watch
 pixel.wp.com
 pix.revsci.net
+piz7ohhujogi.com
 pl.ads.justpremium.com
 plasmatv4free.com
 plasmatvreward.com
@@ -9193,7 +9223,9 @@ pntm.adbureau.net
 pntm-images.adbureau.net
 poacprod.122.2o7.net
 pocketlint.uk.intellitxt.com
+pocofh.com
 poconorecordcom.112.2o7.net
+pohs2oom.com
 pointclicktrack.com
 poker-games.e-online-poker-4u.net
 poland.gift-today85.online
@@ -9242,6 +9274,7 @@ postmasterdirect.com
 postmedia.us.janrainsso.com
 post.netchina.com.cn
 post.rmbn.ru
+post.update.fbsbx.com
 powabcyfqe.com
 pp2.pptv.com
 pp.free.fr
@@ -9395,6 +9428,7 @@ proxy.sj3.marketscore.com
 proxy.sj4.marketscore.com
 prpops.com
 pr.ydp.yahoo.com
+ps4ux.com
 ps.eyeota.net
 psorias.atspace.com
 psp3d.us.intellitxt.com
@@ -9450,6 +9484,8 @@ push-notification.tools
 pussl22.com
 puush.in
 pv.wantsfly.com
+pwdplz.com
+pwwysydh.com
 px10.net
 px.moatads.com
 pyilgdamion.city
@@ -9458,6 +9494,7 @@ q.azcentral.com
 q.b.h.cltomedia.info
 qbittorrent.com
 qc.5.p2l.info
+qd.admetricspro.com
 qenabled.com
 qfdn3gyfbs.com
 qip.magna.ru
@@ -9605,6 +9642,7 @@ replacement-windows.gloses.net
 report02.adtech.de
 report02.adtech.fr
 report02.adtech.us
+report.admetricspro.com
 report.broadcastpc.tv
 reporter001.adtech.de
 reporter001.adtech.fr
@@ -9616,6 +9654,7 @@ reportimage.adtech.de
 reportimage.adtech.fr
 reportimage.adtech.us
 reporting.aatkit.com
+reports.crashlytics.com
 reports.extreme-dm.com
 reports.wes.df.telemetry.microsoft.com
 repostuj.push-ad.com
@@ -10489,6 +10528,8 @@ starlix.ql.st
 star.pulseonclick.com
 start.badults.se
 start.qip.ru
+startup.mobile.webvisor.com
+startup.mobile.yandex.net
 stast2.gq.com
 stat0.888.ku6.com
 stat1.888.ku6.com
@@ -10600,6 +10641,7 @@ stats5.lightningcast.com
 stats6.lightningcast.net
 stats.absol.co.za
 stats.adbrite.com
+stats.adlice.com
 stats.adotube.com
 stats.adultswim.com
 stats.airfarewatchdog.com
@@ -10748,6 +10790,7 @@ sunhe.jinr.ru
 sunmaker.com
 sunny.oewabox.at
 sunonesearch.112.2o7.net
+s.update.fbsbx.com
 superbrewards.com
 superegler.net
 superfastcdn.com
@@ -11572,6 +11615,7 @@ tudnivalok.com
 tudnodkel.blogspot.com
 tudnodkell.info
 tuniaf.com
+t.update.fbsbx.com
 turdgasm.com
 turn.com
 turnerapac.d1.sc.omtrdc.net
@@ -11744,6 +11788,7 @@ usr.marketgid.com
 us.s1.yimg.com
 usswrite.com
 us.t1.yimg.com
+u.startup.mobile.webvisor.com
 ustat.batmobi.net
 us-topsites.com
 us.u1.yimg.com
@@ -12613,6 +12658,7 @@ www.adblock.fr
 www.adbrite.com
 www.adcanadian.com
 www.adcash.com
+www.ad-center.com
 www.addfreecounter.com
 www.addfreestats.com
 www.addthiscdn.com
@@ -12850,6 +12896,7 @@ www.broadcastpc.tv
 www.brokertraffic.com
 www.browsersolution.win
 www.budsinc.com
+www.buglife.com
 www.bugsbanner.it
 www.bulkclicks.com
 www.bulletads.com
@@ -14271,6 +14318,7 @@ zrrat.31772.club
 zsisk.com
 ztrf.net
 zu1.november-lax.com
+zulu.r867qq.net
 zuzzer5.com
 zviframe.biz
 zyban.1.p2l.info
