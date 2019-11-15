@@ -489,6 +489,7 @@ adserver.virginmedia.com
 adserver.yahoo.com
 adserv.gamezone.de
 adservice.google.com
+adservice.google.com.mt
 adservinginternational.com
 adserving.unibet.com
 ads.eu.msn.com
@@ -973,6 +974,7 @@ audit.quantcast.mgr.consensu.org
 audit.webinform.hu
 augur.io
 auto-bannertausch.de
+autohits.dk
 automaticflock.com
 avenuea.com
 avocet.io
@@ -1279,6 +1281,7 @@ cognitiv.ai
 coin-hive.com
 coinhive.com
 cointraffic.io
+collector-medium.lightstep.com
 colonize.com
 comclick.com
 comfortablecheese.com
@@ -2558,7 +2561,6 @@ simpleanalytics.io
 simpli.fi
 sincerebuffalo.com
 sincerespy.com
-sinefight-skinesia.com
 sinoa.com
 sitedataprocessing.com
 siteimproveanalytics.com
@@ -2612,6 +2614,7 @@ spirebaboon.com
 sponsorads.de
 sponsorpro.de
 sponsors.thoughtsmedia.com
+spoor-api.asia.nikkei.com
 spot.fitness.com
 spotxchange.com
 spotx.tv
