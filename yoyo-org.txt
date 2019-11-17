@@ -466,6 +466,7 @@ adserver.hwupgrade.it
 adserver.irishwebmasterforum.com
 adserver.janes.com
 adserver.libero.it
+adservern2.host
 adserver.news.com.au
 adserver.nydailynews.com
 adserver.o2.pl
@@ -1090,6 +1091,7 @@ belstat.nl
 berp.com
 bestboundary.com
 best-pr.info
+best-realgirl2.com
 bestsearch.net
 best-top.ro
 bewilderedblade.com

@@ -2336,6 +2336,7 @@ explore-123.com
 exposebox.com
 extole.com
 extole.io
+extra.tvmaze.com
 extreme-dm.com
 extreme-ip-lookup.com
 extszm.web.de
@@ -2616,6 +2617,7 @@ getstatistics.se
 gezaehlt.de
 gez.io
 gft2.de
+gglscr.online
 ggxt.net
 giddycoat.com
 giddyuptrk.com
@@ -3734,6 +3736,7 @@ mms.cloudpro.co.uk
 mms.cnn.com
 mms.coachmag.co.uk
 mms.deadspin.com
+mms.expertreviews.co.uk
 mms.gizmodo.com
 mms.gulflive.com
 mms.jalopnik.com
@@ -4002,6 +4005,7 @@ notmining.org
 nova.dice.net
 novately.com
 nowinteract.com
+nozem.tvmaze.com
 npario-inc.net
 nprove.com
 nr7.us
@@ -4542,6 +4546,9 @@ pvx.xcar.com.cn
 pwa.telephoneannuaire.fr
 pw.gigazine.net
 px.247inc.net
+px-cdn.net
+pxchk.net
+px-cloud.net
 pxc.otto.de
 px.excitedigitalmedia.com
 pxf.io
@@ -6328,6 +6335,7 @@ track.uc.cn
 track.ugamezone.com
 track.ultimate-guitar.com
 track.untd.com
+track.vdo.ai
 track.veedio.it
 trackvoluum.com
 track.vscash.com
@@ -7053,6 +7061,7 @@ zenlivestats.com
 zeotap.com
 zero.kz
 zesep.com
+zeus.slader.com
 zhihu-web-analytics.zhihu.com
 zipstat.dk
 zirve100.com
