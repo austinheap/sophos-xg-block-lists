@@ -1076,6 +1076,7 @@ cache.fm
 cadreon.com
 cadreon.s3.amazonaws.com
 c.adroll.com
+calculatorstatement.com
 callingjustified.com
 callisto.fm
 callmeasurement.com
@@ -1756,6 +1757,7 @@ d1clufhfw8sswh.cloudfront.net
 d-1.co
 d1cr9zxt7u0sgu.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
+d1hi41nc56pmug.cloudfront.net
 d1ksyxj9xozc2j.cloudfront.net
 d1lm7kd3bd3yo9.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
@@ -1784,6 +1786,7 @@ d2cpw6kwpff7n5.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
 d2gfi8ctn6kki7.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
+d2kdl5wcwrtj90.cloudfront.net
 d2kmrmwhq7wkvs.cloudfront.net
 d2kyy9hvbrzkgn.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
