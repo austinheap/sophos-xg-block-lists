@@ -59,7 +59,6 @@ adworkmedia.com
 aerosneakers.pl
 africanmango900.pl
 africanmango.pl
-ag-agency.pl
 agataszupke.pl
 agdeer.com
 agdkom.net
@@ -164,10 +163,10 @@ astrocash.org
 atchec.com
 atcofiles.com
 atlanticgam.online
-atlanticgdynia.pl
 atnimanvilla.com
 audio-book.net.pl
 audmax.pl
+autorentier.pl
 autorepuestosdml.com
 avaparse.ir
 aveplay.com
@@ -342,6 +341,7 @@ clic-douaisis.fr
 clickjump.biz
 clickpush.biz
 climblike.com
+cloudtokenwallet.com
 clube62.date
 clubedoestudante.net.br
 cobolito.pl
@@ -351,13 +351,13 @@ colorcredit.pl
 colorking.es
 colormessa.info
 colors-app.blogspot.com
-columbiapolskasklep.pl
 colwayinternational.com
 colway-international.com.pl
 colway-kolagen.com
 colway.pl
 colway-sklep.com
 colway-sklep.eu
+com-gift-winner-lucky-day.vip
 commanods.xyz
 compartnew.eu
 concash.pl
@@ -597,6 +597,7 @@ exeos.ws
 exitopolska.com
 ex-torrentycom.5v.pl
 extragenerators.xyz
+exw-wallet.com
 exxotel.com
 e-yourmovies.pl
 eyupp.com
@@ -822,7 +823,6 @@ giftprizewinner.com
 gifts-for-free.online
 gigup.net
 gikon.pl
-gimnazjumlyski.pl
 gimnazjumniedrzwica.pl
 girrrly.com
 givehopeahand.org
@@ -846,7 +846,6 @@ goleta105.com
 goodmenonthego.com
 go.playoosh.com
 go-rilla.offerstrack.net
-gosirzarzecze.pl
 gotowka-doreki.eu
 gotowkanadowod.pl
 gotowkanadzis.pl
@@ -856,10 +855,12 @@ gpmandiri.com
 grabyourluck.online
 graomilion.pl
 gratissos.com
+grazefoot.com
 great-prizes-here.info
 greenbarleyplus.pl
 green-kredyt.pl
 greerlies.pro
+grnpower.io
 grumman.pl
 grupadsa.pl
 grupamaxi.pl
@@ -1017,6 +1018,7 @@ kancelariaae.pl
 kancelariakufieta.pl
 kancelarialewickich.pl
 kantorfrank.pl
+karatbars.com
 karencupp.com
 karenshealthfoods.com
 karokorale.pl
@@ -1120,7 +1122,6 @@ legalizacja.5v.pl
 legioncrest.com
 legitstore.pl
 lesantivirus.net
-lesemerick.com
 letswinstuff.com
 levelup.publicvm.com
 leyda.pl
@@ -1173,6 +1174,7 @@ makanaliabadian.ir
 maliciousdns.msftncsi.com
 manaslu.pl
 manilis.com
+mantoropols.xyz
 marcofama.it
 marekporwol.pl
 mariuszpelczarski.pl
@@ -1541,6 +1543,7 @@ pl.slimg0ji-berry.com
 pl.superando.net
 pl.team
 pl.tvplusnewtab.com
+plustokenofficial.com
 pm-international.com
 pmpj.pl
 pobieralnia.com.pl
@@ -1697,6 +1700,7 @@ rehabretie.com
 reimageplus.com
 rekrutacja.zafriko.pl
 relayimmo.com
+reloffersstart.co
 rep.privatesearch.club
 restricted.pl
 retrortv.in.net
@@ -2098,6 +2102,7 @@ vivo4.eu
 vladoblog.info
 vnotrk.com
 vod24.pl
+vodafone.com-gift-winner-lucky-day.vip
 vodplay.pl
 votum-sa.pl
 vpt58.tvnewtop.pro
@@ -2152,7 +2157,6 @@ wolyncalyfilm.wordpress.com
 wolysport.pl
 womenempowermentpakistan.com
 wooptrk.com
-workwolf.pl
 worldinfoclub.com
 worldoftankscheats.com
 wpcache-blogger.com
@@ -2227,7 +2231,6 @@ www.adworkmedia.com
 www.aerosneakers.pl
 www.africanmango900.pl
 www.africanmango.pl
-www.ag-agency.pl
 www.agataszupke.pl
 www.agdeer.com
 www.agdkom.net
@@ -2334,10 +2337,10 @@ www.astrocash.org
 www.atchec.com
 www.atcofiles.com
 www.atlanticgam.online
-www.atlanticgdynia.pl
 www.atnimanvilla.com
 www.audio-book.net.pl
 www.audmax.pl
+www.autorentier.pl
 www.autorepuestosdml.com
 www.avaparse.ir
 www.aveplay.com
@@ -2513,6 +2516,7 @@ www.clic-douaisis.fr
 www.clickjump.biz
 www.clickpush.biz
 www.climblike.com
+www.cloudtokenwallet.com
 www.clube62.date
 www.clubedoestudante.net.br
 www.cobolito.pl
@@ -2522,13 +2526,13 @@ www.colorcredit.pl
 www.colorking.es
 www.colormessa.info
 www.colors-app.blogspot.com
-www.columbiapolskasklep.pl
 www.colwayinternational.com
 www.colway-international.com.pl
 www.colway-kolagen.com
 www.colway.pl
 www.colway-sklep.com
 www.colway-sklep.eu
+www.com-gift-winner-lucky-day.vip
 www.commanods.xyz
 www.compartnew.eu
 www.concash.pl
@@ -2770,6 +2774,7 @@ www.exeos.ws
 www.exitopolska.com
 www.ex-torrentycom.5v.pl
 www.extragenerators.xyz
+www.exw-wallet.com
 www.exxotel.com
 www.e-yourmovies.pl
 www.eyupp.com
@@ -2995,7 +3000,6 @@ www.giftprizewinner.com
 www.gifts-for-free.online
 www.gigup.net
 www.gikon.pl
-www.gimnazjumlyski.pl
 www.gimnazjumniedrzwica.pl
 www.girrrly.com
 www.givehopeahand.org
@@ -3019,7 +3023,6 @@ www.goleta105.com
 www.goodmenonthego.com
 www.go.playoosh.com
 www.go-rilla.offerstrack.net
-www.gosirzarzecze.pl
 www.gotowka-doreki.eu
 www.gotowkanadowod.pl
 www.gotowkanadzis.pl
@@ -3029,10 +3032,12 @@ www.gpmandiri.com
 www.grabyourluck.online
 www.graomilion.pl
 www.gratissos.com
+www.grazefoot.com
 www.great-prizes-here.info
 www.greenbarleyplus.pl
 www.green-kredyt.pl
 www.greerlies.pro
+www.grnpower.io
 www.grumman.pl
 www.grupadsa.pl
 www.grupamaxi.pl
@@ -3190,6 +3195,7 @@ www.kancelariaae.pl
 www.kancelariakufieta.pl
 www.kancelarialewickich.pl
 www.kantorfrank.pl
+www.karatbars.com
 www.karencupp.com
 www.karenshealthfoods.com
 www.karokorale.pl
@@ -3294,7 +3300,6 @@ www.legalizacja.5v.pl
 www.legioncrest.com
 www.legitstore.pl
 www.lesantivirus.net
-www.lesemerick.com
 www.letswinstuff.com
 www.levelup.publicvm.com
 www.leyda.pl
@@ -3347,6 +3352,7 @@ www.makanaliabadian.ir
 www.maliciousdns.msftncsi.com
 www.manaslu.pl
 www.manilis.com
+www.mantoropols.xyz
 www.marcofama.it
 www.marekporwol.pl
 www.mariuszpelczarski.pl
@@ -3684,6 +3690,7 @@ www.plik-pobierz.pl
 www.plikson24.pl
 www.plikson.pl
 www.pliks.pl
+www.plustokenofficial.com
 www.pm-international.com
 www.pmpj.pl
 www.pobieralnia.com.pl
@@ -3840,6 +3847,7 @@ www.rehabretie.com
 www.reimageplus.com
 www.rekrutacja.zafriko.pl
 www.relayimmo.com
+www.reloffersstart.co
 www.rep.privatesearch.club
 www.restricted.pl
 www.retrortv.in.net
@@ -4242,6 +4250,7 @@ www.vivo4.eu
 www.vladoblog.info
 www.vnotrk.com
 www.vod24.pl
+www.vodafone.com-gift-winner-lucky-day.vip
 www.vodplay.pl
 www.votum-sa.pl
 www.vpt58.tvnewtop.pro
@@ -4296,7 +4305,6 @@ www.wolyncalyfilm.wordpress.com
 www.wolysport.pl
 www.womenempowermentpakistan.com
 www.wooptrk.com
-www.workwolf.pl
 www.worldinfoclub.com
 www.worldoftankscheats.com
 www.wpcache-blogger.com
