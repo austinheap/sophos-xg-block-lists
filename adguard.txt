@@ -1113,7 +1113,6 @@ adabra.com
 adacado.com
 adaction.se
 adacts.com
-ad.adapter.kaffnet.com
 ad.ad-arata.com
 ad.adpon.jp
 ad.adriver.ru
@@ -1137,7 +1136,6 @@ adapd.com
 adapex.io
 ad-api.ehawk.com
 adapi.gunosy.com
-ad.api.kaffnet.com
 ad.api.yyapi.net
 ad.apps.fm
 ad.apsalar.com
@@ -6632,6 +6630,7 @@ collarity.com
 colleable.info
 collect2.sas.com
 collect.albacross.com
+collect.blishtech.co
 collect.data.tm-awx.com
 collecte.audience.acpm.fr
 collect.finanzen.net
@@ -10737,6 +10736,7 @@ ftdcseuvlmfp.com
 ftdspjxhcufui.com
 ftfnchzmnyl.com
 ftgfmbxqkjda.com
+ftigholm.site
 ftjcfx.com
 ftjrekbpjkwe.com
 ftodxdoolvdm.com
@@ -21015,6 +21015,7 @@ publisher-event.unityads.unity3d.com
 publisher.to
 publishflow.com
 publish-int.se
+publish.iptvz.net
 publish.pizzazzemail.com
 publish.web.id
 publited.com
@@ -23205,7 +23206,6 @@ sdgvzdksjbl.com
 sdillrnslaiyb.com
 sdk.adincube.com
 sdk.adtiming.com
-sdk.api.kaffnet.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sdk.digitalbees.it
@@ -26227,6 +26227,7 @@ tracker.blutv.com
 tracker.brainsins.com
 tracker.calameo.com
 tracker.cartprotector.com
+tracker.convead.io
 tracker.cpapath.com
 tracker.data-vp.com
 tracker.downdetector.com
@@ -27337,6 +27338,7 @@ ujqbxbcqtbqt.com
 ujrfwuzv.com
 ujrtwvabum.com
 ujtyosgemtnx.com
+ujuclxjkb.com
 ujuqvalvvvof.com
 ujwdwwfuqcgnv.com
 ujyyciaedxqr.com
@@ -27458,6 +27460,7 @@ unikmmqybjy.com
 uniontraff.com
 uniqodo.com
 uniquecaptcha.com
+unisound.cdnvideo.ru
 unister-adservices.com
 unitedtraders.com
 unitethecows.com
@@ -30381,6 +30384,7 @@ yieldbuild.com
 yieldify.com
 yieldkit.com
 yieldlab.net
+yieldlove-ad-serving.net
 yieldlove.com
 yield-manager.browsiprod.com
 yieldmanager.com
