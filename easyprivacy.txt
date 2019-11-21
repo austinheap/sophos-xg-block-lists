@@ -72,6 +72,7 @@
 51yes.com
 55labs.com
 6ldu6qa.com
+6pal.consobaby.com
 6sc.co
 720-trail.co.uk
 77tracking.com
@@ -233,6 +234,7 @@ ad-score.com
 adsensedetective.com
 adservicemedia.dk
 adsettings.com
+adsixmedia.fr
 adskom.com
 adspsp.com
 adsrvx.com
@@ -1689,6 +1691,7 @@ crypto-pool.fr
 crypto-webminer.com
 csbew.com
 csdata1.com
+cse3.chausport.com
 csgocpu.com
 csi.gstatic.com
 csi-tracking.com
@@ -1759,6 +1762,7 @@ d-1.co
 d1cr9zxt7u0sgu.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
 d1hi41nc56pmug.cloudfront.net
+d1iazwv1n1tsyi.cloudfront.net
 d1ksyxj9xozc2j.cloudfront.net
 d1lm7kd3bd3yo9.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
@@ -2051,6 +2055,7 @@ dstrack2.info
 dt1pxsve3tgas.cloudfront.net
 dtc-v6t.com
 dti-ranker.com
+dt.nrjmobile.fr
 dtscout.com
 dt.sellpoint.net
 dtxngr.com
@@ -2078,13 +2083,28 @@ dyntrk.com
 dzizsih.ru
 dzmxze7hxwn6b.cloudfront.net
 dzxxxg6ij9u99.cloudfront.net
+ea.auchantelecom.fr
+ea.aujourdhui.com
 ea.celio.com
 eacla.com
 ea.clubic.com
+ea.deguisetoi.fr
+ea.fleurancenature.fr
+ea.greenweez.com
+ea.habitat.fr
+ea.histoiredor.com
+ea.hofmann.pt
+ea.homair.com
 ea.jeuxvideopc.com
+ea.lafrancedunordausud.fr
 ea.lexpress.fr
+ea.melijoe.com
+ea.millet.fr
+ea.millet-mountain.com
 ea.monsieurmanuel.com
 eanalyzer.de
+ea.natiloo.com
+ea.rentacar.fr
 early-birds.fr
 early-birds.io
 earnitup.com
@@ -2098,6 +2118,9 @@ easy.lv
 easyresearch.se
 easysol.net
 easytracking.de
+ea.venta-unica.com
+ea.vente-unique.ch
+ea.vente-unique.com
 ea.warnerbros.fr
 ebay.northernhost.com
 ebis.ne.jp
@@ -2127,6 +2150,7 @@ edtp.de
 edw.edmunds.com
 edw.insideline.com
 efatik.me
+ef.futuroscope.com
 e.funnymel.com
 eggplant.cloud
 ejyymghi.com
@@ -2161,6 +2185,7 @@ enectoanalytics.com
 enecto.com
 engage-cdn.schibsted.media
 engageclick.com
+engagefront.theweathernetwork.com
 engagemaster.com
 engagetosell.com
 engageya.com
@@ -2235,11 +2260,14 @@ etrigue.com
 etrust.eu
 et.twyn.com
 etui.fs.ml.com
+et.unclejeans.com
 etyper.com
 etzbnfuigipwvs.ru
 eucsoft.com
 eu.groupondata.com
+eulerian.brandalley.fr
 euleriancdn.net
+eulerian.mathon.fr
 eulerian.net
 eulerian.sarenza.com
 eultech.fnac.com
@@ -2352,6 +2380,7 @@ ezec.co.uk
 e-zeeinternet.com
 ezytrack.com
 f1tbit.com
+f7ds.liberation.fr
 f92j5.com
 fab.interia.pl
 fabricww.com
@@ -2507,6 +2536,7 @@ fsd2.digital
 fshka.com
 f.staticlp.com
 fstrk.net
+fsz1.francoisesaget.com
 ftbpro.com
 ftrack.ru
 fueldeck.com
@@ -2551,6 +2581,7 @@ gcpdata.telegraph.co.uk
 g.deathandtaxesmag.com
 g.delivery.net
 gdeslon.ru
+gdm1.toner.fr
 gear5.me
 geistm.com
 gekko.spiceworks.com
@@ -2591,6 +2622,7 @@ geoip.taskforce.is
 geoip.viamichelin.com
 geojs.io
 geo.kontagent.net
+geolid.com
 geolocation.performgroup.com
 geo.ltassrv.com
 geo.metronews.ca
@@ -2736,6 +2768,7 @@ guanoo.net
 guardwork.info
 gulliblecamp.com
 gu-pix.appspot.com
+guq9.vente-unique.it
 guruquicks.net
 gus.host
 gustaver.ddns.net
@@ -3378,6 +3411,7 @@ log.aimtell.com
 log.aliyuncs.com
 log.artipbox.net
 log.bitauto.com
+logbor.com
 log.china.cn
 log.cizion.com
 logcounter.com
@@ -3771,6 +3805,7 @@ modernus.is
 mokuz.ru
 mollnia.com
 momently.com
+mo.moonpig.com
 moneone.ga
 monerise.com
 monero-miner.com
@@ -3841,6 +3876,7 @@ musiccounter.ru
 musthird.com
 mutinyhq.com
 mutuza.win
+mva1.maeva.com
 mvilivestats.com
 mvtracker.com
 mv.treehousei.com
@@ -3920,6 +3956,7 @@ ncaudienceexchange.com
 ncdnprorogeraie.lol
 ncom.dk
 nctrk.abmail.com.br
+ncx2.voyage-prive.it
 nddmcconmqsy.ru
 ndf81.com
 ndg.io
@@ -4032,6 +4069,7 @@ nytlog.com
 n.yunshipei.com
 o.addthis.com
 oadz.com
+oal2.destinia.co.uk
 observare.de
 observerapp.com
 observer.ip-label.net
@@ -4062,6 +4100,7 @@ ohmystats.com
 oidah.com
 oimg.m.cnbc.com
 oimg.mobile.cnbc.com
+ojm4.palladiumhotelgroup.com
 ojrq.net
 okeyletsgo.ml
 oktopost.com
@@ -4208,6 +4247,7 @@ p.aty.sohu.com
 pbbl.co
 pb.i.sogou.com
 pb.m.naver.com
+pbox.photobox.de
 pc1.io
 pc-agency24.de
 pclick.europe.yahoo.com
@@ -4259,6 +4299,7 @@ pf.newegg.com
 p.gazeta.pl
 pg.buzzfeed.com
 pgs.io
+pgt1.voyage-prive.es
 phantom.nudgespot.com
 phar.gu-web.net
 philpool.com
@@ -4419,6 +4460,7 @@ pool.etn.spacepools.org
 pool.hws.ru
 poolmining.eu
 poolmining.net
+po.ponant.com
 popsample.com
 popstats.com.br
 popt.in
@@ -5085,6 +5127,7 @@ sjv.io
 sk1n.fr
 sk8t.fr
 skencituer.com
+ski1.skiset.com
 skimresources.com
 skyglue.com
 skylog.kz
@@ -5092,6 +5135,7 @@ sl-ct5.com
 slingpic.com
 slipstream.skyscanner.net
 slogantrend.de
+sls2.loisirsencheres.com
 smadex.com
 smallseotools.com
 smartctr.com
@@ -5835,6 +5879,7 @@ td573.com
 t.dailymail.co.uk
 tda.io
 t.devnet.com
+tdf1.admyjob.com
 tdf.ringier.ch
 t.dgm-au.com
 tds.io
@@ -5995,6 +6040,7 @@ toruk.tanx.com
 total.shanghaidaily.com
 tovery.net
 tower.moviepilot.com
+tpa7.iahorro.com
 t.paypal.com
 tp.deawm.com
 t.planvip.fr
@@ -6486,6 +6532,7 @@ tscounter.com
 ts.faz.net
 t.sgc.io
 t.sharethis.com
+tsj0.madeindesign.com
 tsk4.com
 tsk5.com
 t.smile.eu
@@ -6614,6 +6661,7 @@ userzoom.com
 usuarios-online.com
 utrack.hexun.com
 ut.ratepoint.com
+uue2.destinia.ir
 uuxnwoevyb.com
 uzrating.com
 v12group.com
@@ -6627,7 +6675,10 @@ variti.net
 vastpaketet.se
 vatrack.hinet.net
 vbanalytics.com
+vbe.voyage-prive.be
 vcfs6ip5h6.bid
+vch.voyage-prive.ch
+vde1.voyage-prive.de
 vdna-assets.com
 vdoing.com
 veduy.com
@@ -6654,6 +6705,11 @@ vertster.com
 verypopularwebsite.com
 veta.naver.com
 vfd2dyn.vodafone.de
+vfo.voyage-prive.co.uk
+vgo.vegaoo.de
+vgo.vegaoo.es
+vgo.vegaoo.nl
+vgo.vegaooparty.com
 video-ad-stats.googlesyndication.com
 videoevents.outbrain.com
 video.oms.eu
@@ -6739,6 +6795,7 @@ vpzccwpyilvoyg.ru
 vra.outbrain.com
 vrp.outbrain.com
 vrt.outbrain.com
+vry9.destinia.com
 vs.target.com
 vstats.co
 vstats.digitaltrends.com
@@ -6889,6 +6946,7 @@ weesh.co.uk
 welt-der-links.de
 wemfbox.ch
 we-stats.com
+we.wecanimal.pt
 whackedmedia.com
 whathyx.com
 whatismyip.win
@@ -7010,6 +7068,7 @@ xtremline.com
 xvideosharing.site
 x.weather.com
 xxxcounter.com
+xy33.smallable.com
 xy.nullrefexcep.com
 xyztraffic.com
 ya-counter.ru
@@ -7032,6 +7091,7 @@ yjtag.yahoo.co.jp
 yldr.io
 ymetrica1.com
 ynuf.alibaba.com
+yoc.younited-credit.com
 yololike.space
 yoochoose.net
 youborafds01.com

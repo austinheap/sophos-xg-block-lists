@@ -3533,7 +3533,6 @@ applog.uc.cn
 applog.ucdns.uc.cn
 applovin.com
 appmetr.com
-appmetrica.yandex.com
 appmetrica.yandex.net
 appn.center
 appnext-a.akamaihd.net
@@ -3606,6 +3605,7 @@ aqrglffxw.com
 aqryyhyzjveh.com
 aqtracker.com
 aquhcfvu.com
+a.quora.com
 aqussxtpjfelp.com
 aqyhsqhggq.com
 a.raasnet.com
@@ -4011,6 +4011,7 @@ ayads.co
 ayandns.com
 ayazstuzc.com
 ayboll.com
+aycksenkb.com
 ayclinical.com
 aycwvgrra.com
 ayfzryxitsusx.com
@@ -4122,6 +4123,7 @@ b9c73b037e8c27df5.com
 ba2b687.se
 ba6af3a0099c6cb9eb5.com
 baa2e174884c9c0460e.com
+baaeobgdaxdvsa.com
 babator.com
 babbnrs.com
 bab.frb.io
@@ -7514,6 +7516,7 @@ d1gp8joe0evc8s.cloudfront.net
 d1gp9nlx229wzz.cloudfront.net
 d1hi41nc56pmug.cloudfront.net
 d1i2v9a8xom2hy.cloudfront.net
+d1iazwv1n1tsyi.cloudfront.net
 d1jl096lp4cce0.cloudfront.net
 d1k0glcmk0b5rb.cloudfront.net
 d1k29rhvz38kg5.cloudfront.net
@@ -7585,6 +7588,7 @@ d2b7n13v8adl6f.cloudfront.net
 d2bj2texxib1qg.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2d8qsxiai9qwj.cloudfront.net
+d2dq2ahtl5zl1z.cloudfront.net
 d2eb561c06fa6.com
 d2fbkzyicji7c4.cloudfront.net
 d2fhjyz3dwdx87.cloudfront.net
@@ -9078,6 +9082,7 @@ edsnnfqazn.com
 edt02.net
 edtp.de
 edvbyybaviln.com
+edw.edmunds.com
 edw.insideline.com
 edwlifes.vo.llnwd.net
 edwywpsufuda.com
@@ -10724,6 +10729,7 @@ fsmpxxdyv.com
 fsnhesxsw.com
 fsoft4down.com
 fsohxklbxdi.com
+fspicbawd.com
 fsqknqvlngde.com
 fstredirr.com
 fstrk.net
@@ -10760,6 +10766,7 @@ ftytssqazcqx.com
 fuaawvoqbzza.com
 fubhyuveurmlz.com
 fuckbookvietnam.com
+fuel451.com
 fueldeck.com
 fuelx.com
 fueox.us
@@ -12151,6 +12158,7 @@ hefgynqlzwi.com
 hegarberetrof.pro
 hegreeks.com
 hegrinhar.com
+hegtiterbuttons.pro
 hehraybryciyls.com
 hehyqqqxzndwia.com
 heias.com
@@ -16211,6 +16219,7 @@ luraclhaunxv.com
 lusfrsxgxopm.com
 lushcrush.com
 lutereum.com
+luuming.com
 luven.xyz
 luvstnqpw.com
 luxads.net
@@ -18704,6 +18713,7 @@ nvero.net
 n.vestey.ru
 nvgcmeqfn.com
 nvhzkdltdxfoax.com
+nvikgaormj.com
 nvjjquyylqicp.com
 nvjqm.com
 nvkkjenz.com
@@ -18947,6 +18957,7 @@ oeppesfmzlbpa.com
 oertmxfsryji.com
 oetwplgu.com
 oevery.com
+oevltdvzl.com
 oevujdgj.com
 oewabox.at
 oewscpwrvoca.com
@@ -19140,6 +19151,7 @@ olivka.biz
 olizyr.com
 olkzcdihiewe.com
 olmsoneenh.info
+ologyarriedpr.info
 ololen.pw
 olpvmzxadjwgk.com
 olrmwkarcwfbjz.com
@@ -23646,7 +23658,6 @@ simplereach.com
 simpli.fi
 simplisticnose.com
 simplycast.us
-simply.com
 simplymeasured.com
 simudotheh.com
 simvinvo.com
@@ -23802,6 +23813,7 @@ slopeaota.com
 slot-888.ru
 slowpoker.ru
 slurolen.com
+slvcwiabpgyxa.com
 slwclrwmruuxav.com
 sm534z1jpx.com
 smaato.net
@@ -24842,6 +24854,7 @@ straightschool.com
 strainemergency.com
 strands.com
 strawdense.com
+stream1688.com
 stream-all.com
 streamate.com
 streambeam.io
@@ -25186,6 +25199,7 @@ tag.datariver.ru
 tagdelivery.com
 tag.email-attitude.com
 tagger.opecloud.com
+tag.getdrip.com
 taggify.net
 tagifydiageo.com
 tagjunction.com
@@ -25726,6 +25740,7 @@ tin-tin-win.com
 tin.xpornoset.com
 tinycounter.com
 tinystat.ir
+tionscofferent.info
 tiouqzubepuy.com
 tip-ads.de
 tiphkuloov.com
@@ -28677,6 +28692,7 @@ vyatdrilrtgeh.com
 vyborexperta.ru
 vydlqaxchmij.com
 vygekimhrfto.com
+vyg.mobi
 vyjawlifnxynej.com
 vyjwsifvybc.com
 vykcbbytkklxp.com
@@ -31126,6 +31142,7 @@ zoo-porno.biz
 zoosnet.net
 zoossoft.net
 zoowknbw.com
+z.opmnstr.com
 zorango.com
 zorbikala.com
 zorkabiz.ru
