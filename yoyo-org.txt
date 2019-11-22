@@ -130,6 +130,7 @@ adclick.com
 adclient1.tucows.com
 adclient.uimserv.net
 ad.clix.pt
+adcolony.com
 adcomplete.com
 adconion.com
 adcontent.gamespy.com
@@ -230,6 +231,7 @@ admanagement.ch
 admanager.btopenworld.com
 admanager.carsoup.com
 adman.gr
+admanmedia.com
 adman.otenet.gr
 admantx.com
 admarketplace.net
@@ -248,6 +250,8 @@ ad.mgd.de
 admidadsp.com
 adminder.com
 adminshop.com
+admixer.net
+admix.in
 admized.com
 admob.com
 admonitor.com
@@ -648,6 +652,7 @@ ads.okcimg.com
 adsoldier.com
 ads.ole.com
 ads.olivebrandresponse.com
+adsolut.in
 ads.oneplace.com
 ads.optusnet.com.au
 ad-souk.com
@@ -770,6 +775,7 @@ ads.zdnet.com
 ads.ztod.com
 ad.tbn.ru
 ad-tech.com
+adtech.com
 adtech.de
 adtechjp.com
 ad.technoratimedia.com
@@ -795,6 +801,7 @@ adultadvertising.com
 ad-up.com
 ad.usatoday.com
 adv-adserver.com
+advangelists.com
 advariant.com
 adv-banner.libero.it
 adv.cooperhosting.net
@@ -811,6 +818,7 @@ advertiserurl.com
 advertisespace.com
 advertisingbanners.com
 advertisingbox.com
+advertising.com
 advertisingtag.net
 advertmarket.com
 advertmedia.de
@@ -819,9 +827,11 @@ advertpro.ya.com
 advertserve.com
 advertstream.com
 advertwizard.com
+adverty.com
 adv.freeonline.it
 adv.hwupgrade.it
 advideo.uimserv.net
+adview.com
 adview.ppro.de
 ad.virtual-nights.com
 advisormedia.cz
@@ -852,6 +862,7 @@ ad.xrea.com
 adxvalue.com
 ad.yadro.ru
 adyea.com
+adyoulike.com
 ad.yourmedia.com
 adz2you.com
 ad.zanox.com
@@ -860,6 +871,7 @@ adzerk.net
 adzerk.s3.amazonaws.com
 adzestocp.com
 adzones.com
+aerserv.com
 af-ad.co.uk
 affbuzzads.com
 affec.tv
@@ -901,6 +913,7 @@ aheadday.com
 ah-ha.com
 aidu-ads.de
 aim4media.com
+airpush.com
 aistat.net
 ak0gsh40.com
 aktrack.pubmatic.com
@@ -909,6 +922,7 @@ alenty.com
 alert.com.mt
 alexametrics.com
 alexa-sitestats.s3.amazonaws.com
+algorix.co
 alipromo.com
 all4spy.com
 allosponsor.com
@@ -944,6 +958,7 @@ analytics.samdd.me
 analytics.siliconexpert.com
 analytics.swiggy.com
 analytics.yahoo.com
+aniview.com
 anm.intelli-direct.com
 annonser.dagbladet.no
 anrdoezrs.net
@@ -963,10 +978,10 @@ apture.com
 apu.samsungelectronics.com
 aquaticowl.com
 ar1nvz5.com
+aralego.com
 arc1.msn.com
 archswimming.com
 ard.xxxblackbook.com
-area51-ts.com
 are-ter.com
 argyresthia.com
 aromamirror.com
@@ -991,6 +1006,7 @@ auctionads.com
 auctionads.net
 audience2media.com
 audienceinsights.com
+audience.media
 audit.median.hu
 audit.quantcast.mgr.consensu.org
 audit.webinform.hu
@@ -1007,6 +1023,7 @@ awin1.com
 awzbijw.com
 a.xanga.com
 axiomaticalley.com
+axonix.com
 aztracking.net
 b-1st.com
 ba.afl.rakuten.co.jp
@@ -1101,6 +1118,7 @@ bawdybeast.com
 baypops.com
 bbelements.com
 bbn.img.com.ua
+beachfront.com
 beacon.gu-web.net
 beamincrease.com
 bebi.com
@@ -1122,6 +1140,7 @@ bhcumsc.com
 bidclix.com
 bidclix.net
 bidr.io
+bidsopt.com
 bidswitch.net
 bidvertiser.com
 big-bang-ads.com
@@ -1135,8 +1154,10 @@ bizad.nikkeibp.co.jp
 bizible.com
 bizographics.com
 bizrate.com
+bizzclick.com
 blast4traffic.com
 blingbucks.com
+blis.com
 blockadblock.com
 blogads.com
 blogcounter.de
@@ -1173,7 +1194,9 @@ brandreachsys.com
 brassrule.com
 brealtime.com
 bridgetrack.com
+brightcom.com
 brightinfo.com
+brightmountainmedia.com
 british-banners.com
 broadboundary.com
 broadcastbed.com
@@ -1236,6 +1259,7 @@ channelintelligence.com
 chardwardse.club
 chartbeat.com
 chartbeat.net
+chartboost.com
 chart.dk
 checkm8.com
 checkstat.nl
@@ -1303,6 +1327,7 @@ clustrmaps.com
 cnomy.com
 cnt1.pocitadlo.cz
 cnt.spbland.ru
+codeadnetwork.com
 code-server.biz
 cognitiv.ai
 cognitiveadscience.com
@@ -1343,6 +1368,7 @@ copperchickens.com
 copycarpenter.com
 copyrightaccesscontrols.com
 coremetrics.com
+cormast.com
 cosmopolitads.com
 cost2buy.net
 counted.com
@@ -1365,6 +1391,7 @@ count.rin.ru
 counts.tucows.com
 count.west263.com
 coupling-media.de
+coxmt.com
 cp.abbp1.pw
 cpalead.com
 cpays.com
@@ -1456,6 +1483,7 @@ disqusads.com
 dist.belnk.com
 distillery.wistia.com
 districtm.ca
+districtm.io
 dk4ywix.com
 dmp.mall.tv
 dmtracker.com
@@ -1463,6 +1491,7 @@ dmtracking2.alibaba.com
 dmtracking.alibaba.com
 dnads.directnic.com
 docksalmon.com
+do-global.com
 domaining.in
 domainsponsor.com
 domainsteam.de
@@ -1528,9 +1557,11 @@ emetriq.de
 e-m.fr
 emjcd.com
 emltrk.com
+emodoinc.com
 en25.com
 encouragingwilderness.com
 endurableshop.com
+engagebdr.com
 engine.espace.netavenir.com
 enginenetwork.com
 enquisite.com
@@ -1541,6 +1572,7 @@ enthusiasticdad.com
 entrecard.s3.amazonaws.com
 enviousthread.com
 e-planning.net
+epom.com
 eqads.com
 erne.co
 ero-advertising.com
@@ -1645,6 +1677,8 @@ freeskreen.com
 freestats.com
 freestats.tv
 freewebcounter.com
+freewheel.com
+freewheel.tv
 freshmarketer.com
 frightenedpotato.com
 frtyj.com
@@ -1659,6 +1693,7 @@ futuristicfairies.com
 fuzzyflavor.com
 fuzzyweather.com
 fxstyle.net
+fyber.com
 ga87z2o.com
 ga.clearbit.com
 gadsbee.com
@@ -1669,6 +1704,7 @@ gamesites100.net
 gamesites200.com
 gammamaximum.com
 gearwom.de
+gemlix.com
 geobanner.adultfriendfinder.com
 geo.digitalpoint.com
 geovisite.com
@@ -1695,6 +1731,7 @@ go-rank.de
 gorgeousground.com
 gossipmiser.com
 gostats.com
+gothamads.com
 gotraffic.net
 gp.dejanews.com
 gracefulsock.com
@@ -1704,6 +1741,7 @@ graph.instagram.com
 greetzebra.com
 greyinstrument.com
 greystripe.com
+groundtruth.com
 gtop100.com
 guardedschool.com
 gunggo.com
@@ -1768,6 +1806,7 @@ htlbid.com
 htmlhubing.xyz
 httpool.com
 hud8mxdt.computerhelpmirror.top
+hueads.com
 hueadsortb.com
 hueadsxml.com
 hurricanedigitalmedia.com
@@ -1775,6 +1814,7 @@ hurtteeth.com
 hydramedia.com
 hyperbanner.net
 hypertracker.com
+hyprmx.com
 hystericalhelp.com
 i1img.com
 i1media.no
@@ -1804,11 +1844,13 @@ img.prohardver.hu
 imgpromo.easyrencontre.com
 immensehoney.com
 imonitor.nethost.cz
+imonomy.com
 importedincrease.com
 impossibleexpansion.com
 imprese.cz
 impressionmedia.cz
 impressionz.co.uk
+improvedigital.com
 impulsehands.com
 imrworldwide.com
 inaccused.com
@@ -1816,6 +1858,7 @@ inboxdollars.com
 incentaclick.com
 inclk.com
 incognitosearches.com
+indexexchange.com
 indexstats.com
 indexww.com
 indieclick.com
@@ -1856,8 +1899,10 @@ iperceptions.com
 ipredictive.com
 ip.ro
 ipro.com
+ipstack.com
 irchan.com
 ireklama.cz
+ironsrc.com
 is-tracking-pixel-api-prod.appspot.com
 itfarm.com
 itop.cz
@@ -1880,13 +1925,13 @@ jsrdn.com
 js.users.51.la
 juicyads.com
 jumptap.com
+jungroup.com
 justicejudo.com
 justpremium.com
 justrelevant.com
 justuno.com
 kanoodle.com
 kargo.com
-karisimbi.net
 karonty.com
 keymedia.hu
 keywee.co
@@ -1904,6 +1949,7 @@ kontera.com
 kpu.samsungelectronics.com
 krxd.net
 ktu.sv2.biz
+kubient.com
 l1.britannica.com
 lakequincy.com
 laughablecopper.com
@@ -1921,6 +1967,7 @@ leady.com
 leadzupc.com
 leaplunchroom.com
 leedsads.com
+lemmatechnologies.com
 lettucelimit.com
 levelrate.de
 lfstmedia.com
@@ -1981,6 +2028,7 @@ look.ichlnk.com
 look.opskln.com
 look.udncoeln.com
 look.ufinkln.com
+loopme.com
 lop.com
 loudloss.com
 loudlunch.com
@@ -2097,6 +2145,8 @@ moatads.com
 moat.com
 moatpixel.com
 mobclix.com
+mobfox.com
+mobilefuse.com
 mobileiconnect.com
 mobperads.net
 modernpricing.com
@@ -2110,6 +2160,7 @@ moneyexpert.co.uk
 monsterpops.com
 mookie1.com
 mopub.com
+motionspots.com
 mouseflow.com
 mousestats.com
 movad.net
@@ -2148,6 +2199,7 @@ naj.sk
 naradxb.com
 nastydollars.com
 nativeroll.tv
+naturalbid.com
 navegg.com
 navigator.io
 navrcholu.cz
@@ -2216,7 +2268,9 @@ oclasrv.com
 oewa.at
 offerforge.com
 offermatica.com
+ogury.com
 olivebrandresponse.com
+omnijay.com
 omniscientspark.com
 omniture.com
 omtrdc.net
@@ -2334,7 +2388,9 @@ playhaven.com
 playmobileads.com
 plista.com
 plugrush.com
+pocketmath.com
 pointroll.com
+pokkt.com
 popads.net
 popcash.net
 popflawlessads.com
@@ -2352,6 +2408,7 @@ possessivebucket.com
 possibleboats.com
 postback.iqm.com
 postrelease.com
+posumeads.com
 praddpro.de
 prchecker.info
 predictad.com
@@ -2397,6 +2454,7 @@ publicidad.elmundo.es
 publicidees.com
 pubmatic.com
 pubmine.com
+pubnative.net
 pub.network
 pub.realmedia.fr
 pubs.lemonde.fr
@@ -2410,6 +2468,7 @@ px.dynamicyield.com
 px.gfycat.com
 pxl.iqm.com
 pymx5.com
+q1connect.com
 q.azcentral.com
 qctop.com
 qnsr.com
@@ -2474,6 +2533,7 @@ reduxmedia.com
 referralware.com
 referrer.disqus.com
 reflectivereward.com
+reforge.in
 regnow.com
 regularimptracker.xyz
 reinvigorate.net
@@ -2501,14 +2561,17 @@ reveal.clearbit.com
 revenuedirect.com
 revenuehits.com
 revenue.net
+revlift.io
 revsci.net
 revstats.com
 rhombusads.com
+rhythmone.com
 richmails.com
 richmedia.yimg.com
 richstring.com
 richwebmaster.com
 rightstats.com
+rinconpx.net
 ringsrecord.com
 ritzykey.com
 ritzysponge.com
@@ -2529,9 +2592,14 @@ roxr.net
 rs6.net
 r.scoota.co
 rta.dailymail.co.uk
+rtbadzesto.com
 rtbflairads.com
+rtbidhost.com
+rtbplatform.net
 rtbpop.com
 rtbpopd.com
+rtbsbengine.com
+rtbtradein.com
 rtmark.net
 rtxplatform.com
 ru4.com
@@ -2541,6 +2609,7 @@ rundsp.com
 ruthlessrobin.com
 ru-traffic.com
 s2d6.com
+sabio.us
 s.adroll.com
 sageanalyst.net
 sail-horizon.com
@@ -2610,6 +2679,7 @@ sicksmash.com
 sidebar.angelfire.com
 silkysquirrel.com
 sillyscrew.com
+silvermob.com
 similarsabine.com
 simpleanalytics.io
 simpli.fi
@@ -2629,10 +2699,14 @@ skylink.vn
 sleepcartoon.com
 slipperysack.com
 slopeaota.com
+smaato.com
 smart4ads.com
 smartadserver.com
 smart.brvaffs.com
+smartclip.net
 smartlook.com
+smartstream.tv
+smartyads.com
 smashsurprise.com
 smetrics.bestbuy.com
 smetrics.ctv.ca
@@ -2640,6 +2714,7 @@ smetrics.foxnews.com
 smetrics.walgreens.com
 smetrics.washingtonpost.com
 smilingwaves.com
+smrtb.com
 snapads.com
 sneakystamp.com
 snoobi.com
@@ -2649,9 +2724,11 @@ sombersea.com
 sombersquirrel.com
 sombersurprise.com
 somniture.stuff.co.nz
+somoaudience.com
 sonobi.com
 sortable.com
 sourcepoint.vice.com
+sovrn.com
 spacash.com
 spaceleadster.com
 sparkstudios.com
@@ -2674,6 +2751,7 @@ spot.fitness.com
 spotxchange.com
 spotx.tv
 springaftermath.com
+springserve.com
 spulse.net
 spurioussteam.com
 spykemediatrack.com
@@ -2690,6 +2768,7 @@ stakingscrew.com
 stakingslope.com
 standingnest.com
 starffa.com
+startapp.com
 start.freeze.com
 stat24.com
 stat24.meta.ua
@@ -2736,7 +2815,6 @@ stormysponge.com
 storygize.net
 stoveseashore.com
 straightnest.com
-straightschool.com
 stream.useriq.com
 stripedburst.com
 strivesidewalk.com
@@ -2757,6 +2835,7 @@ superstats.com
 supertop100.com
 supertop.ru
 supertracking.net
+supply.colossusssp.com
 surfmusik-adserver.de
 swan-swan-goose.com
 swimslope.com
@@ -2775,6 +2854,8 @@ tangibleteam.com
 tapad.com
 tapfiliate.com
 tapinfluence.com
+tapjoy.com
+tappx.com
 targad.de
 targetingnow.com
 targetnet.com
@@ -2792,6 +2873,7 @@ tedioustooth.com
 teenrevenue.com
 teenyvolcano.com
 teethfan.com
+telaria.com
 t.eloqua.com
 temelio.com
 tendertest.com
@@ -2884,6 +2966,7 @@ tracking.crunchiemedia.com
 trackingfestival.com
 tracking.gajmp.com
 tracking.ibxlink.com
+tracking.inlocomedia.com
 tracking.internetstores.de
 tracking.olx-st.com
 tracking.publicidees.com
@@ -2945,6 +3028,7 @@ tynt.com
 typicalteeth.com
 tyroo.com
 uarating.com
+ucfunnel.com
 ukbanners.com
 ultimateclixx.com
 ultramercial.com
@@ -2976,9 +3060,11 @@ valuesponsor.com
 vanfireworks.com
 variablefitness.com
 veille-referencement.com
+velismedia.com
 ventivmedia.com
 verblife-3.co
 vericlick.com
+vertamedia.com
 verticalmass.com
 vervewireless.com
 vibrantmedia.com
@@ -3010,6 +3096,7 @@ vtracy.de
 vungle.com
 w55c.net
 wa.and.co.uk
+waardex.com
 warlog.ru
 waryfog.com
 watchingthat.com
@@ -3089,6 +3176,7 @@ www.kaplanindex.com
 www.photo-ads.co.uk
 wwwpromoter.com
 x6.yakiuchi.com
+xad.com
 xapads.com
 xchange.ro
 xclicks.net
