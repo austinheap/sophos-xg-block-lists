@@ -1024,6 +1024,7 @@ kajakurier.com
 kancelariaae.pl
 kancelariakufieta.pl
 kancelarialewickich.pl
+kancelariaskawina.pl
 kantorfrank.pl
 karatbars.com
 karencupp.com
@@ -1554,6 +1555,7 @@ pl.superando.net
 pl.team
 pl.tvplusnewtab.com
 plustokenofficial.com
+pmanager.pl
 pm-international.com
 pmpj.pl
 pobieralnia.com.pl
@@ -3214,6 +3216,7 @@ www.kajakurier.com
 www.kancelariaae.pl
 www.kancelariakufieta.pl
 www.kancelarialewickich.pl
+www.kancelariaskawina.pl
 www.kantorfrank.pl
 www.karatbars.com
 www.karencupp.com
@@ -3714,6 +3717,7 @@ www.plikson24.pl
 www.plikson.pl
 www.pliks.pl
 www.plustokenofficial.com
+www.pmanager.pl
 www.pm-international.com
 www.pmpj.pl
 www.pobieralnia.com.pl
