@@ -1632,6 +1632,7 @@ count.prx.org
 count.qiannao.com
 count.rin.ru
 count.rtl.de
+country.yepshare.com
 count.snacktv.de
 count.spiegel.de
 countstat.ru
@@ -1745,6 +1746,7 @@ cya2.net
 cybermonitor.com
 cytoclause.com
 czx5eyk0exbhwp43ya.biz
+d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
 d169bbxks24g2u.cloudfront.net
@@ -1911,6 +1913,7 @@ declaredthoughtfulness.co
 deepattention.com
 deep.bi
 deepc.cc
+deepchannel.com
 deepknow.egoid.me
 dejavu.mercadolivre.com.br
 dejavu.mlapps.com
@@ -3721,7 +3724,6 @@ miaozhen.com
 micodigo.com
 micpn.com
 microcounter.de
-midas-i.com
 midas-network.com
 mi-de-ner-nis3.info
 midkotatraffic.net
@@ -3860,6 +3862,7 @@ msgtag.com
 msparktrk.com
 mstracker.net
 mstrlytcs.com
+mtag.mman.kr
 mtc.nhk.or.jp
 m-t.io
 mtoza.vzaar.com
@@ -4279,6 +4282,7 @@ perfdrive.com
 perfectaudience.com
 perfiliate.com
 performanceanalyser.net
+performanceplay.co.kr
 performancerevenues.com
 performances.bestofmedia.com
 performance.typekit.net
@@ -4502,6 +4506,7 @@ premiumstats.xyz
 presentationtracking.netflix.com
 presjots.ga
 prfct.co
+prism.pandora.tv
 pr-link.eu
 pr-linktausch.de
 prnetwork.de
@@ -5117,6 +5122,7 @@ sitereports.officelive.com
 sitestat.com
 sitestats.live
 site-submit.com.ua
+siteswithcontent.com
 sitetagger.co.uk
 sitetag.us
 sitetistik.com
@@ -6352,7 +6358,6 @@ track.qoof.com
 track.ra.icast.cn
 track-re01.com
 track.recreativ.ru
-track.rediff.com
 track.redirecting2.net
 track.revolvermarketing.ru
 track.ringcentral.com
@@ -6546,6 +6551,7 @@ t-staging.powerreviews.com
 tstlabs.co.uk
 ts.tradetracker.net
 tsw0.com
+ttauri.laptopmag.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
 ttdetect.staticimgfarm.com
