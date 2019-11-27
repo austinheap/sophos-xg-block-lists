@@ -6428,7 +6428,6 @@ trafficfacts.com
 trafficfuel.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 trafficjoint.com
-trafficmanager.anyclip.com
 trafficmaxx.de
 traffic.prod.cobaltgroup.com
 trafficregenerator.com
