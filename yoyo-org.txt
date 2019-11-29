@@ -9,7 +9,6 @@
 247media.com
 24log.com
 24log.de
-24pm-affiliation.com
 2mdn.net
 2o7.net
 2znp09oa.com
@@ -63,7 +62,6 @@ acuityplatform.com
 ad01.mediacorpsingapore.com
 ad0.bigmir.net
 ad.100.tbn.ru
-ad1.emediate.dk
 ad1.emule-project.org
 ad1.kde.cz
 ad1.pamedia.com.au
@@ -420,7 +418,6 @@ adsco.re
 ad-score.com
 adscpm.com
 ads.crakmedia.com
-ads.creativematch.com
 ads.creative-serving.com
 ads.cricbuzz.com
 ads.cybersales.cz
@@ -494,6 +491,7 @@ adserverplus.com
 adserver.portugalmail.net
 adserver.portugalmail.pt
 adserver.pressboard.ca
+adserverpub.com
 adserver.sanomawsoy.fi
 adserver.sciflicks.com
 adserver.sharewareonline.com
@@ -1080,7 +1078,6 @@ banners.clubseventeen.com
 banners.czi.cz
 banners.dine.com
 banners.direction-x.com
-banners.directnic.com
 bannerserver.com
 banners.freett.com
 banners.friendfinder.com
@@ -1491,7 +1488,6 @@ dmp.mall.tv
 dmtracker.com
 dmtracking2.alibaba.com
 dmtracking.alibaba.com
-dnads.directnic.com
 docksalmon.com
 do-global.com
 domaining.in
@@ -1552,7 +1548,6 @@ elthamely.com
 emarketer.com
 emebo.com
 emebo.io
-emediate.dk
 emediate.eu
 emerse.com
 emetriq.de
@@ -1728,7 +1723,9 @@ go-mpulse.net
 gondolagnome.com
 googleadservices.com
 google-analytics.com
+googleanalytics.com
 googlesyndication.com
+googletagmanager.com
 googletagservices.com
 go-rank.de
 gorgeousground.com
@@ -1931,7 +1928,6 @@ jumptap.com
 jungroup.com
 justicejudo.com
 justpremium.com
-justrelevant.com
 justuno.com
 kanoodle.com
 kargo.com
@@ -2795,7 +2791,6 @@ stat.pl
 stats2.self.com
 stats4all.com
 stats.blogger.com
-stats.directnic.com
 stats.hyperinzerce.cz
 statsie.com
 stats.merriam-webster.com

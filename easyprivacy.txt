@@ -118,6 +118,7 @@ abs.proxistore.com
 absurdapple.com
 abtrcking.com
 abtshield.com
+ac.acadomia.fr
 a-cast.jp
 ac.berlinonline.de
 acbp0020171456.page.tl
@@ -673,6 +674,7 @@ arpxs.com
 arrowpushengine.com
 arsdev.net
 artefact.is
+artfut.com
 arturtrack.com
 asadcdn.com
 as.base.de
@@ -1178,6 +1180,7 @@ cgicounter.onlinehome.de
 cgicounter.puretec.de
 cgi.tbs.co.jp
 cguru.ga
+ch0p.darty.com
 chainblock.science
 chanalytics.merchantadvantage.com
 chardneave.info
@@ -1865,6 +1868,7 @@ datacoral.com
 datacoral.io
 datadoghq-browser-agent.com
 datadog-service.mvfglobal.com
+datado.me
 datadome.co
 data.econa.com
 datafeedfile.com
@@ -2089,6 +2093,7 @@ dzxxxg6ij9u99.cloudfront.net
 ea.auchantelecom.fr
 ea.aujourdhui.com
 ea.celio.com
+ea.ciblo.net
 eacla.com
 ea.clubic.com
 ea.deguisetoi.fr
@@ -2122,6 +2127,7 @@ easyresearch.se
 easysol.net
 easytracking.de
 ea.venta-unica.com
+ea.vente-unique.be
 ea.vente-unique.ch
 ea.vente-unique.com
 ea.warnerbros.fr
@@ -2273,6 +2279,7 @@ euleriancdn.net
 eulerian.mathon.fr
 eulerian.net
 eulerian.sarenza.com
+eulerian.splendia.com
 eultech.fnac.com
 eum-appdynamics.com
 euroads.dk
@@ -3263,6 +3270,7 @@ klert.com
 klldabck.com
 kmindex.ru
 km-sea.net
+kmtx.io
 knowlead.io
 knowledgevine.net
 koddi.com
@@ -3423,7 +3431,6 @@ log.cizion.com
 logcounter.com
 log.data.disney.com
 log.deutschegrammophon.com
-logdev.openload.co
 logdy.com
 logentries.com
 log.flight.qunar.com
@@ -3752,6 +3759,7 @@ mint.boingboing.net
 mint.good.is
 mitel.marketbright.com
 mitmeisseln.de
+mixi.mn
 mklik.gazeta.pl
 mkt3261.com
 mkt51.net
@@ -3990,6 +3998,7 @@ netclickstats.com
 netcore.co.in
 netcoresmartech.com
 netcounter.de
+netc.sfr.fr
 netdebit-counter.de
 net-filter.com
 netflame.cc
@@ -4039,6 +4048,7 @@ n.mailfire.io
 nm.newegg.com
 nmtracking.netflix.com
 nnycrypto.com
+noa0.compteczam.fr
 noblock.pro
 nokaut.link
 nol.yahoo.com
@@ -4806,6 +4816,7 @@ revdn.net
 revenuepilot.com
 revenuescience.com
 revenuewire.net
+revjet.com
 revolvermaps.com
 revsci.tvguide.com
 revsw.net
@@ -5609,7 +5620,6 @@ stats.nymag.com
 stat.social
 stats.olark.com
 stats.ombx.io
-stats.openload.co
 stats.opoloo.de
 stats.oui.sncf
 stats.ozwebsites.biz
@@ -7115,6 +7125,7 @@ y-track.com
 yu987.com
 yuebofa.cc
 ywtjdckysve.com
+ywywjrlbsuv.com
 z444o.com
 zaehler.tv
 zampda.net
