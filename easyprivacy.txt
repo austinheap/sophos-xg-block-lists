@@ -2995,6 +2995,7 @@ im-apps.net
 imcht.net
 imetrix.it
 imgstat.ameba.jp
+imgstat.baidu.com
 imgtrack.domainmarket.com
 imhvlhaelvvbrq.ru
 immanalytics.com
@@ -3637,6 +3638,7 @@ mc.webvisor.com
 mc.webvisor.org
 mc.webvisor.ru
 md-ia.info
+mdn.neowin.net
 md-nx.com
 mdotlabs.com
 mdxapi.io
@@ -6304,6 +6306,7 @@ tracking.rce.veeseo.com
 tracking.realtor.com
 tracking.resumecompanion.com
 tracking.retailrocket.net
+tracking.rightmessage.com
 tracking.rtl.de
 tracking.s24.com
 tracking.searchmarketing.com
