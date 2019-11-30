@@ -35,6 +35,7 @@ a135.wftv.com
 aaddzz.com
 a.aproductmsg.com
 aaxads.com
+aaxdetect.com
 abacho.net
 abackchain.com
 abandonedaction.com
@@ -672,6 +673,7 @@ ads.prisacom.com
 ads.program3.com
 ads.programattik.com
 ads.psd2html.com
+adspsp.com
 ads.pushplay.com
 ads.quasaraffiliates.com
 ads.quoka.de
