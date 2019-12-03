@@ -346,6 +346,7 @@ ciekawinki.pl
 ciepleklimaty.pl
 cigape.net
 cinema-online.pl
+cinemaplanet.pl
 cinemateka.pl
 cinematicfanatic.com
 circultural.com
@@ -2637,6 +2638,7 @@ www.ciekawinki.pl
 www.ciepleklimaty.pl
 www.cigape.net
 www.cinema-online.pl
+www.cinemaplanet.pl
 www.cinemateka.pl
 www.cinematicfanatic.com
 www.circultural.com
