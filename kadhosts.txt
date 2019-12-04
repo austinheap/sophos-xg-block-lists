@@ -92,7 +92,6 @@ alfapro.pl
 aliexokazje.pl
 alisto-pozyczki.pl
 alldc.pw
-allegro.media.pl
 allegro.pl-nowe-regulamini7913.uhu362.com
 allegro.targi.pl
 alle-perfumy.pl
@@ -1988,7 +1987,6 @@ suczki-mlode.blogspot.com
 sug.com.pl
 sukces.pl
 sukhumvithomes.com
-sundaycashsaver.com
 sunflagsteel.com
 supercrystal.am
 supermegacool.bit
@@ -2381,7 +2379,6 @@ www.alfapro.pl
 www.aliexokazje.pl
 www.alisto-pozyczki.pl
 www.alldc.pw
-www.allegro.media.pl
 www.allegro.pl-nowe-regulamini7913.uhu362.com
 www.allegro.targi.pl
 www.alle-perfumy.pl
@@ -4254,7 +4251,6 @@ www.suczki-mlode.blogspot.com
 www.sug.com.pl
 www.sukces.pl
 www.sukhumvithomes.com
-www.sundaycashsaver.com
 www.sunflagsteel.com
 www.supercrystal.am
 www.supermegacool.bit

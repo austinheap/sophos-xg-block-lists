@@ -1,5 +1,6 @@
 101com.com
 101order.com
+1-1ads.com
 123found.com
 123freeavatars.com
 180hits.de
@@ -118,7 +119,6 @@ ad.caradisiac.com
 adcash.com
 adcast.deviantart.com
 adcell.de
-ad-center.com
 adcenter.net
 adcentriconline.com
 ad.centrum.cz
@@ -346,6 +346,7 @@ ads8.com
 ads.abovetopsecret.com
 ads.aceweb.net
 ads.activestate.com
+ads.ad-center.com
 ads.adfox.ru
 ads.administrator.de
 ads.adshareware.net
