@@ -1030,6 +1030,7 @@ brominer.com
 bronto.com
 browsermine.com
 browser-statistik.de
+browser-update.org
 browsiprod.com
 brsrvr.com
 bstk.co
@@ -2914,6 +2915,7 @@ hot-count.com
 hotcounter.de
 hotdogsandads.com
 hotjar.com
+hotjar.io
 hotlog.ru
 hotrank.com.tw
 hotstats.gr
@@ -3841,6 +3843,7 @@ montblanc.rambler.ru
 monu.delivery
 moonsade.com
 mooseway.com
+mopinion.com
 mormont.gamer-network.net
 morningdigit.com
 motorpresse-statistik.de
@@ -4727,6 +4730,7 @@ realytics.io
 realzeit.io
 reasedoper.pw
 reauthenticator.com
+reciteme.com
 reco.hardsextube.com
 recommendation.24.com
 recoset.com
@@ -5204,6 +5208,7 @@ socialtrack.net
 sociaplus.com
 socketanalytics.com
 socketviking.net
+socsi.in
 sodoit.com
 soflopxl.com
 softonic-analytics.net
@@ -5782,7 +5787,9 @@ sugar.gameforge.com
 sugs.m.sm.cn
 summerhamster.com
 summitemarketinganalytics.com
+sumo.com
 sumokoin.com
+sumome.com
 sunios.de
 suntcontent.se
 supercounters.com
@@ -7146,6 +7153,7 @@ zdtag.com
 zebestof.com
 zedwhyex.com
 zeerat.com
+zengenti.com
 zenlivestats.com
 zeotap.com
 zero.kz
