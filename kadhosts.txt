@@ -186,6 +186,7 @@ banvar.com
 barcaacademyistanbul.com
 barip15.com
 bartekzukiewicz.pl
+basenymoninar.pl
 bazafilm.pl
 bazarownia.pl
 bazartani.pl
@@ -471,6 +472,7 @@ dlf.pl
 dlmyfile.com
 dnirownosci.pl
 dnmultiglobal.duckdns.org
+dobreklucze.pl
 dobreprogramy.pro
 dobre-programy.xyz
 dobrykredyt.co.pl
@@ -1388,6 +1390,7 @@ neurorehabtraining.com
 newmediaz.com
 newpassporn.com
 newsbusiness.co.uk
+news-deck.at
 newsfeed24h.co.uk
 newsinsider.me
 news-onet24.pl
@@ -1640,7 +1643,6 @@ polakuleczsiesam.pl
 poland.calivita.com
 poland.fizzyslim.biz
 poland-news.pl
-pol.boobs-xl.com
 polokg.com
 polsatboxingnight-transmisjahd.ujm.pl
 polska-gazeta-dnia.pl
@@ -1655,6 +1657,7 @@ popcornvod.com
 poprof.com
 popshoes.pl
 pornmania.pl
+portaldruku.pl
 posed2shade.com
 post-341478.info
 powaifinearts.org
@@ -1733,6 +1736,7 @@ pulse-biznesowe.xyz
 pulsebiznesu.xyz
 puls-sukcesu.net
 puna.pl
+purchasedyouasa.co
 push-notification.tools
 px1alsry.com
 pyracity.info
@@ -1949,6 +1953,7 @@ sprawdzikk.v0r.org
 sprawdzktopodgglada.blogspot.com
 sprawdz-ogladaj.bo.pl
 spreadyourtentacles.com
+spsienno.pl
 spyware.neocities.org
 ssklep.in.net
 ssl.bezpieczne-platnosci.pl
@@ -1978,6 +1983,7 @@ stop-sms.pl
 store.planet-tachyon.com
 streamgo.pl
 streetrulez.pl
+strefabezstresu.pl
 strefa-filmu.pl
 strony-fotograficzne.eu
 structures-made-easy.co.uk
@@ -2101,6 +2107,7 @@ torrento.pl
 torrenty--org.pl
 torsionfield.eu
 totucafe.pl
+toysoutlet.pl
 tpc.hu
 track.adsfast.com
 track-enable.com
@@ -2115,6 +2122,7 @@ trunganh.xyz
 trustedirectdownload.com
 trusttastic.com
 trybikowo.pl
+tuesyuioodpps.xyz
 tunga.homedns.org
 tuniaf.com
 tupperware.pl
@@ -2124,6 +2132,7 @@ tvnewtop.pro
 tvnowapp.net
 tvonline.hol.es
 twochefs-pizzeria.pl
+twojapaczka-24.com
 twoja-wygrana.com
 twoje-piekno.pl
 twojhoroskop.com
@@ -2152,7 +2161,6 @@ unmillondeutilidades.com
 unverf.com
 unwashedsound.com
 update-1.com
-update-flash.s0l8ybzj9u.top
 updatestar.com
 upgradecheck12.thebestwaystofindreliablesoftwares.surf
 upshare.org
@@ -2476,6 +2484,7 @@ www.banvar.com
 www.barcaacademyistanbul.com
 www.barip15.com
 www.bartekzukiewicz.pl
+www.basenymoninar.pl
 www.bazafilm.pl
 www.bazarownia.pl
 www.bazartani.pl
@@ -2762,6 +2771,7 @@ www.dlf.pl
 www.dlmyfile.com
 www.dnirownosci.pl
 www.dnmultiglobal.duckdns.org
+www.dobreklucze.pl
 www.dobreprogramy.pro
 www.dobre-programy.xyz
 www.dobrykredyt.co.pl
@@ -3682,6 +3692,7 @@ www.neurorehabtraining.com
 www.newmediaz.com
 www.newpassporn.com
 www.newsbusiness.co.uk
+www.news-deck.at
 www.newsfeed24h.co.uk
 www.newsinsider.me
 www.news-onet24.pl
@@ -3904,7 +3915,6 @@ www.polakuleczsiesam.pl
 www.poland.calivita.com
 www.poland.fizzyslim.biz
 www.poland-news.pl
-www.pol.boobs-xl.com
 www.polokg.com
 www.polsatboxingnight-transmisjahd.ujm.pl
 www.polska-gazeta-dnia.pl
@@ -3919,6 +3929,7 @@ www.popcornvod.com
 www.poprof.com
 www.popshoes.pl
 www.pornmania.pl
+www.portaldruku.pl
 www.posed2shade.com
 www.post-341478.info
 www.powaifinearts.org
@@ -3997,6 +4008,7 @@ www.pulse-biznesowe.xyz
 www.pulsebiznesu.xyz
 www.puls-sukcesu.net
 www.puna.pl
+www.purchasedyouasa.co
 www.push-notification.tools
 www.px1alsry.com
 www.pyracity.info
@@ -4214,6 +4226,7 @@ www.sprawdzikk.v0r.org
 www.sprawdzktopodgglada.blogspot.com
 www.sprawdz-ogladaj.bo.pl
 www.spreadyourtentacles.com
+www.spsienno.pl
 www.spyware.neocities.org
 www.ssklep.in.net
 www.ssl.bezpieczne-platnosci.pl
@@ -4243,6 +4256,7 @@ www.stop-sms.pl
 www.store.planet-tachyon.com
 www.streamgo.pl
 www.streetrulez.pl
+www.strefabezstresu.pl
 www.strefa-filmu.pl
 www.strony-fotograficzne.eu
 www.structures-made-easy.co.uk
@@ -4366,6 +4380,7 @@ www.torrento.pl
 www.torrenty--org.pl
 www.torsionfield.eu
 www.totucafe.pl
+www.toysoutlet.pl
 www.tpc.hu
 www.track.adsfast.com
 www.track-enable.com
@@ -4380,6 +4395,7 @@ www.trunganh.xyz
 www.trustedirectdownload.com
 www.trusttastic.com
 www.trybikowo.pl
+www.tuesyuioodpps.xyz
 www.tunga.homedns.org
 www.tuniaf.com
 www.tupperware.pl
@@ -4389,6 +4405,7 @@ www.tvnewtop.pro
 www.tvnowapp.net
 www.tvonline.hol.es
 www.twochefs-pizzeria.pl
+www.twojapaczka-24.com
 www.twoja-wygrana.com
 www.twoje-piekno.pl
 www.twojhoroskop.com
@@ -4417,7 +4434,6 @@ www.unmillondeutilidades.com
 www.unverf.com
 www.unwashedsound.com
 www.update-1.com
-www.update-flash.s0l8ybzj9u.top
 www.updatestar.com
 www.upgradecheck12.thebestwaystofindreliablesoftwares.surf
 www.upshare.org
