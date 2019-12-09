@@ -100,6 +100,7 @@ allfiles.pl
 allonline.pl
 all-player.pl
 allplayer.pl
+alltube.com.pl
 alohasoftware.net
 alpcity.pl
 alwetagd.pl
@@ -442,7 +443,6 @@ daswallet.com
 dataasmierci.blogspot.com
 datasmierci01.blogspot.com
 davor.io
-ddgrawer.pl
 decynsire.com
 deepikarai.com
 deepshoes.pl
@@ -461,7 +461,6 @@ dietstars.pro
 digdeeper.neocities.org
 diorsklep.pl
 dirproperties.com
-dirtyhood.pl
 discsplay.com
 ditds.xyz
 djarumgol.com
@@ -542,7 +541,6 @@ ebookeo.pl
 ebuty.net.pl
 ebuty.org.pl
 ecampuskbds.com
-eccoobuwie.pl
 e-cda.pl
 ecdi14.eu
 ecdi15.eu
@@ -707,7 +705,6 @@ fileice.net
 fileman.pl
 fileoasis.net
 filerom.com
-filescloud.pl
 filesdock.com
 filesdownloads.pl
 filesenzu.com
@@ -1056,7 +1053,6 @@ kancelariaae.pl
 kancelariakufieta.pl
 kancelarialewickich.pl
 kancelariaskawina.pl
-kantorfrank.pl
 karatbars.com
 karencupp.com
 karenshealthfoods.com
@@ -1668,13 +1664,11 @@ pożyczaj.online.pl
 pozyczka.click
 pozyczka-minutowa.pl
 pozyczkanatelefon24.pl
-pozyczka-sms.pl
 pozyczka-tanio-szybko.pl
 pozyczki-prywatne.com
 pozyczkiprywatne.com
 pozyczki-prywatne.com.pl
 ppl3.pl
-pracowniabajka.pl
 pracowniaciala.pl
 pracowniekomputerowe.pl
 praize19791.duckdns.org
@@ -1796,7 +1790,6 @@ rep.privatesearch.club
 restricted.pl
 retrortv.in.net
 rewardrey.com
-rezacze.pl
 reza-khosravi.com
 rfv.pl
 ringtonepartner.com
@@ -2037,7 +2030,6 @@ tankhoi.vn
 tapxchange.com
 tariqul.info
 team4heat.net
-teamworkmlm.pl
 teatac4bath.com
 teccenter.xyz
 techiwant.com
@@ -2257,7 +2249,6 @@ wiadomosci-onet24.pl
 wiadomosci-onet24.tk
 wiadomosci-tv24-onet.eu
 widget-eforsa.pl
-wiecznieczwarty.com.pl
 wielkanagroda.com
 wielkaniespodzianka.pl
 wielkopolskie.refundacjeregionalne.pl
@@ -2397,6 +2388,7 @@ www.allfiles.pl
 www.allonline.pl
 www.all-player.pl
 www.allplayer.pl
+www.alltube.com.pl
 www.alohasoftware.net
 www.alpcity.pl
 www.alwetagd.pl
@@ -2742,7 +2734,6 @@ www.daswallet.com
 www.dataasmierci.blogspot.com
 www.datasmierci01.blogspot.com
 www.davor.io
-www.ddgrawer.pl
 www.decynsire.com
 www.deepikarai.com
 www.deepshoes.pl
@@ -2761,7 +2752,6 @@ www.dietstars.pro
 www.digdeeper.neocities.org
 www.diorsklep.pl
 www.dirproperties.com
-www.dirtyhood.pl
 www.discsplay.com
 www.ditds.xyz
 www.djarumgol.com
@@ -2844,7 +2834,6 @@ www.ebookeo.pl
 www.ebuty.net.pl
 www.ebuty.org.pl
 www.ecampuskbds.com
-www.eccoobuwie.pl
 www.e-cda.pl
 www.ecdi14.eu
 www.ecdi15.eu
@@ -3009,7 +2998,6 @@ www.fileice.net
 www.fileman.pl
 www.fileoasis.net
 www.filerom.com
-www.filescloud.pl
 www.filesdock.com
 www.filesdownloads.pl
 www.filesenzu.com
@@ -3358,7 +3346,6 @@ www.kancelariaae.pl
 www.kancelariakufieta.pl
 www.kancelarialewickich.pl
 www.kancelariaskawina.pl
-www.kantorfrank.pl
 www.karatbars.com
 www.karencupp.com
 www.karenshealthfoods.com
@@ -3941,13 +3928,11 @@ www.pożyczaj.online.pl
 www.pozyczka.click
 www.pozyczka-minutowa.pl
 www.pozyczkanatelefon24.pl
-www.pozyczka-sms.pl
 www.pozyczka-tanio-szybko.pl
 www.pozyczki-prywatne.com
 www.pozyczkiprywatne.com
 www.pozyczki-prywatne.com.pl
 www.ppl3.pl
-www.pracowniabajka.pl
 www.pracowniaciala.pl
 www.pracowniekomputerowe.pl
 www.praize19791.duckdns.org
@@ -4069,7 +4054,6 @@ www.rep.privatesearch.club
 www.restricted.pl
 www.retrortv.in.net
 www.rewardrey.com
-www.rezacze.pl
 www.reza-khosravi.com
 www.rfv.pl
 www.ringtonepartner.com
@@ -4311,7 +4295,6 @@ www.tankhoi.vn
 www.tapxchange.com
 www.tariqul.info
 www.team4heat.net
-www.teamworkmlm.pl
 www.teatac4bath.com
 www.teccenter.xyz
 www.techiwant.com
@@ -4531,7 +4514,6 @@ www.wiadomosci-onet24.pl
 www.wiadomosci-onet24.tk
 www.wiadomosci-tv24-onet.eu
 www.widget-eforsa.pl
-www.wiecznieczwarty.com.pl
 www.wielkanagroda.com
 www.wielkaniespodzianka.pl
 www.wielkopolskie.refundacjeregionalne.pl
@@ -4668,8 +4650,6 @@ www.zskleczany.pl
 www.zukiewicz.com
 www.zumodi.com
 www.zweryfiikujdane.tk
-www.zweryfikuj-sie.eu
-www.zweryfikuj-sie.pl
 www.zyski-z-innowacji.pl
 wx-xcx.xyz
 wybierz-nagrode.pl
@@ -4770,6 +4750,4 @@ zskleczany.pl
 zukiewicz.com
 zumodi.com
 zweryfiikujdane.tk
-zweryfikuj-sie.eu
-zweryfikuj-sie.pl
 zyski-z-innowacji.pl

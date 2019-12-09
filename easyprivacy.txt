@@ -1382,6 +1382,7 @@ codata.ru
 cod.bitrec.com
 cogmatch.net
 cognitivematch.com
+cohesionapps.com
 co.hltv.org
 coinblind.com
 coincheck.com
@@ -3569,7 +3570,6 @@ luxup2.ru
 luxupadva.com
 luxupcdna.com
 luxupcdnc.com
-lwadm.com
 lxtrack.com
 lymantriacypresdoctrine.biz
 lyngro.com
@@ -3961,7 +3961,6 @@ n8s.jp
 naayna.com
 nabaza.com
 nablabee.com
-nahnoji.cz
 najsiejfnc.win
 naj.sk
 nakanohito.jp
@@ -4377,6 +4376,7 @@ piper.amocrm.ru
 pipfire.com
 pippio.com
 pi-stats.com
+pistyll.bleacherreport.com
 pi.technik3d.com
 piti.bplaced.net
 piwik.pro
@@ -4455,6 +4455,7 @@ pjatr.com
 pjtra.com
 p.l1v.ly
 placemypixel.com
+plantdigestion.com
 platform.communicatorcorp.com
 platform.iteratehq.com
 platformpanda.com
@@ -4937,6 +4938,7 @@ s.360.cn
 s3s-main.net
 s3-tracking.synthasite.net.s3.amazonaws.com
 s3wfg.com
+s7target.ru
 s7ven.com
 sa135.macworld.co.uk
 sa.bbc.com
@@ -5711,6 +5713,7 @@ statswebtown.com
 stats.whicdn.com
 stats.wordpress.com
 stats.wp.com
+stats.wpmucdn.com
 stats.wwd.com
 stats.wwitv.com
 stats.yinyuetai.com
