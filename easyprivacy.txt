@@ -714,6 +714,7 @@ atraxio.com
 atsfi.de
 atticwicket.com
 attracta.com
+attractivecap.com
 attributionapp.com
 attributiontrackingga.googlecode.com
 audience.acpm.fr
@@ -1019,6 +1020,7 @@ brandmetrics.com
 brat-online.ro
 bravo.israelweather.co.il
 brcdn.com
+breakfastboat.com
 bridgevine.com
 bright.bncnt.com
 brightedge.com
@@ -1049,6 +1051,7 @@ btstatic.com
 btstats.devtribu.fr
 btttag.com
 bubblestat.com
+bucksfreepress-gb.bucksfreepress.co.uk
 buf.lemonde.fr
 bugherd.com
 bulb.76.my
@@ -1405,6 +1408,7 @@ coletor.terra.com
 coll1onf.com
 collarity.com
 collect2.sas.com
+collect.adback.co
 collect.finanzen.net
 collect.igodigital.com
 collection.acromas.com
@@ -1831,6 +1835,7 @@ d3l3lkinz3f56t.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
 d3ojzyhbolvoi5.cloudfront.net
+d3q7vxy7usqoub.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
 d3r7h55ola878c.cloudfront.net
 d3rmnwi2tssrfx.cloudfront.net
@@ -2286,6 +2291,7 @@ eultech.fnac.com
 eum-appdynamics.com
 euroads.dk
 eurocounter.com
+eurogamer-uk.eurogamer.net
 europagerank.com
 euro-pr.eu
 europuls.eu
@@ -2321,6 +2327,7 @@ events.avantisvideo.com
 events.chaordicsystems.com
 events.demoup.com
 events.godaddy.com
+events.il.fi
 events.ingatlan.com
 events.izooto.com
 events.jora.com
@@ -2586,6 +2593,7 @@ gatorleads.co.uk
 gaug.es
 ga.webdigi.co.uk
 gay-hotvideo.net
+gazette-news-gb.gazette-news.co.uk
 g.bitmag.com.br
 g.bit.pt
 gbotvisit.com
@@ -2812,6 +2820,7 @@ hashzone.io
 hatcalter.com
 haveamint.com
 hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
+h-bid.com
 hbx.df-srv.de
 h.cliphunter.com
 hdmtools.com
@@ -3604,7 +3613,6 @@ marketing.nodesource.com
 marketing-page.de
 marketing.tr.netsalesmedia.pl
 marketizator.com
-marketo.com
 marketperf.com
 marketshot.com
 marketshot.fr
@@ -3856,6 +3864,7 @@ movable-ink-6710.com
 mowfruit.com
 mparticle.com
 m-pathy.com
+mpianalytics.com
 mplxtms.com
 mppapi.io
 mp.pianomedia.eu
@@ -4295,6 +4304,7 @@ perceivequarter.com
 percentmobile.com
 percycle.com
 perfdrive.com
+perf.dugout.com
 perfectaudience.com
 perfiliate.com
 performanceanalyser.net
@@ -4496,6 +4506,7 @@ posst.co
 postaffiliatepro.com
 postclickmarketing.com
 postpixel.vindicosuite.com
+potterpetrey.com
 pound.buzzfeed.com
 powerbar-pagerank.de
 powercount.com
@@ -4616,7 +4627,6 @@ pvx.xcar.com.cn
 pwa.telephoneannuaire.fr
 pw.gigazine.net
 px.247inc.net
-px-cdn.net
 pxchk.net
 px-cloud.net
 pxc.otto.de
@@ -5455,7 +5465,6 @@ statistiche.it
 statistiche-web.com
 statistiche.ws
 statistic.qzone.qq.com
-statistics.aldi-international.com
 statistics.crowdynews.com
 statistics.infowap.info
 statistics.klicktel.de
@@ -5751,6 +5760,7 @@ steepsquirrel.com
 stellaservice.com
 stetic.com
 stg-data-collector.playbuzz.com
+sthelensstar-gb.sthelensstar.co.uk
 stiffstem.com
 stippleit.com
 stonecalcom.com
@@ -5965,6 +5975,7 @@ thebrighttag.com
 thecounter.com
 thefreehitcounter.com
 thehairofcaptainpicard.com
+thenational-gb.thenational.scot
 thermstats.com
 thersprens.com
 thesearchagency.net
@@ -6599,6 +6610,7 @@ txt.eu
 tylere.net
 t.ymlp275.net
 tynt.com
+typicalairplane.com
 typicalteeth.com
 tyxo.bg
 tyxo.com
@@ -6620,6 +6632,7 @@ ugdturner.com
 ugmfvqsu.ru
 uhygtf1.com
 uid.mavencoalition.io
+uie.data.cbc.ca
 ukp2pool.uk
 ukrre-tea.info
 ukw.jp
@@ -6815,6 +6828,7 @@ vmm-satellite2.com
 vmstats.varrando.com
 vmtrk.com
 voicefive.com
+volantix.com
 volgograd-info.ru
 vologda-info.ru
 volvelle.tech
@@ -6861,6 +6875,7 @@ waust.at
 way2traffic.com
 wbdds.allocine.fr
 wbdx.fr
+wblt.oui.sncf
 wbmwss.beetv.net
 wbtrk.net
 wcfbc.net
@@ -7021,6 +7036,7 @@ wonder-ma.com
 woopra.com
 woopra-ns.com
 wootric.com
+worcesternews-gb.worcesternews.co.uk
 wordc.ga
 worker.salon.com
 worldflagcounter.com
@@ -7132,6 +7148,7 @@ youle55.com
 youmetrix.co.uk
 youramigo.com
 your-counter.be
+yourlocalguardian-gb.yourlocalguardian.co.uk
 yqaywudifu.date
 yrdrtzmsmt.com
 ys.ddns.me

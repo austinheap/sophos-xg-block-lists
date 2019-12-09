@@ -10,6 +10,7 @@
 247media.com
 24log.com
 24log.de
+24pm-affiliation.com
 2mdn.net
 2o7.net
 2znp09oa.com
@@ -704,7 +705,6 @@ ads.socialtheater.com
 ads.soft32.com
 ads.space.com
 ads.stackoverflow.com
-adsstat.com
 ads.sun.com
 ads.suomiautomaatti.com
 ads.supplyframe.com
@@ -908,7 +908,6 @@ afftracking.justanswer.com
 afterview.ru
 agkn.com
 agreeablestew.com
-agreemand.com
 ahalogy.com
 aheadday.com
 ah-ha.com
@@ -1268,7 +1267,6 @@ chewcoat.com
 chickensstation.com
 chinsnakes.com
 chitika.net
-christingel.com
 cision.com
 cityads.telus.net
 cjbmanagement.com
@@ -1659,7 +1657,6 @@ flimsycircle.com
 floodprincipal.com
 flowgo.com
 flurry.com
-foamybox.com
 foo.cosmocode.de
 foresee.com
 forex-affiliate.net
@@ -1906,7 +1903,6 @@ ipro.com
 ipstack.com
 irchan.com
 ireklama.cz
-ironsrc.com
 is-tracking-pixel-api-prod.appspot.com
 itfarm.com
 itop.cz
@@ -2141,7 +2137,6 @@ minormeeting.com
 mintegral.com
 mixedreading.com
 mixpanel.com
-mixtraffic.com
 mjxads.internet.com
 mktoresp.com
 ml314.com
