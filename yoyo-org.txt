@@ -684,6 +684,7 @@ ads.recoletos.es
 ads.rediff.com
 ads.redlightcenter.com
 ads.resoom.de
+ads.revjet.com
 adsrv.deviantart.com
 adsrv.eacdn.com
 adsrv.iol.co.za
@@ -2566,7 +2567,6 @@ reveal.clearbit.com
 revenuedirect.com
 revenuehits.com
 revenue.net
-revjet.com
 revlift.io
 revsci.net
 revstats.com
