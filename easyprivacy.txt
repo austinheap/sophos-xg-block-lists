@@ -534,6 +534,7 @@ analytics.praetor.im
 analytics.prezly.com
 analytics.prod.aws.ecnext.net
 analytics-production.hapyak.com
+analytics.productreview.com.au
 analytics.proxer.me
 analytics.r17.com
 analytics.radiatemedia.com
@@ -1349,6 +1350,7 @@ cmp.macworld.com
 cmp.macworld.co.uk
 cmp.pcworld.com
 cmp.pcworld.co.nz
+cmp.pcworld.idg.com.au
 cmptch.com
 cmp.techadvisor.co.uk
 cmp.techhive.com
@@ -5742,6 +5744,7 @@ stat.to.cupidplc.com
 stattooz.com
 stat.torrentbar.com
 stattrack.0catch.com
+stat-track.com
 stattrax.com
 stat.tudou.com
 stat.tvigle.ru
@@ -6003,6 +6006,7 @@ thingswontend.com
 thisisacoolthing.com
 thisisanothercoolthing.com
 thismetric.com
+threat-analytics.com
 thrtle.com
 t.hypers.com.cn
 ticklesign.com
@@ -6634,6 +6638,7 @@ u5e.com
 uadx.com
 uapoisk.net
 uarating.com
+ub-analytics.com
 ubertags.com
 ubertracking.info
 ubiquitousyard.com
