@@ -4214,6 +4214,7 @@ org-dot-com.com
 oribi.io
 origin.chron.com
 origin-tracking.trulia.com
+orionis.techradar.com
 orts.wixawin.com
 os-data.com
 osd.oxygem.it
@@ -4310,6 +4311,7 @@ peerius.com
 peermapcontent.affino.com
 pega.com
 penspade.com
+pepperjam.com
 perceivequarter.com
 percentmobile.com
 percycle.com
@@ -4908,6 +4910,8 @@ r.orange.fr
 royalcount.de
 rpdtrk.com
 rp-rep.net
+rps-p2.rockpapershotgun.com
+rps-uk.rockpapershotgun.com
 rqtrk.eu
 rrimpl.com
 rs0.co.uk

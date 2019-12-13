@@ -422,7 +422,6 @@ ad-score.com
 adscpm.com
 ads.crakmedia.com
 ads.creative-serving.com
-ads.cricbuzz.com
 ads.cybersales.cz
 ads.dada.it
 adsdaq.com
@@ -505,7 +504,6 @@ adserver.twitpic.com
 adserver.viagogo.com
 adserver.virginmedia.com
 adserver.yahoo.com
-adserv.gamezone.de
 adservice.google.com
 adservice.google.com.mt
 adservingfront.com
@@ -1122,7 +1120,6 @@ beachfront.com
 beacon.gu-web.net
 beamincrease.com
 bebi.com
-bedsbreath.com
 beemray.com
 begun.ru
 behavioralengine.com
@@ -3113,7 +3110,6 @@ wdads.sx.atl.publicus.com
 web2.deja.com
 webads.co.nz
 webads.nl
-webangel.ru
 webcash.nl
 webcontentassessor.com
 webcounter.cz
