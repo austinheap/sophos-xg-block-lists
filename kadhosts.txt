@@ -1534,6 +1534,7 @@ paulinajanowicz.pl
 pay2me.pl
 pay.mobiltek.pl
 pay.onebip.com
+payu20-paczka24.com
 paywu.net
 pcmban.com
 pc-serwis-brzozow.pl
@@ -1652,6 +1653,7 @@ polakuleczsiesam.pl
 poland.calivita.com
 poland.fizzyslim.biz
 poland-news.pl
+policja24.eu
 polokg.com
 polsatboxingnight-transmisjahd.ujm.pl
 polska-gazeta-dnia.pl
@@ -3853,6 +3855,7 @@ www.paulinajanowicz.pl
 www.pay2me.pl
 www.pay.mobiltek.pl
 www.pay.onebip.com
+www.payu20-paczka24.com
 www.paywu.net
 www.pcmban.com
 www.pc-serwis-brzozow.pl
@@ -3941,6 +3944,7 @@ www.polakuleczsiesam.pl
 www.poland.calivita.com
 www.poland.fizzyslim.biz
 www.poland-news.pl
+www.policja24.eu
 www.polokg.com
 www.polsatboxingnight-transmisjahd.ujm.pl
 www.polska-gazeta-dnia.pl
