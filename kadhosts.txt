@@ -20,6 +20,7 @@
 7dot.cn
 7fantasma.duckdns.org
 7tools.eu
+9print.pl
 9xa.pl
 a1a.pl
 ab4hr.com
@@ -2335,6 +2336,7 @@ www.7228.eu
 www.7dot.cn
 www.7fantasma.duckdns.org
 www.7tools.eu
+www.9print.pl
 www.9xa.pl
 www.a1a.pl
 www.ab4hr.com

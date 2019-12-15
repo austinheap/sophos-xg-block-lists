@@ -633,6 +633,7 @@ anonymousdmp.com
 anormal-tracker.de
 anrdoezrs.net
 answerscloud.com
+anti-bot.baidu.com
 anti-cheat.info
 antvoice.com
 anxiousapples.com
@@ -996,6 +997,7 @@ bmst.pw
 b.myspace.com
 bn.adultempire.com
 bnr.alza.cz
+bntech.io
 bonitrust.de
 bonnieradnetwork.se
 bonsai.internetbrands.com
@@ -1960,6 +1962,7 @@ device9.com
 devphp.org.ua
 dexim.space
 dfanalytics.dealerfire.com
+d.finative.eu
 df-srv.de
 dgmsearchlab.com
 d.haberler.com
@@ -6142,6 +6145,7 @@ track.atgstores.com
 track.bannedcelebs.com
 trackbar.info
 track.bazonline.ch
+track.berliner-kurier.de
 track.bernerzeitung.ch
 track.bluecompany.cl
 track.briskfile.com
