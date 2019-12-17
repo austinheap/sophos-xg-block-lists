@@ -66,6 +66,7 @@ ad01.mediacorpsingapore.com
 ad0.bigmir.net
 ad.100.tbn.ru
 ad1.emule-project.org
+ad1.eventmanager.co.kr
 ad1.kde.cz
 ad1.pamedia.com.au
 ad2flash.com
@@ -236,6 +237,7 @@ adman.otenet.gr
 admantx.com
 admarketplace.net
 admarvel.com
+admaster.com.cn
 admax.nexage.com
 admedia.com
 ad.media-servers.net
