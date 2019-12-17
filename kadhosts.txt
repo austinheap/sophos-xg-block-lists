@@ -97,7 +97,6 @@ allfiles.pl
 allonline.pl
 all-player.pl
 allplayer.pl
-alltube.com.pl
 alohasoftware.net
 alpcity.pl
 alwetagd.pl
@@ -2369,7 +2368,6 @@ www.allfiles.pl
 www.allonline.pl
 www.all-player.pl
 www.allplayer.pl
-www.alltube.com.pl
 www.alohasoftware.net
 www.alpcity.pl
 www.alwetagd.pl

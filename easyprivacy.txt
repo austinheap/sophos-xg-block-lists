@@ -1,4 +1,5 @@
 0emm.com
+0sbm.consobaby.co.uk
 0stats.com
 0tracker.com
 0x1f4b0.com
@@ -44,6 +45,7 @@
 2performant.com
 300ca0d0.space
 310ca263.space
+319dn.dieti-natura.com
 320ca3f6.space
 330ca589.space
 33across.com
@@ -71,6 +73,7 @@
 51network.com
 51yes.com
 55labs.com
+6ddc.tartine-et-chocolat.com
 6ldu6qa.com
 6pal.consobaby.com
 6sc.co
@@ -79,11 +82,14 @@
 7bpeople.com
 7e59f52a58ab3be819c9a90ba53b9ffe.ovh
 7eer.net
+7lbd4.armandthiery.fr
+7mx.eider.com
 7x4.fr
 7x5.fr
 8020solutions.net
 88infra-strat.com
 8jd2lfsq.me
+913nd.dieti-natura.es
 99click.com
 99counters.com
 99stats.com
@@ -93,6 +99,7 @@ a013.com
 a.20minutes.fr
 a2a.lockerz.com
 a4b-tracking.com
+a8ht.hipp.fr
 a8ww.net
 aaa.aj5.info
 aa.avvo.com
@@ -1260,6 +1267,7 @@ clickening.com
 clickforensics.com
 click.gamersky.com
 click.geopaysys.com
+clickguard.com
 clickguardian.co.uk
 clicki.cn
 clickigniter.io
@@ -1429,6 +1437,7 @@ collector.githubapp.com
 collector.ksax.com
 collector.kstptv5.com
 collector.leaddyno.com
+collector.mazeberry.com
 collector-medium.lightstep.com
 collector.nextguide.tv
 collector.prod.expedia.com
@@ -2112,6 +2121,7 @@ ea.ciblo.net
 eacla.com
 ea.clubic.com
 ea.deguisetoi.fr
+ea.diamant-unique.com
 ea.fleurancenature.fr
 ea.greenweez.com
 ea.habitat.fr
@@ -2657,6 +2667,7 @@ geolid.com
 geolocation.performgroup.com
 geo.ltassrv.com
 geo.metronews.ca
+geo.mezr.com
 geo.mozilla.org
 geo.mtvnn.com
 geo.perezhilton.com
