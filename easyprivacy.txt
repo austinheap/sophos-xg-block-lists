@@ -3841,7 +3841,6 @@ mms.pennlive.com
 mms.silive.com
 mms.splinternews.com
 mms.syracuse.com
-mmstat.com
 mms.theroot.com
 mmtro.com
 mm.welt.de
