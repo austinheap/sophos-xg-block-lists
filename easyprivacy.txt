@@ -500,6 +500,7 @@ analytics.hpprintx.com
 analytics.ifood.tv
 analytics.industriemagazin.net
 analytics.infobae.com
+analytics.inform.com
 analyticsip.net
 analytics.iraiser.eu
 analytics.islamicfinder.org
@@ -669,6 +670,7 @@ appn.center
 appsha5.space
 aprtn.com
 aprtx.com
+apxy.io
 aqqgli3vle.bid
 aqtracker.com
 arcadeweb.com
@@ -870,6 +872,7 @@ beaconstreetservices.com
 beacon.thred.woven.com
 beacon.tingyun.com
 beacon.toyota.co.jp
+beacon-v2.helpscout.net
 beacon.viewlift.com
 beacon.wikia-services.com
 beacon.www.theguardian.com
@@ -1534,6 +1537,7 @@ core-cen-54.com
 coremotives.com
 cormce.com
 cosmi.io
+cosmosjackson.com
 cost1action.com
 count24.de
 count5.pconline.com.cn
@@ -1692,6 +1696,7 @@ crazyegg.com
 creator.zmags.com
 c-rings.net
 criteo.com
+critictruck.com
 cr.loszona.com
 crm-analytics.imweb.ru
 crmmetrix.fr
@@ -1936,6 +1941,7 @@ debug-vp.webmd.com
 decdna.net
 decibelinsight.net
 decideinteractive.com
+decisivedrawer.com
 declaredthoughtfulness.co
 deepattention.com
 deep.bi
@@ -1977,6 +1983,7 @@ dgmsearchlab.com
 d.haberler.com
 dhmtracking.co.za
 diag.doba.com
+diagnose.igstatic.com
 dialogtech.com
 diamond.transfermarkt.de
 did-it.com
@@ -2126,9 +2133,11 @@ ea.fleurancenature.fr
 ea.greenweez.com
 ea.habitat.fr
 ea.histoiredor.com
+ea.hofmann.es
 ea.hofmann.pt
 ea.homair.com
 ea.jeuxvideopc.com
+ea.kauf-unique.at
 ea.lafrancedunordausud.fr
 ea.lexpress.fr
 ea.melijoe.com
@@ -2345,6 +2354,7 @@ events.avantisvideo.com
 events.chaordicsystems.com
 events.demoup.com
 events.godaddy.com
+events.guesttoguest.com
 events.il.fi
 events.ingatlan.com
 events.izooto.com
@@ -2433,6 +2443,7 @@ fandommetrics.com
 fanplayr.com
 farmergoldfish.com
 farmer.wego.com
+farshake.com
 fastanalytic.com
 fast.appcues.com
 fastcounter.bcentral.com
@@ -2578,6 +2589,7 @@ fstrk.net
 fsz1.francoisesaget.com
 ftbpro.com
 ftrack.ru
+ftz.io
 fueldeck.com
 fuelx.com
 fugetech.com
@@ -2808,6 +2820,7 @@ gtopstats.com
 gtrk.s3.amazonaws.com
 guanoo.net
 guardwork.info
+guiltlessbasketball.com
 gulliblecamp.com
 gu-pix.appspot.com
 guq9.vente-unique.it
@@ -3418,6 +3431,7 @@ linkxchanger.com
 liod1ours.com
 listat.biz
 listtop.ru
+litix.io
 live-audience.dailymotion.com
 livecounter.dk
 livecounter.theyosh.nl
@@ -3532,6 +3546,7 @@ logs.dashlane.com
 log.seekda.com
 logs.gaana.com
 logs.ggweb.nl
+logs.hotstar.com
 logs.live.tudou.com
 log.snapdeal.com
 logs-qos.tf1.fr
@@ -4291,6 +4306,7 @@ partners.badongo.com
 partners.mysavings.com
 partners.thefilter.com
 partner.worldoftanks.com
+partplanes.com
 party-vqgdyvoycc.now.sh
 pasoherb.gq
 pass-1234.com
@@ -5625,6 +5641,7 @@ stats.free-rein.net
 stats.fs.com
 stats.geegain.com
 stats.gifs.com
+stats.grafikart.fr
 stats.harpercollins.com
 stats.heyoya.com
 stats.highwire.com
@@ -5937,6 +5954,7 @@ t.beopinion.com
 tbe.tom.ru
 tbex.ru
 t.bimvid.com
+t.blablacar.com
 t.blinkist.com
 t.brand-server.com
 tbskip.taobao.com
@@ -5946,6 +5964,7 @@ tc.airfrance.com
 tce.alicdn.com
 t.cfjump.com
 tcheck.outbrainimg.com
+tc.hometogo.net
 tcimg.com
 t.cinemablend.com
 tck.bangbros.com
@@ -5962,6 +5981,7 @@ tdsrmbl.net
 tdstats.com
 tealiumiq.com
 technical-service.net
+techtarget.com
 ted1.metro.co.uk
 ted.dailymail.co.uk
 tedioustooth.com
@@ -6325,6 +6345,7 @@ tracking.krone.at
 tracking.kurier.at
 trackinglabs.com
 tracking.ladies.de
+tracking.leadlander.com
 tracking.legacyoffers.com
 tracking.lengow.com
 tracking.linda.de
@@ -6678,6 +6699,7 @@ ultratokensx.com
 umbel.com
 unarmedindustry.com
 unbecominghall.com
+unequalbrake.com
 unicaondemand.com
 uniconsent.com
 unid.go.com
@@ -7219,6 +7241,7 @@ zipstat.dk
 zirve100.com
 ziykrgc.ru
 ziyu.net
+zlp6s.pw
 zlx.com.br
 zmctrack.net
 zminer.zaloapp.com
