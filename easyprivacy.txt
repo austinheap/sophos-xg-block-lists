@@ -1923,6 +1923,7 @@ da.virginmedia.com
 dawin.tv
 daylife-analytics.com
 daylogs.com
+d-bi.fr
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dc.banggood.com
@@ -2197,6 +2198,7 @@ ef.futuroscope.com
 e.funnymel.com
 eggplant.cloud
 ejyymghi.com
+ek8.voyage-prive.com
 e-kaiseki.com
 ekg.riotgames.com
 ekmpinpoint.com
@@ -2310,6 +2312,7 @@ eucsoft.com
 eu.groupondata.com
 eulerian.brandalley.fr
 euleriancdn.net
+eulerian.madeindesign.com
 eulerian.mathon.fr
 eulerian.net
 eulerian.sarenza.com
@@ -2400,6 +2403,7 @@ ewtuyytdf45.com
 exactag.com
 exapxl.de
 exclusiveclicks.com
+exd4.destinia.com.au
 exdynsrv.com
 exe.bid
 exelator.com
@@ -3168,6 +3172,7 @@ ip2map.com
 ip2phrase.com
 ipaddresslabs.com
 ip-api.com
+ipapi.tmbi.com
 ip.breitbart.com
 ipcatch.com
 ipcounter.de
@@ -3286,6 +3291,7 @@ kavijaseuranta.fi
 kaxsdc.com
 kbn.korben.info
 kctag.net
+kdata.fr
 kdmkauchahynhrs.ru
 kdowqlpt.info
 kedtise.com
@@ -6886,6 +6892,8 @@ vmm-satellite1.com
 vmm-satellite2.com
 vmstats.varrando.com
 vmtrk.com
+vnf4.belleetbio.com
+vnl1.voyage-prive.nl
 voicefive.com
 volantix.com
 volgograd-info.ru
@@ -6895,6 +6903,7 @@ voodooalerts.com
 voss.collegehumor.com
 votistics.com
 v.oui.sncf
+vpf4.euskaltelofertas.com
 vppst.iltrovatore.it
 vpzccwpyilvoyg.ru
 vra.outbrain.com
@@ -6905,6 +6914,7 @@ vs.target.com
 vstats.co
 vstats.digitaltrends.com
 vstat.vidigy.com
+vtf2f.banque-casino.fr
 vtracker.net
 vtracking.in.com
 vtracy.de
@@ -7098,7 +7108,6 @@ woopra-ns.com
 wootric.com
 worcesternews-gb.worcesternews.co.uk
 wordc.ga
-worker.salon.com
 worldflagcounter.com
 worldlogger.com
 wos.lv

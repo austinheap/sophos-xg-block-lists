@@ -1,7 +1,6 @@
 101com.com
 101order.com
 1-1ads.com
-123found.com
 123freeavatars.com
 180hits.de
 180searchassistant.com
@@ -69,7 +68,6 @@ ad1.emule-project.org
 ad1.eventmanager.co.kr
 ad1.kde.cz
 ad1.pamedia.com.au
-ad2flash.com
 ad2.iinfo.cz
 ad2.lupa.cz
 ad2.xrea.com
@@ -529,7 +527,6 @@ ads.flooble.com
 ads.fool.com
 ads.footymad.net
 ads.forbes.net
-ads.forium.de
 ads.fortunecity.com
 ads.fotosidan.se
 ads.foxnetworks.com
@@ -984,6 +981,7 @@ aralego.com
 arc1.msn.com
 archswimming.com
 ard.xxxblackbook.com
+area51-ts.com
 are-ter.com
 argyresthia.com
 aromamirror.com
@@ -1932,6 +1930,7 @@ justpremium.com
 justuno.com
 kanoodle.com
 kargo.com
+karisimbi.net
 karonty.com
 keymedia.hu
 keywee.co
