@@ -78,6 +78,7 @@ ad4game.com
 ad4mat.com
 ad4mat.de
 ad4mat.net
+ad4max.com
 ad.71i.de
 ad.a8.net
 ad.a-ads.com
@@ -102,6 +103,7 @@ ad-balancer.net
 adbard.net
 ad.bizo.com
 adblade.com
+adblade.org
 adblockanalytics.com
 ad.bnmla.com
 ad.bondage.com
@@ -1691,7 +1693,6 @@ futuristicfairies.com
 fuzzyflavor.com
 fuzzyweather.com
 fxstyle.net
-fyber.com
 ga87z2o.com
 ga.clearbit.com
 gadsbee.com
@@ -2272,7 +2273,9 @@ observantice.com
 oclasrv.com
 oewa.at
 offerforge.com
+offer.fyber.com
 offermatica.com
+offer.sponsorpay.com
 ogury.com
 olivebrandresponse.com
 omnijay.com
@@ -2600,6 +2603,7 @@ r.scoota.co
 rta.dailymail.co.uk
 rtbadzesto.com
 rtbflairads.com
+rtb.gumgum.com
 rtbidhost.com
 rtbplatform.net
 rtbpop.com
