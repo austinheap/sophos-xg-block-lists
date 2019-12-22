@@ -2972,7 +2972,6 @@ hrfziiddxa.ru
 hrum.hotelsapi.io
 hsadspixel.net
 hs-analytics.net
-hscta.net
 hsdn.org
 hstrck.com
 httpp.gdn
@@ -3467,6 +3466,7 @@ ln.ameba.jp
 lndata.com
 localads-statistics.maps.me
 localytics.com
+location.bloomberg.com
 lockview.cn
 locotrack.net
 loc.rediff.com
