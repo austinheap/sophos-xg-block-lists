@@ -419,6 +419,7 @@ analytic.pho.fm
 analytic.piri.net
 analytic.rocks
 analytics00.meride.tv
+analytics.126.net
 analytics.163.com
 analytics.21cn.com
 analytics.247sports.com
@@ -3701,6 +3702,7 @@ measure.ameblo.jp
 measure.ly
 measuremap.com
 measurementapi.com
+measure.office.com
 meatballsandads.com
 meatydime.com
 mebablo.com
@@ -6156,6 +6158,7 @@ t.pusk.ru
 t.quisma.com
 tr1.mailperformance.com
 tracc.it
+traccoon.intellectsoft.net
 tracdelight.com
 tracdelight.io
 trace-2000.com
@@ -7269,3 +7272,4 @@ ztcadx.com
 zt-dst.com
 ztsrv.com
 zvsuhljiha-a.akamaihd.net
+zz.bdstatic.com
