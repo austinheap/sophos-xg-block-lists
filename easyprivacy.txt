@@ -2844,6 +2844,7 @@ halo77.com
 halstats.com
 hammerhearing.com
 haostat.qihoo.com
+happen.spkt.io
 haraju.co
 harvester.eu.square-enix.com
 harvester.ext.square-enix-europe.com
@@ -3113,6 +3114,7 @@ insightera.com
 insight.fonecta.fi
 insightgrit.com
 insight.mintel.com
+insight.rapid7.com
 insights.blogfoster.com
 insights.gravity.com
 insights.plista.com
@@ -3189,6 +3191,7 @@ ipinyou.com
 ipinyou.com.cn
 ip-label.net
 iplocationtools.com
+i.pokernews.com
 ip.pichunter.com
 iproanalytics.com
 ipro.com
@@ -6025,6 +6028,7 @@ tetoolbox.com
 t.etraveli.com
 tf.360.cn
 t.flux.com
+t.freelancer.com
 tgdaudience.com
 tget.me
 tgknt.com

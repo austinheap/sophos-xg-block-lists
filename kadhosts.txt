@@ -977,6 +977,7 @@ info-polska.24.eu
 informacja-dnia.com
 informacjeszok24.blogspot.com
 informujemy24h.cba.pl
+init.polskapaczka24.net
 inovscope.pt
 inpost24.me
 insanepays.com
@@ -1620,6 +1621,7 @@ policja24.eu
 polokg.com
 polsatboxingnight-transmisjahd.ujm.pl
 polska-gazeta-dnia.pl
+polskapaczka24.net
 polska-tv.pl
 polskieinfo365.wordpress.com
 polskieinformacje24.eu
@@ -1822,6 +1824,7 @@ secure4app.com
 securecloud-smart.com
 secure-eplatnosc.com
 secure-pge.eu
+secure.polskapaczka24.net
 seioodsoi.club
 sendspace.pl
 sendspace.pw
@@ -3244,6 +3247,7 @@ www.info-polska.24.eu
 www.informacja-dnia.com
 www.informacjeszok24.blogspot.com
 www.informujemy24h.cba.pl
+www.init.polskapaczka24.net
 www.inovscope.pt
 www.inpost24.me
 www.insanepays.com
@@ -3858,6 +3862,7 @@ www.policja24.eu
 www.polokg.com
 www.polsatboxingnight-transmisjahd.ujm.pl
 www.polska-gazeta-dnia.pl
+www.polskapaczka24.net
 www.polska-tv.pl
 www.polskieinfo365.wordpress.com
 www.polskieinformacje24.eu
@@ -4060,6 +4065,7 @@ www.secure4app.com
 www.securecloud-smart.com
 www.secure-eplatnosc.com
 www.secure-pge.eu
+www.secure.polskapaczka24.net
 www.seioodsoi.club
 www.sendspace.pl
 www.sendspace.pw
