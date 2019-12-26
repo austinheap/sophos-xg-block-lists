@@ -2115,7 +2115,6 @@ dwtracking.sdo.com
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
-dynamicyield.com
 dynatrace.com
 dynatracesaas.com
 dyntrk.com
@@ -2466,6 +2465,8 @@ faultycanvas.com
 fbgpnk.com
 fbpixel.network.exchange
 fb_servpub-a.akamaihd.net
+f-counter.jp
+f-counter.net
 fcs.ovh
 fcstats.altervista.org
 fc.vodafone.de
@@ -4637,6 +4638,7 @@ pstats.com
 psyma-statistics.com
 pt.crossmediaservices.com
 p-td.com
+p.tencentmind.com
 ptengine.cn
 ptengine.com
 ptengine.jp
@@ -4764,6 +4766,7 @@ raresummer.com
 ra.ripple6.com
 rating.in
 rawr.at
+rays-counter.com
 r.bbci.co.uk
 rbc.magna.ru
 rcgi.video.qq.com
@@ -6489,6 +6492,7 @@ tracksys.developlabs.net
 track.tcppu.com
 track.td3x.com
 track.tesiteca.it
+track.thebase.in
 track.thesaurus.com
 track.tiara.daum.net
 track.tiara.kakao.com
@@ -6554,6 +6558,7 @@ trakksocial.googlecode.com
 traktr.news.com.au
 trakzor.com
 transactionale.com
+tr.api.itmedia.jp
 tra.pmdstatic.net
 tra.scds.pmdstatic.net
 traversedlp.com
@@ -6917,6 +6922,7 @@ vra.outbrain.com
 vrp.outbrain.com
 vrt.outbrain.com
 vry9.destinia.com
+v.shopify.com
 vs.target.com
 vstats.co
 vstats.digitaltrends.com
