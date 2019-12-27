@@ -3356,6 +3356,7 @@ bidentonrccom.122.2o7.net
 bid.openx.net
 bidsystem.com
 bidtraffic.com
+bid.underdog.media
 bidvertiser.com
 bigads.guj.de
 bigbrandpromotions.com
@@ -7479,6 +7480,7 @@ m.adnxs.com
 mads.amazon-adsystem.com
 mads.aol.com
 mads.cnet.com
+mads.dailymail.co.uk
 magento-analytics.com
 magyarkozosseg.net
 magyar-media.com
