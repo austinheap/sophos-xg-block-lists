@@ -523,6 +523,7 @@ analytics.meituan.net
 analytics.midwesternmac.com
 analytics.mindjolt.com
 analytics.mlstatic.com
+analytics.mouthshut.com
 analytics.moviepilot.de
 analytics.myfinance.com
 analytics.newscred.com
@@ -2437,6 +2438,7 @@ fab.interia.pl
 fabricww.com
 facil-iti.com
 factortg.com
+fadedsnow.com
 faibl.org
 fallingfalcon.com
 falseframe.com
@@ -5166,6 +5168,7 @@ shoptimally.com
 showheroes.com
 showroomlogic.com
 shrek.6.cn
+shyseed.com
 sibulla.com
 sicksmash.com
 sidebar.issuu.com
@@ -5251,6 +5254,7 @@ smartology.co
 smartracker.net
 smart-traffik.com
 smartzonessva.com
+smashsurprise.com
 smct.co
 smectapop12.pl
 smetrics.att.com
@@ -6742,6 +6746,7 @@ uptolike.com
 uptpro.homestead.com
 uptracs.com
 uptrendsdata.com
+upz1.destinia.lt
 uralweb.ru
 urchin.estadao.com.br
 urchin-tracker.bigpoint.net
@@ -7127,6 +7132,7 @@ wos.lv
 wowanalytics.co.uk
 wpdstat.com
 wpfc.ml
+wph2.destinia.us
 wp-monero-miner.de
 wp-stats.com
 wrating.com
@@ -7173,12 +7179,14 @@ x9.shinobi.jp
 xa-counter.com
 x.allabout.co.jp
 xara.hse24.de
+xay5o.toscane-boutique.fr
 xbasfbno.info
 x.bloggurat.net
 xclaimwords.net
 xclk-integracion.com
 xcounter.ch
 xfast.host
+xfn6.monaco.edu
 xg4ken.com
 xhit.com
 xiti.com
