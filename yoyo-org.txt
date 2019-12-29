@@ -101,6 +101,7 @@ adback.co
 ad-balancer.at
 ad-balancer.net
 adbard.net
+ad.bitmedia.io
 ad.bizo.com
 adblade.com
 adblade.org
@@ -761,6 +762,7 @@ ads.wwe.biz
 ads.xhamster.com
 ads.xtra.co.nz
 ads.xtribeapp.com
+adsxyz.com
 ads.y-0.net
 ads.yahoo.com
 ads.yap.yahoo.com
