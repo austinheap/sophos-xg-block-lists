@@ -2651,6 +2651,7 @@ genieedmp.com
 genieessp.jp
 genieesspv.jp
 geobar.ziffdavisinternational.com
+geo.battle.net
 geobeacon.ign.com
 geobytes.com
 geocompteur.com
@@ -4951,7 +4952,6 @@ roll.bankofamerica.com
 rollingcounters.com
 roofrelation.com
 roosterfirework.com
-r.orange.fr
 royalcount.de
 rpdtrk.com
 rp-rep.net
