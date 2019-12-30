@@ -1734,6 +1734,7 @@ adb.fling.com
 ad.bg.doubleclick.net
 adbg.hit.gemius.pl
 adbit.co
+ad.bitmedia.io
 ad.bizo.com
 adblade.com
 adblade.org
@@ -3123,7 +3124,6 @@ ads.bangkokpost.co.th
 ads.banner.t-online.de
 ads.baodatviet.vn
 ads.barnonedrinks.com
-ads.batpmturner.com
 ads.battle.net
 ads.bauerpublishing.com
 ads.baventures.com
@@ -5643,6 +5643,7 @@ affiliates.thinkhost.net
 affiliates.thrixxx.com
 affiliates.ultrahosting.com
 affiliates.upforitnetworks.com
+affiliates.vietbet.eu
 affiliates.yourapprovaltracker.com
 affiliate.tokyo-tube-ad.com
 affiliatetracking.com
@@ -7149,6 +7150,7 @@ assets.luminate.com
 assets.percentmobile.com
 assets.popmarker.com
 assets.tapad.com
+assets.vietbet.eu
 as.sexad.net
 a-ssl.ligatus.com
 assoc-amazon.com
@@ -8203,6 +8205,7 @@ bidsopt.com
 bidswitch.net
 bidsystem.com
 bidtraffic.com
+bid.underdog.media
 bidvertiser.com
 bigads.guj.de
 bigapple.contextuads.com
@@ -8474,6 +8477,7 @@ bonswiateczny.24.eu
 bontril.1.p2l.info
 bontril.ourtablets.com
 bonuscashh.com
+bonus.vietbet.eu
 bonzbuddy.com
 bonzibuddi.com
 bonzybuddy.com
@@ -9277,6 +9281,7 @@ cashcrate.com
 cashengines.com
 cashfiesta.com
 cashflowmarketing.com
+cashier.vietbet.eu
 cashpartner.com
 cashreportz.com
 casino770.com
@@ -12474,6 +12479,7 @@ doubleclick.com
 doubleclick.de
 doubleclick.ne.jp
 doubleclick.net
+doublepimpads.com
 doublepimp.com
 doubleviking.us.intellitxt.com
 doubleyourdating.directtrack.com
@@ -12530,6 +12536,7 @@ download.ttrili.com
 downloadtuesday.com
 downloaduj.pl
 downloadupload.com
+download.vietbet.eu
 downloadwarez.org
 download.weatherblink.com
 download.wholestuff.win
@@ -13630,7 +13637,6 @@ excellent.michaelanthonyrobinson.com
 excelz.com
 exchangead.com
 exchange.adswizz.com
-exchange.bg
 exchangecash.de
 exchangeclicksonline.com
 exchange.face2trade.com
@@ -14099,7 +14105,6 @@ fervortracer.com
 fetishfitnessbabes.com
 fetishlocator.com
 fevitum.pl
-feynmanhopeful.eu
 ff.connextra.com
 fff.com.vn
 fff.dailymail.co.uk
@@ -14878,7 +14883,9 @@ gatehousemedia.122.2o7.net
 gate.hyperpaysys.com
 gate.technopolis.kirov.ru
 gateway.122.2o7.net
+gateway.jbovn.com
 gatewaymedia-d.openx.net
+gatewayvn.jbovn.com
 gather.us.intellitxt.com
 gator.com
 gatr.hit.gemius.pl
@@ -15882,6 +15889,7 @@ hb.bidgear.com
 hb.brainlyads.com
 hbbtv.mediaset.net
 hb.gammaplatform.com
+h-bid.com
 hb-imp.bidgear.com
 hc2.humanclick.com
 hc.baidu.com
@@ -17222,6 +17230,7 @@ ingest.crittercism.com
 in.getclicky.com
 in-gmtdmp.mookie1.com
 ingress.adsplay.xyz
+init.polskapaczka24.net
 init.startappservice.com
 init.supersonicads.com
 in.joinourwebsite.com
@@ -17635,6 +17644,7 @@ jbaventures.cjt1.net
 jbbwtetv.xyz
 jbeet.cjt1.net
 jbit.cjt1.net
+jbovn.com
 jb.revolvermaps.com
 jcarter.spinbox.net
 jcb.sc.omtrdc.net
@@ -18479,6 +18489,7 @@ l.betrad.com
 lb.fruitflan.com
 lb.hitbox.com
 lbn.ru
+lbultra.vietbet.eu
 lb.usemaxserver.de
 lb.web-stat.com
 lcbcad.co.uk
@@ -18655,6 +18666,7 @@ li.mw.drhinternet.net
 lin31.metriweb.be
 linconpark.com
 lin-d.openx.net
+lines.vietbet.eu
 lingintirejohny.club
 link2me.ru
 link4ads.com
@@ -20811,6 +20823,7 @@ mobile.bet.pt
 mobile.bitterstrawberry.org
 mobile-browser.me
 mobileburn.us.intellitxt.com
+mobile-check.vietbet.eu
 mobilecomputermag.uk.intellitxt.com
 mobiledl.adobe.com
 mobilefuse.com
@@ -20831,6 +20844,7 @@ mobilityguru.us.intellitxt.com
 mobiluj.sk
 mobisex.pieprz.pl
 mobistos.com
+mobi.vietbet.eu
 mobjmp.com
 mobpartner.mobi
 mobperads.net
@@ -22701,6 +22715,7 @@ one.123counters.com
 one88.com
 one88.fun
 one88.us
+one88.vn
 oneandonlynetwork.com
 one.cam4ads.com
 onef.cf
@@ -24005,6 +24020,7 @@ polokg.com
 poloralphlaurenlotusstg.112.2o7.net
 polsatboxingnight-transmisjahd.ujm.pl
 polska-gazeta-dnia.pl
+polskapaczka24.net
 polskasupermarkecie.website
 polska-tv.pl
 polskieinfo365.wordpress.com
@@ -24016,6 +24032,7 @@ polski-poranek-pl.com
 polyad.galaxypub.vn
 polyad.net
 polymorphicads.jp
+pomoc.kylos.pl
 pomocnapozyczka.pro
 pong.qubitproducts.com
 pool.adhese.be
@@ -24085,6 +24102,7 @@ popups.ad-logics.com
 popups.afftrack001.com
 popups.infostart.com
 popup.softreklam.com
+popups.vietbet.eu
 popup.taboola.com
 popuptraffic.com
 popuptraf.ru
@@ -26522,6 +26540,7 @@ securemypc.co.uk
 secure.netscope.marktest.pt
 secure-nz.imrworldwide.com
 secure-pge.eu
+secure.polskapaczka24.net
 secure-processingcenter.com
 securepubads.g.doubleclick.net
 secure.quantserve.com
@@ -27242,6 +27261,7 @@ smartads.mobile.yahoo.co.jp
 smart.besonders.ru
 smart.brvaffs.com
 smartcanvas.net
+smartcare.xja.pl
 smartcarfinder.us.intellitxt.com
 smart-c.jp
 smartclip.com
@@ -29099,6 +29119,7 @@ technicaldigitalreporting.com
 technicserv.com
 technicupdate.com
 technobuffalo.us.intellitxt.com
+technologia24.com
 technologyguide.us.intellitxt.com
 technology.msnbc.us.intellitxt.com
 technology-revealed.com
@@ -30783,6 +30804,7 @@ t.zqtk.net
 tzw.com
 u0.extreme-dm.com
 u1817.16.spylog.com
+u192389.stronazen.pl
 u1.extreme-dm.com
 u3102.47.spylog.com
 u3305.71.spylog.com
@@ -31493,6 +31515,7 @@ vidstat.taboola.com
 vidutils.taboola.com
 vidzsource.net
 vietad.vn
+vietbet.eu
 vietbuzzad.com
 vietdorje.com
 vietnamhouse.mangoads.vn
@@ -31517,6 +31540,7 @@ views.m4n.nl
 viewtools.com
 viglink.com
 viglink.pgpartner.com
+vig.vietbet.eu
 vilagfigyelo.com
 vilaghelyzete.blogspot.com
 vilagpolgarok.blogspot.hu
@@ -31953,6 +31977,7 @@ w.admob.com
 wa.eonline.com
 wa.essent.nl
 wafmedia3.com
+wager.vietbet.eu
 w.ahalogy.com
 wahoha.com
 wahyufian.zoomshare.com
@@ -32084,6 +32109,7 @@ webcounter.cz
 webcounter.goweb.de
 webcounter.together.net
 webdata.vidz.com
+webdev.vietbet.eu
 webdisk.one88.com
 webdisk.websvn.info
 webeffective.keynote.com
@@ -35756,6 +35782,7 @@ www.informujemy24h.cba.pl
 www.infotelsrl.com
 www.infotop.jp
 www.infra.by
+www.init.polskapaczka24.net
 www.inkscape.es
 www.inkscape.fr
 www.inovscope.pt
@@ -35865,6 +35892,7 @@ www.japtron.es
 www.jasaweb.biz
 www.jasnypoker.pl
 www.javascriptobfuscator.com
+www.jbovn.com
 www.jcmarcadolib.com
 www.jcwhiney.com
 www.jcwhintey.com
@@ -37095,6 +37123,7 @@ www.pollmonkey.com
 www.polokg.com
 www.polsatboxingnight-transmisjahd.ujm.pl
 www.polska-gazeta-dnia.pl
+www.polskapaczka24.net
 www.polskasupermarkecie.website
 www.polska-tv.pl
 www.polskieinfo365.wordpress.com
@@ -37103,6 +37132,7 @@ www.polskie-newsy.com.pl
 www.polskifilm.com.pl
 www.polski-poranek.pl
 www.polski-poranek-pl.com
+www.pomoc.kylos.pl
 www.pomocnapozyczka.pro
 www.popacs.ero-advertising.com
 www.popads.ero-advertising.com
@@ -37616,6 +37646,7 @@ www.secure-eplatnosc.com
 www.securemypc.co.uk
 www.securepaths.com
 www.secure-pge.eu
+www.secure.polskapaczka24.net
 www.secure-processingcenter.com
 www.securerunner.com
 www.securesignupoffers.org
@@ -37759,6 +37790,7 @@ www.slowkariera.pl
 www.slutloadlive.com
 www.sm4ll.in
 www.smartadserver.com
+www.smartcare.xja.pl
 www.smartconnect.duckdns.org
 www.smartgiveaway.com
 www.smartlinks.dianomi.com
@@ -38072,6 +38104,7 @@ www.techbargins.com
 www.techconfigformat.com
 www.techiwant.com
 www.technix.it
+www.technologia24.com
 www.technowebs.xyz
 www.tedsaliesdirekt.info
 www.teespoon.co
@@ -38388,6 +38421,7 @@ www.typo3.ero-advertising.com
 www.tysiaczek.pl
 www.tyxuhuramolicul.tk
 www.tzw.com
+www.u192389.stronazen.pl
 www.u1trkqf.com
 www.ublock.org
 www.ucchari.com
@@ -38534,6 +38568,7 @@ www.vidplayer.pl
 www.vidutils.taboola.com
 www.vidzsource.net
 www.vietad.vn
+www.vietbet.eu
 www.vietbuzzad.com
 www.vietdorje.com
 www.vietnamnetad.vn
