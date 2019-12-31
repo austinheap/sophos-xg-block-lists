@@ -10199,7 +10199,6 @@ servustv.oewabox.at
 serwisy.gremimedia.pl
 se.sitestat.com
 settings.crashlytics.com
-settings-win.data.microsoft.com
 settingupdate.yourgoodflashupgradingmain.icu
 setupdate24.updateworkfreshandnew.space
 setupdate24.updateworkfreshandnew.website
@@ -11993,7 +11992,6 @@ voluumtrk3.com
 voluumtrk.com
 vomitgirl.org
 voordeel.ad.nl
-vortex-win.data.microsoft.com
 vox-static.liverail.com
 voyager1.telesat.com.co
 vp.tscapeplay.com
