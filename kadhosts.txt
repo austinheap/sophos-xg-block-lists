@@ -87,7 +87,6 @@ aleshop.pl
 alexsoff.com
 alfapro.pl
 aliexokazje.pl
-alisto-pozyczki.pl
 alldc.pw
 allegro.pl-nowe-regulamini7913.uhu362.com
 allegro.targi.pl
@@ -151,7 +150,6 @@ areyouahuman.co
 ariix.com
 arkonfinance.pl
 aromagroup.pl
-as-chwilowka.pl
 ascraftan.com
 asdfz.pro
 aseanlegaltech.com
@@ -216,7 +214,6 @@ bigbangads.go2cloud.org
 bigdater.me
 bigprize-place.info
 bikelovers.blog.br
-billabeda.ga
 binomo.com
 bio-chemik24.pl
 biotalerz.pl
@@ -400,7 +397,6 @@ customernoble.com
 cybermagicindia.com
 cyxiangjishoptk.gq
 czas-na-fb.blogspot.com
-czyjtonumertel.pl
 d3r6awv9ysiyn4.cloudfront.net
 d8x.pl
 dagcoin.org
@@ -420,7 +416,6 @@ darmowe-zakupy.com
 darmowygenerator.blogspot.com
 das33.io
 dascoin.com
-dascoin.com.pl
 dascoingroup.com
 dascoininfo.blogspot.com
 dascoin-info.pl
@@ -765,7 +760,6 @@ fotka10.ml
 fotki-kliknij.eu
 fotolajt.pl
 fotoografie-pobierz.eu
-fotowalkowska.pl
 foto-zdjecia.24.eu
 foxrpas.com
 franciszkakurier.com
@@ -957,7 +951,6 @@ ibox.green
 ibrainer.net
 i-cda.pl
 i-chomik.pl
-i-chomikuj.pl
 idealnafigura.com
 idgarin.com
 igrzyskasto.pl
@@ -1404,7 +1397,6 @@ nowa-oplata.net
 nowaupadlosc.pl
 nsfund.mn
 nsnm.pl
-nthost.shacknet.nu
 nu7.pl
 nubiton.pl
 nuskin.com
@@ -1829,7 +1821,6 @@ secure.polskapaczka24.net
 seioodsoi.club
 sendspace.pl
 sendspace.pw
-senoctis.pl
 sensisslupca.pl
 serendipitygalenite.club
 seriale24.com.pl
@@ -2113,7 +2104,6 @@ twoj-typ.pl
 twoj-voucher.com
 tyi4.pl
 tylko-dla-ciebie.com
-tysiaczek.pl
 tyxuhuramolicul.tk
 u192389.stronazen.pl
 ublock.org
@@ -2154,6 +2144,7 @@ valuesmatter.com.au
 vansallegro.pl
 vanscheers.com
 vansj.com
+vansprzecena.pl
 vantis-holding.com
 vapormax.pl
 varlan.eu
@@ -2218,7 +2209,6 @@ web.yuppipuppy.com
 wellstar-company.com
 wellu.eu
 wernet.pl
-werxwer.pl
 weryfikacjadanych.ml
 weryfikacjadanych.tk
 wesklan.pl
@@ -2247,7 +2237,6 @@ wirtuozseksu.pl
 wisdementive.info
 wisebanc.com
 witnatura.pl
-wizjalokalna24.eu
 wizjalokalna24.pl
 wlatech.pl
 wolyncalyfilm.wordpress.com
@@ -2356,7 +2345,6 @@ www.aleshop.pl
 www.alexsoff.com
 www.alfapro.pl
 www.aliexokazje.pl
-www.alisto-pozyczki.pl
 www.alldc.pw
 www.allegro.pl-nowe-regulamini7913.uhu362.com
 www.allegro.targi.pl
@@ -2422,7 +2410,6 @@ www.areyouahuman.co
 www.ariix.com
 www.arkonfinance.pl
 www.aromagroup.pl
-www.as-chwilowka.pl
 www.ascraftan.com
 www.asdfz.pro
 www.aseanlegaltech.com
@@ -2487,7 +2474,6 @@ www.bigbangads.go2cloud.org
 www.bigdater.me
 www.bigprize-place.info
 www.bikelovers.blog.br
-www.billabeda.ga
 www.binomo.com
 www.bio-chemik24.pl
 www.biotalerz.pl
@@ -2672,7 +2658,6 @@ www.customernoble.com
 www.cybermagicindia.com
 www.cyxiangjishoptk.gq
 www.czas-na-fb.blogspot.com
-www.czyjtonumertel.pl
 www.d3r6awv9ysiyn4.cloudfront.net
 www.d8x.pl
 www.dagcoin.org
@@ -2692,7 +2677,6 @@ www.darmowe-zakupy.com
 www.darmowygenerator.blogspot.com
 www.das33.io
 www.dascoin.com
-www.dascoin.com.pl
 www.dascoingroup.com
 www.dascoininfo.blogspot.com
 www.dascoin-info.pl
@@ -3039,7 +3023,6 @@ www.fotka10.ml
 www.fotki-kliknij.eu
 www.fotolajt.pl
 www.fotoografie-pobierz.eu
-www.fotowalkowska.pl
 www.foto-zdjecia.24.eu
 www.foxrpas.com
 www.franciszkakurier.com
@@ -3231,7 +3214,6 @@ www.ibox.green
 www.ibrainer.net
 www.i-cda.pl
 www.i-chomik.pl
-www.i-chomikuj.pl
 www.idealnafigura.com
 www.idgarin.com
 www.igrzyskasto.pl
@@ -3679,7 +3661,6 @@ www.nowa-oplata.net
 www.nowaupadlosc.pl
 www.nsfund.mn
 www.nsnm.pl
-www.nthost.shacknet.nu
 www.nu7.pl
 www.nubiton.pl
 www.nuskin.com
@@ -4074,7 +4055,6 @@ www.secure.polskapaczka24.net
 www.seioodsoi.club
 www.sendspace.pl
 www.sendspace.pw
-www.senoctis.pl
 www.sensisslupca.pl
 www.serendipitygalenite.club
 www.seriale24.com.pl
@@ -4359,7 +4339,6 @@ www.twoj-typ.pl
 www.twoj-voucher.com
 www.tyi4.pl
 www.tylko-dla-ciebie.com
-www.tysiaczek.pl
 www.tyxuhuramolicul.tk
 www.u192389.stronazen.pl
 www.ublock.org
@@ -4400,6 +4379,7 @@ www.valuesmatter.com.au
 www.vansallegro.pl
 www.vanscheers.com
 www.vansj.com
+www.vansprzecena.pl
 www.vantis-holding.com
 www.vapormax.pl
 www.varlan.eu
@@ -4464,7 +4444,6 @@ www.web.yuppipuppy.com
 www.wellstar-company.com
 www.wellu.eu
 www.wernet.pl
-www.werxwer.pl
 www.weryfikacjadanych.ml
 www.weryfikacjadanych.tk
 www.wesklan.pl
@@ -4493,7 +4472,6 @@ www.wirtuozseksu.pl
 www.wisdementive.info
 www.wisebanc.com
 www.witnatura.pl
-www.wizjalokalna24.eu
 www.wizjalokalna24.pl
 www.wlatech.pl
 www.wolyncalyfilm.wordpress.com
