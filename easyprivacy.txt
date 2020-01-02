@@ -932,6 +932,7 @@ bewhoyouare.gq
 bfmio.com
 bfoleyinteractive.com
 bglog.bitauto.com
+bgpng.me
 bh8yx.xyz
 b.huffingtonpost.com
 bhzejltg.info
@@ -5414,6 +5415,7 @@ sp.postcrescent.com
 sp.poughkeepsiejournal.com
 sp.press-citizen.com
 sp.pressconnects.com
+sp-prod.net
 sp.publicopiniononline.com
 sp.pushsquare.com
 sp.redding.com
@@ -7222,6 +7224,7 @@ yaudience.com
 ybotvisit.com
 ycctrk.co.uk
 yellowbrix.com
+yext-pixel.com
 ygsm.com
 yieldbird.com
 yieldbot.com
