@@ -287,7 +287,6 @@ casadasklep.pl
 cashbackworld.com
 catsplit.com
 catzell.com
-cavotel.com
 cbdnewsdirect.com
 cbldc.io
 cclive.istage.cloud
@@ -986,6 +985,7 @@ interpathlaboratories.com
 investreviewier.com
 inwestujwrozwoj.pl
 iotiot.cf
+iphonepolska.pl
 ipko.pl-weryfikacja-konta-bank-pko.j.pl
 i-podgladacz.pl
 iptivicini.com
@@ -1104,7 +1104,6 @@ ksiazkiokomunikacji.pl
 ktopodgladamnienafacebooku.wordpress.com
 kulalusramag.net
 kupgo.net
-kupujemy24.net
 kupujemy.to
 kurierania.com
 kurierinpost.info
@@ -1300,7 +1299,6 @@ msp-hack.com
 msphack.com.pl
 msphackonline.com
 mukunth.com
-mulchingknoxville.com
 multico.5v.pl
 mutlukadinlarakademisi.com
 muverbo.pl
@@ -1547,6 +1545,7 @@ playmobia.com
 playmobilecrm.com
 play.mobsfun.net
 playmovie.pl
+playnow24.pl
 playnowunlimited.biz
 playproz.com
 play-tube.pl
@@ -2090,9 +2089,11 @@ tuniaf.com
 tupperware.pl
 tv-internetowa.pl
 tvjovem.net
+tv-maniak.pl
 tvnewtop.pro
 tvnowapp.net
 tvonline.hol.es
+tvoszczedzanie-na-ekranie.pl
 twochefs-pizzeria.pl
 twoja-historia.24.eu
 twojapaczka-24.com
@@ -2547,7 +2548,6 @@ www.casadasklep.pl
 www.cashbackworld.com
 www.catsplit.com
 www.catzell.com
-www.cavotel.com
 www.cbdnewsdirect.com
 www.cbldc.io
 www.cclive.istage.cloud
@@ -3249,6 +3249,7 @@ www.interpathlaboratories.com
 www.investreviewier.com
 www.inwestujwrozwoj.pl
 www.iotiot.cf
+www.iphonepolska.pl
 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
 www.i-podgladacz.pl
 www.iptivicini.com
@@ -3368,7 +3369,6 @@ www.ksiazkiokomunikacji.pl
 www.ktopodgladamnienafacebooku.wordpress.com
 www.kulalusramag.net
 www.kupgo.net
-www.kupujemy24.net
 www.kupujemy.to
 www.kurierania.com
 www.kurierinpost.info
@@ -3564,7 +3564,6 @@ www.msp-hack.com
 www.msphack.com.pl
 www.msphackonline.com
 www.mukunth.com
-www.mulchingknoxville.com
 www.multico.5v.pl
 www.mutlukadinlarakademisi.com
 www.muverbo.pl
@@ -3806,6 +3805,7 @@ www.playmobia.com
 www.playmobilecrm.com
 www.play.mobsfun.net
 www.playmovie.pl
+www.playnow24.pl
 www.playnowunlimited.biz
 www.playproz.com
 www.play-tube.pl
@@ -4325,9 +4325,11 @@ www.tuniaf.com
 www.tupperware.pl
 www.tv-internetowa.pl
 www.tvjovem.net
+www.tv-maniak.pl
 www.tvnewtop.pro
 www.tvnowapp.net
 www.tvonline.hol.es
+www.tvoszczedzanie-na-ekranie.pl
 www.twochefs-pizzeria.pl
 www.twoja-historia.24.eu
 www.twojapaczka-24.com

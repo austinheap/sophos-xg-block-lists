@@ -34,7 +34,6 @@
 99count.com
 a135.wftv.com
 aaddzz.com
-a.aproductmsg.com
 aaxads.com
 aaxdetect.com
 abacho.net
@@ -78,7 +77,6 @@ ad4game.com
 ad4mat.com
 ad4mat.de
 ad4mat.net
-ad4max.com
 ad.71i.de
 ad.a8.net
 ad.a-ads.com
@@ -472,7 +470,6 @@ adserver.bizhat.com
 adserver.break-even.it
 adserver.cams.com
 adserver.com
-adserver.dca13.com
 adserver.digitoday.com
 adserver.freecity.de
 adserver.friendfinder.com
@@ -1111,7 +1108,6 @@ banner.vadian.net
 banner.webmersion.com
 bannery.cz
 bannieres.acces-contenu.com
-bans.adserver.co.il
 bans.bride.ru
 barbarousnerve.com
 barnesandnoble.bfast.com
@@ -1933,6 +1929,7 @@ jumptap.com
 jungroup.com
 justicejudo.com
 justpremium.com
+justrelevant.com
 justuno.com
 kanoodle.com
 kargo.com
@@ -2255,7 +2252,6 @@ npttech.com
 ns1p.net
 ntv.io
 ntvk1.ru
-nugg.ad
 nuggad.net
 numax.nu-1.com
 nuseek.com
