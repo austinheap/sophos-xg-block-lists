@@ -207,6 +207,7 @@ abcnews.footprint.net
 abetterinternet.com
 ab-gb.mgid.com
 a-blog.eu
+aboardamusement.com
 a.boom.ro
 abourselfi.com
 aboutharrypotter.fasthost.tv
@@ -3358,6 +3359,7 @@ bidsystem.com
 bidtraffic.com
 bid.underdog.media
 bidvertiser.com
+bietthuvinhomesgialam.xyz
 bigads.guj.de
 bigbrandpromotions.com
 bigbrandrewards.com
@@ -4083,6 +4085,7 @@ click.atdmt.com
 clickauditor.net
 click.avenuea.com
 clickbangpop.com
+clickbankbreakstheinternet.com
 clickcash.webpower.com
 clickcdn.shareaholic.com
 click-find-save.com
@@ -4700,6 +4703,7 @@ data.netscope.marktest.pt
 data.webads.co.nz
 date.ventivmedia.com
 datingadvertising.com
+datnentayhanoi.info
 dawnnationaladvertiser.com
 db3aqu.atdmt.com
 db4.net-filter.com
@@ -5325,6 +5329,7 @@ eu-pn4.adserver.yahoo.com
 eur.a1.yimg.com
 europe.adserver.yahoo.com
 eu-sonar.sociomantic.com
+eus.rubiconproject.com
 eu.track.digitaladsystems.com
 euw.adserver.snapads.com
 eu.xtms.net
@@ -5418,6 +5423,7 @@ fastcounter.linkexchange.net
 fastcounter.linkexchange.nl
 fastcounter.onlinehoster.net
 fastfixing.tech
+fastlane.rubiconproject.com
 fast-lost4tmz.world
 fast-mac-upp.com
 fastpopunder.com
@@ -6133,6 +6139,7 @@ havakhosh.com
 haynet.adbureau.net
 hbads.eboz.com
 hbadz.eboz.com
+hbopenbid.pubmatic.com
 hc2.humanclick.com
 hc.baidu.com
 hcg82f2b.com
@@ -6652,6 +6659,7 @@ i.simpli.fi
 islamicmarketing.net
 issges.oewabox.at
 istartsurf.com
+istat.biz
 i.static.zaplata.bg
 istockbargains.com
 iswwwup.com
@@ -9313,6 +9321,7 @@ prexyone.appspot.com
 prilosec.1.p2l.info
 primetime.ad.primetime.net
 printmail.biz
+privacy-policy.truste.com
 privitize.com
 prizes.co.uk
 prizestohandle.club
@@ -9698,6 +9707,7 @@ rm-admin-demo.iovation.com
 rmbn.ru
 rmcdn.2mdn.net
 rmcdn.f.2mdn.net
+rmcentre.bigfilmproduction.com
 rmedia.boston.com
 rmm1u.checkm8.com
 rms.admeta.com
@@ -10046,6 +10056,7 @@ secure-js.kontera.com
 securemacfix.com
 secure.netscope.marktest.pt
 secure-nz.imrworldwide.com
+secure.quantserve.com
 securerr.com
 securerunner.com
 secure-uk.imrworldwide.com
@@ -11728,6 +11739,7 @@ unk.vver.kiae.rr
 unstat.baidu.com
 unwashedsound.com
 uole.ad.uol.com.br
+u.openx.net
 update4now.yourfine2updatesgo.best
 updateauto.preparevideosafesystem4unow.site
 updateauto.preparevideosafesystem4unow.space

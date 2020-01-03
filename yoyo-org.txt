@@ -426,6 +426,7 @@ ads.crakmedia.com
 ads.creative-serving.com
 ads.cybersales.cz
 ads.dada.it
+ads.dailycamera.com
 adsdaq.com
 ads.datingyes.com
 ads.dazoot.ro
@@ -596,6 +597,7 @@ ads.kinobox.cz
 ads.kinxxx.com
 adsklick.de
 ads.kompass.com
+adskpak.com
 ads.krawall.de
 ads.lapalingo.com
 ads.larryaffiliates.com
