@@ -789,6 +789,7 @@ axiomaticalley.com
 axislogger.appspot.com
 axoncoho.tk
 aymcsx.ru
+az693360.vo.msecnd.net
 azalead.com
 azera-s014.com
 azointel.com
@@ -856,6 +857,7 @@ beacon.livefyre.com
 beacon.lycos.com
 beacon.mtgx.tv
 beacon.netflix.com
+beacon.nrholding.net
 beacon.nuskin.com
 beacon.richrelevance.com
 beacon.riskified.com
@@ -1269,6 +1271,7 @@ clickdensity.com
 clickdimensions.com
 click.engage.xbox.com
 clickening.com
+clickferret.com
 clickforensics.com
 click.gamersky.com
 click.geopaysys.com
@@ -3344,6 +3347,7 @@ kontagent.net
 kopsil.com
 kostenlose-counter.com
 kqzyfj.com
+k.rueducommerce.fr
 krxd.net
 ksimdw.ru
 k.streamrail.com
@@ -3404,6 +3408,7 @@ ledinund.com
 legenhit.com
 legolas-media.com
 leiki.com
+lem.nouvelobs.com
 lentainform.com
 leokross.com
 leon08.tk
@@ -4253,6 +4258,7 @@ optimost.com
 optin-machine.com
 optorb.com
 optreadetrus.info
+oracleinfinity.io
 oranges88.com
 orcapia.com
 organicfruitapps.com
@@ -4942,6 +4948,7 @@ rng-snp-003.com
 rnlabs.com
 rockincontent.net
 rocks.io
+roeye.com
 roia.biz
 roi-pro.com
 roi-rocket.net
@@ -4989,7 +4996,9 @@ rtt.campanja.com
 ru4.com
 rumanalytics.com
 rum.marquardmedia.hu
+rum.nccgroup-webperf.com
 rumpelstiltskinhead.com
+rum.uptime.com
 ru.net
 runtnc.net
 rutarget.ru
@@ -5520,6 +5529,7 @@ stat.easydate.biz
 stat.ed.cupidplc.com
 stat.freetool.it
 stat.funshion.net
+stat.glaze.ai
 stathat.com
 stathound.com
 stat.hudong.com
@@ -5978,6 +5988,7 @@ t.beopinion.com
 tbe.tom.ru
 tbex.ru
 t.bimvid.com
+t.birchlane.com
 t.blablacar.com
 t.blinkist.com
 t.brand-server.com
@@ -5992,6 +6003,7 @@ tc.hometogo.net
 tcimg.com
 t.cinemablend.com
 tck.bangbros.com
+t.clic2buy.com
 tctm.co
 td573.com
 t.dailymail.co.uk
@@ -6090,6 +6102,7 @@ t.kck.st
 tk.kargo.com
 tkpi.delta.com
 tkqlhce.com
+tk.storetail.io
 tl813.com
 t.leady.com
 t.leady.cz
@@ -6684,6 +6697,8 @@ turnsocial.com
 t.vimeo.com
 tvpixel.com
 t.wayfair.com
+t.wayfair.co.uk
+t.wayfair.de
 twcount.com
 twcouponcenter.com
 tw.i.hulu.com
@@ -7142,6 +7157,7 @@ wpfc.ml
 wph2.destinia.us
 wp-monero-miner.de
 wp-stats.com
+wrapper.lemde.fr
 wrating.com
 wredint.com
 wrmwb.7val.com
