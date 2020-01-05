@@ -486,6 +486,7 @@ download.apps.co.pl
 downloadfile.eu
 downloadfiles.pl
 download.inboxace.com
+downloadnature.com
 downloads-mobile.com
 download.televisionfanatic.com
 downloadtuesday.com
@@ -901,6 +902,7 @@ hajoopteg.com
 halodzwonek.pl
 halopozyczka.pl
 hanabishi.net
+hanypon.com
 happach.pl
 havemeforfree.com
 hazoombienesraices.com
@@ -2063,6 +2065,7 @@ testony.com
 testowanietwojegoiq.blogspot.com
 the-bitcoin-profit.com
 thecryptogenius.com
+thedash.pt
 thefortunatenutrition.com
 themovienation.com
 thepropertydealerz.com
@@ -2275,6 +2278,7 @@ womenempowermentpakistan.com
 wooptrk.com
 worldinfoclub.com
 worldoftankscheats.com
+wosp.online
 wplogin.5v.pl
 wpunkcie.pl
 wraplo.pl
@@ -2780,6 +2784,7 @@ www.download.apps.co.pl
 www.downloadfile.eu
 www.downloadfiles.pl
 www.download.inboxace.com
+www.downloadnature.com
 www.downloads-mobile.com
 www.download.televisionfanatic.com
 www.downloadtuesday.com
@@ -3196,6 +3201,7 @@ www.hajoopteg.com
 www.halodzwonek.pl
 www.halopozyczka.pl
 www.hanabishi.net
+www.hanypon.com
 www.happach.pl
 www.havemeforfree.com
 www.hazoombienesraices.com
@@ -4330,6 +4336,7 @@ www.testony.com
 www.testowanietwojegoiq.blogspot.com
 www.the-bitcoin-profit.com
 www.thecryptogenius.com
+www.thedash.pt
 www.thefortunatenutrition.com
 www.themovienation.com
 www.thepropertydealerz.com
@@ -4542,6 +4549,7 @@ www.womenempowermentpakistan.com
 www.wooptrk.com
 www.worldinfoclub.com
 www.worldoftankscheats.com
+www.wosp.online
 www.wplogin.5v.pl
 www.wpunkcie.pl
 www.wraplo.pl
