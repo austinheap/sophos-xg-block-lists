@@ -1444,7 +1444,6 @@ collector.fiverr.com
 collector.githubapp.com
 collector.ksax.com
 collector.kstptv5.com
-collector.leaddyno.com
 collector.mazeberry.com
 collector-medium.lightstep.com
 collector.nextguide.tv
@@ -1490,6 +1489,7 @@ confirmational.com
 confirmit.com
 confirm-referer.glrsales.com
 connatix.com
+connectif.cloud
 consciouscabbage.com
 consciouschairs.com
 contactmonkey.com
@@ -1505,7 +1505,6 @@ contadorweb.com
 contatoreaccessi.com
 contatore-di-visite.campusanuncios.com
 contemporaryceremonies.ca
-contensis.com
 content.ad
 contentinsights.com
 contentsfeed.com
@@ -2596,6 +2595,7 @@ frog.wix.com
 fruitflan.com
 fsd2.digital
 fshka.com
+fsm.lapresse.ca
 f.staticlp.com
 fstrk.net
 fsz1.francoisesaget.com
@@ -3009,7 +3009,6 @@ i22lo.com
 i2ad.jp
 i2i.jp
 i401xox.com
-iadvize.com
 iaheyftbsn.review
 iaudienc.com
 ib.adnxs.com
@@ -3217,6 +3216,7 @@ irqs.ioam.de
 irs09.com
 iryazan.ru
 is.base.de
+isgprivacy.cbsi.com
 i-stats.com
 i-stats.ieurop.net
 istats.nl
@@ -3379,6 +3379,7 @@ lead-analytics.biz
 leadboxer.com
 leadchampion.com
 lead-converter.com
+leaddyno.com
 leadfeeder.com
 leadforce1.com
 leadforensics.com
@@ -4419,6 +4420,7 @@ pingagenow.com
 pingback.issuu.com
 pingback.sogou.com
 ping.buto.tv
+pingclock.net
 pingdom.net
 ping-dot-acp-magento.appspot.com
 ping.dozuki.com
@@ -6178,6 +6180,7 @@ tower.moviepilot.com
 tpa7.iahorro.com
 t.paypal.com
 tp.deawm.com
+t.perigold.com
 t.planvip.fr
 tpm.pw
 t.powerreviews.com

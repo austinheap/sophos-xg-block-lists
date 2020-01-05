@@ -1412,6 +1412,7 @@ novumedical.pl
 nowa.k-link-poland.pl
 nowa-oplata.net
 nowaupadlosc.pl
+nowinki.blog-online.eu
 nsfund.mn
 nsnm.pl
 nu7.pl
@@ -3712,6 +3713,7 @@ www.novumedical.pl
 www.nowa.k-link-poland.pl
 www.nowa-oplata.net
 www.nowaupadlosc.pl
+www.nowinki.blog-online.eu
 www.nsfund.mn
 www.nsnm.pl
 www.nu7.pl
