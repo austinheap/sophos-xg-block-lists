@@ -1979,6 +1979,7 @@ detectdiscovery.com
 detect.ergebnis-dienst.de
 deteql.net
 devatics.com
+devatics.io
 device9.com
 devphp.org.ua
 dexim.space
@@ -5535,7 +5536,6 @@ stat.glaze.ai
 stathat.com
 stathound.com
 stat.hudong.com
-staticcache.org
 static-cnt.bid
 staticiv.com
 static-sb.com
