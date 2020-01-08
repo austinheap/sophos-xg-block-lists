@@ -1426,6 +1426,7 @@ coin-service.com
 coin-services.info
 coinwebmining.com
 coinwire.eu
+coinzillatag.com
 coletor.terra.com
 coll1onf.com
 collarity.com
@@ -2445,6 +2446,7 @@ facil-iti.com
 factortg.com
 fadedsnow.com
 faibl.org
+faktor.io
 fallingfalcon.com
 falseframe.com
 familiarfloor.com
@@ -2964,6 +2966,7 @@ hop.clickbank.net
 hopurl.org
 horsenectar.com
 hospitality-optimizer.com
+hostcontent.live
 host.d-ns.ga
 hostingcloud.accountant
 hostip.info
@@ -4147,6 +4150,7 @@ nr7.us
 nr-data.net
 nrich.ai
 ns1p.net
+ns8ds.com
 nsaudience.pl
 ns.rvmkitt.com
 nstat.tudou.com
@@ -4364,7 +4368,6 @@ pedropanther.com
 peep1alea.com
 peerius.com
 peermapcontent.affino.com
-pega.com
 penspade.com
 pepperjam.com
 perceivequarter.com
@@ -5866,6 +5869,7 @@ strivesidewalk.com
 stroeerdigitalmedia.de
 strossle.it
 strs.jp
+sts.eccmp.com
 st.tmgrup.com.tr
 stupendoussleet.com
 st.vq.ku6.cn
@@ -6312,6 +6316,7 @@ tracker.vreveal.com
 tracker.washtimes.com
 tracker.winload.de
 tracker.wordstream.com
+tracker.wpserveur.net
 track.express.de
 trackfeed.com
 trackfreundlich.de
@@ -6752,7 +6757,6 @@ unid.go.com
 uniqodo.com
 universaltrackingcontainer.com
 unknowntray.com
-unlock-protocol.com
 unrummaged.com
 untidyrice.com
 uoldid.ru
