@@ -73,6 +73,7 @@
 51network.com
 51yes.com
 55labs.com
+5ijo.01net.com
 6ddc.tartine-et-chocolat.com
 6ldu6qa.com
 6pal.consobaby.com
@@ -133,6 +134,7 @@ acceptableserver.com
 access-analyze.org
 accessi.it
 accessintel.com
+accesstrade.net
 access-traffic.com
 acc-hd.de
 accn.allocine.net
@@ -380,6 +382,7 @@ altpool.pro
 alvenda.com
 alzexa.com
 amadesa.com
+amarfa.ir
 amavalet.com
 amazingcounters.com
 ambercrow.com
@@ -530,6 +533,7 @@ analytics.newscred.com
 analytics.newsinc.com
 analytics.nextmedia.com
 analytics.ngfiles.com
+analyticson.com
 analytics.onlyonlinemarketing.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
@@ -600,6 +604,7 @@ analytics.urx.io
 analytics.us.archive.org
 analytics-v2.anvato.com
 analyticsv2.dol.gr
+analytics.valiuz.com
 analytics.vanillaforums.com
 analytics.vendemore.com
 analytics.volvocars.com
@@ -1156,6 +1161,7 @@ ccgateway.net
 cc.gofile.io
 c.compete.com
 ccrtvi.com
+ccscserver.com
 cc.swiftype.com
 cct2.o2online.de
 cctvgb.com.cn
@@ -1331,6 +1337,7 @@ c.live.com
 clixcount.com
 clixpy.com
 clk.about.com
+clk.boulanger.com
 clkd.at
 clk.onet.pl
 clkstat.china.cn
@@ -1474,6 +1481,7 @@ comms-web-tracking.uswitchinternal.com
 company-target.com
 compare.easyviaggio.com
 compare.easyviajar.com
+compare.liligo.com
 compteur.cc
 compteur.com
 compteur.developpez.com
@@ -1825,6 +1833,7 @@ d24cze5sab2jwg.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
+d2-apps.net
 d2cpw6kwpff7n5.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
 d2gfi8ctn6kki7.cloudfront.net
@@ -2623,6 +2632,7 @@ fuziontech.net
 fyreball.com
 g1thub.com
 g2insights-cdn.azureedge.net
+g4p.redtram.com
 ga-beacon.appspot.com
 ga.canoe.ca
 gacela.eu
@@ -4148,6 +4158,7 @@ npario-inc.net
 nprove.com
 nr7.us
 nr-data.net
+nrg.red-by-sfr.fr
 nrich.ai
 ns1p.net
 ns8ds.com
@@ -4275,6 +4286,7 @@ origin-tracking.trulia.com
 orionis.techradar.com
 orts.wixawin.com
 os-data.com
+osdata.solutions
 osd.oxygem.it
 o-s.io
 ositracker.com
@@ -5576,6 +5588,7 @@ stat.lenta.ru
 stat.matichon.co.th
 stat.media
 stat.mixi.media
+stat.moevideo.net
 statm.the-adult-company.com
 stat.mtv3.fi
 stat.novinky.cz
@@ -6014,6 +6027,7 @@ tctm.co
 td573.com
 t.dailymail.co.uk
 tda.io
+tdep.vacansoleil.fr
 t.devnet.com
 tdf1.admyjob.com
 tdf.ringier.ch
@@ -6041,6 +6055,7 @@ tellapart.com
 tellaparts.com
 temnos.com
 tempo.inc.com
+te.mytoys.de
 tendatta.com
 tendertest.com
 tenmax.io
@@ -6925,6 +6940,7 @@ visualdna.com
 visualdna-stats.com
 visualrevenue.com
 visualwebsiteoptimizer.com
+visx.net
 vitamine.networldmedia.net
 vivistats.com
 vivocha.com
@@ -7248,6 +7264,7 @@ yast.rutube.ru
 yaudience.com
 ybotvisit.com
 ycctrk.co.uk
+yektanet.com
 yellowbrix.com
 yext-pixel.com
 ygsm.com

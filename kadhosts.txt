@@ -717,6 +717,7 @@ financial.org
 financial-times-appp.github.io
 finansedladziecka.pl
 finanse-payu.pl
+finansoweswiry.pl
 finclub.pl
 findfiooos.xyz
 firead.org
@@ -986,6 +987,7 @@ investreviewier.com
 inwestujwrozwoj.pl
 iotiot.cf
 iphonepolska.pl
+i-pko.eu
 ipko.pl-weryfikacja-konta-bank-pko.j.pl
 i-podgladacz.pl
 iptivicini.com
@@ -1588,6 +1590,7 @@ pobierane.pl
 pobierz24.pl
 pobierz.biz
 pobierzgo.pl
+pobierznet.pl
 pobierz-online.co.pl
 pobierz-pliczek.eu
 pobierzpliki.pl
@@ -1669,6 +1672,7 @@ programyfb.blogspot.com
 programyhakerskie.pl
 programyobywatelskie.pl
 projectolynx.com
+projektyxella.pl
 prokino.pl
 promienieszczescia.pl
 promocionesparati.com
@@ -1686,6 +1690,7 @@ prouve.com
 provanto.pl
 proventus.com.pl
 provida.pl
+przegladaj-zdjeecia.eu
 przejdz.ml
 przepismix.pl
 przesyleczki.com
@@ -2029,6 +2034,7 @@ test--na--iq.blogspot.com
 testo.5v.pl
 testony.com
 testowanietwojegoiq.blogspot.com
+thebillizm.pl
 the-bitcoin-profit.com
 thecryptogenius.com
 thedash.pt
@@ -2149,6 +2155,7 @@ vapormax.pl
 varlan.eu
 vascoart.pl
 vasco-group.eu
+vavavoom.pl
 vcxz.pl
 vegascosmetics.de
 vegatestsklep.pl
@@ -2979,6 +2986,7 @@ www.financial.org
 www.financial-times-appp.github.io
 www.finansedladziecka.pl
 www.finanse-payu.pl
+www.finansoweswiry.pl
 www.finclub.pl
 www.findfiooos.xyz
 www.firead.org
@@ -3248,6 +3256,7 @@ www.investreviewier.com
 www.inwestujwrozwoj.pl
 www.iotiot.cf
 www.iphonepolska.pl
+www.i-pko.eu
 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
 www.i-podgladacz.pl
 www.iptivicini.com
@@ -3821,6 +3830,7 @@ www.pobierane.pl
 www.pobierz24.pl
 www.pobierz.biz
 www.pobierzgo.pl
+www.pobierznet.pl
 www.pobierz-online.co.pl
 www.pobierz-pliczek.eu
 www.pobierzpliki.pl
@@ -3902,6 +3912,7 @@ www.programyfb.blogspot.com
 www.programyhakerskie.pl
 www.programyobywatelskie.pl
 www.projectolynx.com
+www.projektyxella.pl
 www.prokino.pl
 www.promienieszczescia.pl
 www.promocionesparati.com
@@ -3919,6 +3930,7 @@ www.prouve.com
 www.provanto.pl
 www.proventus.com.pl
 www.provida.pl
+www.przegladaj-zdjeecia.eu
 www.przejdz.ml
 www.przepismix.pl
 www.przesyleczki.com
@@ -4263,6 +4275,7 @@ www.test--na--iq.blogspot.com
 www.testo.5v.pl
 www.testony.com
 www.testowanietwojegoiq.blogspot.com
+www.thebillizm.pl
 www.the-bitcoin-profit.com
 www.thecryptogenius.com
 www.thedash.pt
@@ -4383,6 +4396,7 @@ www.vapormax.pl
 www.varlan.eu
 www.vascoart.pl
 www.vasco-group.eu
+www.vavavoom.pl
 www.vcxz.pl
 www.vegascosmetics.de
 www.vegatestsklep.pl
