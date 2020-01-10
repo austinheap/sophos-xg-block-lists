@@ -705,6 +705,7 @@ ads.socialtheater.com
 ads.soft32.com
 ads.space.com
 ads.stackoverflow.com
+adsstat.com
 ads.sun.com
 ads.suomiautomaatti.com
 ads.supplyframe.com
@@ -1668,7 +1669,6 @@ frailoffer.com
 freebanner.com
 free-banners.com
 freelogs.com
-freemaineads.com
 freeonlineusers.com
 freepay.com
 freeskreen.com
@@ -2532,9 +2532,9 @@ realtracker.com
 rebelsubway.com
 receptiveink.com
 receptivereaction.com
+recoco.it
 record.affiliates.karjalakasino.com
 record.bonniergaming.com
-record.mrwin.com
 redirectingat.com
 re-directme.com
 redirectvoluum.com
@@ -2924,7 +2924,6 @@ top100.mafia.ru
 top123.ro
 top20free.com
 top90.ro
-topbarh.box.sk
 topbucks.com
 top-casting-termine.de
 topforall.com
@@ -3191,7 +3190,6 @@ x6.yakiuchi.com
 xad.com
 xapads.com
 xchange.ro
-xclicks.net
 xertive.com
 xg4ken.com
 xiti.com

@@ -97,6 +97,7 @@ adwpaces.ero-advertising.com
 ad.wynk.in
 adzerk.com
 ae.gsecondscreen.com
+a.faymobi.com
 afs.ero-advertising.com
 agl.hotstar.com
 agl-intl.hotstar.com
@@ -323,6 +324,7 @@ external.stealthedeal.com
 ext.privacyassistant.net
 fanners.ero-advertising.com
 fata.ero-advertising.com
+faymobi.com
 fcanr.tracking.miui.com
 fc.yahoo.com
 feedback.adrecover.com
