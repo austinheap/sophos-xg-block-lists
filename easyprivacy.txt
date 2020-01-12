@@ -495,6 +495,7 @@ analytics.shareaholic.com
 analytics.shop.hisense.com
 analytics.shorte.st
 analytics.sitewit.com
+analytics.sketchup.com
 analytics.skyscanner.net
 analytics.slashdotmedia.com
 analytics.sleeknote.com
@@ -623,6 +624,7 @@ atax.teamxbox.com
 athenainstitute.biz
 athenatmpbeacon.theglobeandmail.ca
 atlas.astrology.com
+atm.youku.com
 atoshonetwork.com
 a.tovarro.com
 atrack.allposters.com
@@ -2397,6 +2399,7 @@ giraff.io
 g.itespresso.fr
 gitgrub.pro
 gixmo.dk
+gj.mmstat.com
 glanceguide.com
 glassmoni.researchgate.net
 glbdns.microsoft.com
@@ -2795,7 +2798,6 @@ ip2location.com
 ip2map.com
 ip2phrase.com
 ipaddresslabs.com
-ip-api.com
 ipapi.tmbi.com
 ip.breitbart.com
 ipcatch.com
@@ -2939,6 +2941,7 @@ k.rueducommerce.fr
 krxd.net
 k.streamrail.com
 ksyrium0014.com
+ktracker.kumparan.com
 ktxtr.com
 kupona.de
 l2.io
@@ -3719,6 +3722,7 @@ omt.shinobi.jp
 onaudience.com
 ondu.ru
 onefeed.co.uk
+oneid.mmstat.com
 onelink-translations.com
 onespot-tracking.herokuapp.com
 onestat.com
@@ -5168,6 +5172,7 @@ stats.searchftps.net
 stats.searchftps.org
 stats.searchsight.com
 stats.seedr.com
+stats.sexemodel.com
 stats.sharenet.co.za
 statssheet.com
 stats.shopify.com
@@ -5375,6 +5380,7 @@ tag.sonymusic.com
 tagsrvcs.com
 tag-stats.huffpost.com
 tags.transportdirect.info
+tagtool.de
 tag.triboomedia.it
 tagx.nytimes.com
 tailtarget.com
@@ -6594,6 +6600,7 @@ xg4ken.com
 xhit.com
 xiti.com
 xl-counti.com
+x-link.pl
 xlisting.jp
 xmrpool.net
 xplosion.de
