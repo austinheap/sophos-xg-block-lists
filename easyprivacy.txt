@@ -727,6 +727,7 @@ b-aws.techcrunch.com
 baynote.net
 b.bedop.com
 bbtrack.net
+bc.marfeelcache.com
 bc.qunar.com
 bdash-cloud.com
 bdwblog.eastmoney.com
@@ -1260,6 +1261,7 @@ coll1onf.com
 collarity.com
 collect.adback.co
 collect.igodigital.com
+collecting.click
 collector-api.99designs.com
 collector.automote.co.nz
 collector-cdn.github.com
@@ -1839,6 +1841,7 @@ dwtracking.sdo.com
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
+dynameex.com
 dynatrace.com
 dynatracesaas.com
 dyntrk.com
@@ -3004,6 +3007,7 @@ levexis.com
 lexity.com
 l.fairblocker.com
 lfov.net
+lg.tr.pandora.tv
 lh.secure.yahoo.com
 liadm.com
 libstat.com
@@ -3177,6 +3181,7 @@ lugansk-info.ru
 lumatag.co.uk
 lumberamount.com
 luminate.com
+lumitos.com
 lunametrics.wpengine.netdna-cdn.com
 luxup2.ru
 luxupadva.com
@@ -3472,6 +3477,7 @@ msgapp.com
 msgs.jp
 msgtag.com
 msparktrk.com
+mstat.ga
 mstracker.net
 mstrlytcs.com
 mtag.mman.kr
@@ -3744,6 +3750,7 @@ openhit.com
 open.mkt1397.com
 openstat.net
 opentracker.net
+opentracking.ru
 openvenue.com
 ophan.theguardian.com
 oproi.com
@@ -4777,6 +4784,7 @@ speed.wikia.net
 speee-ad.akamaized.net
 speee-ad.jp
 spelar.org
+sp.fanatical.com
 sp.fdlreporter.com
 sp.floridatoday.com
 sp.freep.com
