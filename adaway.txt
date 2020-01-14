@@ -2598,7 +2598,6 @@ appconfig.cmgdigital.com
 app-config.enhance.co
 appcontent.boostmobile.com
 app.datorama.com
-app-de.onetrust.com
 appdeumext.tdameritrade.com
 appdiscovery.apptap.com
 appdistapi.scloud.le.com
@@ -2669,7 +2668,6 @@ appodeal.com
 appodeal-east-bidder.manage.com
 appodealx-eu.appgrowth.com
 appolicious.com
-app.onetrust.com
 app.openstreamapp.com
 app.optimizely.com
 app.optinmonster.com
@@ -4304,7 +4302,6 @@ config.inmobi.com
 config.kuyun.com
 config-ltvp.inmobi.com
 config.otherlevels.com
-config.outturner.com
 config.safedk.com
 config.samsungads.com
 config.sdk.scopely.io
@@ -5819,8 +5816,6 @@ geoip.ifunny.co
 geoip.propellerads.com
 geo.ipromote.com
 geo-locate.appspot.com
-geolocation-dev.onetrust.com
-geolocation.onetrust.com
 geo.moatads.com
 geo.opt8.co
 geoplugin.net
