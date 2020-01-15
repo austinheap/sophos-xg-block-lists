@@ -3544,7 +3544,6 @@ cdg-v4.pops.fastly-insights.com
 cdlc.iadvize.com
 cdm-d.openx.net
 cdn01.static.adfalcon.com
-cdn0.forter.com
 cdn11.contentabc.com
 cdn1.adcdnx.com
 cdn1-analytics.ladmedia.fr
@@ -3568,24 +3567,18 @@ cdn2.teads.tv
 cdn3-analytics.ladmedia.fr
 cdn3.appnext.com
 cdn3.doubleverify.com
-cdn3.forter.com
 cdn.3lift.com
 cdn3nc.media.net
 cdn3.sponsorpay.com
-cdn46.forter.com
 cdn4.buysellads.net
 cdn4.crispadvertising.com
-cdn4.forter.com
 cdn4.mxpnl.com
 cdn4.sponsorpay.com
-cdn5.forter.com
 cdn5.onthe.io
 cdn7.crispadvertising.com
 cdn7.rocks
 cdn.88-f.net
 cdn8.crispadvertising.com
-cdn8.forter.com
-cdn9.forter.com
 cdn-a2-ncl.optimizely.com
 cdn.accengage.com
 cdn.adacado.com
@@ -3688,7 +3681,6 @@ cdn-fastly-006.traffic-director-alias.krxd.net
 cdn-fastly-008.traffic-director-alias.krxd.net
 cdn-fastly-009.traffic-director-alias.krxd.net
 cdn.feeds.ibt.com
-cdn.forter.com
 cdn.fotoable.com
 cdn.fqtag.com
 cdn.g5e.com
@@ -5642,7 +5634,6 @@ foreman-pdx.krxd.net
 format.prod.cloud.ogury.io
 formula-api.adtech.de
 fornax.iad.appboy.com
-forter.com
 fota4.adfuture.cn
 fota4.adups.cn
 fota4hw.adsunflower.com
@@ -5834,7 +5825,6 @@ getwisdom.io
 g.fotoable.com
 gf.umenglog.com
 ggimg.tapas.net
-gg.kp2.forter.com
 gg.meitu.com
 g.gop1.co
 g.gridsum.com
@@ -6889,9 +6879,6 @@ kma.biz
 knorex.com
 kochava.com
 korea.inmobi.com
-kp1.forter.com
-kp2.forter.com
-kpstat.forter.com
 kraken.production.ap-southeast-2.kops.kargo.com
 kraken.production.us-east-1.kops.kargo.com
 kraken.production.us-west-1.kops.kargo.com
@@ -8207,7 +8194,6 @@ nt-cdn.coccoc.com
 nt-es.imrworldwide.com
 ntrb.qc.coccoc.com
 nuffnang.com.my
-null.cdn4.forter.com
 null.iad.appboy.com
 numbers.md
 nv-sdk.jumio.com
