@@ -113,6 +113,7 @@
 199173.engine.mobileapptracking.com
 199211.engine.mobileapptracking.com
 1bb821ddb967b3e010b63f2a2f3308e3.api.appsee.com
+1cef.playfabapi.com
 1mp.mobi
 1phads.com
 1x1rank.com
@@ -681,7 +682,6 @@ abt-prod-us-east-1-content-star.swrve.com
 ac.adpia.vn
 a.c.appier.net
 ac.batmobi.net
-accelifyhelp.zendesk.com
 access.adblox.net
 access.conversantmedia.com
 accessrequest.taboola.com
@@ -1438,6 +1438,7 @@ ads-sdk.upltv.com
 ads.seccionamarilla.com.mx
 ads-secure.videohub.tv
 ads.servebom.com
+ads.sessiongames.com
 ads.simpleads.com.br
 ads.simpli.fi
 ads.sina.com
@@ -2318,6 +2319,7 @@ api.lanistaads.com
 api.layer.com
 api.leadbolt.net
 api.leadpages.io
+api.leanplum.com
 api.life.lovetapmobile.com
 api.lijit.com
 api.live.letv.com
@@ -2571,6 +2573,7 @@ appad-api-01.perfectcorp.com
 appad-api-02.perfectcorp.com
 app.adapt.io
 app-adforce.jp
+app.adjust.com
 app.adjust.io
 app.adroll.com
 appads.com
@@ -3822,6 +3825,7 @@ cdnwidget.com
 cdn.wootric.com
 cdn.wpm.neustar.biz
 cdn.zarget.com
+cdp.cloud.unity3d.com
 cds.connatix.com
 cds.taboola.com
 cec-global.nielsen.com
@@ -4300,6 +4304,7 @@ config.sdk.scopely.io
 config.sdk.wiman.io
 configs.nixozz.com
 config.tremorhub.com
+config.uca.cloud.unity3d.com
 config.unityads.unity3d.com
 configuration.ttpsdk.info
 config.vip1.ams1.inmobi.com
@@ -5260,7 +5265,6 @@ engage.meltwater.com
 engagement-collector.mobify.net
 engagement.inmarket.com
 engage-network.influencemobile.com
-engagenysupport.zendesk.com
 engage-postbacks.influencemobile.com
 engageya.com
 engine.adzerk.net
@@ -5664,6 +5668,7 @@ fr.advertising.yahoo.com
 frame.appsgeyser.com
 frame.deployads.com
 fra-v4.pops.fastly-insights.com
+freegeoip.com
 freesam.kt.com
 fr-gmtdmp.mookie1.com
 front.adpia.vn
@@ -6511,6 +6516,7 @@ in.analytics.glance.inmobi.com
 in.api.clevertap.com
 in.api.glance.inmobi.com
 inapp.nixozz.com
+inapps.appsflyer.com
 in.appserver-ap.com
 in.appserver-cp.com
 inapps.moengage.com
@@ -6931,6 +6937,7 @@ later-analytics-reports.s3-accelerate.amazonaws.com
 latest.app.optimizely.com
 la-trc.taboola.com
 launch1.co
+launches.appsflyer.com
 lavanetwork.net
 lax-1-apex.go.sonobi.com
 lax-1.go.sonobi.com
@@ -7530,6 +7537,7 @@ metaresolver.com
 metavertising.com
 meta.video.qiyi.com
 meter-svc.nytimes.com
+metric-android-am.road404.com
 metrica.yandex.ru
 metric.cliphub.io
 metrics.adnetwork.vn
@@ -10407,6 +10415,7 @@ ssl-cdn.media.innity.net
 sslclick.union.ucweb.com
 ssl.dl.g15.letvlb.com
 ssl.gft2.de
+ssl.google-analytics.com
 ssl.gridsumdissector.com
 ssl.hit.stat24.com
 ssl-i.cdn.openx.com
@@ -10690,6 +10699,7 @@ stats.ssl-services.com
 stats.sxp.smartclip.net
 stat.su
 stats.unibiller.com
+stats.unity3d.com
 stats.unrulymedia.com
 stats.vietnammoi.vn
 stats.vocento.com.edgekey.net
@@ -12293,10 +12303,13 @@ www2.branch.io
 www.5rocks.io
 www.api.appsee.com
 www.chartboost.com
+www.geoplugin.net
 www.googleadservices.com
+www.google-analytics.com
 www.googletagmanager.com
 www-googletagmanager.l.google.com
 www.googletagservices.com
+www.leanplum.com
 www.linkwithin.com
 www.localytics.com
 www.npttech.com
