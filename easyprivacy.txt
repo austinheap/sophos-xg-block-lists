@@ -2185,6 +2185,7 @@ fimg-resp.seznam.cz
 finalid.com
 finderlocator.com
 find-ip-address.org
+firebaselogging.googleapis.com
 fishhoo.com
 fitanalytics.com
 fixcounter.com
@@ -4560,6 +4561,7 @@ selaris.com
 selectivesummer.com
 selfcampaign.com
 sellebrity.com
+sellpoint.net
 sellpoints.com
 semantic-finder.com
 semanticverses.com
@@ -4738,6 +4740,7 @@ sophus3.com
 sortsummer.com
 soska.us
 sourcecode.pro
+sourcepoint.vice.com
 spacehits.net
 space-link.de
 spacepools.org
@@ -6353,7 +6356,6 @@ xg4ken.com
 xhit.com
 xiti.com
 xl-counti.com
-x-link.pl
 xlisting.jp
 xmrpool.net
 xplosion.de

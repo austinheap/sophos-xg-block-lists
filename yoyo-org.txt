@@ -640,7 +640,6 @@ ads.nj.com
 ads.nola.com
 ads.nordichardware.com
 ads.nordichardware.se
-ads.nwsource.com
 ads.nyi.net
 ads.nytimes.com
 ads.nyx.cz
@@ -655,7 +654,6 @@ ads.olivebrandresponse.com
 adsolut.in
 ads.oneplace.com
 ads.optusnet.com.au
-ad-souk.com
 ads.outpersonals.com
 ad-space.net
 ads.passion.com
@@ -852,7 +850,6 @@ adwhirl.com
 adwitserver.com
 adworldnetwork.com
 adworx.at
-adworx.be
 adworx.nl
 ad.wsod.com
 ad.wz.cz
@@ -1098,7 +1095,6 @@ bannersng.yell.com
 bannerspace.com
 banners.passion.com
 banners.resultonline.com
-banners.sys-con.com
 banners.thomsonlocal.com
 banners.videosz.com
 banners.virtuagirlhd.com
@@ -1125,6 +1121,7 @@ beachfront.com
 beacon.gu-web.net
 beamincrease.com
 bebi.com
+bedsbreath.com
 beemray.com
 begun.ru
 behavioralengine.com
@@ -2296,7 +2293,6 @@ onenetworkdirect.com
 onestat.com
 onestatfree.com
 onlinecash.com
-onlinecashmethod.com
 online-metrix.net
 online.miarroba.com
 onlinerewardcenter.com
@@ -2697,6 +2693,7 @@ sicksmash.com
 sidebar.angelfire.com
 silkysquirrel.com
 sillyscrew.com
+silvalliant.info
 silvermob.com
 similarsabine.com
 simpleanalytics.io
