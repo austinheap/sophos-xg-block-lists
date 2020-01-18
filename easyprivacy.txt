@@ -375,7 +375,6 @@ analytics.aasaam.com
 analytics.adfreetime.com
 analytics.allovoisins.com
 analytics.amakings.com
-analytics.amplitude.com
 analytics.anvato.net
 analytics.apnewsregistry.com
 analytics.archive.org
@@ -2205,7 +2204,6 @@ flixfacts.co.uk
 flixsyndication.net
 flnqmin.org
 flophous.cf
-fluctuo.com
 fluencymedia.com
 fluidsurveys.com
 flx1.com
