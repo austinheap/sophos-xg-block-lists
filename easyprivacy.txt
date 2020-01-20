@@ -282,6 +282,7 @@ affistats.com
 afminer.com
 africal.info
 afsanalytics.com
+af-z.jp
 agentanalytics.com
 agentinteractive.com
 agg.inquisitr.com
@@ -446,6 +447,7 @@ analytics.kaggle.io
 analytics.kaltura.com
 analytics.kapost.com
 analytics.ladmedia.fr
+analytics.liveact.cri-mw.jp
 analytics.live.com
 analytics.livestream.com
 analytics.localytics.com
@@ -581,7 +583,6 @@ api.nobeta.com.br
 api.wipmania.com
 apkonline.ru
 apollofind.com
-apollo-ireland.akamaized.net
 appboycdn.com
 appier.net
 apple.www.letv.com
@@ -1933,6 +1934,7 @@ electusdigital.com
 elite-s001.com
 elitics.com
 elr.sfr.fr
+eltex.co.jp
 eluxer.net
 email-match.com
 email-reflex.com
@@ -2836,7 +2838,6 @@ irqs.ioam.de
 irs09.com
 iryazan.ru
 is.base.de
-isgprivacy.cbsi.com
 i-stats.com
 istats.nl
 istlandoll.com
@@ -3006,6 +3007,7 @@ lentainform.com
 leokross.com
 leserservice-tracking.de
 les-experts.com
+letro.jp
 letterboxtrail.com
 levelbehavior.com
 levexis.com
