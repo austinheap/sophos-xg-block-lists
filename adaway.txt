@@ -3125,7 +3125,6 @@ bd.vungle.com
 beacon-apac-hkg1.rubiconproject.com
 beacon-api.aliyuncs.com
 beaconapi.helpscout.net
-beaconbeta.schneidercorp.com
 beacon.carfax.com
 beacon.clickequations.net.edgekey.net
 beacon.deepintent.com
@@ -3153,7 +3152,6 @@ beacon.rallydev.com
 beacon.riskified.com
 beacon.rubiconproject.com
 beacon.rum.dynapis.info
-beacon.schneidercorp.com
 beacon.securestudies.com.edgekey.net
 beacons.extremereach.io
 beacon.shazam.com
