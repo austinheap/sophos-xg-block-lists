@@ -102,7 +102,6 @@ akwariumkrakow.pl
 alanor.pl
 albajifood.com
 alcaido.com
-alcionostra.pl
 aldaniti.net
 aldashoes.eu
 aldashoes.pl
@@ -190,7 +189,6 @@ aromagroup.pl
 artimpresja.pl
 artmalwa.pl
 artom-dtp.pl
-ascispoland.pl
 ascraftan.com
 asdfz.pro
 aseanlegaltech.com
@@ -443,7 +441,6 @@ chukka.pl
 chytrus.com
 cichodaje.pl
 ciekawehistorie.pl
-ciekawinki.pl
 cinema-online.pl
 cinemaplanet.pl
 cinemateka.pl
@@ -473,7 +470,6 @@ colorcredit.pl
 colorking.es
 colormessa.info
 colors-app.blogspot.com
-columbiatanio.pl
 colwayinternational.com
 colway-international.com.pl
 colway-kolagen.com
@@ -718,6 +714,7 @@ elegrina.pl
 elektro24h.pl
 elektromax.in.net
 elektronicznyswiat.pl
+e-lektrosklep.com
 elememory.com
 elepta.pl
 elite-crack.ml
@@ -745,7 +742,6 @@ ergopro.pl
 ericius.eu
 ermach.com.pl
 ermail.pl
-ero-tv.pl
 eroutks.co
 erunner.pl
 erunners.pl
@@ -759,7 +755,6 @@ eu-click.eworldtrack.com
 euco.pl
 e-udanezakupy.pl
 eu.iconsumerstocksymbol.icu
-euresco.pl
 euroagd.in.net
 euroausili.it
 eurobarre.pl
@@ -895,7 +890,6 @@ filo-shop.pl
 financial.org
 financial-times-appp.github.io
 finansedladziecka.pl
-finanse-payu.pl
 finansoweswiry.pl
 finclub.pl
 findfiooos.xyz
@@ -1002,7 +996,6 @@ garciniacambogiaactives.pl
 gatuzo.eu
 gawaher-services.com
 gayza.net
-gazetainfo.pl
 gazeta-natemat-pol.eu
 gazetanowoczesna.pl
 gazeta-pl.site
@@ -1118,7 +1111,6 @@ hanypon.com
 happach.pl
 havemeforfree.com
 hdmovies.pl
-hdseriale.pl
 headshok.pl
 health-beauty.press
 healthknowledge.my
@@ -1281,7 +1273,6 @@ jutup.pl
 kaaryathalo.com
 kacpslaw.pl
 kaie.pl
-kajakiperkoz.pl
 kajakurier.com
 kamapolska.pl
 kancelariaae.pl
@@ -1521,7 +1512,6 @@ meatloafcake.com
 mechaonik.nsx.pl
 mecz.ujm.pl
 medgenetix.pl
-mediaekspert24.pl
 mediaexpres.in.net
 mediafile.pl
 mediamanago.pl
@@ -1786,7 +1776,6 @@ ogladajfilmy.pl
 ogladaj.online
 ogladaj-online24.pl
 ogladamy24.pl
-ogrodekedukacyjny.pl
 okaleczenie15laatkii.blogspot.com
 okaleczon15-lattka.blogspot.com
 okaleczona15--latka.blogspot.com
@@ -1828,7 +1817,6 @@ oplatyi.pl
 oponykarbownik.pl
 optidee.nl
 optimask-pro.com
-optimus-partner.pl
 orange-kodzik.890m.com
 oranzadaklub.pl
 organiclife.com.pl
@@ -1847,6 +1835,7 @@ overcreative.com
 owio.pl
 ozebox.pl
 p.24-7.help
+paczkaex-info.eu
 paczkomaty-pl.tk
 paifemouchoa.com
 paifi.net
@@ -2163,7 +2152,6 @@ radiorage.com
 rainbow.pl
 rakietowaliga.pl
 ralphlaurenkolekta.pl
-ralphlaurenskleponline.pl
 ralplauran.com
 ramissio.com
 randewoo.ir
@@ -2238,7 +2226,6 @@ rowanyne.ooo
 royalestate.com.pl
 roznehistorie.pl
 rs-druk.pl
-rssspolem.com.pl
 rtvagdpro.net
 rubi4edit.com
 rubishop.pl
@@ -2464,7 +2451,6 @@ store.planet-tachyon.com
 stowarzyszeniesedziow.pl
 streamgo.pl
 streetrulez.pl
-strefabezstresu.pl
 strefa-filmu.pl
 strefagotyku.pl
 strefarho.pl
@@ -2472,7 +2458,6 @@ strony-fotograficzne.eu
 structures-made-easy.co.uk
 studioformy-synergia.pl
 stuntoffer.com
-stylovemeble.pl
 stylowoimodnie.pl
 suczki-mlode.blogspot.com
 sug.com.pl
@@ -2630,7 +2615,6 @@ toysoutlet.pl
 tpc.hu
 track.adsfast.com
 track-enable.com
-tracksms.pl
 traffic-c.com
 trafisz.com
 trampkiconverse.com
@@ -2690,7 +2674,6 @@ ukryteterapie.pl
 ukskrokus.pl
 uks-osemka.pl
 ultracolors.pl
-ultraexpert.pl
 ultratrck.com
 unhallowed.pl
 unident-union.pl
@@ -2835,7 +2818,6 @@ wkladpompy.pl
 wkretowinach.pl
 wkswielun.pl
 wlatech.pl
-wolfskinsklep.pl
 wolnezycie.info
 wolyncalyfilm.wordpress.com
 womenempowermentpakistan.com
@@ -2961,7 +2943,6 @@ www.akwariumkrakow.pl
 www.alanor.pl
 www.albajifood.com
 www.alcaido.com
-www.alcionostra.pl
 www.aldaniti.net
 www.aldashoes.eu
 www.aldashoes.pl
@@ -3051,7 +3032,6 @@ www.aromagroup.pl
 www.artimpresja.pl
 www.artmalwa.pl
 www.artom-dtp.pl
-www.ascispoland.pl
 www.ascraftan.com
 www.asdfz.pro
 www.aseanlegaltech.com
@@ -3305,7 +3285,6 @@ www.chukka.pl
 www.chytrus.com
 www.cichodaje.pl
 www.ciekawehistorie.pl
-www.ciekawinki.pl
 www.cinema-online.pl
 www.cinemaplanet.pl
 www.cinemateka.pl
@@ -3336,7 +3315,6 @@ www.colorcredit.pl
 www.colorking.es
 www.colormessa.info
 www.colors-app.blogspot.com
-www.columbiatanio.pl
 www.colwayinternational.com
 www.colway-international.com.pl
 www.colway-kolagen.com
@@ -3583,6 +3561,7 @@ www.elegrina.pl
 www.elektro24h.pl
 www.elektromax.in.net
 www.elektronicznyswiat.pl
+www.e-lektrosklep.com
 www.elememory.com
 www.elepta.pl
 www.elite-crack.ml
@@ -3610,7 +3589,6 @@ www.ergopro.pl
 www.ericius.eu
 www.ermach.com.pl
 www.ermail.pl
-www.ero-tv.pl
 www.eroutks.co
 www.erunner.pl
 www.erunners.pl
@@ -3624,7 +3602,6 @@ www.eu-click.eworldtrack.com
 www.euco.pl
 www.e-udanezakupy.pl
 www.eu.iconsumerstocksymbol.icu
-www.euresco.pl
 www.euroagd.in.net
 www.euroausili.it
 www.eurobarre.pl
@@ -3760,7 +3737,6 @@ www.filo-shop.pl
 www.financial.org
 www.financial-times-appp.github.io
 www.finansedladziecka.pl
-www.finanse-payu.pl
 www.finansoweswiry.pl
 www.finclub.pl
 www.findfiooos.xyz
@@ -3867,7 +3843,6 @@ www.garciniacambogiaactives.pl
 www.gatuzo.eu
 www.gawaher-services.com
 www.gayza.net
-www.gazetainfo.pl
 www.gazeta-natemat-pol.eu
 www.gazetanowoczesna.pl
 www.gazeta-pl.site
@@ -3983,7 +3958,6 @@ www.hanypon.com
 www.happach.pl
 www.havemeforfree.com
 www.hdmovies.pl
-www.hdseriale.pl
 www.headshok.pl
 www.health-beauty.press
 www.healthknowledge.my
@@ -4146,7 +4120,6 @@ www.jutup.pl
 www.kaaryathalo.com
 www.kacpslaw.pl
 www.kaie.pl
-www.kajakiperkoz.pl
 www.kajakurier.com
 www.kamapolska.pl
 www.kancelariaae.pl
@@ -4387,7 +4360,6 @@ www.meatloafcake.com
 www.mechaonik.nsx.pl
 www.mecz.ujm.pl
 www.medgenetix.pl
-www.mediaekspert24.pl
 www.mediaexpres.in.net
 www.mediafile.pl
 www.mediamanago.pl
@@ -4652,7 +4624,6 @@ www.ogladajfilmy.pl
 www.ogladaj.online
 www.ogladaj-online24.pl
 www.ogladamy24.pl
-www.ogrodekedukacyjny.pl
 www.okaleczenie15laatkii.blogspot.com
 www.okaleczon15-lattka.blogspot.com
 www.okaleczona15--latka.blogspot.com
@@ -4694,7 +4665,6 @@ www.oplatyi.pl
 www.oponykarbownik.pl
 www.optidee.nl
 www.optimask-pro.com
-www.optimus-partner.pl
 www.orange-kodzik.890m.com
 www.oranzadaklub.pl
 www.organiclife.com.pl
@@ -4713,6 +4683,7 @@ www.overcreative.com
 www.owio.pl
 www.ozebox.pl
 www.p.24-7.help
+www.paczkaex-info.eu
 www.paczkomaty-pl.tk
 www.paifemouchoa.com
 www.paifi.net
@@ -5002,7 +4973,6 @@ www.radiorage.com
 www.rainbow.pl
 www.rakietowaliga.pl
 www.ralphlaurenkolekta.pl
-www.ralphlaurenskleponline.pl
 www.ralplauran.com
 www.ramissio.com
 www.randewoo.ir
@@ -5077,7 +5047,6 @@ www.rowanyne.ooo
 www.royalestate.com.pl
 www.roznehistorie.pl
 www.rs-druk.pl
-www.rssspolem.com.pl
 www.rtvagdpro.net
 www.rubi4edit.com
 www.rubishop.pl
@@ -5304,7 +5273,6 @@ www.store.planet-tachyon.com
 www.stowarzyszeniesedziow.pl
 www.streamgo.pl
 www.streetrulez.pl
-www.strefabezstresu.pl
 www.strefa-filmu.pl
 www.strefagotyku.pl
 www.strefarho.pl
@@ -5312,7 +5280,6 @@ www.strony-fotograficzne.eu
 www.structures-made-easy.co.uk
 www.studioformy-synergia.pl
 www.stuntoffer.com
-www.stylovemeble.pl
 www.stylowoimodnie.pl
 www.suczki-mlode.blogspot.com
 www.sug.com.pl
@@ -5470,7 +5437,6 @@ www.toysoutlet.pl
 www.tpc.hu
 www.track.adsfast.com
 www.track-enable.com
-www.tracksms.pl
 www.traffic-c.com
 www.trafisz.com
 www.trampkiconverse.com
@@ -5530,7 +5496,6 @@ www.ukryteterapie.pl
 www.ukskrokus.pl
 www.uks-osemka.pl
 www.ultracolors.pl
-www.ultraexpert.pl
 www.ultratrck.com
 www.unhallowed.pl
 www.unident-union.pl
@@ -5675,7 +5640,6 @@ www.wkladpompy.pl
 www.wkretowinach.pl
 www.wkswielun.pl
 www.wlatech.pl
-www.wolfskinsklep.pl
 www.wolnezycie.info
 www.wolyncalyfilm.wordpress.com
 www.womenempowermentpakistan.com

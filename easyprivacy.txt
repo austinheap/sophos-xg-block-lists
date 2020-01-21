@@ -241,7 +241,6 @@ advancedtracker.appspot.com
 advanced-web-analytics.com
 advconversion.com
 adv.drtuber.com
-advertising.com
 adways.com
 adwstats.com
 adxadtracker.com
@@ -1238,7 +1237,6 @@ codata.ru
 cod.bitrec.com
 cogmatch.net
 cognitivematch.com
-cohesionapps.com
 co.hltv.org
 coinblind.com
 coincheck.com
@@ -1969,6 +1967,7 @@ ens.tagblatt.ch
 enter-system.com
 enticelabs.com
 entryhit.wp.pl
+eolcdn.com
 ep4p.com
 e-pagerank.net
 eperfectdata.com
@@ -2035,6 +2034,8 @@ eulerian.sarenza.com
 eulerian.splendia.com
 eultech.fnac.com
 eum-appdynamics.com
+eur2.otcdn.com
+eur3.mvjcdn.com
 euroads.dk
 eurocounter.com
 eurogamer-uk.eurogamer.net
@@ -2407,6 +2408,7 @@ g.itespresso.fr
 gitgrub.pro
 gixmo.dk
 gj.mmstat.com
+gjr5.yoigo.com
 glanceguide.com
 glassmoni.researchgate.net
 glbdns.microsoft.com
@@ -3217,6 +3219,7 @@ magnify360.com
 magnuum.com
 mailstat.us
 mairdumont.com
+make.cohesionapps.com
 maploco.com
 mapmyuser.com
 ma.register.it
@@ -5346,6 +5349,7 @@ tk.storetail.io
 tl813.com
 t.leady.com
 t.leady.cz
+tlp5.mimale.com
 tl.tradetracker.net
 tm1-001.com
 t.menepe.com
@@ -5523,6 +5527,7 @@ tracking100.com
 tracking1.brandmentions.com
 tracking202.com
 tracking2.channeladvisor.com
+tracking.3ds.com
 tracking.adalyser.com
 tracking.adweb.co.kr
 tracking.aegpresents.com
@@ -5838,6 +5843,7 @@ tuinfra.com
 tulip18.com
 tunnl.com
 turnsocial.com
+tvl8.supdecreation.com
 tvpixel.com
 t.wayfair.com
 t.wayfair.co.uk
@@ -5973,13 +5979,17 @@ verticalscope.com
 verticalsearchworks.com
 vertster.com
 verypopularwebsite.com
+vet0.carrefour-banque.fr
 veta.naver.com
 vfd2dyn.vodafone.de
 vfo.voyage-prive.co.uk
+vgo.vegaoo.co.uk
 vgo.vegaoo.de
 vgo.vegaoo.es
 vgo.vegaoo.nl
 vgo.vegaooparty.com
+vgo.vegaoopro.com
+vgo.vegaoo.pt
 video-ad-stats.googlesyndication.com
 videoevents.outbrain.com
 video.oms.eu
@@ -6097,6 +6107,7 @@ wcfbc.net
 wcs.naver.com
 wdfl.co
 wdm.map24.com
+wdr9.inseec.com
 web1.51.la
 webads.eu
 webassembly.stream
@@ -6307,6 +6318,7 @@ yektanet.com
 yellowbrix.com
 yext-pixel.com
 ygsm.com
+yh6u.dealeusedevoyages.com
 yieldbird.com
 yieldbot.com
 yieldify.com
@@ -6356,6 +6368,7 @@ zlp6s.pw
 zlx.com.br
 zmctrack.net
 zminer.zaloapp.com
+znq9.destinia.mx
 zontera.com
 zoomanalytics.co
 zoomflow.com
@@ -6364,9 +6377,12 @@ zoosnet.net
 zoossoft.net
 zqtk.net
 zroitracker.com
+zrw1.destinia.jp
 zs.dhl.de
+zsi7.destinia.do
 ztcadx.com
 zt-dst.com
 ztsrv.com
 zvsuhljiha-a.akamaihd.net
+zyq2.destinia.sk
 zz.bdstatic.com
