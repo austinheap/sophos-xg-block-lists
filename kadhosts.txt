@@ -1515,7 +1515,6 @@ medgenetix.pl
 mediaexpres.in.net
 mediafile.pl
 mediamanago.pl
-mediamarkt.pl.dailyoffer.top
 mediartvagd.in.net
 mediasam.net
 mediavideo.pl
@@ -1866,6 +1865,7 @@ pcmban.com
 pcspeedup.com
 pdf.com.pl
 pegasuswebco.com
+penelopekurier.com
 pensjonacikego.pl
 pensjonat-swistak.pl
 pep-egypt.com
@@ -4363,7 +4363,6 @@ www.medgenetix.pl
 www.mediaexpres.in.net
 www.mediafile.pl
 www.mediamanago.pl
-www.mediamarkt.pl.dailyoffer.top
 www.mediartvagd.in.net
 www.mediasam.net
 www.mediavideo.pl
@@ -4715,6 +4714,7 @@ www.pcmban.com
 www.pcspeedup.com
 www.pdf.com.pl
 www.pegasuswebco.com
+www.penelopekurier.com
 www.pensjonacikego.pl
 www.pensjonat-swistak.pl
 www.pep-egypt.com

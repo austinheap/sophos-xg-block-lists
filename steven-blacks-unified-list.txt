@@ -7285,7 +7285,6 @@ alboautotrasportatori.it
 alcaido.com
 alchemy-staging.conversantmedia.com
 alchemyworldwide.tt.omtrdc.net
-alcionostra.pl
 alciqcnfnhhs.c.richmetrics.com
 alclick.com
 alcohol-treatment.gloses.net
@@ -8412,7 +8411,6 @@ api.bufferapp.com
 api.bugfender.com
 api.bugly.qq.com
 api.bugsee.com
-api.bugsnag.com
 api-cache.adsnative.com
 api.c.avazunativeads.com
 api-cdn.mypoints.com
@@ -8603,7 +8601,6 @@ api-owr-bootstrap.metaps.net
 api.parrable.com
 api.parse.com
 api.parsely.com
-api.particle.io
 api.permutive.com
 api.personali.com
 api.perzonalization.com
@@ -8889,7 +8886,6 @@ appboycdn.com
 appboy.com
 app.bugfender.com
 app.bugreplay.com
-app.bugsnag.com
 appcache.admission.net
 appcaptcha.com
 appcdn.tvpage.com
@@ -9382,7 +9378,6 @@ ascentive.com
 as.chango.com
 as.ch.impact-ad.jp
 aschreib.oewabox.at
-ascispoland.pl
 asco.d2.sc.omtrdc.net
 a.scorecardresearch.com
 ascout24.oewabox.at
@@ -10573,7 +10568,6 @@ beacon.affil.walmart.com
 beacon-apac-hkg1.rubiconproject.com
 beacon-api.aliyuncs.com
 beaconapi.helpscout.net
-beaconbeta.schneidercorp.com
 beacon.carfax.com
 beacon.clickequations.net
 beacon.clickequations.net.edgekey.net
@@ -10614,7 +10608,6 @@ beacon.rallydev.com
 beacon.riskified.com
 beacon.rubiconproject.com
 beacon.rum.dynapis.info
-beacon.schneidercorp.com
 beacon.scorecardresearch.com
 beacon.searchlinks.com
 beacon.securestudies.com
@@ -10974,6 +10967,7 @@ bitcast-a.v1.iad1.bitgravity.com
 bitcast-d.bitgravity.com
 bitcheese.net
 bitcoadz.io
+bitcoincodesverigerecension.com
 bitcoinmillionairepro.com
 bitcoinplus.com
 bitcoin-revolution.pl
@@ -13270,7 +13264,6 @@ cichodaje.pl
 ciclismovalenciano.com
 c.id.msn.com
 ciekawehistorie.pl
-ciekawinki.pl
 ciel7.free.fr
 c.ie.msn.com
 cienum.fr
@@ -14244,7 +14237,6 @@ colormessa.info
 colors-app.blogspot.com
 columbahouse.com
 columbianhouse.com
-columbiatanio.pl
 colwayinternational.com
 colway-international.com.pl
 colway-kolagen.com
@@ -17563,6 +17555,7 @@ elegrina.pl
 elektro24h.pl
 elektromax.in.net
 elektronicznyswiat.pl
+e-lektrosklep.com
 elememory.com
 elephantdata.net
 elephantqueue.com
@@ -17885,7 +17878,6 @@ ero-advertising.com
 eroov.iptvdeals.com
 erosoku.net
 erotube69.pw
-ero-tv.pl
 eroutks.co
 erp2.novaon.asia
 erp.mangoads.vn
@@ -18052,7 +18044,6 @@ eu-px.steelhousemedia.com
 eu-qa-log.swrve.com
 eur.a1.yimg.com
 eurekster.com
-euresco.pl
 eurldmma.com.com
 eurm.recs.richrelevance.com
 euroad1.advantage.as
@@ -18900,7 +18891,6 @@ finance-offer.com
 financial.org
 financial-times-appp.github.io
 finansedladziecka.pl
-finanse-payu.pl
 finansoweswiry.pl
 finanzmeldungen.com
 finatime.ivwbox.de
@@ -19746,7 +19736,6 @@ gayxperience.com
 gayza.net
 gazeta.adfox.ru
 gazeta.hit.gemius.pl
-gazetainfo.pl
 gazeta-natemat-pol.eu
 gazetanowoczesna.pl
 gazeta-pl.site
@@ -21020,7 +21009,6 @@ hdj.baidu.com
 hdmovies.pl
 hdporium.com
 hdscout.com
-hdseriale.pl
 headless.ebkfwd.com
 headshok.pl
 healcheck.adpia.vn
@@ -23234,6 +23222,7 @@ itsfree123.com
 it.snssdk.com.edgekey.net
 itsptp.com
 its-that-easy.com
+itstime.space
 itsweeps3.space
 ittoolbox.us.intellitxt.com
 itunesdownloadstore.com
@@ -23864,7 +23853,6 @@ kaffnet.com
 kaie.pl
 kaiu-marketing.com
 kaizentraffic.com
-kajakiperkoz.pl
 kajakurier.com
 kakabrands.org
 kakkoii.razil.jp
@@ -26448,7 +26436,6 @@ mediadirectx.com
 mediadvertising.ro
 media-d.vpptechnologies.com
 media.easyads.bg
-mediaekspert24.pl
 media.elb-kind.de
 media.e-learning.admicro.vn
 media.espace-plus.net
@@ -26489,7 +26476,6 @@ medialytics.com
 media.m.ambientplatform.vn
 mediamanago.pl
 media.markethealth.com
-mediamarkt.pl.dailyoffer.top
 media-match.com
 mediamath.com
 mediamatters.112.2o7.net
@@ -28943,7 +28929,6 @@ notify1.brucelead.com
 notify.adleadevent.com
 notifyback-va.isnssdk.com
 notify.bugsnag.appstore.a2z.com
-notify.bugsnag.com
 notifyday.com
 notify.mgid.com
 notify.nuviad.com
@@ -29671,7 +29656,6 @@ ogladaj-online24.pl
 ogladamy24.pl
 oglasnikadhr.hit.gemius.pl
 ogma.iad.appboy.com
-ogrodekedukacyjny.pl
 ogs.ants.vn
 ogulzxfxrmow.com
 ogury.com
@@ -30125,7 +30109,6 @@ optimize.viglink.com
 optimize.webtrends.com
 optimost.112.2o7.net
 optimost.com
-optimus-partner.pl
 optimzedby.rmxads.com
 optin.mobiniti.com
 option9.adultfriendfinder.com
@@ -30449,6 +30432,7 @@ pacificnet.xyz
 pacific-poker.e-online-poker-4u.net
 paclitor.com
 pacman.gkgar.com
+paczkaex-info.eu
 paczkomaty-pl.tk
 p.addthis.com
 p.ad.gt
@@ -30835,6 +30819,7 @@ pei-ads.thesmokingjacket.com
 peiceline.com
 pe.intentiq.com
 pelmorexmedia.122.2o7.net
+penelopekurier.com
 penix.nl
 pennwellcorp.112.2o7.net
 pennwellco.tt.omtrdc.net
@@ -32878,7 +32863,6 @@ rakuprop.net
 rakuten.112.2o7.net
 rallyeair.com
 ralphlaurenkolekta.pl
-ralphlaurenskleponline.pl
 ralplauran.com
 rambler.pushwoosh.com
 ramissio.com
@@ -33835,7 +33819,6 @@ rss-loader.com
 rss.pazudora-friend.com
 rss.rssad.jp
 rss.spdeapp.com
-rssspolem.com.pl
 rs.static.etargetnet.com
 rs-xpromotion.appspot.com
 rt2.infolinks.com
@@ -35509,7 +35492,6 @@ serw.myroitracking.com
 se.sitestat.com
 sessioncam.com
 sessionm.com
-sessions.bugsnag.com
 sessions.mobileroadie.com
 sestat.baidu.com
 s.estat.com
@@ -37849,7 +37831,6 @@ streamlyn-d.openx.net
 stream.org.adtimaserver.vn
 stream.useriq.com
 streetrulez.pl
-strefabezstresu.pl
 strefa-filmu.pl
 strefagotyku.pl
 strefarho.pl
@@ -37925,7 +37906,6 @@ styleblazer.us.intellitxt.com
 styleja.com
 stylesfashionstore.com
 stylincom.112.2o7.net
-stylovemeble.pl
 stylowoimodnie.pl
 s.tyxo.com
 su.addthis.com
@@ -38693,6 +38673,7 @@ tech.admicro.vn
 techasiamusicsvr.com
 techbargins.com
 techclicks.net
+techdailyinfo.net
 techeblog.us.intellitxt.com
 techexpert.site
 tech-faq.us.intellitxt.com
@@ -40183,7 +40164,6 @@ track.shop2market.com
 track.sitetag.us
 tracksitetraffic1.com
 track-sjc.mobileadtrading.com
-tracksms.pl
 track.somewrite.jp
 track.spacebridemag.com
 track.specialdailydeals4u.com
@@ -41011,7 +40991,6 @@ ultraadserver.com
 ultrabestportal.com
 ultracet.1.p2l.info
 ultracolors.pl
-ultraexpert.pl
 ultram.1.p2l.info
 ultramercial.com
 ultraministry.xyz
@@ -43061,7 +43040,6 @@ wnt-40.seeweb.it
 woche.oewabox.at
 wohnnet.oewabox.at
 w.oix.net
-wolfskinsklep.pl
 wolnezycie.info
 wolyncalyfilm.wordpress.com
 womanear.com
@@ -44143,7 +44121,6 @@ wwwalaskaair.com
 www.albajifood.com
 www.albiondrugs.com
 www.alcaido.com
-www.alcionostra.pl
 wwwal.com
 www.aldaniti.net
 www.aldashoes.eu
@@ -44347,7 +44324,6 @@ www.art-photo-music-premiumblvd.com
 www.art-photo-music-rewardempire.com
 www.art-photo-music-savingblvd.com
 www.ascentive.com
-www.ascispoland.pl
 www.ascraftan.com
 www.asdfz.pro
 www.aseanlegaltech.com
@@ -44598,6 +44574,7 @@ www.binadroid.com
 www.binarysystem4u.com
 www.binomo.com
 www.bitcoadz.io
+www.bitcoincodesverigerecension.com
 www.bitcoinmillionairepro.com
 www.bitcoin-revolution.pl
 www.bitcoins-profit.com
@@ -44970,7 +44947,6 @@ www.chukka.pl
 www.chytrus.com
 www.cichodaje.pl
 www.ciekawehistorie.pl
-www.ciekawinki.pl
 www.cifor.com
 www.cig-arrete.com
 www.ci-mpsnare.iesnare.com
@@ -45104,7 +45080,6 @@ www.colorking.es
 www.colormessa.info
 www.colors-app.blogspot.com
 www.columbahouse.com
-www.columbiatanio.pl
 www.colwayinternational.com
 www.colway-international.com.pl
 www.colway-kolagen.com
@@ -45641,6 +45616,7 @@ www.elegrina.pl
 www.elektro24h.pl
 www.elektromax.in.net
 www.elektronicznyswiat.pl
+www.e-lektrosklep.com
 www.elememory.com
 www.elemntindexer.com
 www.elepta.pl
@@ -45693,7 +45669,6 @@ www.ermail.pl
 www.ero-adverising.com.ero-advertising.com
 www.ero-advertising.com
 www.erodynamics.nl
-www.ero-tv.pl
 www.eroutks.co
 www.eroyear.ru
 www.errornuker.com
@@ -45719,7 +45694,6 @@ www.eu-click.eworldtrack.com
 www.euco.pl
 www.e-udanezakupy.pl
 www.eu.iconsumerstocksymbol.icu
-www.euresco.pl
 www.euroagd.in.net
 www.euroausili.it
 www.eurobarre.pl
@@ -45932,7 +45906,6 @@ www.financial-advice-books.com
 www.financial.org
 www.financial-times-appp.github.io
 www.finansedladziecka.pl
-www.finanse-payu.pl
 www.finansoweswiry.pl
 www.finanzmarkt2004.de
 www.finclub.pl
@@ -46228,7 +46201,6 @@ www.gatuzo.eu
 www.gawaher-services.com
 www.gayxperience.com
 www.gayza.net
-www.gazetainfo.pl
 www.gazeta-natemat-pol.eu
 www.gazetanowoczesna.pl
 www.gazeta-pl.site
@@ -46475,7 +46447,6 @@ www.hata.ero-advertising.com
 www.hausnet.ru
 www.havemeforfree.com
 www.hdmovies.pl
-www.hdseriale.pl
 www.headshok.pl
 www.healthbeautyncs.com
 www.health-beauty.press
@@ -46796,6 +46767,7 @@ www.itcompany.com
 www.itorrenty.org
 www.itrackerpro.com
 www.itsfree123.com
+www.itstime.space
 www.itsweeps3.space
 www.itunesdownloadstore.com
 www.itvwro.pl
@@ -46896,7 +46868,6 @@ www.kaaza-legal.de
 www.kacpslaw.pl
 www.kaie.pl
 www.kajahdfssa.net
-www.kajakiperkoz.pl
 www.kajakurier.com
 www.kalantzis.net
 www.kamapolska.pl
@@ -47377,12 +47348,10 @@ www.medgenetix.pl
 www.media2.travelzoo.com
 www.mediabarterexchange.com
 www.mediad.asia
-www.mediaekspert24.pl
 www.mediaexpres.in.net
 www.mediafile.pl
 www.mediahighway.net
 www.mediamanago.pl
-www.mediamarkt.pl.dailyoffer.top
 www.media-motor.com
 www.mediareps.com
 www.mediartvagd.in.net
@@ -47872,7 +47841,6 @@ www.ogladajfilmy.pl
 www.ogladaj.online
 www.ogladaj-online24.pl
 www.ogladamy24.pl
-www.ogrodekedukacyjny.pl
 www.ohchat.net
 www.ohiomm.com
 www.oiluk.net
@@ -47953,7 +47921,6 @@ www.opps.taboola.com
 www.optiad.net
 www.optidee.nl
 www.optimask-pro.com
-www.optimus-partner.pl
 www.oralse.ca
 www.oralse.cx
 www.orange-kodzik.890m.com
@@ -47989,6 +47956,7 @@ www.owio.pl
 www.ozebox.pl
 www.oz-offers.com
 www.p.24-7.help
+www.paczkaex-info.eu
 www.paczkomaty-pl.tk
 www.pagepeel.ero-advertising.com
 www.pagerank10.co.uk
@@ -48059,6 +48027,7 @@ www.pdf-platinum.info
 www.peachy18.com
 www.peakclick.com
 www.pegasuswebco.com
+www.penelopekurier.com
 www.pensjonacikego.pl
 www.pensjonat-swistak.pl
 www.people-choice-sites.com
@@ -48497,7 +48466,6 @@ www.rainbow.pl
 www.rakietowaliga.pl
 www.rakuten-contect-japan-servicc.com
 www.ralphlaurenkolekta.pl
-www.ralphlaurenskleponline.pl
 www.ralplauran.com
 www.ramissio.com
 www.rampidads.com
@@ -48680,7 +48648,6 @@ www.rs-druk.pl
 www.rs.ero-advertising.com
 www.rsptrack.com
 www.rss141.com
-www.rssspolem.com.pl
 www.rtb-adsterra.flshtrk.store
 www.rtcode.com
 www.rtk.io
@@ -49201,7 +49168,6 @@ www.streamatelive.com
 www.streamen.com
 www.streamgo.pl
 www.streetrulez.pl
-www.strefabezstresu.pl
 www.strefa-filmu.pl
 www.strefagotyku.pl
 www.strefarho.pl
@@ -49215,7 +49181,6 @@ www.studiochiarelli.eu
 www.studioformy-synergia.pl
 www.studiolegaleabbruzzese.com
 www.stuntoffer.com
-www.stylovemeble.pl
 www.stylowoimodnie.pl
 www.subsitesadserver.co.uk
 www.suckdude.com
@@ -49341,6 +49306,7 @@ www.team4heat.net
 www.teccenter.xyz
 www.techbargins.com
 www.techconfigformat.com
+www.techdailyinfo.net
 www.techiwant.com
 www.technix.it
 www.technologia24.com
@@ -49553,7 +49519,6 @@ www.tracking.intl.miui.com
 www.tracking.miui.com
 www.trackingstatalytics.com
 www.tracklead.net
-www.tracksms.pl
 www.trackword.biz
 www.tradeadexchange.com
 www.tradedoubler.com
@@ -49716,7 +49681,6 @@ www.ultimatecounter.com
 www.ultimatefashiongifts.com
 www.ultimatetopsites.com
 www.ultracolors.pl
-www.ultraexpert.pl
 www.ultratrck.com
 www.umbs.ero-advertising.com
 www.unblockfacebook.co.uk
@@ -50083,7 +50047,6 @@ www.wlatech.pl
 www.wmmax.com
 www.wmserver.net
 www.w.nolimit-video.com
-www.wolfskinsklep.pl
 www.wolnezycie.info
 www.wolyncalyfilm.wordpress.com
 www.womenempowermentpakistan.com
