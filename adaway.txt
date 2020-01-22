@@ -272,7 +272,6 @@
 30912.content.swrve.com
 30913.api.swrve.com
 30913.content.swrve.com
-3100-app.mobilgov.com
 3188.engine.mobileapptracking.com
 3193.api.swrve.com
 3204.api.swrve.com
@@ -284,7 +283,6 @@
 3272.content.swrve.com
 3284.content.swrve.com
 3286.api.swrve.com
-3300-app.mobilgov.com
 3369.api.swrve.com
 3369.content.swrve.com
 3371.api.swrve.com
@@ -508,7 +506,6 @@
 5-8-2-ios.event.ingest.crittercism.com
 5-8-2-ios.network.ingest.crittercism.com
 5-8-2-ios.userflows.ingest.crittercism.com
-5900-app.mobilgov.com
 5-9-0-ios.appload.ingest.crittercism.com
 5-9-0-ios.event.ingest.crittercism.com
 5-9-0-ios.network.ingest.crittercism.com
@@ -599,7 +596,6 @@
 8162.engine.mobileapptracking.com
 8328.bapi.adsafeprotected.com
 8430.engine.mobileapptracking.com
-8443-app.mobilgov.com
 854.api.swrve.com
 854.content.swrve.com
 8696.engine.mobileapptracking.com
@@ -2288,7 +2284,6 @@ api.hypertrack.com
 api.iad1.squareup.com
 api.iad.appboy.com
 api.iadvize.com
-api-iam.intercom.io
 api.icloseli.com
 api.icmobile.singlewire.com
 api.ihuman.com
@@ -2305,7 +2300,6 @@ api.instabug.com
 api.instalatorhbogo.siroccomobile.com
 api.instartlogic.com
 api.intentiq.com
-api.intercom.io
 api.iperceptions.com
 api.ipstack.com
 api.itv.letv.com
@@ -2386,7 +2380,6 @@ api.permutive.com
 api.personali.com
 api.perzonalization.com
 api.petametrics.com
-api-ping.intercom.io
 api.placed.com
 api.placer.io
 api.platform.letv.com
@@ -2891,7 +2884,6 @@ assets.dwell.com
 assets.dynatrace.com
 assets.fortumo.com
 assets.foxmetrics.com
-assets.groovehq.com
 assets.iterable.com
 assets.kampyle.com
 assets.kochava.com
@@ -3863,7 +3855,6 @@ cf.xadcentral.com
 cf.xad.com
 c.go-mpulse.net
 c.greystripe.com
-c.groovehq.com
 challenge.360in.com
 chanalytics.merchantadvantage.com
 changelog.taplytics.com
@@ -5155,7 +5146,6 @@ editor.appadhoc.com
 e.domob.cn
 eduesse-d.openx.net
 e.eclick.vn
-e.glbimg.com
 egraffiti-d.openx.net
 ei-event-collector.us-east-1.elasticbeanstalk.com
 e.imguol.com
@@ -5948,7 +5938,6 @@ grace.shareaholic.com
 grade.market.yandex.ru
 grafana.appboy.com
 grafstat.ro
-graphql.groovehq.com
 graphs.amung.us
 gredinatib.info
 green-griffin-860.appspot.com
@@ -6320,13 +6309,11 @@ iframe.fyber.com
 ifwe-d.openx.net
 ifyoucouldjobs.imgix.net
 igaworks.com
-i.glbimg.com
 ignifyecom.s3.amazonaws.com
 i.goadservices.com
 igp06.gameloft.com
 igpiphone.gameloft.com
 i.gridsumdissector.com
-i.groovehq.com
 ih.adscale.de
 i.icomoon.io
 iid-d.openx.net
@@ -6595,7 +6582,6 @@ insights.nr-assets.net
 insights.podium.com
 insights.samsung.com
 insights.swrve.com
-insights.uk1.aconex.co.uk
 insight.ucweb.com
 inspectletws.herokuapp.com
 inspiredtaste-tagan.adlightning.com
@@ -8611,7 +8597,6 @@ pflexads.com
 pfox.chartbeat.net
 pge.unityads.unity3d.com
 pg-kix-ulog.ksapisrv.com
-p.glbimg.com
 pg-mobileservice.us-east-1.elasticbeanstalk.com
 pgpl.g5e.com
 pg.xdrig.com
@@ -11952,7 +11937,6 @@ vfbprod2.personifycloud.com
 vfs.admaster.com.cn
 v.gdt.qq.com
 vg-k8s-setting.rayjump.com
-v.glbimg.com
 vg-setting.rayjump.com
 vhunantv.admaster.com.cn
 vice-d.openx.net
