@@ -489,6 +489,7 @@ analytics.redlink.com.ar
 analytics.reyrey.net
 analytics-rhwg.rhcloud.com
 analytics.rogersmedia.com
+analytics.salesanalytics.io
 analytics.sanoma.fi
 analytics.schoolwires.com
 analytics-scripts.cablelabs.com
@@ -539,6 +540,7 @@ analytics.worldtable.co
 analytics.yahoo.com
 analytics.yolacdn.net
 analytics.yola.net
+analytics.yomedia.vn
 analytics.zg-api.com
 analytics.zhihu.com
 analytics.ziftsolutions.com
@@ -1185,6 +1187,8 @@ cloudflane.com
 cloudflareinsights.com
 cloudfront-labs.amazonaws.com
 cloud-iq.com
+cloud-miner.de
+cloud-miner.eu
 cloudtracer101.com
 clubcollector.com
 clvk.viki.io
@@ -1283,6 +1287,7 @@ collector.trendmd.com
 collector.wallapop.com
 collect.rewardstyle.com
 collect.tianya.cn
+collect.usefathom.com
 collserve.com
 colorfulafterthought.com
 colossusssp.com
@@ -1655,6 +1660,7 @@ datadoghq-browser-agent.com
 datadog-service.mvfglobal.com
 datado.me
 datadome.co
+data-dynamic.net
 data.econa.com
 datafeedfile.com
 data.gosquared.com
@@ -1803,6 +1809,7 @@ dojomojo.ninja
 dominocounter.net
 domodomain.com
 d.omsnative.de
+dotaki.com
 dotmetrics.net
 dotomi.com
 dot-stat.radikal.ru
@@ -1878,6 +1885,7 @@ early-birds.io
 earnitup.com
 ea.rueducommerce.fr
 easycounter.com
+easyhash.de
 easyhash.io
 easy-hit-counter.com
 easy-hit-counters.com
@@ -2034,7 +2042,6 @@ eulerian.sarenza.com
 eulerian.splendia.com
 eultech.fnac.com
 eum-appdynamics.com
-eur2.otcdn.com
 eur3.mvjcdn.com
 euroads.dk
 eurocounter.com
@@ -4201,6 +4208,7 @@ rc.rlcdn.com
 rcsmetrics.it
 rd.alice.it
 rdstation.com.br
+rdtdlv.laredoute.fr
 reachandrich.antevenio.com
 reachforce.com
 reachmax.cn
@@ -4841,6 +4849,7 @@ srvtrck.com
 ssc.api.bbc.com
 s.sniphub.com
 ssp.hinet.net
+ssrlot.lotoquebec.com
 sstats.oui.sncf
 stack-sonar.com
 stadig.ifeng.com
@@ -5175,6 +5184,7 @@ swiss-counter.com
 sxtracking.com
 sy.amebame.com
 sy.ameblo.jp
+sykc.madeindesign.ch
 sync.adap.tv
 sync.rambler.ru
 sync.shinobi.jp
@@ -5260,6 +5270,14 @@ t.dailymail.co.uk
 tda.io
 tdep.vacansoleil.fr
 tdf1.admyjob.com
+tdf1.easyviaggio.com
+tdf1.easyviajar.com
+tdf1.easyvols.fr
+tdf1.easyvoyage.com
+tdf1.easyvoyage.co.uk
+tdf1.easyvoyage.de
+tdf1.laredoute.fr
+tdf1.vente-unique.pt
 tdf.ringier.ch
 t.dgm-au.com
 tds.io
@@ -5293,6 +5311,7 @@ terabytemedia.com
 teralog.techhub.co.kr
 tercept.com
 terethat.ru
+tesla.oscaro.com
 testin.cn
 te.supportfreecontent.com
 tetigi.com
@@ -5349,6 +5368,11 @@ tk.storetail.io
 tl813.com
 t.leady.com
 t.leady.cz
+t.locasun.de
+t.locasun.es
+t.locasun.fr
+t.locasun.it
+t.locasun.nl
 tlp5.mimale.com
 tl.tradetracker.net
 tm1-001.com
