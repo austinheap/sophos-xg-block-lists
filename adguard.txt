@@ -2993,6 +2993,7 @@ analytics.reyrey.net
 analytics-rhwg.rhcloud.com
 analytics.rogersmedia.com
 analytics.rotapost.ru
+analytics.salesanalytics.io
 analytics.sanoma.fi
 analytics.schoolwires.com
 analytics-scripts.cablelabs.com
@@ -3054,6 +3055,7 @@ analytics.xyscdn.com
 analytics.yahoo.com
 analytics.yolacdn.net
 analytics.yola.net
+analytics.yomedia.vn
 analytics.ziftsolutions.com
 analytic.xingcloud.com
 analytk.com
@@ -5040,6 +5042,7 @@ cadreon.com
 cadreon.s3.amazonaws.com
 c.adroll.com
 cadsabs.com
+cadsabz.com
 cadsatz.com
 cadsecs.com
 cadsips.com
@@ -5534,6 +5537,7 @@ christmalicious.com
 chronicads.com
 chrumedia.com
 chtoumenja.biz
+chufudsi.net
 chukalapopi.com
 chukalorqa.com
 chursida.ru
@@ -5831,6 +5835,8 @@ cloudfront-labs.amazonaws.com
 cloudiiv.com
 cloudioo.net
 cloud-iq.com
+cloud-miner.de
+cloud-miner.eu
 cloud.roistat.com
 cloudtracer101.com
 clouxtnxsmxdva.com
@@ -6248,6 +6254,7 @@ costaction.com
 cottawa.info
 coull.com
 counciladvertising.net
+counevan.pro
 count24.de
 countante.info
 countar.de
@@ -7094,6 +7101,7 @@ datadoghq-browser-agent.com
 datadog-service.mvfglobal.com
 datado.me
 datadome.co
+data-dynamic.net
 data.econa.com
 datafeedfile.com
 data.gosquared.com
@@ -7686,6 +7694,7 @@ doshaido.com
 doskki.com
 dostavka.ru
 dosugcz.info
+dotaki.com
 dotandad.com
 dotandads.com
 dotmetrics.net
@@ -8039,6 +8048,7 @@ easy.au.ru
 easycounter.com
 easydownload4you.com
 easyflirt-partners.biz
+easyhash.de
 easyhash.io
 easy-hit-counter.com
 easy-hit-counters.com
@@ -9882,6 +9892,7 @@ geopromos.com
 geo.q5media.net
 geoservice.curse.com
 geosvc.globalmailer.com
+geotargetly-1a441.appspot.com
 geo.theawesomer.com
 geotraff.com
 geovisite.com
@@ -10250,6 +10261,7 @@ google-rank.org
 googletrackmanager.com
 googlsyndication.com
 go.onclasrv.com
+goonline13.online
 goon.ru
 goontex.com
 gooo.al
@@ -10579,6 +10591,7 @@ h78xb.pw
 h83zvgrg29.com
 h8vzwpv.com
 ha-api.pushwoosh.com
+haashbjfw.com
 habdhuhuzi.com
 hackesie.net
 hacmoone.net
@@ -10980,6 +10993,7 @@ hnsamgkrtliye.com
 hnshjxowpldar.com
 hntntnfizowo.com
 hntxitqhto.com
+hoawhaum.net
 hochu-deneg.ru
 hofraxopw.com
 hoghqjddg.com
@@ -11011,6 +11025,7 @@ hoqqzlvwukpo.com
 horheloopo.com
 horjhksl.com
 hormebets.info
+horried.pro
 horsenectar.com
 horse-racing-affiliate-program.co.uk
 horsered.com
@@ -11367,6 +11382,7 @@ identads.com
 ideoclick.com
 ideprjebdvj.com
 idernzastoeok.com
+idezofimc.com
 idhvbfj.pro
 idio.co
 idissynmirkw.com
@@ -12275,6 +12291,7 @@ jeqixokniyny.com
 jerotidv.com
 jerredsite.pro
 jetcounter.ru
+jetmhrcy.com
 jettags.rocks
 jet.zbp.ru
 jevxjcdnrd.com
@@ -13968,6 +13985,7 @@ lqqpabnu.com
 lquodkeqws.com
 lqw.me
 lqxoqvqljmfyt.com
+lqydocphrf.com
 lrcs.info
 lrghpuvvo.com
 lrgtkljakwfw.com
@@ -15961,6 +15979,7 @@ nicmtzkucd.com
 nidjppokmlcx.com
 nidksyrrrtckzj.com
 nidorivo.com
+nielofficieshandl.info
 niematego.tk
 nieveni.com
 niforniadistollie.info
@@ -16193,6 +16212,7 @@ nqiabjxpcsea.com
 nqlkwyyzzgtn.com
 nqlrewsfmywgbx.com
 nqmwfddfwogbhw.com
+nqnggjvdzsy.com
 nqp0852y7r.com
 nqtnwvwigvo.com
 nqtqrnfzvp.com
@@ -16845,6 +16865,7 @@ onedmp.com
 onedrive-collection.device.mobileengagement.windows.net
 onedrive.su
 onefeed.co.uk
+oneimpress.io
 one-klick.ru
 onelead.ru
 one.lg.ua
@@ -18015,6 +18036,7 @@ pm0.net
 pm14.com
 pmachrxhrwkd.com
 pmbox.biz
+pmctrack.net
 pmdgwnsgucy.com
 pmelon.com
 pmetrics.performancing.com
@@ -19880,6 +19902,7 @@ rereegny.net
 rereghpaz.com
 reroplittrewheck.pro
 rertazmgduxp.com
+resadvantco.info
 research-artisan.com
 research.de.com
 researchintel.com
@@ -21119,6 +21142,7 @@ sfzcbcrwxhic.com
 sfzfjiefentwe.com
 sg01.rayjump.com
 sgali-mcs.byteoversea.com
+sgbmhkptxali.com
 sgeeavwmk.com
 sgfcsnwegazn.com
 sg.freeimg.ru
@@ -23613,6 +23637,7 @@ tptfopotrzg.com
 tptrk.ru
 t.pusk.ru
 tpwumuxcasj.com
+tpx.tesseradigital.com
 tpxur.top
 tqguvxunwvk.com
 tqixovpneycfmk.com
@@ -24358,6 +24383,7 @@ ttdetect.staticimgfarm.com
 ttdtuwbxgyveg.com
 tteasr.com
 ttegjzxzxyetf.com
+ttgazjzsdotiy.com
 ttgvmqdpomt.com
 tthvomis.com
 ttkx.qyctj.com
@@ -24578,6 +24604,7 @@ uclylhzwg.com
 ucounter.ucoz.net
 ucozssymgw.com
 ucretsiz-indirin.online
+ucrsowje.com
 uc.ucweb.com
 ucvrtwfh.com
 ucxgfoqrbk.com
@@ -24800,6 +24827,7 @@ unscrewing.ru
 untidyquestion.com
 untidyrice.com
 untily.com
+untypetenthdicket.info
 unumbonum.com
 unusualtitle.com
 unwyiror.com
@@ -26351,6 +26379,7 @@ wowmoscow.ru
 wowoyy.cc
 wozltvfxtntaqk.com
 wpad.farm
+wpadsx.com
 wpbhnyjej.com
 wpdstat.com
 wpfc.ml

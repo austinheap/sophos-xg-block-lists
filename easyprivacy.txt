@@ -153,6 +153,7 @@ ad7.com
 adabra.com
 ad.aloodo.com
 adalyser.com
+ad-beacon-v01.uliza.jp
 adblade.com
 adblockmetrics.ru
 adblockrelief.com
@@ -3090,6 +3091,7 @@ log.bitauto.com
 logbor.com
 log.china.cn
 log.cizion.com
+log.codemarketing.cloud
 logcounter.com
 logdy.com
 log.ecgh.dk
@@ -3720,6 +3722,7 @@ onaudience.com
 ondu.ru
 onefeed.co.uk
 oneid.mmstat.com
+oneimpress.io
 onelink-translations.com
 onespot-tracking.herokuapp.com
 onestat.com
@@ -4777,7 +4780,6 @@ sponsored.com
 spotlight.accuweather.com
 spotmx.com
 spottednoise.com
-spottysense.com
 sp.pal-item.com
 sp.pnj.com
 sp.portclintonnewsherald.com
@@ -5442,6 +5444,7 @@ tpm.pw
 t.powerreviews.com
 tp.ranker.com
 t.pswec.com
+tpx.tesseradigital.com
 t.quisma.com
 tr1.mailperformance.com
 tracc.it
