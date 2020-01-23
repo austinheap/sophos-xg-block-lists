@@ -996,6 +996,7 @@ garciniacambogiaactives.pl
 gatuzo.eu
 gawaher-services.com
 gayza.net
+gazetainfo24tv.hekko24.pl
 gazeta-natemat-pol.eu
 gazetanowoczesna.pl
 gazeta-pl.site
@@ -3843,6 +3844,7 @@ www.garciniacambogiaactives.pl
 www.gatuzo.eu
 www.gawaher-services.com
 www.gayza.net
+www.gazetainfo24tv.hekko24.pl
 www.gazeta-natemat-pol.eu
 www.gazetanowoczesna.pl
 www.gazeta-pl.site

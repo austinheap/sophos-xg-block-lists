@@ -10730,6 +10730,7 @@ tapas.net
 tap-cdn.rubiconproject.com
 tap.company
 tapcore.airpush.com
+tapdaq-adverts.global.ssl.fastly.net
 tapestry.tapad.com
 tapfortap.com
 tapgen.com
