@@ -3982,6 +3982,7 @@ cgirm.greatfallstribune.com
 cgi.sexlist.com
 cgm.adbureau.ne
 cgm.adbureau.net
+c.go-mpulse.net
 c.gr.msn.com
 chainsawoffer.com
 changduk26.com
@@ -10236,6 +10237,7 @@ seznam.hit.gemius.pl
 sfads.osdn.com
 s.flite.com
 sg.adserver.yahoo.com
+s.go-mpulse.net
 sgqcvfjvr.onet.pl
 sgs001.adtech.de
 sgs001.adtech.fr
@@ -10572,6 +10574,7 @@ stat.gw.youmi.net
 static1.influads.com
 static.2mdn.net
 static.admaximize.com
+static.adsafeprotected.com
 staticads.btopenworld.com
 static.adsonar.com
 static.adtaily.pl
