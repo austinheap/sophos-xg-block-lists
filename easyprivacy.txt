@@ -46,6 +46,7 @@
 3dstats.com
 3enm.com
 3gl.net
+3ng6p6m0.de
 3wnp9.ru
 404tracker.com
 40nuggets.com
@@ -238,6 +239,7 @@ adtriba.com
 adtr.io
 adultblogtoplist.com
 adunity.com
+advalo.com
 advancedtracker.appspot.com
 advanced-web-analytics.com
 advconversion.com
@@ -324,6 +326,7 @@ alexandria.marfeelcdn.com
 algopine.com
 alkemics.com
 alleyarm.com
+allo-media.net
 allowmailbox.com
 alltagcloud.info
 alltracked.com
@@ -601,6 +604,7 @@ arcadeweb.com
 arena-quantum.co.uk
 ariane.abtasty.com
 arianelab.com
+ar.i-run.fr
 arizona-miner.tk
 arkayne.com
 arlime.com
@@ -699,6 +703,7 @@ axoncoho.tk
 az693360.vo.msecnd.net
 azalead.com
 azera-s014.com
+azg1.emalu-store.com
 azointel.com
 azvjudwr.info
 b0e8.com
@@ -729,6 +734,7 @@ bats.video.yahoo.com
 b-aws.aol.com
 b-aws.techcrunch.com
 baynote.net
+baztrack.com
 b.bedop.com
 bbtrack.net
 bc.marfeelcache.com
@@ -823,6 +829,7 @@ bfmio.com
 bfoleyinteractive.com
 bglog.bitauto.com
 bgpng.me
+bhu9.bankia.es
 biberukalap.com
 bidderrtb.com
 bid.g.doubleclick.net
@@ -969,6 +976,7 @@ c1exchange.com
 c3metrics.com
 c3metrics.medifast1.com
 c3tag.com
+c4dv.copinesdevoyage.com
 c4tracking01.com
 caanalytics.com
 cache2.delvenetworks.com
@@ -1031,6 +1039,7 @@ cct2.o2online.de
 cctvgb.com.cn
 cc.zeit.de
 cdn1.pebx.pl
+cdn-alliancegravity.s3.amazonaws.com
 cdn-analytics.ladmedia.fr
 cdnanalytics.xyz
 cdnbigdata.azureedge.net
@@ -1191,6 +1200,7 @@ cloud-iq.com
 cloud-miner.de
 cloud-miner.eu
 cloudtracer101.com
+cls7.theushuaiaexperience.com
 clubcollector.com
 clvk.viki.io
 cmap.alibaba.com
@@ -1479,6 +1489,7 @@ countz.com
 cpaevent.ru
 cpcmanager.com
 c.perlentaucher.de
+cpgo.avatacar.com
 cphalk.com
 cpmktg.com
 cpmstar.com
@@ -1530,6 +1541,7 @@ csp-collector.appspot.com
 csr.onet.pl
 cssrvsync.com
 cszz.ru
+ct5m.citadium.com
 ctags.cn
 ct.eid.co.nz
 ct.itbusinessedge.com
@@ -1616,6 +1628,7 @@ d2xgf76oeu9pbh.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
+d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
@@ -1777,6 +1790,7 @@ djers.com
 djibeacon.djns.com
 dj.renren.com
 djtflbt20bdde.cloudfront.net
+dko.vente-unique.nl
 dl1d2m8ri9v3j.cloudfront.net
 dl.meliacloud.com
 dlvkf5067xruv.cloudfront.net
@@ -1805,6 +1819,7 @@ d.nativendo.de
 dna.uol.com.br
 dnn506yrbagrg.cloudfront.net
 do09.net
+doa1.immobilier-neuf.com
 doclix.com
 dojomojo.com
 dojomojo.ninja
@@ -1842,12 +1857,15 @@ dufue2m4sondk.cloudfront.net
 dup.baidustatic.com
 durocount.com
 duu8lzqdm8tsz.cloudfront.net
+dv59b.montecarlomeeting.com
+dvo.assurandme.fr
 dw.cnet.com
 dw-eu.com.com
 dwh-tracking.it.auth0.com
 dwin1.com
 dwin2.com
 dwtracking.sdo.com
+dxe2.heip.fr
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
@@ -1859,6 +1877,7 @@ dzizsih.ru
 dzmxze7hxwn6b.cloudfront.net
 ea.auchantelecom.fr
 ea.aujourdhui.com
+ea.bouquetnantais.com
 ea.celio.com
 ea.ciblo.net
 eacla.com
@@ -1866,6 +1885,7 @@ ea.deguisetoi.fr
 ea.diamant-unique.com
 ea.fleurancenature.fr
 ea.greenweez.com
+ea.habitat.de
 ea.habitat.fr
 ea.histoiredor.com
 ea.hofmann.es
@@ -1873,14 +1893,31 @@ ea.hofmann.pt
 ea.homair.com
 ea.jeuxvideopc.com
 ea.kauf-unique.at
+ea.kauf-unique.de
 ea.lafrancedunordausud.fr
+ea.leskidunordausud.fr
+ea.lespagnedunordausud.fr
 ea.lexpress.fr
+ea.megustaleer.com
+ea.megustaleer.com.pe
 ea.melijoe.com
 ea.millet.fr
 ea.millet-mountain.com
 ea.monsieurmanuel.com
 eanalyzer.de
 ea.natiloo.com
+ea.odalys-vacances.com
+ea.odalys-vacation-rental.com
+ea.officedepot.fr
+ea.pixmania.de
+ea.pixmania.dk
+ea.pixmania.fi
+ea.pixmania.ie
+ea.pixmania.it
+ea.pixmania.nl
+ea.pixmania.pl
+ea.pixmania.se
+ea.placedestendances.com
 ea.rentacar.fr
 early-birds.fr
 early-birds.io
@@ -1900,6 +1937,7 @@ ea.venta-unica.com
 ea.vente-unique.be
 ea.vente-unique.ch
 ea.vente-unique.com
+ea.vente-unique.lu
 ea.warnerbros.fr
 ebay.northernhost.com
 ebis.ne.jp
@@ -1927,6 +1965,7 @@ edtp.de
 edw.edmunds.com
 efatik.me
 ef.futuroscope.com
+ef.futuroscope.mobi
 e.funnymel.com
 eggplant.cloud
 ejyymghi.com
@@ -1990,6 +2029,7 @@ eproof.com
 eproof.drudgereport.com
 epro.sogou.com
 eps-analyzer.de
+era.easyvoyage.com
 erate.co.il
 e-referrer.com
 ereportz.com
@@ -2035,11 +2075,14 @@ etyper.com
 etzbnfuigipwvs.ru
 eucsoft.com
 eu.groupondata.com
+eulerian.belambra.be
+eulerian.belambra.fr
 eulerian.brandalley.fr
 euleriancdn.net
 eulerian.madeindesign.com
 eulerian.mathon.fr
 eulerian.net
+eulerian.officiel-des-vacances.com
 eulerian.sarenza.com
 eulerian.splendia.com
 eultech.fnac.com
@@ -2827,6 +2870,7 @@ iperceptions.com
 ipfingerprint.com
 ipfrom.com
 ipgeolocation.io
+iphdata.lequipe.fr
 ipify.org
 ipinfodb.com
 ipinfo.info
@@ -3678,6 +3722,7 @@ oal2.destinia.co.uk
 observare.de
 observerapp.com
 observer.ip-label.net
+ocm8.masmovil.es
 octavius.rocks
 octomarket.com
 octopart-analytics.com
@@ -3692,6 +3737,7 @@ offermatica.com
 offerpoint.net
 offerreality.com
 offerstrategy.com
+og4.me
 oghub.io
 ogt.jp
 ohmystats.com
@@ -4213,6 +4259,7 @@ rcsmetrics.it
 rd.alice.it
 rdstation.com.br
 rdtdlv.laredoute.fr
+reach5.net
 reachandrich.antevenio.com
 reachforce.com
 reachmax.cn
@@ -4267,6 +4314,7 @@ relevant-digital.com
 reliablecounter.com
 relmaxtop.com
 rel.msn.com
+remailtarget.com
 remarketingpixel.com
 remarketstats.com
 remind.me
@@ -4654,6 +4702,7 @@ sniphub.com
 snoobi.com
 snowplow.swm.digital
 snowsignal.com
+snr4.canalplus.com
 snrbox.com
 socdm.com
 socialhoney.co
@@ -4992,6 +5041,7 @@ stats.edicy.com
 stat.segitek.hu
 statsevent.com
 stats.eyeviewdigital.com
+stats-factory.digitregroup.io
 stats.fd.nl
 stats.fittkaumaass.de
 statsforever.com
@@ -5358,6 +5408,7 @@ timestrends.indiatimes.com
 timestrends.timesnow.tv
 tinb.net
 t.indeed.com
+tinyclues.com
 tinycounter.com
 tinystat.ir
 tiser.com.au
@@ -5565,6 +5616,7 @@ tracking.badgeville.com
 tracking.base.de
 tracking.batanga.com
 tracking.battleon.com
+tracking.bd4travel.com
 tracking.beilagen-prospekte.de
 tracking.brandmentions.com
 tracking.carsales.com.au
@@ -5972,6 +6024,7 @@ usuarios-online.com
 utrack.hexun.com
 uue2.destinia.ir
 uuxnwoevyb.com
+uzerly.net
 uzrating.com
 v12group.com
 v3cdn.net
@@ -6256,6 +6309,7 @@ widget.quantcast.com
 wikia-beacon.com
 wikiodeliv.com
 wildxtraffic.com
+winitout.com
 win.staticstuff.net
 wiredminds.de
 wisetrack.net
