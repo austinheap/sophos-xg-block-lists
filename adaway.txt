@@ -1717,7 +1717,6 @@ alog.umeng.com
 alogus.umeng.com
 alpha-assets.adcolony.com
 alpha-events.aerserv.com
-alpha.kite.com
 als.baidu.com
 als-svc.nytimes.com
 altb.marfeel.com
@@ -2256,7 +2255,6 @@ api.kiip.me
 api.kochava.com
 api.kurioapps.com
 api.lanistaads.com
-api.layer.com
 api.leadbolt.net
 api.leadpages.io
 api.leanplum.com
@@ -3386,7 +3384,6 @@ capacitly.com
 capping.lentainform.com
 capping.mgid.com
 c.apptrk.io
-capture.trackjs.com
 carambo.la
 carambola-d.openx.net
 carambola-tagan.adlightning.com
@@ -3624,7 +3621,6 @@ cdn.justpremium.com
 cdn.keywee.co
 cdn.krxd.net
 cdn.kuaidi100.com
-cdn.layer.com
 cdn-lb.vungle.com
 cdn.lentainform.com
 cdn.lfstmedia.com
@@ -3720,7 +3716,6 @@ cdn.taptica.com
 cdn.teads.tv
 cdn.thumbs.glispa.com
 cdn.tinypass.com
-cdn.trackjs.com
 cdn-traffic-director.krxd.net
 cdn.tremorhub.com
 cdn.unityads.unity3d.com
@@ -4831,7 +4826,6 @@ disqusads.com
 disqus-d.openx.net
 di.ssl.msdk.qq.com
 distractify-d.openx.net
-distributions-crashlytics-com.s3.amazonaws.com
 districtm-match.dotomi.com
 distrify-production.imgix.net
 distroscale-d.openx.net
@@ -6468,7 +6462,6 @@ intouch.arcsoft.com
 intowow.com
 inuvi.com
 investingapp.net
-investors.fyber.com
 io-cdn.bfmio.com
 iocnt.com
 ioeursdjh.com.com
@@ -6634,7 +6627,6 @@ jscdn.appier.net
 js-cdn.dynatrace.com
 jsc.marketgid.com
 jsc.mgid.com
-jscount.com
 jsd.supersonicads.com
 js.fout.jp
 js.genieessp.com
@@ -6666,7 +6658,6 @@ jumptab.com
 justad.mobi
 justjared.crwdcntrl.net
 justpremium-d.openx.net
-justwebads.com
 ju.taobao.com
 juxiao.mediav.com
 jwa-d.openx.net
@@ -7703,7 +7694,6 @@ mxtsr.com
 mxttrf.com
 mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
-mx.yandex.ru
 my.aip.insightexpressai.com
 m.yap.yahoo.com
 mybestmv.com
@@ -7717,7 +7707,6 @@ myragon.ru
 my.rtmark.net
 myscreen.com
 mythings.com
-my.trackjs.com
 myvisualiq.net
 mzbcdn.net
 n1275adserv.xyz
@@ -7804,7 +7793,6 @@ nend.net
 neoban.su
 neo.go.sonobi.com
 neptun-vm.mgid.com
-nervoussummer.com
 netavenir.com
 netdna.reporo.net
 netflame.cc
@@ -8561,7 +8549,6 @@ popmarker.com
 poptm.com
 popunderz.com
 popup.taboola.com
-popwebfun.com
 portallb.leadforensics.com
 pos.baidu.com
 poslogs.punchh.com
@@ -8992,7 +8979,6 @@ reklamz.com
 rek.mobi
 relap.io
 release.baidu.com
-release.kite.com
 remain.chartboosts.com
 remarketingpixel.com
 remote-data.urbanairship.com
@@ -10238,6 +10224,7 @@ static.8live.com
 static.a-ads.com
 static.accesstrade.vn
 static.adacado.com
+static.adfarm1.adition.com
 static.ad-maven.com
 static.ad.org.vn
 static.adsafeprotected.com
@@ -11212,8 +11199,6 @@ trk.vidible.tv
 trk.wdacashtrk.com
 trk.wrinkads.com
 trueblue-sdkapi.onereach.com
-trunkclub-api.layer.com
-trunkclub-websockets.layer.com
 trunk.guce.adtech.de
 truoctran.com
 tr-us.adsmoloco.com
@@ -11427,7 +11412,6 @@ us.adserver.yahoo.com
 us-ads.openx.net
 us-adstatic.sam4m.com
 usage.appmachine.com
-usage.trackjs.com
 u.salmonads.com
 usasync01.admantx.com
 usatodaysports-d.openx.net
@@ -11862,7 +11846,6 @@ widget.subiz.com
 wigetmedia.com
 wildcard.measuread.com.edgekey.net
 win.ad-stir.com
-windows.kite.com
 w.inmobi.cn
 w.inmobi.com
 wirtualn-d.openx.net
