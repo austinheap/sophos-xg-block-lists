@@ -2806,6 +2806,7 @@ stat.pl
 stats2.self.com
 stats4all.com
 stats.blogger.com
+statserv.net
 stats.hyperinzerce.cz
 statsie.com
 stats.merriam-webster.com
@@ -2912,6 +2913,7 @@ theadex.com
 theadhost.com
 thebugs.ws
 theclickads.com
+the-ozone-project.com
 therapistla.com
 thinkablerice.com
 thirdrespect.com
