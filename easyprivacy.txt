@@ -2429,6 +2429,7 @@ geo.play.it
 geo.q5media.net
 georiot.com
 geoservice.curse.com
+geotargetly-1a441.appspot.com
 geo.xcel.io
 geo.yahoo.com
 getaim.info

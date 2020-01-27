@@ -7085,7 +7085,6 @@ map.go.affec.tv
 mapi.apptimize.com
 mapping.adsame.com
 maps.amung.us
-maps.locationiq.com
 maps.locuslabs.com
 marfeel.com
 marinsm.com
@@ -9035,7 +9034,6 @@ res.tdxio.com
 rest.dynamicyield.com
 rest.iad-01.braze.com
 rest.iad-03.braze.com
-rest.locategy.com
 rest.mobilerealtyapps.com
 rest.segmentify.com
 rest.sharethis.com
@@ -10845,10 +10843,6 @@ tickets.fyber.com
 ticks2.bugsense.com
 tie.247-inc.net
 tikivn.api.sociaplus.com
-tile0.locatienet.com
-tile1.locatienet.com
-tile2.locatienet.com
-tile3.locatienet.com
 tile-api.inrix.com
 tileswan.cmcm.com
 timbol.iad-03.braze.com
@@ -11394,7 +11388,6 @@ us01.rayjump.com
 us01.salmonads.com
 us01.smardroid.com
 us-1.gladly.com
-us1.locationiq.com
 us1.splicky.com
 us2.splicky.com
 us3.splicky.com
