@@ -2869,6 +2869,7 @@ swordfishdc.com
 swordgoose.com
 taboola.com
 tagan.adlightning.com
+tags.tiqcdn.com
 tagular.com
 tailsweep.com
 tailsweep.se

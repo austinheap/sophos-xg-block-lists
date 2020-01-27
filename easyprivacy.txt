@@ -1630,6 +1630,7 @@ d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
+d39yds8oe4n4jq.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3iouejux1os58.cloudfront.net
@@ -2475,6 +2476,7 @@ globetrackr.com
 glogger.inspcloud.com
 gm99.com
 g.mashable.com
+gm-it.consulting
 gmodmp.jp
 gmonitor.aliimg.com
 g.msn.com
@@ -5416,6 +5418,7 @@ tiser.com.au
 tisoomi-services.com
 titag.com
 t.kck.st
+t.kelkoogroup.net
 tk.kargo.com
 tkpi.delta.com
 tkqlhce.com
