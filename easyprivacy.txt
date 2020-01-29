@@ -505,6 +505,7 @@ analytics.sketchup.com
 analytics.skyscanner.net
 analytics.slashdotmedia.com
 analytics.sleeknote.com
+analytics.smallpdf.com
 analytics.socialblade.com
 analytics.solidbau.at
 analytics.sonymusic.com
@@ -1804,6 +1805,7 @@ dmdi.pl
 dm-event.net
 dm.journaldunet.com
 dm.linternaute.com
+dmpcdn.el-mundo.net
 dmpcounter.com
 dmp.marketgid.com
 dmpxs.com
@@ -3740,7 +3742,6 @@ offermatica.com
 offerpoint.net
 offerreality.com
 offerstrategy.com
-og4.me
 oghub.io
 ogt.jp
 ohmystats.com
@@ -4262,7 +4263,6 @@ rcsmetrics.it
 rd.alice.it
 rdstation.com.br
 rdtdlv.laredoute.fr
-reach5.net
 reachandrich.antevenio.com
 reachforce.com
 reachmax.cn
@@ -4596,6 +4596,7 @@ sexcounter.com
 sexystat.com
 sf14g.com
 sftrack.searchforce.net
+sgmnt.ticketswap.com
 shareasale.com
 shared.65twenty.com
 sharppatch.com
