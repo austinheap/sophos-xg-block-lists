@@ -1286,7 +1286,6 @@ adshost1.com
 adshost2.com
 ads.ibtracking.com
 ads.icloseli.com
-ads.immobilienscout24.de
 ads.inmobi.com
 ads.intentiq.com
 adsinter1.addealsnetwork.com
@@ -2207,7 +2206,6 @@ api.europe.bidtellect.com
 api.exc.mob.com
 api-ext.mediav.com
 api.factual.com
-api.finanzen.immobilienscout24.de
 api.flurry.com
 api.fortumo.com
 api.foursquare.com
@@ -2289,7 +2287,6 @@ api.mobileapptracking.com
 api.mobilearts.io
 api.mobilebridge.com
 api.mobileday.com
-api.mobile.immobilienscout24.de
 api.mobilewareinc.com
 api.mobitech-content.xyz
 api.moblink.mob.com
@@ -2346,7 +2343,6 @@ api-rackspace.bounceexchange.com
 api.radar.io
 apir.direct-tap.com
 api.rec.mob.com
-api.recommendation.immobilienscout24.de
 api.recorder.duapps.com
 api.redshell.io
 api.restartad.com
@@ -11028,7 +11024,6 @@ tracking.fccinteractive.com
 tracking.feedmob.com
 tracking.feedperfect.com
 tracking.fyber.com
-tracking.immobilienscout24.de
 tracking.intl.miui.com
 tracking.italiamobilesrl.it
 tracking.justpremium.com
