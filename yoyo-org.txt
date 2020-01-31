@@ -1196,7 +1196,6 @@ box.anchorfree.net
 bpath.com
 bpu.samsungelectronics.com
 braincash.com
-branch.io
 brand-display.com
 brandreachsys.com
 brassrule.com
@@ -1251,6 +1250,7 @@ casterist.info
 cbanners.virtuagirlhd.com
 c.bigmir.net
 cdn.bannerflow.com
+cdn.branch.io
 cdn.freefarcy.com
 cdn.heapanalytics.com
 cdn.onesignal.com
