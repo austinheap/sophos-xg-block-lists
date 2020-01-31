@@ -98,7 +98,6 @@ ad.auditude.com
 adback.co
 ad-balancer.at
 ad-balancer.net
-adbard.net
 ad.bitmedia.io
 ad.bizo.com
 adblade.com
@@ -123,7 +122,6 @@ adcell.de
 adcenter.net
 adcentriconline.com
 ad.centrum.cz
-adcept.net
 ad.cgi.cz
 ad.choiceradio.com
 adclick.com
@@ -2570,6 +2568,7 @@ receptivereaction.com
 recoco.it
 record.affiliates.karjalakasino.com
 record.bonniergaming.com
+record.mrwin.com
 redirectingat.com
 re-directme.com
 redirectvoluum.com
@@ -2608,7 +2607,6 @@ revenuedirect.com
 revenuehits.com
 revenue.net
 revlift.io
-revsci.net
 revstats.com
 rhombusads.com
 rhythmone.com
@@ -2974,7 +2972,6 @@ top123.ro
 top20free.com
 top90.ro
 topbucks.com
-top-casting-termine.de
 topforall.com
 topgamesites.net
 toplista.mw.hu
@@ -2986,7 +2983,6 @@ top.mail.ru
 topping.com.ua
 top.proext.com
 toprebates.com
-topsafelist.net
 topsir.com
 top-site-list.com
 topsite.lv

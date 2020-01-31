@@ -120,6 +120,7 @@ acecounter.com
 acetrk.com
 acexedge.com
 ac.express.de
+acidpigs.com
 acint.net
 acl.stayfriends.de
 ac.mz-web.de
@@ -254,6 +255,7 @@ adyapper.com
 adzjzewsma.cf
 adzoe.de
 a-eng.spankbang.com
+aeon.spankbang.com
 aeros01.tk
 aeros02.tk
 aeros08.tk
@@ -615,7 +617,6 @@ arrowpushengine.com
 arsdev.net
 artefact.is
 artfut.com
-asadcdn.com
 as.base.de
 ascend.ai
 aserve.directorym.com
@@ -624,6 +625,7 @@ as.mytoys.de
 as.payback.it
 assetscdn.stream
 assoctrac.com
+astat.nikkei.com
 astro-way.com
 asumi.shinobi.jp
 as.yomonda.de
@@ -739,6 +741,7 @@ baynote.net
 baztrack.com
 b.bedop.com
 bbtrack.net
+bc0a.com
 bc.marfeelcache.com
 bc.qunar.com
 bdash-cloud.com
@@ -930,7 +933,6 @@ brcdn.com
 breakfastboat.com
 bridgevine.com
 bright.bncnt.com
-brightedge.com
 brightfunnel.com
 brilig.com
 broadcastbed.com
@@ -1699,6 +1701,7 @@ datvantage.com
 da.virginmedia.com
 dawin.tv
 daylogs.com
+dbex-tracker-v2.driveback.ru
 d-bi.fr
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
@@ -1726,6 +1729,7 @@ dejavu.mercadolivre.com.br
 dejavu.mlapps.com
 delegatediscussion.com
 delidatax.net
+deliver.ptgncdn.com
 deliv.lexpress.fr
 demandbase.com
 demandmedia.s3.amazonaws.com
@@ -2033,7 +2037,6 @@ eproof.com
 eproof.drudgereport.com
 epro.sogou.com
 eps-analyzer.de
-era.easyvoyage.com
 erate.co.il
 e-referrer.com
 ereportz.com
@@ -2366,6 +2369,7 @@ ga-beacon.appspot.com
 ga.canoe.ca
 gacela.eu
 ga.kvideo.io
+gak.webtoons.com
 gallupnet.fi
 gameanalytics.com
 gammachug.com
@@ -2712,6 +2716,7 @@ i22lo.com
 i2ad.jp
 i2i.jp
 i401xox.com
+ia.51.la
 ia.ekstrabladet.dk
 iaudienc.com
 ib.adnxs.com
@@ -2930,6 +2935,7 @@ jcm.jd.com
 jdoqocy.com
 jiankongbao.com
 jirafe.com
+jixie.io
 jppolid-track.trackprod.integration.jppol.dk
 jqassets.download
 jquery-cdn.download
@@ -3169,6 +3175,7 @@ log.go.com
 log.hiiir.com
 log.hypebeast.com
 log.idnes.cz
+loginfra.com
 loginlog.sdo.com
 log.invodo.com
 log.kcisa.kr
@@ -3439,6 +3446,7 @@ ml314.com
 ml-attr.com
 mlclick.com
 mlno6.com
+m.lolvsdota.cn
 mlstat.com
 mlweb.dmlab.hu
 mm7.net
@@ -4734,6 +4742,7 @@ sophi.io
 sophus3.com
 sortsummer.com
 soska.us
+soso.mymederback.com
 sourcecode.pro
 sourcepoint.vice.com
 spacehits.net
@@ -5555,6 +5564,7 @@ trackeame.com
 trackedlink.net
 trackedweb.net
 track.engagesciences.com
+tracker.affiliate.iqoption.com
 tracker.affirm.com
 tracker.anandtech.com
 tracker-api.my.com
@@ -5742,6 +5752,7 @@ track.omg2.com
 track.omgpl.com
 trackonomics.net
 trackpm.shop2market.com
+track.pnicnik.live
 track.pricespider.com
 track.pushbullet.com
 track.qcri.org
@@ -5980,6 +5991,7 @@ unknowntray.com
 unrummaged.com
 untidyrice.com
 uoldid.ru
+u-on.eu
 upapi.net
 up.boston.com
 up.nytimes.com
@@ -6407,6 +6419,7 @@ yellowbrix.com
 yext-pixel.com
 ygsm.com
 yh6u.dealeusedevoyages.com
+yhjinm.cn
 yieldbird.com
 yieldbot.com
 yieldify.com
