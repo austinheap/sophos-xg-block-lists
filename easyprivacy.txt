@@ -2,6 +2,7 @@
 0sbm.consobaby.co.uk
 0stats.com
 0x1f4b0.com
+100widgets.com
 103bees.com
 105app.com
 11nux.com
@@ -102,7 +103,9 @@ ablsrv.com
 abmr.net
 absolstats.co.za
 absorbingband.com
+absorbingprison.com
 abs.proxistore.com
+abstractedamount.com
 absurdapple.com
 abtrcking.com
 abtshield.com
@@ -222,6 +225,7 @@ adsettings.com
 adsixmedia.fr
 adskom.com
 adspsp.com
+ad-srv-track.com
 adsrvx.com
 adstat.4u.pl
 ads-trk.vidible.tv
@@ -233,8 +237,9 @@ adten.eu
 adthletic.com
 adtive.com
 adtlgc.com
+adtm.chip.de
 adtrack.calls.net
-adtraction.com
+adtrackers.net
 adtraxx.de
 adtriba.com
 adtr.io
@@ -245,6 +250,7 @@ advancedtracker.appspot.com
 advanced-web-analytics.com
 advconversion.com
 adv.drtuber.com
+adv-sv-stat.focus.cn
 adways.com
 adwstats.com
 adxadtracker.com
@@ -254,8 +260,6 @@ adxvip.com
 adyapper.com
 adzjzewsma.cf
 adzoe.de
-a-eng.spankbang.com
-aeon.spankbang.com
 aeros01.tk
 aeros02.tk
 aeros08.tk
@@ -285,6 +289,7 @@ affinesystems.com
 affinitymatrix.com
 affistats.com
 afminer.com
+afraidlanguage.com
 africal.info
 afsanalytics.com
 af-z.jp
@@ -297,6 +302,7 @@ agilecrm.com
 agillic.eu
 agilone.com
 agkn.com
+agreeabletouch.com
 aheadday.com
 aicontents.net
 aid-ad.jp
@@ -327,6 +333,7 @@ alexacdn.com
 alexametrics.com
 alexandria.marfeelcdn.com
 algopine.com
+alikeaddition.com
 alkemics.com
 alleyarm.com
 allo-media.net
@@ -344,6 +351,7 @@ alzexa.com
 amadesa.com
 amarfa.ir
 amavalet.com
+amazingairplane.com
 amazingcounters.com
 ambercrow.com
 ambienetics.com
@@ -721,10 +729,12 @@ backlinkdino.de
 backlink-test.de
 backlink-umsonst.de
 backstage.funnelenvy.com
+bagbeam.com
 baiduccdn1.com
 baifendian.com
 balancebreath.com
 bam-x.com
+bandborder.com
 banstat.nadavi.net
 baptisttop1000.com
 baremetrics.com
@@ -741,7 +751,6 @@ baynote.net
 baztrack.com
 b.bedop.com
 bbtrack.net
-bc0a.com
 bc.marfeelcache.com
 bc.qunar.com
 bdash-cloud.com
@@ -760,6 +769,7 @@ beacon.gu-web.net
 beacon.heliumnetwork.com
 beacon.indieclick.com
 beacon.indieclicktv.com
+beacon.itmedia.jp
 beacon.kmi-us.com
 beacon.livefyre.com
 beacon.lycos.com
@@ -769,6 +779,7 @@ beacon.nuskin.com
 beacon.riskified.com
 beacon.rum.dynapis.com
 beacons.brandads.net
+beacon.searchspring.io
 beacon.securestudies.com
 beacon.shazam.com
 beacon.sina.com.cn
@@ -832,6 +843,7 @@ beusable.net
 bewaslac.com
 bfmio.com
 bfoleyinteractive.com
+bf-tools.net
 bglog.bitauto.com
 bgpng.me
 bhu9.bankia.es
@@ -922,6 +934,7 @@ botsvisit.com
 bounceexchange.com
 bouncepilot.com
 bouncex.com
+bournemouthecho-gb.bournemouthecho.co.uk
 bpmonline.com
 brain.foresee.com
 branch.io
@@ -1011,6 +1024,7 @@ canopylabs.com
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
 caphyon-analytics.com
+capriciouscorn.com
 capsquirrel.com
 captify.co.uk
 captivate.ai
@@ -1030,6 +1044,8 @@ cashcount.com
 caspionlog.appspot.com
 cast.ra.icast.cn
 casualstat.com
+cautiouscrate.com
+cautiouscredit.com
 c.bigmir.net
 cbs.wondershare.com
 cbtrk.net
@@ -1220,6 +1236,7 @@ cmp.computerworld.com.au
 cmp.cso.com.au
 cmp.csoonline.com
 cmp.digitalartsonline.co.uk
+cmp.dreamlab.pl
 cmp.greenbot.com
 cmp.macworld.com
 cmp.macworld.co.uk
@@ -1314,6 +1331,7 @@ company-target.com
 compare.easyviaggio.com
 compare.easyviajar.com
 compare.liligo.com
+complextoad.com
 compteur.cc
 compteur.com
 compteur.developpez.com
@@ -1353,6 +1371,7 @@ continue.com
 control.cityofcairns.com
 convergetrack.com
 conversionfly.com
+conversionlabs.net.pl
 conversionlogic.net
 conversionly.com
 conversion.pl
@@ -1362,6 +1381,7 @@ convertcart.com
 convertexperiments.com
 convertglobal.com
 convertro.com
+convsgmp.taboola.com
 cookiescript.info
 cookies.livepartners.com
 cookies.reedbusiness.nl
@@ -1369,6 +1389,7 @@ cookietracker.cloudapp.net
 cookiex.ngd.yahoo.com
 cooladata.com
 coolertracks.emailroi.com
+coordinatedcoat.com
 coordinatedcub.com
 copacast.net
 copperegg.com
@@ -1505,6 +1526,7 @@ cpx.golem.de
 cpxl.golem.de
 cpx.to
 cquotient.com
+crabbychin.com
 craftkeys.com
 craktraffic.com
 crashfootwork.com
@@ -1618,6 +1640,7 @@ d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2-apps.net
+d2as12kgjg8gw5.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
@@ -1682,6 +1705,7 @@ datadome.co
 data-dynamic.net
 data.econa.com
 datafeedfile.com
+data.glamour.ru
 data.gosquared.com
 data.imakenews.com
 data.marketgid.com
@@ -1763,6 +1787,7 @@ dialogtech.com
 diamond.transfermarkt.de
 did-it.com
 didit.com
+didna.io
 die-rankliste.com
 diffusion-tracker.com
 digdeepdigital.com.au
@@ -1821,7 +1846,6 @@ dmtrack.xiu.com
 dmtry.com
 dmxleo.com
 dn34cbtcv9mef.cloudfront.net
-dna8twue3dlxq.cloudfront.net
 dnab.info
 d.nativendo.de
 dna.uol.com.br
@@ -1844,7 +1868,9 @@ doug1izaerwt3.cloudfront.net
 dpbolvw.net
 dpm.bluray-disc.de
 dps-reach.com
+dq95d35.com
 dreamcounter.de
+drydrum.com
 ds-aksb-a.akamaihd.net
 ds.haaretz.co.il
 d.shareaholic.com
@@ -1866,6 +1892,7 @@ dup.baidustatic.com
 durocount.com
 duu8lzqdm8tsz.cloudfront.net
 dv59b.montecarlomeeting.com
+dv.chemie.de
 dvo.assurandme.fr
 dw.cnet.com
 dw-eu.com.com
@@ -1971,6 +1998,7 @@ edococounter.de
 edt02.net
 edtp.de
 edw.edmunds.com
+eec.crunchyroll.com
 efatik.me
 ef.futuroscope.com
 ef.futuroscope.mobi
@@ -2024,6 +2052,7 @@ ens.tagblatt.ch
 enter-system.com
 enticelabs.com
 entryhit.wp.pl
+enviousshape.com
 eolcdn.com
 ep4p.com
 e-pagerank.net
@@ -2268,6 +2297,7 @@ flix360.com
 flixfacts.co.uk
 flixsyndication.net
 flnqmin.org
+flockflame.com
 flophous.cf
 fluencymedia.com
 fluidsurveys.com
@@ -2471,6 +2501,7 @@ gixmo.dk
 gj.mmstat.com
 gjr5.yoigo.com
 glanceguide.com
+glasgowtimes-gb.glasgowtimes.co.uk
 glassmoni.researchgate.net
 glbdns.microsoft.com
 glbtracker.com
@@ -2490,6 +2521,7 @@ g.msn.com
 gnar.grammarly.com
 gnezdo.ru
 gnpge.com
+go2link.net
 goadservices.com
 gobba.myeffect.net
 go.bestmobiworld.com
@@ -2499,6 +2531,7 @@ goingup.com
 goldoffer.online
 goldstats.com
 go-mpulse.net
+gondolagnome.com
 goneviral.com
 goodcounter.org
 googleadservices.com
@@ -2520,6 +2553,7 @@ gostats.ro
 gostats.ru
 gostats.vn
 go.toutapp.com
+gotrk.net
 goutee.top
 govmetric.com
 gpr.hu
@@ -2534,6 +2568,7 @@ gravity4.com
 greatviews.de
 greengaming.de
 green-griffin-860.appspot.com
+greenocktelegraph-gb.greenocktelegraph.co.uk
 grepdata.com
 greyinstrument.com
 grfz.de
@@ -2607,6 +2642,7 @@ hellosherpa.com
 hello.staticstuff.net
 hemnes.win
 hentaicounter.com
+heraldscotland-gb.heraldscotland.com
 hermes.theglobeandmail.com
 hetchi.com
 hexagon-analytics.com
@@ -2672,6 +2708,7 @@ hlserve.com
 hm.baidu.com
 hmstats.com
 holder.com.ua
+homelycrown.com
 hoood.info
 hop.clickbank.net
 hopurl.org
@@ -2760,6 +2797,7 @@ imgstat.baidu.com
 imgtrack.domainmarket.com
 immanalytics.com
 immassets.s3.amazonaws.com
+immensehoney.com
 i-mobile.co.jp
 imonitor.dhgate.com
 impactradius-event.com
@@ -2805,6 +2843,7 @@ inimbus.com.au
 ininmacerad.pro
 inistrack.net
 inmoment.com
+innocentinvention.com
 innomdc.com
 innovateads.com
 inphonic.com
@@ -2843,6 +2882,7 @@ intelligentscissors.com
 intellimize.co
 intelli-tracker.com
 intent.cbsi.com
+interact-analytics.com
 interaktiv-net.de
 interakt.ru
 interceptum.com
@@ -2881,7 +2921,7 @@ iperceptions.com
 ipfingerprint.com
 ipfrom.com
 ipgeolocation.io
-iphdata.lequipe.fr
+ipgp.net
 ipify.org
 ipinfodb.com
 ipinfo.info
@@ -2920,6 +2960,7 @@ itracmediav4.com
 ivcbrasil.org.br
 i.viafoura.co
 ivitrack.com
+ivstracker.net
 ivwbox.de
 iwebtrack.com
 iwstats.com
@@ -2927,6 +2968,7 @@ ixiaa.com
 iyi.net
 izea.com
 izearanks.com
+j93557g.com
 jadeitite.com
 jamexistence.com
 janrain.xyz
@@ -3030,6 +3072,7 @@ lansrv030.com
 lasagneandands.com
 laserstat.com
 laserveradedomaina.com
+laughcloth.com
 laurel.macrovision.com
 laurel.rovicorp.com
 lcs.livedoor.net
@@ -3062,6 +3105,7 @@ leadsrx.com
 leadtracking.plumvoice.com
 leadvision.dotmailer.co.uk
 leadzu.com
+leanlab.co
 leanplum.com
 leaplunchroom.com
 ledhenone.com
@@ -3240,6 +3284,8 @@ lopley.com
 losecounter.de
 losital.ru
 losstrack.com
+loudlunch.com
+lowlocket.com
 loxodo-analytics.ext.nile.works
 lp4.io
 lpbeta.com
@@ -3258,6 +3304,7 @@ lumatag.co.uk
 lumberamount.com
 luminate.com
 lumitos.com
+lumpylumber.com
 lunametrics.wpengine.netdna-cdn.com
 luxup2.ru
 luxupadva.com
@@ -3303,6 +3350,7 @@ marketizator.com
 marketperf.com
 marketshot.com
 marketshot.fr
+mark.isbank.com.tr
 maropost.com
 marsflag.com
 mar.vip.com
@@ -3378,7 +3426,6 @@ metric.inetcore.com
 metric.nwsource.com
 metricool.com
 metrics.apartments.com
-metrics-api.dimensions.ai
 metrics.api.drift.com
 metrics-api.librato.com
 metrics.aviasales.ru
@@ -3465,6 +3512,7 @@ mms.coachmag.co.uk
 mms.deadspin.com
 mms.expertreviews.co.uk
 mms.gizmodo.com
+mms.gocomics.com
 mms.gulflive.com
 mms.jalopnik.com
 mms.jezebel.com
@@ -3548,6 +3596,7 @@ m-t.io
 mtracking.com
 mtrack.nl
 m.trb.com
+mtrcs.samba.tv
 mts.mansion.com
 mts-ws.rueducommerce.fr
 multicounter.de
@@ -3686,6 +3735,7 @@ ngastatic.com
 ngmco.net
 nicequest.com
 niematego.tk
+niftyhospital.com
 niftymaps.com
 nik.io
 nil.naver.com
@@ -3696,6 +3746,7 @@ nimiqtest.net
 nimiq.watch
 nimpool.io
 ninestats.com
+ninja.akamaized.net
 n.mailfire.io
 nm.newegg.com
 nmtracking.netflix.com
@@ -3807,6 +3858,7 @@ opentracker.net
 opentracking.ru
 openvenue.com
 ophan.theguardian.com
+opps.taboola.com
 oproi.com
 optify.net
 optimahub.com
@@ -3819,6 +3871,7 @@ optin-machine.com
 optorb.com
 oracleinfinity.io
 oranges88.com
+orbidder.otto.de
 orcapia.com
 organicfruitapps.com
 org-dot-com.com
@@ -3865,6 +3918,7 @@ pagerank-linkverzeichnis.de
 pagerank-online.eu
 pagerank-suchmaschine.de
 pages05.net
+pagesocket.glam.com
 pages-stats.rbl.ms
 pagoda56.com
 paidstats.com
@@ -3989,6 +4043,7 @@ pixanalytics.com
 pix.eads.com
 pixel.1und1.de
 pixel.4players.de
+pixel6.wp.pl
 pixel-a.basis.net
 pixel.ad
 pixel.anyclip.com
@@ -4086,6 +4141,7 @@ postaffiliatepro.com
 postclickmarketing.com
 postpixel.vindicosuite.com
 potterpetrey.com
+poum.nextinpact.com
 powercount.com
 powercount.jswelt.de
 powersearch.us.com
@@ -4168,6 +4224,7 @@ pub.sheknows.com
 pubstack.io
 puffyloss.com
 puffypull.com
+puffypurpose.com
 pulleymarketing.com
 pulsar.ebay.com
 pulselog.com
@@ -4239,6 +4296,7 @@ radar.imgsmail.ru
 radarstats.com
 radarurl.com
 r-ad.ne.jp
+raintwig.com
 rampanel.com
 rampmetrics.com
 ramp.purch.com
@@ -4280,11 +4338,13 @@ reactful.com
 reactrmod.com
 readertracking.com
 readnotify.com
+readymoon.com
 real5traf.ru
 realcounter.eu
 realcounters.com
 realist.gen.tr
 realizerecess.com
+realizevacation.com
 realtimewebstats.net
 realtracker.com
 realtracking.ninja
@@ -4295,7 +4355,9 @@ reciteme.com
 recognified.net
 reco.hardsextube.com
 recommendation.24.com
+recosenselabs.com
 recoset.com
+rec-pl.quartic.pl
 rec.quartic.pl
 recruitics.com
 recs.atgsvcs.com
@@ -4355,6 +4417,7 @@ research-tool.com
 reseau-pub.com
 reshin.de
 reson8.com
+resonantbrush.com
 response.pure360.com
 responsetap.com
 res.rbl.ms
@@ -4451,6 +4514,7 @@ rtfn.net
 rtmark.net
 rtn.thestar.com
 rtoaster.jp
+rtox.net
 rt.prnewswire.com
 rtrk.com
 rtrk.co.nz
@@ -4470,7 +4534,6 @@ rztrkr.com
 s.360.cn
 s3s-main.net
 s3-tracking.synthasite.net.s3.amazonaws.com
-s3wfg.com
 s7target.ru
 s7ven.com
 sa135.macworld.co.uk
@@ -4494,6 +4557,7 @@ sana.newsinc.com.s3.amazonaws.com
 san-spr-01.net
 sapha.com
 sare25.com
+sarimsol.com
 sarov.ws
 sas15k01.com
 sas.com
@@ -4506,6 +4570,7 @@ sayutracking.co.uk
 sayyac.com
 sayyac.net
 sbdtds.com
+sblftg.com
 scaledb.com
 scaleway.ovh
 scarabresearch.com
@@ -4561,6 +4626,7 @@ seitwert.de
 selaris.com
 selectivesummer.com
 selfcampaign.com
+selfishsea.com
 sellebrity.com
 sellpoint.net
 sellpoints.com
@@ -4606,13 +4672,16 @@ sexystat.com
 sf14g.com
 sftrack.searchforce.net
 sgmnt.ticketswap.com
+sgqcvfjvr.onet.pl
 shareasale.com
 shared.65twenty.com
 sharppatch.com
 sharpspring.com
 shermore.info
+shesubscriptions.com
 shinystat.it
 shippinginsights.com
+shockinggrass.com
 shockingship.com
 shoelace.com
 shopnetic.com
@@ -4887,6 +4956,7 @@ sp.thetimesherald.com
 sp.thetowntalk.com
 sp.timesrecordnews.com
 sp.tinymce.com
+spuriousbase.com
 spurioussteam.com
 sp.usatoday.com
 sp.vcstar.com
@@ -4916,6 +4986,7 @@ ssc.api.bbc.com
 s.sniphub.com
 ssp.hinet.net
 ssrlot.lotoquebec.com
+sstats.mora.jp
 sstats.oui.sncf
 stack-sonar.com
 stadig.ifeng.com
@@ -5211,6 +5282,7 @@ su.addthis.com
 sub2tech.com
 submitnet.net
 subpixel.4players.de
+subsequentswim.com
 subtraxion.com
 successfultogether.co.uk
 suchmaschinen-ranking-hits.de
@@ -5247,12 +5319,14 @@ swcs.jp
 sweetslope.com
 swfstats.com
 swiftmining.win
+swindonadvertiser-gb.swindonadvertiser.co.uk
 swiss-counter.com
 sxtracking.com
 sy.amebame.com
 sy.ameblo.jp
 sykc.madeindesign.ch
 sync.adap.tv
+sync.outbrain.com
 sync.rambler.ru
 sync.shinobi.jp
 sync.tv
@@ -5269,6 +5343,7 @@ t2.t2b.click
 t4ft.de
 t.9gag.com
 t.a3cloud.net
+t.adlpo.com
 tag4arm.com
 tag.aumago.com
 tag.boulanger.fr
@@ -5277,8 +5352,10 @@ tagcdn.com
 tagger.opecloud.com
 tagifydiageo.com
 tag.leadplace.fr
+taglocker.target.com
 tagmanager.cn
 tagmngrs.com
+tagm.tchibo.de
 tag.myplay.com
 tag.rightmessage.com
 tag.rmp.rakuten.com
@@ -5311,6 +5388,7 @@ target.smi2.ru
 target.ukr.net
 ta.sanook.com
 taskanalytics.com
+tawdryson.com
 t.beopinion.com
 tbe.tom.ru
 tbex.ru
@@ -5323,6 +5401,7 @@ tbskip.taobao.com
 t.c4tw.net
 tcactivity.net
 tc.airfrance.com
+t.castle.io
 tce.alicdn.com
 t.cfjump.com
 tcheck.outbrainimg.com
@@ -5358,6 +5437,7 @@ tedioustooth.com
 ted.metro.co.uk
 t.eharmony.com
 telegraph.api.hbo.com
+telemetric.dk
 telemetry.jivosite.com
 telemetry.reembed.com
 telemetry.soundcloud.com
@@ -5379,6 +5459,7 @@ teralog.techhub.co.kr
 tercept.com
 terethat.ru
 tesla.oscaro.com
+testcddc.atclouddev.net
 testin.cn
 te.supportfreecontent.com
 tetigi.com
@@ -5408,6 +5489,8 @@ thewhizmarketing.com
 thewhizproducts.com
 thewise.com
 thingswontend.com
+thirdrespect.com
+thirstytwig.com
 thisisacoolthing.com
 thisisanothercoolthing.com
 thismetric.com
@@ -5464,6 +5547,7 @@ tns-gallup.dk
 tns-sifo.se
 tns.simba.taobao.com
 toc.io
+t.ofsys.com
 tomonline-inc.com
 tongji.mafengwo.cn
 tongji.meizu.com
@@ -5528,6 +5612,7 @@ trace.qq.com
 tracer.jp
 traceworks.com
 track.24heures.ch
+track2.cliplister.com
 track2.dulingo.com
 track2.me
 track2.mycliplister.com
@@ -5609,6 +5694,7 @@ trackertest.org
 tracker.thinkindot.com
 tracker.timesgroup.com
 tracker.tiu.ru
+tracker.unbxdapi.com
 tracker.uprinting.com
 tracker.winload.de
 tracker.wordstream.com
@@ -5838,6 +5924,7 @@ trail-web.com
 trakken.de
 trakksocial.googlecode.com
 trakzor.com
+tranquilside.com
 transactionale.com
 tr.api.itmedia.jp
 t.raptorsmartadvisor.com
@@ -5933,6 +6020,7 @@ t-staging.powerreviews.com
 ts.tradetracker.net
 tsw0.com
 ttauri.laptopmag.com
+ttauri.livescience.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
 ttdetect.staticimgfarm.com
@@ -6309,6 +6397,7 @@ welt-der-links.de
 wemfbox.ch
 we-stats.com
 we.wecanimal.pt
+wf.taboola.com
 whackedmedia.com
 whitepixel.com
 whizstats.com
@@ -6327,6 +6416,7 @@ widget.quantcast.com
 wikia-beacon.com
 wikiodeliv.com
 wildxtraffic.com
+wiltshiretimes-gb.wiltshiretimes.co.uk
 winitout.com
 win.staticstuff.net
 wiredminds.de

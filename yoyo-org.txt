@@ -34,6 +34,7 @@
 99count.com
 a135.wftv.com
 aaddzz.com
+a.aproductmsg.com
 aaxads.com
 aaxdetect.com
 abacho.net
@@ -196,6 +197,7 @@ adincube.com
 ad.infoseek.com
 adinjector.net
 adinterax.com
+ad.intl.xiaomi.com
 adisfy.com
 adition.com
 adition.de
@@ -328,6 +330,7 @@ ads2.gamecity.net
 ads2.jubii.dk
 ads2.net-communities.co.uk
 ads2.oneplace.com
+ads2.opensubtitles.org
 ads2.rne.com
 ads2.virtual-nights.com
 ads2.xnet.cz
@@ -646,12 +649,12 @@ ads.nyx.cz
 ads.nzcity.co.nz
 ads.o2.pl
 ads.oddschecker.com
-adsoftware.com
 ads.okcimg.com
 adsoldier.com
 ads.ole.com
 adsolut.in
 ads.oneplace.com
+ads.opensubtitles.org
 ads.optusnet.com.au
 ads.outpersonals.com
 ad-space.net
@@ -679,7 +682,6 @@ ads.rcs.it
 ads.recoletos.es
 ads.rediff.com
 ads.redlightcenter.com
-ads.resoom.de
 ads.revjet.com
 adsrv.deviantart.com
 adsrv.eacdn.com
@@ -798,7 +800,6 @@ adtrak.net
 adtriplex.com
 ad.turn.com
 ad.tv2.no
-ad.twitchguru.com
 adultadvertising.com
 ad-up.com
 ad.usatoday.com
@@ -905,7 +906,6 @@ affili.net
 affrh2014.com
 affrh2022.com
 afftracking.justanswer.com
-afterview.ru
 agkn.com
 agreeablestew.com
 ahalogy.com
@@ -1015,7 +1015,6 @@ audit.quantcast.mgr.consensu.org
 audit.webinform.hu
 augur.io
 auto-bannertausch.de
-autohits.dk
 automaticflock.com
 avenuea.com
 avocet.io
@@ -1185,6 +1184,7 @@ boffoadsapi.com
 boilingbeetle.com
 boilingumbrella.com
 boomads.com
+boomtrain.com
 boost-my-pr.de
 boredcrown.com
 boringcoat.com
@@ -1196,7 +1196,6 @@ bpu.samsungelectronics.com
 braincash.com
 brand-display.com
 brandreachsys.com
-brassrule.com
 brealtime.com
 bridgetrack.com
 brightcom.com
@@ -1287,7 +1286,6 @@ clevernt.com
 click2freemoney.com
 click.a-ads.com
 clickability.com
-click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1355,7 +1353,6 @@ completecabbage.com
 complextoad.com
 comprabanner.it
 concernedcondition.com
-concernrain.com
 conductrics.com
 connatix.com
 connextra.com
@@ -1420,8 +1417,8 @@ crazypopups.com
 creafi-online-media.com
 creatives.livejasmin.com
 credishe.com
-creep.world
 criteo.com
+criteo.net
 critictruck.com
 croissed.info
 crowdgravity.com
@@ -1639,7 +1636,6 @@ f7ds.liberation.fr
 facilitategrandfather.com
 fadedprofit.com
 famousquarter.com
-fanaticalfly.com
 farethief.com
 farmergoldfish.com
 fascinatedfeather.com
@@ -1665,7 +1661,6 @@ fixel.ai
 flairadscpc.com
 flakyfeast.com
 flashtalking.com
-flavordecision.com
 fleshlightcash.com
 flexbanner.com
 flimsycircle.com
@@ -1685,6 +1680,7 @@ freebanner.com
 free-banners.com
 freecounterstat.com
 freelogs.com
+freemaineads.com
 freeonlineusers.com
 freepay.com
 freeskreen.com
@@ -1707,7 +1703,6 @@ futuristicfairies.com
 fuzzyflavor.com
 fuzzyweather.com
 fxstyle.net
-fyber.com
 ga87z2o.com
 ga.clearbit.com
 gadsbee.com
@@ -1718,6 +1713,7 @@ gamesites100.net
 gamesites200.com
 gammamaximum.com
 gearwom.de
+gekko.spiceworks.com
 gemlix.com
 geobanner.adultfriendfinder.com
 geo.digitalpoint.com
@@ -1725,7 +1721,6 @@ georiot.com
 geovisite.com
 getclicky.com
 getintent.com
-gezginsepeti.com
 giddycoat.com
 globalismedia.com
 globaltakeoff.net
@@ -1824,7 +1819,6 @@ hoverowl.com
 hsadspixel.net
 hs-analytics.net
 htlbid.com
-htmlhubing.xyz
 httpool.com
 hud8mxdt.computerhelpmirror.top
 hueads.com
@@ -1850,6 +1844,7 @@ iconpeak2trk.com
 icptrack.com
 id5-sync.com
 identads.com
+idevaffiliate.com
 idtargeting.com
 ientrymail.com
 iesnare.com
@@ -2044,6 +2039,7 @@ lizardslaugh.com
 li.ziffimages.com
 lkqd.com
 loading321.com
+lockerdome.com
 log.btopenworld.com
 logger.snackly.co
 log.logrocket.io
@@ -2201,6 +2197,7 @@ mouseflow.com
 mousestats.com
 movad.net
 mowfruit.com
+mparticle.com
 mpstat.us
 mr-rank.de
 mrskincash.com
@@ -2320,6 +2317,7 @@ onenetworkdirect.com
 onestat.com
 onestatfree.com
 onlinecash.com
+onlinecashmethod.com
 online-metrix.net
 online.miarroba.com
 onlinerewardcenter.com
@@ -2464,7 +2462,6 @@ producer.getwisdom.io
 proext.com
 profero.com
 profitrumour.com
-profscribe.com
 programattik.com
 projectwonderful.com
 pro-market.net
@@ -2484,7 +2481,6 @@ props.id
 proton-tm.com
 protraffic.com
 provexia.com
-proxy-tracker.colpirio.com
 prsitecheck.com
 pr-star.de
 ps7894.com
@@ -2510,6 +2506,7 @@ px.ads.linkedin.com
 px.dynamicyield.com
 px.gfycat.com
 pxl.iqm.com
+px.spiceworks.com
 pymx5.com
 q1connect.com
 q.azcentral.com
@@ -2585,7 +2582,6 @@ reklama.mironet.cz
 reklama.reflektor.cz
 reklamcsere.hu
 reklamdsp.com
-reklamer.com.ua
 reklame.unwired-i.net
 reklam.rfsl.se
 relevanz10.de
@@ -2651,9 +2647,9 @@ ru4.com
 rubiconproject.com
 runads.com
 rundsp.com
-runoutsoftware.com
 ruthlessrobin.com
 ru-traffic.com
+s24hc8xzag.com
 s2d6.com
 sabio.us
 s.adroll.com
@@ -2779,6 +2775,7 @@ sourcepoint.vice.com
 sovrn.com
 spacash.com
 spaceleadster.com
+spade.sci.twitch.tv
 sparkstudios.com
 specially4u.net
 specificmedia.co.uk
@@ -2827,7 +2824,6 @@ static.a-ads.com
 staticads.btopenworld.com
 static.fmpub.net
 static.itrack.it
-staticwebcontent.net
 statistik-gallup.net
 statm.the-adult-company.com
 stat.pl
@@ -2847,7 +2843,9 @@ stats.unwired-i.net
 stats.wordpress.com
 stats.wp.com
 stats.x14.eu
+stat-track.com
 stat.webmedia.pl
+stat.xiaomi.com
 statxpress.com
 stat.zenon.net
 st.dynamicyield.com
@@ -2897,12 +2895,12 @@ tags.tiqcdn.com
 tagular.com
 tailsweep.com
 tailsweep.se
+takethatad.com
 takru.com
 talentedsteel.com
 tamgrt.com
 tangerinenet.biz
 tangibleteam.com
-tankeuro.com
 tapad.com
 tapfiliate.com
 tapinfluence.com
@@ -3003,7 +3001,6 @@ trackedlink.net
 trackedweb.net
 track.effiliation.com
 tracker.bannerflow.com
-tracker.colpirio.com
 tracker.icerocket.com
 tracker-pm2.spilleren.com
 tracker.samplicio.us
@@ -3022,6 +3019,8 @@ tracking.gajmp.com
 tracking.ibxlink.com
 tracking.inlocomedia.com
 tracking.internetstores.de
+tracking.intl.miui.com
+tracking.miui.com
 tracking.olx-st.com
 tracking.publicidees.com
 trackingsoft.com
@@ -3050,13 +3049,11 @@ trafficstrategies.com
 trafficswarm.com
 traffictrader.net
 trafficz.com
-trafficz.net
 traffiq.com
 trafic.ro
 traktrafficflow.com
 tranquilside.com
 travis.bosscasinos.com
-tr.colpirio.com
 treasuredata.com
 trekdata.com
 tremendoustime.com
