@@ -4066,6 +4066,7 @@ pixel.newscgp.com
 pixel.newscred.com
 pixel.newsdiscover.com.au
 pixel.pcworld.com
+pixelpop.co
 pixel.propublica.org
 pixel.prosieben.de
 pixel.reddit.com
@@ -4280,6 +4281,7 @@ quadran.eu
 quaintcan.com
 quantcount.com
 quantummetric.com
+quartic.pl
 qubitanalytics.appspot.com
 qubitproducts.com
 questionpro.com
@@ -5350,6 +5352,7 @@ tag.boulanger.fr
 tag.brandcdn.com
 tagcdn.com
 tagger.opecloud.com
+tag.goldenbees.fr
 tagifydiageo.com
 tag.leadplace.fr
 taglocker.target.com
