@@ -1318,6 +1318,7 @@ ads-mediafin.adhese.com
 ads.mediaforge.com
 ads.mediaforge.com.edgekey.net
 ads.mediasmart.es
+ads.miarroba.com
 ads.midatlantic.aaa.com
 ads.mncmedia.co.kr
 ads.mobadvent.com
@@ -7374,7 +7375,6 @@ mg.mgid.com
 mgtv.cm.admaster.com.cn
 miaozhen-cm.admaster.com.cn
 miaozhen.com
-miarroba.com
 microad-d.openx.net
 microad.jp
 microad.net
