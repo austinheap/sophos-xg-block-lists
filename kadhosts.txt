@@ -2309,6 +2309,7 @@ owio.pl
 ozebox.pl
 p.24-7.help
 pacyfka99.pl
+paczka-48.com
 paczkaex-info.eu
 paczka.poczta-pay.com
 paczkomaty-pl.tk
@@ -2410,6 +2411,7 @@ planetazdrowia.com
 planet-tachyon.com
 plastiquedesign.pl
 platinumprestige.pl
+platnosc.paczka-48.com
 platnosc.twoj-kurier.com
 platnosc.twojkurier.com
 play.appiq.mobi
@@ -2460,6 +2462,7 @@ pl.mevida.me
 pl.mobile-redirection.com
 pl.mysafesmartphone.com
 ploskonax.com
+plpocztex.org
 pl.princessmask.pro
 pl-pulsbiz.net
 pl.siberianhealth.com
@@ -3241,6 +3244,7 @@ thedash.pt
 thefortunatenutrition.com
 thelifeness.pl
 thelogo.pl
+themarketriser.com
 themovienation.com
 thenorthfacepl.pl
 thenorthfaceprzeceny.pl
@@ -5890,6 +5894,7 @@ www.owio.pl
 www.ozebox.pl
 www.p.24-7.help
 www.pacyfka99.pl
+www.paczka-48.com
 www.paczkaex-info.eu
 www.paczka.poczta-pay.com
 www.paczkomaty-pl.tk
@@ -5987,6 +5992,7 @@ www.planetazdrowia.com
 www.planet-tachyon.com
 www.plastiquedesign.pl
 www.platinumprestige.pl
+www.platnosc.paczka-48.com
 www.platnosc.twoj-kurier.com
 www.platnosc.twojkurier.com
 www.play.appiq.mobi
@@ -6018,6 +6024,7 @@ www.plikson.pl
 www.pliks.pl
 www.pljestnaj.pl
 www.ploskonax.com
+www.plpocztex.org
 www.pl-pulsbiz.net
 www.plustokenofficial.com
 www.plwash.pl
@@ -6794,6 +6801,7 @@ www.thedash.pt
 www.thefortunatenutrition.com
 www.thelifeness.pl
 www.thelogo.pl
+www.themarketriser.com
 www.themovienation.com
 www.thenorthfacepl.pl
 www.thenorthfaceprzeceny.pl
