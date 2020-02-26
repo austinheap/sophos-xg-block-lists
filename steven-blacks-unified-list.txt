@@ -2306,6 +2306,7 @@ ad.abema.io
 ad.aboutwebservices.com
 ad.abum.com
 ad.accessmediaproductions.com
+ad.accesstrade.vn
 ad-ace.doubleclick.net
 adaction.de
 adactiongapl.hit.gemius.pl
@@ -7108,6 +7109,7 @@ akar.iad.appboy.com
 akariyer.com
 a.karmatrail.club
 aka-root.com
+akashdayalgroups.com
 ak.assets.adlantis.jp
 akatracking.esearchvision.com
 aka-uae-dl.uliza.jp
@@ -8822,7 +8824,6 @@ app.leadfeeder.com
 apple.com-analysis-safety-antimalware-support.accountant
 apple.com.clean-virus-mac.com
 apple.com-fasting.live
-apple.com-improve-macos.live
 apple.com-internet-security-review.info
 apple.com-internet-security-review.review
 apple.com-mac-booster.live
@@ -8841,7 +8842,6 @@ apple.com-scan-virus-detected.com
 apple.com-security-desktop-antimalware-support.download
 apple.com-shield.live
 apple.com-shields-guard.live
-apple.com-speedup-macos.live
 apple.com-store.me
 apple.com-supportcenter.pro
 apple.com-supportcenter.website
@@ -9988,6 +9988,8 @@ bank19.ads.mp.mydas.mobi
 bank20.ads.dt.mydas.mobi
 bank20.ads.mp.mydas.mobi
 banki.onet.pl
+bankmillennium.fun
+bankmillennium.site
 bankofamerica.tt.omtrdc.net
 bankrate.112.2o7.net
 bankwest.112.2o7.net
@@ -10394,7 +10396,6 @@ bbs.ws
 bbtv.blinkx.com
 bbumgames.pushwoosh.com
 bbvacolombia.sc.omtrdc.net
-bc43.pl
 bc.5.p2l.info
 bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
 bcanalytics.bigcommerce.com
@@ -10587,6 +10588,7 @@ bemydate.mobi
 benchemail.bmetrack.com
 ben.crxmouse.com
 be.nedstat.net
+benefitsorganic.com
 benimreklam.com
 benrie.stream
 b.ensighten.com
@@ -12302,6 +12304,7 @@ cdn.admarvel.com
 cdn.admitad.com
 cdn.admixer.net
 cdn-adn-foreign.rayjump.com
+cdn-adn-https-baidu.rayjump.com
 cdn-adn.rayjump.com
 cdn-adn.smardroid.com
 cdn.adnwif.smt.docomo.ne.jp
@@ -13634,6 +13637,7 @@ cloudads-a.akamaihd.net
 cloudadservers.com
 cloudapi.imrworldwide.com
 cloud.appcelerator.com
+cloud-based-service.us-south.cf.appdomain.cloud
 cloudcoins.biz
 cloudcrown.com
 cloud.datapipe.com
@@ -14099,7 +14103,6 @@ collect-us-east-1.tealiumiq.com
 collegefootballnews.us.intellitxt.com
 col.mobileads.msn.com
 colonize.com
-colorcredit.pl
 colorking.es
 colormessa.info
 colors-app.blogspot.com
@@ -15498,7 +15501,6 @@ das33.io
 dascoin.com
 dascoingroup.com
 dascoininfo.blogspot.com
-dascoin-info.pl
 dascoininvest.com
 dascoin.prowly.com
 dasdk.luojilab.com
@@ -19031,6 +19033,7 @@ fortnight.space
 fortnitechat.site
 fortnitehack2018.com
 fortnite-vbuck.com
+fortunatetime.xyz
 fortunecity.us.intellitxt.com
 forum.adspaces.ero-advertising.com
 forum-boost.site50.net
@@ -19263,6 +19266,7 @@ freshiuz.com
 freshmac.space
 freshmarketer.com
 fresh-tv.biz
+fres-news.com
 freudebote.de
 fr-gmtdmp.mookie1.com
 fr-go.kelkoogroup.net
@@ -20037,7 +20041,6 @@ g.koowo.com
 gk.rts.sparkstudios.com
 gkueche.oewabox.at
 g.kuwo.cn
-gladiatorarena.pl
 glam.com
 glance.inmobi.com
 glassbox.aircanada.ca
@@ -20560,6 +20563,7 @@ grfx.mp3.com
 gr.linkwi.se
 grmtech.net
 grnpower.io
+gromka.host
 grooveshark.fr
 grosirkecantikan.com
 groundcontrol.aroundmeapi.com
@@ -22481,7 +22485,6 @@ in.api.clevertap.com
 in.api.glance.inmobi.com
 inapi.posst.co
 in-appadvertising.com
-in.appcenter.ms
 inapp.nixozz.com
 inapps.appsflyer.com
 in.appserver-ap.com
@@ -23896,7 +23899,6 @@ kiwiapartament.pl
 kixer.com
 kjbbc.net
 kjhkgh.skroc.pl
-kktgi.company
 kl21.pl
 kladovonet.com.com
 klasterbhp.pl
@@ -24102,7 +24104,6 @@ kuriero.pl
 kurierr.eu
 kurierstas.info
 kurlichan.com
-kursy-bhp-sieradz.pl
 kurtkacgallegro.com
 kurtkiwyprzedaz.pl
 kushat.roboinside.me
@@ -26922,7 +26923,6 @@ mi.adinterax.com
 miami.ero-advertising.com
 miaozhen-cm.admaster.com.cn
 miaozhen.com
-miarroba.com
 micardiss.ql.st
 michalfigura.pl
 michalgamrot.pl
@@ -27509,7 +27509,6 @@ mopub-win-us-east.bkswin.com
 moradu.com
 moras.jp
 morceko.pl
-mordi.fun
 morefastermac.trade
 morefreecamsecrets.com
 morehitserver.com
@@ -28725,7 +28724,6 @@ nobrain.dk
 nocboard.hitbox.com
 noc.hitbox.com
 noclegi-insko.pl
-noclegikukulka.pl
 noclegipodbabia.pl
 noclick.connexity.com
 noc-request.hitbox.com
@@ -28803,7 +28801,6 @@ nordette.1.p2l.info
 nordette.3.p2l.info
 nordette.4.p2l.info
 nordiccountry.cz
-nordic-translations.pl
 noredirecto.redirectme.net
 nornelis.pw
 nortelcom.112.2o7.net
@@ -29357,7 +29354,6 @@ o.bluekai.com
 o.bluewin.ch
 obos-ankiety.pl
 obozua.adocean.pl
-obozybrydzowe.pl
 obscenesidewalk.com
 observantice.com
 observare.de
@@ -29519,7 +29515,6 @@ okaleczon15-lattka.blogspot.com
 okaleczona15--latka.blogspot.com
 okaleczona15-llatka.blogspot.com
 okazjeinternetowe.pl
-okazyjnie.net
 okcounter.com
 okeanbg.com
 okel.co
@@ -30249,6 +30244,7 @@ pacific-poker.e-online-poker-4u.net
 paclitor.com
 pacman.gkgar.com
 pacyfka99.pl
+paczka-48.com
 paczkaex-info.eu
 paczka.poczta-pay.com
 paczkomaty-pl.tk
@@ -31172,6 +31168,7 @@ platform.ifc.inmobi.com
 platform.iteratehq.com
 platform.openx.com
 platinumprestige.pl
+platnosc.paczka-48.com
 platnosc.twoj-kurier.com
 platnosc.twojkurier.com
 plavix.shengen.ru
@@ -31285,6 +31282,7 @@ ploaz54.com
 ploskonax.com
 ploy.batmobi.net
 p.lp4.io
+plpocztex.org
 pl.princessmask.pro
 pl-pulsbiz.net
 p.l.qq.com
@@ -32715,7 +32713,6 @@ ramissio.com
 rampagegramar.com
 rampidads.com
 ranczobojszowy.pl
-ranczosmyczyna.pl
 randevumads.com
 randewoo.ir
 randi.adswizz.com
@@ -35548,7 +35545,6 @@ s-img.mgid.com
 simg.zedo.com
 similarsabine.com
 simmafia.pl
-simpatio.pl
 simpi.tourstogo.us
 simpleads.net
 simpleanalytics.io
@@ -35900,7 +35896,6 @@ slownikoptyczny.pl
 slt.hit.gemius.pl
 sltravelcom.112.2o7.net
 sltrib-d.openx.net
-slub2serc.pl
 s.luxadv.com
 slv1.lavanetwork.net
 sm1.sitemeter.com
@@ -36383,7 +36378,6 @@ spica.iad-03.braze.com
 spiderbait.com
 spidersboats.com
 spi.domainsponsor.com
-spiegel-de.spiegel.de
 spiegel.ivwbox.de
 spiegel.met.vgwort.de
 spiffymachine.com
@@ -38092,7 +38086,6 @@ szukajstrony.pl
 szupcsi.eu
 szupertanacsok.blog.hu
 szwendobylscy.pl
-szybka-pozyczka.com
 szybkapozyczkateraz.pl
 szybkaupadlosc.pl
 szybka-wyplata.pl
@@ -38846,6 +38839,7 @@ thelogo.pl
 themacuser.org
 themanroom.us.intellitxt.com
 themaplemethod.com
+themarketriser.com
 themecounter.com
 theme.ladipage.vn
 themes.ladipage.vn
@@ -39156,6 +39150,7 @@ token-interia.pl
 token.rubiconproject.com
 tokfb.adsrvr.org
 tokihakita.vis1.shinobi.jp
+toknowall.com
 tokokan.com.com
 tokvideo.adsrvr.org
 tomalinoalambres.com.ar
@@ -39394,6 +39389,7 @@ track2.ultimateinternetoffers.com
 track3.your-picks.com
 track.941tracking.com
 tracka.businessleadbuilder.com
+track.accesstrade.vn
 track.acclaimnetwork.com
 track.ad4mmo.com
 track.adbooth.net
@@ -41553,6 +41549,7 @@ vfbprod2.personifycloud.com
 vfdeprod.amobee.com
 vfs.admaster.com.cn
 v.gdt.qq.com
+vg-hb.rayjump.com
 vg-k8s-setting.rayjump.com
 vg-no.c.richmetrics.com
 vg-setting.rayjump.com
@@ -43906,6 +43903,7 @@ www.akademiamocowania.pl
 www.akademianaukowa.pl
 www.akademiasw.pl
 www.akademiazarabianiawinternecie.pl
+www.akashdayalgroups.com
 www.akazoo.pl
 www.akcjainijob.pl
 www.akirkpatrick.com
@@ -44075,7 +44073,6 @@ www-apple-com-anti-virus-systems.virus-removals.com
 www.apple.com-clean-macbook.live
 www.apple.com-clean-macbook-system.live
 www.apple.com-fasting.live
-www.apple.com-improve-macos.live
 www.apple.com-mac-booster.live
 www.apple.com-macos-clean-systems.live
 www.apple.com-notice.info
@@ -44087,7 +44084,6 @@ www.apple.com-shield-guard.live
 www.apple.com-shield.live
 www.apple.com-shields-guard.live
 www.apple.com-speed-macbook.live
-www.apple.com-speedup-macos.live
 www-apple-com-virus-removal-systems.fixingit.solutions
 www.applelounge.com
 www.appleprotection.org
@@ -44270,6 +44266,8 @@ www.bananarepubic.com
 www.bangbuddy.com
 www.banjers.ero-advertising.com
 www.bankingservices.xyz
+www.bankmillennium.fun
+www.bankmillennium.site
 www.bankofamerica.com.ok.am
 www.bann12s.ero-advertising.com
 www.bann13s.ero-advertising.com
@@ -44317,7 +44315,6 @@ www.bazarownia.pl
 www.bazartani.pl
 www.bazasprawdzianow.pl
 www.bbelements.com
-www.bc43.pl
 www.bcloudhost.com
 www.bcservice.it
 www.bde3d.com
@@ -44748,7 +44745,6 @@ www.centralwestwater.com.au
 www.centrolinguisticorobert.com
 www.centrum-agd.net
 www.centrumdxn.pl
-www.centrumfilmowe.bc43.pl
 www.centrummarek.pl
 www.centrumnaukowe.eu
 www.centrumofert.com
@@ -44959,7 +44955,6 @@ www.coinzilla.io
 www.cokhach.com
 www.coldwellbanker.net
 www.collectiable.com
-www.colorcredit.pl
 www.coloritpak.by
 www.colorking.es
 www.colormessa.info
@@ -45186,7 +45181,6 @@ www.das33.io
 www.dascoin.com
 www.dascoingroup.com
 www.dascoininfo.blogspot.com
-www.dascoin-info.pl
 www.dascoininvest.com
 www.dascoin.prowly.com
 www.dasecosystem.pl
@@ -45951,6 +45945,7 @@ www.formessengers.com
 www.forstriko.com
 www.fortnitehack2018.com
 www.fortnite-vbuck.com
+www.fortunatetime.xyz
 www.forum.adspaces.ero-advertising.com
 www.forum.ero-advertising.com
 www.forum.ithealth.ru
@@ -46068,6 +46063,7 @@ www.frequencyscheduler.com
 www.freshcoffeenetwork.com
 www.fresh-finance.pl
 www.freshiuz.com
+www.fres-news.com
 www.friend-card.com
 www.friend-cards.com
 www.friend-cards.net
@@ -46280,7 +46276,6 @@ www.giuseppezanottisklep.pl
 www.givehopeahand.org
 www.givemegreenbottle.icu
 www.giveskincs.nd.pl
-www.gladiatorarena.pl
 www.gliamicidellunicef.it
 www.glinkss.com
 www.gllik.pl
@@ -46399,6 +46394,7 @@ www.greenshot.fr
 www.greerlies.pro
 www.grmtech.net
 www.grnpower.io
+www.gromka.host
 www.grooveshark.fr
 www.grouphappy.com
 www.groupm.com
@@ -47012,7 +47008,6 @@ www.kiwiapartament.pl
 www.kixer.com
 www.kjbbc.net
 www.kjhkgh.skroc.pl
-www.kktgi.company
 www.kl21.pl
 www.klamm-counter.de
 www.klasterbhp.pl
@@ -47121,7 +47116,6 @@ www.kurierinpost.info
 www.kuriero.pl
 www.kurierr.eu
 www.kurierstas.info
-www.kursy-bhp-sieradz.pl
 www.kurtkacgallegro.com
 www.kurtkiwyprzedaz.pl
 www.kushat.roboinside.me
@@ -47646,7 +47640,6 @@ www.monthlywinners.com
 www.mon.trackmysales.website
 www.mopik.pl
 www.morceko.pl
-www.mordi.fun
 www.morefreecamsecrets.com
 www.morena.in.net
 www.morevisits.info
@@ -47944,14 +47937,12 @@ www.nnkml.com
 www.noblindevelopment.pl
 www.nobrain.dk
 www.noclegi-insko.pl
-www.noclegikukulka.pl
 www.noclegipodbabia.pl
 www.noipasi.pl
 www.nomadztruck.com
 www.noniuzdrawia.pl
 www.nonstopvideos.pl
 www.noowho.com
-www.nordic-translations.pl
 www.northfacepolska.pl
 www.northfacesklep.pl
 www.northpoleitalia.it
@@ -48022,7 +48013,6 @@ www.obesitycheck.com
 www.obeyter.com
 www.objectopoly.info
 www.obos-ankiety.pl
-www.obozybrydzowe.pl
 www.obserwujecie.pl
 www.obudzgeniusza.pl
 www.obuwiepuma.pl
@@ -48065,7 +48055,6 @@ www.okaleczon15-lattka.blogspot.com
 www.okaleczona15--latka.blogspot.com
 www.okaleczona15-llatka.blogspot.com
 www.okazjeinternetowe.pl
-www.okazyjnie.net
 www.okom.wroc.pl
 www.oktrk.com
 www.okularyaviator.pl
@@ -48189,6 +48178,7 @@ www.ozebox.pl
 www.oz-offers.com
 www.p.24-7.help
 www.pacyfka99.pl
+www.paczka-48.com
 www.paczkaex-info.eu
 www.paczka.poczta-pay.com
 www.paczkomaty-pl.tk
@@ -48364,6 +48354,7 @@ www.plasmatv4free.com
 www.plasmatvreward.com
 www.plastiquedesign.pl
 www.platinumprestige.pl
+www.platnosc.paczka-48.com
 www.platnosc.twoj-kurier.com
 www.platnosc.twojkurier.com
 www.playamo.com
@@ -48402,6 +48393,7 @@ www.plikson.pl
 www.pliks.pl
 www.pljestnaj.pl
 www.ploskonax.com
+www.plpocztex.org
 www.pl-pulsbiz.net
 www.plumsoftware.co.uk
 www.plustokenofficial.com
@@ -48786,7 +48778,6 @@ www.ramissio.com
 www.rampidads.com
 www.ranchapptag.com
 www.ranczobojszowy.pl
-www.ranczosmyczyna.pl
 www.randewoo.ir
 www.randki-sex.com
 www.randomelements.co.uk
@@ -49245,7 +49236,6 @@ www.silveragesoftware.com
 www.silvercash.com
 www.silvets.pl
 www.simmafia.pl
-www.simpatio.pl
 www.simplecounter.net
 www.simpli.fi
 www.simplyhelper.com
@@ -49311,7 +49301,6 @@ www.sloneczne-termy.pl
 www.slorent.com
 www.slowkariera.pl
 www.slownikoptyczny.pl
-www.slub2serc.pl
 www.slutloadlive.com
 www.sm4ll.in
 www.smartadserver.com
@@ -49676,7 +49665,6 @@ www.szufladasuwalki.pl
 www.szufladazobrazkami.pl
 www.szukajstrony.pl
 www.szwendobylscy.pl
-www.szybka-pozyczka.com
 www.szybkapozyczkateraz.pl
 www.szybkaupadlosc.pl
 www.szybka-wyplata.pl
@@ -49813,6 +49801,7 @@ www.thehomo.org
 www.thelifeness.pl
 www.thelogo.pl
 www.themacuser.org
+www.themarketriser.com
 www.themillionaireinpjs.net
 www.themovienation.com
 www.thenorthfacepl.pl
@@ -50735,7 +50724,6 @@ www.zajazdoaza.pl
 www.zajazduzenka.pl
 www.zajonc.de
 www.zaksiazke.pl
-www.zakupeo.com
 www.zakupyagd.net
 www.zakupymax.net
 www.zalukaj24.com
@@ -51379,7 +51367,6 @@ zajazdoaza.pl
 zajazduzenka.pl
 zajonc.de
 zaksiazke.pl
-zakupeo.com
 zakupyagd.net
 zakupymax.net
 zalo-ads.mediaz.vn

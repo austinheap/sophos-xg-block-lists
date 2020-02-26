@@ -11437,7 +11437,6 @@ uscollector.tealeaf.ibmcloud.com
 us-content.mediaforge.com
 usdsp-ali.mobvista.com
 usdsp.mobvista.com
-use-application-dns.net
 us-east-1.world.rw.yieldmo.com
 us-east-ads.aralego.com
 us-east-ad-track.aralego.com
