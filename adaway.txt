@@ -456,6 +456,7 @@
 4771.content.swrve.com
 4984.engine.mobileapptracking.com
 4.afs.googleadservices.com
+4d83.playfabapi.com
 4dle.info
 4dsply.com
 4mads.com
@@ -607,6 +608,7 @@
 8live.com
 9470.engine.mobileapptracking.com
 959cad30.api.splkmobile.com
+96b6.playfabapi.com
 981.content.swrve.com
 9850.engine.mobileapptracking.com
 9864.engine.mobileapptracking.com
@@ -1280,6 +1282,7 @@ ads.glispa.com
 ads.gmodules.com
 ads.google.com
 adsgroup.qq.com
+ads.heyzap.com
 adshmct.qq.com
 adshmmsg.qq.com
 adshost1.com
@@ -1550,6 +1553,7 @@ advertnative.com
 advertpay.ru
 advertstar.net
 advertur.ru
+adv.herocraft.com
 adviap.goforandroid.com
 adv-id-data.startappservice.com
 adview.pl
@@ -1939,6 +1943,7 @@ analytics.s3.amazonaws.com
 analytics.salmonads.com
 analytics.samdd.me
 analytics.sayu.co.uk
+analytics-sdk.jamcity.com
 analytics.seattleclouds.com
 analytics-server.gimbal.com
 analytics.services.kirra.nl
@@ -2151,6 +2156,7 @@ api.batch.com
 api.beaconforstore.com
 api.beaconsinspace.com
 api.beaconstreetservices.com
+api.bee7.com
 api.bitmango.com
 api.bluecore.com
 api.bounceexchange.com
@@ -2241,6 +2247,7 @@ api.instalatorhbogo.siroccomobile.com
 api.instartlogic.com
 api.intentiq.com
 api.iperceptions.com
+api.ipify.org
 api.ipstack.com
 api.itv.letv.com
 api.ivymobile.com
@@ -3016,6 +3023,7 @@ bb.crwdcntrl.net
 b.bm324.com
 bbumgames.pushwoosh.com
 b.casalemedia.com
+bcdn-god.we-stats.com
 bce.baidu.com
 bcfads.com
 b.chartboost.com
@@ -3365,6 +3373,7 @@ ca.iadsdk.apple.com
 ca-lapresse-main.collector.snplow.net
 c.algovid.com
 caller.lionmobi.com
+c.amazon-adsystem.com
 campaign.accesstrade.vn
 campaign.ad-brix.com
 campaigns.clevertap.com
@@ -3658,6 +3667,7 @@ cdn-pci.optimizely.com
 cdn.perzonalization.com
 cdn.platform.openx.com
 cdn.popcash.net
+cdn-prod-defaulting-gamedev-ads.gismart.xyz
 cdn-prod.kampyle.com
 cdn.promotionengine.com
 cdnproviders.net
@@ -3761,6 +3771,7 @@ cfg.flurry.com
 cf.iadsdk.apple.com
 cfimage.moengage.com
 c.fqtag.com
+cfr.us.v2.we-stats.com
 cf.ssacdn.com
 cf.xadcentral.com
 cf.xad.com
@@ -4115,6 +4126,7 @@ collector-007.newrelic.com
 collector-008.newrelic.com
 collector-009.newrelic.com
 collector-010.newrelic.com
+collector-6271.tvsquared.com
 collector.analytics.anvato.net
 collector-a.perimeterx.net
 collector.brandify.com
@@ -4134,6 +4146,7 @@ collector.placelocal.com
 collector-pool.newrelic.com
 collector-px8fcgygk4.perimeterx.net
 collector-pxhyx10rg3.perimeterx.net
+collector-pxuarm9b04.perimeterx.net
 collector.pyze.com
 collector.scopely.io
 collector.sift.co.uk
@@ -4220,6 +4233,7 @@ consoliads-api.us-west-2.elasticbeanstalk.com
 constintptr.com
 consult.taboola.com
 consumer.exacttargetapis.com
+consumerinfo.tt.omtrdc.net
 consumer.krxd.net
 contentabc.com
 content.ad
@@ -4369,6 +4383,7 @@ criticalmass-content.getmetrical.com
 criticinc-d.openx.net
 crittercism.com
 crm.ants.vn
+crm.sgn.com
 crossboardmobile.com
 crosspromo-cdn.gamecircus.com
 crosspromo.greenpandagames.com
@@ -5165,6 +5180,7 @@ ep.xone.com
 e.qq.com
 eqs-redserver.appspot.com
 equibase-company-d.openx.net
+equifaxps.sc.omtrdc.net
 equuleus.iad.appboy.com
 eqworks.com
 eqx-secure.smartadserver.com
@@ -5279,6 +5295,7 @@ events.aerserv.com
 events.amplitude.com
 events.apester.com
 events-api.otherlevels.com
+events-api.outfit7.com
 events.api.vungle.com
 events.appsflyer.com
 events.attentivemobile.com
@@ -5303,6 +5320,7 @@ eventss3.cloud.datasphere.com
 eventss3.datasphere.com
 events.samsungads.com
 events.simpli.fi
+events.split.io
 events.startappservice.com
 events.steelhousemedia.com
 events.streamrail.net
@@ -5360,6 +5378,7 @@ ext-inv-cdn.presage.io
 ext-inv-cdn.prod.cloud.ogury.io
 extmaps-api.yandex.net
 ext-notif.nuviad.com
+extreme-ip-lookup.com
 ex.umengcloud.com
 ey.c.appier.net
 eyeota-sync.dotomi.com
@@ -5604,6 +5623,7 @@ gamehouse.com
 game.idoing3d.com
 game.immomo.com
 gamesitestop100.com
+gamestats.herocraft.com
 game.weibo.com
 gammaplatform.com
 gammitcube.com
@@ -5925,6 +5945,7 @@ heywire.com
 hfc195b.com
 hghit.com
 hh-btr.com
+highway2.soom.la
 highwinds.cdneval.adnxs.com
 himbrecha.iad-02.braze.com
 himediads.com
@@ -6461,6 +6482,7 @@ intouch.arcsoft.com
 intowow.com
 in.treasuredata.com
 inuvi.com
+invenio.sgn.com
 investingapp.net
 io-cdn.bfmio.com
 iocnt.com
@@ -6899,6 +6921,7 @@ log.cnt.re
 log-collector.svctr.zynga.com
 logconfig.polarisoffice.com
 log-config.samsungacr.com
+log-dbff2e04.us.v2.we-stats.com
 log.droid4x.cn
 log.espn.com
 log.fc.yahoo.com
@@ -7962,6 +7985,7 @@ ns6.viglink.com
 nsapi.admicro.vn
 nsclick.baidu.com
 nsclickvideo.baidu.com
+ns.exitgames.com
 ns.mgid.com
 nspmotion.com
 ns.zdbb.net
@@ -8632,10 +8656,12 @@ prod.apptimize.com
 prod-aso-lb-v1.us-east-1d.kube.fiksu.com
 prod-a-usa.applovin.com
 prod-bidder-lb-vpc.fiksu.com
+prod-defaulting-subscriptiontool.gismart.xyz
 prod-d.openx.com
 prod-e-node-1112.nexage.com
 prod-e-node-2112.nexage.com
 prodlb.backstopsolutions.com
+prod.linkitox.com
 prod-m-node-1111.ssp.advertising.com
 prod-m-node-1112.nexage.com
 prod-m-node-1212.nexage.com
@@ -9158,6 +9184,7 @@ rtb-csync.smartadserver.com
 rtb.d.adup-tech.com
 rtbdemand-d.openx.net
 rtbdsp.inmobi.com
+rtb-east-wins.crossinstall.com
 rtbe.nanigans.com
 rtb-eu.nativeads.com
 rtb.gumgum.com
@@ -9978,6 +10005,7 @@ smartyadsdisplay.rtb.adx1.com
 smartyads.rtb.adx1.com
 sm-campaign.s3-us-west-2.amazonaws.com
 sm.domobcdn.com
+smetrics1.experian.com
 smetrics.aa.com
 smetrics.bestbuy.com
 smetrics.boston.com
@@ -10414,6 +10442,7 @@ stats.restartad.com
 stats.sa-as.com
 stats.sapo.vn
 stats.smartclip.net
+stats.snowtrial.co
 stats.ssl-services.com
 stats.sxp.smartclip.net
 stat.su
@@ -10924,6 +10953,7 @@ tonefuse.com
 toneitup.pushwoosh.com
 tongji.appscomeon.com
 tongqing2015.com
+tongue.jamcity.com
 toolbar.baidu.com
 tool.cleverads.vn
 tools.3g.qq.com

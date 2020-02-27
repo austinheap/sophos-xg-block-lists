@@ -2683,6 +2683,7 @@ alegratka.eu
 ale-gratka.pl
 alert.mac-notification.com
 alert.police-patrol-agent.com
+a.libertystmedia.com
 a.ligatus.com
 a.ligatus.de
 allaskme.com
@@ -4688,6 +4689,7 @@ damamaty.tk
 damavandkuh.com
 da.newstogram.com
 danger-phentermine.allforyourlife.com
+da.oipzyrzffum.ovh
 dap.digitalgov.gov
 darakht.com
 darmowe-liczniki.info
@@ -6423,6 +6425,7 @@ i.kissmetrics.com
 il.5.p2l.info
 i.laih.com
 ilead.itrack.it
+i.libertystmedia.com
 i.ligatus.com
 ilinks.industrybrains.com
 ilovemobi.com
@@ -7271,6 +7274,7 @@ m1.jp.2mdn.net
 m1.nedstatbasic.net
 m1.nl.2mdn.net
 m1.no.2mdn.net
+m1.nsimg.net
 m1.nz.2mdn.net
 m1.pl.2mdn.net
 m1.se.2mdn.net
@@ -7298,6 +7302,7 @@ m.2mdn.net
 m2.media-box.co
 m2.nl.2mdn.net
 m2.no.2mdn.net
+m2.nsimg.net
 m2.nz.2mdn.net
 m2.pl.2mdn.net
 m2.se.2mdn.net
@@ -10941,6 +10946,7 @@ tag1.webabacus.com
 tag.admeld.com
 tag.contextweb.com
 tag.crsspxl.com
+tag-dyn.omnitagjs.com
 tagging.outrider.com
 tagpress.oewabox.at
 tag.regieci.com
@@ -11925,6 +11931,7 @@ vcdn.adnxs.com
 vcipo.info
 vclick.adbrite.com
 vcm.oewabox.at
+vda.oipzyrzffum.ovh
 vedoriska.com
 veirregnant.club
 velocecdn.com
