@@ -1273,6 +1273,7 @@ cobaltgroup.com
 codata.ru
 cod.bitrec.com
 cogmatch.net
+cognativex.com
 cognitivematch.com
 co.hltv.org
 coinblind.com
@@ -1632,6 +1633,7 @@ d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
+d20kffh39acpue.cloudfront.net
 d21o24qxwf7uku.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
@@ -5770,6 +5772,7 @@ tracking.linda.de
 tracking.listhub.net
 tracking.livingsocial.com
 tracking.maxcdn.com
+tracking.menamarketplace.com
 tracking.military.com
 tracking.mindshare.de
 tracking.mobile.de
@@ -5936,7 +5939,6 @@ t.raptorsmartadvisor.com
 traversedlp.com
 traviilo.com
 trbas.com
-trbna.com
 trbo.com
 tr.bt.matrixspa.it
 trck.bdi-services.de
@@ -6539,6 +6541,7 @@ yuebofa.cc
 ywywjrlbsuv.com
 z444o.com
 zaehler.tv
+zam.nextinpact.com
 zampda.net
 zanox-affiliate.de
 zanox.com
