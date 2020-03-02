@@ -2247,7 +2247,6 @@ api.instalatorhbogo.siroccomobile.com
 api.instartlogic.com
 api.intentiq.com
 api.iperceptions.com
-api.ipify.org
 api.ipstack.com
 api.itv.letv.com
 api.ivymobile.com
@@ -7984,7 +7983,6 @@ ns6.viglink.com
 nsapi.admicro.vn
 nsclick.baidu.com
 nsclickvideo.baidu.com
-ns.exitgames.com
 ns.mgid.com
 nspmotion.com
 ns.zdbb.net
