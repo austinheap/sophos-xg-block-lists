@@ -5215,7 +5215,6 @@ et.w.dfw1.vip.inmobi.com
 et.w.dfw2.vip.inmobi.com
 et.w.inmobi.com
 et.w.vip.ams1.inmobi.com
-eu2.cleverreach.com
 eu-adinfo.sam4m.com
 eu-ad.sam4m.com
 euadsapi.manhuaren.com
@@ -9787,7 +9786,6 @@ setting.adzcore.com
 setting.rayjump.com
 settings.crashlytics.com
 s-et.w.inmobi.com
-seu2.cleverreach.com
 s-eu-west-1.axonix.com
 sezwho.com
 sf.bizible.com
