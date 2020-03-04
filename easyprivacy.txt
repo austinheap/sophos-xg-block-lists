@@ -752,6 +752,7 @@ baynote.net
 baztrack.com
 b.bedop.com
 bbtrack.net
+bc0a.com
 bc.marfeelcache.com
 bc.qunar.com
 bdash-cloud.com
@@ -3020,6 +3021,7 @@ kdata.fr
 kdowqlpt.info
 kedtise.com
 keet1liod.com
+keighleynews-gb.keighleynews.co.uk
 keyade.com
 keymetric.net
 keytiles.com
@@ -4570,6 +4572,7 @@ sa.sky.it
 sa.squareup.com
 sa.tf1.fr
 sat.sanoma.fi
+savoryorange.com
 sayac.hurriyettv.com
 sayutracking.co.uk
 sayyac.com
