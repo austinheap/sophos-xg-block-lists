@@ -3284,6 +3284,7 @@ api-analytics.metaps.com
 api.analytics.omgpop.com
 api-analytics.rozetka.com.ua
 api.appfireworks.com
+api.appnxt.net
 api.appsee.com
 api.appsflyer.com
 api.apptentive.com
@@ -3323,6 +3324,7 @@ apirelay.ru
 api.rnet.plus
 apiryrkxkhil.com
 api.safedk.com
+apis.appnxt.net
 api.sec.miui.com
 api.segment.io
 api.smartadv.ru
@@ -5488,6 +5490,7 @@ cdn-analytics.pl
 cdnanalytics.xyz
 cdn-api.admost.com
 cdnapi.net
+cdn.appnext.com
 cdnasjdkajgfhgajfjkagfa.pro
 cdnativ.com
 cdna.tremormedia.com
@@ -8475,6 +8478,7 @@ ebookpartnerprogramm.com
 ebtrk1.com
 ebuzzing.com
 ebz.io
+ec2-44-233-143-239.us-west-2.compute.amazonaws.com
 eca1d7792ad5de43.com
 ecadikenaz.com
 ecapolefud.com
@@ -10645,6 +10649,7 @@ globaladmedia.com
 globaladsales.com
 globaladv.net
 globalapi.ad.xiaomi.com
+global.appnext.com
 globalinteractive.com
 globalstars.ru
 globalsuccessclub.com
@@ -14545,6 +14550,7 @@ lodder5.biz
 lode88.vip
 lodoxfwite.com
 lodqycbq.com
+lofv.xyz
 log000.goo.ne.jp
 log1.24liveplus.com
 log2.musical.ly
@@ -15233,6 +15239,7 @@ mbsy.co
 mbww.com
 mbyrgeoizdid.com
 mbzl-pro.xyz
+mc.admetrica.ru
 mcaxqvcu.com
 mcaybfrnrqpmv.com
 mcbag.top
@@ -15302,6 +15309,7 @@ measuremap.com
 measurementapi.com
 measurementaz.com
 measure.mf.cz
+meatthe.ru
 meatydime.com
 mebablo.com
 meborangot.ru
@@ -21214,6 +21222,7 @@ ropkrhilt.com
 rorer.ru
 roscvyybfkm.com
 rosemand.pro
+rosenberg.appmetrica.webvisor.com
 rosenberg.appmetrica.yandex.net
 ros-infonews.ru
 rosinfonews.ru

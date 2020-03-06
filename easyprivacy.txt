@@ -734,6 +734,7 @@ bagbeam.com
 baiduccdn1.com
 baifendian.com
 balancebreath.com
+bamgrid.com
 bam-x.com
 bandborder.com
 banstat.nadavi.net
@@ -1232,6 +1233,7 @@ cm.g.doubleclick.net
 c.mgid.com
 cmmeglobal.com
 cmp.arnnet.com.au
+cmp.channelpartner.de
 cmp.cio.com.au
 cmp.cmo.com.au
 cmp.computerworld.com.au
@@ -1352,6 +1354,8 @@ confirm-referer.glrsales.com
 connatix.com
 connectif.cloud
 consciouschairs.com
+consent.api.osano.com
+consent.inm.ie
 contactmonkey.com
 contadordevisitas.es
 contadores.bolsamania.com
@@ -3278,6 +3282,7 @@ log.wilmaa.com
 log.worldsoft-cms.info
 logx.mtime.cn
 logx.mtime.com
+logx.optimizely.com
 logxp.ru
 logz.ru
 lookery.com
@@ -3783,6 +3788,7 @@ nuloox.com
 numerino.cz
 nws.naltis.com
 nyctrl32.com
+nyltx.com
 nytlog.com
 n.yunshipei.com
 o.addthis.com
@@ -3869,6 +3875,7 @@ optimahub.com
 optimierung-der-website.de
 optimix.asia
 optimizely.appspot.com
+optimizelydata.com
 optimize-stats.voxmedia.com
 optimost.com
 optin-machine.com
