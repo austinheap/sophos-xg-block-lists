@@ -273,6 +273,7 @@ autotapeta.pl
 avantfestival.pl
 avanti-pizza.pl
 avaparse.ir
+avbtrk.com
 avema.pl
 aveplay.com
 aveprize.com
@@ -356,6 +357,7 @@ biomoutletsale.pl
 bionateko.pl
 biotalerz.pl
 bitcoincodesverigerecension.com
+bitcoinera-appl.com
 bitcoinmillionairepro.com
 bitcoin-revolution.pl
 bitcoins-profit.com
@@ -1528,6 +1530,7 @@ inwestujwrozwoj.pl
 iotiot.cf
 ipeachy.pl
 iphonepolska.pl
+ipk0bp.net
 ipko.pl-weryfikacja-konta-bank-pko.j.pl
 ipodatek.net
 i-podgladacz.pl
@@ -2499,6 +2502,7 @@ playproz.com
 play-tube.pl
 playweez.pl
 plazowapolska.pl
+pl.bitcoinera-appl.com
 pl.btc-evo.com
 pl.btcprofitnow.website
 pl.bustcream-pro.com
@@ -3136,6 +3140,7 @@ srkgs.pl
 ssklep.in.net
 ssl.bezpieczne-platnosci.pl
 ssl.mmtgo.me
+sslplatnosc.online
 ssman.pl
 sspawdzktopodgglada.blogspot.com
 stackspay.com
@@ -3429,6 +3434,7 @@ tvnowapp.net
 tvonline.hol.es
 twierdza-wroclaw.pl
 twochefs-pizzeria.pl
+twojaenea.pl
 twojagieldaofert.pl
 twoja-historia.24.eu
 twoja-kariera.pl
@@ -3956,6 +3962,7 @@ www.autotapeta.pl
 www.avantfestival.pl
 www.avanti-pizza.pl
 www.avaparse.ir
+www.avbtrk.com
 www.avema.pl
 www.aveplay.com
 www.aveprize.com
@@ -4039,6 +4046,7 @@ www.biomoutletsale.pl
 www.bionateko.pl
 www.biotalerz.pl
 www.bitcoincodesverigerecension.com
+www.bitcoinera-appl.com
 www.bitcoinmillionairepro.com
 www.bitcoin-revolution.pl
 www.bitcoins-profit.com
@@ -5213,6 +5221,7 @@ www.inwestujwrozwoj.pl
 www.iotiot.cf
 www.ipeachy.pl
 www.iphonepolska.pl
+www.ipk0bp.net
 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
 www.ipodatek.net
 www.i-podgladacz.pl
@@ -6794,6 +6803,7 @@ www.srkgs.pl
 www.ssklep.in.net
 www.ssl.bezpieczne-platnosci.pl
 www.ssl.mmtgo.me
+www.sslplatnosc.online
 www.ssman.pl
 www.sspawdzktopodgglada.blogspot.com
 www.stackspay.com
@@ -7087,6 +7097,7 @@ www.tvnowapp.net
 www.tvonline.hol.es
 www.twierdza-wroclaw.pl
 www.twochefs-pizzeria.pl
+www.twojaenea.pl
 www.twojagieldaofert.pl
 www.twoja-historia.24.eu
 www.twoja-kariera.pl
