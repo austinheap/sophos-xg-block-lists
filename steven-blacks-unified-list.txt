@@ -4893,7 +4893,6 @@ adserving.cpxinteractive.com
 adserving.favorit-network.com
 adservingfront.com
 adserving.fyi-marketing.com
-adservinginternational.com
 adserving.jp
 adserving.muppetism.com
 adserving.speedshiftmedia.com
@@ -6812,7 +6811,6 @@ affiliate.fc2.com
 affiliate-fr.com
 affiliate.fr.espotting.com
 affiliate.friendlyduck.com
-affiliatefuel.com
 affiliatefuture.com
 affiliate.gamestop.com
 affiliate.gmtracker.com
@@ -7194,6 +7192,7 @@ alejandravalladares.com.ve
 alenty.com
 alert.com.mt
 alerter.pl
+alert-iphone.club
 alert.mac-notification.com
 alert.police-patrol-agent.com
 alert.wpm.neustar.biz
@@ -7775,6 +7774,7 @@ analytics.sitewit.com
 analytics.slashdotmedia.com
 analyticssl.clickpathmedia.com
 analytics.snssdk.com
+analytics.sohatv.vn
 analytics.spongecell.com
 analytics.spotta.nl
 analytics.springboardvideo.com
@@ -9671,6 +9671,7 @@ avaparse.ir
 avast-downloads.com
 avazudsp.net
 avazunativeads.com
+avbtrk.com
 av-clean.com
 avcounter10.com
 avd.innity.com
@@ -10837,6 +10838,7 @@ bitcast-d.bitgravity.com
 bitcheese.net
 bitcoadz.io
 bitcoincodesverigerecension.com
+bitcoinera-appl.com
 bitcoinmillionairepro.com
 bitcoinplus.com
 bitcoin-revolution.pl
@@ -12172,6 +12174,7 @@ cd-ads.com
 cda-film.pl
 cda-filmy.com.pl
 cda-flix.pl
+cdaflix.pl
 cdata.carambo.la
 c.data.mob.com
 cdatube.pl
@@ -13303,6 +13306,7 @@ click3.rbc.magna.ru
 click4.rbc.magna.ru
 click.a-ads.com
 clickability.com
+click.absoluteagency.com
 click.accesstrade.vn
 clickad.eo.pl
 click.adimmix.com
@@ -15277,6 +15281,7 @@ cz9.clickzs.com
 cz.adocean.pl
 c.za.msn.com
 czas-na-fb.blogspot.com
+czasnakino.pl
 cz.bbelements.com
 c.zeroredirect1.com
 c.zeroredirect2.com
@@ -15865,6 +15870,7 @@ delb8.cxense.com
 delb.mspaceads.com
 delb.myspace.com
 delconewsnetwork.us.intellitxt.com
+delecpuzz.com
 delegatediscussion.com
 deleondeos.com
 deletespyware-adware.com
@@ -17980,6 +17986,7 @@ event.allnews.uodoo.com
 eventbrite.122.2o7.net
 event.collector.scopely.io
 eventcollectorws-prod-1.us-east-1.elasticbeanstalk.com
+event.headlines.pw
 event.ia6.adxpose.com
 event.ihuman.com
 event.inner-active.mobi
@@ -18689,6 +18696,7 @@ filezilla.fr
 file.ziyu.net
 fili.com.pl
 filionline.pl
+filiser.com.pl
 filiser.online
 filmanteria.pl
 film-base.pl
@@ -22900,6 +22908,7 @@ ipinvite.iperceptions.com
 ipinyou.cm.admaster.com.cn
 ipinyou.com
 ip.itracker360.com
+ipk0bp.net
 ipko.pl-weryfikacja-konta-bank-pko.j.pl
 ipla.hit.stat24.com
 ipl.hk
@@ -23197,6 +23206,7 @@ jb9clfifs6.s.ad6media.fr
 jbaventures.cjt1.net
 jbbwtetv.xyz
 jbeet.cjt1.net
+jbfilmyseriale.pl
 jbit.cjt1.net
 j.br.baidu.com
 jb.revolvermaps.com
@@ -24454,6 +24464,7 @@ lga-tr.contextweb.com
 lg.brandreachsys.com
 lgelectronics.122.2o7.net
 lg.logging.admicro.vn
+lg.lotus.vn
 lgse.com
 lg.smardroid.com
 lgw500.com
@@ -25185,7 +25196,6 @@ luggage-tv.com
 luksona.popunder.ru
 lululemonoutlets5online.info
 lumenphoto.pl
-lumpyleaf.com
 lunarads.com
 lunaticjazz.com
 lutra.pl
@@ -29444,6 +29454,7 @@ ofw-client-cdn.fyber.com
 ogladajfilmy.pl
 ogladaj.online
 ogladaj-online24.pl
+ogladajzadarmo.com.pl
 ogladamy24.pl
 oglasnikadhr.hit.gemius.pl
 ogma.iad.appboy.com
@@ -29853,6 +29864,7 @@ opinionlabcc.122.2o7.net
 opinionstage.com
 oplac24.com
 oplaca-sie.pl
+oplac-paczka24.com
 oplac-zaleglosc.eu
 oplanetach.pl
 oplata-zaleglosci.eu
@@ -31213,6 +31225,7 @@ playwire-d.openx.net
 plazowapolska.pl
 pl.bbelements.com
 pl.betclic.com
+pl.bitcoinera-appl.com
 plbslog.umeng.com
 pl.btc-evo.com
 pl.btcprofitnow.website
@@ -33891,7 +33904,6 @@ russ-shalavy.ru
 ru.theswiftones.com
 ruthlessrobin.com
 ru.track.uc.cn
-ru-traffic.com
 rutrk.org
 rv.adcpx.v1.de.eusem.adaos-ads.net
 rva.outbrain.com
@@ -34716,6 +34728,7 @@ seal.validatedsite.com
 sea.net.edu.cn
 seans24.com.pl
 seanse24.pl
+seansikowo.pl
 seansobox.pl
 search2007.info
 search34.info.com
@@ -35030,6 +35043,7 @@ serenescreen-marine-aquarium.en.softonic.com
 sergarius.popunder.ru
 seriale24.com.pl
 serialefilmy.pl
+serialosy.pl
 serialowo.pl
 serial.vod.co.pl
 s.ero-advertising.com
@@ -36638,6 +36652,7 @@ ssl.mmtgo.me
 ssl.mousestats.com
 ssl.msdk.qq.com
 ssl-msn.oewabox.at
+sslplatnosc.online
 ssl.quantserve.com
 ssl-s.idio.co
 ssl.siteimprove.com
@@ -36877,6 +36892,7 @@ stat.gamy.ameba.jp
 stat.ganbox.com
 statgw.devtodev.com
 stat.gw.youmi.net
+stat.headlines.pw
 static1.influads.com
 static2.8live.com
 static2.adtimaserver.vn
@@ -40548,6 +40564,7 @@ twitter.login.kevanshome.org
 twitter.secure.bzpharma.net
 twnads.weather.ca
 twochefs-pizzeria.pl
+twojaenea.pl
 twojagieldaofert.pl
 twoja-historia.24.eu
 twoja-kariera.pl
@@ -44199,6 +44216,7 @@ www.avanti-pizza.pl
 www.avantlink.com
 www.avaparse.ir
 www.avast-downloads.com
+www.avbtrk.com
 www.av-clean.com
 www.avcounter10.com
 www.avema.pl
@@ -44405,6 +44423,7 @@ www.biomoutletsale.pl
 www.bionateko.pl
 www.bitcoadz.io
 www.bitcoincodesverigerecension.com
+www.bitcoinera-appl.com
 www.bitcoinmillionairepro.com
 www.bitcoin-revolution.pl
 www.bitcoins-profit.com
@@ -44713,6 +44732,7 @@ www.cda-bez-limitu.pl
 www.cda-film.pl
 www.cda-filmy.com.pl
 www.cda-flix.pl
+www.cdaflix.pl
 www.cdatube.pl
 www.cdiabetes.com
 www.cdn.ad.xiaomi.com
@@ -45138,6 +45158,7 @@ www.cyklongoldteam.pl
 www.cyric.pl
 www.cyxiangjishoptk.gq
 www.czas-na-fb.blogspot.com
+www.czasnakino.pl
 www.czilladx.com
 www.d03x2011.com
 www.d3r6awv9ysiyn4.cloudfront.net
@@ -45227,6 +45248,7 @@ www.defenderxtactical.com
 www.deflorationvirgins.com
 www.degree.namerepresentative.club
 www.dekadagierka.pl
+www.delecpuzz.com
 www.del-marine.com
 www.deloxar.pl
 www.delta-przyjecia.pl
@@ -45839,6 +45861,7 @@ www.filestrue.com
 www.filezilla.fr
 www.fili.com.pl
 www.filionline.pl
+www.filiser.com.pl
 www.filiser.online
 www.filmanteria.pl
 www.film-base.pl
@@ -46778,6 +46801,7 @@ www.ipeachy.pl
 www.iperbanner.com
 www.iphonegames3g.com
 www.iphonepolska.pl
+www.ipk0bp.net
 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
 www.iplogger.com
 www.iplogger.org
@@ -46860,6 +46884,7 @@ www.jaster.pl
 www.jatop.pl
 www.javacenter.pl
 www.javascriptobfuscator.com
+www.jbfilmyseriale.pl
 www.jcmarcadolib.com
 www.jcwhiney.com
 www.jcwhintey.com
@@ -48062,6 +48087,7 @@ www.oftmos.pl
 www.ogladajfilmy.pl
 www.ogladaj.online
 www.ogladaj-online24.pl
+www.ogladajzadarmo.com.pl
 www.ogladamy24.pl
 www.ohchat.net
 www.ohiomm.com
@@ -48146,6 +48172,7 @@ www.opiekapaliatywna2010.pl
 www.opinionlab.com
 www.oplac24.com
 www.oplaca-sie.pl
+www.oplac-paczka24.com
 www.oplac-zaleglosc.eu
 www.oplanetach.pl
 www.oplata-zaleglosci.eu
@@ -49120,6 +49147,7 @@ www.sdlpgift.com
 www.seal-technicsag.ch
 www.seans24.com.pl
 www.seanse24.pl
+www.seansikowo.pl
 www.seansobox.pl
 www.search2007.info
 www.searchacross.com
@@ -49188,6 +49216,7 @@ www.seomarkecik.pl
 www.seonetwizard.com
 www.seriale24.com.pl
 www.serialefilmy.pl
+www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
 www.s.ero-advertising.com
@@ -49512,6 +49541,7 @@ www.ssacdn.com
 www.ssklep.in.net
 www.ssl.bezpieczne-platnosci.pl
 www.ssl.mmtgo.me
+www.sslplatnosc.online
 www.ssman.pl
 www.ssp.ad.xiaomi.com
 www.sspawdzktopodgglada.blogspot.com
@@ -50106,6 +50136,7 @@ www.tvshowslist.com
 wwwtwa.com
 www.twierdza-wroclaw.pl
 www.twochefs-pizzeria.pl
+www.twojaenea.pl
 www.twojagieldaofert.pl
 www.twoja-historia.24.eu
 www.twoja-kariera.pl
@@ -50645,6 +50676,7 @@ www.wymowek.pl
 www.wymyslprezent.pl
 www.wypad3k0.blogspot.com
 www.wypoczywajunas.pl
+www.wypozycz-film.pl
 www.wyprzedazobuwie.pl
 www.wyremontujklinike.pl
 www.wyroki.eu
@@ -50926,6 +50958,7 @@ wymowek.pl
 wymyslprezent.pl
 wypad3k0.blogspot.com
 wypoczywajunas.pl
+wypozycz-film.pl
 wyprzedazobuwie.pl
 wyremontujklinike.pl
 wys24h.eu
@@ -51264,6 +51297,7 @@ yjaxc.yahoo.co.jp
 yj.moatads.com
 yj.p.adnxs.com
 yk.handlerhackz.tk
+yldbt.com
 ylgingq.angelcities.com
 yllix.com
 ylpzt.juzojossai.net
