@@ -2338,7 +2338,6 @@ api.pushwoosh.com
 api.push.world
 api.pxlad.io
 api.quantumgraph.com
-api.queryly.com
 api-rackspace.bounceexchange.com
 api.radar.io
 apir.direct-tap.com
