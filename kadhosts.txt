@@ -284,7 +284,6 @@ aws50plus.pl
 az27.pl
 azawebspace.com
 backmoniterreq.icu
-badnet.pl
 bagazowkapoznan.pl
 bagstory.pl
 baileybowout.pl
@@ -413,6 +412,7 @@ braintest4you.com
 bramax-poznan.pl
 bramka-sms-za-darmo.pl
 bramyioslony.pl
+brandliststore.eu
 brave-browser.info
 brevio.pl
 bricomiechow.pl
@@ -624,7 +624,6 @@ conversewyprzedaz.pl
 con-vit.pl
 cool4mob.com
 cool-technology.com
-coolvids.net
 coreplays.com
 corezone.pl
 corneliafunke.pl
@@ -748,7 +747,6 @@ dlmyfile.com
 dmaxcctv.pl
 dnirownosci.pl
 dnmultiglobal.duckdns.org
-dobieraniefryzury.pl
 dobre-filmy.pl
 dobreprogramy.pro
 dobre-programy.xyz
@@ -804,6 +802,7 @@ dragonflym.com
 dragonist.pl
 drapart.org
 drb.pl
+dresypromocja.pl
 dresysklep.pl
 drew-ed.pl
 drew-tex.pl
@@ -997,7 +996,6 @@ ezifilm.pl
 f4u.pl
 faberlic.com
 faberville.com
-fabrykaagd.com.pl
 fabryka-mebli.com
 fabryka-nagrod.com
 faccebook.5v.pl
@@ -1384,7 +1382,6 @@ gw.firesub.pl
 gysannapolis.com
 hablabestop.live
 hackerbot.net
-hacki-czity.pl
 hackidogier.pl
 hackidomsp.blogspot.com
 hadesklub.pl
@@ -1547,7 +1544,6 @@ irbf.com
 irismal.com
 irydoidy.pl
 islandmob.com
-isru.pl
 i-store365.com
 italianonfiction.pl
 itcity.pl
@@ -1740,7 +1736,6 @@ krdn.pl
 kredyt-na-pesel.pl
 kredytybezbik.eu
 kremidzem.pl
-kreowskaz.pl
 krezbud.pl
 krukus.pl
 kryptochemik.pl
@@ -2044,7 +2039,6 @@ modwebpro.pl
 mohacz.pl
 mojadedra.pl
 mojadietanamase.pl
-mojaesg.pl
 mojakopia.pl
 mojeasg.pl
 mojechwile.pl
@@ -2197,14 +2191,12 @@ newsfeed24h.co.uk
 news.health-beauty.press
 newsinsider.me
 news.investexpertpro.com
-news-onet24.pl
 news-paperz.com
 newsredir.com
 newsstories.live
 newswave.online
 newsweek-polska-pl.eu
 newsy-ben24.ml
-newsy-onet24.pl
 newszone.pro
 newtechagd.net
 nfbio.com
@@ -2870,6 +2862,7 @@ restricted.pl
 retrortv.in.net
 re-uspol.pl
 revinex.pl
+revitib.com
 revoltadiscreta.pl
 rewardrey.com
 rewersart.pl
@@ -3128,7 +3121,6 @@ sportowetychy.pl
 sportowy-stream.pl
 sportplus.pro
 sportsklep.com.pl
-sportswearpolska.pl
 spotlessweb.com
 spplodz.pl
 sprawa-531.eu
@@ -3224,7 +3216,6 @@ supercrystal.am
 superfajnapolska.pl
 supergabuty.pl
 supergapolska.pl
-supernovaband.pl
 super-pay.me
 supersciezka.pl
 superserwisy.pl
@@ -3355,7 +3346,6 @@ thelogo.pl
 themarketriser.com
 themovienation.com
 thenorthfacepl.pl
-thenorthfaceprzeceny.pl
 thenorthfacesklep.pl
 thepropertydealerz.com
 thermomix.vorwerk.pl
@@ -3469,7 +3459,6 @@ uabuty.pl
 ublock.org
 udater.net
 udziele-pozyczki-prywatnie.pl
-uggbutywyprzedaz.pl
 uggclassicmini.pl
 uggmini.pl
 uggoutlet.pl
@@ -3636,7 +3625,6 @@ whenbuyyousale.co
 wiadomosci.ct8.pl
 wiadomoscilokalne.eu
 wiadomosci-onet24.ml
-wiadomosci-onet24.pl
 wiadomosci-onet24.tk
 wiadomosci-web.24.eu
 widget-eforsa.pl
@@ -3986,7 +3974,6 @@ www.aws50plus.pl
 www.az27.pl
 www.azawebspace.com
 www.backmoniterreq.icu
-www.badnet.pl
 www.bagazowkapoznan.pl
 www.bagstory.pl
 www.baileybowout.pl
@@ -4115,6 +4102,7 @@ www.braintest4you.com
 www.bramax-poznan.pl
 www.bramka-sms-za-darmo.pl
 www.bramyioslony.pl
+www.brandliststore.eu
 www.brave-browser.info
 www.brevio.pl
 www.bricomiechow.pl
@@ -4326,7 +4314,6 @@ www.conversewyprzedaz.pl
 www.con-vit.pl
 www.cool4mob.com
 www.cool-technology.com
-www.coolvids.net
 www.coreplays.com
 www.corezone.pl
 www.corneliafunke.pl
@@ -4450,7 +4437,6 @@ www.dlmyfile.com
 www.dmaxcctv.pl
 www.dnirownosci.pl
 www.dnmultiglobal.duckdns.org
-www.dobieraniefryzury.pl
 www.dobre-filmy.pl
 www.dobreprogramy.pro
 www.dobre-programy.xyz
@@ -4506,6 +4492,7 @@ www.dragonflym.com
 www.dragonist.pl
 www.drapart.org
 www.drb.pl
+www.dresypromocja.pl
 www.dresysklep.pl
 www.drew-ed.pl
 www.drew-tex.pl
@@ -4699,7 +4686,6 @@ www.ezifilm.pl
 www.f4u.pl
 www.faberlic.com
 www.faberville.com
-www.fabrykaagd.com.pl
 www.fabryka-mebli.com
 www.fabryka-nagrod.com
 www.faccebook.5v.pl
@@ -5086,7 +5072,6 @@ www.gw.firesub.pl
 www.gysannapolis.com
 www.hablabestop.live
 www.hackerbot.net
-www.hacki-czity.pl
 www.hackidogier.pl
 www.hackidomsp.blogspot.com
 www.hadesklub.pl
@@ -5249,7 +5234,6 @@ www.irbf.com
 www.irismal.com
 www.irydoidy.pl
 www.islandmob.com
-www.isru.pl
 www.i-store365.com
 www.italianonfiction.pl
 www.itcity.pl
@@ -5442,7 +5426,6 @@ www.krdn.pl
 www.kredyt-na-pesel.pl
 www.kredytybezbik.eu
 www.kremidzem.pl
-www.kreowskaz.pl
 www.krezbud.pl
 www.krukus.pl
 www.kryptochemik.pl
@@ -5746,7 +5729,6 @@ www.modwebpro.pl
 www.mohacz.pl
 www.mojadedra.pl
 www.mojadietanamase.pl
-www.mojaesg.pl
 www.mojakopia.pl
 www.mojeasg.pl
 www.mojechwile.pl
@@ -5899,14 +5881,12 @@ www.newsfeed24h.co.uk
 www.news.health-beauty.press
 www.newsinsider.me
 www.news.investexpertpro.com
-www.news-onet24.pl
 www.news-paperz.com
 www.newsredir.com
 www.newsstories.live
 www.newswave.online
 www.newsweek-polska-pl.eu
 www.newsy-ben24.ml
-www.newsy-onet24.pl
 www.newszone.pro
 www.newtechagd.net
 www.nfbio.com
@@ -6542,6 +6522,7 @@ www.restricted.pl
 www.retrortv.in.net
 www.re-uspol.pl
 www.revinex.pl
+www.revitib.com
 www.revoltadiscreta.pl
 www.rewardrey.com
 www.rewersart.pl
@@ -6800,7 +6781,6 @@ www.sportowetychy.pl
 www.sportowy-stream.pl
 www.sportplus.pro
 www.sportsklep.com.pl
-www.sportswearpolska.pl
 www.spotlessweb.com
 www.spplodz.pl
 www.sprawa-531.eu
@@ -6896,7 +6876,6 @@ www.supercrystal.am
 www.superfajnapolska.pl
 www.supergabuty.pl
 www.supergapolska.pl
-www.supernovaband.pl
 www.super-pay.me
 www.supersciezka.pl
 www.superserwisy.pl
@@ -7027,7 +7006,6 @@ www.thelogo.pl
 www.themarketriser.com
 www.themovienation.com
 www.thenorthfacepl.pl
-www.thenorthfaceprzeceny.pl
 www.thenorthfacesklep.pl
 www.thepropertydealerz.com
 www.thermomix.vorwerk.pl
@@ -7141,7 +7119,6 @@ www.uabuty.pl
 www.ublock.org
 www.udater.net
 www.udziele-pozyczki-prywatnie.pl
-www.uggbutywyprzedaz.pl
 www.uggclassicmini.pl
 www.uggmini.pl
 www.uggoutlet.pl
@@ -7308,7 +7285,6 @@ www.whenbuyyousale.co
 www.wiadomosci.ct8.pl
 www.wiadomoscilokalne.eu
 www.wiadomosci-onet24.ml
-www.wiadomosci-onet24.pl
 www.wiadomosci-onet24.tk
 www.wiadomosci-web.24.eu
 www.widget-eforsa.pl
