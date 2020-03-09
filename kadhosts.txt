@@ -508,6 +508,7 @@ cbdnewsdirect.com
 cbldc.io
 cclive.istage.cloud
 cda24.net
+cda360.pl
 cda-bez-limitu.pl
 cda-film.pl
 cda-filmy.com.pl
@@ -555,6 +556,7 @@ choljai.info
 chomik24.com.pl
 chomik-24.pl
 chomikuj.best
+chomlkui.pl
 chorywdomu.pl
 chotto-ippuku.com
 chris-jasnowidz.pl
@@ -777,6 +779,7 @@ donicezmarmuru.pl
 dopalacze-sklep.org
 dorszfishandchips.pl
 doski.by
+dotabet100.com
 dotabet103.com
 doulawpoznaniu.pl
 dowmarkets.com
@@ -793,6 +796,7 @@ downloads-mobile.com
 download.televisionfanatic.com
 downloadtuesday.com
 downloaduj.pl
+download.w65.pl
 download.weatherblink.com
 drablutnik.pl
 dragon-escape.pl
@@ -1109,6 +1113,7 @@ filmplay.pl
 filmserialeonlineee.blogspot.com
 filmstube.pl
 filmu.pl
+filmvod.pl
 filmyfilmy.pl
 filmy-i-seriale.pl
 filmyiseriale.pw
@@ -1258,6 +1263,7 @@ gazo-progress.com.pl
 gbptest.net
 gbtitansrfc.com
 gcesab.com
+gdzieogladac.online
 geekbook.pl
 gelnimbus.pl
 gemverify.com
@@ -1674,6 +1680,7 @@ kjhkgh.skroc.pl
 kl21.pl
 klasterbhp.pl
 klikasz-i-masz.com
+klikijuz.com
 kloikg.pl
 klubikbaczek.pl
 klubpasjonatow.pl
@@ -3102,6 +3109,7 @@ spatiumdg.pl
 s-pay24.com
 spdobropole.pl
 special-promotion.online
+specjalniedlaciebie.com
 specodstrony.pl
 spectacledanse.com
 spedrapid.com.pl
@@ -3665,6 +3673,7 @@ wooptrk.com
 workforus.pl
 worldinfoclub.com
 worldoftankscheats.com
+worldprize.pl
 worldsementi.pl
 wosp.online
 wplogin.5v.pl
@@ -4197,6 +4206,7 @@ www.cbdnewsdirect.com
 www.cbldc.io
 www.cclive.istage.cloud
 www.cda24.net
+www.cda360.pl
 www.cda-bez-limitu.pl
 www.cda-film.pl
 www.cda-filmy.com.pl
@@ -4244,6 +4254,7 @@ www.choljai.info
 www.chomik24.com.pl
 www.chomik-24.pl
 www.chomikuj.best
+www.chomlkui.pl
 www.chorywdomu.pl
 www.chotto-ippuku.com
 www.chris-jasnowidz.pl
@@ -4800,6 +4811,7 @@ www.filmplay.pl
 www.filmserialeonlineee.blogspot.com
 www.filmstube.pl
 www.filmu.pl
+www.filmvod.pl
 www.filmyfilmy.pl
 www.filmy-i-seriale.pl
 www.filmyiseriale.pw
@@ -4949,6 +4961,7 @@ www.gazo-progress.com.pl
 www.gbptest.net
 www.gbtitansrfc.com
 www.gcesab.com
+www.gdzieogladac.online
 www.geekbook.pl
 www.gelnimbus.pl
 www.gemverify.com
@@ -7328,6 +7341,7 @@ www.wooptrk.com
 www.workforus.pl
 www.worldinfoclub.com
 www.worldoftankscheats.com
+www.worldprize.pl
 www.worldsementi.pl
 www.wosp.online
 www.wplogin.5v.pl
