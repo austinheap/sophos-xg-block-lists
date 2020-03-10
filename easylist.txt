@@ -1198,6 +1198,8 @@ adsvcs.com
 adsvert.com
 ads.videosz.com
 adsvids.com
+adsvolum.com
+adsvolume.com
 adswam.com
 adsxgm.com
 ads.yahoo.com
@@ -5171,6 +5173,7 @@ finverty.info
 fiozxmznaba.com
 firaxtech.com
 firefeeder.com
+fireflyengagement.com
 firstadsolution.com
 firstimpression.io
 firstlightera.com
