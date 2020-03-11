@@ -793,6 +793,7 @@ donicezmarmuru.pl
 dopalacze-sklep.org
 dorszfishandchips.pl
 doski.by
+dostawy24.com
 dotabet100.com
 dotabet103.com
 doulawpoznaniu.pl
@@ -1538,6 +1539,7 @@ informacjeszok24.blogspot.com
 informujemy24h.cba.pl
 infoturlgd.pl
 init.epoczta247.com
+init.plpocztex.net
 init.polskapaczka24.net
 innowacjewmarketingu.pl
 inochigniezno.pl
@@ -2444,6 +2446,7 @@ owdominikana.pl
 owio.pl
 ozebox.pl
 p.24-7.help
+packza.dostawy24.com
 pacyfka99.pl
 paczka-48.com
 paczkaex-info.eu
@@ -2602,6 +2605,7 @@ pl.mevida.me
 pl.mobile-redirection.com
 pl.mysafesmartphone.com
 ploskonax.com
+plpocztex.net
 plpocztex.org
 pl.princessmask.pro
 pl-pulsbiz.net
@@ -4583,6 +4587,7 @@ www.donicezmarmuru.pl
 www.dopalacze-sklep.org
 www.dorszfishandchips.pl
 www.doski.by
+www.dostawy24.com
 www.dotabet100.com
 www.dotabet103.com
 www.doulawpoznaniu.pl
@@ -5328,6 +5333,7 @@ www.informacjeszok24.blogspot.com
 www.informujemy24h.cba.pl
 www.infoturlgd.pl
 www.init.epoczta247.com
+www.init.plpocztex.net
 www.init.polskapaczka24.net
 www.innowacjewmarketingu.pl
 www.inochigniezno.pl
@@ -6234,6 +6240,7 @@ www.owdominikana.pl
 www.owio.pl
 www.ozebox.pl
 www.p.24-7.help
+www.packza.dostawy24.com
 www.pacyfka99.pl
 www.paczka-48.com
 www.paczkaex-info.eu
@@ -6368,6 +6375,7 @@ www.plikson.pl
 www.pliks.pl
 www.pljestnaj.pl
 www.ploskonax.com
+www.plpocztex.net
 www.plpocztex.org
 www.pl-pulsbiz.net
 www.plustokenofficial.com
