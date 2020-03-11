@@ -526,6 +526,7 @@ pixel.onaudience.com
 pixel.realclever.com
 plaimedia.com
 platform.bidgear.com
+playamo30.com
 ploy.batmobi.net
 pl-v2.presage.io
 popacs.ero-advertising.com
@@ -1032,6 +1033,7 @@ www.phpmyadmin.js.ero-advertising.com
 www.piwik.adspaces.ero-advertising.com
 www.piwik.ero-advertising.com
 www.plaimedia.com
+www.playamo30.com
 www.playamo.com
 www.popacs.ero-advertising.com
 www.popads.ero-advertising.com

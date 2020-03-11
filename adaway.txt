@@ -4505,7 +4505,6 @@ dasdk.luojilab.com
 da-serving.eastus.avi.idsp.inmobi.com
 dashapi.chartbeat.com
 dash.applovin.com
-dashboard.localytics.com
 dash.parrable.com
 dash.parsely.com
 data01.adlooxtracking.com
@@ -5011,7 +5010,6 @@ ebayus-d.openx.net
 ebda-us-east.casalemedia.com
 ebda-us-west.casalemedia.com
 ebert-digital-d.openx.net
-ebooks.localytics.com
 ebs.criteo.com
 ebz.io
 ec2eu-de-1.deliveryengine.adswizz.com
@@ -5147,7 +5145,6 @@ engage-postbacks.influencemobile.com
 engageya.com
 engine.adzerk.net
 engine-dsa.fyber.com
-engineering.wootric.com
 engine.fyber.com
 engine.liveintercept.com
 engine.sponsorpay.com
@@ -5405,7 +5402,6 @@ famobi-01.firebaseio.com
 fancrew.jp
 fancymedia-cm.admaster.com.cn
 fandangollc.demdex.net
-faq.revcontent.com
 fast.accesstrade.com.vn
 fast.aexp.demdex.net
 fast.a.klaviyo.com
@@ -6390,7 +6386,6 @@ info.adspruce.com
 info.amplitude.com
 infoevent.startappservice.com
 info.instartlogic.com
-info.localytics.com
 informer.yandex.ru
 infoscout.insightexpressai.com
 info.startappservice.com
