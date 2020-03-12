@@ -649,6 +649,7 @@ atlas.astrology.com
 atm.youku.com
 atoshonetwork.com
 a.tovarro.com
+atp.io
 atrack.allposters.com
 atrack.art.com
 atraxio.com
@@ -731,6 +732,7 @@ backlinkdino.de
 backlink-test.de
 backlink-umsonst.de
 backstage.funnelenvy.com
+bacon.section.io
 bagbeam.com
 baiduccdn1.com
 baifendian.com
@@ -1034,6 +1036,7 @@ captivate.ai
 captora.com
 capture.condenastdigital.com
 capturemedia.network
+capture.trackjs.com
 capturly.com
 caramel.press
 caringzinc.com
@@ -1315,6 +1318,7 @@ collector.mazeberry.com
 collector-medium.lightstep.com
 collector.nextguide.tv
 collector.prod.expedia.com
+collector-px0py5pczn.octopart.com
 collector.roistat.com
 collector.schibsted.io
 collector.sspinc.io
@@ -1785,6 +1789,7 @@ devatics.io
 device9.com
 devphp.org.ua
 dfanalytics.dealerfire.com
+dfapvmql-q.global.ssl.fastly.net
 d.finative.eu
 df-srv.de
 dgmsearchlab.com
@@ -1876,6 +1881,7 @@ doubleverify.com
 doug1izaerwt3.cloudfront.net
 dpbolvw.net
 dpm.bluray-disc.de
+dp.shoprunner.com
 dps-reach.com
 dq95d35.com
 dreamcounter.de
@@ -2719,6 +2725,7 @@ hm.baidu.com
 hmstats.com
 holder.com.ua
 homelycrown.com
+honeybadger.io
 hoood.info
 hop.clickbank.net
 hopurl.org
@@ -3261,6 +3268,7 @@ logs.51cto.com
 logs-api.shoprunner.com
 logsbin.dantri.com.vn
 logs.dashlane.com
+logs.datadoghq.com
 log.seekda.com
 logs.gaana.com
 logs.ggweb.nl
@@ -3396,6 +3404,7 @@ md-nx.com
 mdotlabs.com
 mdxapi.io
 measure.ameblo.jp
+measured.com
 measure.ly
 measuremap.com
 measurementapi.com
@@ -3781,6 +3790,7 @@ nrich.ai
 ns1p.net
 ns8ds.com
 nsaudience.pl
+nsg.symantec.com
 ns.rvmkitt.com
 nstracking.com
 ntlab.org
@@ -4195,6 +4205,7 @@ profiling.avandor.com
 profitshare.ro
 profusesupport.com
 programmatic.cz
+programmatictrader.com
 proj2018.xyz
 projectsunblock.com
 projop.dnsalias.com
@@ -4487,6 +4498,7 @@ r.movad.de
 r.msn.com
 rmtag.com
 r.my.com
+rndntpmgnj-a.akamaihd.net
 rnengage.com
 rnet.plus
 rng-snp-003.com
@@ -4618,6 +4630,7 @@ sc-static.net
 scupio.com
 sddan.com
 sdrive.skoda-auto.com
+sealserver.trustwave.com
 sea-nov-1.com
 searchfeed.com
 searchignite.com
@@ -4689,6 +4702,7 @@ sexystat.com
 sf14g.com
 sftrack.searchforce.net
 sgmnt.ticketswap.com
+sgphctileh-a.akamaihd.net
 sgqcvfjvr.onet.pl
 shareasale.com
 shared.65twenty.com
@@ -5387,6 +5401,7 @@ tagtool.de
 tag.triboomedia.it
 tagx.nytimes.com
 t-ak.hulu.com
+t.allmodern.com
 tamedia.ch
 tamgrt.com
 t-analytics.com
@@ -5529,6 +5544,7 @@ tinystat.ir
 tiser.com.au
 tisoomi-services.com
 titag.com
+t.jossandmain.com
 t.kck.st
 t.kelkoogroup.net
 tk.kargo.com
@@ -5550,6 +5566,8 @@ t.menepe.com
 tmgr.ccmbg.com
 tm.jsuol.com.br
 tmmp.io
+tms.eharmony.ca
+tms.eharmony.co.uk
 tms-st.cdn.ngenix.net
 tm.tradetracker.net
 tm.uol.com.br
@@ -6047,6 +6065,7 @@ tunnl.com
 turnsocial.com
 tvl8.supdecreation.com
 tvpixel.com
+t.wayfair.ca
 t.wayfair.com
 t.wayfair.co.uk
 t.wayfair.de
@@ -6080,6 +6099,7 @@ ucounter.ucoz.net
 uestat.video.qiyi.com
 ugdturner.com
 uhygtf1.com
+uhytajrtpo-a.akamaihd.net
 uid.mavencoalition.io
 uie.data.cbc.ca
 ukw.jp
@@ -6357,6 +6377,7 @@ webminerpool.com
 webmining.co
 webmobile.ws
 webprospector.de
+websecurity.norton.com
 webserviceaward.com
 webservices.websitepros.com
 webservis.gen.tr
@@ -6430,6 +6451,7 @@ wibiya-june-new-log.conduit-data.com
 widerplanet.com
 widget.perfectmarket.com
 widget.quantcast.com
+widgets.trustedshops.com
 wikia-beacon.com
 wikiodeliv.com
 wildxtraffic.com
