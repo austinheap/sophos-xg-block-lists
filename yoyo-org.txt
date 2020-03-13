@@ -994,6 +994,7 @@ aswpsdkus.com
 at-adserver.alltop.com
 atdmt.com
 athena-ads.wikia.com
+ato.mx
 attractiveafternoon.com
 attribution.report
 attributiontracker.com
@@ -1014,7 +1015,6 @@ automaticflock.com
 avenuea.com
 avocet.io
 avpa.javalobby.org
-avsads.com
 awempire.com
 awin1.com
 awzbijw.com
@@ -1281,7 +1281,6 @@ clevernt.com
 click2freemoney.com
 click.a-ads.com
 clickability.com
-click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1294,7 +1293,6 @@ clickedyclick.com
 click.fool.com
 clickfuse.com
 clickhereforcellphones.com
-clickhouse.com
 clickhype.com
 click.kmindex.ru
 clicklink.jp
@@ -2738,7 +2736,6 @@ slopeaota.com
 smaato.com
 smart4ads.com
 smartadserver.com
-smart.brvaffs.com
 smartclip.net
 smartlook.com
 smartstream.tv

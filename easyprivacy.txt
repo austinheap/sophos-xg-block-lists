@@ -38,6 +38,7 @@
 2iui01.com
 2parale.ro
 2performant.com
+2smt6mfgo.de
 319dn.dieti-natura.com
 33across.com
 360i.com
@@ -477,6 +478,7 @@ analytics.mindjolt.com
 analytics.mlstatic.com
 analytics.mouthshut.com
 analytics.moviepilot.de
+analytics.myfidevs.io
 analytics.myfinance.com
 analytics.newscred.com
 analytics.ngfiles.com
@@ -1827,6 +1829,7 @@ displaymarketplace.com
 display.studio
 distillery.wistia.com
 distiltag.com
+distinctday.com
 distralytics.com
 distribeo.com
 districtm.io
@@ -1925,6 +1928,7 @@ dynatracesaas.com
 dyntrk.com
 dzizsih.ru
 dzmxze7hxwn6b.cloudfront.net
+e77lmzbqou0n-a.akamaihd.net
 ea.auchantelecom.fr
 ea.aujourdhui.com
 ea.bouquetnantais.com
@@ -4315,6 +4319,7 @@ quietknowledge.com
 quillion.com
 quintelligence.com
 quitsnap-blue.com
+quiz.stroeermediabrands.de
 qzlog.com
 r24-tech.com
 r7ls.net
