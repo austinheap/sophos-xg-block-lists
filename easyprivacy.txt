@@ -645,6 +645,7 @@ atanx.alicdn.com
 atatus.com
 atax.gamermetrics.com
 atax.teamxbox.com
+atconnect.npo.nl
 athenainstitute.biz
 athenatmpbeacon.theglobeandmail.ca
 atlas.astrology.com
@@ -748,6 +749,7 @@ barilliance.net
 barium.cheezdev.com
 basicstat.com
 basilic.io
+baskettexture.com
 bat.adforum.com
 bat.bing.com
 bats.video.yahoo.com
@@ -1067,6 +1069,7 @@ cct2.o2online.de
 cctvgb.com.cn
 cc.zeit.de
 cdn1.pebx.pl
+cdn5.nextinpact.com
 cdn-alliancegravity.s3.amazonaws.com
 cdn-analytics.ladmedia.fr
 cdnanalytics.xyz
@@ -2186,6 +2189,7 @@ events.kaloo.ga
 events.launchdarkly.com
 events.medio.com
 events.ocdn.eu
+events.practo.com
 events.privy.com
 events.realgravity.com
 events.reddit.com
