@@ -749,6 +749,7 @@ barilliance.net
 barium.cheezdev.com
 basicstat.com
 basilic.io
+basketballbelieve.com
 baskettexture.com
 bat.adforum.com
 bat.bing.com
@@ -3003,6 +3004,7 @@ jdoqocy.com
 jiankongbao.com
 jirafe.com
 jixie.io
+journity.com
 jppolid-track.trackprod.integration.jppol.dk
 jqassets.download
 jquery-cdn.download
@@ -4324,6 +4326,7 @@ quillion.com
 quintelligence.com
 quitsnap-blue.com
 quiz.stroeermediabrands.de
+quizzicalzephyr.com
 qzlog.com
 r24-tech.com
 r7ls.net
@@ -4431,6 +4434,7 @@ rem-track.bild.de
 renhertfo.com
 rentracks.jp
 rep0pkgr.com
+repeatsweater.com
 repixel.co
 reporting.flymonarch.com
 reporting.handll.net
@@ -4482,6 +4486,7 @@ rezync.com
 rfihub.com
 rfksrv.com
 rfr-69.com
+rhetoricalloss.com
 rhinoseo.com
 riastats.com
 rich-agent.s3.amazonaws.com
@@ -4558,12 +4563,14 @@ rtrk.co.nz
 rtt.campanja.com
 ru4.com
 rumanalytics.com
+rum.conde.io
 rum.marquardmedia.hu
 rum.nccgroup-webperf.com
 rumpelstiltskinhead.com
 rum.uptime.com
 ru.net
 runtnc.net
+rusticprice.com
 rutarget.ru
 rva.outbrain.com
 rv.modanisa.com
@@ -4615,6 +4622,7 @@ scarabresearch.com
 sc.cc.com
 schoolyeargo.com
 sciencerevenue.com
+scientificshirt.com
 scintillatingspace.com
 scis.tbs.co.jp
 s.clickability.com
@@ -4644,6 +4652,7 @@ sea-nov-1.com
 searchfeed.com
 searchignite.com
 searchplow.com
+secretturtle.com
 secure.ifbyphone.com
 securepaths.com
 secure-stat.canal-plus.com
@@ -4842,6 +4851,7 @@ sojern.com
 soko.ai
 sokrati.com
 solutionshindsight.net
+somberscarecrow.com
 sombersurprise.com
 sometrics.com
 somniture.theglobeandmail.com
@@ -4901,6 +4911,7 @@ speed.wikia.net
 speee-ad.akamaized.net
 speee-ad.jp
 spelar.org
+spellsalsa.com
 sp.fanatical.com
 sp.fdlreporter.com
 sp.floridatoday.com
@@ -5031,6 +5042,7 @@ sstats.oui.sncf
 stack-sonar.com
 stadig.ifeng.com
 stadsvc.com
+staleshow.com
 stan.xing.com
 star-cntr-5.com
 st.arte.tv
@@ -5880,6 +5892,7 @@ trackmyusers.com
 trackmyweb.net
 track.netzero.net
 track.ning.com
+track.noddus.com
 track.omg2.com
 track.omgpl.com
 trackonomics.net
