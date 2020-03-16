@@ -1135,6 +1135,7 @@ circular-counters.com
 citypaketet.se
 cityua.net
 ck-cdn.com
+clarity.ms
 claritytag.com
 clarium.global.ssl.fastly.net
 clarivoy.com
@@ -4054,6 +4055,7 @@ ping.dozuki.com
 ping-fast.com
 ping.hellobar.com
 ping.hungama.com
+ping.idocdn.com
 pingil.com
 pingjs.qq.com
 pingomatic.com
