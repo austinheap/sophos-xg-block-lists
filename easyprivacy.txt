@@ -3328,6 +3328,7 @@ l.sharethis.com
 lslmetrics.djlmgdigital.com
 lt.tritondigital.com
 lucidel.com
+lucid.mjhassoc.com
 luckyorange.com
 luckyorange.net
 lugansk-info.ru
@@ -3676,6 +3677,7 @@ my-stats.info
 mystats.nl
 mysumo.de
 mytictac.com
+mytopf.com
 mytrack.pro
 myusersonline.com
 myvisitors.se
@@ -3931,6 +3933,7 @@ outboundlink.me
 overstat.com
 owlanalytics.io
 owldata.com
+ox-bio.com
 oxidy.com
 oxifwsabgd.nzz.ch
 p071qmn.com
@@ -4423,6 +4426,7 @@ reitingas.lt
 reitingi.lv
 rejestr.org
 rek.www.wp.pl
+relap.io
 relead.com
 relevant-digital.com
 reliablecounter.com
@@ -5366,6 +5370,7 @@ surveywall-api.survata.com
 surveywriter.com
 survicate.com
 sushipool.com
+svc.dynamics.com
 s-vop.sundaysky.com
 svr-prc-01.com
 svtrd.com
@@ -6638,6 +6643,7 @@ zsi7.destinia.do
 ztcadx.com
 zt-dst.com
 ztsrv.com
+zuzab.com
 zvsuhljiha-a.akamaihd.net
 zyq2.destinia.sk
 zz.bdstatic.com
