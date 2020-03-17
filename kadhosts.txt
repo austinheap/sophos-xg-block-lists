@@ -649,6 +649,7 @@ cool-technology.com
 coreplays.com
 corezone.pl
 corneliafunke.pl
+counterpointmagazine.org
 covergt.com
 cpabuild.com
 cpagrip.com
@@ -974,6 +975,7 @@ epicreactflyknit.pl
 epicreact.pl
 epliki24.pl
 epoczta247.com
+e-podatek.net
 epremki.eu
 eqology.com
 erbudokna.pl
@@ -2520,6 +2522,7 @@ patnixrealtor.com
 pato.pl
 patrickglobalusa.com
 patrykchilewicz.pl
+pattern-trader.net
 paulinajanowicz.pl
 pawelkuniec.pl
 paweltyniec.pl
@@ -2596,6 +2599,7 @@ planet-tachyon.com
 plastiquedesign.pl
 platinumprestige.pl
 platnosc.paczka-48.com
+platnosc.podatkigov.net
 platnosc.twoj-kurier.com
 platnosc.twojkurier.com
 play.appiq.mobi
@@ -2685,6 +2689,8 @@ pocztex-48.net
 pocztexpolska24.com
 pod004.site
 podarujmamiesukienke.pl
+podatek2020.net
+podatkigov.net
 podatnik.net
 podbiegi.pl
 podbykiem.pl
@@ -2730,6 +2736,7 @@ pomerania-bn.pl
 pomockredytowa.net
 pomoc.kylos.pl
 pomocnapozyczka.pro
+pomoc.sie-pomaga.net
 pomorskidom.pl
 pomozbudowac.pl
 popcornvod.com
@@ -3074,6 +3081,7 @@ seanse24.pl
 seansikowo.pl
 seansobox.pl
 searchrapid.pl
+searchwinner.site
 sebbike.pl
 secondhand-gwo24.pl
 secondland.pl
@@ -3128,6 +3136,7 @@ siderpiping.com
 sidnoy.site
 siec34.pl
 siedleckapogon.pl
+sie-pomaga.net
 sigma1.eu
 silcan.pl
 silesiatours.pl
@@ -4502,6 +4511,7 @@ www.cool-technology.com
 www.coreplays.com
 www.corezone.pl
 www.corneliafunke.pl
+www.counterpointmagazine.org
 www.covergt.com
 www.cpabuild.com
 www.cpagrip.com
@@ -4827,6 +4837,7 @@ www.epicreactflyknit.pl
 www.epicreact.pl
 www.epliki24.pl
 www.epoczta247.com
+www.e-podatek.net
 www.epremki.eu
 www.eqology.com
 www.erbudokna.pl
@@ -6373,6 +6384,7 @@ www.patnixrealtor.com
 www.pato.pl
 www.patrickglobalusa.com
 www.patrykchilewicz.pl
+www.pattern-trader.net
 www.paulinajanowicz.pl
 www.pawelkuniec.pl
 www.paweltyniec.pl
@@ -6445,6 +6457,7 @@ www.planet-tachyon.com
 www.plastiquedesign.pl
 www.platinumprestige.pl
 www.platnosc.paczka-48.com
+www.platnosc.podatkigov.net
 www.platnosc.twoj-kurier.com
 www.platnosc.twojkurier.com
 www.play.appiq.mobi
@@ -6508,6 +6521,8 @@ www.pocztex-48.net
 www.pocztexpolska24.com
 www.pod004.site
 www.podarujmamiesukienke.pl
+www.podatek2020.net
+www.podatkigov.net
 www.podatnik.net
 www.podbiegi.pl
 www.podbykiem.pl
@@ -6553,6 +6568,7 @@ www.pomerania-bn.pl
 www.pomockredytowa.net
 www.pomoc.kylos.pl
 www.pomocnapozyczka.pro
+www.pomoc.sie-pomaga.net
 www.pomorskidom.pl
 www.pomozbudowac.pl
 www.popcornvod.com
@@ -6897,6 +6913,7 @@ www.seanse24.pl
 www.seansikowo.pl
 www.seansobox.pl
 www.searchrapid.pl
+www.searchwinner.site
 www.sebbike.pl
 www.secondhand-gwo24.pl
 www.secondland.pl
@@ -6951,6 +6968,7 @@ www.siderpiping.com
 www.sidnoy.site
 www.siec34.pl
 www.siedleckapogon.pl
+www.sie-pomaga.net
 www.sigma1.eu
 www.silcan.pl
 www.silesiatours.pl
