@@ -5926,7 +5926,6 @@ hb-us.adtech.advertising.com
 hb.vntsm.com
 hdj.baidu.com
 heartbeat.tv.kuyun.com
-heatmaprestapi-production.eu-west-1.elasticbeanstalk.com
 heavy-d.openx.net
 heliosiq.adtech.de
 helix.inmobi.com
