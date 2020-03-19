@@ -3454,6 +3454,7 @@ meteorsolutions.com
 metering.pagesuite.com
 metric-agent.i10c.net
 metric.inetcore.com
+metric.ipv6test.net
 metric.nwsource.com
 metricool.com
 metrics.apartments.com
@@ -3685,7 +3686,6 @@ myvisualiq.net
 mywebstats.com.au
 mywebstats.org
 n74s9.com
-n8s.jp
 naayna.com
 nabaza.com
 nablabee.com
