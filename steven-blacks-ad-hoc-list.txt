@@ -121,12 +121,10 @@ analytics.archive.org
 analytics-digit-in.cdn.ampproject.org
 analytics.ero-advertising.com
 analytics.ff.avast.com
-analytics.jabong.com
 analytics.lk.api.ditto.com
 analytics.logsss.com
 analytics.mopub.com
 analytics.pokki.com
-analytics.samdd.me
 an.batmobi.net
 androidads23.adcolony.com
 anners.ero-advertising.com
@@ -405,7 +403,6 @@ imprhkmp.taboola.com
 imprlatbmp.taboola.com
 imp.startappservice.com
 in8.zog.link
-incoming.telemetry.mozilla.org
 indiaonclick.com
 in-gmtdmp.mookie1.com
 init.startappservice.com
@@ -667,7 +664,6 @@ tracking.ero-advertising.com
 tracking.i2w.io
 tracking.intl.miui.com
 tracking.lenzmx.com
-tracking.miui.com
 tracking-thirdparty.i2w.io
 track.tenjin.io
 tradersbrokers.com
