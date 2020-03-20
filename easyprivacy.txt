@@ -1254,6 +1254,7 @@ cmp.dreamlab.pl
 cmp.greenbot.com
 cmp.macworld.com
 cmp.macworld.co.uk
+cmp.osano.com
 cmp.pcworld.com
 cmp.pcworld.co.nz
 cmp.pcworld.idg.com.au
@@ -3601,7 +3602,6 @@ mousestats.com
 mousetrace.com
 movable-ink-6710.com
 mowfruit.com
-mparticle.com
 m-pathy.com
 mpianalytics.com
 mplxtms.com
@@ -3876,7 +3876,6 @@ onetag.io
 onetag-sys.com
 ongsono.com
 on-line.lv
-online-metrix.net
 onlinepbx.ru
 onlinereserchstatistics.online
 onlinewebstat.com
@@ -4058,7 +4057,6 @@ ping.dozuki.com
 ping-fast.com
 ping.hellobar.com
 ping.hungama.com
-ping.idocdn.com
 pingil.com
 pingjs.qq.com
 pingomatic.com
@@ -4727,7 +4725,6 @@ sf14g.com
 sftrack.searchforce.net
 sgmnt.ticketswap.com
 sgphctileh-a.akamaihd.net
-sgqcvfjvr.onet.pl
 shareasale.com
 shared.65twenty.com
 sharppatch.com
@@ -4739,6 +4736,7 @@ shippinginsights.com
 shockinggrass.com
 shockingship.com
 shoelace.com
+shopmetric.rediff.com
 shopnetic.com
 shoptimally.com
 showheroes.com

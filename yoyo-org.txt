@@ -489,7 +489,6 @@ adserver.nydailynews.com
 adserver.o2.pl
 adserver.oddschecker.com
 adserver.omroepzeeland.nl
-ad-serverparc.nl
 adserver.pl
 adserverplus.com
 adserver.portugalmail.net
@@ -848,7 +847,6 @@ ad.wavu.hu
 ad.way.cz
 ad.weatherbug.com
 adwhirl.com
-adwitserver.com
 adworldnetwork.com
 adworx.at
 adworx.nl
@@ -1281,6 +1279,7 @@ clevernt.com
 click2freemoney.com
 click.a-ads.com
 clickability.com
+click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
@@ -1293,6 +1292,7 @@ clickedyclick.com
 click.fool.com
 clickfuse.com
 clickhereforcellphones.com
+clickhouse.com
 clickhype.com
 click.kmindex.ru
 clicklink.jp
@@ -1434,7 +1434,6 @@ d2cmedia.ca
 d.adroll.com
 dakic-ia-300.com
 damdoor.com
-danban.com
 dancemistake.com
 dapper.net
 dashbida.com
@@ -2486,7 +2485,6 @@ pubmine.com
 pubnative.net
 pub.network
 pub.realmedia.fr
-pubs.lemonde.fr
 puffyloss.com
 puffypull.com
 puffypurpose.com
@@ -3184,7 +3182,6 @@ wellmadefrog.com
 werbung.meteoxpress.com
 wetrack.it
 whaleads.com
-whenu.com
 wheredoyoucomefrom.ovh
 whirlwealth.com
 whiskyqueue.com

@@ -2218,6 +2218,7 @@ mobilejmp.com
 mobileofferplace.site
 mobile-redirection.com
 mobilerewards.io
+mobilnarecepta.pl
 mobilnyurlop.pl
 mobiloutlet.pl
 mobiluj.sk
@@ -2550,6 +2551,7 @@ onet24-polska.space
 onliine.pl
 onlineappcheats.com
 onlinefachowiec.pl
+onlinehd.pl
 onlinekino.pl
 onlinerekruter.com
 onlinereward.site
@@ -3083,6 +3085,7 @@ reaganlighting.com
 real-app.date
 realnyzarobek.pl
 reasport.pl
+recepta.com.pl
 receptanaszczescie.pl
 recommendedlab.com
 rectangledownloads.com
@@ -3414,6 +3417,7 @@ speedyshare.com
 spirotiger.pl
 spisfirm24.pl
 spisradiowy.eu
+splac-dlug.com
 splitrock.pl
 spluczto.pl
 splywysuprasl.pl
@@ -3940,6 +3944,7 @@ wardon.pl
 warsawhardcore.pl
 warsawlimousine.pl
 warszawafakty.eu
+warszawa-info24.pl
 warterfoods.pl
 wartomiec.pl
 wawalot.pl
@@ -6255,6 +6260,7 @@ www.mobilejmp.com
 www.mobileofferplace.site
 www.mobile-redirection.com
 www.mobilerewards.io
+www.mobilnarecepta.pl
 www.mobilnyurlop.pl
 www.mobiloutlet.pl
 www.mobiluj.sk
@@ -6587,6 +6593,7 @@ www.onet24-polska.space
 www.onliine.pl
 www.onlineappcheats.com
 www.onlinefachowiec.pl
+www.onlinehd.pl
 www.onlinekino.pl
 www.onlinerekruter.com
 www.onlinereward.site
@@ -7090,6 +7097,7 @@ www.reaganlighting.com
 www.real-app.date
 www.realnyzarobek.pl
 www.reasport.pl
+www.recepta.com.pl
 www.receptanaszczescie.pl
 www.recommendedlab.com
 www.rectangledownloads.com
@@ -7421,6 +7429,7 @@ www.speedyshare.com
 www.spirotiger.pl
 www.spisfirm24.pl
 www.spisradiowy.eu
+www.splac-dlug.com
 www.splitrock.pl
 www.spluczto.pl
 www.splywysuprasl.pl
@@ -7947,6 +7956,7 @@ www.wardon.pl
 www.warsawhardcore.pl
 www.warsawlimousine.pl
 www.warszawafakty.eu
+www.warszawa-info24.pl
 www.warterfoods.pl
 www.wartomiec.pl
 www.wawalot.pl
