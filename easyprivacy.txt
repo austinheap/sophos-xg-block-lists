@@ -2412,6 +2412,7 @@ funneld.com
 funn.graphiq.com
 funstage.com
 fuse-data.com
+fuse.forbes.com
 fusestats.com
 fusion.bonniertidskrifter.se
 future-fie-assets.co.uk
@@ -5407,6 +5408,7 @@ tag.boulanger.fr
 tag.brandcdn.com
 tagcdn.com
 tagger.opecloud.com
+tagger.ope.scmp.com
 tag.goldenbees.fr
 tagifydiageo.com
 tag.leadplace.fr
