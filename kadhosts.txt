@@ -238,7 +238,6 @@ appiq.mobi
 apple.com-mac-booster.live
 apple.com-macos-clean-systems.live
 apple.com-repair.live
-apple.com-repair-os.live
 apple.com-scan.live
 apple.com-scan-mac.live
 apple.com-shield.live
@@ -315,7 +314,6 @@ avanti-pizza.pl
 avaparse.ir
 avbtrk.com
 avema.pl
-aveplay.com
 aveprize.com
 avita.net.pl
 awarialaptopa.pl
@@ -381,7 +379,6 @@ best-sales.top
 bestselections.top
 betterware.pl
 be-wild.pl
-bezbaz.net
 bezbiku.pro
 bezpieczne-nieruchomosci.pl
 bfglasses.com
@@ -548,7 +545,6 @@ butysportowereebok.pl
 buty-superstar.pl
 butysuperstar.pl
 butytblpromocje.pl
-butytimberlandtanio.pl
 butyuggaustralia.pl
 butyultraboost.com
 butyultraboost.pl
@@ -873,7 +869,6 @@ doladowania-telefonu.pl
 doladowanie50pln.ujm.pl
 doladujfona.net
 doladujfona.org
-domainreward.site
 domekpoddebami.pl
 domhandlowy.net
 dominikhalas.pl
@@ -894,7 +889,6 @@ dotabet100.com
 dotabet103.com
 doulawpoznaniu.pl
 dowmarkets.com
-download24.site
 download-24.tk
 download.apps.co.pl
 downloader48speeder.ga
@@ -975,7 +969,6 @@ e-blackwhite.pl
 ebook4all.com.pl
 ebookeo.pl
 ebuty.net.pl
-ebuty.org.pl
 ecampuskbds.com
 eccobuty.pl
 eccointrinsic.pl
@@ -1886,7 +1879,6 @@ kino-tv.pl
 kinovod.tv
 kinujemy.pl
 kipokahynr.xyz
-kirchbaum.pl
 kirstenbijlsma.com
 kitcarforum.pl
 kitchencollectivecool.info
@@ -2016,7 +2008,6 @@ kwiaty-wiosenne.pl
 kwwnaszagminanaszpowiat.pl
 kww-swiadomytczew.pl
 kyani.com
-l2f.info
 l3f.info
 labersa.com
 lacostepolska.pl
@@ -2432,6 +2423,7 @@ napraw-laptopa.waw.pl
 naprocare.pl
 naprzekor.com.pl
 nartypomorze.pl
+narzedzia.club
 narzedzia-fb.blogspot.com
 narzedziareczne.com.pl
 nasdacoin.io
@@ -2473,7 +2465,6 @@ neomedia.in.net
 neonetmax.in.net
 neopozyczki.pl
 neospes.com
-neotech.in.net
 nepomucen-dorohusk.pl
 netfilmy.pl
 netflix.apps.co.pl
@@ -2601,7 +2592,6 @@ odkrywamyzakryte.com
 odkwaszacz.pl
 odmakaroniarzy.pl
 odmladzanienasurowo.com
-odnawiamyelewacje.pl
 odysseyreact.pl
 odziezpl.pl
 odzyskajsnapy.blogspot.com
@@ -2615,6 +2605,7 @@ ogladaj-online24.pl
 ogladajzadarmo.com.pl
 ogladamy24.pl
 ogloszeniagratis.pl
+ogrodek.club
 ohkrab.pl
 okaleczenie15laatkii.blogspot.com
 okaleczon15-lattka.blogspot.com
@@ -2730,7 +2721,6 @@ papierosysklep.pl
 papla.pl
 parafiamogielnica.pl
 parafiaplaw.pl
-paraphingxmfevapk.xyz
 parasolmagazyn.pl
 parisboutique.co
 parkingairport.com.pl
@@ -2914,7 +2904,6 @@ poczta-polska.net
 pocztex-24.link
 pocztex-48.net
 pocztexpolska24.com
-pod004.site
 podarujmamiesukienke.pl
 podatek2020.net
 podatkigov.net
@@ -2967,7 +2956,6 @@ pomelostudio.pl
 pomerania-bn.pl
 pomockredytowa.net
 pomoc.kylos.pl
-pomocnapozyczka.pro
 pomoc.sie-pomaga.net
 pomorskidom.pl
 pomozbudowac.pl
@@ -2991,7 +2979,6 @@ pozastrefekomfortu.pl
 poziom3.pl
 poznajpodhale.pl
 pozycjeseksualne.pl
-pozyczka.click
 pozyczka-minutowa.pl
 pozyczkanatelefon24.pl
 pozyczka-tanio-szybko.pl
@@ -3038,7 +3025,6 @@ proficredit.pl
 profitechnik.pl
 profitgems.co
 profitmaximizer.co
-profitmaximizerpl.com
 profitmaximum.pl
 profit-trader.net
 profittravel.pl
@@ -3503,7 +3489,6 @@ sojbud.com.pl
 sokiwyciskane.pl
 sokolagd.pl
 sokratescafe.pl
-solarpl.pl
 solarsun.com.pl
 solidarniplus.pl
 solvens.pl
@@ -3651,6 +3636,7 @@ superfajnapolska.pl
 supergabuty.pl
 supergapolska.pl
 superhiperwakacje.com.pl
+supermedia.in.net
 super-pay.me
 supersciezka.pl
 superserwisy.pl
@@ -3728,11 +3714,9 @@ tajonis.com
 talkfusion.com
 talksinthecity.pl
 tangozwabrzycha.pl
-taniebutyfirmowe.pl
 taniebutymaster.com
 taniebutyonlinesklep.pl
 taniebutysklep.pl
-taniebutysportowe.com
 taniecchojnice.pl
 taniec-elfuego.pl
 taniemedia.pl
@@ -3799,7 +3783,6 @@ thelogo.pl
 themarketriser.com
 themovienation.com
 thenorthfacepl.pl
-thenorthfacepolska.pl
 thenorthfacesklep.pl
 thepropertydealerz.com
 thermomix.vorwerk.pl
@@ -4029,7 +4012,6 @@ vemalandsafaris.com
 ver.braintest4you.com
 verifycaptcha.com
 versalka.pl
-verypl.net
 veryvoga.pl
 vesda.pl
 vexacion.com
@@ -4049,7 +4031,6 @@ virtualgarden.pl
 visalink.pl
 visegrad4bicyclerace.pl
 vision2020.pl
-viskon.pl
 visvet.pl
 vitajuice.com.pl
 vital-fit.pl
@@ -4422,7 +4403,6 @@ www-apple-com-anti-virus-systems.virus-removals.com
 www.apple.com-mac-booster.live
 www.apple.com-macos-clean-systems.live
 www.apple.com-repair.live
-www.apple.com-repair-os.live
 www.apple.com-scan.live
 www.apple.com-scan-mac.live
 www.apple.com-shield.live
@@ -4500,7 +4480,6 @@ www.avanti-pizza.pl
 www.avaparse.ir
 www.avbtrk.com
 www.avema.pl
-www.aveplay.com
 www.aveprize.com
 www.avita.net.pl
 www.awarialaptopa.pl
@@ -4566,7 +4545,6 @@ www.best-sales.top
 www.bestselections.top
 www.betterware.pl
 www.be-wild.pl
-www.bezbaz.net
 www.bezbiku.pro
 www.bezpieczne-nieruchomosci.pl
 www.bfglasses.com
@@ -4733,7 +4711,6 @@ www.butysportowereebok.pl
 www.buty-superstar.pl
 www.butysuperstar.pl
 www.butytblpromocje.pl
-www.butytimberlandtanio.pl
 www.butyuggaustralia.pl
 www.butyultraboost.com
 www.butyultraboost.pl
@@ -5058,7 +5035,6 @@ www.doladowania-telefonu.pl
 www.doladowanie50pln.ujm.pl
 www.doladujfona.net
 www.doladujfona.org
-www.domainreward.site
 www.domekpoddebami.pl
 www.domhandlowy.net
 www.dominikhalas.pl
@@ -5079,7 +5055,6 @@ www.dotabet100.com
 www.dotabet103.com
 www.doulawpoznaniu.pl
 www.dowmarkets.com
-www.download24.site
 www.download-24.tk
 www.download.apps.co.pl
 www.downloader48speeder.ga
@@ -5160,7 +5135,6 @@ www.e-blackwhite.pl
 www.ebook4all.com.pl
 www.ebookeo.pl
 www.ebuty.net.pl
-www.ebuty.org.pl
 www.ecampuskbds.com
 www.eccobuty.pl
 www.eccointrinsic.pl
@@ -6071,7 +6045,6 @@ www.kino-tv.pl
 www.kinovod.tv
 www.kinujemy.pl
 www.kipokahynr.xyz
-www.kirchbaum.pl
 www.kirstenbijlsma.com
 www.kitcarforum.pl
 www.kitchencollectivecool.info
@@ -6201,7 +6174,6 @@ www.kwiaty-wiosenne.pl
 www.kwwnaszagminanaszpowiat.pl
 www.kww-swiadomytczew.pl
 www.kyani.com
-www.l2f.info
 www.l3f.info
 www.labersa.com
 www.lacostepolska.pl
@@ -6617,6 +6589,7 @@ www.napraw-laptopa.waw.pl
 www.naprocare.pl
 www.naprzekor.com.pl
 www.nartypomorze.pl
+www.narzedzia.club
 www.narzedzia-fb.blogspot.com
 www.narzedziareczne.com.pl
 www.nasdacoin.io
@@ -6658,7 +6631,6 @@ www.neomedia.in.net
 www.neonetmax.in.net
 www.neopozyczki.pl
 www.neospes.com
-www.neotech.in.net
 www.nepomucen-dorohusk.pl
 www.netfilmy.pl
 www.netflix.apps.co.pl
@@ -6786,7 +6758,6 @@ www.odkrywamyzakryte.com
 www.odkwaszacz.pl
 www.odmakaroniarzy.pl
 www.odmladzanienasurowo.com
-www.odnawiamyelewacje.pl
 www.odysseyreact.pl
 www.odziezpl.pl
 www.odzyskajsnapy.blogspot.com
@@ -6800,6 +6771,7 @@ www.ogladaj-online24.pl
 www.ogladajzadarmo.com.pl
 www.ogladamy24.pl
 www.ogloszeniagratis.pl
+www.ogrodek.club
 www.ohkrab.pl
 www.okaleczenie15laatkii.blogspot.com
 www.okaleczon15-lattka.blogspot.com
@@ -6915,7 +6887,6 @@ www.papierosysklep.pl
 www.papla.pl
 www.parafiamogielnica.pl
 www.parafiaplaw.pl
-www.paraphingxmfevapk.xyz
 www.parasolmagazyn.pl
 www.parisboutique.co
 www.parkingairport.com.pl
@@ -7069,7 +7040,6 @@ www.poczta-polska.net
 www.pocztex-24.link
 www.pocztex-48.net
 www.pocztexpolska24.com
-www.pod004.site
 www.podarujmamiesukienke.pl
 www.podatek2020.net
 www.podatkigov.net
@@ -7122,7 +7092,6 @@ www.pomelostudio.pl
 www.pomerania-bn.pl
 www.pomockredytowa.net
 www.pomoc.kylos.pl
-www.pomocnapozyczka.pro
 www.pomoc.sie-pomaga.net
 www.pomorskidom.pl
 www.pomozbudowac.pl
@@ -7146,7 +7115,6 @@ www.pozastrefekomfortu.pl
 www.poziom3.pl
 www.poznajpodhale.pl
 www.pozycjeseksualne.pl
-www.pozyczka.click
 www.pozyczka-minutowa.pl
 www.pozyczkanatelefon24.pl
 www.pozyczka-tanio-szybko.pl
@@ -7193,7 +7161,6 @@ www.proficredit.pl
 www.profitechnik.pl
 www.profitgems.co
 www.profitmaximizer.co
-www.profitmaximizerpl.com
 www.profitmaximum.pl
 www.profit-trader.net
 www.profittravel.pl
@@ -7658,7 +7625,6 @@ www.sojbud.com.pl
 www.sokiwyciskane.pl
 www.sokolagd.pl
 www.sokratescafe.pl
-www.solarpl.pl
 www.solarsun.com.pl
 www.solidarniplus.pl
 www.solvens.pl
@@ -7806,6 +7772,7 @@ www.superfajnapolska.pl
 www.supergabuty.pl
 www.supergapolska.pl
 www.superhiperwakacje.com.pl
+www.supermedia.in.net
 www.super-pay.me
 www.supersciezka.pl
 www.superserwisy.pl
@@ -7883,11 +7850,9 @@ www.tajonis.com
 www.talkfusion.com
 www.talksinthecity.pl
 www.tangozwabrzycha.pl
-www.taniebutyfirmowe.pl
 www.taniebutymaster.com
 www.taniebutyonlinesklep.pl
 www.taniebutysklep.pl
-www.taniebutysportowe.com
 www.taniecchojnice.pl
 www.taniec-elfuego.pl
 www.taniemedia.pl
@@ -7954,7 +7919,6 @@ www.thelogo.pl
 www.themarketriser.com
 www.themovienation.com
 www.thenorthfacepl.pl
-www.thenorthfacepolska.pl
 www.thenorthfacesklep.pl
 www.thepropertydealerz.com
 www.thermomix.vorwerk.pl
@@ -8184,7 +8148,6 @@ www.vemalandsafaris.com
 www.ver.braintest4you.com
 www.verifycaptcha.com
 www.versalka.pl
-www.verypl.net
 www.veryvoga.pl
 www.vesda.pl
 www.vexacion.com
@@ -8204,7 +8167,6 @@ www.virtualgarden.pl
 www.visalink.pl
 www.visegrad4bicyclerace.pl
 www.vision2020.pl
-www.viskon.pl
 www.visvet.pl
 www.vitajuice.com.pl
 www.vital-fit.pl
@@ -8411,7 +8373,6 @@ www.zajazdwika.pl
 www.zajonc.de
 www.zaksiazke.pl
 www.zakupyagd.net
-www.zakupymax.net
 www.zalukaj24.com
 www.zalukaj24.pl
 www.zalukaj.5v.pl
@@ -8495,7 +8456,6 @@ www.zouteze.pl
 www.zpafiska.pl
 www.zpotrzebyserc.pl
 www.zrobswiatlo.pl
-www.zs1chocznia.pl
 www.zskleczany.pl
 www.zsklembow.pl
 www.zsniemce.pl
@@ -8590,7 +8550,6 @@ zajazdwika.pl
 zajonc.de
 zaksiazke.pl
 zakupyagd.net
-zakupymax.net
 zalukaj24.com
 zalukaj24.pl
 zalukaj.5v.pl
@@ -8674,7 +8633,6 @@ zouteze.pl
 zpafiska.pl
 zpotrzebyserc.pl
 zrobswiatlo.pl
-zs1chocznia.pl
 zskleczany.pl
 zsklembow.pl
 zsniemce.pl
