@@ -2080,6 +2080,7 @@ enticelabs.com
 entryhit.wp.pl
 enviousshape.com
 eolcdn.com
+ep00.epimg.net
 ep4p.com
 e-pagerank.net
 eperfectdata.com
@@ -2926,6 +2927,7 @@ intrastats.com
 investhash.com
 invisioncloudstats.com
 invitejs.trustpilot.com
+invite.leanlab.co
 invitemedia.com
 invoca.net
 invoca.solutions
@@ -3136,7 +3138,6 @@ leadsrx.com
 leadtracking.plumvoice.com
 leadvision.dotmailer.co.uk
 leadzu.com
-leanlab.co
 leanplum.com
 leaplunchroom.com
 ledhenone.com
