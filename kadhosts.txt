@@ -580,6 +580,7 @@ capri-zwolen.pl
 carambaba.com
 carolinakurier.com
 carson2polska.com
+carvertical.com
 casada.pl
 casadasklep.pl
 cashbackworld.com
@@ -1193,6 +1194,7 @@ fasterfiles.net
 favierex.pl
 favoriteadrequest.com
 fbcolor.blogspot.com
+fbdowner.com
 fbhrobud.pl
 fb-kolor.blogspot.com
 fblinker.com
@@ -1271,6 +1273,7 @@ filmserialeonlineee.blogspot.com
 filmstube.pl
 filmu.pl
 filmvod.pl
+filmy4u.pl
 filmyfilmy.pl
 filmy-i-seriale.pl
 filmyiseriale.pw
@@ -2224,6 +2227,7 @@ mas1o.pl
 masazstarogard.com.pl
 masenkotrkr.com
 masiodls.com
+maska-oddechowa-kn95-pl.com
 masterprof.warzonedns.com
 matfi.pl
 matlag.pl
@@ -2424,6 +2428,7 @@ myludzie.pl
 my-motivator.pl
 mysafemarket.com
 myslozbrodnia.pl
+mytraffic.pl
 mywallart.pl
 myway.com
 myworld.com
@@ -3160,6 +3165,7 @@ pyrchla.pl
 pysznatoskania.pl
 pz21.pl
 pzu.services
+q809n.fbdowner.com
 qbrak.pl
 qianhua.pl
 qlimatiq.pl
@@ -4116,6 +4122,7 @@ wartomiec.pl
 wawalot.pl
 waznywilkiel.pl
 wczaso.pl
+wd-8.fbdowner.com
 wealthray4u.com
 wealthyme.warzonedns.com
 weartexhibitions.com
@@ -4794,6 +4801,7 @@ www.capri-zwolen.pl
 www.carambaba.com
 www.carolinakurier.com
 www.carson2polska.com
+www.carvertical.com
 www.casada.pl
 www.casadasklep.pl
 www.cashbackworld.com
@@ -5407,6 +5415,7 @@ www.fasterfiles.net
 www.favierex.pl
 www.favoriteadrequest.com
 www.fbcolor.blogspot.com
+www.fbdowner.com
 www.fbhrobud.pl
 www.fb-kolor.blogspot.com
 www.fblinker.com
@@ -5485,6 +5494,7 @@ www.filmserialeonlineee.blogspot.com
 www.filmstube.pl
 www.filmu.pl
 www.filmvod.pl
+www.filmy4u.pl
 www.filmyfilmy.pl
 www.filmy-i-seriale.pl
 www.filmyiseriale.pw
@@ -6438,6 +6448,7 @@ www.mas1o.pl
 www.masazstarogard.com.pl
 www.masenkotrkr.com
 www.masiodls.com
+www.maska-oddechowa-kn95-pl.com
 www.masterprof.warzonedns.com
 www.matfi.pl
 www.matlag.pl
@@ -6638,6 +6649,7 @@ www.myludzie.pl
 www.my-motivator.pl
 www.mysafemarket.com
 www.myslozbrodnia.pl
+www.mytraffic.pl
 www.mywallart.pl
 www.myway.com
 www.myworld.com
@@ -7344,6 +7356,7 @@ www.pyrchla.pl
 www.pysznatoskania.pl
 www.pz21.pl
 www.pzu.services
+www.q809n.fbdowner.com
 www.qbrak.pl
 www.qianhua.pl
 www.qlimatiq.pl
@@ -8300,6 +8313,7 @@ www.wartomiec.pl
 www.wawalot.pl
 www.waznywilkiel.pl
 www.wczaso.pl
+www.wd-8.fbdowner.com
 www.wealthray4u.com
 www.wealthyme.warzonedns.com
 www.weartexhibitions.com
