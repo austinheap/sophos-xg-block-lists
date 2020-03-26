@@ -55,7 +55,7 @@ ac-feedback.com
 aclante.pl
 acneuro.pl
 acninc.com
-aconcagua2010.pl$all
+aconcagua2010.pl
 acontrario.pl
 activa-ks.pl
 act-natural.pl
@@ -178,6 +178,7 @@ alldc.pw
 allegro.ogloszenie.best
 allegro.ogloszenie.space
 allegro.pl-nowe-regulamini7913.uhu362.com
+allegro.pl.showltem.pl
 allegro.targi.pl
 allenit.pl
 alle-perfumy.pl
@@ -1193,6 +1194,7 @@ fajnefanty.com
 fajne-filmy.pl
 fajnepiosenki.pl
 fajnewierszyki.pl
+fakt24warszawa.com.pl
 faktopedia.com.pl
 fakturo-wnia.cf
 fakturo-wnia.ga
@@ -1513,6 +1515,7 @@ getimmediateedge.com
 getleads.pl
 get-payment.pl
 ggserwis.pl
+ghastlyf.xyz
 gh-cup.pl
 gift19.club
 gift-cards.co.pl
@@ -1786,6 +1789,7 @@ inovscope.pt
 inpost24.me
 in-post.net
 in-post.online
+in-post.org
 insanepays.com
 inspektorzyzieleni.pl
 insplug.pl
@@ -2773,6 +2777,8 @@ oplaca-sie.pl
 oplac-paczka24.com
 oplac-zaleglosc.eu
 oplanetach.pl
+oplat1y.com
+oplata3981.tpskp.com
 oplata-zaleglosci.eu
 oplatyi.pl
 oponymagcarleszno.pl
@@ -2816,6 +2822,7 @@ p.24-7.help
 packza.dostawy24.com
 pacyfka99.pl
 paczka-48.com
+paczkadpd.com
 paczkaex-info.eu
 paczka.poczta-pay.com
 paczkomaty-pl.tk
@@ -3518,6 +3525,7 @@ shoesvclub.com
 shop.dr-rath.com
 shop.planet-tachyon.com
 shopsneakers.pl
+showltem.pl
 showmeflix.com
 showsplash.com
 showup-tv.com.pl
@@ -3994,6 +4002,7 @@ toysoutlet.pl
 tpc.hu
 tpm-consulting.com.pl
 tpnk.pl
+tpskp.com
 track.adsfast.com
 track-enable.com
 tradecompany.pl
@@ -4386,7 +4395,7 @@ www.ac-feedback.com
 www.aclante.pl
 www.acneuro.pl
 www.acninc.com
-www.aconcagua2010.pl$all
+www.aconcagua2010.pl
 www.acontrario.pl
 www.activa-ks.pl
 www.act-natural.pl
@@ -4509,6 +4518,7 @@ www.alldc.pw
 www.allegro.ogloszenie.best
 www.allegro.ogloszenie.space
 www.allegro.pl-nowe-regulamini7913.uhu362.com
+www.allegro.pl.showltem.pl
 www.allegro.targi.pl
 www.allenit.pl
 www.alle-perfumy.pl
@@ -5526,6 +5536,7 @@ www.fajnefanty.com
 www.fajne-filmy.pl
 www.fajnepiosenki.pl
 www.fajnewierszyki.pl
+www.fakt24warszawa.com.pl
 www.faktopedia.com.pl
 www.fakturo-wnia.cf
 www.fakturo-wnia.ga
@@ -5846,6 +5857,7 @@ www.getimmediateedge.com
 www.getleads.pl
 www.get-payment.pl
 www.ggserwis.pl
+www.ghastlyf.xyz
 www.gh-cup.pl
 www.gift19.club
 www.gift-cards.co.pl
@@ -6119,6 +6131,7 @@ www.inovscope.pt
 www.inpost24.me
 www.in-post.net
 www.in-post.online
+www.in-post.org
 www.insanepays.com
 www.inspektorzyzieleni.pl
 www.insplug.pl
@@ -7106,6 +7119,8 @@ www.oplaca-sie.pl
 www.oplac-paczka24.com
 www.oplac-zaleglosc.eu
 www.oplanetach.pl
+www.oplat1y.com
+www.oplata3981.tpskp.com
 www.oplata-zaleglosci.eu
 www.oplatyi.pl
 www.oponymagcarleszno.pl
@@ -7149,6 +7164,7 @@ www.p.24-7.help
 www.packza.dostawy24.com
 www.pacyfka99.pl
 www.paczka-48.com
+www.paczkadpd.com
 www.paczkaex-info.eu
 www.paczka.poczta-pay.com
 www.paczkomaty-pl.tk
@@ -7821,6 +7837,7 @@ www.shoesvclub.com
 www.shop.dr-rath.com
 www.shop.planet-tachyon.com
 www.shopsneakers.pl
+www.showltem.pl
 www.showmeflix.com
 www.showsplash.com
 www.showup-tv.com.pl
@@ -8297,6 +8314,7 @@ www.toysoutlet.pl
 www.tpc.hu
 www.tpm-consulting.com.pl
 www.tpnk.pl
+www.tpskp.com
 www.track.adsfast.com
 www.track-enable.com
 www.tradecompany.pl
@@ -8728,6 +8746,7 @@ www.zamiana-koloru.blogspot.com
 www.zamieszkajwmlawie.pl
 www.zamowienia-priorytetowe.pl
 www.zapasyzgierskie.pl
+www.zaplaty.net
 www.zaprojektujiwybuduj.pl
 www.zarabativaisazartom.net
 www.zarabiajnablogach.pl
@@ -8909,6 +8928,7 @@ zamiana-koloru.blogspot.com
 zamieszkajwmlawie.pl
 zamowienia-priorytetowe.pl
 zapasyzgierskie.pl
+zaplaty.net
 zaprojektujiwybuduj.pl
 zarabativaisazartom.net
 zarabiajnablogach.pl
