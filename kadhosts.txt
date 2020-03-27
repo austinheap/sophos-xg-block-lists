@@ -184,6 +184,7 @@ allianzloans.com
 allonline.pl
 all-player.pl
 allplayer.pl
+allpl.club
 allstarpromocao.pl
 allstarpromocja.pl
 allstarwyprzedaz.pl
@@ -972,6 +973,7 @@ dzieciakisportaki.pl
 dzieciznatura.pl
 dziendobry.org.pl
 dziennikkcal.pl
+dziennikprasowy.eu
 dziennik.warszawa.pl
 dzikieziemniaki.pl
 dzisiejszefakty.xyz
@@ -1384,6 +1386,7 @@ fotonaturalnie.pl
 fotoografie-pobierz.eu
 fotoquznia.com.pl
 fotosefer.pl
+foto-set.com
 fotowpis.pl
 foto-zdjecia.24.eu
 fotozwardon.pl
@@ -1534,6 +1537,7 @@ globalkompleks.pl
 globile.co
 glob-tech.com.pl
 glosowanie.ujm.pl
+gls-parcel.com
 gmagazyn.pl
 gminapiekoszow.pl
 gnprojekt.pl
@@ -1569,6 +1573,7 @@ gotowkanadowod.pl
 gotowkanadzis.pl
 gotowkatutaj.pl
 gotsprouts.com
+gov-24.com
 gozoku.pl
 gplay-store.ru
 gpmandiri.com
@@ -1941,7 +1946,6 @@ ketabnema.com
 ketorecipeslchf.site
 keykong.eu
 kgf-pryzmat.pl
-kiboinvest.eu
 kickstore.pl
 kickz4u.pl
 kidstudio.pl
@@ -2657,7 +2661,6 @@ nowenktanio.pl
 noweprebuty.pl
 nowina-pb.pl
 nowinki.blog-online.eu
-nowita-zakopane.pl
 nowoczesnafizjoterapia.pl
 nowosczdrowieporadyvlc.pl
 nowotnyart.pl
@@ -2824,6 +2827,7 @@ paoladesentis.com
 papierofon.pl
 papierosysklep.pl
 papla.pl
+paqu24.com
 parafiamogielnica.pl
 parafiaplaw.pl
 parasolmagazyn.pl
@@ -3162,7 +3166,6 @@ promocjaeuro.pl
 promocjezkauflandu.24.eu
 promotions.monthlywinners.com
 pronhubhd.com
-proobuwie.pl
 propdfconverter.com
 prophere.pl
 proslandvietnam.com
@@ -3929,7 +3932,6 @@ tiande.pl
 tiandepolska.pl
 tiande.ru
 tiandewarszawa.pl
-tiande.wroclaw.pl
 tiens.pl
 tigergym.com.pl
 tilido.com
@@ -4310,6 +4312,7 @@ wspolniedlaprzyszlosci.pl
 wszyscyrodacy.com
 wszystkiemiasta.pl
 wszystko-na-temat.pl
+wszystkowpolsce.online
 wtmtrack.com
 wuus.org.cn
 ww1.shinden-anime.info
@@ -4502,6 +4505,7 @@ www.allianzloans.com
 www.allonline.pl
 www.all-player.pl
 www.allplayer.pl
+www.allpl.club
 www.allstarpromocao.pl
 www.allstarpromocja.pl
 www.allstarwyprzedaz.pl
@@ -5292,6 +5296,7 @@ www.dzieciakisportaki.pl
 www.dzieciznatura.pl
 www.dziendobry.org.pl
 www.dziennikkcal.pl
+www.dziennikprasowy.eu
 www.dziennik.warszawa.pl
 www.dzikieziemniaki.pl
 www.dzisiejszefakty.xyz
@@ -5704,6 +5709,7 @@ www.fotonaturalnie.pl
 www.fotoografie-pobierz.eu
 www.fotoquznia.com.pl
 www.fotosefer.pl
+www.foto-set.com
 www.fotowpis.pl
 www.foto-zdjecia.24.eu
 www.fotozwardon.pl
@@ -5854,6 +5860,7 @@ www.globalkompleks.pl
 www.globile.co
 www.glob-tech.com.pl
 www.glosowanie.ujm.pl
+www.gls-parcel.com
 www.gmagazyn.pl
 www.gminapiekoszow.pl
 www.gnprojekt.pl
@@ -5889,6 +5896,7 @@ www.gotowkanadowod.pl
 www.gotowkanadzis.pl
 www.gotowkatutaj.pl
 www.gotsprouts.com
+www.gov-24.com
 www.gozoku.pl
 www.gplay-store.ru
 www.gpmandiri.com
@@ -6261,7 +6269,6 @@ www.ketabnema.com
 www.ketorecipeslchf.site
 www.keykong.eu
 www.kgf-pryzmat.pl
-www.kiboinvest.eu
 www.kickstore.pl
 www.kickz4u.pl
 www.kidstudio.pl
@@ -6977,7 +6984,6 @@ www.nowenktanio.pl
 www.noweprebuty.pl
 www.nowina-pb.pl
 www.nowinki.blog-online.eu
-www.nowita-zakopane.pl
 www.nowoczesnafizjoterapia.pl
 www.nowosczdrowieporadyvlc.pl
 www.nowotnyart.pl
@@ -7144,6 +7150,7 @@ www.paoladesentis.com
 www.papierofon.pl
 www.papierosysklep.pl
 www.papla.pl
+www.paqu24.com
 www.parafiamogielnica.pl
 www.parafiaplaw.pl
 www.parasolmagazyn.pl
@@ -7452,7 +7459,6 @@ www.promocjaeuro.pl
 www.promocjezkauflandu.24.eu
 www.promotions.monthlywinners.com
 www.pronhubhd.com
-www.proobuwie.pl
 www.propdfconverter.com
 www.prophere.pl
 www.proslandvietnam.com
@@ -8219,7 +8225,6 @@ www.tiande.pl
 www.tiandepolska.pl
 www.tiande.ru
 www.tiandewarszawa.pl
-www.tiande.wroclaw.pl
 www.tiens.pl
 www.tigergym.com.pl
 www.tilido.com
@@ -8600,6 +8605,7 @@ www.wspolniedlaprzyszlosci.pl
 www.wszyscyrodacy.com
 www.wszystkiemiasta.pl
 www.wszystko-na-temat.pl
+www.wszystkowpolsce.online
 www.wtmtrack.com
 www.wuus.org.cn
 www.ww1.shinden-anime.info
