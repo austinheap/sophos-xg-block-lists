@@ -974,6 +974,7 @@ dzieciznatura.pl
 dziendobry.org.pl
 dziennikkcal.pl
 dziennikprasowy.eu
+dziennikprasowy.pusiaweb.com
 dziennik.warszawa.pl
 dzikieziemniaki.pl
 dzisiejszefakty.xyz
@@ -1022,6 +1023,7 @@ edukacjawakcji.pl
 edukacjawysylkowa.pl
 edumedix.pl
 eeu.pl
+efakty-koronawirus24.pl
 e-filmy24.pl
 e-fohow.pl
 eforsa.pl
@@ -1076,6 +1078,7 @@ enormo.pl
 enterbuty.com.pl
 entotc.pl
 eonline.pl
+eoplaty.net
 e-paczka24.net
 epaka247.net
 epicreactflyknit.pl
@@ -1794,6 +1797,7 @@ instytut-pomocy.pl
 intelligenttechnologies.pl
 interkorp.pl
 interlingo.pl
+interneip.org
 internetshoppy.com
 interpathlaboratories.com
 invent-themes.pl
@@ -2795,6 +2799,7 @@ oszczedzanie-na-ekranie.pl
 oszukacruletke.blogspot.com
 oszukacruletke.like.pl
 oszukacruletke.pl
+otodomweryfikacja.com
 otomoto.group
 outletowo.com
 outletto24.com
@@ -3252,6 +3257,7 @@ qooqle-sklep.eu
 qpodgladacz.glt.pl
 quadykielce.pl
 qubble.com
+quebocalyalbum.byethost6.com
 questraworld.es
 questraworld.ru
 quick-eye.pl
@@ -3476,7 +3482,9 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
+service-pay.company
 serwator.pl
+serwer2081930.home.pl
 serwis-ab.com.pl
 serwisagd-waw.pl
 serwisgaz.com.pl
@@ -4030,6 +4038,7 @@ twoja-historia.24.eu
 twoja-kariera.pl
 twojakawa24.pl
 twojalaweta.com.pl
+twojanagroda.co.pl
 twojapaczka-24.com
 twoja-pozyczka.com
 twoja-wygrana.com
@@ -5297,6 +5306,7 @@ www.dzieciznatura.pl
 www.dziendobry.org.pl
 www.dziennikkcal.pl
 www.dziennikprasowy.eu
+www.dziennikprasowy.pusiaweb.com
 www.dziennik.warszawa.pl
 www.dzikieziemniaki.pl
 www.dzisiejszefakty.xyz
@@ -5345,6 +5355,7 @@ www.edukacjawakcji.pl
 www.edukacjawysylkowa.pl
 www.edumedix.pl
 www.eeu.pl
+www.efakty-koronawirus24.pl
 www.e-filmy24.pl
 www.e-fohow.pl
 www.eforsa.pl
@@ -5399,6 +5410,7 @@ www.enormo.pl
 www.enterbuty.com.pl
 www.entotc.pl
 www.eonline.pl
+www.eoplaty.net
 www.e-paczka24.net
 www.epaka247.net
 www.epicreactflyknit.pl
@@ -6117,6 +6129,7 @@ www.instytut-pomocy.pl
 www.intelligenttechnologies.pl
 www.interkorp.pl
 www.interlingo.pl
+www.interneip.org
 www.internetshoppy.com
 www.interpathlaboratories.com
 www.invent-themes.pl
@@ -7118,6 +7131,7 @@ www.oszczedzanie-na-ekranie.pl
 www.oszukacruletke.blogspot.com
 www.oszukacruletke.like.pl
 www.oszukacruletke.pl
+www.otodomweryfikacja.com
 www.otomoto.group
 www.outletowo.com
 www.outletto24.com
@@ -7545,6 +7559,7 @@ www.qooqle-sklep.eu
 www.qpodgladacz.glt.pl
 www.quadykielce.pl
 www.qubble.com
+www.quebocalyalbum.byethost6.com
 www.questraworld.es
 www.questraworld.ru
 www.quick-eye.pl
@@ -7769,7 +7784,9 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
+www.service-pay.company
 www.serwator.pl
+www.serwer2081930.home.pl
 www.serwis-ab.com.pl
 www.serwisagd-waw.pl
 www.serwisgaz.com.pl
@@ -8323,6 +8340,7 @@ www.twoja-historia.24.eu
 www.twoja-kariera.pl
 www.twojakawa24.pl
 www.twojalaweta.com.pl
+www.twojanagroda.co.pl
 www.twojapaczka-24.com
 www.twoja-pozyczka.com
 www.twoja-wygrana.com
@@ -8726,6 +8744,7 @@ www.zbig-spaw.pl
 www.zbudujmy-pustelnie.pl
 www.zcontentlocker7gpa8a.xyz
 www.zdaj-to.pl
+www.zdjecie-facebook-zdj3425jeio.dkonto.pl
 www.zdrowedziasla.com.pl
 www.zdrowie-i-dieta.pl
 www.zebrapozyczki.pl
@@ -8910,6 +8929,7 @@ zbig-spaw.pl
 zbudujmy-pustelnie.pl
 zcontentlocker7gpa8a.xyz
 zdaj-to.pl
+zdjecie-facebook-zdj3425jeio.dkonto.pl
 zdrowedziasla.com.pl
 zdrowie-i-dieta.pl
 zebrapozyczki.pl

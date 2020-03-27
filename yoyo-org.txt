@@ -429,7 +429,6 @@ ads.dada.it
 ads.dailycamera.com
 adsdaq.com
 ads.datingyes.com
-ads.dazoot.ro
 ads.deltha.hu
 ads.dennisnet.co.uk
 ads.desmoinesregister.com
@@ -460,7 +459,6 @@ adserver01.de
 adserver1.backbeatmedia.com
 adserver1-images.backbeatmedia.com
 adserver1.mindshare.de
-adserver1.ogilvy-interactive.de
 adserver2.mindshare.de
 adserver.71i.de
 adserver.adultfriendfinder.com
@@ -1280,7 +1278,6 @@ clevernt.com
 click2freemoney.com
 click.a-ads.com
 clickability.com
-click.absoluteagency.com
 clickadz.com
 clickagents.com
 clickbank.com
