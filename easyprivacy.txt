@@ -1769,6 +1769,7 @@ deep.bi
 deepc.cc
 deepchannel.com
 deepknow.egoid.me
+defacto-analytics.net
 dejavu.mercadolivre.com.br
 dejavu.mlapps.com
 delegatediscussion.com
@@ -2221,6 +2222,7 @@ ewebanalytics.com
 ewebcounter.com
 e-webtrack.net
 exactag.com
+exacttarget.com
 exapxl.de
 exclusiveclicks.com
 exd4.destinia.com.au
@@ -2840,6 +2842,7 @@ imp.go.sohu.com
 imp-media-lab.thenewslens.com
 imp.optaim.com
 importedincrease.com
+importedinsect.com
 impress.vcita.com
 imrk.net
 imrtrack.com
@@ -3315,6 +3318,7 @@ loopa.net.au
 loopfuse.net
 l.ooyala.com
 lopley.com
+lore.circulate.com
 losecounter.de
 losital.ru
 losstrack.com
@@ -3522,6 +3526,7 @@ mj23.eulerian.com
 mklik.gazeta.pl
 mkt3261.com
 mkt51.net
+mkt6333.com
 mkt941.com
 mktoresp.com
 ml314.com
@@ -3602,6 +3607,7 @@ mouse3k.com
 mouseflow.com
 mousestats.com
 mousetrace.com
+movable-ink-397.com
 movable-ink-6710.com
 mowfruit.com
 m-pathy.com
@@ -3866,6 +3872,7 @@ omniture.theglobeandmail.com
 om.rogersmedia.com
 oms.expedia.com
 omt.shinobi.jp
+omtvxcle.com
 onaudience.com
 ondu.ru
 onefeed.co.uk
@@ -4032,6 +4039,7 @@ pertholin.com
 petametrics.com
 petiteumbrella.com
 petitionermaster.appspot.com
+p.eyebuydirect-cmr.net
 pf.newegg.com
 p.gazeta.pl
 pgs.io
@@ -4479,6 +4487,7 @@ retcode.taobao.com
 retentionscience.com
 retrack.q-divisioncdn.de
 rettica.com
+returnpath.net
 reussissonsensemble.fr
 revdn.net
 revenuepilot.com
@@ -5185,6 +5194,7 @@ statsd.zmags.com
 stats.edicy.com
 stat.segitek.hu
 statsevent.com
+stats.extremetech.com
 stats.eyeviewdigital.com
 stats-factory.digitregroup.io
 stats.fd.nl

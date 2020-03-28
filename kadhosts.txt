@@ -165,6 +165,7 @@ alejagowniarzy.pl
 alejandravalladares.com.ve
 alerter.pl
 aleshop.pl
+alexjones.pl
 alexsoff.com
 alfabetnieruchomosci.pl
 alfa-projekt.com.pl
@@ -617,6 +618,7 @@ centrumdxn.pl
 centrummarek.pl
 centrum-medycyny.pl
 centrummedycyny.pl
+centrummonitoringuufo.pl
 centrumnaukowe.eu
 centrumofert.com
 centrumplay.pl
@@ -882,6 +884,7 @@ dobrykredyt.co.pl
 docdocu.pl
 docmartenspl.pl
 doctopdftech.com
+dofinasowanieregionalne.pl
 dogongulong.vn
 dogulcowo.pl
 doitbetterleftside.icu
@@ -1198,6 +1201,7 @@ fakturownia-pl.ga
 fakturownia-pl.gq
 faktury3941.org
 fakty24-live.eu
+fakty-koronawirus24.pl
 faktypolska10.b-cdn.net
 faktypolska11.b-cdn.net
 faktypolska12.b-cdn.net
@@ -1447,7 +1451,6 @@ fxgm.com
 fxnetwork.pl
 g3architekci.pl
 gabinetnewline.pl
-gabriela.ct8.pl
 gadajzdrow.eu
 gadzetygdynia.pl
 gagrat.co
@@ -1873,6 +1876,7 @@ jerzyzieba.com
 jetzone.pl
 jeunesseglobal.com
 jezyk-norwesk.pl
+jezykobcywdomu.eu
 jmbase.my
 joannabaginska.com.pl
 jodakurier.com
@@ -2032,6 +2036,7 @@ konkursynagrody.pl
 konradniedzwiedzki.pl
 konstancjanieruchomosci.com.pl
 korkomath.pl
+koronawirus.hekko24.pl
 koronawirusnews.com.pl
 koronawirusnews.net.pl
 kororoweszyszki.pl
@@ -2081,6 +2086,7 @@ kulalusramag.net
 kulinarne-rendez-vous.pl
 kulturalubuska.pl
 kupgo.net
+kupmaseczki.pl
 kupujemy.to
 kupujprzeztelefon.pl
 kur24pl.eu
@@ -2092,6 +2098,7 @@ kurier-platnosci.services
 kurier-pocztex24.com
 kurierr.eu
 kurierstas.info
+kursjezykowy.eu
 kurtkacgallegro.com
 kurtkanova.pl
 kurtkiwyprzedaz.pl
@@ -2505,6 +2512,7 @@ myslozbrodnia.pl
 mytraffic.pl
 mywallart.pl
 myway.com
+mywolniludzie.net
 myworld.com
 mzgov.net
 nabazarze.pl
@@ -2609,6 +2617,7 @@ niebieskiraj.pl
 niechoruje.pl
 niekulturalna.pl
 nielukrowana.pl
+niezaleznatelewizja.pl
 nikeairadidaszx.pl
 nikeairhuarache.pl
 nikeairmaxjewell.pl
@@ -2933,6 +2942,7 @@ planetazdrowia.com
 planet-tachyon.com
 plastiquedesign.pl
 platinumprestige.pl
+platnik247.online
 platnosci24.services
 platnosc.paczka-48.com
 platnosc.podatkigov.net
@@ -3136,6 +3146,7 @@ prescottdrive.pl
 prevalue.pl
 prezentacje-wiab.pl
 princessmask.pro
+prisonplanet.pl
 private.atlanticgam.es
 privateinvestigator.pl
 prizefestival.mobi
@@ -3179,6 +3190,7 @@ proslandvietnam.com
 prosoccer1.dyndns.info
 prosoccer2.dyndns.info
 prostykredyt.net
+protection-cellphone.fun
 protelfinanse.pl
 prouve.com
 provanto.pl
@@ -3732,6 +3744,7 @@ stkk.pl
 stolarniaweronika.pl
 stolarniazgorzelec.pl
 stomatologia-w.lublin.lu
+stop5g.com.pl
 stopgender.pl
 stopkomornikowi.pl
 stopnop.com.pl
@@ -4174,6 +4187,7 @@ vfastdownload.com
 vhvjj.top
 vidaxl.pl
 videodownloadconverter.com
+vider.info
 vidnet.pl
 vidplayer.pl
 vidzsource.net
@@ -4497,6 +4511,7 @@ www.alejagowniarzy.pl
 www.alejandravalladares.com.ve
 www.alerter.pl
 www.aleshop.pl
+www.alexjones.pl
 www.alexsoff.com
 www.alfabetnieruchomosci.pl
 www.alfa-projekt.com.pl
@@ -4951,6 +4966,7 @@ www.centrumdxn.pl
 www.centrummarek.pl
 www.centrum-medycyny.pl
 www.centrummedycyny.pl
+www.centrummonitoringuufo.pl
 www.centrumnaukowe.eu
 www.centrumofert.com
 www.centrumplay.pl
@@ -5216,6 +5232,7 @@ www.dobrykredyt.co.pl
 www.docdocu.pl
 www.docmartenspl.pl
 www.doctopdftech.com
+www.dofinasowanieregionalne.pl
 www.dogongulong.vn
 www.dogulcowo.pl
 www.doitbetterleftside.icu
@@ -5532,6 +5549,7 @@ www.fakturownia-pl.ga
 www.fakturownia-pl.gq
 www.faktury3941.org
 www.fakty24-live.eu
+www.fakty-koronawirus24.pl
 www.faktypolska10.b-cdn.net
 www.faktypolska11.b-cdn.net
 www.faktypolska12.b-cdn.net
@@ -5781,7 +5799,6 @@ www.fxgm.com
 www.fxnetwork.pl
 www.g3architekci.pl
 www.gabinetnewline.pl
-www.gabriela.ct8.pl
 www.gadajzdrow.eu
 www.gadzetygdynia.pl
 www.gagrat.co
@@ -6207,6 +6224,7 @@ www.jerzyzieba.com
 www.jetzone.pl
 www.jeunesseglobal.com
 www.jezyk-norwesk.pl
+www.jezykobcywdomu.eu
 www.jmbase.my
 www.joannabaginska.com.pl
 www.jodakurier.com
@@ -6366,6 +6384,7 @@ www.konkursynagrody.pl
 www.konradniedzwiedzki.pl
 www.konstancjanieruchomosci.com.pl
 www.korkomath.pl
+www.koronawirus.hekko24.pl
 www.koronawirusnews.com.pl
 www.koronawirusnews.net.pl
 www.kororoweszyszki.pl
@@ -6415,6 +6434,7 @@ www.kulalusramag.net
 www.kulinarne-rendez-vous.pl
 www.kulturalubuska.pl
 www.kupgo.net
+www.kupmaseczki.pl
 www.kupujemy.to
 www.kupujprzeztelefon.pl
 www.kur24pl.eu
@@ -6426,6 +6446,7 @@ www.kurier-platnosci.services
 www.kurier-pocztex24.com
 www.kurierr.eu
 www.kurierstas.info
+www.kursjezykowy.eu
 www.kurtkacgallegro.com
 www.kurtkanova.pl
 www.kurtkiwyprzedaz.pl
@@ -6839,6 +6860,7 @@ www.myslozbrodnia.pl
 www.mytraffic.pl
 www.mywallart.pl
 www.myway.com
+www.mywolniludzie.net
 www.myworld.com
 www.mzgov.net
 www.nabazarze.pl
@@ -6943,6 +6965,7 @@ www.niebieskiraj.pl
 www.niechoruje.pl
 www.niekulturalna.pl
 www.nielukrowana.pl
+www.niezaleznatelewizja.pl
 www.nikeairadidaszx.pl
 www.nikeairhuarache.pl
 www.nikeairmaxjewell.pl
@@ -7263,6 +7286,7 @@ www.planetazdrowia.com
 www.planet-tachyon.com
 www.plastiquedesign.pl
 www.platinumprestige.pl
+www.platnik247.online
 www.platnosci24.services
 www.platnosc.paczka-48.com
 www.platnosc.podatkigov.net
@@ -7440,6 +7464,7 @@ www.prescottdrive.pl
 www.prevalue.pl
 www.prezentacje-wiab.pl
 www.princessmask.pro
+www.prisonplanet.pl
 www.private.atlanticgam.es
 www.privateinvestigator.pl
 www.prizefestival.mobi
@@ -7483,6 +7508,7 @@ www.proslandvietnam.com
 www.prosoccer1.dyndns.info
 www.prosoccer2.dyndns.info
 www.prostykredyt.net
+www.protection-cellphone.fun
 www.protelfinanse.pl
 www.prouve.com
 www.provanto.pl
@@ -8036,6 +8062,7 @@ www.stkk.pl
 www.stolarniaweronika.pl
 www.stolarniazgorzelec.pl
 www.stomatologia-w.lublin.lu
+www.stop5g.com.pl
 www.stopgender.pl
 www.stopkomornikowi.pl
 www.stopnop.com.pl
@@ -8478,6 +8505,7 @@ www.vfastdownload.com
 www.vhvjj.top
 www.vidaxl.pl
 www.videodownloadconverter.com
+www.vider.info
 www.vidnet.pl
 www.vidplayer.pl
 www.vidzsource.net
