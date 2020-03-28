@@ -1187,6 +1187,7 @@ fajne-filmy.pl
 fajnepiosenki.pl
 fajnewierszyki.pl
 fakt24warszawa.com.pl
+fakt24warszawka.com.pl
 faktopedia.com.pl
 fakturo-wnia.cf
 fakturo-wnia.ga
@@ -2932,6 +2933,7 @@ planetazdrowia.com
 planet-tachyon.com
 plastiquedesign.pl
 platinumprestige.pl
+platnosci24.services
 platnosc.paczka-48.com
 platnosc.podatkigov.net
 platnosc.twoj-kurier.com
@@ -5519,6 +5521,7 @@ www.fajne-filmy.pl
 www.fajnepiosenki.pl
 www.fajnewierszyki.pl
 www.fakt24warszawa.com.pl
+www.fakt24warszawka.com.pl
 www.faktopedia.com.pl
 www.fakturo-wnia.cf
 www.fakturo-wnia.ga
@@ -7260,6 +7263,7 @@ www.planetazdrowia.com
 www.planet-tachyon.com
 www.plastiquedesign.pl
 www.platinumprestige.pl
+www.platnosci24.services
 www.platnosc.paczka-48.com
 www.platnosc.podatkigov.net
 www.platnosc.twoj-kurier.com
