@@ -7,6 +7,7 @@
 1maja18.pl
 1szychta.org.pl
 20pascals.nl
+247platnosci.online
 24-biznes.eu
 24fakty-sniadaniowe.pl
 24hoursready.cf
@@ -4356,6 +4357,7 @@ www.1elt.pl
 www.1maja18.pl
 www.1szychta.org.pl
 www.20pascals.nl
+www.247platnosci.online
 www.24-biznes.eu
 www.24fakty-sniadaniowe.pl
 www.24hoursready.cf
