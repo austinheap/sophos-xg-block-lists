@@ -977,6 +977,8 @@ dzieciakisportaki.pl
 dzieciznatura.pl
 dziendobry.org.pl
 dziennikkcal.pl
+dzienniknews.com.pl
+dzienniknews.pl
 dziennikprasowy.eu
 dziennikprasowy.pusiaweb.com
 dziennik.warszawa.pl
@@ -1202,6 +1204,7 @@ fakturownia-pl.ga
 fakturownia-pl.gq
 faktury3941.org
 fakty24-live.eu
+fakty24-swiat.pl
 fakty-koronawirus24.pl
 faktypolska10.b-cdn.net
 faktypolska11.b-cdn.net
@@ -1549,6 +1552,7 @@ gls-parcel.com
 gmagazyn.pl
 gminapiekoszow.pl
 gnprojekt.pl
+gnreg.com
 go2affise.com
 goadvert.pk
 go.bestmobiworld.com
@@ -2791,7 +2795,6 @@ orange-kodzik.890m.com
 oranzadaklub.pl
 orbis-pictus.pl
 orcadive.pl
-organiclife.com.pl
 organicmed.pl
 organogold.com
 orkiestrawszechczasow.pl
@@ -5332,6 +5335,8 @@ www.dzieciakisportaki.pl
 www.dzieciznatura.pl
 www.dziendobry.org.pl
 www.dziennikkcal.pl
+www.dzienniknews.com.pl
+www.dzienniknews.pl
 www.dziennikprasowy.eu
 www.dziennikprasowy.pusiaweb.com
 www.dziennik.warszawa.pl
@@ -5557,6 +5562,7 @@ www.fakturownia-pl.ga
 www.fakturownia-pl.gq
 www.faktury3941.org
 www.fakty24-live.eu
+www.fakty24-swiat.pl
 www.fakty-koronawirus24.pl
 www.faktypolska10.b-cdn.net
 www.faktypolska11.b-cdn.net
@@ -5904,6 +5910,7 @@ www.gls-parcel.com
 www.gmagazyn.pl
 www.gminapiekoszow.pl
 www.gnprojekt.pl
+www.gnreg.com
 www.go2affise.com
 www.goadvert.pk
 www.go.bestmobiworld.com
@@ -7146,7 +7153,6 @@ www.orange-kodzik.890m.com
 www.oranzadaklub.pl
 www.orbis-pictus.pl
 www.orcadive.pl
-www.organiclife.com.pl
 www.organicmed.pl
 www.organogold.com
 www.orkiestrawszechczasow.pl
