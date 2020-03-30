@@ -3083,6 +3083,7 @@ polskieetno.pl
 polskieinfo365.wordpress.com
 polskieinformacje24.eu
 polskieksporter.pl
+polskiemedia.online
 polskie-newsy.com.pl
 polskifilm.com.pl
 polski-poranek.pl
@@ -3348,6 +3349,7 @@ refundacjeregionalne.pl
 regionalnyportal.eu
 registrationofaccount.com
 reg-me.pl
+regulamin-wp.com
 rehab4pets.pl
 rehabilitant.rzeszow.re
 reimageplus.com
@@ -4329,6 +4331,7 @@ worldsementi.pl
 wosp.online
 wplogin.5v.pl
 w-polsce.pl
+wp-regulamin.com
 wpunkcie.pl
 wraplo.pl
 wrig.pl
@@ -7405,6 +7408,7 @@ www.polskieetno.pl
 www.polskieinfo365.wordpress.com
 www.polskieinformacje24.eu
 www.polskieksporter.pl
+www.polskiemedia.online
 www.polskie-newsy.com.pl
 www.polskifilm.com.pl
 www.polski-poranek.pl
@@ -7670,6 +7674,7 @@ www.refundacjeregionalne.pl
 www.regionalnyportal.eu
 www.registrationofaccount.com
 www.reg-me.pl
+www.regulamin-wp.com
 www.rehab4pets.pl
 www.rehabilitant.rzeszow.re
 www.reimageplus.com
@@ -8651,6 +8656,7 @@ www.worldsementi.pl
 www.wosp.online
 www.wplogin.5v.pl
 www.w-polsce.pl
+www.wp-regulamin.com
 www.wpunkcie.pl
 www.wraplo.pl
 www.wrig.pl
