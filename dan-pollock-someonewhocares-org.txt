@@ -11876,7 +11876,6 @@ uvimage.56.com
 uwz.oewabox.at
 v0.extreme-dm.com
 v0.stat.ku6.com
-v10.vortex-win.data.microsoft.com
 v16.56.com
 v1.browser-tools.systems
 v1.extreme-dm.com
