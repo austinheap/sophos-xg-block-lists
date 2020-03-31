@@ -137,6 +137,7 @@ a-counters.com
 acq.io
 acridtwist.com
 acs86.com
+acsbap.com
 act.acotedemoi.com
 actionallocator.com
 active24stats.nl
@@ -2357,6 +2358,7 @@ foundry42.com
 fourmtagservices.appspot.com
 fout.jp
 fpctraffic2.com
+fpjs.io
 fprnt.com
 fqsecure.com
 fqtag.com
@@ -2845,6 +2847,7 @@ imp-media-lab.thenewslens.com
 imp.optaim.com
 importedincrease.com
 importedinsect.com
+imp.pvnsolutions.com
 impress.vcita.com
 imrk.net
 imrtrack.com
