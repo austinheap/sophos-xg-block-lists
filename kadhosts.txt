@@ -43,7 +43,6 @@ ab4hr.com
 abbp35.com
 abckredyt.net
 abc.prawo.link
-abipoland.pl
 abirohokonar.pl
 about-preferences.host
 absolutezeros.duckdns.org
@@ -65,7 +64,6 @@ act.poznan.pl
 actraffic.com
 actus.org.pl
 adakom.pl
-adamdelivery.pl
 adamkepinski.pl
 adapterylaptopa.com
 adaranth.com
@@ -83,7 +81,6 @@ adidaspolska.pl
 adidasprzeceny.pl
 adidas-shop.pl
 adidasstansmithdamskie.pl
-adidastanio.pl
 adidasterrex.pl
 adidastrampkidamskie.pl
 adidastubularshadow.pl
@@ -129,7 +126,6 @@ airhuarache.pl
 airmax2017.pl
 airmax95.pl
 airmaxonlinesklep.pl
-airmaxpromocja.pl
 airmore.pl
 aju.pl
 akademiajasia.pl
@@ -436,7 +432,6 @@ biyunhui.com
 biznesplay.biz
 biznes-szkola.pl
 bkwbydgoszcz.pl
-blacklinepartners.pl
 blazejperdek.pl
 blekitnypakiet.pl
 blessonline.pl
@@ -661,7 +656,6 @@ chotto-ippuku.com
 chris-jasnowidz.pl
 chron-telefon.com
 chuckbutyonline.pl
-chucktaylor.pl
 chudykucharz.pl
 chukka.pl
 chwiledowygrania.pl
@@ -763,7 +757,6 @@ csgoskinsproject.pl
 cs-kancelaria.pl
 cs.nailrr.com
 cs-podhale.pl
-cs-postrzelaj.pl
 cs.shiporama.com
 cs.spotlessweb.com
 cultland.pl
@@ -983,7 +976,6 @@ dziennikprasowy.eu
 dziennikprasowy.pusiaweb.com
 dziennik.warszawa.pl
 dzikieziemniaki.pl
-dzisiejszefakty.xyz
 earnyourcash.net
 earthpowerint.com
 eastmostlitharges.online
@@ -1046,7 +1038,6 @@ ekoplava.pl
 e-koronawirusnews.pl
 e-kostrzyn.pl
 ekotradeltd.pl
-e-krezus.pl
 ekstrafilmy24.pl
 e-kurier24.net
 elcap.pl
@@ -1122,7 +1113,6 @@ esthetiquebazaar.pl
 esyfloresyonline.pl
 etamina.pl
 etilang.pl
-e-timberlandbuty.pl
 eu-click.eworldtrack.com
 euco.pl
 e-udanezakupy.pl
@@ -1738,7 +1728,6 @@ hurapaka.pl
 hurtowniagmf.pl
 hurtowniaolenka.pl
 hwww.zweryfiikujdane.tk
-hydraporta.pl
 hydrografikamotocor.pl
 ibrainer.net
 icarvision.pl
@@ -1779,6 +1768,7 @@ infomiasto24.pl
 infonews24.com.pl
 info-polska.24.eu
 informacja-dnia.com
+informacje24fakt.pusiaweb.com
 informacje-news.eu
 informacjeszok24.blogspot.com
 informujemy24h.cba.pl
@@ -2451,7 +2441,6 @@ moneywp.website
 monikajaskowiak.pl
 monkeytreephoto.com
 monthlywinners.com
-mon.trackmysales.website
 mopik.pl
 morceko.pl
 morena.in.net
@@ -2478,7 +2467,6 @@ mrtruffle.pl
 msiwindforum.pl
 m.smsquiz.pl
 msp-hack.com
-msphack.com.pl
 msphackonline.com
 mstk.pl
 mtdeejays.pl
@@ -2634,7 +2622,6 @@ nikeoutlet.pl
 nikepromocja.pl
 nikerabat.pl
 nikeskleppolska.pl
-niketaniosklep.pl
 nikewholesale.pl
 nikokart.pl
 nilco.pl
@@ -3352,6 +3339,7 @@ refundacjeregionalne.pl
 regionalnyportal.eu
 registrationofaccount.com
 reg-me.pl
+regulamin-poczty.com
 regulamin-wp.com
 rehab4pets.pl
 rehabilitant.rzeszow.re
@@ -3886,7 +3874,6 @@ taniemedia.pl
 tanie-wapnowanie.pl
 taniewizytowki.info.pl
 taniobutyreebok.pl
-tanitimberlandbuty.pl
 tankhoi.vn
 tanzeelbuilders.com
 tapxchange.com
@@ -3972,7 +3959,6 @@ timberlandeurosprint.pl
 timberlandobuwie.pl
 timberlandpl.com
 timberlandpoland.pl
-timberland-polska.pl
 timberlandpromocja.pl
 timberlandtanio.pl
 timberlymotel.com
@@ -3986,7 +3972,6 @@ tniemyceny.net
 tocho.pl
 todolize.com
 tojachtczarter.pl
-token-interia.pl
 tomaszmumot.pl
 tommyhalfigero.top
 tootu.pl
@@ -4108,7 +4093,6 @@ uks-osemka.pl
 uksstrzalwodzislaw.pl
 ukssvida.pl
 ukswidok.pl
-ultracolors.pl
 ultramax.pl
 ultratrck.com
 underamoursklep.pl
@@ -4172,7 +4156,6 @@ vansprzecena.pl
 vanswyprzedaz.pl
 vantis-holding.com
 vapormax.pl
-vapormaxtanio.pl
 vascoart.pl
 vasco-group.eu
 vcascc.eu
@@ -4240,7 +4223,6 @@ wanbuy.net
 wapster.malutki.pl
 wapster.pl
 wardon.pl
-warsawhardcore.pl
 warsawlimousine.pl
 warszawafakty.eu
 warszawa-info24.pl
@@ -4399,7 +4381,6 @@ www.ab4hr.com
 www.abbp35.com
 www.abckredyt.net
 www.abc.prawo.link
-www.abipoland.pl
 www.abirohokonar.pl
 www.about-preferences.host
 www.absolutezeros.duckdns.org
@@ -4421,7 +4402,6 @@ www.act.poznan.pl
 www.actraffic.com
 www.actus.org.pl
 www.adakom.pl
-www.adamdelivery.pl
 www.adamkepinski.pl
 www.adapterylaptopa.com
 www.adaranth.com
@@ -4439,7 +4419,6 @@ www.adidaspolska.pl
 www.adidasprzeceny.pl
 www.adidas-shop.pl
 www.adidasstansmithdamskie.pl
-www.adidastanio.pl
 www.adidasterrex.pl
 www.adidastrampkidamskie.pl
 www.adidastubularshadow.pl
@@ -4485,7 +4464,6 @@ www.airhuarache.pl
 www.airmax2017.pl
 www.airmax95.pl
 www.airmaxonlinesklep.pl
-www.airmaxpromocja.pl
 www.airmore.pl
 www.aju.pl
 www.akademiajasia.pl
@@ -4794,7 +4772,6 @@ www.biyunhui.com
 www.biznesplay.biz
 www.biznes-szkola.pl
 www.bkwbydgoszcz.pl
-www.blacklinepartners.pl
 www.blazejperdek.pl
 www.blekitnypakiet.pl
 www.blessonline.pl
@@ -5019,7 +4996,6 @@ www.chotto-ippuku.com
 www.chris-jasnowidz.pl
 www.chron-telefon.com
 www.chuckbutyonline.pl
-www.chucktaylor.pl
 www.chudykucharz.pl
 www.chukka.pl
 www.chwiledowygrania.pl
@@ -5121,7 +5097,6 @@ www.csgoskinsproject.pl
 www.cs-kancelaria.pl
 www.cs.nailrr.com
 www.cs-podhale.pl
-www.cs-postrzelaj.pl
 www.cs.shiporama.com
 www.cs.spotlessweb.com
 www.cultland.pl
@@ -5341,7 +5316,6 @@ www.dziennikprasowy.eu
 www.dziennikprasowy.pusiaweb.com
 www.dziennik.warszawa.pl
 www.dzikieziemniaki.pl
-www.dzisiejszefakty.xyz
 www.earnyourcash.net
 www.earthpowerint.com
 www.eastmostlitharges.online
@@ -5404,7 +5378,6 @@ www.ekoplava.pl
 www.e-koronawirusnews.pl
 www.e-kostrzyn.pl
 www.ekotradeltd.pl
-www.e-krezus.pl
 www.ekstrafilmy24.pl
 www.e-kurier24.net
 www.elcap.pl
@@ -5480,7 +5453,6 @@ www.esthetiquebazaar.pl
 www.esyfloresyonline.pl
 www.etamina.pl
 www.etilang.pl
-www.e-timberlandbuty.pl
 www.eu-click.eworldtrack.com
 www.euco.pl
 www.e-udanezakupy.pl
@@ -6096,7 +6068,6 @@ www.hurapaka.pl
 www.hurtowniagmf.pl
 www.hurtowniaolenka.pl
 www.hwww.zweryfiikujdane.tk
-www.hydraporta.pl
 www.hydrografikamotocor.pl
 www.ibrainer.net
 www.icarvision.pl
@@ -6137,6 +6108,7 @@ www.infomiasto24.pl
 www.infonews24.com.pl
 www.info-polska.24.eu
 www.informacja-dnia.com
+www.informacje24fakt.pusiaweb.com
 www.informacje-news.eu
 www.informacjeszok24.blogspot.com
 www.informujemy24h.cba.pl
@@ -6809,7 +6781,6 @@ www.moneywp.website
 www.monikajaskowiak.pl
 www.monkeytreephoto.com
 www.monthlywinners.com
-www.mon.trackmysales.website
 www.mopik.pl
 www.morceko.pl
 www.morena.in.net
@@ -6836,7 +6807,6 @@ www.mrtruffle.pl
 www.msiwindforum.pl
 www.m.smsquiz.pl
 www.msp-hack.com
-www.msphack.com.pl
 www.msphackonline.com
 www.mstk.pl
 www.mtdeejays.pl
@@ -6992,7 +6962,6 @@ www.nikeoutlet.pl
 www.nikepromocja.pl
 www.nikerabat.pl
 www.nikeskleppolska.pl
-www.niketaniosklep.pl
 www.nikewholesale.pl
 www.nikokart.pl
 www.nilco.pl
@@ -7680,6 +7649,7 @@ www.refundacjeregionalne.pl
 www.regionalnyportal.eu
 www.registrationofaccount.com
 www.reg-me.pl
+www.regulamin-poczty.com
 www.regulamin-wp.com
 www.rehab4pets.pl
 www.rehabilitant.rzeszow.re
@@ -8214,7 +8184,6 @@ www.taniemedia.pl
 www.tanie-wapnowanie.pl
 www.taniewizytowki.info.pl
 www.taniobutyreebok.pl
-www.tanitimberlandbuty.pl
 www.tankhoi.vn
 www.tanzeelbuilders.com
 www.tapxchange.com
@@ -8300,7 +8269,6 @@ www.timberlandeurosprint.pl
 www.timberlandobuwie.pl
 www.timberlandpl.com
 www.timberlandpoland.pl
-www.timberland-polska.pl
 www.timberlandpromocja.pl
 www.timberlandtanio.pl
 www.timberlymotel.com
@@ -8314,7 +8282,6 @@ www.tniemyceny.net
 www.tocho.pl
 www.todolize.com
 www.tojachtczarter.pl
-www.token-interia.pl
 www.tomaszmumot.pl
 www.tommyhalfigero.top
 www.tootu.pl
@@ -8436,7 +8403,6 @@ www.uks-osemka.pl
 www.uksstrzalwodzislaw.pl
 www.ukssvida.pl
 www.ukswidok.pl
-www.ultracolors.pl
 www.ultramax.pl
 www.ultratrck.com
 www.underamoursklep.pl
@@ -8500,7 +8466,6 @@ www.vansprzecena.pl
 www.vanswyprzedaz.pl
 www.vantis-holding.com
 www.vapormax.pl
-www.vapormaxtanio.pl
 www.vascoart.pl
 www.vasco-group.eu
 www.vcascc.eu
@@ -8568,7 +8533,6 @@ www.wanbuy.net
 www.wapster.malutki.pl
 www.wapster.pl
 www.wardon.pl
-www.warsawhardcore.pl
 www.warsawlimousine.pl
 www.warszawafakty.eu
 www.warszawa-info24.pl
@@ -8854,7 +8818,6 @@ www.zsniemce.pl
 www.zspbytonia.pl
 www.zspkoscielec.pl
 www.zsporchowo.pl
-www.zszdzary.pl
 www.zukiewicz.com
 www.zumodi.com
 www.zupaskarbow.pl
@@ -9039,7 +9002,6 @@ zsniemce.pl
 zspbytonia.pl
 zspkoscielec.pl
 zsporchowo.pl
-zszdzary.pl
 zukiewicz.com
 zumodi.com
 zupaskarbow.pl
