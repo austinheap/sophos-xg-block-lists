@@ -11,6 +11,7 @@
 1szychta.org.pl
 20pascals.nl
 247platnosci.online
+247platnosc.online
 24-biznes.eu
 24fakty-sniadaniowe.pl
 24hoursready.cf
@@ -48,6 +49,7 @@ abbp35.com
 abckredyt.net
 abc.prawo.link
 abirohokonar.pl
+abonament-oplac.com
 about-preferences.host
 absolutezeros.duckdns.org
 absolutnieruchomosci.pl
@@ -177,6 +179,7 @@ allegro.ogloszenie.best
 allegro.ogloszenie.space
 allegro.pl-nowe-regulamini7913.uhu362.com
 allegro.pl.showltem.pl
+allegro.pl.showlten.pl
 allegro.targi.pl
 allenit.pl
 alle-perfumy.pl
@@ -834,6 +837,7 @@ defork.pl
 degree.namerepresentative.club
 dekadagierka.pl
 dekoracjawesela.pl
+deliveryexpress.today
 deloxar.pl
 delta-przyjecia.pl
 denis928.000webhostapp.com
@@ -849,6 +853,7 @@ desu4family.com.pl
 deszczysko.pl
 detoxpolska.pl
 deus-est-machina.pl
+deutschepost.de.deliveryexpress.today
 dev.apps.co.pl
 deviwijiyanti.web.id
 dhl-paczka.eu
@@ -976,6 +981,10 @@ dyskretnytelefon.pl
 dziadekdogramofonu.pl
 dzieciakisportaki.pl
 dzieciznatura.pl
+dzieckoalert.com.pl
+dzieckoalert.net.pl
+dzieckoalert.pl
+dzieckoalert.waw.pl
 dziendobry.org.pl
 dziennikkcal.pl
 dzienniknews.com.pl
@@ -1036,6 +1045,7 @@ egazetka24.pl
 eglobalcentral.pl
 egregorikoi.pl
 ehomedesign.com.pl
+einfo24.net
 ekino.com.pl
 ekipl.eu
 ekoinnowacyjne.pl
@@ -1401,6 +1411,7 @@ fotozwardon.pl
 foxrpas.com
 fpkrosno.pl
 franciszkakurier.com
+frankokurier.com
 frankowe24.pl
 free.apps.co.pl
 free.extrabuttons.pw
@@ -2564,6 +2575,7 @@ nataliakurier.com
 nataliaporwana.biz
 natematprawa.pl
 naturabazar.pl
+naturalbornchocolate.eu
 naturalcelltherapy.pl
 naturalniedobrze.pl
 naturalnirodzice.pl
@@ -2590,6 +2602,7 @@ neospes.com
 nepomucen-dorohusk.pl
 netfilmy.pl
 netflix.apps.co.pl
+netflix-mail.info
 netleaders.com
 netpipe.warzonedns.com
 netwita.pl
@@ -2776,6 +2789,7 @@ openwrt.com
 operacjachuligan.pl
 opiekapaliatywna2010.pl
 oplac24.com
+oplac-abonament24.com
 oplacalnapolisa.com.pl
 oplaca-sie.pl
 oplac-paczka24.com
@@ -3530,6 +3544,7 @@ shop.dr-rath.com
 shop.planet-tachyon.com
 shopsneakers.pl
 showltem.pl
+showlten.pl
 showmeflix.com
 showsplash.com
 showup-tv.com.pl
@@ -3577,6 +3592,7 @@ sklepterenowy.pl
 skleptiande.pl
 sklepunderarmour.pl
 sklepwolfskin.pl
+sknrtel.com
 skomtczew.pl
 skrajnieskonczony.pl
 skrelaxedfit.pl
@@ -4309,6 +4325,7 @@ wlewki.pl
 wmodynca73.pl
 wmoimsklepie.pl
 wnp24.pl
+wodaplazmowana.com
 wojtekczyrnek.pl
 wolnezycie.info
 wolyncalyfilm.wordpress.com
@@ -4356,6 +4373,7 @@ www.1maja18.pl
 www.1szychta.org.pl
 www.20pascals.nl
 www.247platnosci.online
+www.247platnosc.online
 www.24-biznes.eu
 www.24fakty-sniadaniowe.pl
 www.24hoursready.cf
@@ -4393,6 +4411,7 @@ www.abbp35.com
 www.abckredyt.net
 www.abc.prawo.link
 www.abirohokonar.pl
+www.abonament-oplac.com
 www.about-preferences.host
 www.absolutezeros.duckdns.org
 www.absolutnieruchomosci.pl
@@ -4522,6 +4541,7 @@ www.allegro.ogloszenie.best
 www.allegro.ogloszenie.space
 www.allegro.pl-nowe-regulamini7913.uhu362.com
 www.allegro.pl.showltem.pl
+www.allegro.pl.showlten.pl
 www.allegro.targi.pl
 www.allenit.pl
 www.alle-perfumy.pl
@@ -5181,6 +5201,7 @@ www.defork.pl
 www.degree.namerepresentative.club
 www.dekadagierka.pl
 www.dekoracjawesela.pl
+www.deliveryexpress.today
 www.deloxar.pl
 www.delta-przyjecia.pl
 www.denis928.000webhostapp.com
@@ -5196,6 +5217,7 @@ www.desu4family.com.pl
 www.deszczysko.pl
 www.detoxpolska.pl
 www.deus-est-machina.pl
+www.deutschepost.de.deliveryexpress.today
 www.dev.apps.co.pl
 www.deviwijiyanti.web.id
 www.dhl-paczka.eu
@@ -5323,6 +5345,10 @@ www.dyskretnytelefon.pl
 www.dziadekdogramofonu.pl
 www.dzieciakisportaki.pl
 www.dzieciznatura.pl
+www.dzieckoalert.com.pl
+www.dzieckoalert.net.pl
+www.dzieckoalert.pl
+www.dzieckoalert.waw.pl
 www.dziendobry.org.pl
 www.dziennikkcal.pl
 www.dzienniknews.com.pl
@@ -5383,6 +5409,7 @@ www.egazetka24.pl
 www.eglobalcentral.pl
 www.egregorikoi.pl
 www.ehomedesign.com.pl
+www.einfo24.net
 www.ekino.com.pl
 www.ekipl.eu
 www.ekoinnowacyjne.pl
@@ -5748,6 +5775,7 @@ www.fotozwardon.pl
 www.foxrpas.com
 www.fpkrosno.pl
 www.franciszkakurier.com
+www.frankokurier.com
 www.frankowe24.pl
 www.free.apps.co.pl
 www.free.extrabuttons.pw
@@ -6911,6 +6939,7 @@ www.nataliakurier.com
 www.nataliaporwana.biz
 www.natematprawa.pl
 www.naturabazar.pl
+www.naturalbornchocolate.eu
 www.naturalcelltherapy.pl
 www.naturalniedobrze.pl
 www.naturalnirodzice.pl
@@ -6937,6 +6966,7 @@ www.neospes.com
 www.nepomucen-dorohusk.pl
 www.netfilmy.pl
 www.netflix.apps.co.pl
+www.netflix-mail.info
 www.netleaders.com
 www.netpipe.warzonedns.com
 www.netwita.pl
@@ -7123,6 +7153,7 @@ www.openwrt.com
 www.operacjachuligan.pl
 www.opiekapaliatywna2010.pl
 www.oplac24.com
+www.oplac-abonament24.com
 www.oplacalnapolisa.com.pl
 www.oplaca-sie.pl
 www.oplac-paczka24.com
@@ -7847,6 +7878,7 @@ www.shop.dr-rath.com
 www.shop.planet-tachyon.com
 www.shopsneakers.pl
 www.showltem.pl
+www.showlten.pl
 www.showmeflix.com
 www.showsplash.com
 www.showup-tv.com.pl
@@ -7894,6 +7926,7 @@ www.sklepterenowy.pl
 www.skleptiande.pl
 www.sklepunderarmour.pl
 www.sklepwolfskin.pl
+www.sknrtel.com
 www.skomtczew.pl
 www.skrajnieskonczony.pl
 www.skrelaxedfit.pl
@@ -8626,6 +8659,7 @@ www.wlewki.pl
 www.wmodynca73.pl
 www.wmoimsklepie.pl
 www.wnp24.pl
+www.wodaplazmowana.com
 www.wojtekczyrnek.pl
 www.wolnezycie.info
 www.wolyncalyfilm.wordpress.com
