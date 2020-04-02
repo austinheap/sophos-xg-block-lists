@@ -1840,6 +1840,7 @@ isabellstudio.com.pl
 isalska.pl
 islandmob.com
 i-store365.com
+istrefa.net
 italianonfiction.pl
 itcity.pl
 itelefon.org
@@ -2059,6 +2060,7 @@ koronawirusnews.net.pl
 kororoweszyszki.pl
 korphan.pl
 korpowscy.pl
+korzystna.org
 koscijanski.pl
 koszulka2020.pl
 kotlasuch.pl
@@ -3995,6 +3997,7 @@ tniemyceny.net
 tocho.pl
 todolize.com
 tojachtczarter.pl
+tomaszdorniak.pl
 tomaszmumot.pl
 tommyhalfigero.top
 tootu.pl
@@ -4280,10 +4283,10 @@ wettinlegal.pl
 wez-bon.24.eu
 wezwanieus.com
 whenbuyyousale.co
-wiadomosci.ct8.pl
 wiadomoscilokalne.eu
 wiadomosci-onet24.ml
 wiadomosci-onet24.tk
+wiadomoscipolska99.pro-linuxpl.com
 wiadomosci-web.24.eu
 wicher-grabowo.pl
 widget-eforsa.pl
@@ -6204,6 +6207,7 @@ www.isabellstudio.com.pl
 www.isalska.pl
 www.islandmob.com
 www.i-store365.com
+www.istrefa.net
 www.italianonfiction.pl
 www.itcity.pl
 www.itelefon.org
@@ -6423,6 +6427,7 @@ www.koronawirusnews.net.pl
 www.kororoweszyszki.pl
 www.korphan.pl
 www.korpowscy.pl
+www.korzystna.org
 www.koscijanski.pl
 www.koszulka2020.pl
 www.kotlasuch.pl
@@ -8329,6 +8334,7 @@ www.tniemyceny.net
 www.tocho.pl
 www.todolize.com
 www.tojachtczarter.pl
+www.tomaszdorniak.pl
 www.tomaszmumot.pl
 www.tommyhalfigero.top
 www.tootu.pl
@@ -8614,10 +8620,10 @@ www.wettinlegal.pl
 www.wez-bon.24.eu
 www.wezwanieus.com
 www.whenbuyyousale.co
-www.wiadomosci.ct8.pl
 www.wiadomoscilokalne.eu
 www.wiadomosci-onet24.ml
 www.wiadomosci-onet24.tk
+www.wiadomoscipolska99.pro-linuxpl.com
 www.wiadomosci-web.24.eu
 www.wicher-grabowo.pl
 www.widget-eforsa.pl
