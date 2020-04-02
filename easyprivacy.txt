@@ -2068,7 +2068,6 @@ engageclick.com
 engagefront.theweathernetwork.com
 engagemaster.com
 engagetosell.com
-engage.wixapps.net
 engageya.com
 engagio.com
 engine212.com
@@ -2184,6 +2183,7 @@ events.air.tv
 events.antenna.is
 events.apester.com
 events.avantisvideo.com
+events.brightline.tv
 events.chaordicsystems.com
 events.demoup.com
 events.godaddy.com
@@ -2587,6 +2587,7 @@ gostats.pl
 gostats.ro
 gostats.ru
 gostats.vn
+go.techtarget.com
 go.toutapp.com
 gotrk.net
 goutee.top
@@ -6061,6 +6062,7 @@ trkn.us
 trk.pswec.com
 trk.sele.co
 trksrv44.com
+trk.techtarget.com
 trk.vindicosuite.com
 trmnsite.com
 tr.n2.hk
@@ -6104,6 +6106,7 @@ ttauri.laptopmag.com
 ttauri.livescience.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
+ttauri.whathifi.com
 ttdetect.staticimgfarm.com
 tuinfra.com
 tulip18.com
@@ -6208,6 +6211,7 @@ userreplay.net
 userreport.com
 users-api.com
 usersegment.wpdigital.net
+users.techtarget.com
 userzoom.com
 usuarios-online.com
 utrack.hexun.com
