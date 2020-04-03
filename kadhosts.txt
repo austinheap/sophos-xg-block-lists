@@ -214,6 +214,7 @@ amber-road.pl
 amc.info
 amhorecacommunications.pl
 am-med.com
+amonitalia.it
 amptrading.pl
 amway.com
 amway.pl
@@ -594,6 +595,7 @@ calistenix.pl
 calivita.com
 cal-look.pl
 calodobowe-wiadomosci-pl.eu
+calvil.pl
 calyfilmonline.pl
 calzini.org
 came.net.pl
@@ -657,6 +659,7 @@ championclub.pl
 champion-polska.pl
 chanceto-start.info
 charakterna.pl
+charge-backers.pl
 charisministries.id
 chatasalino.com.pl
 chceszogred.pl
@@ -938,6 +941,7 @@ dopalacze-sklep.org
 dorszfishandchips.pl
 doski.by
 doslav.pl
+dostawaca24.online
 dostawy24.com
 dotabet100.com
 dotabet103.com
@@ -1442,6 +1446,8 @@ foto-zdjecia.24.eu
 fotozwardon.pl
 foxrpas.com
 fpkrosno.pl
+fraktaltrader.eu
+fraktal-trader.pl
 franciszkakurier.com
 frankokurier.com
 frankowe24.pl
@@ -1495,6 +1501,7 @@ fxgm.com
 fxnetwork.pl
 g3architekci.pl
 gabinetnewline.pl
+gackokurier.com
 gadajzdrow.eu
 gadzetygdynia.pl
 gagrat.co
@@ -1558,6 +1565,7 @@ getgamecheats.com
 gethc.pl
 getimmediateedge.com
 getleads.pl
+get-payment.pl
 ggserwis.pl
 ghastlyf.xyz
 gh-cup.pl
@@ -2304,6 +2312,7 @@ lumenphoto.pl
 lunzo.pl
 lutra.pl
 luxkur.online
+lvgrowmarkets.com
 lyconet.com
 lyoness.com
 mabello.pl
@@ -2917,6 +2926,7 @@ palloosweddings.com
 palmabella.pl
 pamelambarnettcounseling.com
 pandha.pl
+panel.home.pl.vespaclub.com
 paoladesentis.com
 papierofon.pl
 papierosysklep.pl
@@ -3535,6 +3545,7 @@ salomonpolska.com
 salomonpolska.pl
 salomonwyprzedaz.pl
 salon-adriatyk.pl
+salonfilmowy.pl
 salonmanager.pl
 salonmotoryzacyjny.lublin.ovh
 salon-nadia.pl
@@ -4666,6 +4677,7 @@ www.amber-road.pl
 www.amc.info
 www.amhorecacommunications.pl
 www.am-med.com
+www.amonitalia.it
 www.amptrading.pl
 www.amway.com
 www.amway.pl
@@ -5048,6 +5060,7 @@ www.calistenix.pl
 www.calivita.com
 www.cal-look.pl
 www.calodobowe-wiadomosci-pl.eu
+www.calvil.pl
 www.calyfilmonline.pl
 www.calzini.org
 www.came.net.pl
@@ -5111,6 +5124,7 @@ www.championclub.pl
 www.champion-polska.pl
 www.chanceto-start.info
 www.charakterna.pl
+www.charge-backers.pl
 www.charisministries.id
 www.chatasalino.com.pl
 www.chceszogred.pl
@@ -5392,6 +5406,7 @@ www.dopalacze-sklep.org
 www.dorszfishandchips.pl
 www.doski.by
 www.doslav.pl
+www.dostawaca24.online
 www.dostawy24.com
 www.dotabet100.com
 www.dotabet103.com
@@ -5896,6 +5911,8 @@ www.foto-zdjecia.24.eu
 www.fotozwardon.pl
 www.foxrpas.com
 www.fpkrosno.pl
+www.fraktaltrader.eu
+www.fraktal-trader.pl
 www.franciszkakurier.com
 www.frankokurier.com
 www.frankowe24.pl
@@ -5949,6 +5966,7 @@ www.fxgm.com
 www.fxnetwork.pl
 www.g3architekci.pl
 www.gabinetnewline.pl
+www.gackokurier.com
 www.gadajzdrow.eu
 www.gadzetygdynia.pl
 www.gagrat.co
@@ -6012,6 +6030,7 @@ www.getgamecheats.com
 www.gethc.pl
 www.getimmediateedge.com
 www.getleads.pl
+www.get-payment.pl
 www.ggserwis.pl
 www.ghastlyf.xyz
 www.gh-cup.pl
@@ -6758,6 +6777,7 @@ www.lumenphoto.pl
 www.lunzo.pl
 www.lutra.pl
 www.luxkur.online
+www.lvgrowmarkets.com
 www.lyconet.com
 www.lyoness.com
 www.mabello.pl
@@ -7371,6 +7391,7 @@ www.palloosweddings.com
 www.palmabella.pl
 www.pamelambarnettcounseling.com
 www.pandha.pl
+www.panel.home.pl.vespaclub.com
 www.paoladesentis.com
 www.papierofon.pl
 www.papierosysklep.pl
@@ -7959,6 +7980,7 @@ www.salomonpolska.com
 www.salomonpolska.pl
 www.salomonwyprzedaz.pl
 www.salon-adriatyk.pl
+www.salonfilmowy.pl
 www.salonmanager.pl
 www.salonmotoryzacyjny.lublin.ovh
 www.salon-nadia.pl
@@ -8971,6 +8993,7 @@ www.zamiana-koloru.blogspot.com
 www.zamieszkajwmlawie.pl
 www.zamowienia-priorytetowe.pl
 www.zapasyzgierskie.pl
+www.zapisy.fractaltrader.pl
 www.zaplaty.net
 www.zaprojektujiwybuduj.pl
 www.zarabativaisazartom.net
@@ -9157,6 +9180,7 @@ zamiana-koloru.blogspot.com
 zamieszkajwmlawie.pl
 zamowienia-priorytetowe.pl
 zapasyzgierskie.pl
+zapisy.fractaltrader.pl
 zaplaty.net
 zaprojektujiwybuduj.pl
 zarabativaisazartom.net

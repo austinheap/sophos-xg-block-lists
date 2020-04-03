@@ -891,6 +891,7 @@ bkrtx.com
 bkvtrack.com
 blacktri-a.akamaihd.net
 blacktri.com
+blaick.com
 blip.bizrate.com
 blockbreaker.io
 blockmetrics.com
@@ -1010,6 +1011,7 @@ caanalytics.com
 cache2.delvenetworks.com
 cache.am
 cache.fm
+cactusglobal.io
 cadreon.com
 cadreon.s3.amazonaws.com
 c.adroll.com
@@ -2435,8 +2437,10 @@ ga.canoe.ca
 gacela.eu
 ga.kvideo.io
 gak.webtoons.com
+galaxiemedia.fr
 gallupnet.fi
 gameanalytics.com
+gamesradar-gb.gamesradar.com
 gammachug.com
 ganon.yahoo.com
 ga.nsimg.net
@@ -3261,6 +3265,7 @@ log.hiiir.com
 log.hypebeast.com
 log.idnes.cz
 loginfra.com
+loginhood.io
 loginlog.sdo.com
 log.invodo.com
 log.kcisa.kr
@@ -4216,6 +4221,7 @@ predicta.net
 predictivedna.com
 predictiveresponse.net
 premiumstats.xyz
+prepareplanes.com
 presentationtracking.netflix.com
 prfct.co
 prism.pandora.tv
@@ -4442,12 +4448,14 @@ reitingas.lt
 reitingi.lv
 rejestr.org
 rek.www.wp.pl
+rel2.nextinpact.com
 relap.io
 relead.com
 relevant-digital.com
 reliablecounter.com
 relmaxtop.com
 rel.msn.com
+rel.nextinpact.com
 remailtarget.com
 remarketingpixel.com
 remarketstats.com
@@ -4645,6 +4653,7 @@ sc.cc.com
 schoolyeargo.com
 sciencerevenue.com
 scientificshirt.com
+scintillatingscissors.com
 scintillatingspace.com
 scis.tbs.co.jp
 s.clickability.com
@@ -4845,6 +4854,7 @@ smct.co
 smetrics.att.com
 smetrics.delta.com
 smileyhost.net
+sm.pcmag.com
 smrk.io
 smrt.as
 smrtlnks.com
@@ -5880,6 +5890,7 @@ tracking.rtl.de
 tracking.s24.com
 tracking.searchmarketing.com
 tracking.sembox.it
+tracking.shopstyle.com
 tracking.shoptogether.buy.com
 tracking.skyword.com
 tracking.softwareprojects.com
@@ -6066,6 +6077,7 @@ trk.techtarget.com
 trk.vindicosuite.com
 trmnsite.com
 tr.n2.hk
+troubledtail.com
 trovus.co.uk
 trowel.twitch.tv
 tr.price.com.hk

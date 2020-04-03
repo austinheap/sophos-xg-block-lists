@@ -387,7 +387,6 @@ ads.bing.com
 ads.bittorrent.com
 ads.blog.com
 ads.bloomberg.com
-ads.bluelithium.com
 ads.bluemountain.com
 ads.bluesq.com
 ads.bonniercorp.com
@@ -831,7 +830,6 @@ adv.freeonline.it
 adv.hwupgrade.it
 advideo.uimserv.net
 adview.com
-adview.ppro.de
 ad.virtual-nights.com
 advisormedia.cz
 adviva.net
@@ -1685,7 +1683,6 @@ fukc69xo.us
 fullstory.com
 functionalcrown.com
 funklicks.com
-funpageexchange.com
 fusionads.net
 fusionquest.com
 futuristicapparatus.com
@@ -1728,7 +1725,6 @@ googleadservices.com
 google-analytics.com
 googleanalytics.com
 googlesyndication.com
-googletagmanager.com
 googletagservices.com
 go-rank.de
 gorgeousground.com
@@ -1798,7 +1794,6 @@ hit.webcentre.lycos.co.uk
 hlok.qertewrt.com
 hollandbusinessadvertising.nl
 hollowshake.com
-homepageking.de
 honeygoldfish.com
 hostedads.realitykings.com
 hotjar.com
@@ -2213,7 +2208,6 @@ mystat-in.net
 mystat.pl
 mysteriousmonth.com
 mytop-in.net
-mytrafficads.com
 myvisualiq.net
 n69.com
 naj.sk
@@ -3015,6 +3009,7 @@ tracking.olx-st.com
 tracking.publicidees.com
 trackingsoft.com
 track.mailerlite.com
+trackmysales.com
 track.nuxues.com
 trackuhub.com
 track.ultravpn.com
