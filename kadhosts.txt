@@ -1495,6 +1495,7 @@ funnyfotobox.pl
 funskan.pl
 funsolo.net
 funtoonez.com
+furgonetka.online
 futurenet.club
 futurepay.globway.eu
 fxgm.com
@@ -2045,6 +2046,7 @@ kino-tv.pl
 kinovod.tv
 kinujemy.pl
 kipokahynr.xyz
+kirkolin.ml
 kirstenbijlsma.com
 kitcarforum.pl
 kitchencollectivecool.info
@@ -2255,6 +2257,7 @@ linuxpoludzku.pl
 listennewsnetwork.com
 literaturafaktu.pl
 literatur.pl
+liveglobalalert.com
 liversely.com
 livia-oborniki.pl
 livioon.com
@@ -3292,6 +3295,8 @@ proventus.com.pl
 provida.pl
 prusinska.pl
 pruszkowmieszkania.pl
+przechwyconeefotki.eu
+przechwyconefotki24.eu
 przechwyconefotki24.pusiaweb.com
 przechwycone-zdjecia.00x.eu
 przedszkolefalenty.pl
@@ -5963,6 +5968,7 @@ www.funnyfotobox.pl
 www.funskan.pl
 www.funsolo.net
 www.funtoonez.com
+www.furgonetka.online
 www.futurenet.club
 www.futurepay.globway.eu
 www.fxgm.com
@@ -6513,6 +6519,7 @@ www.kino-tv.pl
 www.kinovod.tv
 www.kinujemy.pl
 www.kipokahynr.xyz
+www.kirkolin.ml
 www.kirstenbijlsma.com
 www.kitcarforum.pl
 www.kitchencollectivecool.info
@@ -6723,6 +6730,7 @@ www.linuxpoludzku.pl
 www.listennewsnetwork.com
 www.literaturafaktu.pl
 www.literatur.pl
+www.liveglobalalert.com
 www.liversely.com
 www.livia-oborniki.pl
 www.livioon.com
@@ -7730,6 +7738,8 @@ www.proventus.com.pl
 www.provida.pl
 www.prusinska.pl
 www.pruszkowmieszkania.pl
+www.przechwyconeefotki.eu
+www.przechwyconefotki24.eu
 www.przechwyconefotki24.pusiaweb.com
 www.przechwycone-zdjecia.00x.eu
 www.przedszkolefalenty.pl

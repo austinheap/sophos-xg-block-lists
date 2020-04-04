@@ -440,6 +440,7 @@ analyticsengine.s3.amazonaws.com
 analytics.epi.es
 analytics.fairfax.com.au
 analytics.favcy.com
+analytics.footballdb.com
 analytics.foresee.com
 analytics.freespee.com
 analytics.gameforge.de
@@ -487,6 +488,7 @@ analyticson.com
 analytics.onlyonlinemarketing.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
+analytics.ostr.io
 analytics.paddle.com
 analytics.performable.com
 analytics.photorank.me
@@ -4795,6 +4797,7 @@ simplymeasured.com
 s.infogram.com
 singlefeed.com
 site24x7rum.com
+siteanaliz.org
 sitebot.cn
 sitebro.com
 sitebro.de
@@ -6337,6 +6340,7 @@ vizisense.net
 vizury.com
 vizzit.se
 vkcdnservice.com
+vlitag.com
 vm5apis.com
 vmmpxl.com
 vmm-satellite1.com
