@@ -1089,7 +1089,6 @@ cdnstats.tube8.com
 cdn.trafficexchangelist.com
 cdntrf.com
 cdntrf.de
-cedexis.com
 cedexis.net
 celebros-analytics.com
 celebrus.com
@@ -1264,6 +1263,7 @@ cmp.pcworld.com
 cmp.pcworld.co.nz
 cmp.pcworld.idg.com.au
 cmptch.com
+cmp.tech426.com
 cmp.techadvisor.co.uk
 cmp.techhive.com
 cms.grandcloud.cn
@@ -3775,6 +3775,7 @@ netvigie.com
 netzaehler.de
 netzstat.ch
 never.ovh
+newrrb.bid
 newsanalytics.com.au
 newscurve.com
 nex8.net
@@ -4278,6 +4279,7 @@ p.travelsmarter.net
 ptrk-wn.com
 ptsc.shoplocal.com
 pt-trx.com
+pubdream.com
 publicgood.com
 publicidees.com
 publishflow.com
@@ -4740,6 +4742,7 @@ servebom.com
 servedby.o2.co.uk
 servestats.com
 service4refresh.info
+services.hmhost.co.uk
 service-stat.tbn.ru
 servicetick.com
 serving-sys.com
@@ -4899,6 +4902,9 @@ sortsummer.com
 soska.us
 soso.mymederback.com
 sourcecode.pro
+sourcepoint-mms.aetv.com
+sourcepoint-mms.history.com
+sourcepoint-mms.mylifetime.com
 sourcepoint.vice.com
 spacehits.net
 space-link.de

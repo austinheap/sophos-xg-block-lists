@@ -976,7 +976,6 @@ drew-ed.pl
 drew-tex.pl
 drexpol-modele.com.pl
 drinkiprzepisy.pl
-drmarins.com
 drmartensbuty.pl
 drmartenspl.pl
 drmartenspolska.com
@@ -1618,6 +1617,7 @@ gojiberry500.pl
 gokano.com
 gokbrzezno.pl
 goldendayspa.pl
+goldenmark.com
 goldenrelations.pl
 goldgame.pl
 goldsaver.pl
@@ -1755,7 +1755,6 @@ hollisteroutletpolska.pl
 hollistersklep.com
 hollisterwarszawa.pl
 holyurbanhotel.com
-homeexpres.net
 homejailbreak.com
 homemedia.in.net
 homeopatiakoszalin.pl
@@ -3299,6 +3298,7 @@ przechwyconeefotki.eu
 przechwyconefotki24.eu
 przechwyconefotki24.pusiaweb.com
 przechwycone-zdjecia.00x.eu
+przechwycone-zdjecia-fotki.pusiaweb.com
 przedszkolefalenty.pl
 przedszkoleglobus.pl
 przedszkolekrainadziecka.pl
@@ -3602,7 +3602,6 @@ serialosy.pl
 serialowo.pl
 serial.vod.co.pl
 service-pay.company
-serwator.pl
 serwer2081930.home.pl
 serwis-ab.com.pl
 serwisagd-waw.pl
@@ -3679,9 +3678,7 @@ sklepnbbuty.pl
 skleppolo.pl
 sklepszkolen.pl
 skleptanie.pl
-sklepterenowy.pl
 skleptiande.pl
-sklepunderarmour.pl
 sklepwolfskin.pl
 sknrtel.com
 skomtczew.pl
@@ -3884,7 +3881,6 @@ studentmaks.pl
 studioartandcafe.pl
 studiofilmowehd.pl
 studioformy-synergia.pl
-studiogreta.pl
 studioidylla.pl
 studiokalamarnica.pl
 studioprimadonna.pl
@@ -4056,8 +4052,6 @@ thelifeness.pl
 thelogo.pl
 themarketriser.com
 themovienation.com
-thenorthfacepl.pl
-thenorthfacesklep.pl
 thepropertydealerz.com
 thermomix.vorwerk.pl
 thesite.pl
@@ -4435,6 +4429,7 @@ wmoimsklepie.pl
 wnp24.pl
 wodaplazmowana.com
 wojtekczyrnek.pl
+wolnemedia.net
 wolnezycie.info
 wolyncalyfilm.wordpress.com
 womenempowermentpakistan.com
@@ -5449,7 +5444,6 @@ www.drew-ed.pl
 www.drew-tex.pl
 www.drexpol-modele.com.pl
 www.drinkiprzepisy.pl
-www.drmarins.com
 www.drmartensbuty.pl
 www.drmartenspl.pl
 www.drmartenspolska.com
@@ -6091,6 +6085,7 @@ www.gojiberry500.pl
 www.gokano.com
 www.gokbrzezno.pl
 www.goldendayspa.pl
+www.goldenmark.com
 www.goldenrelations.pl
 www.goldgame.pl
 www.goldsaver.pl
@@ -6228,7 +6223,6 @@ www.hollisteroutletpolska.pl
 www.hollistersklep.com
 www.hollisterwarszawa.pl
 www.holyurbanhotel.com
-www.homeexpres.net
 www.homejailbreak.com
 www.homemedia.in.net
 www.homeopatiakoszalin.pl
@@ -7742,6 +7736,7 @@ www.przechwyconeefotki.eu
 www.przechwyconefotki24.eu
 www.przechwyconefotki24.pusiaweb.com
 www.przechwycone-zdjecia.00x.eu
+www.przechwycone-zdjecia-fotki.pusiaweb.com
 www.przedszkolefalenty.pl
 www.przedszkoleglobus.pl
 www.przedszkolekrainadziecka.pl
@@ -8045,7 +8040,6 @@ www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
 www.service-pay.company
-www.serwator.pl
 www.serwer2081930.home.pl
 www.serwis-ab.com.pl
 www.serwisagd-waw.pl
@@ -8122,9 +8116,7 @@ www.sklepnbbuty.pl
 www.skleppolo.pl
 www.sklepszkolen.pl
 www.skleptanie.pl
-www.sklepterenowy.pl
 www.skleptiande.pl
-www.sklepunderarmour.pl
 www.sklepwolfskin.pl
 www.sknrtel.com
 www.skomtczew.pl
@@ -8327,7 +8319,6 @@ www.studentmaks.pl
 www.studioartandcafe.pl
 www.studiofilmowehd.pl
 www.studioformy-synergia.pl
-www.studiogreta.pl
 www.studioidylla.pl
 www.studiokalamarnica.pl
 www.studioprimadonna.pl
@@ -8499,8 +8490,6 @@ www.thelifeness.pl
 www.thelogo.pl
 www.themarketriser.com
 www.themovienation.com
-www.thenorthfacepl.pl
-www.thenorthfacesklep.pl
 www.thepropertydealerz.com
 www.thermomix.vorwerk.pl
 www.thesite.pl
@@ -8878,6 +8867,7 @@ www.wmoimsklepie.pl
 www.wnp24.pl
 www.wodaplazmowana.com
 www.wojtekczyrnek.pl
+www.wolnemedia.net
 www.wolnezycie.info
 www.wolyncalyfilm.wordpress.com
 www.womenempowermentpakistan.com
@@ -9062,6 +9052,7 @@ www.ziololecznictwo.pl
 www.zjednoczonekrolestwo.pl
 www.zkotami.pl
 www.zlecone.xn.pl
+www.zmianynaziemi.pl
 www.zmienienie-koloru.blogspot.com
 www.zmienkolorfejsazafree.blogspot.com
 www.zmienkolory.blogspot.com
@@ -9091,7 +9082,6 @@ www.zukiewicz.com
 www.zumodi.com
 www.zupaskarbow.pl
 www.zuradzki.pl
-www.zwellinder.pl
 www.zweryfiikujdane.tk
 www.zwiekszycsprzedaz.pl
 www.zwierzynieckrakowski.pl
@@ -9249,6 +9239,7 @@ ziololecznictwo.pl
 zjednoczonekrolestwo.pl
 zkotami.pl
 zlecone.xn.pl
+zmianynaziemi.pl
 zmienienie-koloru.blogspot.com
 zmienkolorfejsazafree.blogspot.com
 zmienkolory.blogspot.com
@@ -9278,7 +9269,6 @@ zukiewicz.com
 zumodi.com
 zupaskarbow.pl
 zuradzki.pl
-zwellinder.pl
 zweryfiikujdane.tk
 zwiekszycsprzedaz.pl
 zwierzynieckrakowski.pl
