@@ -2242,7 +2242,6 @@ api.inmoji.com
 api.innomdc.com
 api.inrix.com
 api.insmobi.com
-api.instabug.com
 api.instalatorhbogo.siroccomobile.com
 api.instartlogic.com
 api.intentiq.com
@@ -4704,7 +4703,6 @@ de.inmobi.com
 delb5.cxense.com
 delb8.cxense.com
 deliver.mobvista.com
-deliveroo.com.sg
 delivery1.lavanetwork.net
 delivery.adnetwork.vn
 delivery.advanseads.com
@@ -6439,7 +6437,6 @@ insight.ucweb.com
 inspectletws.herokuapp.com
 inspiredtaste-tagan.adlightning.com
 ins-services.meltwater.com
-instabug.com
 installp.com
 installrevenue.com
 installtracker.com

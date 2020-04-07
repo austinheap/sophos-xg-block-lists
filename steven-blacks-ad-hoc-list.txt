@@ -72,10 +72,13 @@ ads1.ero-advertising.com
 ads2.servebom.com
 ads30.adcolony.com
 ads5.truecaller.com
+adsaccount.appcpi.net
 ads.alphonso.tv
 adsances.ero-advertising.com
+ads-bi.zenkube.com
 adscan.yelabapp.com
 ads.chacomedia.com
+adservice.google.be
 adservice.google.co.in
 adservice.google.com.vn
 ads.feedly.com
@@ -126,6 +129,7 @@ analytics.lk.api.ditto.com
 analytics.logsss.com
 analytics.mopub.com
 analytics.pokki.com
+analytics.xl.pt
 an.batmobi.net
 androidads23.adcolony.com
 anners.ero-advertising.com
@@ -241,6 +245,7 @@ cdn.beginads.com
 cdn.bitmedianetwork.com
 cdn.castoola.com
 cdn.discoveryad.castoola.tv
+cdn.insurads.com
 cdn-jp.gsecondscreen.com
 cdnjs.tvpage.com
 cdn.moengage.com
@@ -472,6 +477,7 @@ mediabarterexchange.com
 media.complex.com
 mediadirectx.com
 media.rtk.io
+messaging.insurads.com
 metrics.adage.com
 miami.ero-advertising.com
 mktg.tvpage.com
@@ -479,6 +485,7 @@ mobileads.ero-advertising.com
 mobile.pipe.aria.microsoft.com
 montrealgazette.stats.com
 movieads.ero-advertising.com
+msg-0209861dced41c7ef.insurads.com
 msmetrics.ws.sonos.com
 mt.rtmark.net
 mvconf.cloud.360safe.com
@@ -595,6 +602,7 @@ segment.hotstar.com
 s.ero-advertising.com
 service.face2trade.com
 services.bilsyndication.com
+services.insurads.com
 service.videoplaza.tv
 sex-and-flirt.com
 sfo.thor.rtk.io
@@ -643,6 +651,7 @@ syndication-evo.exoclick.com
 taboola-d.openx.net
 tag.hockeycurve.com
 tags.news.com.au
+takehotprizzes3.live
 talk99.cn
 t.appsflyer.com
 tcm.optica.ero-advertising.com

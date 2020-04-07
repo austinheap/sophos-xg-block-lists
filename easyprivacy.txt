@@ -596,6 +596,7 @@ anti-cheat.info
 antvoice.com
 anxiousapples.com
 an.yandex.ru
+a.o2u.jp
 a-pagerank.net
 ape78cn2.com
 ape-tagit.timeinc.net
@@ -1084,7 +1085,6 @@ cdn-code.host
 cdn.hiido.cn
 cdnmaster.cn
 cdnmaster.com
-cdn-net.com
 cdnstats.tube8.com
 cdn.trafficexchangelist.com
 cdntrf.com
@@ -3510,6 +3510,7 @@ met.vgwort.de
 mezzobit.com
 mfadsrvr.com
 mfio.cf
+miadates.com
 mialbj6.com
 miaozhen.com
 micodigo.com
@@ -5528,6 +5529,7 @@ tds.io
 tdsrmbl.net
 tdstats.com
 tealiumiq.com
+team-rec.jp
 technical-service.net
 ted.dailymail.co.uk
 tedioustooth.com
