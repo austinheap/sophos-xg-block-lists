@@ -421,6 +421,7 @@ bgprojekt.pl
 bialazebra.pl
 bianchispizza.com
 bibliodro.pl
+bidenhascovid19.co
 biegostojazwierzat.pl
 biegtwardego.pl
 bieszczadychannel.pl
@@ -765,6 +766,8 @@ cool-technology.com
 coreplays.com
 corezone.pl
 corneliafunke.pl
+coronadisco.co.uk
+coronavirustestkit.co.za
 counterpointmagazine.org
 covergt.com
 cpabuild.com
@@ -903,6 +906,7 @@ dirproperties.com
 dirtythekitchen.com
 discsplay.com
 ditds.xyz
+dizziesquest.xyz
 djarumgol.com
 dketrade.top
 dkgraf.pl
@@ -1140,6 +1144,7 @@ e-platnosc.best
 epliki24.pl
 epoczta247.com
 e-podatek.net
+e-pomagajmypl.pl
 epremki.eu
 eqology.com
 erbudokna.pl
@@ -1251,6 +1256,7 @@ fakturownia-pl.gq
 faktury3941.org
 fakty24-live.eu
 fakty24-swiat.pl
+fakty24swiat.pl
 fakty-koronawirus24.pl
 faktypolska10.b-cdn.net
 faktypolska11.b-cdn.net
@@ -1461,6 +1467,7 @@ franciszkakurier.com
 frankokurier.com
 frankowe24.pl
 free.apps.co.pl
+freecoronavirusoffer.com
 free.extrabuttons.pw
 freefollower.eu
 free-gg.com
@@ -2353,6 +2360,7 @@ maestrokolo.pl
 magadownloader.com
 magdalenatul.pl
 magiaperspektywy.pl
+magicpockets.shop
 magiczne-cytaty.pl
 magiskmanager.com
 magnumbd.com
@@ -2486,6 +2494,7 @@ mieszkanie-bochnia.pl
 migawkastudio.pl
 migdalowachata.pl
 milek-okna.pl
+milenium.site
 millionways.duckdns.org
 millson-recruitment.pl
 minipensjonatadmiral.pl
@@ -2847,6 +2856,7 @@ okularyrbtanio.pl
 olbart.pl
 oleksy.net.pl
 ollando.com
+olszewski.ehost.pl
 olszowskidesign.pl
 olubin.pl
 olx-platnosci.online
@@ -2946,6 +2956,7 @@ paczkomaty-pl.tk
 paifemouchoa.com
 paifi.net
 pajos4.com
+pakafast4you24h.club
 pakiety-lte-5gb.blogspot.com
 pakiety-pokemon-go.blogspot.com
 pakukgroup.com
@@ -3206,6 +3217,10 @@ polskifilm.com.pl
 polski-poranek.pl
 polski-poranek-pl.com
 poltradewaletko.pl
+pomagajmypl.net.pl
+pomagajmypl.online
+pomagajmypl.pl
+pomagajmypl.site
 pomalujmnie.pl
 pomelostudio.pl
 pomerania-bn.pl
@@ -3353,6 +3368,7 @@ ps7konskie.pl
 pse-polnoc.pl
 psiakademia.pl
 psialapka.pl
+psundergrowth.xyz
 psycholozki.com.pl
 pszczelezycie.pl
 pszczynskieaktywnie.pl
@@ -3631,6 +3647,9 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
+server078515.nazwa.pl
+server836207.nazwa.pl
+server905483.nazwa.pl
 service-pay.company
 serwer2081930.home.pl
 serwis-ab.com.pl
@@ -3737,6 +3756,7 @@ slownikoptyczny.pl
 slubneauta.com.pl
 sluchawafm.pl
 sm4ll.in
+smallponder.net
 smartcare.xja.pl
 smartconnect.duckdns.org
 smart-m-system.com
@@ -4923,6 +4943,7 @@ www.bgprojekt.pl
 www.bialazebra.pl
 www.bianchispizza.com
 www.bibliodro.pl
+www.bidenhascovid19.co
 www.biegostojazwierzat.pl
 www.biegtwardego.pl
 www.bieszczadychannel.pl
@@ -5267,6 +5288,8 @@ www.cool-technology.com
 www.coreplays.com
 www.corezone.pl
 www.corneliafunke.pl
+www.coronadisco.co.uk
+www.coronavirustestkit.co.za
 www.counterpointmagazine.org
 www.covergt.com
 www.cpabuild.com
@@ -5405,6 +5428,7 @@ www.dirproperties.com
 www.dirtythekitchen.com
 www.discsplay.com
 www.ditds.xyz
+www.dizziesquest.xyz
 www.djarumgol.com
 www.dketrade.top
 www.dkgraf.pl
@@ -5642,6 +5666,7 @@ www.e-platnosc.best
 www.epliki24.pl
 www.epoczta247.com
 www.e-podatek.net
+www.e-pomagajmypl.pl
 www.epremki.eu
 www.eqology.com
 www.erbudokna.pl
@@ -5753,6 +5778,7 @@ www.fakturownia-pl.gq
 www.faktury3941.org
 www.fakty24-live.eu
 www.fakty24-swiat.pl
+www.fakty24swiat.pl
 www.fakty-koronawirus24.pl
 www.faktypolska10.b-cdn.net
 www.faktypolska11.b-cdn.net
@@ -5963,6 +5989,7 @@ www.franciszkakurier.com
 www.frankokurier.com
 www.frankowe24.pl
 www.free.apps.co.pl
+www.freecoronavirusoffer.com
 www.free.extrabuttons.pw
 www.freefollower.eu
 www.free-gg.com
@@ -6855,6 +6882,7 @@ www.maestrokolo.pl
 www.magadownloader.com
 www.magdalenatul.pl
 www.magiaperspektywy.pl
+www.magicpockets.shop
 www.magiczne-cytaty.pl
 www.magiskmanager.com
 www.magnumbd.com
@@ -6988,6 +7016,7 @@ www.mieszkanie-bochnia.pl
 www.migawkastudio.pl
 www.migdalowachata.pl
 www.milek-okna.pl
+www.milenium.site
 www.millionways.duckdns.org
 www.millson-recruitment.pl
 www.minipensjonatadmiral.pl
@@ -7349,6 +7378,7 @@ www.okularyrbtanio.pl
 www.olbart.pl
 www.oleksy.net.pl
 www.ollando.com
+www.olszewski.ehost.pl
 www.olszowskidesign.pl
 www.olubin.pl
 www.olx-platnosci.online
@@ -7448,6 +7478,7 @@ www.paczkomaty-pl.tk
 www.paifemouchoa.com
 www.paifi.net
 www.pajos4.com
+www.pakafast4you24h.club
 www.pakiety-lte-5gb.blogspot.com
 www.pakiety-pokemon-go.blogspot.com
 www.pakukgroup.com
@@ -7678,6 +7709,10 @@ www.polskifilm.com.pl
 www.polski-poranek.pl
 www.polski-poranek-pl.com
 www.poltradewaletko.pl
+www.pomagajmypl.net.pl
+www.pomagajmypl.online
+www.pomagajmypl.pl
+www.pomagajmypl.site
 www.pomalujmnie.pl
 www.pomelostudio.pl
 www.pomerania-bn.pl
@@ -7825,6 +7860,7 @@ www.ps7konskie.pl
 www.pse-polnoc.pl
 www.psiakademia.pl
 www.psialapka.pl
+www.psundergrowth.xyz
 www.psycholozki.com.pl
 www.pszczelezycie.pl
 www.pszczynskieaktywnie.pl
@@ -8103,6 +8139,9 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
+www.server078515.nazwa.pl
+www.server836207.nazwa.pl
+www.server905483.nazwa.pl
 www.service-pay.company
 www.serwer2081930.home.pl
 www.serwis-ab.com.pl
@@ -8209,6 +8248,7 @@ www.slownikoptyczny.pl
 www.slubneauta.com.pl
 www.sluchawafm.pl
 www.sm4ll.in
+www.smallponder.net
 www.smartcare.xja.pl
 www.smartconnect.duckdns.org
 www.smart-m-system.com
@@ -9013,6 +9053,7 @@ www.xn--30986-udb.biz
 www.xn--adidasgazellemskie-qnc.pl
 www.xn--butysportowemskie-cjc.pl
 www.xn--fitflopsanday-7hc.pl
+www.xn--nstagrarn-upb.com
 www.xn--pandorabiuteria-qkd.pl
 www.xn--poyczaj-xwb.online.pl
 www.xoreha84.bid
@@ -9200,6 +9241,7 @@ xn--30986-udb.biz
 xn--adidasgazellemskie-qnc.pl
 xn--butysportowemskie-cjc.pl
 xn--fitflopsanday-7hc.pl
+xn--nstagrarn-upb.com
 xn--pandorabiuteria-qkd.pl
 xn--poyczaj-xwb.online.pl
 xoreha84.bid
