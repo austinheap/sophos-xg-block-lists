@@ -187,6 +187,7 @@ allegro.ogloszenie.space
 allegro.pl-nowe-regulamini7913.uhu362.com
 allegro.pl.showltem.pl
 allegro.pl.showlten.pl
+allegrosklep.online
 allegro.targi.pl
 allenit.pl
 alle-perfumy.pl
@@ -1022,6 +1023,8 @@ dzienniknews.com.pl
 dzienniknews.pl
 dziennikprasowy.eu
 dziennikprasowy.pusiaweb.com
+dziennikuprowadzono.online
+dziennikuprowadzono.pl
 dziennik.warszawa.pl
 dzikieziemniaki.pl
 earnyourcash.net
@@ -1277,6 +1280,7 @@ fargofinanse.pl
 fargonpozyczki.pl
 farmacjacmuj.pl
 farmagedon.pl
+fasebook-onlineapp.com.pl
 fashionableman.pl
 fasterfiles.net
 favierex.pl
@@ -1811,6 +1815,7 @@ idealnafigura.com
 ideatur.pl
 ideazespolufilmowego.pl
 idgarin.com
+i-films.pl
 i-filmy.pl
 iglesia.pl
 igrzyskasto.pl
@@ -3407,6 +3412,7 @@ rachinfo.com
 rachuneki.net
 racingkrakow.pl
 radiorage.com
+radiozetka.net
 radkokurier.org
 rafalo.com.pl
 rainbow.pl
@@ -4681,6 +4687,7 @@ www.allegro.ogloszenie.space
 www.allegro.pl-nowe-regulamini7913.uhu362.com
 www.allegro.pl.showltem.pl
 www.allegro.pl.showlten.pl
+www.allegrosklep.online
 www.allegro.targi.pl
 www.allenit.pl
 www.alle-perfumy.pl
@@ -5518,6 +5525,8 @@ www.dzienniknews.com.pl
 www.dzienniknews.pl
 www.dziennikprasowy.eu
 www.dziennikprasowy.pusiaweb.com
+www.dziennikuprowadzono.online
+www.dziennikuprowadzono.pl
 www.dziennik.warszawa.pl
 www.dzikieziemniaki.pl
 www.earnyourcash.net
@@ -5773,6 +5782,7 @@ www.fargofinanse.pl
 www.fargonpozyczki.pl
 www.farmacjacmuj.pl
 www.farmagedon.pl
+www.fasebook-onlineapp.com.pl
 www.fashionableman.pl
 www.fasterfiles.net
 www.favierex.pl
@@ -6307,6 +6317,7 @@ www.idealnafigura.com
 www.ideatur.pl
 www.ideazespolufilmowego.pl
 www.idgarin.com
+www.i-films.pl
 www.i-filmy.pl
 www.iglesia.pl
 www.igrzyskasto.pl
@@ -7873,6 +7884,7 @@ www.rachinfo.com
 www.rachuneki.net
 www.racingkrakow.pl
 www.radiorage.com
+www.radiozetka.net
 www.radkokurier.org
 www.rafalo.com.pl
 www.rainbow.pl
@@ -9046,7 +9058,6 @@ www.zalukaj.online
 www.zalukaj-online.pl
 www.zalukaj.org
 www.zalukaj.tube
-www.zalukaj.vip
 www.zalukajvod.pl
 www.zalukaj.ws
 www.zaluknij.pl
@@ -9234,7 +9245,6 @@ zalukaj.online
 zalukaj-online.pl
 zalukaj.org
 zalukaj.tube
-zalukaj.vip
 zalukajvod.pl
 zalukaj.ws
 zaluknij.pl
