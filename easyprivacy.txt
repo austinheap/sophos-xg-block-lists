@@ -1364,6 +1364,7 @@ compteur-visite.com
 compteur.websiteout.net
 conditioncrush.com
 conductrics.com
+conduze.com
 config.parsely.com
 confirmational.com
 confirmit.com
@@ -1806,6 +1807,7 @@ dfanalytics.dealerfire.com
 dfapvmql-q.global.ssl.fastly.net
 d.finative.eu
 df-srv.de
+d.ghostery.com
 dgmsearchlab.com
 d.haberler.com
 di8n.bfmtv.com
