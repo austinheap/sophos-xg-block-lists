@@ -1239,6 +1239,7 @@ facebook.5v.pl
 facebookaplikacje.blogspot.com
 facebook-color.5v.pl
 facebookcolors24.blogspot.com
+facebook-info.pl
 facebookkoloruj.blogspot.com
 facebookkviewer.blogspot.com
 facebook-login.5v.pl
@@ -1437,6 +1438,7 @@ fminzynieria.pl
 focusmall-rybnik.pl
 followergods.com
 fomaska.com
+food-eng.online
 footoografie-pobieralnia.eu
 foresightwielkopolska.pl
 forestarii.pl
@@ -2363,6 +2365,8 @@ luxkur.online
 lvgrowmarkets.com
 lyconet.com
 lyoness.com
+ma-1.erema.biz
+ma-1.lzglnter.com
 mabello.pl
 macandwin.theforcontentingvideosystems.icu
 maccleaner.space
@@ -2578,6 +2582,7 @@ mondayblog.pl
 monetizer.info
 moneywin24.com
 moneywp.website
+moneywp.xyz
 monikajaskowiak.pl
 monikareplin.pl
 monkeytreephoto.com
@@ -2984,6 +2989,7 @@ palloosweddings.com
 palmabella.pl
 pamelambarnettcounseling.com
 pandha.pl
+panel.home.pl.frustone.it
 panel.home.pl.muna.it
 panel.home.pl.vespaclub.com
 paoladesentis.com
@@ -3263,6 +3269,7 @@ porownajtv24.pl
 portaldruku.pl
 portal-legionowo.pl
 porumar.pl
+porwaniadzieci.eu
 poscielowyraj.pl
 poshettescafe.com
 post-341478.info
@@ -3674,9 +3681,11 @@ serialosy.pl
 serialowo.pl
 serial.vod.co.pl
 server078515.nazwa.pl
+server095630.nazwa.pl
 server730889.nazwa.pl
 server836207.nazwa.pl
 server905483.nazwa.pl
+servicecheck5.wixsite.com
 service-pay.company
 serwer2081930.home.pl
 serwis-ab.com.pl
@@ -4204,6 +4213,7 @@ trafisz.com
 trampcamp.pl
 trampkiconverse.com
 trampkitanie.pl
+transbodek.com
 transegz.pl
 trapez-sc.pl
 travelonsrilanka.com
@@ -4241,6 +4251,7 @@ tvkody.com
 tv-maniak.pl
 tvnewtop.pro
 tvnowapp.net
+tvnpolska24.hekko24.pl
 tvonline.hol.es
 twierdza-wroclaw.pl
 twochefs-pizzeria.pl
@@ -4474,6 +4485,7 @@ wiadomoscipolska99.pro-linuxpl.com
 wiadomosci-web.24.eu
 wicher-grabowo.pl
 widget-eforsa.pl
+wiecejpolski.icu
 wieczorowapora.pl
 wielkanagroda.com
 wielkaniespodzianka.pl
@@ -4531,6 +4543,7 @@ wosp.online
 wp.6645478.top
 wplogin.5v.pl
 w-polsce.pl
+wppoczta-regulamin.pl
 wp-regulamin.com
 wpunkcie.pl
 wraplo.pl
@@ -5794,6 +5807,7 @@ www.facebook.5v.pl
 www.facebookaplikacje.blogspot.com
 www.facebook-color.5v.pl
 www.facebookcolors24.blogspot.com
+www.facebook-info.pl
 www.facebookkoloruj.blogspot.com
 www.facebookkviewer.blogspot.com
 www.facebook-login.5v.pl
@@ -5992,6 +6006,7 @@ www.fminzynieria.pl
 www.focusmall-rybnik.pl
 www.followergods.com
 www.fomaska.com
+www.food-eng.online
 www.footoografie-pobieralnia.eu
 www.foresightwielkopolska.pl
 www.forestarii.pl
@@ -6918,6 +6933,8 @@ www.luxkur.online
 www.lvgrowmarkets.com
 www.lyconet.com
 www.lyoness.com
+www.ma-1.erema.biz
+www.ma-1.lzglnter.com
 www.mabello.pl
 www.macandwin.theforcontentingvideosystems.icu
 www.maccleaner.space
@@ -7133,6 +7150,7 @@ www.mondayblog.pl
 www.monetizer.info
 www.moneywin24.com
 www.moneywp.website
+www.moneywp.xyz
 www.monikajaskowiak.pl
 www.monikareplin.pl
 www.monkeytreephoto.com
@@ -7539,6 +7557,7 @@ www.palloosweddings.com
 www.palmabella.pl
 www.pamelambarnettcounseling.com
 www.pandha.pl
+www.panel.home.pl.frustone.it
 www.panel.home.pl.muna.it
 www.panel.home.pl.vespaclub.com
 www.paoladesentis.com
@@ -7788,6 +7807,7 @@ www.porownajtv24.pl
 www.portaldruku.pl
 www.portal-legionowo.pl
 www.porumar.pl
+www.porwaniadzieci.eu
 www.poscielowyraj.pl
 www.poshettescafe.com
 www.post-341478.info
@@ -8199,9 +8219,11 @@ www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
 www.server078515.nazwa.pl
+www.server095630.nazwa.pl
 www.server730889.nazwa.pl
 www.server836207.nazwa.pl
 www.server905483.nazwa.pl
+www.servicecheck5.wixsite.com
 www.service-pay.company
 www.serwer2081930.home.pl
 www.serwis-ab.com.pl
@@ -8729,6 +8751,7 @@ www.trafisz.com
 www.trampcamp.pl
 www.trampkiconverse.com
 www.trampkitanie.pl
+www.transbodek.com
 www.transegz.pl
 www.trapez-sc.pl
 www.travelonsrilanka.com
@@ -8766,6 +8789,7 @@ www.tvkody.com
 www.tv-maniak.pl
 www.tvnewtop.pro
 www.tvnowapp.net
+www.tvnpolska24.hekko24.pl
 www.tvonline.hol.es
 www.twierdza-wroclaw.pl
 www.twochefs-pizzeria.pl
@@ -8999,6 +9023,7 @@ www.wiadomoscipolska99.pro-linuxpl.com
 www.wiadomosci-web.24.eu
 www.wicher-grabowo.pl
 www.widget-eforsa.pl
+www.wiecejpolski.icu
 www.wieczorowapora.pl
 www.wielkanagroda.com
 www.wielkaniespodzianka.pl
@@ -9056,6 +9081,7 @@ www.wosp.online
 www.wp.6645478.top
 www.wplogin.5v.pl
 www.w-polsce.pl
+www.wppoczta-regulamin.pl
 www.wp-regulamin.com
 www.wpunkcie.pl
 www.wraplo.pl
