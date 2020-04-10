@@ -1151,11 +1151,14 @@ epaka247.net
 epgnig.pl
 epicreactflyknit.pl
 epicreact.pl
+e-pity-2020.pl
 e-platnosc.best
 epliki24.pl
 epoczta247.com
 e-podatek.net
+e-polskaporwania.pl
 e-pomagajmypl.pl
+e-porwaniapolska.pl
 epremki.eu
 eqology.com
 erbudokna.pl
@@ -1194,6 +1197,7 @@ euroagd.in.net
 euroausili.it
 eurobarre.pl
 eurobizneskonsulting.pl
+eurocarsped.com
 euronicspl.net
 europacafe.pl
 europan.pl
@@ -1538,6 +1542,7 @@ gackokurier.com
 gadajzdrow.eu
 gadzetygdynia.pl
 gagrat.co
+gajakurier.org
 galatransmisja.pe.hu
 galeriakamienica.pl
 galeriamdm.pl
@@ -2147,6 +2152,7 @@ komputerowy.net.pl
 koncepcjakirka.pl
 konferencjaautyzm.pl
 konferencje.vantis.pl
+koniec500plus.eu
 konkursbiedronka.5v.pl
 konkurskauffland.24.eu
 konkursy24.ml
@@ -2904,6 +2910,7 @@ onlinefachowiec.pl
 onlinehd.pl
 onlinekino.pl
 online-platnosci.services
+online-platnosc.services
 onlinerekruter.com
 onlinereward.site
 online-ruletka.pl
@@ -3021,6 +3028,7 @@ pay24-paczka.com
 pay2me.pl
 pay.e-kurier24.net
 pay.express-pocztex.com
+payment24-online.org
 pay.onebip.com
 payoner.club
 payooner.club
@@ -3236,6 +3244,10 @@ polska1989.pl
 polskabieda.com
 polska-gazeta-dnia.pl
 polskapaczka24.net
+polskaporwania.com.pl
+polskaporwania.eu
+polskaporwania.net.pl
+polskaporwania.pl
 polska-tv.pl
 polskibestseller.pl
 polskieetno.pl
@@ -3269,7 +3281,13 @@ porownajtv24.pl
 portaldruku.pl
 portal-legionowo.pl
 porumar.pl
+porwaniadzieci.com.pl
 porwaniadzieci.eu
+porwaniadzieci-online.pl
+porwaniadzieci.pl
+porwaniapolska.com.pl
+porwaniapolska.net.pl
+porwaniapolska.pl
 poscielowyraj.pl
 poshettescafe.com
 post-341478.info
@@ -5719,11 +5737,14 @@ www.epaka247.net
 www.epgnig.pl
 www.epicreactflyknit.pl
 www.epicreact.pl
+www.e-pity-2020.pl
 www.e-platnosc.best
 www.epliki24.pl
 www.epoczta247.com
 www.e-podatek.net
+www.e-polskaporwania.pl
 www.e-pomagajmypl.pl
+www.e-porwaniapolska.pl
 www.epremki.eu
 www.eqology.com
 www.erbudokna.pl
@@ -5762,6 +5783,7 @@ www.euroagd.in.net
 www.euroausili.it
 www.eurobarre.pl
 www.eurobizneskonsulting.pl
+www.eurocarsped.com
 www.euronicspl.net
 www.europacafe.pl
 www.europan.pl
@@ -6106,6 +6128,7 @@ www.gackokurier.com
 www.gadajzdrow.eu
 www.gadzetygdynia.pl
 www.gagrat.co
+www.gajakurier.org
 www.galatransmisja.pe.hu
 www.galeriakamienica.pl
 www.galeriamdm.pl
@@ -6715,6 +6738,7 @@ www.komputerowy.net.pl
 www.koncepcjakirka.pl
 www.konferencjaautyzm.pl
 www.konferencje.vantis.pl
+www.koniec500plus.eu
 www.konkursbiedronka.5v.pl
 www.konkurskauffland.24.eu
 www.konkursy24.ml
@@ -7472,6 +7496,7 @@ www.onlinefachowiec.pl
 www.onlinehd.pl
 www.onlinekino.pl
 www.online-platnosci.services
+www.online-platnosc.services
 www.onlinerekruter.com
 www.onlinereward.site
 www.online-ruletka.pl
@@ -7589,6 +7614,7 @@ www.pay24-paczka.com
 www.pay2me.pl
 www.pay.e-kurier24.net
 www.pay.express-pocztex.com
+www.payment24-online.org
 www.pay.onebip.com
 www.payoner.club
 www.payooner.club
@@ -7774,6 +7800,10 @@ www.polska1989.pl
 www.polskabieda.com
 www.polska-gazeta-dnia.pl
 www.polskapaczka24.net
+www.polskaporwania.com.pl
+www.polskaporwania.eu
+www.polskaporwania.net.pl
+www.polskaporwania.pl
 www.polska-tv.pl
 www.polskibestseller.pl
 www.polskieetno.pl
@@ -7807,7 +7837,13 @@ www.porownajtv24.pl
 www.portaldruku.pl
 www.portal-legionowo.pl
 www.porumar.pl
+www.porwaniadzieci.com.pl
 www.porwaniadzieci.eu
+www.porwaniadzieci-online.pl
+www.porwaniadzieci.pl
+www.porwaniapolska.com.pl
+www.porwaniapolska.net.pl
+www.porwaniapolska.pl
 www.poscielowyraj.pl
 www.poshettescafe.com
 www.post-341478.info
@@ -9254,6 +9290,7 @@ www.ziololecznictwo.pl
 www.zjednoczonekrolestwo.pl
 www.zkotami.pl
 www.zlecone.xn.pl
+www.zmall.pl
 www.zmianynaziemi.pl
 www.zmienienie-koloru.blogspot.com
 www.zmienkolorfejsazafree.blogspot.com
@@ -9443,6 +9480,7 @@ ziololecznictwo.pl
 zjednoczonekrolestwo.pl
 zkotami.pl
 zlecone.xn.pl
+zmall.pl
 zmianynaziemi.pl
 zmienienie-koloru.blogspot.com
 zmienkolorfejsazafree.blogspot.com

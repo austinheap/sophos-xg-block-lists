@@ -1294,6 +1294,7 @@ cod.bitrec.com
 cogmatch.net
 cognativex.com
 cognitivematch.com
+cohesionapps.com
 co.hltv.org
 coinblind.com
 coincheck.com
@@ -2506,6 +2507,7 @@ geolid.com
 geo.metronews.ca
 geo.mezr.com
 geo.mtvnn.com
+geo.nbcsports.com
 geo.play.it
 geo.q5media.net
 georiot.com
@@ -3189,6 +3191,7 @@ linezing.com
 linkconnector.com
 link-empfehlen24.de
 link.informer.com
+link.kogan.com
 linkpulse.com
 linkpuls.idg.no
 links.boom.ge
