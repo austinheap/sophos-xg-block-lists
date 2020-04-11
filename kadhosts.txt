@@ -910,7 +910,6 @@ digitalbugs.pl
 digitalcut.pl
 dint.com.pl
 diorsklep.pl
-direct3.greenfitness.net
 directpayment.pl
 dirproperties.com
 dirtythekitchen.com
@@ -2474,6 +2473,7 @@ meblokem.com.pl
 mechaonik.nsx.pl
 mecz.ujm.pl
 medgenetix.pl
+mediaborek.pl
 mediaexpres.in.net
 mediafile.pl
 medialarts.pl
@@ -2523,6 +2523,7 @@ migawkastudio.pl
 migdalowachata.pl
 milek-okna.pl
 milenium.site
+millensbank.fun
 millionways.duckdns.org
 millson-recruitment.pl
 minipensjonatadmiral.pl
@@ -2833,6 +2834,7 @@ nu7.pl
 nuskin.com
 nyctrk.com
 nympropiedades.cl
+o2-fakty.pro
 oazaborek.pl
 oberzapodorzechem.pl
 obeyter.com
@@ -3112,6 +3114,7 @@ platinumprestige.pl
 platnik247.online
 platnosci24.services
 platnosci-online.services
+platnosc-kurier.com
 platnosc.paczka-48.com
 platnosc.podatkigov.net
 platnosc.twoj-kurier.com
@@ -3702,6 +3705,7 @@ server078515.nazwa.pl
 server095630.nazwa.pl
 server730889.nazwa.pl
 server836207.nazwa.pl
+server866225.nazwa.pl
 server905483.nazwa.pl
 servicecheck5.wixsite.com
 service-pay.company
@@ -4557,6 +4561,7 @@ worldinfoclub.com
 worldoftankscheats.com
 worldprize.pl
 worldsementi.pl
+worthlessness.xyz
 wosp.online
 wp.6645478.top
 wplogin.5v.pl
@@ -5496,7 +5501,6 @@ www.digitalbugs.pl
 www.digitalcut.pl
 www.dint.com.pl
 www.diorsklep.pl
-www.direct3.greenfitness.net
 www.directpayment.pl
 www.dirproperties.com
 www.dirtythekitchen.com
@@ -7060,6 +7064,7 @@ www.meblokem.com.pl
 www.mechaonik.nsx.pl
 www.mecz.ujm.pl
 www.medgenetix.pl
+www.mediaborek.pl
 www.mediaexpres.in.net
 www.mediafile.pl
 www.medialarts.pl
@@ -7109,6 +7114,7 @@ www.migawkastudio.pl
 www.migdalowachata.pl
 www.milek-okna.pl
 www.milenium.site
+www.millensbank.fun
 www.millionways.duckdns.org
 www.millson-recruitment.pl
 www.minipensjonatadmiral.pl
@@ -7419,6 +7425,7 @@ www.nu7.pl
 www.nuskin.com
 www.nyctrk.com
 www.nympropiedades.cl
+www.o2-fakty.pro
 www.oazaborek.pl
 www.oberzapodorzechem.pl
 www.obeyter.com
@@ -7694,6 +7701,7 @@ www.platinumprestige.pl
 www.platnik247.online
 www.platnosci24.services
 www.platnosci-online.services
+www.platnosc-kurier.com
 www.platnosc.paczka-48.com
 www.platnosc.podatkigov.net
 www.platnosc.twoj-kurier.com
@@ -8258,6 +8266,7 @@ www.server078515.nazwa.pl
 www.server095630.nazwa.pl
 www.server730889.nazwa.pl
 www.server836207.nazwa.pl
+www.server866225.nazwa.pl
 www.server905483.nazwa.pl
 www.servicecheck5.wixsite.com
 www.service-pay.company
@@ -9113,6 +9122,7 @@ www.worldinfoclub.com
 www.worldoftankscheats.com
 www.worldprize.pl
 www.worldsementi.pl
+www.worthlessness.xyz
 www.wosp.online
 www.wp.6645478.top
 www.wplogin.5v.pl
