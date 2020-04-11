@@ -3043,7 +3043,6 @@ b.dpmsrv.com
 bd.vungle.com
 beacon-apac-hkg1.rubiconproject.com
 beacon-api.aliyuncs.com
-beaconapi.helpscout.net
 beacon.carfax.com
 beacon.clickequations.net.edgekey.net
 beacon.deepintent.com
@@ -3095,7 +3094,6 @@ beacon-us-iad2.rubiconproject.com
 beacon-us-iad3.rubiconproject.com
 beacon.us-west-2.prodaa.netflix.com
 beacon-us-west.rubiconproject.com
-beacon-v2.helpscout.net
 beacon.viewlift.com
 beacon.zeroidtech.com
 beacon.ztgame.com
@@ -7553,7 +7551,6 @@ mobilewithsms.net
 mobile-ws.apprissmobile.com
 mobile.yandexadexchange.net
 mobilityware-d.openx.net
-mobilityware.helpshift.com
 mobimagic.com
 mobimagic-d.openx.net
 mobioffers.ru
