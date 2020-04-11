@@ -2341,6 +2341,7 @@ flockflame.com
 flophous.cf
 fluencymedia.com
 fluidsurveys.com
+flurry.com
 flx1.com
 flxpxl.com
 flyingpt.com
@@ -2516,6 +2517,7 @@ geotargetly-1a441.appspot.com
 geo.xcel.io
 geo.yahoo.com
 getaim.info
+getambassador.com
 getbackstory.com
 getblueshift.com
 getclicky.com

@@ -655,6 +655,7 @@ centrummonitoringuufo.pl
 centrumnaukowe.eu
 centrumofert.com
 centrumplay.pl
+centrumrozrywki.5v.pl
 centrumrozwojuprestige.pl
 centrumzklimatem.pl
 cerine-posals.icu
@@ -2982,6 +2983,7 @@ ozzp-rp.pl
 p.24-7.help
 packza.dostawy24.com
 pacyfka99.pl
+paczka24-oplata.com
 paczka-48.com
 paczkadpd.com
 paczka.poczta-pay.com
@@ -3165,6 +3167,7 @@ pliks.pl
 pljestnaj.pl
 pl.lider.pl
 pl.longup.co
+pllubiok.5v.pl
 pl.medicreporters.com
 pl.melaleuca.com
 pl.mevida.me
@@ -5246,6 +5249,7 @@ www.centrummonitoringuufo.pl
 www.centrumnaukowe.eu
 www.centrumofert.com
 www.centrumplay.pl
+www.centrumrozrywki.5v.pl
 www.centrumrozwojuprestige.pl
 www.centrumzklimatem.pl
 www.cerine-posals.icu
@@ -7573,6 +7577,7 @@ www.ozzp-rp.pl
 www.p.24-7.help
 www.packza.dostawy24.com
 www.pacyfka99.pl
+www.paczka24-oplata.com
 www.paczka-48.com
 www.paczkadpd.com
 www.paczka.poczta-pay.com
@@ -7737,6 +7742,7 @@ www.plikson24.pl
 www.plikson.pl
 www.pliks.pl
 www.pljestnaj.pl
+www.pllubiok.5v.pl
 www.ploskonax.com
 www.plpocztex.net
 www.plpocztex.org
