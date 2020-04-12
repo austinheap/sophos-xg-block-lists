@@ -2514,6 +2514,7 @@ geo.q5media.net
 georiot.com
 geoservice.curse.com
 geotargetly-1a441.appspot.com
+geo-targetly.com
 geo.xcel.io
 geo.yahoo.com
 getaim.info
@@ -3205,6 +3206,7 @@ linkwi.se
 linkxchanger.com
 liod1ours.com
 listtop.ru
+literally-analytics.appspot.com
 litix.io
 livecounter.dk
 livecounter.theyosh.nl
@@ -4003,6 +4005,7 @@ parklogic.com
 parrable.com
 parsimoniouspolice.com
 partner.cynapse.com
+partner.permutive.app
 partners.badongo.com
 partners.mysavings.com
 partner.worldoftanks.com

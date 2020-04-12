@@ -926,6 +926,7 @@ americash.com
 a.mktw.net
 amplitude.com
 amung.us
+analyticin.online
 analytics.adpost.org
 analytics.bitrix.info
 analytics.cloudron.io
@@ -2819,7 +2820,6 @@ stats.pusher.com
 stats.self.com
 stats.townnews.com
 stats.unwired-i.net
-stats.vk-portal.net
 stats.wordpress.com
 stats.wp.com
 stats.x14.eu
