@@ -1133,6 +1133,7 @@ emiliareichert.pl
 emmacosmetics.pl
 emobi-sys.com
 emporium-group.pl
+emptierbreak.xyz
 emuzyka-do-pobrania.pl
 e-naturessunshine.com
 endgames.pl
@@ -1380,6 +1381,7 @@ filmhd.ek1.pl
 filmline.pl
 film-milosc.pl
 filmobox.pl
+filmofon.pl
 filmonline.info.pl
 filmoo-maniacy.blogspot.com
 filmoteka.tv
@@ -2165,6 +2167,7 @@ konkursy.de
 konkursynagrody.pl
 konradniedzwiedzki.pl
 konstancjanieruchomosci.com.pl
+kopalniafilmow.pl
 korkomath.pl
 koronainfo24.eu
 koronamiasto.hekko24.pl
@@ -2839,6 +2842,7 @@ nowinki.blog-online.eu
 nowoczesnafizjoterapia.pl
 nowosczdrowieporadyvlc.pl
 nowotnyart.pl
+nowy-regulamin.com
 nsfund.mn
 ntnelektronik.pl
 nu7.pl
@@ -3310,6 +3314,7 @@ porwaniadzieci.pl
 porwaniapolska.com.pl
 porwaniapolska.net.pl
 porwaniapolska.pl
+porwaniedziecki24.eu
 poscielowyraj.pl
 poshettescafe.com
 post-341478.info
@@ -3540,6 +3545,7 @@ reaganlighting.com
 real-app.date
 realnyzarobek.pl
 reasport.pl
+recektorelecza.pl
 recepta.com.pl
 receptanaszczescie.pl
 recommendedlab.com
@@ -5747,6 +5753,7 @@ www.emiliareichert.pl
 www.emmacosmetics.pl
 www.emobi-sys.com
 www.emporium-group.pl
+www.emptierbreak.xyz
 www.emuzyka-do-pobrania.pl
 www.e-naturessunshine.com
 www.endgames.pl
@@ -5994,6 +6001,7 @@ www.filmhd.ek1.pl
 www.filmline.pl
 www.film-milosc.pl
 www.filmobox.pl
+www.filmofon.pl
 www.filmonline.info.pl
 www.filmoo-maniacy.blogspot.com
 www.filmoteka.tv
@@ -6779,6 +6787,7 @@ www.konkursy.de
 www.konkursynagrody.pl
 www.konradniedzwiedzki.pl
 www.konstancjanieruchomosci.com.pl
+www.kopalniafilmow.pl
 www.korkomath.pl
 www.koronainfo24.eu
 www.koronamiasto.hekko24.pl
@@ -7453,6 +7462,7 @@ www.nowinki.blog-online.eu
 www.nowoczesnafizjoterapia.pl
 www.nowosczdrowieporadyvlc.pl
 www.nowotnyart.pl
+www.nowy-regulamin.com
 www.nsfund.mn
 www.ntnelektronik.pl
 www.nu7.pl
@@ -7894,6 +7904,7 @@ www.porwaniadzieci.pl
 www.porwaniapolska.com.pl
 www.porwaniapolska.net.pl
 www.porwaniapolska.pl
+www.porwaniedziecki24.eu
 www.poscielowyraj.pl
 www.poshettescafe.com
 www.post-341478.info
@@ -8124,6 +8135,7 @@ www.reaganlighting.com
 www.real-app.date
 www.realnyzarobek.pl
 www.reasport.pl
+www.recektorelecza.pl
 www.recepta.com.pl
 www.receptanaszczescie.pl
 www.recommendedlab.com
