@@ -9436,7 +9436,6 @@ sdk.appsflyer.com
 sdk.appsflyer.tk
 sdk.apptentive.com
 sdk.apptimize.com
-sdk.arengu.com
 sdk.asapp.com
 sdk-assets.localytics.com
 sdk-assets-zy8pe3h4v8msjk6x2sq4.stackpathdns.com
