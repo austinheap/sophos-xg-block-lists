@@ -192,6 +192,7 @@ allegro.pl.showltem.pl
 allegro.pl.showlten.pl
 allegrosklep.online
 allegro.targi.pl
+allegrowork.site
 allenit.pl
 alle-perfumy.pl
 alleqro-pl.choljai.info
@@ -800,6 +801,7 @@ cs.nailrr.com
 cs-podhale.pl
 cs.shiporama.com
 cs.spotlessweb.com
+ct-redirect.com
 cultland.pl
 cultsneaks.pl
 cuosdemakadi.gq
@@ -1144,6 +1146,7 @@ e-podatek.net
 e-polskaporwania.pl
 e-pomagajmypl.pl
 e-porwaniapolska.pl
+e-poszukiwananatalka.pl
 epremki.eu
 eqology.com
 erbudokna.pl
@@ -1511,6 +1514,7 @@ funskan.pl
 funsolo.net
 funtoonez.com
 furgonetka.online
+furgonetka.pro
 futurenet.club
 futurepay.globway.eu
 fxgm.com
@@ -1891,6 +1895,8 @@ invent-themes.pl
 investpedia.pl
 investreviewier.com
 inwestujwrozwoj.pl
+ionetporwanie.com.pl
+ionetporwanie.pl
 iotiot.cf
 ipayu.pl
 ipeachy.pl
@@ -1903,6 +1909,7 @@ iporwaniedziecka24.com.pl
 iporwaniedziecka24.net.pl
 iporwaniedziecka24.pl
 iporwaniedziecka24.waw.pl
+iposzukiwananatalka.pl
 iptivicini.com
 ipzd.pl
 iqtestuj.glt.pl
@@ -1952,6 +1959,7 @@ janod.pl
 janparkiet.pl
 jantar-ostroleka.pl
 januszbysina.pl
+januszp.stronazen.pl
 januszsobo.online
 jasaweb.biz
 jasnyogrod.pl
@@ -2449,6 +2457,7 @@ meblehiszpanskie.pl
 meblokem.com.pl
 mechaonik.nsx.pl
 mecz.ujm.pl
+medcomcenter.pl
 medgenetix.pl
 mediaborek.pl
 mediaexpres.in.net
@@ -2499,6 +2508,7 @@ milek-okna.pl
 milenium.site
 millensbank.fun
 millensbank.site
+millensbank.website
 millionways.duckdns.org
 millson-recruitment.pl
 minipensjonatadmiral.pl
@@ -2728,6 +2738,7 @@ news-paperz.com
 newsredir.com
 newswave.online
 newsweek-polska-pl.eu
+newsy097.pro-linuxpl.com
 newsy-ben24.ml
 newszone.pro
 newtechagd.net
@@ -3150,6 +3161,7 @@ ploskonax.com
 plpocztex.net
 plpocztex.org
 pl.princessmask.pro
+pl.profitrevolution.best
 pl-pulsbiz.net
 pl.siberianhealth.com
 pl.slimg0ji-berry.com
@@ -3274,6 +3286,10 @@ poscielowyraj.pl
 poshettescafe.com
 post-341478.info
 poszukiwanadziewczynka.eu
+poszukiwananatalka.eu
+poszukiwananatalka.net.pl
+poszukiwananatalka.pl
+poszukiwananatalka.waw.pl
 poszukiwania24.com.pl
 poszukiwania24.eu
 poszukiwania24.net.pl
@@ -4752,6 +4768,7 @@ www.allegro.pl.showltem.pl
 www.allegro.pl.showlten.pl
 www.allegrosklep.online
 www.allegro.targi.pl
+www.allegrowork.site
 www.allenit.pl
 www.alle-perfumy.pl
 www.alleqro-pl.choljai.info
@@ -5362,6 +5379,7 @@ www.cs.nailrr.com
 www.cs-podhale.pl
 www.cs.shiporama.com
 www.cs.spotlessweb.com
+www.ct-redirect.com
 www.cultland.pl
 www.cultsneaks.pl
 www.cuosdemakadi.gq
@@ -5706,6 +5724,7 @@ www.e-podatek.net
 www.e-polskaporwania.pl
 www.e-pomagajmypl.pl
 www.e-porwaniapolska.pl
+www.e-poszukiwananatalka.pl
 www.epremki.eu
 www.eqology.com
 www.erbudokna.pl
@@ -6073,6 +6092,7 @@ www.funskan.pl
 www.funsolo.net
 www.funtoonez.com
 www.furgonetka.online
+www.furgonetka.pro
 www.futurenet.club
 www.futurepay.globway.eu
 www.fxgm.com
@@ -6453,6 +6473,8 @@ www.invent-themes.pl
 www.investpedia.pl
 www.investreviewier.com
 www.inwestujwrozwoj.pl
+www.ionetporwanie.com.pl
+www.ionetporwanie.pl
 www.iotiot.cf
 www.ipayu.pl
 www.ipeachy.pl
@@ -6465,6 +6487,7 @@ www.iporwaniedziecka24.com.pl
 www.iporwaniedziecka24.net.pl
 www.iporwaniedziecka24.pl
 www.iporwaniedziecka24.waw.pl
+www.iposzukiwananatalka.pl
 www.iptivicini.com
 www.ipzd.pl
 www.iqtestuj.glt.pl
@@ -6514,6 +6537,7 @@ www.janod.pl
 www.janparkiet.pl
 www.jantar-ostroleka.pl
 www.januszbysina.pl
+www.januszp.stronazen.pl
 www.januszsobo.online
 www.jasaweb.biz
 www.jasnyogrod.pl
@@ -7011,6 +7035,7 @@ www.meblehiszpanskie.pl
 www.meblokem.com.pl
 www.mechaonik.nsx.pl
 www.mecz.ujm.pl
+www.medcomcenter.pl
 www.medgenetix.pl
 www.mediaborek.pl
 www.mediaexpres.in.net
@@ -7061,6 +7086,7 @@ www.milek-okna.pl
 www.milenium.site
 www.millensbank.fun
 www.millensbank.site
+www.millensbank.website
 www.millionways.duckdns.org
 www.millson-recruitment.pl
 www.minipensjonatadmiral.pl
@@ -7290,6 +7316,7 @@ www.news-paperz.com
 www.newsredir.com
 www.newswave.online
 www.newsweek-polska-pl.eu
+www.newsy097.pro-linuxpl.com
 www.newsy-ben24.ml
 www.newszone.pro
 www.newtechagd.net
@@ -7806,6 +7833,10 @@ www.poscielowyraj.pl
 www.poshettescafe.com
 www.post-341478.info
 www.poszukiwanadziewczynka.eu
+www.poszukiwananatalka.eu
+www.poszukiwananatalka.net.pl
+www.poszukiwananatalka.pl
+www.poszukiwananatalka.waw.pl
 www.poszukiwania24.com.pl
 www.poszukiwania24.eu
 www.poszukiwania24.net.pl
