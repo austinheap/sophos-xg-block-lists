@@ -6494,7 +6494,6 @@ iotanalytics.eu-west-1.amazonaws.com
 iotapi.adups.com
 iownit.optimizely.com
 ip2.casalemedia.com
-ip-api.com
 ipa.pushwoosh.com
 ip.casalemedia.com
 ipcmedia.grapeshot.co.uk

@@ -111,6 +111,7 @@ agl-intl.hotstar.com
 aicleaner.shouji.360.cn
 akashdayalgroups.com
 alliance4media.com
+allmygoodlife.com
 alog.umengcloud.com
 alog.umeng.com
 amarktflow.com
@@ -391,6 +392,8 @@ g.s.360.cn
 gtsdk.batmobi.net
 gum.criteo.com
 gurgle.zdbb.net
+hadslims.com
+hadsoks.com
 hata.ero-advertising.com
 hb-analytics.hotstar.com
 hb.brainlyads.com
@@ -542,6 +545,8 @@ piwik.ero-advertising.com
 pixel.nc0.co
 pixel.onaudience.com
 pixel.realclever.com
+pl15117601.pvclouds.com
+pl15209890.pvclouds.com
 plaimedia.com
 platform.bidgear.com
 playamo30.com

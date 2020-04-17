@@ -400,6 +400,7 @@ analytics.archive.org
 analytics.arz.at
 analytics.atomiconline.com
 analytics.audioeye.com
+analytics.audionow.de
 analytics.avanser.com.au
 analytics.aweber.com
 analytics.belgacom.be
@@ -2041,6 +2042,7 @@ ef.futuroscope.com
 ef.futuroscope.mobi
 e.funnymel.com
 eggplant.cloud
+eg-p2.eurogamer.net
 ejyymghi.com
 ek8.voyage-prive.com
 e-kaiseki.com
@@ -4525,6 +4527,7 @@ revenuepilot.com
 revenuescience.com
 revenuewire.net
 revjet.com
+revoffers.com
 revolvermaps.com
 revsci.tvguide.com
 revsw.net
@@ -4619,6 +4622,7 @@ ru.net
 runtnc.net
 rusticprice.com
 rutarget.ru
+ruthlessdegree.com
 rva.outbrain.com
 rv.modanisa.com
 rztrkr.com
@@ -5236,6 +5240,7 @@ stats.eyeviewdigital.com
 stats-factory.digitregroup.io
 stats.fd.nl
 stats.fittkaumaass.de
+stats.fomo.com
 statsforever.com
 stats.fr
 stats.frankfurterneuepresse.de
@@ -5743,6 +5748,7 @@ track.bernerzeitung.ch
 track.briskfile.com
 track.byzon.swelen.net
 track.catalogs.com
+trackcb.com
 track.cbs.com
 trackcdn.com
 track.cedsdigital.it
@@ -6075,6 +6081,7 @@ triggeredmessaging.com
 triggers.wfxtriggers.com
 triggertag.gorillanation.com
 triggit.com
+trilogyed.com
 tr.interlake.net
 triptease.io
 triptease.net
