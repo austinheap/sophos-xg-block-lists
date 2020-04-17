@@ -1017,9 +1017,15 @@ durasoft.pl
 dvzwh.voluumtrk.com
 dw.lp.eu.emobi-sys.com
 dwnlad.ws
+dworzecporwanie.pl
+dworzecporwaniepl-24.pl
+dworzecporwaniepl.com.pl
 dworzecporwaniepl.eu
+dworzecporwaniepl.net.pl
 dworzecporwaniepl.online
+dworzecporwaniepl.pl
 dworzecporwaniepl.site
+dworzecporwaniepl.waw.pl
 dwzacisze.com.pl
 dxn2u.com
 dyskotekafantazja.pl
@@ -1084,6 +1090,8 @@ eduhull.pl
 edukacjawakcji.pl
 edukacjawysylkowa.pl
 edumedix.pl
+e-dworzecporwaniepl.pl
+edworzecporwaniepl.pl
 eeu.pl
 e-filmy24.pl
 e-fohow.pl
@@ -1849,6 +1857,8 @@ idealnafigura.com
 ideatur.pl
 ideazespolufilmowego.pl
 idgarin.com
+i-dworzecporwaniepl.pl
+idworzecporwaniepl.pl
 i-dziewczynkaporwana.pl
 i-films.pl
 i-filmy.pl
@@ -5680,9 +5690,15 @@ www.durasoft.pl
 www.dvzwh.voluumtrk.com
 www.dw.lp.eu.emobi-sys.com
 www.dwnlad.ws
+www.dworzecporwanie.pl
+www.dworzecporwaniepl-24.pl
+www.dworzecporwaniepl.com.pl
 www.dworzecporwaniepl.eu
+www.dworzecporwaniepl.net.pl
 www.dworzecporwaniepl.online
+www.dworzecporwaniepl.pl
 www.dworzecporwaniepl.site
+www.dworzecporwaniepl.waw.pl
 www.dwzacisze.com.pl
 www.dxn2u.com
 www.dyskotekafantazja.pl
@@ -5747,6 +5763,8 @@ www.eduhull.pl
 www.edukacjawakcji.pl
 www.edukacjawysylkowa.pl
 www.edumedix.pl
+www.e-dworzecporwaniepl.pl
+www.edworzecporwaniepl.pl
 www.eeu.pl
 www.e-filmy24.pl
 www.e-fohow.pl
@@ -6512,6 +6530,8 @@ www.idealnafigura.com
 www.ideatur.pl
 www.ideazespolufilmowego.pl
 www.idgarin.com
+www.i-dworzecporwaniepl.pl
+www.idworzecporwaniepl.pl
 www.i-dziewczynkaporwana.pl
 www.i-films.pl
 www.i-filmy.pl

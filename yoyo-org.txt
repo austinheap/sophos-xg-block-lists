@@ -111,7 +111,6 @@ adbot.com
 adbrite.com
 adbrn.com
 adbroker.de
-adbunker.com
 adbutler.com
 adbuyer3.lycos.com
 adbuyer.com
@@ -268,7 +267,6 @@ adnetinteractive.com
 adnet.ru
 adnetwork.net
 adnetworkperformance.com
-adnet.worldreviewer.com
 adnews.maddog2000.de
 adnium.com
 adn.lrb.co.uk
@@ -842,6 +840,7 @@ ad.wavu.hu
 ad.way.cz
 ad.weatherbug.com
 adwhirl.com
+adwitserver.com
 adworldnetwork.com
 adworx.at
 adworx.nl
@@ -2097,6 +2096,7 @@ marketing.osijek031.com
 marketingsolutions.yahoo.com
 marketo.com
 mas.sector.sk
+massivemark.com
 matchcraft.com
 matheranalytics.com
 mathtag.com
@@ -2104,7 +2104,6 @@ matomo.activate.cz
 mautic.com
 max.i12.de
 maximiser.net
-maximumcash.com
 maxonclick.com
 mbs.megaroticlive.com
 mbuyu.nl
@@ -2263,7 +2262,6 @@ netpool.netbookia.net
 netshelter.net
 neudesicmediagroup.com
 newads.bangbros.com
-newbie.com
 newnet.qsrch.com
 newnudecash.com
 newopenx.detik.com
@@ -3246,7 +3244,6 @@ whispa.com
 whisperingcrib.com
 whoisonline.net
 wholesaletraffic.info
-widdit.com
 widespace.com
 widgetbucks.com
 widget.privy.com
