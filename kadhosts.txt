@@ -1297,6 +1297,7 @@ faktury3941.org
 fakty24-live.eu
 fakty24-swiat.pl
 fakty24swiat.pl
+fakty24-warszawa.pl
 faktypolska10.b-cdn.net
 faktypolska11.b-cdn.net
 faktypolska12.b-cdn.net
@@ -2381,6 +2382,7 @@ lollipop-slodkiestoly.pl
 lommi.pl
 lomniczanie.pl
 lomzynskie.pl
+londonharold.com
 longdate.pl
 longup.best-sales.top
 longup.co
@@ -2995,6 +2997,7 @@ oplacalnapolisa.com.pl
 oplaca-sie.pl
 oplackuriera.com
 oplac-paczka24.com
+oplac-paczke.com
 oplac-zaleglosc.eu
 oplanetach.pl
 oplat1y.com
@@ -3046,6 +3049,7 @@ packza.dostawy24.com
 pacyfka99.pl
 paczka24-oplata.com
 paczka-48.com
+paczka-dhl.com
 paczkadpd.com
 paczka.poczta-pay.com
 paczkomaty-pl.tk
@@ -4571,6 +4575,7 @@ warsawlimousine.pl
 warszawafakty.eu
 warszawa-gov.pl
 warszawa-info24.pl
+warszawa-informujemy.pl
 warterfoods.pl
 wartomiec.pl
 wawalot.pl
@@ -5989,6 +5994,7 @@ www.faktury3941.org
 www.fakty24-live.eu
 www.fakty24-swiat.pl
 www.fakty24swiat.pl
+www.fakty24-warszawa.pl
 www.faktypolska10.b-cdn.net
 www.faktypolska11.b-cdn.net
 www.faktypolska12.b-cdn.net
@@ -7073,6 +7079,7 @@ www.lollipop-slodkiestoly.pl
 www.lommi.pl
 www.lomniczanie.pl
 www.lomzynskie.pl
+www.londonharold.com
 www.longdate.pl
 www.longup.best-sales.top
 www.longup.co
@@ -7687,6 +7694,7 @@ www.oplacalnapolisa.com.pl
 www.oplaca-sie.pl
 www.oplackuriera.com
 www.oplac-paczka24.com
+www.oplac-paczke.com
 www.oplac-zaleglosc.eu
 www.oplanetach.pl
 www.oplat1y.com
@@ -7738,6 +7746,7 @@ www.packza.dostawy24.com
 www.pacyfka99.pl
 www.paczka24-oplata.com
 www.paczka-48.com
+www.paczka-dhl.com
 www.paczkadpd.com
 www.paczka.poczta-pay.com
 www.paczkomaty-pl.tk
@@ -9232,6 +9241,7 @@ www.warsawlimousine.pl
 www.warszawafakty.eu
 www.warszawa-gov.pl
 www.warszawa-info24.pl
+www.warszawa-informujemy.pl
 www.warterfoods.pl
 www.wartomiec.pl
 www.wawalot.pl
