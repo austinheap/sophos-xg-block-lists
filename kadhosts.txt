@@ -1017,7 +1017,16 @@ durasoft.pl
 dvzwh.voluumtrk.com
 dw.lp.eu.emobi-sys.com
 dwnlad.ws
-dworzecporwanie.pl
+dworzecfakt.com.pl
+dworzecfakt.eu
+dworzecfakt.online
+dworzecfakt.pl
+dworzecfakt.waw.pl
+dworzeconline24.com.pl
+dworzeconline24.online
+dworzeconline24.pl
+dworzeconline24.site
+dworzeconline24.waw.pl
 dworzecporwaniepl-24.pl
 dworzecporwaniepl.com.pl
 dworzecporwaniepl.eu
@@ -1090,6 +1099,8 @@ eduhull.pl
 edukacjawakcji.pl
 edukacjawysylkowa.pl
 edumedix.pl
+e-dworzeconline24.pl
+edworzeconline24.pl
 e-dworzecporwaniepl.pl
 edworzecporwaniepl.pl
 eeu.pl
@@ -1157,6 +1168,7 @@ epaka247.net
 epaka.club
 epge-bok.pl
 epgnig.pl
+epiatnosc.com
 epicreactflyknit.pl
 epicreact.pl
 e-pity-2020.pl
@@ -1817,6 +1829,7 @@ host1.5v.pl
 hostedfiles.net
 hosting2021623.online.pro
 hosting2024700.online.pro
+hosting2042037.online.pro
 hosting2086464.online.pro
 hostplik.pl
 hostujmy.pl
@@ -1885,6 +1898,7 @@ incruises.com
 indiecakes.com
 industry-deals.com
 inesmanila.com
+info24-warszawa.pl
 info-fakty24.pl
 infogrypa.pl
 infolinia-kontakt-telefon.pl
@@ -1893,6 +1907,8 @@ infonews24.com.pl
 info-polska.24.eu
 informacja-dnia.com
 informacje24fakt.pusiaweb.com
+informacje-fakty.pl
+informacje-fakty.pusiaweb.com
 informacje-news.eu
 informacje-o-maskach-ochronnych-pl.com
 informacje-swiat.pl
@@ -2207,6 +2223,7 @@ kozlowskavisage.pl
 kpzkaj.pl
 kraina-kopciuszka.pl
 krainakuhailana.pl
+krajowe-informacje.pl
 krakow-elektryk24.pl
 krakowparkiety.pl
 kramikeli.pl
@@ -3780,6 +3797,8 @@ serial.vod.co.pl
 server078515.nazwa.pl
 server095630.nazwa.pl
 server123481.nazwa.pl
+server221450.nazwa.pl
+server271250.nazwa.pl
 server328687.nazwa.pl
 server375674.nazwa.pl
 server432146.nazwa.pl
@@ -5690,7 +5709,16 @@ www.durasoft.pl
 www.dvzwh.voluumtrk.com
 www.dw.lp.eu.emobi-sys.com
 www.dwnlad.ws
-www.dworzecporwanie.pl
+www.dworzecfakt.com.pl
+www.dworzecfakt.eu
+www.dworzecfakt.online
+www.dworzecfakt.pl
+www.dworzecfakt.waw.pl
+www.dworzeconline24.com.pl
+www.dworzeconline24.online
+www.dworzeconline24.pl
+www.dworzeconline24.site
+www.dworzeconline24.waw.pl
 www.dworzecporwaniepl-24.pl
 www.dworzecporwaniepl.com.pl
 www.dworzecporwaniepl.eu
@@ -5763,6 +5791,8 @@ www.eduhull.pl
 www.edukacjawakcji.pl
 www.edukacjawysylkowa.pl
 www.edumedix.pl
+www.e-dworzeconline24.pl
+www.edworzeconline24.pl
 www.e-dworzecporwaniepl.pl
 www.edworzecporwaniepl.pl
 www.eeu.pl
@@ -5830,6 +5860,7 @@ www.epaka247.net
 www.epaka.club
 www.epge-bok.pl
 www.epgnig.pl
+www.epiatnosc.com
 www.epicreactflyknit.pl
 www.epicreact.pl
 www.e-pity-2020.pl
@@ -6490,6 +6521,7 @@ www.host1.5v.pl
 www.hostedfiles.net
 www.hosting2021623.online.pro
 www.hosting2024700.online.pro
+www.hosting2042037.online.pro
 www.hosting2086464.online.pro
 www.hostplik.pl
 www.hostujmy.pl
@@ -6558,6 +6590,7 @@ www.incruises.com
 www.indiecakes.com
 www.industry-deals.com
 www.inesmanila.com
+www.info24-warszawa.pl
 www.info-fakty24.pl
 www.infogrypa.pl
 www.infolinia-kontakt-telefon.pl
@@ -6566,6 +6599,8 @@ www.infonews24.com.pl
 www.info-polska.24.eu
 www.informacja-dnia.com
 www.informacje24fakt.pusiaweb.com
+www.informacje-fakty.pl
+www.informacje-fakty.pusiaweb.com
 www.informacje-news.eu
 www.informacje-o-maskach-ochronnych-pl.com
 www.informacje-swiat.pl
@@ -6880,6 +6915,7 @@ www.kozlowskavisage.pl
 www.kpzkaj.pl
 www.kraina-kopciuszka.pl
 www.krainakuhailana.pl
+www.krajowe-informacje.pl
 www.krakow-elektryk24.pl
 www.krakowparkiety.pl
 www.kramikeli.pl
@@ -8422,6 +8458,8 @@ www.serial.vod.co.pl
 www.server078515.nazwa.pl
 www.server095630.nazwa.pl
 www.server123481.nazwa.pl
+www.server221450.nazwa.pl
+www.server271250.nazwa.pl
 www.server328687.nazwa.pl
 www.server375674.nazwa.pl
 www.server432146.nazwa.pl
