@@ -186,6 +186,7 @@ a.stat.xiaomi.com
 ata.ero-advertising.com
 a.tvpage.com
 authbe.sec.intl.miui.com
+aws-update.net
 bacr.com.pk
 ban3ers.ero-advertising.com
 ban4ers.ero-advertising.com
@@ -270,6 +271,7 @@ console.rtk.io
 consumerproductsusa.com
 convhkmp.taboola.com
 convlatbmp.taboola.com
+corp-github.com
 cosiloon.com
 cradver.livejasmin.com
 creative.hpyrdr.com
@@ -299,6 +301,7 @@ daunteegyptian.pro
 dava.ero-advertising.com
 dawa.ero-advertising.com
 dbta.ero-advertising.com
+ddl.okgoodmobi.com
 degea.alphonso.tv
 demo.alphonso.tv
 deshmedia.com
@@ -329,6 +332,7 @@ embed.sendtonews.com
 enabler.datalake.mediaset.it
 enatimedia.com
 engine.bitmedianetwork.com
+ensure-https.com
 ers.ero-advertising.com
 es.ero-advertising.com
 e-ssl.apsalar.com
@@ -374,12 +378,26 @@ g0l32.queensiteforapp.com
 gamblerush.com
 gata.ero-advertising.com
 geofence.sys.miui.com
+githb.co
+git-hub.co
+git-secure-service.in
 gj.applog.uc.cn
 gjapplog.uc.cn
 gj.track.uc.cn
 gjtrack.ucweb.com
 globalapi.ad.xiaomi.com
 globalpagee-prod-webex.com
+glt-app.net
+glthubb.info
+glthub.co
+glt-hub.com
+glthube.app
+glthub.info
+glthub.net
+glthubs.com
+glthubse.info
+glthubs.info
+glthubs.net
 go.ad1data.com
 goodblock.gladly.io
 goooooooooogle.com
@@ -414,6 +432,7 @@ i1.dl-ad.com
 ibeat.indiatimes.com
 icloud.com-locations.in
 idspaces.ero-advertising.com
+ikezijik.ga
 imeds.ero-advertising.com
 imprhkmp.taboola.com
 imprlatbmp.taboola.com
@@ -464,6 +483,7 @@ logserver.insight.ucweb.com
 logs.gaana.com
 log.snapdeal.com
 logx.optimizely.com
+lp.cooktracking.com
 l-v1.presage.io
 ma1310-r.analytics.edgekey.net
 ma312-r.analytics.edgesuite.net
@@ -622,6 +642,7 @@ sgp.o2o.api.xiaomi.com
 sin.ero-advertising.com
 sionicmedia.com
 sitecdn.tvpage.com
+slack-app.net
 smartlock.google.com
 smtp.ero-advertising.com
 soperson.com
@@ -636,7 +657,9 @@ sportsinteraction.com
 spottyfly.com
 sqm.telemetry.microsoft.com
 srv.pixel.parsely.com
+ssl-connection.net
 ssl.widgets.webengage.com
+sso-github.com
 ssp.ad.xiaomi.com
 ssp.face2trade.com
 sstats.adobe.com
@@ -654,6 +677,7 @@ stealthedeal.com
 steenbergen.web.ero-advertising.com
 stopify.co
 storeconfig.mistat.intl.xiaomi.com
+sts-github.com
 superlogout.github.io
 supload.com
 support.apple.com-notice.info
@@ -698,6 +722,7 @@ track.tenjin.io
 tradersbrokers.com
 trafforsrv.com
 tr.alphonso.tv
+tsl-github.com
 ttwitter.com
 tvads.alphonso.tv
 tvmds.tvpassport.com
@@ -1018,6 +1043,7 @@ www.ipuss.tv
 www.jackbootedroom.com
 www.js.ads.ero-advertising.com
 www.kds.ero-advertising.com
+www.koapkmobi.com
 www.kushat.roboinside.me
 www.layers.ero-advertising.com
 www.lecap-services.fr
