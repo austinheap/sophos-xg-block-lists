@@ -644,6 +644,7 @@ as.payback.it
 assetscdn.stream
 assoctrac.com
 astat.nikkei.com
+asteriresearch.com
 astro-way.com
 asumi.shinobi.jp
 as.yomonda.de
@@ -2476,6 +2477,7 @@ generaltracking.de
 genieedmp.com
 genieessp.jp
 genieesspv.jp
+geo.6play.fr
 geobar.ziffdavisinternational.com
 geo.battle.net
 geobeacon.ign.com
@@ -4706,6 +4708,7 @@ sddan.com
 sdrive.skoda-auto.com
 seal.godaddy.com
 sealserver.trustwave.com
+seal.verisign.com
 sea-nov-1.com
 searchfeed.com
 searchignite.com
@@ -5000,6 +5003,7 @@ sp.jsonline.com
 sp.kitsapsun.com
 spklw.com
 sp.knoxnews.com
+spkrth.scw.systems
 sp.lancastereaglegazette.com
 sp.lansingstatejournal.com
 sp.ldnews.com
