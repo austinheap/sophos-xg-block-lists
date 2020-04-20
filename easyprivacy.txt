@@ -812,6 +812,7 @@ beacon.toyota.co.jp
 beacon.viewlift.com
 beacon.wikia-services.com
 beacon.www.theguardian.com
+beagle.prod.tda.link
 beampulse.com
 beanscattering.jp
 beanstalkdata.com
@@ -1908,6 +1909,7 @@ dq95d35.com
 dreamcounter.de
 drydrum.com
 ds-aksb-a.akamaihd.net
+dsg.interia.pl
 ds.haaretz.co.il
 d.shareaholic.com
 dsmmadvantage.com
@@ -3917,6 +3919,7 @@ onestat.com
 onetag.io
 onetag-sys.com
 ongsono.com
+oniad.com
 on-line.lv
 onlinepbx.ru
 onlinereserchstatistics.online
@@ -4704,6 +4707,7 @@ scripts.psyma.com
 scrubswim.com
 sc-static.net
 scupio.com
+scw.systems
 sddan.com
 sdrive.skoda-auto.com
 seal.godaddy.com
@@ -4715,6 +4719,7 @@ searchignite.com
 searchplow.com
 secretturtle.com
 secure.ifbyphone.com
+secure.merchantadvantage.com
 securepaths.com
 secure-stat.canal-plus.com
 securite.01net.com
@@ -5003,7 +5008,6 @@ sp.jsonline.com
 sp.kitsapsun.com
 spklw.com
 sp.knoxnews.com
-spkrth.scw.systems
 sp.lancastereaglegazette.com
 sp.lansingstatejournal.com
 sp.ldnews.com
@@ -5388,7 +5392,6 @@ stormyachiever.com
 storygize.net
 str1kee.com
 streambeam.io
-streamplay.to
 streamsend.com
 streem.com.au
 stripedcollar.net
@@ -6058,7 +6061,6 @@ trakksocial.googlecode.com
 trakzor.com
 tranquilside.com
 transactionale.com
-tr.api.itmedia.jp
 t.raptorsmartadvisor.com
 traversedlp.com
 traviilo.com
@@ -6170,6 +6172,7 @@ t.wayfair.ca
 t.wayfair.com
 t.wayfair.co.uk
 t.wayfair.de
+twch.20min.ch
 twcount.com
 twcouponcenter.com
 tw.i.hulu.com
