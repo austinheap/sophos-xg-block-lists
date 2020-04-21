@@ -252,6 +252,7 @@ antonresidential.com
 anuluj-dlug.pl
 anuluj-mandat.pl
 anuluj-natreta.pl
+anuskurier.org
 aoc.teleaudio.pl
 apartahotelfamilyhouse.com
 apartamentylirowa.pl
@@ -1053,6 +1054,7 @@ dziendobry.org.pl
 dziennikkcal.pl
 dzienniknews.com.pl
 dzienniknews.pl
+dziennikpolski.hekko24.pl
 dziennikprasowy.eu
 dziennikprasowy.pusiaweb.com
 dziennikuprowadzono.online
@@ -1304,6 +1306,7 @@ fakturownia-pl.cf
 fakturownia-pl.ga
 fakturownia-pl.gq
 faktury3941.org
+fakty24-informacje.pl
 fakty24-live.eu
 fakty24-swiat.pl
 fakty24swiat.pl
@@ -2213,6 +2216,7 @@ kopalnia-informacji.pl
 korkomath.pl
 koronainfo24.eu
 koronamiasto.hekko24.pl
+koronanews.hekko24.pl
 koronawirus.hekko24.pl
 koronawirus-info24.pl
 koronawirusnews.com.pl
@@ -2569,6 +2573,7 @@ mezczyzna-trendy.pl
 mezur4.com
 mgid.com
 mgokswiatniki.pl
+miastosprawa.hekko24.pl
 miastowe.hekko24.pl
 miastowirus.hekko24.pl
 michalfigura.pl
@@ -3284,6 +3289,7 @@ pociagdoukrainy.pl
 poczta-interia.com
 poczta-login-neostrada.com
 poczta-pay.com
+poczta-polska24.eu
 pocztapolska48.net
 poczta-polska.net
 pocztex-24.link
@@ -4966,6 +4972,7 @@ www.antonresidential.com
 www.anuluj-dlug.pl
 www.anuluj-mandat.pl
 www.anuluj-natreta.pl
+www.anuskurier.org
 www.aoc.teleaudio.pl
 www.apartahotelfamilyhouse.com
 www.apartamentylirowa.pl
@@ -5769,6 +5776,7 @@ www.dziendobry.org.pl
 www.dziennikkcal.pl
 www.dzienniknews.com.pl
 www.dzienniknews.pl
+www.dziennikpolski.hekko24.pl
 www.dziennikprasowy.eu
 www.dziennikprasowy.pusiaweb.com
 www.dziennikuprowadzono.online
@@ -6020,6 +6028,7 @@ www.fakturownia-pl.cf
 www.fakturownia-pl.ga
 www.fakturownia-pl.gq
 www.faktury3941.org
+www.fakty24-informacje.pl
 www.fakty24-live.eu
 www.fakty24-swiat.pl
 www.fakty24swiat.pl
@@ -6929,6 +6938,7 @@ www.kopalnia-informacji.pl
 www.korkomath.pl
 www.koronainfo24.eu
 www.koronamiasto.hekko24.pl
+www.koronanews.hekko24.pl
 www.koronawirus.hekko24.pl
 www.koronawirus-info24.pl
 www.koronawirusnews.com.pl
@@ -7285,6 +7295,7 @@ www.mezczyzna-trendy.pl
 www.mezur4.com
 www.mgid.com
 www.mgokswiatniki.pl
+www.miastosprawa.hekko24.pl
 www.miastowe.hekko24.pl
 www.miastowirus.hekko24.pl
 www.michalfigura.pl
@@ -7969,6 +7980,7 @@ www.pociagdoukrainy.pl
 www.poczta-interia.com
 www.poczta-login-neostrada.com
 www.poczta-pay.com
+www.poczta-polska24.eu
 www.pocztapolska48.net
 www.poczta-polska.net
 www.pocztex-24.link
