@@ -4307,6 +4307,7 @@ tiande.pl
 tiandepolska.pl
 tiande.ru
 tiandewarszawa.pl
+tiendacomp.pl
 tiens.pl
 tigergym.com.pl
 tilido.com
@@ -9002,6 +9003,7 @@ www.tiande.pl
 www.tiandepolska.pl
 www.tiande.ru
 www.tiandewarszawa.pl
+www.tiendacomp.pl
 www.tiens.pl
 www.tigergym.com.pl
 www.tilido.com
