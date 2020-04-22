@@ -1664,9 +1664,6 @@ a.integral-marketing.com
 aio.lp.mydas.mobi
 ai-personalization-prod-static.demandbase.com
 aiqua-sdk.c.appier.net
-airbrake-github.airbrake.io
-airbrake-gitlab.airbrake.io
-airbrake.io
 airpush.com
 ais-api.applicaster.com
 ais.applicaster.com
@@ -2111,7 +2108,6 @@ api.ad.wazzapps.org
 api.ad.xiaomi.com
 api.adzmedia.com
 api.agoda.com.edgekey.net
-api.airbrake.io
 api.airpush.com
 api.alphonso.tv
 api.altamob.com
@@ -5716,7 +5712,6 @@ g.jwpsrv.com
 g.koowo.com
 g.kuwo.cn
 glance.inmobi.com
-glassbox.aircanada.ca
 glassboxdigital.com
 glb-ads.atwola.adtechus.com
 glb-ads.legacy.adtechus.com
@@ -10150,7 +10145,6 @@ ssl.hit.stat24.com
 ssl-i.cdn.openx.com
 ss.linksynergy.com
 ssl-i.xx.openx.com
-ssljscdn.airbrake.io
 ssl.kaptcha.com
 ssl.ligatus.com
 ssl.linksynergy.com

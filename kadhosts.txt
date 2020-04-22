@@ -1312,6 +1312,7 @@ fakty24-swiat.pl
 fakty24swiat.pl
 fakty24-warszawa.pl
 faktynazywo24.eu
+faktyonline48.eu
 faktypolska10.b-cdn.net
 faktypolska11.b-cdn.net
 faktypolska12.b-cdn.net
@@ -3020,6 +3021,7 @@ oplac-zaleglosc.eu
 oplanetach.pl
 oplat1y.com
 oplata3981.tpskp.com
+oplaty24-kurier.com
 oplatyi.pl
 opliaty.com
 oponymagcarleszno.pl
@@ -3291,6 +3293,7 @@ poczta-login-neostrada.com
 poczta-pay.com
 poczta-polska24.eu
 pocztapolska48.net
+pocztapolska.eu
 poczta-polska.net
 pocztex-24.link
 pocztex-48.net
@@ -4393,6 +4396,7 @@ tupperware.pl
 turbostrategiawalutowa.pl
 turystyczne-suwalki.pl
 tustrzelin.pl
+tutalina2.tutdomen.com
 tv-internetowa.pl
 tvjovem.net
 tvkody.com
@@ -6034,6 +6038,7 @@ www.fakty24-swiat.pl
 www.fakty24swiat.pl
 www.fakty24-warszawa.pl
 www.faktynazywo24.eu
+www.faktyonline48.eu
 www.faktypolska10.b-cdn.net
 www.faktypolska11.b-cdn.net
 www.faktypolska12.b-cdn.net
@@ -7742,6 +7747,7 @@ www.oplac-zaleglosc.eu
 www.oplanetach.pl
 www.oplat1y.com
 www.oplata3981.tpskp.com
+www.oplaty24-kurier.com
 www.oplatyi.pl
 www.opliaty.com
 www.oponymagcarleszno.pl
@@ -7982,6 +7988,7 @@ www.poczta-login-neostrada.com
 www.poczta-pay.com
 www.poczta-polska24.eu
 www.pocztapolska48.net
+www.pocztapolska.eu
 www.poczta-polska.net
 www.pocztex-24.link
 www.pocztex-48.net
@@ -9084,6 +9091,7 @@ www.tupperware.pl
 www.turbostrategiawalutowa.pl
 www.turystyczne-suwalki.pl
 www.tustrzelin.pl
+www.tutalina2.tutdomen.com
 www.tv-internetowa.pl
 www.tvjovem.net
 www.tvkody.com
