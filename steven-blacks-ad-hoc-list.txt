@@ -152,6 +152,7 @@ api.brs.intl.miui.com
 api.c.avazunativeads.com
 api.cloudmobi.net
 api.collect.data.intl.miui.com
+api.doubles.click
 api.d.xiaomi.com
 api.eqmob.com
 api.grandonmedia.com
@@ -250,6 +251,7 @@ cdn.beginads.com
 cdn.bitmedianetwork.com
 cdn.castoola.com
 cdn.discoveryad.castoola.tv
+cdn.doublesclick.me
 cdn.insurads.com
 cdn-jp.gsecondscreen.com
 cdnjs.tvpage.com
@@ -492,6 +494,7 @@ ma1310-r.analytics.edgekey.net
 ma312-r.analytics.edgesuite.net
 mackeeperapp.zeobit.com
 manifest.localytics.com
+maper.info
 march262020.best
 march262020.com
 marketingplatform.google.com
@@ -668,8 +671,10 @@ ssp.ad.xiaomi.com
 ssp.face2trade.com
 sstats.adobe.com
 stage.tvpage.com
+start.apiforssl.com
 stat-c.maxthon.com
 static.clmbtech.com
+static.doublesclick.info
 static.youappi.com
 stats.adspaces.ero-advertising.com
 stats.bidgear.com
@@ -677,6 +682,8 @@ stats.data2.ero-advertising.com
 stats.ero-advertising.com
 stats.jpush.cn
 stats.speedclicks.ero-advertising.com
+status.search-sslkey-flush.com
+status.verifyingbycf.com
 stealthedeal.com
 steenbergen.web.ero-advertising.com
 stopify.co

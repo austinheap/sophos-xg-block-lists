@@ -486,6 +486,7 @@ bluesgarage.pl
 bluesgarager.pl
 bmfoto.pl
 bmgrp.tk
+bmillenhome.com
 bmstudiourody.pl
 bmwklubbydgoszcz.pl
 bnewsb.com
@@ -550,6 +551,7 @@ bulbulstore.com
 bullito.site
 bunclok.pl
 bundle-deals.com
+bungalowsentertainment.com
 burnbabylon.pl
 businesspuls.online
 bustcream-pro.com
@@ -965,6 +967,7 @@ dostawaca24.online
 dostawy24.com
 dotabet100.com
 dotabet103.com
+dotpay.pocztexpolska.eu
 doulawpoznaniu.pl
 dowmarkets.com
 download-24.tk
@@ -1057,6 +1060,7 @@ dzienniknews.pl
 dziennikpolski.hekko24.pl
 dziennikprasowy.eu
 dziennikprasowy.pusiaweb.com
+dziennikswiat.hekko24.pl
 dziennikuprowadzono.online
 dziennikuprowadzono.pl
 dziennik.warszawa.pl
@@ -1100,6 +1104,7 @@ edelivery2018.pl
 edenslask.pl
 edofinansowania.eu
 e-dorecz.pl
+edotpay.pl
 eduhull.pl
 edukacjawakcji.pl
 edukacjawysylkowa.pl
@@ -1171,6 +1176,7 @@ eoplaty.net
 e-paczka24.net
 epaka247.net
 epaka.club
+e-payu.online
 epayu.pl
 e-payu.xyz
 epge-bok.pl
@@ -1184,8 +1190,12 @@ e-platnosc.best
 epliki24.pl
 epoczta247.com
 e-podatek.net
+e-polskaporwanie.pl
+epolskaporwanie.pl
 e-pomagajmypl.pl
 e-porwaniapolska.pl
+e-porwaniepolska48.pl
+eporwaniepolska48.pl
 eposzukiwananatalka.pl
 e-poszukiwania.com.pl
 e-poszukiwania.eu
@@ -1308,9 +1318,12 @@ fakturownia-pl.gq
 faktury3941.org
 fakty24-informacje.pl
 fakty24-live.eu
+fakty24-stolica.pl
 fakty24-swiat.pl
 fakty24swiat.pl
+fakty24-warszawa.com
 fakty24-warszawa.pl
+faktylive-24.eu
 faktynazywo24.eu
 faktyonline48.eu
 faktypolska10.b-cdn.net
@@ -1936,6 +1949,8 @@ informacje-swiat.pl
 informacjeszok24.blogspot.com
 informujemy24h.cba.pl
 informujemy.eu
+infoswiat.hekko24.pl
+infoszybkie.eu
 infoturlgd.pl
 init.epoczta247.com
 init.plpocztex.net
@@ -1980,6 +1995,7 @@ ipk0bp.net
 ipko.pl-weryfikacja-konta-bank-pko.j.pl
 ipodatek.net
 i-podgladacz.pl
+iporwaniapolska24.pl
 iposzukiwananatalka.pl
 iptivicini.com
 ipzd.pl
@@ -2385,6 +2401,7 @@ loan.arrow-finance.pl
 lobik.pl
 localpressawards.pl
 locked3.com
+login-paribas.at
 login-paribas.info
 login-paribas-planet.info
 login-planet-paribas.eu
@@ -2574,6 +2591,7 @@ mezczyzna-trendy.pl
 mezur4.com
 mgid.com
 mgokswiatniki.pl
+miastoinformacje.hekko24.pl
 miastosprawa.hekko24.pl
 miastowe.hekko24.pl
 miastowirus.hekko24.pl
@@ -2665,6 +2683,7 @@ moneywp.website
 moneywp.xyz
 monikajaskowiak.pl
 monikareplin.pl
+monitoringi24.eu
 monkeytreephoto.com
 monthlywinners.com
 mopik.pl
@@ -3066,6 +3085,7 @@ ozebox.pl
 ozzp-rp.pl
 p.24-7.help
 packza.dostawy24.com
+pacuskurier.org
 pacyfka99.pl
 paczka24-oplata.com
 paczka-48.com
@@ -3093,6 +3113,7 @@ papierofon.pl
 papierosysklep.pl
 papla.pl
 paqu24.com
+paqu24.org
 parafiamogielnica.pl
 parafiaplaw.pl
 parasolmagazyn.pl
@@ -3292,12 +3313,14 @@ poczta-interia.com
 poczta-login-neostrada.com
 poczta-pay.com
 poczta-polska24.eu
+poczta-polska24.net
 pocztapolska48.net
 pocztapolska.eu
 poczta-polska.net
 pocztex-24.link
 pocztex-48.net
 pocztexpolska24.com
+pocztexpolska.eu
 podarujmamiesukienke.pl
 podatek2020.net
 podatkigov.net
@@ -3336,6 +3359,9 @@ polskabieda.com
 polska-gazeta-dnia.pl
 polskapaczka24.net
 polskaporwania.eu
+polskaporwanie.com.pl
+polskaporwanie.net.pl
+polskaporwanie.pl
 polska-tv.pl
 polskibestseller.pl
 polskieetno.pl
@@ -3373,12 +3399,22 @@ portalfotowoltaika.pl
 portal-legionowo.pl
 porumar.pl
 porwaniadzieci.eu
+porwaniapolska24.com.pl
+porwaniapolska24.net.pl
+porwaniapolska24online.pl
+porwaniapolska24.pl
+porwaniapolska24.waw.pl
 porwaniapolska.com.pl
 porwaniedziecki24.eu
 porwaniedziecki24.net.pl
 porwaniedziecki24.pl
 porwanienatalki.eu
 porwanienatalki.online
+porwaniepolska48.com.pl
+porwaniepolska48.net.pl
+porwaniepolska48.pl
+porwaniepolska48.waw.pl
+porwaniewmiescie.hekko24.pl
 poscielowyraj.pl
 poshettescafe.com
 post-341478.info
@@ -3830,6 +3866,7 @@ server905483.nazwa.pl
 server968099.nazwa.pl
 servicecheck5.wixsite.com
 service-pay.company
+serwer2045220.home.pl
 serwer2081930.home.pl
 serwis-ab.com.pl
 serwisagd-waw.pl
@@ -4094,6 +4131,7 @@ stevija.pl
 stkk.pl
 stolarniaweronika.pl
 stolarniazgorzelec.pl
+stolica-info24.pl
 stomatologia-w.lublin.lu
 stopkomornikowi.pl
 stoppodzialom.pl
@@ -4157,6 +4195,7 @@ swce.pl
 sweepstakescentralusa.com
 swiatgraweru.pl
 swiatliter.pl
+swiatwiadomosci.hekko24.pl
 swietna-pozyczka.pl
 swietokrzyskieter.pl
 swiezaki.weebly.com
@@ -4206,6 +4245,7 @@ szwendobylscy.pl
 szybkapozyczkateraz.pl
 szybkaupadlosc.pl
 szybka-wyplata.pl
+szybkieinfo.pl
 szybkikredyt.net
 szybkikurier.org
 szybki-przeglad.blogspot.com
@@ -4363,6 +4403,7 @@ trafisz.com
 trampcamp.pl
 trampkiconverse.com
 trampkitanie.pl
+transakcja24.com
 transakcja-payu.xyz
 transbodek.com
 transegz.pl
@@ -4429,6 +4470,7 @@ twojidealnyslub.pl
 twoj-kurier.com
 twojkurier.com
 twojszczesliwydzien.com
+twoj-tauron.pl
 twoj-typ.pl
 twoj-voucher.com
 twosunflowers.pl
@@ -4610,6 +4652,7 @@ wartomiec.pl
 wawalot.pl
 wazne-informacje.pl
 waznesprawy.eu
+wazneswiat.hekko24.pl
 waznywilkiel.pl
 wcozainwestowacpieniadze.pl
 wczaso.pl
@@ -5213,6 +5256,7 @@ www.bluesgarage.pl
 www.bluesgarager.pl
 www.bmfoto.pl
 www.bmgrp.tk
+www.bmillenhome.com
 www.bmstudiourody.pl
 www.bmwklubbydgoszcz.pl
 www.bnewsb.com
@@ -5277,6 +5321,7 @@ www.bulbulstore.com
 www.bullito.site
 www.bunclok.pl
 www.bundle-deals.com
+www.bungalowsentertainment.com
 www.burnbabylon.pl
 www.businesspuls.online
 www.bustcream-pro.com
@@ -5692,6 +5737,7 @@ www.dostawaca24.online
 www.dostawy24.com
 www.dotabet100.com
 www.dotabet103.com
+www.dotpay.pocztexpolska.eu
 www.doulawpoznaniu.pl
 www.dowmarkets.com
 www.download-24.tk
@@ -5784,6 +5830,7 @@ www.dzienniknews.pl
 www.dziennikpolski.hekko24.pl
 www.dziennikprasowy.eu
 www.dziennikprasowy.pusiaweb.com
+www.dziennikswiat.hekko24.pl
 www.dziennikuprowadzono.online
 www.dziennikuprowadzono.pl
 www.dziennik.warszawa.pl
@@ -5827,6 +5874,7 @@ www.edelivery2018.pl
 www.edenslask.pl
 www.edofinansowania.eu
 www.e-dorecz.pl
+www.edotpay.pl
 www.eduhull.pl
 www.edukacjawakcji.pl
 www.edukacjawysylkowa.pl
@@ -5898,6 +5946,7 @@ www.eoplaty.net
 www.e-paczka24.net
 www.epaka247.net
 www.epaka.club
+www.e-payu.online
 www.epayu.pl
 www.e-payu.xyz
 www.epge-bok.pl
@@ -5911,8 +5960,12 @@ www.e-platnosc.best
 www.epliki24.pl
 www.epoczta247.com
 www.e-podatek.net
+www.e-polskaporwanie.pl
+www.epolskaporwanie.pl
 www.e-pomagajmypl.pl
 www.e-porwaniapolska.pl
+www.e-porwaniepolska48.pl
+www.eporwaniepolska48.pl
 www.eposzukiwananatalka.pl
 www.e-poszukiwania.com.pl
 www.e-poszukiwania.eu
@@ -6035,9 +6088,12 @@ www.fakturownia-pl.gq
 www.faktury3941.org
 www.fakty24-informacje.pl
 www.fakty24-live.eu
+www.fakty24-stolica.pl
 www.fakty24-swiat.pl
 www.fakty24swiat.pl
+www.fakty24-warszawa.com
 www.fakty24-warszawa.pl
+www.faktylive-24.eu
 www.faktynazywo24.eu
 www.faktyonline48.eu
 www.faktypolska10.b-cdn.net
@@ -6663,6 +6719,8 @@ www.informacje-swiat.pl
 www.informacjeszok24.blogspot.com
 www.informujemy24h.cba.pl
 www.informujemy.eu
+www.infoswiat.hekko24.pl
+www.infoszybkie.eu
 www.infoturlgd.pl
 www.init.epoczta247.com
 www.init.plpocztex.net
@@ -6707,6 +6765,7 @@ www.ipk0bp.net
 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
 www.ipodatek.net
 www.i-podgladacz.pl
+www.iporwaniapolska24.pl
 www.iposzukiwananatalka.pl
 www.iptivicini.com
 www.ipzd.pl
@@ -7112,6 +7171,7 @@ www.loan.arrow-finance.pl
 www.lobik.pl
 www.localpressawards.pl
 www.locked3.com
+www.login-paribas.at
 www.login-paribas.info
 www.login-paribas-planet.info
 www.login-planet-paribas.eu
@@ -7301,6 +7361,7 @@ www.mezczyzna-trendy.pl
 www.mezur4.com
 www.mgid.com
 www.mgokswiatniki.pl
+www.miastoinformacje.hekko24.pl
 www.miastosprawa.hekko24.pl
 www.miastowe.hekko24.pl
 www.miastowirus.hekko24.pl
@@ -7392,6 +7453,7 @@ www.moneywp.website
 www.moneywp.xyz
 www.monikajaskowiak.pl
 www.monikareplin.pl
+www.monitoringi24.eu
 www.monkeytreephoto.com
 www.monthlywinners.com
 www.mopik.pl
@@ -7793,6 +7855,7 @@ www.ozebox.pl
 www.ozzp-rp.pl
 www.p.24-7.help
 www.packza.dostawy24.com
+www.pacuskurier.org
 www.pacyfka99.pl
 www.paczka24-oplata.com
 www.paczka-48.com
@@ -7820,6 +7883,7 @@ www.papierofon.pl
 www.papierosysklep.pl
 www.papla.pl
 www.paqu24.com
+www.paqu24.org
 www.parafiamogielnica.pl
 www.parafiaplaw.pl
 www.parasolmagazyn.pl
@@ -7988,12 +8052,14 @@ www.poczta-interia.com
 www.poczta-login-neostrada.com
 www.poczta-pay.com
 www.poczta-polska24.eu
+www.poczta-polska24.net
 www.pocztapolska48.net
 www.pocztapolska.eu
 www.poczta-polska.net
 www.pocztex-24.link
 www.pocztex-48.net
 www.pocztexpolska24.com
+www.pocztexpolska.eu
 www.podarujmamiesukienke.pl
 www.podatek2020.net
 www.podatkigov.net
@@ -8032,6 +8098,9 @@ www.polskabieda.com
 www.polska-gazeta-dnia.pl
 www.polskapaczka24.net
 www.polskaporwania.eu
+www.polskaporwanie.com.pl
+www.polskaporwanie.net.pl
+www.polskaporwanie.pl
 www.polska-tv.pl
 www.polskibestseller.pl
 www.polskieetno.pl
@@ -8069,12 +8138,22 @@ www.portalfotowoltaika.pl
 www.portal-legionowo.pl
 www.porumar.pl
 www.porwaniadzieci.eu
+www.porwaniapolska24.com.pl
+www.porwaniapolska24.net.pl
+www.porwaniapolska24online.pl
+www.porwaniapolska24.pl
+www.porwaniapolska24.waw.pl
 www.porwaniapolska.com.pl
 www.porwaniedziecki24.eu
 www.porwaniedziecki24.net.pl
 www.porwaniedziecki24.pl
 www.porwanienatalki.eu
 www.porwanienatalki.online
+www.porwaniepolska48.com.pl
+www.porwaniepolska48.net.pl
+www.porwaniepolska48.pl
+www.porwaniepolska48.waw.pl
+www.porwaniewmiescie.hekko24.pl
 www.poscielowyraj.pl
 www.poshettescafe.com
 www.post-341478.info
@@ -8526,6 +8605,7 @@ www.server905483.nazwa.pl
 www.server968099.nazwa.pl
 www.servicecheck5.wixsite.com
 www.service-pay.company
+www.serwer2045220.home.pl
 www.serwer2081930.home.pl
 www.serwis-ab.com.pl
 www.serwisagd-waw.pl
@@ -8790,6 +8870,7 @@ www.stevija.pl
 www.stkk.pl
 www.stolarniaweronika.pl
 www.stolarniazgorzelec.pl
+www.stolica-info24.pl
 www.stomatologia-w.lublin.lu
 www.stopkomornikowi.pl
 www.stoppodzialom.pl
@@ -8853,6 +8934,7 @@ www.swce.pl
 www.sweepstakescentralusa.com
 www.swiatgraweru.pl
 www.swiatliter.pl
+www.swiatwiadomosci.hekko24.pl
 www.swietna-pozyczka.pl
 www.swietokrzyskieter.pl
 www.swiezaki.weebly.com
@@ -8902,6 +8984,7 @@ www.szwendobylscy.pl
 www.szybkapozyczkateraz.pl
 www.szybkaupadlosc.pl
 www.szybka-wyplata.pl
+www.szybkieinfo.pl
 www.szybkikredyt.net
 www.szybkikurier.org
 www.szybki-przeglad.blogspot.com
@@ -9059,6 +9142,7 @@ www.trafisz.com
 www.trampcamp.pl
 www.trampkiconverse.com
 www.trampkitanie.pl
+www.transakcja24.com
 www.transakcja-payu.xyz
 www.transbodek.com
 www.transegz.pl
@@ -9125,6 +9209,7 @@ www.twojidealnyslub.pl
 www.twoj-kurier.com
 www.twojkurier.com
 www.twojszczesliwydzien.com
+www.twoj-tauron.pl
 www.twoj-typ.pl
 www.twoj-voucher.com
 www.twosunflowers.pl
@@ -9306,6 +9391,7 @@ www.wartomiec.pl
 www.wawalot.pl
 www.wazne-informacje.pl
 www.waznesprawy.eu
+www.wazneswiat.hekko24.pl
 www.waznywilkiel.pl
 www.wcozainwestowacpieniadze.pl
 www.wczaso.pl

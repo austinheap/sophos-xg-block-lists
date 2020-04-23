@@ -2521,7 +2521,6 @@ geo.q5media.net
 georiot.com
 geoservice.curse.com
 geotargetly-1a441.appspot.com
-geo-targetly.com
 geo.xcel.io
 geo.yahoo.com
 getaim.info
@@ -2989,6 +2988,7 @@ ipinfo.info
 ipinyou.com
 ipinyou.com.cn
 ip-label.net
+iplist.cc
 iplocationtools.com
 i.pokernews.com
 ip.pichunter.com
@@ -4382,7 +4382,6 @@ quietknowledge.com
 quillion.com
 quintelligence.com
 quitsnap-blue.com
-quiz.stroeermediabrands.de
 quizzicalzephyr.com
 qzlog.com
 r24-tech.com
@@ -5517,6 +5516,7 @@ target.ukr.net
 ta.sanook.com
 taskanalytics.com
 tawdryson.com
+taxel.jp
 t.beopinion.com
 tbe.tom.ru
 tbex.ru
