@@ -933,6 +933,7 @@ bmcm.pw
 bmlmedia.com
 bmmetrix.com
 bmnr.pw
+bmrg.reflected.net
 bmst.pw
 b.myspace.com
 bn.adultempire.com
@@ -2373,6 +2374,7 @@ fourmtagservices.appspot.com
 fout.jp
 fpctraffic2.com
 fpjs.io
+fp.measure.office.com
 fprnt.com
 fqsecure.com
 fqtag.com
@@ -2497,6 +2499,7 @@ geoip.cleveland.com
 geoip-db.com
 geoip.gulflive.com
 geoip.inquirer.net
+geoip-js.com
 geoip.lehighvalleylive.com
 geoip-lookup.vice.com
 geoip.masslive.com
@@ -2559,7 +2562,6 @@ glasgowtimes-gb.glasgowtimes.co.uk
 glassmoni.researchgate.net
 glbdns.microsoft.com
 glbtracker.com
-glean.pop6.com
 globalviptraffic.com
 globalwebindex.net
 globase.com
@@ -5660,7 +5662,6 @@ tl.tradetracker.net
 tm1-001.com
 t.menepe.com
 tmgr.ccmbg.com
-tm.jsuol.com.br
 tmmp.io
 tms.eharmony.ca
 tms.eharmony.co.uk

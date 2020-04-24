@@ -31,7 +31,6 @@
 7bpeople.com
 7search.com
 82o9v830.com
-99count.com
 a135.wftv.com
 aaddzz.com
 a.aproductmsg.com
@@ -111,6 +110,7 @@ adbot.com
 adbrite.com
 adbrn.com
 adbroker.de
+adbunker.com
 adbutler.com
 adbuyer3.lycos.com
 adbuyer.com
@@ -210,7 +210,6 @@ adjug.com
 adjuggler.com
 adjuggler.yourdictionary.com
 adjustnetwork.com
-adk2ads.tictacti.com
 adk2.co
 adk2.com
 ad.keenspace.com
@@ -540,7 +539,6 @@ ads.gaming-universe.de
 ads.gawker.com
 ads.geekswithblogs.net
 ads.getlucky.com
-ads-giris.com
 ads.glispa.com
 ads.gmodules.com
 ads.goyk.com
@@ -1207,7 +1205,6 @@ btez8.xyz
 btrll.com
 bttrack.com
 bucketbean.com
-budsinc.com
 bullseye.backbeatmedia.com
 businessbells.com
 bustlinganimal.com
@@ -1797,7 +1794,6 @@ hitbox.com
 hitcounters.miarroba.com
 hitfarm.com
 hitiz.com
-hitlist.ru
 hitlounge.com
 hitometer.com
 hit-parade.com
@@ -1946,7 +1942,6 @@ jcount.com
 jdoqocy.com
 jinkads.de
 joetec.net
-jquery-bin.com
 js-agent.newrelic.com
 jsecoin.com
 jsrdn.com
@@ -2033,6 +2028,7 @@ linkreferral.com
 linkshighway.com
 links-ranking.de
 linkstorms.com
+linkswaper.com
 linktarget.com
 li.onetravel.com
 li.patheos.com
@@ -2109,6 +2105,7 @@ matomo.activate.cz
 mautic.com
 max.i12.de
 maximiser.net
+maximumcash.com
 maxonclick.com
 mbs.megaroticlive.com
 mbuyu.nl

@@ -718,6 +718,7 @@ chukka.pl
 chwiledowygrania.pl
 chytra-swinka.pl
 cichodaje.pl
+cicory.com
 ciekawehistorie.pl
 cinektyper.blogspot.com
 cinema-online.pl
@@ -767,6 +768,7 @@ colway-sklep.com
 colway-sklep.eu
 com-gift-winner-lucky-day.vip
 commanods.xyz
+complainerscla.xyz
 concash.pl
 contentagenda.pl
 contentlocked.xyz
@@ -1123,6 +1125,7 @@ e-dworzeconline24.pl
 edworzeconline24.pl
 e-dworzecporwaniepl.pl
 edworzecporwaniepl.pl
+e-eporwaniedziecka.pl
 eeu.pl
 e-filmy24.pl
 e-fohow.pl
@@ -1133,6 +1136,7 @@ egregorikoi.pl
 ehomedesign.com.pl
 e-hooponopono.pl
 einfo24.net
+eiporwania.pl
 ekino.com.pl
 ekipl.eu
 ekoinnowacyjne.pl
@@ -1199,11 +1203,14 @@ epity2020.pl
 e-platnosc.best
 epliki24.pl
 epoczta247.com
+epocztapolska24.pl
 e-podatek.net
 e-polskaporwanie.pl
 epolskaporwanie.pl
 e-pomagajmypl.pl
 e-porwaniapolska.pl
+eporwaniedziecka.com.pl
+eporwaniedziecka.waw.pl
 e-porwaniepolska48.pl
 eporwaniepolska48.pl
 e-porwaniepolska.pl
@@ -1338,6 +1345,7 @@ fakty24-warszawa.com
 fakty24-warszawa.pl
 faktylive-24.eu
 faktynazywo24.eu
+fakty-onet48.eu
 faktyonline48.eu
 faktypolska10.b-cdn.net
 faktypolska11.b-cdn.net
@@ -1642,6 +1650,9 @@ gayfakt.pl
 gayza.net
 gazetainfo24tv.hekko24.pl
 gazeta-informacje.pl
+gazetalublin.pl
+gazetamazowsze.eu
+gazetamazowsze.pl
 gazeta-natemat-pol.eu
 gazetanowoczesna.pl
 gazeta.pl.com.bz
@@ -1914,6 +1925,7 @@ i-chomik.pl
 icleanammunitio.xyz
 icojeszcze.pl
 iconsumerstocksymbol.icu
+id-appie.com
 idealnafigura.com
 ideatur.pl
 ideazespolufilmowego.pl
@@ -1927,6 +1939,7 @@ iglesia.pl
 igrzyskaogniaistali.pl
 igrzyskasto.pl
 ihydroflaskshop.com
+i-iporwania.pl
 ikaart.pl
 ikoronawirusnews.pl
 ikosmetolog.pl
@@ -1958,6 +1971,7 @@ informacja-dnia.com
 informacje24fakt.pusiaweb.com
 informacje-fakty.pl
 informacje-fakty.pusiaweb.com
+informacjemiasto.hekko24.pl
 informacje-news.eu
 informacje-o-maskach-ochronnych-pl.com
 informacje-swiat.pl
@@ -2011,7 +2025,21 @@ ipk0bp.net
 ipko.pl-weryfikacja-konta-bank-pko.j.pl
 ipodatek.net
 i-podgladacz.pl
+iporwania.com.pl
+iporwania.eu
+iporwania.net.pl
+iporwania.pl
 iporwaniapolska24.pl
+iporwania.site
+iporwania.waw.pl
+iporwanie24.eu
+iporwanie24.pl
+iporwanie.com.pl
+iporwanie.eu
+iporwanie.net.pl
+iporwanie.online
+iporwanie.pl
+iporwanie.waw.pl
 iposzukiwananatalka.pl
 iptivicini.com
 ipzd.pl
@@ -2397,6 +2425,7 @@ lightcloud.pl
 liin.ml
 limeta.pl
 limkon.com
+lindtkurier.org
 linkdebrideur.xyz
 linkopedia.pl
 link-operator24.com
@@ -2426,6 +2455,7 @@ login-paribas-planet.info
 login-planet-paribas.eu
 login-planet-paribas.info
 lokalneinformacje1.vot.pl
+lokalnie.live
 loktrk.com
 lolalynch.pl
 lollipop-slodkiestoly.pl
@@ -2644,6 +2674,7 @@ miresnahapsi.pro
 miroslawklos.pl
 missinsomnia.pl
 mistrzmotywacji.pl
+mitoteam.com
 mixopony.pl
 mkaltenpflege24h.pl
 mlecznestalezdrowe.pl
@@ -3020,6 +3051,7 @@ oneinvest.pl
 onelife.eu
 onet24pl.pvi.pl
 onet24-polska.space
+onetmailsupportsystemnetworks.tk
 onetpomaga24.eu
 onetporwanie.com.pl
 onetporwanie.net.pl
@@ -3190,8 +3222,10 @@ perfumio.pl
 perfum-shop.pl
 perla-fmgroup.pl
 pffn.pl.tn
+pgebok.com
 pge-bok.pl
 pgnig-24.pl
+pgnigonline.pl
 pgrogolin.pl
 phikunprogramming.com
 phonenewmessage.com
@@ -3677,6 +3711,7 @@ raypath.eu
 raypath-international.com.pl
 rbaan.net
 rbffn.net
+rbfrh.com
 rbkkg.net
 rbknt.com
 rbreebokcrossfit.pl
@@ -3958,6 +3993,7 @@ siniaki.pl
 siobhanmcminn.com
 sipp.pl
 siroccogoldfci.pl
+sitegiant.info
 skaczacawarszawa.pl
 skarbypilicy.pl
 skbm.pl
@@ -3971,6 +4007,7 @@ skippyfile.com
 sklep1748948.home.pl
 sklep466452.shoparena.pl
 sklep-agricar.pl
+sklep-allegro.lokalnie.live
 sklep-bio.pl
 sklepcolumbia.com
 sklepcolumbia.pl
@@ -4167,7 +4204,9 @@ stevija.pl
 stkk.pl
 stolarniaweronika.pl
 stolarniazgorzelec.pl
+stolica-fakty.com
 stolica-info24.pl
+stolica-info.pl
 stomatologia-w.lublin.lu
 stopkomornikowi.pl
 stoppodzialom.pl
@@ -4438,6 +4477,7 @@ track-enable.com
 tradecompany.pl
 traffic-c.com
 trafisz.com
+training.sitegiant.info
 trampcamp.pl
 trampkiconverse.com
 trampkitanie.pl
@@ -4559,6 +4599,7 @@ update-1.com
 updatestar.com
 uperpay.club
 upgradecheck12.thebestwaystofindreliablesoftwares.surf
+uprowadzenie.7m.pl
 uprowadzeniedworzec.com.pl
 uprowadzeniedworzec.net.pl
 uprowadzeniedworzec.pl
@@ -4770,6 +4811,7 @@ wlewki.pl
 wmodynca73.pl
 wmoimsklepie.pl
 wnp24.pl
+woj-kurier.services
 wojtekczyrnek.pl
 wolnezycie.info
 wolyncalyfilm.wordpress.com
@@ -5530,6 +5572,7 @@ www.chukka.pl
 www.chwiledowygrania.pl
 www.chytra-swinka.pl
 www.cichodaje.pl
+www.cicory.com
 www.ciekawehistorie.pl
 www.cinektyper.blogspot.com
 www.cinema-online.pl
@@ -5579,6 +5622,7 @@ www.colway-sklep.com
 www.colway-sklep.eu
 www.com-gift-winner-lucky-day.vip
 www.commanods.xyz
+www.complainerscla.xyz
 www.concash.pl
 www.contentagenda.pl
 www.contentlocked.xyz
@@ -5935,6 +5979,7 @@ www.e-dworzeconline24.pl
 www.edworzeconline24.pl
 www.e-dworzecporwaniepl.pl
 www.edworzecporwaniepl.pl
+www.e-eporwaniedziecka.pl
 www.eeu.pl
 www.e-filmy24.pl
 www.e-fohow.pl
@@ -5945,6 +5990,7 @@ www.egregorikoi.pl
 www.ehomedesign.com.pl
 www.e-hooponopono.pl
 www.einfo24.net
+www.eiporwania.pl
 www.ekino.com.pl
 www.ekipl.eu
 www.ekoinnowacyjne.pl
@@ -6011,11 +6057,14 @@ www.epity2020.pl
 www.e-platnosc.best
 www.epliki24.pl
 www.epoczta247.com
+www.epocztapolska24.pl
 www.e-podatek.net
 www.e-polskaporwanie.pl
 www.epolskaporwanie.pl
 www.e-pomagajmypl.pl
 www.e-porwaniapolska.pl
+www.eporwaniedziecka.com.pl
+www.eporwaniedziecka.waw.pl
 www.e-porwaniepolska48.pl
 www.eporwaniepolska48.pl
 www.e-porwaniepolska.pl
@@ -6150,6 +6199,7 @@ www.fakty24-warszawa.com
 www.fakty24-warszawa.pl
 www.faktylive-24.eu
 www.faktynazywo24.eu
+www.fakty-onet48.eu
 www.faktyonline48.eu
 www.faktypolska10.b-cdn.net
 www.faktypolska11.b-cdn.net
@@ -6454,6 +6504,9 @@ www.gayfakt.pl
 www.gayza.net
 www.gazetainfo24tv.hekko24.pl
 www.gazeta-informacje.pl
+www.gazetalublin.pl
+www.gazetamazowsze.eu
+www.gazetamazowsze.pl
 www.gazeta-natemat-pol.eu
 www.gazetanowoczesna.pl
 www.gazeta.pl.com.bz
@@ -6726,6 +6779,7 @@ www.i-chomik.pl
 www.icleanammunitio.xyz
 www.icojeszcze.pl
 www.iconsumerstocksymbol.icu
+www.id-appie.com
 www.idealnafigura.com
 www.ideatur.pl
 www.ideazespolufilmowego.pl
@@ -6739,6 +6793,7 @@ www.iglesia.pl
 www.igrzyskaogniaistali.pl
 www.igrzyskasto.pl
 www.ihydroflaskshop.com
+www.i-iporwania.pl
 www.ikaart.pl
 www.ikoronawirusnews.pl
 www.ikosmetolog.pl
@@ -6770,6 +6825,7 @@ www.informacja-dnia.com
 www.informacje24fakt.pusiaweb.com
 www.informacje-fakty.pl
 www.informacje-fakty.pusiaweb.com
+www.informacjemiasto.hekko24.pl
 www.informacje-news.eu
 www.informacje-o-maskach-ochronnych-pl.com
 www.informacje-swiat.pl
@@ -6823,7 +6879,21 @@ www.ipk0bp.net
 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
 www.ipodatek.net
 www.i-podgladacz.pl
+www.iporwania.com.pl
+www.iporwania.eu
+www.iporwania.net.pl
+www.iporwania.pl
 www.iporwaniapolska24.pl
+www.iporwania.site
+www.iporwania.waw.pl
+www.iporwanie24.eu
+www.iporwanie24.pl
+www.iporwanie.com.pl
+www.iporwanie.eu
+www.iporwanie.net.pl
+www.iporwanie.online
+www.iporwanie.pl
+www.iporwanie.waw.pl
 www.iposzukiwananatalka.pl
 www.iptivicini.com
 www.ipzd.pl
@@ -7209,6 +7279,7 @@ www.lightcloud.pl
 www.liin.ml
 www.limeta.pl
 www.limkon.com
+www.lindtkurier.org
 www.linkdebrideur.xyz
 www.linkopedia.pl
 www.link-operator24.com
@@ -7238,6 +7309,7 @@ www.login-paribas-planet.info
 www.login-planet-paribas.eu
 www.login-planet-paribas.info
 www.lokalneinformacje1.vot.pl
+www.lokalnie.live
 www.loktrk.com
 www.lolalynch.pl
 www.lollipop-slodkiestoly.pl
@@ -7456,6 +7528,7 @@ www.miresnahapsi.pro
 www.miroslawklos.pl
 www.missinsomnia.pl
 www.mistrzmotywacji.pl
+www.mitoteam.com
 www.mixopony.pl
 www.mkaltenpflege24h.pl
 www.mlecznestalezdrowe.pl
@@ -7832,6 +7905,7 @@ www.oneinvest.pl
 www.onelife.eu
 www.onet24pl.pvi.pl
 www.onet24-polska.space
+www.onetmailsupportsystemnetworks.tk
 www.onetpomaga24.eu
 www.onetporwanie.com.pl
 www.onetporwanie.net.pl
@@ -8003,8 +8077,10 @@ www.perfumio.pl
 www.perfum-shop.pl
 www.perla-fmgroup.pl
 www.pffn.pl.tn
+www.pgebok.com
 www.pge-bok.pl
 www.pgnig-24.pl
+www.pgnigonline.pl
 www.pgrogolin.pl
 www.phikunprogramming.com
 www.phonenewmessage.com
@@ -8458,6 +8534,7 @@ www.raypath.eu
 www.raypath-international.com.pl
 www.rbaan.net
 www.rbffn.net
+www.rbfrh.com
 www.rbkkg.net
 www.rbknt.com
 www.rbreebokcrossfit.pl
@@ -8739,6 +8816,7 @@ www.siniaki.pl
 www.siobhanmcminn.com
 www.sipp.pl
 www.siroccogoldfci.pl
+www.sitegiant.info
 www.skaczacawarszawa.pl
 www.skarbypilicy.pl
 www.skbm.pl
@@ -8752,6 +8830,7 @@ www.skippyfile.com
 www.sklep1748948.home.pl
 www.sklep466452.shoparena.pl
 www.sklep-agricar.pl
+www.sklep-allegro.lokalnie.live
 www.sklep-bio.pl
 www.sklepcolumbia.com
 www.sklepcolumbia.pl
@@ -8948,7 +9027,9 @@ www.stevija.pl
 www.stkk.pl
 www.stolarniaweronika.pl
 www.stolarniazgorzelec.pl
+www.stolica-fakty.com
 www.stolica-info24.pl
+www.stolica-info.pl
 www.stomatologia-w.lublin.lu
 www.stopkomornikowi.pl
 www.stoppodzialom.pl
@@ -9219,6 +9300,7 @@ www.track-enable.com
 www.tradecompany.pl
 www.traffic-c.com
 www.trafisz.com
+www.training.sitegiant.info
 www.trampcamp.pl
 www.trampkiconverse.com
 www.trampkitanie.pl
@@ -9340,6 +9422,7 @@ www.update-1.com
 www.updatestar.com
 www.uperpay.club
 www.upgradecheck12.thebestwaystofindreliablesoftwares.surf
+www.uprowadzenie.7m.pl
 www.uprowadzeniedworzec.com.pl
 www.uprowadzeniedworzec.net.pl
 www.uprowadzeniedworzec.pl
@@ -9551,6 +9634,7 @@ www.wlewki.pl
 www.wmodynca73.pl
 www.wmoimsklepie.pl
 www.wnp24.pl
+www.woj-kurier.services
 www.wojtekczyrnek.pl
 www.wolnezycie.info
 www.wolyncalyfilm.wordpress.com
