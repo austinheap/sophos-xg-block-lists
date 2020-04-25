@@ -1428,6 +1428,7 @@ copycarpenter.com
 coralogix.com
 core-cen-54.com
 coremotives.com
+core.unit-sense.net
 cosmi.io
 cosmosjackson.com
 cost1action.com
@@ -4644,6 +4645,7 @@ s3-tracking.synthasite.net.s3.amazonaws.com
 s7target.ru
 s7ven.com
 sa135.macworld.co.uk
+sa135.wsbtv.com
 sa.bbc.co.uk
 sadv.dadapro.com
 safe-click.net
@@ -5634,6 +5636,7 @@ tidningsnatet.se
 timeslogtn.timesnow.tv
 timestrends.indiatimes.com
 timestrends.timesnow.tv
+tim.nextinpact.com
 tinb.net
 t.indeed.com
 tinyclues.com
