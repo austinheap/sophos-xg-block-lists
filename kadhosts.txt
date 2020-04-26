@@ -193,6 +193,7 @@ allegro.pl-oferta.ml
 allegro.pl.sholtem.pl
 allegro.pl.showltem.pl
 allegro.pl.showlten.pl
+allegro.pl.szoten.pl
 allegrosklep.online
 allegro.targi.pl
 allegrowork.site
@@ -1179,6 +1180,7 @@ epolskaporwanie.pl
 eporwaniedziecka.com.pl
 eporwaniedziecka.net.pl
 eporwaniedziecka.pl
+eporwaniedziecka.site
 eporwaniedziecka.waw.pl
 e-porwaniepolska48.pl
 eporwaniepolska48.pl
@@ -1275,6 +1277,7 @@ facebookaheagoprincess.pl
 facebookaplikacje.blogspot.com
 facebook-color.5v.pl
 facebookcolors24.blogspot.com
+facebook-com-pl-profile.7m.pl
 facebookkoloruj.blogspot.com
 facebookkviewer.blogspot.com
 facebook-login.5v.pl
@@ -2463,6 +2466,7 @@ magiczne-cytaty.pl
 magiskmanager.com
 magnumbd.com
 maiamirainy.at
+mail.przejrzyj-fotki.eu
 majcioch.pl
 majorclass.pl
 majus-centrum.pl
@@ -2529,6 +2533,7 @@ max-host.pl
 maxitrade.com
 maymaychihai.com
 mayonez.pl
+mazowskagazeta.pl
 mbp-brzeziny.pl
 mb-studio.pl
 mbtbuty.pl
@@ -3418,6 +3423,7 @@ poszukiwania24.eu
 poszukiwania24.net.pl
 poszukiwania24.pl
 poszukiwania24.site
+poszukiwanialaury.online
 powaifinearts.org
 powerfactorsaver.com
 powerkf-design.pl
@@ -3530,6 +3536,7 @@ przedszkolesadowa.pl
 przedszkoleszkrab.pl
 przedszkolewlipnicy.pl
 przejdz.ml
+przejrzyj-fotki.eu
 przemyslawrenn.pl
 przepismix.pl
 przepisnaweekend.pl
@@ -4107,6 +4114,7 @@ starychemik.pl
 staryspichlerz-darlowo.pl
 statmach.pl
 statusnim.info
+status.xn.pl
 statystykaopisowa.pl
 staweckadesign.pl
 stawiamyslady.pl
@@ -4227,6 +4235,7 @@ szlonepromocje.com
 szmoldparts.com
 szoferikrokodyl.pl
 szokinfo247.blogspot.com
+szoten.pl
 szpitaledlaludzi.pl
 sztormland.com.pl
 sztukiwalkikrakow.pl
@@ -4960,6 +4969,7 @@ www.allegro.pl-oferta.ml
 www.allegro.pl.sholtem.pl
 www.allegro.pl.showltem.pl
 www.allegro.pl.showlten.pl
+www.allegro.pl.szoten.pl
 www.allegrosklep.online
 www.allegro.targi.pl
 www.allegrowork.site
@@ -5948,6 +5958,7 @@ www.epolskaporwanie.pl
 www.eporwaniedziecka.com.pl
 www.eporwaniedziecka.net.pl
 www.eporwaniedziecka.pl
+www.eporwaniedziecka.site
 www.eporwaniedziecka.waw.pl
 www.e-porwaniepolska48.pl
 www.eporwaniepolska48.pl
@@ -6044,6 +6055,7 @@ www.facebookaheagoprincess.pl
 www.facebookaplikacje.blogspot.com
 www.facebook-color.5v.pl
 www.facebookcolors24.blogspot.com
+www.facebook-com-pl-profile.7m.pl
 www.facebookkoloruj.blogspot.com
 www.facebookkviewer.blogspot.com
 www.facebook-login.5v.pl
@@ -7232,6 +7244,7 @@ www.magiczne-cytaty.pl
 www.magiskmanager.com
 www.magnumbd.com
 www.maiamirainy.at
+www.mail.przejrzyj-fotki.eu
 www.majcioch.pl
 www.majorclass.pl
 www.majus-centrum.pl
@@ -7298,6 +7311,7 @@ www.max-host.pl
 www.maxitrade.com
 www.maymaychihai.com
 www.mayonez.pl
+www.mazowskagazeta.pl
 www.mbp-brzeziny.pl
 www.mb-studio.pl
 www.mbtbuty.pl
@@ -8156,6 +8170,7 @@ www.poszukiwania24.eu
 www.poszukiwania24.net.pl
 www.poszukiwania24.pl
 www.poszukiwania24.site
+www.poszukiwanialaury.online
 www.powaifinearts.org
 www.powerfactorsaver.com
 www.powerkf-design.pl
@@ -8268,6 +8283,7 @@ www.przedszkolesadowa.pl
 www.przedszkoleszkrab.pl
 www.przedszkolewlipnicy.pl
 www.przejdz.ml
+www.przejrzyj-fotki.eu
 www.przemyslawrenn.pl
 www.przepismix.pl
 www.przepisnaweekend.pl
@@ -8845,6 +8861,7 @@ www.starychemik.pl
 www.staryspichlerz-darlowo.pl
 www.statmach.pl
 www.statusnim.info
+www.status.xn.pl
 www.statystykaopisowa.pl
 www.staweckadesign.pl
 www.stawiamyslady.pl
@@ -8965,6 +8982,7 @@ www.szlonepromocje.com
 www.szmoldparts.com
 www.szoferikrokodyl.pl
 www.szokinfo247.blogspot.com
+www.szoten.pl
 www.szpitaledlaludzi.pl
 www.sztormland.com.pl
 www.sztukiwalkikrakow.pl
