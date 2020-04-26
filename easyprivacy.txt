@@ -291,6 +291,7 @@ affilizr.com
 affinesystems.com
 affinitymatrix.com
 affistats.com
+afftrack.pro
 afminer.com
 afraidlanguage.com
 africal.info
@@ -392,6 +393,7 @@ analytics2.socialblade.com
 analytics.30m.com
 analytics.aasaam.com
 analytics.adfreetime.com
+analytics.agoda.com
 analytics.allovoisins.com
 analytics.amakings.com
 analytics.anvato.net
@@ -615,6 +617,7 @@ appier.net
 apple.www.letv.com
 app.link
 appn.center
+appsflyer.com
 appsha5.space
 aprtn.com
 aprtx.com
@@ -840,6 +843,7 @@ belstat.nl
 benchit.com
 benchtag2.co
 bench.uc.cn
+bento.agoda.com
 bentonow.com
 berateveng.ru
 berg-6-82.com
@@ -2015,6 +2019,7 @@ ea.vente-unique.ch
 ea.vente-unique.com
 ea.vente-unique.lu
 ea.warnerbros.fr
+eb4us.com
 ebay.northernhost.com
 ebis.ne.jp
 ebtrk1.com
@@ -2269,6 +2274,7 @@ eyereturn.com
 ezakus.net
 ezec.co.uk
 e-zeeinternet.com
+ezodn.com
 ezytrack.com
 f1tbit.com
 f7ds.liberation.fr
@@ -2499,6 +2505,8 @@ geoip.boredpanda.com
 geoip.cleveland.com
 geoip-db.com
 geoip.gulflive.com
+geoip.hmageo.com
+geoip.ifunny.co
 geoip.inquirer.net
 geoip-js.com
 geoip.lehighvalleylive.com
@@ -2705,6 +2713,7 @@ hermes.theglobeandmail.com
 hetchi.com
 hexagon-analytics.com
 heyhelga.net
+heymatic.com
 heystaks.com
 hhb123.tk
 hiconversion.com
@@ -2882,6 +2891,7 @@ incentivesnetwork.net
 index.ru
 indexstats.com
 indextools.com
+indicative.com
 indicia.com
 individuad.net
 ineedhits.com
@@ -4339,6 +4349,7 @@ pv.xcar.com.cn
 pvx.xcar.com.cn
 pwa.telephoneannuaire.fr
 pw.gigazine.net
+pxaction.com
 pxchk.net
 px-cloud.net
 pxc.otto.de
@@ -4373,6 +4384,7 @@ qsstats.com
 q-stats.nl
 quadran.eu
 quaintcan.com
+qualaroo.com
 quantcount.com
 quantummetric.com
 quartic.pl
@@ -4628,6 +4640,7 @@ ru4.com
 rumanalytics.com
 rum.conde.io
 rum.marquardmedia.hu
+rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rumpelstiltskinhead.com
 rum.uptime.com
@@ -5417,6 +5430,7 @@ suchmaschinen-ranking-hits.de
 suddensidewalk.com
 sugarcurtain.com
 sugar.gameforge.com
+sugodeku.com
 sugs.m.sm.cn
 summerhamster.com
 summitemarketinganalytics.com
@@ -5519,6 +5533,7 @@ target.smi2.ru
 target.ukr.net
 ta.sanook.com
 taskanalytics.com
+t.av.st
 tawdryson.com
 taxel.jp
 t.beopinion.com
@@ -6523,6 +6538,7 @@ webtracker.jp
 web-track.telekom-dienste.de
 webtrafficagents.com
 webtraffic.se
+webtrafficsource.com
 webtraffiq.com
 webtraxs.com
 webtrekk-asia.net

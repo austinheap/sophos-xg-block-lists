@@ -2175,6 +2175,7 @@ klasterbhp.pl
 klikasz-i-masz.com
 klikijuz.com
 klinika-kregoslupa.pl
+k-link-poland.pl
 klockidladzieci.com.pl
 kloikg.pl
 klubikbaczek.pl
@@ -2494,7 +2495,6 @@ marcofama.it
 mardimex.com.pl
 marekdoniec.com
 marekporwol.pl
-mariancabanski.pl
 marianpankowski.pl
 marian-wasilewski.pl
 mariuszpelczarski.pl
@@ -2511,7 +2511,6 @@ martens1460.pl
 martens1460.top
 martenssklep.com
 martensysklep.pl
-marvel-heroes.pl
 marykay.pl
 marzectoyoty.pl
 mas1o.pl
@@ -2717,7 +2716,6 @@ muppetowecentrum.pl
 muralovemiasto.pl
 music611.com
 music-design.pl
-musicistheweapon.pl
 music.jbl-solo.com
 musicoutlet.pl
 musika.pl
@@ -2800,7 +2798,6 @@ nawigatorczarter.pl
 nbbuty.pl
 nbpolska.pl
 nbryb.com
-nbskleppl.pl
 nbwyprzedaz.pl
 nclick.pl
 ncrtrade.top
@@ -2900,7 +2897,6 @@ nowakkrzysztof.pl
 nowa.k-link-poland.pl
 nowa-oplata.net
 nowebutyad.pl
-nowebutyadtanio.pl
 nowebutyasics.com
 nowenktanio.pl
 noweprebuty.pl
@@ -2974,9 +2970,9 @@ olszewski.ehost.pl
 olszowskidesign.pl
 olubin.pl
 olx-platnosci.online
+olx-polska.h2g.pl
 olympus-markets.com
 olympusmarkets.com
-omagro.pl
 omega.best
 omega-best.org
 omegakredyt.com
@@ -3167,7 +3163,6 @@ phonesecure.mobi
 phytolast.com
 piachmen.pl
 pianypur.pl
-piegowatydom.pl
 piekarnia-kleszczewscy.pl
 pieknoiuroda-fm.pl
 pierre-lang.com
@@ -3494,7 +3489,6 @@ programyobywatelskie.pl
 proimagephoto.pl
 projectalbum.pl
 projectolynx.com
-projekt-gitara.pl
 projektrestart.pl
 prokino.pl
 promediapr.pl
@@ -3570,7 +3564,6 @@ pulse-biznesowe.xyz
 pulsebiznesu.xyz
 puls-sukcesu.net
 pumaoutletpolska.pl
-pumaoutletstore.pl
 pumapl.pl
 pumapolskasklep.pl
 pumaprzeceny.pl
@@ -3638,7 +3631,6 @@ rangreality.com
 rapluz.pl
 rathbone-art.com
 ratovnick.pl
-ratykredyt.pl
 ravlw.nearbysluts.net
 raypath.eu
 raypath-international.com.pl
@@ -3714,7 +3706,6 @@ restaurato.pl
 restorti4.com
 restricted.pl
 retrortv.in.net
-re-uspol.pl
 reviewedreads.com
 revinex.pl
 revitib.com
@@ -3762,7 +3753,6 @@ rozaart.com.pl
 roznehistorie.pl
 rozpalamynadzieje.pl
 rrbajkowa.pl
-rs-druk.pl
 rsvpcatering.pl
 rtvagdpro.net
 rtvmax.pl
@@ -3776,12 +3766,10 @@ ruletka-systemy.com
 runaddict.pl
 run-germany.com
 runningbastards.pl
-runshoes.pl
 rushpay.pl
 r.xyz1.pl
 rynkiewicz.com.pl
 rytmybielizny.pl
-rzeczyzadarmo.pl
 rzezba-gluch.pl
 s9kkremkr0.com
 saarthieduhub.com
@@ -4028,7 +4016,6 @@ solvusoft.com
 soo.sg
 sornalisokal.com
 sortier1.com
-sosnart.pl
 soundshow.pl
 souvre.pl
 sp2mzc.pl
@@ -4046,7 +4033,6 @@ special-promotion.online
 specjalniedlaciebie.com
 specodstrony.pl
 spectacledanse.com
-spedrapid.com.pl
 speedballin.pl
 speedfile.info
 speedy.com.pl
@@ -4141,7 +4127,6 @@ stowarzyszeniesedziow.pl
 stowarzyszeniewkp.pl
 straz-pakoslawice.pl
 streamgo.pl
-streetrulez.pl
 strefa-filmu.pl
 strefagotyku.pl
 strefakina.pl
@@ -4353,7 +4338,6 @@ tiens.pl
 tigergym.com.pl
 tilido.com
 timberlandchukka.pl
-timberlandeurosprint.pl
 timberlandobuwie.pl
 timberlandpl.com
 timberlandpoland.pl
@@ -4475,7 +4459,6 @@ twojszczesliwydzien.com
 twoj-tauron.pl
 twoj-typ.pl
 twoj-voucher.com
-twosunflowers.pl
 tyledrewna.pl
 tylko-dla-ciebie.com
 tylkofacet.pl
@@ -4499,7 +4482,6 @@ uggsklep.pl
 uggtanio.pl
 uggwyprzedaz.pl
 uio7.pl
-ukrisa.pl
 ukskrokus.pl
 uks-osemka.pl
 uksstrzalwodzislaw.pl
@@ -4509,7 +4491,6 @@ ultramax.pl
 ultratrck.com
 umadrego.pl
 underamoursklep.pl
-underwear4u.pl
 unhallowed.pl
 unident-union.pl
 uniflorpolska.pl
@@ -4610,7 +4591,6 @@ vipcheats.us
 vip.fortunatefellow.xyz
 vip.fortunatetime.xyz
 vip.lucky-gifts-center.com
-vipon.pl
 virtualgarden.pl
 virusblokada.pl
 visalink.pl
@@ -4649,9 +4629,7 @@ wapster.pl
 wardon.pl
 warsawlimousine.pl
 warszawafakty.eu
-warszawa-gov.pl
 warszawa-info24.pl
-warszawa-informujemy.pl
 warterfoods.pl
 wartomiec.pl
 wawalot.pl
@@ -6953,6 +6931,7 @@ www.klasterbhp.pl
 www.klikasz-i-masz.com
 www.klikijuz.com
 www.klinika-kregoslupa.pl
+www.k-link-poland.pl
 www.klockidladzieci.com.pl
 www.kloikg.pl
 www.klubikbaczek.pl
@@ -7272,7 +7251,6 @@ www.marcofama.it
 www.mardimex.com.pl
 www.marekdoniec.com
 www.marekporwol.pl
-www.mariancabanski.pl
 www.marianpankowski.pl
 www.marian-wasilewski.pl
 www.mariuszpelczarski.pl
@@ -7289,7 +7267,6 @@ www.martens1460.pl
 www.martens1460.top
 www.martenssklep.com
 www.martensysklep.pl
-www.marvel-heroes.pl
 www.marykay.pl
 www.marzectoyoty.pl
 www.mas1o.pl
@@ -7495,7 +7472,6 @@ www.muppetowecentrum.pl
 www.muralovemiasto.pl
 www.music611.com
 www.music-design.pl
-www.musicistheweapon.pl
 www.music.jbl-solo.com
 www.musicoutlet.pl
 www.musika.pl
@@ -7578,7 +7554,6 @@ www.nawigatorczarter.pl
 www.nbbuty.pl
 www.nbpolska.pl
 www.nbryb.com
-www.nbskleppl.pl
 www.nbwyprzedaz.pl
 www.nclick.pl
 www.ncrtrade.top
@@ -7678,7 +7653,6 @@ www.nowakkrzysztof.pl
 www.nowa.k-link-poland.pl
 www.nowa-oplata.net
 www.nowebutyad.pl
-www.nowebutyadtanio.pl
 www.nowebutyasics.com
 www.nowenktanio.pl
 www.noweprebuty.pl
@@ -7752,9 +7726,9 @@ www.olszewski.ehost.pl
 www.olszowskidesign.pl
 www.olubin.pl
 www.olx-platnosci.online
+www.olx-polska.h2g.pl
 www.olympus-markets.com
 www.olympusmarkets.com
-www.omagro.pl
 www.omega.best
 www.omega-best.org
 www.omegakredyt.com
@@ -7946,7 +7920,6 @@ www.phonesecure.mobi
 www.phytolast.com
 www.piachmen.pl
 www.pianypur.pl
-www.piegowatydom.pl
 www.piekarnia-kleszczewscy.pl
 www.pieknoiuroda-fm.pl
 www.pierre-lang.com
@@ -8241,7 +8214,6 @@ www.programyobywatelskie.pl
 www.proimagephoto.pl
 www.projectalbum.pl
 www.projectolynx.com
-www.projekt-gitara.pl
 www.projektrestart.pl
 www.prokino.pl
 www.promediapr.pl
@@ -8317,7 +8289,6 @@ www.pulse-biznesowe.xyz
 www.pulsebiznesu.xyz
 www.puls-sukcesu.net
 www.pumaoutletpolska.pl
-www.pumaoutletstore.pl
 www.pumapl.pl
 www.pumapolskasklep.pl
 www.pumaprzeceny.pl
@@ -8385,7 +8356,6 @@ www.rangreality.com
 www.rapluz.pl
 www.rathbone-art.com
 www.ratovnick.pl
-www.ratykredyt.pl
 www.ravlw.nearbysluts.net
 www.raypath.eu
 www.raypath-international.com.pl
@@ -8461,7 +8431,6 @@ www.restaurato.pl
 www.restorti4.com
 www.restricted.pl
 www.retrortv.in.net
-www.re-uspol.pl
 www.reviewedreads.com
 www.revinex.pl
 www.revitib.com
@@ -8509,7 +8478,6 @@ www.rozaart.com.pl
 www.roznehistorie.pl
 www.rozpalamynadzieje.pl
 www.rrbajkowa.pl
-www.rs-druk.pl
 www.rsvpcatering.pl
 www.rtvagdpro.net
 www.rtvmax.pl
@@ -8523,12 +8491,10 @@ www.ruletka-systemy.com
 www.runaddict.pl
 www.run-germany.com
 www.runningbastards.pl
-www.runshoes.pl
 www.rushpay.pl
 www.r.xyz1.pl
 www.rynkiewicz.com.pl
 www.rytmybielizny.pl
-www.rzeczyzadarmo.pl
 www.rzezba-gluch.pl
 www.s9kkremkr0.com
 www.saarthieduhub.com
@@ -8775,7 +8741,6 @@ www.solvusoft.com
 www.soo.sg
 www.sornalisokal.com
 www.sortier1.com
-www.sosnart.pl
 www.soundshow.pl
 www.souvre.pl
 www.sp2mzc.pl
@@ -8793,7 +8758,6 @@ www.special-promotion.online
 www.specjalniedlaciebie.com
 www.specodstrony.pl
 www.spectacledanse.com
-www.spedrapid.com.pl
 www.speedballin.pl
 www.speedfile.info
 www.speedy.com.pl
@@ -8888,7 +8852,6 @@ www.stowarzyszeniesedziow.pl
 www.stowarzyszeniewkp.pl
 www.straz-pakoslawice.pl
 www.streamgo.pl
-www.streetrulez.pl
 www.strefa-filmu.pl
 www.strefagotyku.pl
 www.strefakina.pl
@@ -9100,7 +9063,6 @@ www.tiens.pl
 www.tigergym.com.pl
 www.tilido.com
 www.timberlandchukka.pl
-www.timberlandeurosprint.pl
 www.timberlandobuwie.pl
 www.timberlandpl.com
 www.timberlandpoland.pl
@@ -9222,7 +9184,6 @@ www.twojszczesliwydzien.com
 www.twoj-tauron.pl
 www.twoj-typ.pl
 www.twoj-voucher.com
-www.twosunflowers.pl
 www.tyledrewna.pl
 www.tylko-dla-ciebie.com
 www.tylkofacet.pl
@@ -9246,7 +9207,6 @@ www.uggsklep.pl
 www.uggtanio.pl
 www.uggwyprzedaz.pl
 www.uio7.pl
-www.ukrisa.pl
 www.ukskrokus.pl
 www.uks-osemka.pl
 www.uksstrzalwodzislaw.pl
@@ -9256,7 +9216,6 @@ www.ultramax.pl
 www.ultratrck.com
 www.umadrego.pl
 www.underamoursklep.pl
-www.underwear4u.pl
 www.unhallowed.pl
 www.unident-union.pl
 www.uniflorpolska.pl
@@ -9357,7 +9316,6 @@ www.vipcheats.us
 www.vip.fortunatefellow.xyz
 www.vip.fortunatetime.xyz
 www.vip.lucky-gifts-center.com
-www.vipon.pl
 www.virtualgarden.pl
 www.virusblokada.pl
 www.visalink.pl
@@ -9396,9 +9354,7 @@ www.wapster.pl
 www.wardon.pl
 www.warsawlimousine.pl
 www.warszawafakty.eu
-www.warszawa-gov.pl
 www.warszawa-info24.pl
-www.warszawa-informujemy.pl
 www.warterfoods.pl
 www.wartomiec.pl
 www.wawalot.pl
@@ -9536,7 +9492,6 @@ www.wygrania.com
 www.wygrywa.pl
 www.wyjasniamy.eu
 www.wyjazd24.pl
-www.wyklady-krakowskie.pl
 www.wyleczpc.pl
 www.wylewkibetonowe.com.pl
 www.wymowek.pl
@@ -9650,7 +9605,6 @@ www.zejrzyj-zdjecia.bo.pl
 www.zelazkowkuchni.pl
 www.zennoa.com
 www.zennoa-poland.com
-www.zespolbefree.pl
 www.zespol-bonus.pl
 www.zespolclifford.pl
 www.zespolcwiklice.pl
@@ -9728,7 +9682,6 @@ wygrania.com
 wygrywa.pl
 wyjasniamy.eu
 wyjazd24.pl
-wyklady-krakowskie.pl
 wyleczpc.pl
 wylewkibetonowe.com.pl
 wymowek.pl
@@ -9842,7 +9795,6 @@ zejrzyj-zdjecia.bo.pl
 zelazkowkuchni.pl
 zennoa.com
 zennoa-poland.com
-zespolbefree.pl
 zespol-bonus.pl
 zespolclifford.pl
 zespolcwiklice.pl
