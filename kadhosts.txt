@@ -1,3 +1,4 @@
+0e0.eu
 0ff.page
 0n.click
 0pen.page
@@ -124,7 +125,6 @@ agataszupke.pl
 agdeer.com
 agdrtv.net
 agencjared.pl
-agenty.pl
 agipasesores.com
 agnieszkasulkowska.pl
 agricoletrade.com
@@ -183,6 +183,7 @@ alfa-projekt.com.pl
 alfasj.com.pl
 alieokazje.pl
 alim.com.pl
+aliorkurier.org
 alise.pl
 alkoskurier.com
 alldc.pw
@@ -267,9 +268,6 @@ appcaptcha.com
 appfox.org
 appiq.mobi
 apple.com-mac-booster.live
-apple.com-macos-clean-systems.live
-apple.com-repair.live
-apple.com-scan.live
 apple.com-scan-mac.live
 apple.com-shield.live
 apple.com-shields-guard.live
@@ -280,7 +278,6 @@ apteka2000.pl
 aquacell.pl
 aquafit24.pl
 aquafit.sklep.pl
-aquafun-wlodawa.pl
 aquapower.com.pl
 arcicalonetal.pro
 areyouabot.net
@@ -361,7 +358,6 @@ b7ax3cyzhq.com
 backmoniterreq.icu
 bacuskurier.com
 bagstory.pl
-baileybowout.pl
 baileybutton.pl
 balsit.org
 bamitrans.pl
@@ -431,6 +427,8 @@ bialazebra.pl
 bianchispizza.com
 bibliodro.pl
 bidenhascovid19.co
+biedronka-zamyka-sklepy.24.eu
+biedronkowe-karty.24.eu
 biegostojazwierzat.pl
 biegtwardego.pl
 biewer-raj.pl
@@ -481,7 +479,6 @@ blogonews.com
 blok-gp.com.pl
 blubox.pl
 bluesgarage.pl
-bluesgarager.pl
 bmfoto.pl
 bmgrp.tk
 bmillenhome.com
@@ -494,7 +491,8 @@ bodykarma.pl
 bodysecretrevelation.com
 bohema-suprasl.pl
 boherlex.com.pl
-bok.itauron.pl
+bok.enea-sa.pl
+bok.epgnig.pl
 bolek69.pl
 bombazakupowa.com
 bondagetrip.com
@@ -551,7 +549,6 @@ burnbabylon.pl
 businesspuls.online
 bustcream-pro.com
 butikcreativo.pl
-butyadidastanie.pl
 butyairmaxtanio.pl
 butyasicsdamskie.pl
 butyasicsgellyte.pl
@@ -596,7 +593,6 @@ buzzihome.com
 buzz.mobiapp-games.com
 buzzonclick.com
 caal.pl
-caferoskosz.pl
 caffeepolit.pl
 cairn-westie.com.pl
 calcionostra.pl
@@ -678,7 +674,6 @@ chengjiaoyou.com
 chestnut-hill-farm.com
 childalertfakt.eu
 childalertfakt.online
-childalertfakt.pl
 childalertfakt.site
 chimera-studio.pl
 chipcar.pl
@@ -715,8 +710,6 @@ cityvida.com
 cksserock.pl
 claimyourprizes16.life
 clansf.pl
-clarkspl.pl
-classiccortez.pl
 classicleather.pl
 clauzula.pl
 cld4r.com
@@ -791,6 +784,7 @@ cristal2017.argo.host
 cristianlay.com
 crmwpraktyce.pl
 crocsdamskie.pl
+crocsoutletpolska.pl
 crocs-pl.pl
 crocspolskasklepy.pl
 crossfitchojnice.pl
@@ -889,7 +883,6 @@ deszczysko.pl
 deus-est-machina.pl
 deutschepost.de.deliveryexpress.today
 dev.apps.co.pl
-deviwijiyanti.web.id
 dhl-paczka.eu
 dhl-payment.com
 dhl-percel.com
@@ -1011,25 +1004,13 @@ durasoft.pl
 dvzwh.voluumtrk.com
 dw.lp.eu.emobi-sys.com
 dwnlad.ws
-dworzecfakt.com.pl
 dworzecfakt.eu
 dworzecfakt.online
-dworzecfakt.pl
-dworzecfakt.waw.pl
-dworzeconline24.com.pl
 dworzeconline24.online
-dworzeconline24.pl
 dworzeconline24.site
-dworzeconline24.waw.pl
-dworzecporwanie.pl
-dworzecporwaniepl-24.pl
-dworzecporwaniepl.com.pl
 dworzecporwaniepl.eu
-dworzecporwaniepl.net.pl
 dworzecporwaniepl.online
-dworzecporwaniepl.pl
 dworzecporwaniepl.site
-dworzecporwaniepl.waw.pl
 dwzacisze.com.pl
 dxn2u.com
 dyskotekafantazja.pl
@@ -1037,10 +1018,6 @@ dyskretnytelefon.pl
 dziadekdogramofonu.pl
 dzieciakisportaki.pl
 dzieciznatura.pl
-dzieckoalert.com.pl
-dzieckoalert.net.pl
-dzieckoalert.pl
-dzieckoalert.waw.pl
 dziendobry.org.pl
 dziennikkcal.pl
 dzienniknews.com.pl
@@ -1070,6 +1047,7 @@ ebookeo.pl
 ebuty.net.pl
 ecampuskbds.com
 eccobuty.pl
+eccoobuwie.pl
 eccooutlet.pl
 eccopl.pl
 eccopromocje.pl
@@ -1098,10 +1076,6 @@ eduhull.pl
 edukacjawakcji.pl
 edukacjawysylkowa.pl
 edumedix.pl
-e-dworzeconline24.pl
-edworzeconline24.pl
-e-dworzecporwaniepl.pl
-edworzecporwaniepl.pl
 e-eporwaniedziecka.pl
 eeu.pl
 e-filmy24.pl
@@ -1151,6 +1125,7 @@ emuzyka-do-pobrania.pl
 e-naturessunshine.com
 endgames.pl
 endofhisrope.net
+enea-sa.pl
 energabok.pl
 energetix.com.pl
 energi-a.pl
@@ -1166,8 +1141,8 @@ e-paczka24.net
 epaka247.net
 epaka.club
 e-payu.online
-epayu.pl
 e-payu.xyz
+epgnig.pl
 epiatnosc.com
 epicreact.pl
 e-platnosc.best
@@ -1175,20 +1150,12 @@ epliki24.pl
 epoczta247.com
 epocztapolska24.pl
 e-podatek.net
-e-polskaporwanie.pl
-epolskaporwanie.pl
 eporwaniedziecka.com.pl
 eporwaniedziecka.net.pl
 eporwaniedziecka.pl
 eporwaniedziecka.site
 eporwaniedziecka.waw.pl
-e-porwaniepolska48.pl
-eporwaniepolska48.pl
-e-porwaniepolska.pl
-eporwaniepolska.pl
-e-poszukiwania.com.pl
 e-poszukiwania.eu
-e-poszukiwania.pl
 e-poszukiwania.site
 epremki.eu
 eqology.com
@@ -1225,10 +1192,6 @@ euco.pl
 e-udanezakupy.pl
 euforiatattoo.com.pl
 eu.iconsumerstocksymbol.icu
-e-uprowadzeniedworzec.pl
-euprowadzeniedworzec.pl
-e-uprowadzniezdworca.pl
-euprowadzniezdworca.pl
 euroagd.in.net
 euroausili.it
 eurobizneskonsulting.pl
@@ -1273,11 +1236,11 @@ faccebook.5v.pl
 facebbook.5v.pl
 facebokznajomi.blogspot.com
 facebook.5v.pl
-facebookaheagoprincess.pl
 facebookaplikacje.blogspot.com
 facebook-color.5v.pl
 facebookcolors24.blogspot.com
 facebook-com-pl-profile.7m.pl
+facebookgroups.pl
 facebookkoloruj.blogspot.com
 facebookkviewer.blogspot.com
 facebook-login.5v.pl
@@ -1334,6 +1297,7 @@ faktypolska8.b-cdn.net
 faktypolska9.b-cdn.net
 fakty-sniadaniowe.com.pl
 fakty-sniadaniowe-pl.com
+faktyzwawy.pl
 faldo.pl
 falmer.com.pl
 familyclean.pl
@@ -1612,7 +1576,6 @@ gayza.net
 gazetainfo24tv.hekko24.pl
 gazetalublin.pl
 gazetamazowsze.eu
-gazetamazowsze.pl
 gazeta-natemat-pol.eu
 gazetanowoczesna.pl
 gazeta.pl.com.bz
@@ -1679,7 +1642,6 @@ glosowanie.ujm.pl
 gls-parcel.com
 gmagazyn.pl
 gminapiekoszow.pl
-gnprojekt.pl
 gnreg.com
 go.0o.click
 go2affise.com
@@ -1888,8 +1850,6 @@ idealnafigura.com
 ideatur.pl
 ideazespolufilmowego.pl
 idgarin.com
-i-dworzecporwaniepl.pl
-idworzecporwaniepl.pl
 i-films.pl
 i-filmy.pl
 iglesia.pl
@@ -1927,7 +1887,6 @@ info-polska.24.eu
 informacja-dnia.com
 informacje24fakt.pusiaweb.com
 informacje24-swiat.pl
-informacje-fakty.pl
 informacje-fakty.pusiaweb.com
 informacjemiasto.hekko24.pl
 informacje-news.eu
@@ -1976,7 +1935,6 @@ ionetporwanie.online
 ionetporwanie.site
 iotiot.cf
 ipeachy.pl
-i-pgnig.pl
 iphonepolska.pl
 ipk0bp.net
 ipko.pl-weryfikacja-konta-bank-pko.j.pl
@@ -1986,7 +1944,6 @@ iporwania.com.pl
 iporwania.eu
 iporwania.net.pl
 iporwania.pl
-iporwaniapolska24.pl
 iporwania.site
 iporwania.waw.pl
 iporwanie24.eu
@@ -2073,7 +2030,6 @@ jookerclik.site
 joplionnsld.xyz
 jordenmadsen.com
 jquerysxur6.live
-jrly.l3f.info
 jsauto.pl
 judokalisz.pl
 judomiedzyrzecz.pl
@@ -2119,8 +2075,10 @@ karokorale.pl
 karolinabuczek.pl
 karta-podarunkowa-podaj-dane.gq
 kartavisa.pl
+karty-biedronkowe.24.eu
 karwiamontecarlo.pl
 kasa-sms.pl
+kasia-czat.24.eu
 kasiakurier.info
 kaskadarugby.pl
 kaszubskaalaska.pl
@@ -2164,7 +2122,6 @@ kinotek.pl
 kino-tv.pl
 kinovod.tv
 kinujemy.pl
-kipokahynr.xyz
 kirstenbijlsma.com
 kitcarforum.pl
 kitchencollectivecool.info
@@ -2238,7 +2195,6 @@ koronawirusnews.com.pl
 koronawirusnews.net.pl
 kororoweszyszki.pl
 korphan.pl
-korporacjabtm.com.pl
 korpowscy.pl
 korzystna.org
 koscijanski.pl
@@ -2308,6 +2264,7 @@ kuyxjgf.ga
 kuznialudzizaradnych.pl
 kuzniauwb.pl
 kwadratowyswia.pl
+kwaterapodgruszka.pl
 kwaterynasezon.pl
 kwiaciarnianadworcu.pl
 kwiaty-wiosenne.pl
@@ -2478,7 +2435,6 @@ makarenagaski.pl
 maksymrzeminski.pl
 malgorzatakwapisz.pl
 maliciousdns.msftncsi.com
-malkarsklep.pl
 malux-debica.pl
 mamaniezwyboru.pl
 mamawpodrozy.pl
@@ -2534,6 +2490,7 @@ max-host.pl
 maxitrade.com
 maymaychihai.com
 mayonez.pl
+mazowskagazeta.eu
 mazowskagazeta.pl
 mbp-brzeziny.pl
 mb-studio.pl
@@ -2552,7 +2509,6 @@ mechaonik.nsx.pl
 mecz.ujm.pl
 medcomcenter.pl
 medgenetix.pl
-mediaborek.pl
 mediaexpres.in.net
 mediafile.pl
 mediartvagd.in.net
@@ -2625,7 +2581,6 @@ mmajerski.pl
 mmarzeszow.pl
 mmlemberg.pl
 mnpasalubong.com
-moabpolska.pl
 mobgames.mobi
 mobiapp-games.com
 mobicpi.com
@@ -2751,6 +2706,7 @@ mzgov.net
 nabazarze.pl
 nadhirotultaqwa.com
 nadzorbudowa.pl
+nagolasa.0e0.eu
 nagroda-sms.pl
 najlepszebiurorachunkowe.pl
 najlepszedlaciebie.com
@@ -2811,7 +2767,6 @@ neomedia.in.net
 neonetmax.in.net
 neopozyczki.pl
 neospes.com
-nepomucen-dorohusk.pl
 netfilmy.pl
 netflix.apps.co.pl
 netflix-mail.info
@@ -2820,7 +2775,6 @@ netpipe.warzonedns.com
 netwita.pl
 neurorehabtraining.com
 newbalancepl.pl
-newbalancepoland.pl
 newcomersgallery.com
 newmediaz.com
 new-message.co
@@ -2929,6 +2883,7 @@ ochotnica-noclegi.pl
 ochrona-kaczorek.pl
 oczamipedagoga.pl
 oczymagraffiti.pl
+odbieramy-karty.24.eu
 odbierzdarmowedoladowanie.wordpress.com
 odbierz-paysafecard.ujm.pl
 odchudzaniezpasja.pl
@@ -2987,7 +2942,6 @@ onet24pl.pvi.pl
 onet24-polska.space
 onetmailsupportsystemnetworks.tk
 onetpomaga24.eu
-onetporwanie.com.pl
 onetporwanie.net.pl
 onetporwanie.online
 onetporwanie.pl
@@ -3038,7 +2992,6 @@ optimal-system.pl
 optimask-pro.com
 orange-kodzik.890m.com
 orbis-pictus.pl
-orcadive.pl
 organicmed.pl
 organogold.com
 orkiestrawszechczasow.pl
@@ -3128,6 +3081,7 @@ payment24-online.org
 pay.onebip.com
 payoner.club
 payooner.club
+pay.pocztapolska24.com
 payu20-paczka24.com
 paywu.net
 paznokcie-poznan.pl
@@ -3157,7 +3111,6 @@ pffn.pl.tn
 pgebok.com
 pge-bok.pl
 pgnig-24.pl
-pgnigonline.pl
 pgrogolin.pl
 phikunprogramming.com
 phonenewmessage.com
@@ -3205,6 +3158,7 @@ pl.50kaweek.live
 placidocn.com
 plainsviewfarm.com
 pl.allsports4free.club
+planchashop.fr
 plastiquedesign.pl
 platinumprestige.pl
 platnik247.online
@@ -3302,6 +3256,7 @@ pociagdoukrainy.pl
 poczta-interia.com
 poczta-login-neostrada.com
 poczta-pay.com
+pocztapolska24.com
 poczta-polska24.eu
 poczta-polska24.net
 pocztapolska48.net
@@ -3349,10 +3304,7 @@ polskabieda.com
 polska-gazeta-dnia.pl
 polskapaczka24.net
 polskaporwania.eu
-polskaporwanie.com.pl
 polskaporwanie.eu
-polskaporwanie.net.pl
-polskaporwanie.pl
 polska-tv.pl
 polskibestseller.pl
 polskieetno.pl
@@ -3385,27 +3337,14 @@ porownajtv24.pl
 portaldruku.pl
 portalfotowoltaika.pl
 portal-legionowo.pl
+portalrandkowy.c.pl
 porumar.pl
 porwaniadzieci.eu
-porwaniapolska24.com.pl
-porwaniapolska24.net.pl
-porwaniapolska24online.pl
-porwaniapolska24.pl
-porwaniapolska24.waw.pl
-porwaniapolska.com.pl
 porwaniedziecki24.eu
 porwaniedziecki24.net.pl
 porwaniedziecki24.pl
 porwanienatalki.eu
 porwanienatalki.online
-porwaniepolska48.com.pl
-porwaniepolska48.net.pl
-porwaniepolska48.pl
-porwaniepolska48.waw.pl
-porwaniepolska.com.pl
-porwaniepolska.net.pl
-porwaniepolska.pl
-porwaniepolska.waw.pl
 porwaniewmiescie.hekko24.pl
 poscielowyraj.pl
 poshettescafe.com
@@ -3425,6 +3364,7 @@ powaifinearts.org
 powerfactorsaver.com
 powerkf-design.pl
 powiat24-wydarzenia.pl
+powiekszgo.c.pl
 powodzeniamamo.pl
 pozastrefekomfortu.pl
 poziom3.pl
@@ -3523,7 +3463,6 @@ przechwycone-zdjecia.00x.eu
 przechwycone-zdjecia-fotki.pusiaweb.com
 przechwycone-zdjecia.pl
 przechwycone-zdjecia.pusiaweb.com
-przechwycone-zdjecie.pl
 przedszkolefalenty.pl
 przedszkoleglobus.pl
 przedszkolekrainadziecka.pl
@@ -3749,7 +3688,6 @@ roundupbarandgrill.com
 rovingadventures.com
 rowanyne.ooo
 roweremnasniezke.pl
-rowermax.pl
 royalestate.com.pl
 rozaart.com.pl
 roznehistorie.pl
@@ -3789,6 +3727,9 @@ salonmanager.pl
 salonmotoryzacyjny.lublin.ovh
 salon-nadia.pl
 salvadorots.pl
+samsung.24.eu
+samsung-produkcja.24.eu
+samsung-stop.24.eu
 samuraibangalore.com
 sandomir.pl
 sandrografia.pl
@@ -3894,7 +3835,6 @@ showup-tv.com.pl
 shruboakframing.com
 siatkarzowelove.pl
 sidedark-warez.pl
-siderpiping.com
 sidnoy.site
 siec34.pl
 siedleckapogon.pl
@@ -3910,6 +3850,7 @@ simplicatio.pl
 simplyjazz.pl
 siniaki.pl
 siobhanmcminn.com
+siodemkawysyl24h.info
 sipp.pl
 siroccogoldfci.pl
 sitegiant.info
@@ -4000,7 +3941,6 @@ sobotka24.com.pl
 socialbump.hekko24.pl
 socialize.pl
 societyjezuufamtobie.pl
-socjomat.pl
 soft4click.com
 softmania.pl
 softsmart.mobi
@@ -4161,7 +4101,6 @@ sukhumvithomes.com
 sunandfunweddings.com
 sunbeach.pl
 sunflagsteel.com
-superfajnapolska.pl
 supergabuty.pl
 supergapolska.pl
 superhiperwakacje.com.pl
@@ -4196,7 +4135,6 @@ sylverandjack.pl
 symulator-lotow.pl
 syncgreatlyquicksystem.icu
 syndication.exdynsrv.com
-syndromkreta.pl
 synergiareklama.pl
 synergyworldwide.com
 systemchlodzeniamglapl.com
@@ -4263,7 +4201,6 @@ tapxchange.com
 tarczakryzysowa.net
 targibudowlanekalisz.pl
 tarnow360.pl
-tarnowianka-park.pl
 tarnowskirap.pl
 tatroscatering.com
 tbntechnology.pl
@@ -4335,7 +4272,6 @@ tiande.pl
 tiandepolska.pl
 tiande.ru
 tiandewarszawa.pl
-tiendacomp.pl
 tiens.pl
 tigergym.com.pl
 tilido.com
@@ -4350,7 +4286,6 @@ tinyfilehost.com
 tinyfileshost.com
 titan-man.pro
 tlumacz-wloskiego.com.pl
-tnfpl.pl
 tniemyceny.net
 tocho.pl
 todolize.com
@@ -4458,8 +4393,8 @@ twojhoroskop.com
 twojidealnyslub.pl
 twoj-kurier.com
 twojkurier.com
+twoj-kurier.services
 twojszczesliwydzien.com
-twoj-tauron.pl
 twoj-typ.pl
 twoj-voucher.com
 tyledrewna.pl
@@ -4482,7 +4417,6 @@ uggoutlet.pl
 uggpl.pl
 uggpoland.pl
 uggsklep.pl
-uggtanio.pl
 uggwyprzedaz.pl
 uio7.pl
 ukskrokus.pl
@@ -4493,7 +4427,6 @@ ukswidok.pl
 ultramax.pl
 ultratrck.com
 umadrego.pl
-underamoursklep.pl
 unhallowed.pl
 unident-union.pl
 uniflorpolska.pl
@@ -4508,18 +4441,9 @@ updatestar.com
 uperpay.club
 upgradecheck12.thebestwaystofindreliablesoftwares.surf
 uprowadzenie.7m.pl
-uprowadzeniedworzec.com.pl
-uprowadzeniedworzec.net.pl
-uprowadzeniedworzec.pl
-uprowadzeniedworzec.waw.pl
-uprowadzniezdworca.com.pl
-uprowadzniezdworca.net.pl
-uprowadzniezdworca.pl
-uprowadzniezdworca.waw.pl
 upshare.org
 upskylinemotel.com
 urbantelling.pl
-urenarda.pl
 urodzinyspar.pl
 uroffer.link
 urwijnagrody.pl
@@ -4541,7 +4465,6 @@ uzupelniaj-dane.ml
 uzytecznie.pl
 v7pjo.voluumtrk.com
 valentinosklep.pl
-valex.pl
 valuesmatter.com.au
 vansallegro.pl
 vansbuty.pl
@@ -4550,11 +4473,9 @@ vansj.com
 vansoldschool.pl
 vansoldskoolpro.pl
 vansoutlet.pl
-vansoutletpolska.pl
 vanspl.pl
 vanspolska.com
 vanspolskasklep.pl
-vanspolskatanio.pl
 vansprzecena.pl
 vanswyprzedaz.pl
 vantis-holding.com
@@ -4619,7 +4540,6 @@ vpt58.tvnewtop.pro
 vsbuty.com
 vsee.tk
 vseobuch.ru
-vtix.pl
 vtopiuops.info
 w2mobile.com
 w3brasil.com
@@ -4632,7 +4552,6 @@ wapster.pl
 wardon.pl
 warsawlimousine.pl
 warszawafakty.eu
-warszawa-info24.pl
 warterfoods.pl
 wartomiec.pl
 wawalot.pl
@@ -4678,7 +4597,6 @@ wiadomosci-web.24.eu
 wicher-grabowo.pl
 widget-eforsa.pl
 wiecejpolski.icu
-wieczorowapora.pl
 wielkanagroda.com
 wielkaniespodzianka.pl
 wielkopolskie.refundacjeregionalne.pl
@@ -4707,6 +4625,7 @@ wirusmiasto.hekko24.pl
 wisdementive.info
 wisebanc.com
 wiszniawksiazkach.pl
+witamina.c.pl
 wizytowkicd.pl
 wkfilms.pl
 wklsokol.pl
@@ -4720,6 +4639,7 @@ wnp24.pl
 woj-kurier.services
 wojtekczyrnek.pl
 wolnezycie.info
+wolski.med.pl
 wolyncalyfilm.wordpress.com
 womenempowermentpakistan.com
 wooptrk.com
@@ -4732,10 +4652,8 @@ worldsementi.pl
 worthlessness.xyz
 wosp.online
 wp.6645478.top
-wpisz-dane.pl
 wplogin.5v.pl
 w-polsce.pl
-wppoczta-regulamin.pl
 wp-regulamin.com
 wpunkcie.pl
 wraplo.pl
@@ -4744,7 +4662,6 @@ wroclaw2012festival.pl
 wrozbyonline.net
 wrzeszcz-pallotyni.pl
 wsmwarszawa.pl
-wspieramyplodnosc.pl
 wspolniedlaprzyszlosci.pl
 wszyscyrodacy.com
 wszystkiemiasta.pl
@@ -4755,6 +4672,7 @@ wuus.org.cn
 ww1.shinden-anime.info
 ww2.xn--30986-udb.biz
 ww7.openwrt.com
+www.0e0.eu
 www.0ff.page
 www.0n.click
 www.0pen.page
@@ -4881,7 +4799,6 @@ www.agataszupke.pl
 www.agdeer.com
 www.agdrtv.net
 www.agencjared.pl
-www.agenty.pl
 www.agipasesores.com
 www.agnieszkasulkowska.pl
 www.agricoletrade.com
@@ -4940,6 +4857,7 @@ www.alfa-projekt.com.pl
 www.alfasj.com.pl
 www.alieokazje.pl
 www.alim.com.pl
+www.aliorkurier.org
 www.alise.pl
 www.alkoskurier.com
 www.alldc.pw
@@ -5025,9 +4943,6 @@ www.appfox.org
 www.appiq.mobi
 www-apple-com-anti-virus-systems.virus-removals.com
 www.apple.com-mac-booster.live
-www.apple.com-macos-clean-systems.live
-www.apple.com-repair.live
-www.apple.com-scan.live
 www.apple.com-scan-mac.live
 www.apple.com-shield.live
 www.apple.com-shields-guard.live
@@ -5039,7 +4954,6 @@ www.apteka2000.pl
 www.aquacell.pl
 www.aquafit24.pl
 www.aquafit.sklep.pl
-www.aquafun-wlodawa.pl
 www.aquapower.com.pl
 www.arcicalonetal.pro
 www.areyouabot.net
@@ -5120,7 +5034,6 @@ www.b7ax3cyzhq.com
 www.backmoniterreq.icu
 www.bacuskurier.com
 www.bagstory.pl
-www.baileybowout.pl
 www.baileybutton.pl
 www.balsit.org
 www.bamitrans.pl
@@ -5190,6 +5103,8 @@ www.bialazebra.pl
 www.bianchispizza.com
 www.bibliodro.pl
 www.bidenhascovid19.co
+www.biedronka-zamyka-sklepy.24.eu
+www.biedronkowe-karty.24.eu
 www.biegostojazwierzat.pl
 www.biegtwardego.pl
 www.biewer-raj.pl
@@ -5240,7 +5155,6 @@ www.blogonews.com
 www.blok-gp.com.pl
 www.blubox.pl
 www.bluesgarage.pl
-www.bluesgarager.pl
 www.bmfoto.pl
 www.bmgrp.tk
 www.bmillenhome.com
@@ -5253,7 +5167,8 @@ www.bodykarma.pl
 www.bodysecretrevelation.com
 www.bohema-suprasl.pl
 www.boherlex.com.pl
-www.bok.itauron.pl
+www.bok.enea-sa.pl
+www.bok.epgnig.pl
 www.bolek69.pl
 www.bombazakupowa.com
 www.bondagetrip.com
@@ -5310,7 +5225,6 @@ www.burnbabylon.pl
 www.businesspuls.online
 www.bustcream-pro.com
 www.butikcreativo.pl
-www.butyadidastanie.pl
 www.butyairmaxtanio.pl
 www.butyasicsdamskie.pl
 www.butyasicsgellyte.pl
@@ -5355,7 +5269,6 @@ www.buzzihome.com
 www.buzz.mobiapp-games.com
 www.buzzonclick.com
 www.caal.pl
-www.caferoskosz.pl
 www.caffeepolit.pl
 www.cairn-westie.com.pl
 www.calcionostra.pl
@@ -5437,7 +5350,6 @@ www.chengjiaoyou.com
 www.chestnut-hill-farm.com
 www.childalertfakt.eu
 www.childalertfakt.online
-www.childalertfakt.pl
 www.childalertfakt.site
 www.chimera-studio.pl
 www.chipcar.pl
@@ -5474,8 +5386,6 @@ www.cityvida.com
 www.cksserock.pl
 www.claimyourprizes16.life
 www.clansf.pl
-www.clarkspl.pl
-www.classiccortez.pl
 www.classicleather.pl
 www.clauzula.pl
 www.cld4r.com
@@ -5550,6 +5460,7 @@ www.cristal2017.argo.host
 www.cristianlay.com
 www.crmwpraktyce.pl
 www.crocsdamskie.pl
+www.crocsoutletpolska.pl
 www.crocs-pl.pl
 www.crocspolskasklepy.pl
 www.crossfitchojnice.pl
@@ -5648,7 +5559,6 @@ www.deszczysko.pl
 www.deus-est-machina.pl
 www.deutschepost.de.deliveryexpress.today
 www.dev.apps.co.pl
-www.deviwijiyanti.web.id
 www.dhl-paczka.eu
 www.dhl-payment.com
 www.dhl-percel.com
@@ -5770,25 +5680,13 @@ www.durasoft.pl
 www.dvzwh.voluumtrk.com
 www.dw.lp.eu.emobi-sys.com
 www.dwnlad.ws
-www.dworzecfakt.com.pl
 www.dworzecfakt.eu
 www.dworzecfakt.online
-www.dworzecfakt.pl
-www.dworzecfakt.waw.pl
-www.dworzeconline24.com.pl
 www.dworzeconline24.online
-www.dworzeconline24.pl
 www.dworzeconline24.site
-www.dworzeconline24.waw.pl
-www.dworzecporwanie.pl
-www.dworzecporwaniepl-24.pl
-www.dworzecporwaniepl.com.pl
 www.dworzecporwaniepl.eu
-www.dworzecporwaniepl.net.pl
 www.dworzecporwaniepl.online
-www.dworzecporwaniepl.pl
 www.dworzecporwaniepl.site
-www.dworzecporwaniepl.waw.pl
 www.dwzacisze.com.pl
 www.dxn2u.com
 www.dyskotekafantazja.pl
@@ -5796,10 +5694,6 @@ www.dyskretnytelefon.pl
 www.dziadekdogramofonu.pl
 www.dzieciakisportaki.pl
 www.dzieciznatura.pl
-www.dzieckoalert.com.pl
-www.dzieckoalert.net.pl
-www.dzieckoalert.pl
-www.dzieckoalert.waw.pl
 www.dziendobry.org.pl
 www.dziennikkcal.pl
 www.dzienniknews.com.pl
@@ -5829,6 +5723,7 @@ www.ebookeo.pl
 www.ebuty.net.pl
 www.ecampuskbds.com
 www.eccobuty.pl
+www.eccoobuwie.pl
 www.eccooutlet.pl
 www.eccopl.pl
 www.eccopromocje.pl
@@ -5857,10 +5752,6 @@ www.eduhull.pl
 www.edukacjawakcji.pl
 www.edukacjawysylkowa.pl
 www.edumedix.pl
-www.e-dworzeconline24.pl
-www.edworzeconline24.pl
-www.e-dworzecporwaniepl.pl
-www.edworzecporwaniepl.pl
 www.e-eporwaniedziecka.pl
 www.eeu.pl
 www.e-filmy24.pl
@@ -5910,6 +5801,7 @@ www.emuzyka-do-pobrania.pl
 www.e-naturessunshine.com
 www.endgames.pl
 www.endofhisrope.net
+www.enea-sa.pl
 www.energabok.pl
 www.energetix.com.pl
 www.energi-a.pl
@@ -5925,8 +5817,8 @@ www.e-paczka24.net
 www.epaka247.net
 www.epaka.club
 www.e-payu.online
-www.epayu.pl
 www.e-payu.xyz
+www.epgnig.pl
 www.epiatnosc.com
 www.epicreact.pl
 www.e-platnosc.best
@@ -5934,20 +5826,12 @@ www.epliki24.pl
 www.epoczta247.com
 www.epocztapolska24.pl
 www.e-podatek.net
-www.e-polskaporwanie.pl
-www.epolskaporwanie.pl
 www.eporwaniedziecka.com.pl
 www.eporwaniedziecka.net.pl
 www.eporwaniedziecka.pl
 www.eporwaniedziecka.site
 www.eporwaniedziecka.waw.pl
-www.e-porwaniepolska48.pl
-www.eporwaniepolska48.pl
-www.e-porwaniepolska.pl
-www.eporwaniepolska.pl
-www.e-poszukiwania.com.pl
 www.e-poszukiwania.eu
-www.e-poszukiwania.pl
 www.e-poszukiwania.site
 www.epremki.eu
 www.eqology.com
@@ -5984,10 +5868,6 @@ www.euco.pl
 www.e-udanezakupy.pl
 www.euforiatattoo.com.pl
 www.eu.iconsumerstocksymbol.icu
-www.e-uprowadzeniedworzec.pl
-www.euprowadzeniedworzec.pl
-www.e-uprowadzniezdworca.pl
-www.euprowadzniezdworca.pl
 www.euroagd.in.net
 www.euroausili.it
 www.eurobizneskonsulting.pl
@@ -6032,11 +5912,11 @@ www.faccebook.5v.pl
 www.facebbook.5v.pl
 www.facebokznajomi.blogspot.com
 www.facebook.5v.pl
-www.facebookaheagoprincess.pl
 www.facebookaplikacje.blogspot.com
 www.facebook-color.5v.pl
 www.facebookcolors24.blogspot.com
 www.facebook-com-pl-profile.7m.pl
+www.facebookgroups.pl
 www.facebookkoloruj.blogspot.com
 www.facebookkviewer.blogspot.com
 www.facebook-login.5v.pl
@@ -6093,6 +5973,7 @@ www.faktypolska8.b-cdn.net
 www.faktypolska9.b-cdn.net
 www.fakty-sniadaniowe.com.pl
 www.fakty-sniadaniowe-pl.com
+www.faktyzwawy.pl
 www.faldo.pl
 www.falmer.com.pl
 www.familyclean.pl
@@ -6371,7 +6252,6 @@ www.gayza.net
 www.gazetainfo24tv.hekko24.pl
 www.gazetalublin.pl
 www.gazetamazowsze.eu
-www.gazetamazowsze.pl
 www.gazeta-natemat-pol.eu
 www.gazetanowoczesna.pl
 www.gazeta.pl.com.bz
@@ -6438,7 +6318,6 @@ www.glosowanie.ujm.pl
 www.gls-parcel.com
 www.gmagazyn.pl
 www.gminapiekoszow.pl
-www.gnprojekt.pl
 www.gnreg.com
 www.go.0o.click
 www.go2affise.com
@@ -6647,8 +6526,6 @@ www.idealnafigura.com
 www.ideatur.pl
 www.ideazespolufilmowego.pl
 www.idgarin.com
-www.i-dworzecporwaniepl.pl
-www.idworzecporwaniepl.pl
 www.i-films.pl
 www.i-filmy.pl
 www.iglesia.pl
@@ -6686,7 +6563,6 @@ www.info-polska.24.eu
 www.informacja-dnia.com
 www.informacje24fakt.pusiaweb.com
 www.informacje24-swiat.pl
-www.informacje-fakty.pl
 www.informacje-fakty.pusiaweb.com
 www.informacjemiasto.hekko24.pl
 www.informacje-news.eu
@@ -6735,7 +6611,6 @@ www.ionetporwanie.online
 www.ionetporwanie.site
 www.iotiot.cf
 www.ipeachy.pl
-www.i-pgnig.pl
 www.iphonepolska.pl
 www.ipk0bp.net
 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
@@ -6745,7 +6620,6 @@ www.iporwania.com.pl
 www.iporwania.eu
 www.iporwania.net.pl
 www.iporwania.pl
-www.iporwaniapolska24.pl
 www.iporwania.site
 www.iporwania.waw.pl
 www.iporwanie24.eu
@@ -6832,7 +6706,6 @@ www.jookerclik.site
 www.joplionnsld.xyz
 www.jordenmadsen.com
 www.jquerysxur6.live
-www.jrly.l3f.info
 www.jsauto.pl
 www.judokalisz.pl
 www.judomiedzyrzecz.pl
@@ -6878,8 +6751,10 @@ www.karokorale.pl
 www.karolinabuczek.pl
 www.karta-podarunkowa-podaj-dane.gq
 www.kartavisa.pl
+www.karty-biedronkowe.24.eu
 www.karwiamontecarlo.pl
 www.kasa-sms.pl
+www.kasia-czat.24.eu
 www.kasiakurier.info
 www.kaskadarugby.pl
 www.kaszubskaalaska.pl
@@ -6923,7 +6798,6 @@ www.kinotek.pl
 www.kino-tv.pl
 www.kinovod.tv
 www.kinujemy.pl
-www.kipokahynr.xyz
 www.kirstenbijlsma.com
 www.kitcarforum.pl
 www.kitchencollectivecool.info
@@ -6997,7 +6871,6 @@ www.koronawirusnews.com.pl
 www.koronawirusnews.net.pl
 www.kororoweszyszki.pl
 www.korphan.pl
-www.korporacjabtm.com.pl
 www.korpowscy.pl
 www.korzystna.org
 www.koscijanski.pl
@@ -7067,6 +6940,7 @@ www.kuyxjgf.ga
 www.kuznialudzizaradnych.pl
 www.kuzniauwb.pl
 www.kwadratowyswia.pl
+www.kwaterapodgruszka.pl
 www.kwaterynasezon.pl
 www.kwiaciarnianadworcu.pl
 www.kwiaty-wiosenne.pl
@@ -7237,7 +7111,6 @@ www.makarenagaski.pl
 www.maksymrzeminski.pl
 www.malgorzatakwapisz.pl
 www.maliciousdns.msftncsi.com
-www.malkarsklep.pl
 www.malux-debica.pl
 www.mamaniezwyboru.pl
 www.mamawpodrozy.pl
@@ -7293,6 +7166,7 @@ www.max-host.pl
 www.maxitrade.com
 www.maymaychihai.com
 www.mayonez.pl
+www.mazowskagazeta.eu
 www.mazowskagazeta.pl
 www.mbp-brzeziny.pl
 www.mb-studio.pl
@@ -7311,7 +7185,6 @@ www.mechaonik.nsx.pl
 www.mecz.ujm.pl
 www.medcomcenter.pl
 www.medgenetix.pl
-www.mediaborek.pl
 www.mediaexpres.in.net
 www.mediafile.pl
 www.mediartvagd.in.net
@@ -7384,7 +7257,6 @@ www.mmajerski.pl
 www.mmarzeszow.pl
 www.mmlemberg.pl
 www.mnpasalubong.com
-www.moabpolska.pl
 www.mobgames.mobi
 www.mobiapp-games.com
 www.mobicpi.com
@@ -7510,6 +7382,7 @@ www.mzgov.net
 www.nabazarze.pl
 www.nadhirotultaqwa.com
 www.nadzorbudowa.pl
+www.nagolasa.0e0.eu
 www.nagroda-sms.pl
 www.najlepszebiurorachunkowe.pl
 www.najlepszedlaciebie.com
@@ -7570,7 +7443,6 @@ www.neomedia.in.net
 www.neonetmax.in.net
 www.neopozyczki.pl
 www.neospes.com
-www.nepomucen-dorohusk.pl
 www.netfilmy.pl
 www.netflix.apps.co.pl
 www.netflix-mail.info
@@ -7579,7 +7451,6 @@ www.netpipe.warzonedns.com
 www.netwita.pl
 www.neurorehabtraining.com
 www.newbalancepl.pl
-www.newbalancepoland.pl
 www.newcomersgallery.com
 www.newmediaz.com
 www.new-message.co
@@ -7688,6 +7559,7 @@ www.ochotnica-noclegi.pl
 www.ochrona-kaczorek.pl
 www.oczamipedagoga.pl
 www.oczymagraffiti.pl
+www.odbieramy-karty.24.eu
 www.odbierzdarmowedoladowanie.wordpress.com
 www.odbierz-paysafecard.ujm.pl
 www.odchudzaniezpasja.pl
@@ -7746,7 +7618,6 @@ www.onet24pl.pvi.pl
 www.onet24-polska.space
 www.onetmailsupportsystemnetworks.tk
 www.onetpomaga24.eu
-www.onetporwanie.com.pl
 www.onetporwanie.net.pl
 www.onetporwanie.online
 www.onetporwanie.pl
@@ -7797,7 +7668,6 @@ www.optimal-system.pl
 www.optimask-pro.com
 www.orange-kodzik.890m.com
 www.orbis-pictus.pl
-www.orcadive.pl
 www.organicmed.pl
 www.organogold.com
 www.orkiestrawszechczasow.pl
@@ -7887,6 +7757,7 @@ www.payment24-online.org
 www.pay.onebip.com
 www.payoner.club
 www.payooner.club
+www.pay.pocztapolska24.com
 www.payu20-paczka24.com
 www.paywu.net
 www.paznokcie-poznan.pl
@@ -7917,7 +7788,6 @@ www.pffn.pl.tn
 www.pgebok.com
 www.pge-bok.pl
 www.pgnig-24.pl
-www.pgnigonline.pl
 www.pgrogolin.pl
 www.phikunprogramming.com
 www.phonenewmessage.com
@@ -7960,6 +7830,7 @@ www.pkworld.com.pk
 www.pl1nk.pl
 www.placidocn.com
 www.plainsviewfarm.com
+www.planchashop.fr
 www.plastiquedesign.pl
 www.platinumprestige.pl
 www.platnik247.online
@@ -8030,6 +7901,7 @@ www.pociagdoukrainy.pl
 www.poczta-interia.com
 www.poczta-login-neostrada.com
 www.poczta-pay.com
+www.pocztapolska24.com
 www.poczta-polska24.eu
 www.poczta-polska24.net
 www.pocztapolska48.net
@@ -8077,10 +7949,7 @@ www.polskabieda.com
 www.polska-gazeta-dnia.pl
 www.polskapaczka24.net
 www.polskaporwania.eu
-www.polskaporwanie.com.pl
 www.polskaporwanie.eu
-www.polskaporwanie.net.pl
-www.polskaporwanie.pl
 www.polska-tv.pl
 www.polskibestseller.pl
 www.polskieetno.pl
@@ -8113,27 +7982,14 @@ www.porownajtv24.pl
 www.portaldruku.pl
 www.portalfotowoltaika.pl
 www.portal-legionowo.pl
+www.portalrandkowy.c.pl
 www.porumar.pl
 www.porwaniadzieci.eu
-www.porwaniapolska24.com.pl
-www.porwaniapolska24.net.pl
-www.porwaniapolska24online.pl
-www.porwaniapolska24.pl
-www.porwaniapolska24.waw.pl
-www.porwaniapolska.com.pl
 www.porwaniedziecki24.eu
 www.porwaniedziecki24.net.pl
 www.porwaniedziecki24.pl
 www.porwanienatalki.eu
 www.porwanienatalki.online
-www.porwaniepolska48.com.pl
-www.porwaniepolska48.net.pl
-www.porwaniepolska48.pl
-www.porwaniepolska48.waw.pl
-www.porwaniepolska.com.pl
-www.porwaniepolska.net.pl
-www.porwaniepolska.pl
-www.porwaniepolska.waw.pl
 www.porwaniewmiescie.hekko24.pl
 www.poscielowyraj.pl
 www.poshettescafe.com
@@ -8153,6 +8009,7 @@ www.powaifinearts.org
 www.powerfactorsaver.com
 www.powerkf-design.pl
 www.powiat24-wydarzenia.pl
+www.powiekszgo.c.pl
 www.powodzeniamamo.pl
 www.pozastrefekomfortu.pl
 www.poziom3.pl
@@ -8251,7 +8108,6 @@ www.przechwycone-zdjecia.00x.eu
 www.przechwycone-zdjecia-fotki.pusiaweb.com
 www.przechwycone-zdjecia.pl
 www.przechwycone-zdjecia.pusiaweb.com
-www.przechwycone-zdjecie.pl
 www.przedszkolefalenty.pl
 www.przedszkoleglobus.pl
 www.przedszkolekrainadziecka.pl
@@ -8477,7 +8333,6 @@ www.roundupbarandgrill.com
 www.rovingadventures.com
 www.rowanyne.ooo
 www.roweremnasniezke.pl
-www.rowermax.pl
 www.royalestate.com.pl
 www.rozaart.com.pl
 www.roznehistorie.pl
@@ -8517,6 +8372,9 @@ www.salonmanager.pl
 www.salonmotoryzacyjny.lublin.ovh
 www.salon-nadia.pl
 www.salvadorots.pl
+www.samsung.24.eu
+www.samsung-produkcja.24.eu
+www.samsung-stop.24.eu
 www.samuraibangalore.com
 www.sandomir.pl
 www.sandrografia.pl
@@ -8622,7 +8480,6 @@ www.showup-tv.com.pl
 www.shruboakframing.com
 www.siatkarzowelove.pl
 www.sidedark-warez.pl
-www.siderpiping.com
 www.sidnoy.site
 www.siec34.pl
 www.siedleckapogon.pl
@@ -8638,6 +8495,7 @@ www.simplicatio.pl
 www.simplyjazz.pl
 www.siniaki.pl
 www.siobhanmcminn.com
+www.siodemkawysyl24h.info
 www.sipp.pl
 www.siroccogoldfci.pl
 www.sitegiant.info
@@ -8728,7 +8586,6 @@ www.sobotka24.com.pl
 www.socialbump.hekko24.pl
 www.socialize.pl
 www.societyjezuufamtobie.pl
-www.socjomat.pl
 www.soft4click.com
 www.softmania.pl
 www.softsmart.mobi
@@ -8889,7 +8746,6 @@ www.sukhumvithomes.com
 www.sunandfunweddings.com
 www.sunbeach.pl
 www.sunflagsteel.com
-www.superfajnapolska.pl
 www.supergabuty.pl
 www.supergapolska.pl
 www.superhiperwakacje.com.pl
@@ -8924,7 +8780,6 @@ www.sylverandjack.pl
 www.symulator-lotow.pl
 www.syncgreatlyquicksystem.icu
 www.syndication.exdynsrv.com
-www.syndromkreta.pl
 www.synergiareklama.pl
 www.synergyworldwide.com
 www.systemchlodzeniamglapl.com
@@ -8991,7 +8846,6 @@ www.tapxchange.com
 www.tarczakryzysowa.net
 www.targibudowlanekalisz.pl
 www.tarnow360.pl
-www.tarnowianka-park.pl
 www.tarnowskirap.pl
 www.tatroscatering.com
 www.tbntechnology.pl
@@ -9063,7 +8917,6 @@ www.tiande.pl
 www.tiandepolska.pl
 www.tiande.ru
 www.tiandewarszawa.pl
-www.tiendacomp.pl
 www.tiens.pl
 www.tigergym.com.pl
 www.tilido.com
@@ -9078,7 +8931,6 @@ www.tinyfilehost.com
 www.tinyfileshost.com
 www.titan-man.pro
 www.tlumacz-wloskiego.com.pl
-www.tnfpl.pl
 www.tniemyceny.net
 www.tocho.pl
 www.todolize.com
@@ -9186,8 +9038,8 @@ www.twojhoroskop.com
 www.twojidealnyslub.pl
 www.twoj-kurier.com
 www.twojkurier.com
+www.twoj-kurier.services
 www.twojszczesliwydzien.com
-www.twoj-tauron.pl
 www.twoj-typ.pl
 www.twoj-voucher.com
 www.tyledrewna.pl
@@ -9210,7 +9062,6 @@ www.uggoutlet.pl
 www.uggpl.pl
 www.uggpoland.pl
 www.uggsklep.pl
-www.uggtanio.pl
 www.uggwyprzedaz.pl
 www.uio7.pl
 www.ukskrokus.pl
@@ -9221,7 +9072,6 @@ www.ukswidok.pl
 www.ultramax.pl
 www.ultratrck.com
 www.umadrego.pl
-www.underamoursklep.pl
 www.unhallowed.pl
 www.unident-union.pl
 www.uniflorpolska.pl
@@ -9236,18 +9086,9 @@ www.updatestar.com
 www.uperpay.club
 www.upgradecheck12.thebestwaystofindreliablesoftwares.surf
 www.uprowadzenie.7m.pl
-www.uprowadzeniedworzec.com.pl
-www.uprowadzeniedworzec.net.pl
-www.uprowadzeniedworzec.pl
-www.uprowadzeniedworzec.waw.pl
-www.uprowadzniezdworca.com.pl
-www.uprowadzniezdworca.net.pl
-www.uprowadzniezdworca.pl
-www.uprowadzniezdworca.waw.pl
 www.upshare.org
 www.upskylinemotel.com
 www.urbantelling.pl
-www.urenarda.pl
 www.urodzinyspar.pl
 www.uroffer.link
 www.urwijnagrody.pl
@@ -9269,7 +9110,6 @@ www.uzupelniaj-dane.ml
 www.uzytecznie.pl
 www.v7pjo.voluumtrk.com
 www.valentinosklep.pl
-www.valex.pl
 www.valuesmatter.com.au
 www.vansallegro.pl
 www.vansbuty.pl
@@ -9278,11 +9118,9 @@ www.vansj.com
 www.vansoldschool.pl
 www.vansoldskoolpro.pl
 www.vansoutlet.pl
-www.vansoutletpolska.pl
 www.vanspl.pl
 www.vanspolska.com
 www.vanspolskasklep.pl
-www.vanspolskatanio.pl
 www.vansprzecena.pl
 www.vanswyprzedaz.pl
 www.vantis-holding.com
@@ -9347,7 +9185,6 @@ www.vpt58.tvnewtop.pro
 www.vsbuty.com
 www.vsee.tk
 www.vseobuch.ru
-www.vtix.pl
 www.vtopiuops.info
 www.w2mobile.com
 www.w3brasil.com
@@ -9360,7 +9197,6 @@ www.wapster.pl
 www.wardon.pl
 www.warsawlimousine.pl
 www.warszawafakty.eu
-www.warszawa-info24.pl
 www.warterfoods.pl
 www.wartomiec.pl
 www.wawalot.pl
@@ -9406,7 +9242,6 @@ www.wiadomosci-web.24.eu
 www.wicher-grabowo.pl
 www.widget-eforsa.pl
 www.wiecejpolski.icu
-www.wieczorowapora.pl
 www.wielkanagroda.com
 www.wielkaniespodzianka.pl
 www.wielkopolskie.refundacjeregionalne.pl
@@ -9435,6 +9270,7 @@ www.wirusmiasto.hekko24.pl
 www.wisdementive.info
 www.wisebanc.com
 www.wiszniawksiazkach.pl
+www.witamina.c.pl
 www.wizytowkicd.pl
 www.wkfilms.pl
 www.wklsokol.pl
@@ -9448,6 +9284,7 @@ www.wnp24.pl
 www.woj-kurier.services
 www.wojtekczyrnek.pl
 www.wolnezycie.info
+www.wolski.med.pl
 www.wolyncalyfilm.wordpress.com
 www.womenempowermentpakistan.com
 www.wooptrk.com
@@ -9460,10 +9297,8 @@ www.worldsementi.pl
 www.worthlessness.xyz
 www.wosp.online
 www.wp.6645478.top
-www.wpisz-dane.pl
 www.wplogin.5v.pl
 www.w-polsce.pl
-www.wppoczta-regulamin.pl
 www.wp-regulamin.com
 www.wpunkcie.pl
 www.wraplo.pl
@@ -9472,7 +9307,6 @@ www.wroclaw2012festival.pl
 www.wrozbyonline.net
 www.wrzeszcz-pallotyni.pl
 www.wsmwarszawa.pl
-www.wspieramyplodnosc.pl
 www.wspolniedlaprzyszlosci.pl
 www.wszyscyrodacy.com
 www.wszystkiemiasta.pl
@@ -9494,6 +9328,7 @@ www.wydawca.lead.network
 www.wydawnictworambler.pl
 www.wydawnictwo-systherm.pl
 www.wygraj-iphone-x.tujest.pl
+www.wygraj-samsunga.24.eu
 www.wygrania.com
 www.wygrywa.pl
 www.wyjasniamy.eu
@@ -9525,7 +9360,6 @@ www.xn--21955-gya.biz
 www.xn--30986-udb.biz
 www.xn--adidasgazellemskie-qnc.pl
 www.xn--butysportowemskie-cjc.pl
-www.xn--fitflopsanday-7hc.pl
 www.xn--igraszkinocnezroksan-nkc.cba.pl
 www.xn--pandorabiuteria-qkd.pl
 www.xn--poyczaj-xwb.online.pl
@@ -9567,13 +9401,16 @@ www.zalukaj24.pl
 www.zalukaj.5v.pl
 www.zalukaj.cc
 www.zalukaj-cda.pl
+www.zalukaj-film.24.eu
 www.zalukajfilmy.pl
 www.zalukaj.online
+www.zalukaj-online.24.eu
 www.zalukaj-online.pl
 www.zalukaj.org
 www.zalukaj.tube
 www.zalukajvod.pl
 www.zalukaj.ws
+www.zalukaj-zalukaj.24.eu
 www.zaluknij.pl
 www.zamedi.pl
 www.zamiana-koloru.blogspot.com
@@ -9603,10 +9440,12 @@ www.zdaj-to.pl
 www.zdjecia-fotki.pl
 www.zdjecie-facebook-zdj3425jeio.dkonto.pl
 www.zdjecie-fotka.pl
+www.zdjecienago2.c.pl
 www.zdjecie-ukradzione.eu
 www.zdrowedziasla.com.pl
 www.zdrowieabc.hekko24.pl
 www.zebrapozyczki.pl
+www.zebywybielanie.c.pl
 www.zedgalaxyplays.com
 www.zejrzyj-zdjecia.bo.pl
 www.zelazkowkuchni.pl
@@ -9619,7 +9458,6 @@ www.zespolfordance.pl
 www.zespolkanaan.pl
 www.zespolnaslub.pl
 www.zespol-sasiedzi.pl
-www.zespolsygnet.pl
 www.zgarniij_vouchher.skroc.pl
 www.zgarnij.net
 www.zgarnijplik.pl
@@ -9658,7 +9496,6 @@ www.zpafiska.pl
 www.zpotrzebyserc.pl
 www.zrobswiatlo.pl
 www.zskleczany.pl
-www.zsklembow.pl
 www.zsniemce.pl
 www.zspbytonia.pl
 www.zspkoscielec.pl
@@ -9685,6 +9522,7 @@ wydawca.lead.network
 wydawnictworambler.pl
 wydawnictwo-systherm.pl
 wygraj-iphone-x.tujest.pl
+wygraj-samsunga.24.eu
 wygrania.com
 wygrywa.pl
 wyjasniamy.eu
@@ -9716,7 +9554,6 @@ xn--21955-gya.biz
 xn--30986-udb.biz
 xn--adidasgazellemskie-qnc.pl
 xn--butysportowemskie-cjc.pl
-xn--fitflopsanday-7hc.pl
 xn--igraszkinocnezroksan-nkc.cba.pl
 xn--pandorabiuteria-qkd.pl
 xn--poyczaj-xwb.online.pl
@@ -9758,13 +9595,16 @@ zalukaj24.pl
 zalukaj.5v.pl
 zalukaj.cc
 zalukaj-cda.pl
+zalukaj-film.24.eu
 zalukajfilmy.pl
 zalukaj.online
+zalukaj-online.24.eu
 zalukaj-online.pl
 zalukaj.org
 zalukaj.tube
 zalukajvod.pl
 zalukaj.ws
+zalukaj-zalukaj.24.eu
 zaluknij.pl
 zamedi.pl
 zamiana-koloru.blogspot.com
@@ -9794,10 +9634,12 @@ zdaj-to.pl
 zdjecia-fotki.pl
 zdjecie-facebook-zdj3425jeio.dkonto.pl
 zdjecie-fotka.pl
+zdjecienago2.c.pl
 zdjecie-ukradzione.eu
 zdrowedziasla.com.pl
 zdrowieabc.hekko24.pl
 zebrapozyczki.pl
+zebywybielanie.c.pl
 zedgalaxyplays.com
 zejrzyj-zdjecia.bo.pl
 zelazkowkuchni.pl
@@ -9810,7 +9652,6 @@ zespolfordance.pl
 zespolkanaan.pl
 zespolnaslub.pl
 zespol-sasiedzi.pl
-zespolsygnet.pl
 zgarniij_vouchher.skroc.pl
 zgarnij.net
 zgarnijplik.pl
@@ -9849,7 +9690,6 @@ zpafiska.pl
 zpotrzebyserc.pl
 zrobswiatlo.pl
 zskleczany.pl
-zsklembow.pl
 zsniemce.pl
 zspbytonia.pl
 zspkoscielec.pl
