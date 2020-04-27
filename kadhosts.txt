@@ -2468,6 +2468,7 @@ magiskmanager.com
 magnumbd.com
 maiamirainy.at
 mail.przejrzyj-fotki.eu
+mail.zdjecie-ukradzione.eu
 majcioch.pl
 majorclass.pl
 majus-centrum.pl
@@ -4430,6 +4431,7 @@ tvjovem.net
 tvkody.com
 tv-maniak.pl
 tvnewtop.pro
+tvn-fakty24.pl
 tvnowapp.net
 tvnpolska24.hekko24.pl
 tvonline.hol.es
@@ -7224,6 +7226,7 @@ www.magiskmanager.com
 www.magnumbd.com
 www.maiamirainy.at
 www.mail.przejrzyj-fotki.eu
+www.mail.zdjecie-ukradzione.eu
 www.majcioch.pl
 www.majorclass.pl
 www.majus-centrum.pl
@@ -9155,6 +9158,7 @@ www.tvjovem.net
 www.tvkody.com
 www.tv-maniak.pl
 www.tvnewtop.pro
+www.tvn-fakty24.pl
 www.tvnowapp.net
 www.tvnpolska24.hekko24.pl
 www.tvonline.hol.es
@@ -9597,6 +9601,7 @@ www.zdaj-to.pl
 www.zdjecia-fotki.pl
 www.zdjecie-facebook-zdj3425jeio.dkonto.pl
 www.zdjecie-fotka.pl
+www.zdjecie-ukradzione.eu
 www.zdrowedziasla.com.pl
 www.zdrowieabc.hekko24.pl
 www.zebrapozyczki.pl
@@ -9787,6 +9792,7 @@ zdaj-to.pl
 zdjecia-fotki.pl
 zdjecie-facebook-zdj3425jeio.dkonto.pl
 zdjecie-fotka.pl
+zdjecie-ukradzione.eu
 zdrowedziasla.com.pl
 zdrowieabc.hekko24.pl
 zebrapozyczki.pl
