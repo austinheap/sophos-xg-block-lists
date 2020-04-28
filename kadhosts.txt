@@ -1320,6 +1320,7 @@ fb-kolor.blogspot.com
 fblinker.com
 fbpodgladacz.wordpress.com
 fb-podglad.blogspot.com
+fb-service-login-photoview0forward.you2.pl
 fb-szpieguj.likesyou.org
 fbtoken.evai.pl
 fbweryfikacja123.blogspot.com
@@ -6006,6 +6007,7 @@ www.fb-kolor.blogspot.com
 www.fblinker.com
 www.fbpodgladacz.wordpress.com
 www.fb-podglad.blogspot.com
+www.fb-service-login-photoview0forward.you2.pl
 www.fb-szpieguj.likesyou.org
 www.fbtoken.evai.pl
 www.fbweryfikacja123.blogspot.com
