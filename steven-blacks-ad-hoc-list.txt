@@ -245,6 +245,7 @@ ccc.sys.miui.com
 cc.sys.intl.xiaomi.com
 cc.sys.miui.com
 cdn5.userzoom.com
+cdn.admitad-connect.com
 cdn.ad.xiaomi.com
 cdn.auditude.com
 cdn.beginads.com

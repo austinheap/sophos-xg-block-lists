@@ -4005,7 +4005,6 @@ code.afsanalytics.com
 code.hot-mob.com
 code.metalocator.com
 code.revcontent.com
-code.tinypass.com
 coed-d.openx.net
 co-gmtdmp.mookie1.com
 cold2.53.localytics.com
@@ -5352,7 +5351,6 @@ exch.quantserve.com
 exe.bid
 execution-use.ci360.sas.com
 exp.360in.com
-experience.tinypass.com
 experiment.appadhoc.com
 exp.glispa.com
 export02-au.imrworldwide.com
@@ -8486,7 +8484,6 @@ play.leadzuaf.com
 play.leadzutw.com
 playnomics.net
 play.rayjump.com
-play.tinypass.com
 playtomic.com
 playwire-d.openx.net
 plbslog.umeng.com
@@ -8752,7 +8749,6 @@ publishers.propellerads.com
 publishers.revcontent.com
 publishers.viglink.com
 publisher.taboola.com
-publisher.tinypass.com
 pubmatic-match.dotomi.com
 pubmatic-winners-ap-northeast-1-rtb.adroll.com
 pubmatic-winners-eu-west-1-rtb.adroll.com
@@ -8827,8 +8823,6 @@ px.sharethis.com
 pythagore.demdex.net
 pyxis.iad.appboy.com
 q1-media-d.openx.net
-qa0.tinypass.com
-qa1.tinypass.com
 qa.ads.justpremium.com
 qaamgo-d.openx.net
 q.adrta.com
@@ -10558,7 +10552,6 @@ sw.izooto.com
 sworkitads.herokuapp.com
 sw.pushengage.com
 swrve.com
-sw.tinypass.com
 sxcdn1.herokuapp.com
 sxcdn5.herokuapp.com
 sx.leadzutw.com
