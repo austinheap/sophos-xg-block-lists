@@ -229,6 +229,7 @@ amptrading.pl
 amway.com
 amway.pl
 anabim.com
+andekkurier.org
 android-cleaner.net
 androidgameshacks.com
 androidsecurityplus.com
@@ -493,6 +494,7 @@ bohema-suprasl.pl
 boherlex.com.pl
 bok.enea-sa.pl
 bok.epgnig.pl
+bokpgnig.pl
 bolek69.pl
 bombazakupowa.com
 bondagetrip.com
@@ -950,6 +952,7 @@ dostawaca24.online
 dostawy24.com
 dotabet100.com
 dotabet103.com
+dotpay.pocztapolska48.com
 dotpay.pocztexpolska.eu
 doulawpoznaniu.pl
 dowmarkets.com
@@ -1042,6 +1045,7 @@ ebd-cda.pl
 e-bestsell.pl
 ebfgoldenclub.pl
 e-blackwhite.pl
+e-bokpgnig.pl
 ebook4all.com.pl
 ebookeo.pl
 ebuty.net.pl
@@ -1149,6 +1153,7 @@ e-platnosc.best
 epliki24.pl
 epoczta247.com
 epocztapolska24.pl
+epocztapolska.pl
 e-podatek.net
 eporwaniedziecka.com.pl
 eporwaniedziecka.net.pl
@@ -1841,6 +1846,7 @@ hurtowniagmf.pl
 hurtowniaolenka.pl
 hwww.zweryfiikujdane.tk
 hydrografikamotocor.pl
+ibokpgnig.pl
 ibrainer.net
 icarvision.pl
 i-cda.pl
@@ -1882,11 +1888,13 @@ inesmanila.com
 info-24.cloud
 info24-warszawa.pl
 info-fakty24.pl
+infogazeta.hekko24.pl
 infogrypa.pl
 infolinia-kontakt-telefon.pl
 infomiasto24.pl
 infomiasto.hekko24.pl
 infonews24.com.pl
+info.poczta-interia.net
 info-polska.24.eu
 informacja-dnia.com
 informacje24fakt.pusiaweb.com
@@ -3087,7 +3095,9 @@ payment24-online.org
 pay.onebip.com
 payoner.club
 payooner.club
+pay.poczta-polska24.com
 pay.pocztapolska24.com
+pay.pocztapolska24.org
 payu20-paczka24.com
 paywu.net
 paznokcie-poznan.pl
@@ -3260,11 +3270,14 @@ pobierzteraz.mobi
 pobiieerz-fotografiee.eu
 pociagdoukrainy.pl
 poczta-interia.com
+poczta-interia.net
 poczta-login-neostrada.com
 poczta-pay.com
 pocztapolska24.com
 poczta-polska24.eu
 poczta-polska24.net
+pocztapolska24.org
+poczta-polska48.eu
 pocztapolska48.net
 pocztapolska.eu
 poczta-polska.net
@@ -3838,6 +3851,7 @@ shop.dr-rath.com
 shop.planet-tachyon.com
 shopsneakers.pl
 shop.toyhs.com
+show-auctions.pl
 showltem.pl
 showlten.pl
 showmeflix.com
@@ -4914,6 +4928,7 @@ www.amptrading.pl
 www.amway.com
 www.amway.pl
 www.anabim.com
+www.andekkurier.org
 www.android-cleaner.net
 www.androidgameshacks.com
 www.androidsecurityplus.com
@@ -5180,6 +5195,7 @@ www.bohema-suprasl.pl
 www.boherlex.com.pl
 www.bok.enea-sa.pl
 www.bok.epgnig.pl
+www.bokpgnig.pl
 www.bolek69.pl
 www.bombazakupowa.com
 www.bondagetrip.com
@@ -5637,6 +5653,7 @@ www.dostawaca24.online
 www.dostawy24.com
 www.dotabet100.com
 www.dotabet103.com
+www.dotpay.pocztapolska48.com
 www.dotpay.pocztexpolska.eu
 www.doulawpoznaniu.pl
 www.dowmarkets.com
@@ -5729,6 +5746,7 @@ www.ebd-cda.pl
 www.e-bestsell.pl
 www.ebfgoldenclub.pl
 www.e-blackwhite.pl
+www.e-bokpgnig.pl
 www.ebook4all.com.pl
 www.ebookeo.pl
 www.ebuty.net.pl
@@ -5836,6 +5854,7 @@ www.e-platnosc.best
 www.epliki24.pl
 www.epoczta247.com
 www.epocztapolska24.pl
+www.epocztapolska.pl
 www.e-podatek.net
 www.eporwaniedziecka.com.pl
 www.eporwaniedziecka.net.pl
@@ -6528,6 +6547,7 @@ www.hurtowniagmf.pl
 www.hurtowniaolenka.pl
 www.hwww.zweryfiikujdane.tk
 www.hydrografikamotocor.pl
+www.ibokpgnig.pl
 www.ibrainer.net
 www.icarvision.pl
 www.i-cda.pl
@@ -6569,11 +6589,13 @@ www.inesmanila.com
 www.info-24.cloud
 www.info24-warszawa.pl
 www.info-fakty24.pl
+www.infogazeta.hekko24.pl
 www.infogrypa.pl
 www.infolinia-kontakt-telefon.pl
 www.infomiasto24.pl
 www.infomiasto.hekko24.pl
 www.infonews24.com.pl
+www.info.poczta-interia.net
 www.info-polska.24.eu
 www.informacja-dnia.com
 www.informacje24fakt.pusiaweb.com
@@ -7774,7 +7796,9 @@ www.payment24-online.org
 www.pay.onebip.com
 www.payoner.club
 www.payooner.club
+www.pay.poczta-polska24.com
 www.pay.pocztapolska24.com
+www.pay.pocztapolska24.org
 www.payu20-paczka24.com
 www.paywu.net
 www.paznokcie-poznan.pl
@@ -7916,11 +7940,14 @@ www.pobierzteraz.mobi
 www.pobiieerz-fotografiee.eu
 www.pociagdoukrainy.pl
 www.poczta-interia.com
+www.poczta-interia.net
 www.poczta-login-neostrada.com
 www.poczta-pay.com
 www.pocztapolska24.com
 www.poczta-polska24.eu
 www.poczta-polska24.net
+www.pocztapolska24.org
+www.poczta-polska48.eu
 www.pocztapolska48.net
 www.pocztapolska.eu
 www.poczta-polska.net
@@ -8494,6 +8521,7 @@ www.shop.dr-rath.com
 www.shop.planet-tachyon.com
 www.shopsneakers.pl
 www.shop.toyhs.com
+www.show-auctions.pl
 www.showltem.pl
 www.showlten.pl
 www.showmeflix.com
@@ -9485,6 +9513,9 @@ www.zgarnij.net
 www.zgarnijplik.pl
 www.zgkszczebrzeszyn.pl
 www.zgol.pl
+www.zgwalconadziewczyna.eu
+www.zgwalconadziewczyna.online
+www.zgwalconadziewczyna.site
 www.zhaoyouxiu.com
 www.zhouliang.info
 www.zielonakaruzela.pl
@@ -9679,6 +9710,9 @@ zgarnij.net
 zgarnijplik.pl
 zgkszczebrzeszyn.pl
 zgol.pl
+zgwalconadziewczyna.eu
+zgwalconadziewczyna.online
+zgwalconadziewczyna.site
 zhaoyouxiu.com
 zhouliang.info
 zielonakaruzela.pl

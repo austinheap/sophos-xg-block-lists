@@ -10529,7 +10529,6 @@ survey.g.doubleclick.net
 surveys.insightexpressai.com
 survey.survicate.com
 survey.wootric.com
-s-usc1c-nss-262.firebaseio.com
 s-us-east-1.axonix.com
 svast.moatads.com
 svastx.moatads.com
