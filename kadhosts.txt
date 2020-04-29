@@ -265,7 +265,6 @@ anuluj-dlug.pl
 anuluj-mandat.pl
 anuluj-natreta.pl
 anuskurier.org
-anwan.pl
 aoc.teleaudio.pl
 apartahotelfamilyhouse.com
 apartamentylirowa.pl
@@ -444,7 +443,6 @@ bestselections.top
 bestvod.pl
 betterware.pl
 be-wild.pl
-bewox.net
 beyourbest.pl
 bezmamy.com.pl
 bezpieczne-nieruchomosci.pl
@@ -529,6 +527,7 @@ boherlex.com.pl
 bok.enea-sa.pl
 bok.epgnig.pl
 bokpgnig.pl
+bokpocztapolska.pl
 bolek69.pl
 bombazakupowa.com
 bonares.pl
@@ -724,7 +723,6 @@ childalertfakt.online
 childalertfakt.site
 chimera-studio.pl
 chipcar.pl
-chipo.republika.pl
 choconeo.pl
 chocoslim.pro
 choengmon-beach.com
@@ -780,7 +778,6 @@ clydecourt.pl
 cme-srem.pl
 cnto.pl
 coachhouseballarat.com
-cobra-siedlce.pl
 cocoopt.com
 codeandwork.pl
 codenpic.com
@@ -850,7 +847,6 @@ cs-podhale.pl
 cs.shiporama.com
 cs.spotlessweb.com
 ct-redirect.com
-cukiernia_izabela.republika.pl
 cultland.pl
 cultsneaks.pl
 cuosdemakadi.gq
@@ -886,7 +882,6 @@ dampozyczke.pl
 danangluxury.com
 danchamp.pl
 danielkulinski.pl
-dapmaf.republika.pl
 dariuszdopierala.pl
 darknessintheforest.pl
 darky.cba.pl
@@ -978,7 +973,6 @@ dlf.pl
 dlmyfile.com
 dmautoserwis.pl
 dmaxcctv.pl
-dmb.republika.pl
 dnirownosci.pl
 dnmultiglobal.duckdns.org
 dobre-filmy.pl
@@ -1020,8 +1014,10 @@ dostawaca24.online
 dostawy24.com
 dotabet100.com
 dotabet103.com
+dotpay.i-pocztapolska.pl
 dotpay.pocztapolska48.com
 dotpay.pocztexpolska.eu
+dotpay.pocztexpolska.org
 doulawpoznaniu.pl
 dowmarkets.com
 download-24.tk
@@ -1128,7 +1124,6 @@ eccoobuwie.pl
 eccooutlet.pl
 eccopl.pl
 eccopromocje.pl
-eccosoft.pl
 e-cda.pl
 ecdi14.eu
 ecdi19.eu
@@ -1264,7 +1259,6 @@ esedra.pl
 esemeso.pl
 eshoes.com.pl
 eskk.pl
-esmok.pl
 esneakers.net.pl
 esneakersy.com
 espaylink.net
@@ -1639,7 +1633,6 @@ futurenet.club
 futurepay.globway.eu
 fxgm.com
 g3architekci.pl
-gabinator.republika.pl
 gabinetnewline.pl
 gackokurier.com
 gadajzdrow.eu
@@ -1680,6 +1673,7 @@ gawaher-services.com
 gayfakt.pl
 gayza.net
 gazetainfo24tv.hekko24.pl
+gazetainfo.hekko24.pl
 gazetalublin.pl
 gazetamazowsze.eu
 gazeta-natemat-pol.eu
@@ -2006,6 +2000,7 @@ info-polska.24.eu
 informacja-dnia.com
 informacje24fakt.pusiaweb.com
 informacje24-swiat.pl
+informacje-24tv.pl
 informacje-fakty.pusiaweb.com
 informacjemiasto.hekko24.pl
 informacje-news.eu
@@ -2060,6 +2055,8 @@ ipeachy.pl
 iphonepolska.pl
 ipk0bp.net
 ipko.pl-weryfikacja-konta-bank-pko.j.pl
+i-pocztapolska.pl
+ipocztapolska.pl
 ipodatek.net
 i-podgladacz.pl
 iporwania.com.pl
@@ -2092,13 +2089,13 @@ istrefa.net
 italianonfiction.pl
 itcity.pl
 itelefon.org
+item-show.pl
 itkompleks.pl
 itorrenty.org
 itspree.pl
 itvwro.pl
 iurzad.net
 iv24.pl
-iviarc.republika.pl
 iwonadzitko.pl
 izabelarogowska.pl
 izakowalska.pl
@@ -2136,11 +2133,11 @@ jatop.pl
 javacenter.pl
 jbfilmyseriale.pl
 jeansydiesel.pl
+jeleniedybowskiego.pl
 jelitto.pl
 jemwdomu.pl
 jerzylukaszwalczak.com.pl
 jerzy-pulchny.pl
-jete.pl
 jetzone.pl
 jeunesseglobal.com
 jezyk-norwesk.pl
@@ -2427,7 +2424,6 @@ lampeberger.com.pl
 lamri.pl
 lander.pl
 laolle.com
-lapkowo.pl
 larissalinhares.com.br
 laryngologia-lodz2017.pl
 las-rp.pl
@@ -2508,7 +2504,6 @@ login-planet-paribas.info
 lokalneinformacje1.vot.pl
 lokalnie.live
 loktrk.com
-lokum1985.republika.pl
 lolalynch.pl
 lollipop-slodkiestoly.pl
 lommi.pl
@@ -2569,7 +2564,6 @@ mackeeperapp.mackeeper.com
 madagascaroasis.org
 madl-len.pl
 madmulla.duckdns.org
-madziaadam.republika.pl
 maendo.tv
 maestrokolo.pl
 magadownloader.com
@@ -2603,7 +2597,6 @@ manipulation.pl
 mantoropols.xyz
 manufaktura.y0.pl
 manufakturazmyslow.pl
-marcinek.republika.pl
 marcin-rozycki.pl
 marcoblue.pl
 marcofama.it
@@ -2651,7 +2644,6 @@ maymaychihai.com
 mayonez.pl
 mazowskagazeta.eu
 mazowskagazeta.pl
-mbiurorachunkowe.republika.pl
 mbp-brzeziny.pl
 mb-studio.pl
 mbtbuty.pl
@@ -2734,7 +2726,6 @@ millionways.duckdns.org
 millson-recruitment.pl
 minipensjonatadmiral.pl
 minmin96.xyz
-minocki.republika.pl
 miodowyskarbiec.pl
 miresnahapsi.pro
 miroslawklos.pl
@@ -2788,7 +2779,6 @@ mojalenka.pl
 mojapaczka24.net
 mojeasg.pl
 mojechwile.pl
-mojejeze.republika.pl
 mojekumpele.blogspot.com
 moje-last-minute.pl
 mojepiwa.pl
@@ -3000,7 +2990,6 @@ nipoflex.com.pl
 niskamaskincare.pl
 njb-gmbh.com
 nkbutysportowe.com
-nkbzryw.republika.pl
 nkforcesklep.pl
 nknikeair.pl
 nkpolskaallegro.pl
@@ -3219,7 +3208,6 @@ p.24-7.help
 packza.dostawy24.com
 pacuskurier.org
 pacyfka99.pl
-pacyna2.republika.pl
 paczka24-oplata.com
 paczka-48.com
 paczka-dhl.com
@@ -3470,6 +3458,7 @@ pocztex-24.link
 pocztex-48.net
 pocztexpolska24.com
 pocztexpolska.eu
+pocztexpolska.org
 podarujmamiesukienke.pl
 podatek2020.net
 podatkigov.net
@@ -3528,6 +3517,7 @@ pomagajmypl.online
 pomagajmypl.site
 pomelostudio.pl
 pomerania-bn.pl
+pomoc-fakty24.pl
 pomockredytowa.net
 pomoc.kylos.pl
 pomoc.sie-pomaga.net
@@ -3548,6 +3538,7 @@ porwaniadzieci.eu
 porwaniedziecki24.eu
 porwaniedziecki24.net.pl
 porwaniedziecki24.pl
+porwanieinfo.hekko24.pl
 porwanienatalki.eu
 porwanienatalki.online
 porwaniewmiescie.hekko24.pl
@@ -3589,7 +3580,6 @@ pozyczki-prywatne.com.pl
 pozytywkaleszno.pl
 pozytywnerodzicielstwo.pl
 pozytywneswiry.pl
-pp4_09_10_2s.republika.pl
 ppl-puls.gloryft.com
 ppswb.pl
 ppuhmarko.com.pl
@@ -4079,7 +4069,6 @@ siniaki.pl
 siobhanmcminn.com
 siodemkawysyl24h.info
 sipp.pl
-sirigor.republika.pl
 siroccogoldfci.pl
 sitegiant.info
 skaczacawarszawa.pl
@@ -4102,7 +4091,6 @@ sklep-colway.com
 sklep-colway.pl
 sklep.ekoenergia24.eu
 sklepnbbuty.pl
-sklepnb.pl
 sklepnorthface.com
 skleppolo.pl
 sklepszkolen.pl
@@ -4167,7 +4155,6 @@ sneakervclub.com
 sne.bydgoszcz.pl
 sniadanioweinfo.pl
 soagd.in.net
-sobczuk.republika.pl
 sobotka24.com.pl
 socialbump.hekko24.pl
 socialize.pl
@@ -4392,8 +4379,8 @@ szczesliwydzien.com
 szczuplezwyczaje.pl
 szczyptamiety.pl
 szczytzaszczytem.pl
+szklarnie.club
 szklobudowlane.com.pl
-szkolagrojec.republika.pl
 szkolapiekoszow.pl
 szkoleniasouvre.pl
 szkolenie.m.poznan.pm
@@ -4448,7 +4435,6 @@ tarnowskirap.pl
 tatroscatering.com
 tbntechnology.pl
 team4heat.net
-teatrdomowy.republika.pl
 teatromiasto.com.pl
 teccenter.xyz
 techdailyinfo.net
@@ -4468,6 +4454,7 @@ telewiadomosci.com.pl
 telewiadomosci.pl
 telewiadomosci-pol.com
 telewizja-internetowa24.pl
+telewizja-tv24.pl
 telewywiady.pl
 teliramsite.one
 tematdnia24.h2g.pl
@@ -4476,13 +4463,13 @@ tematyczne-rozmowki.com.pl
 tematyczne-rozmowy.pl
 tematyczne-rozmowy-pl.eu
 tematyczne-wywiady.pl
-tembakan.pl
 temporary.nsx.pl
 tengofoxfiles.com
 terazmieszkanie.pl
 terazty24.eu
 terminatorzy.cba.pl
 termstal.cba.pl
+terravi4.com
 terrexbuty.pl
 terrex.pl
 terrierbrasileiro.pl
@@ -4654,6 +4641,7 @@ tyqu.pl
 tyxuhuramolicul.tk
 tzr.grejt.pl
 u192389.stronazen.pl
+u706163p6w.ha004.t.justns.ru
 uabuty.pl
 uapolska.com
 uaskleponline.pl
@@ -4675,7 +4663,6 @@ uks-osemka.pl
 uksstrzalwodzislaw.pl
 ukssvida.pl
 ukswidok.pl
-uladekoracje.republika.pl
 ultramax.pl
 ultratrck.com
 umadrego.pl
@@ -4713,6 +4700,8 @@ ustaw--tlo-fb.blogspot.com
 usterkiwloclawek.za.pl
 usunwirusa.pl
 uvy3.pl
+uwaga24tv.pl
+uwaga-alert.pl
 uzupelniajdane.ga
 uzupelniajdane.gq
 uzupelniaj-dane.ml
@@ -4736,7 +4725,6 @@ vantis-holding.com
 vapormax.pl
 vascoart.pl
 vasco-group.eu
-vavavoom.pl
 vcascc.eu
 vcxz.pl
 vdlbova.pl
@@ -4818,7 +4806,6 @@ waznywilkiel.pl
 wcozainwestowacpieniadze.pl
 wczaso.pl
 wd-8.fbdowner.com
-wdrodzenaratunek.pl
 wealthray4u.com
 wealthyme.warzonedns.com
 weartexhibitions.com
@@ -4826,7 +4813,6 @@ web.cellfun.mobi
 weblocus.pl
 web-online.pl
 webrobi.pl
-websuit.pl
 webtoprostezarub.xaa.pl
 web.yuppipuppy.com
 wedkarskaturystyka.pl
@@ -5202,7 +5188,6 @@ www.anuluj-dlug.pl
 www.anuluj-mandat.pl
 www.anuluj-natreta.pl
 www.anuskurier.org
-www.anwan.pl
 www.aoc.teleaudio.pl
 www.apartahotelfamilyhouse.com
 www.apartamentylirowa.pl
@@ -5383,7 +5368,6 @@ www.bestselections.top
 www.bestvod.pl
 www.betterware.pl
 www.be-wild.pl
-www.bewox.net
 www.beyourbest.pl
 www.bezmamy.com.pl
 www.bezpieczne-nieruchomosci.pl
@@ -5468,6 +5452,7 @@ www.boherlex.com.pl
 www.bok.enea-sa.pl
 www.bok.epgnig.pl
 www.bokpgnig.pl
+www.bokpocztapolska.pl
 www.bolek69.pl
 www.bombazakupowa.com
 www.bonares.pl
@@ -5663,7 +5648,6 @@ www.childalertfakt.online
 www.childalertfakt.site
 www.chimera-studio.pl
 www.chipcar.pl
-www.chipo.republika.pl
 www.choconeo.pl
 www.chocoslim.pro
 www.choengmon-beach.com
@@ -5719,7 +5703,6 @@ www.clydecourt.pl
 www.cme-srem.pl
 www.cnto.pl
 www.coachhouseballarat.com
-www.cobra-siedlce.pl
 www.cocoopt.com
 www.codeandwork.pl
 www.codenpic.com
@@ -5789,7 +5772,6 @@ www.cs-podhale.pl
 www.cs.shiporama.com
 www.cs.spotlessweb.com
 www.ct-redirect.com
-www.cukiernia_izabela.republika.pl
 www.cultland.pl
 www.cultsneaks.pl
 www.cuosdemakadi.gq
@@ -5825,7 +5807,6 @@ www.dampozyczke.pl
 www.danangluxury.com
 www.danchamp.pl
 www.danielkulinski.pl
-www.dapmaf.republika.pl
 www.dariuszdopierala.pl
 www.darknessintheforest.pl
 www.darky.cba.pl
@@ -5917,7 +5898,6 @@ www.dlf.pl
 www.dlmyfile.com
 www.dmautoserwis.pl
 www.dmaxcctv.pl
-www.dmb.republika.pl
 www.dnirownosci.pl
 www.dnmultiglobal.duckdns.org
 www.dobre-filmy.pl
@@ -5959,8 +5939,10 @@ www.dostawaca24.online
 www.dostawy24.com
 www.dotabet100.com
 www.dotabet103.com
+www.dotpay.i-pocztapolska.pl
 www.dotpay.pocztapolska48.com
 www.dotpay.pocztexpolska.eu
+www.dotpay.pocztexpolska.org
 www.doulawpoznaniu.pl
 www.dowmarkets.com
 www.download-24.tk
@@ -6067,7 +6049,6 @@ www.eccoobuwie.pl
 www.eccooutlet.pl
 www.eccopl.pl
 www.eccopromocje.pl
-www.eccosoft.pl
 www.e-cda.pl
 www.ecdi14.eu
 www.ecdi19.eu
@@ -6203,7 +6184,6 @@ www.esedra.pl
 www.esemeso.pl
 www.eshoes.com.pl
 www.eskk.pl
-www.esmok.pl
 www.esneakers.net.pl
 www.esneakersy.com
 www.espaylink.net
@@ -6578,7 +6558,6 @@ www.futurenet.club
 www.futurepay.globway.eu
 www.fxgm.com
 www.g3architekci.pl
-www.gabinator.republika.pl
 www.gabinetnewline.pl
 www.gackokurier.com
 www.gadajzdrow.eu
@@ -6619,6 +6598,7 @@ www.gawaher-services.com
 www.gayfakt.pl
 www.gayza.net
 www.gazetainfo24tv.hekko24.pl
+www.gazetainfo.hekko24.pl
 www.gazetalublin.pl
 www.gazetamazowsze.eu
 www.gazeta-natemat-pol.eu
@@ -6945,6 +6925,7 @@ www.info-polska.24.eu
 www.informacja-dnia.com
 www.informacje24fakt.pusiaweb.com
 www.informacje24-swiat.pl
+www.informacje-24tv.pl
 www.informacje-fakty.pusiaweb.com
 www.informacjemiasto.hekko24.pl
 www.informacje-news.eu
@@ -6999,6 +6980,8 @@ www.ipeachy.pl
 www.iphonepolska.pl
 www.ipk0bp.net
 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
+www.i-pocztapolska.pl
+www.ipocztapolska.pl
 www.ipodatek.net
 www.i-podgladacz.pl
 www.iporwania.com.pl
@@ -7031,13 +7014,13 @@ www.istrefa.net
 www.italianonfiction.pl
 www.itcity.pl
 www.itelefon.org
+www.item-show.pl
 www.itkompleks.pl
 www.itorrenty.org
 www.itspree.pl
 www.itvwro.pl
 www.iurzad.net
 www.iv24.pl
-www.iviarc.republika.pl
 www.iwonadzitko.pl
 www.izabelarogowska.pl
 www.izakowalska.pl
@@ -7075,11 +7058,11 @@ www.jatop.pl
 www.javacenter.pl
 www.jbfilmyseriale.pl
 www.jeansydiesel.pl
+www.jeleniedybowskiego.pl
 www.jelitto.pl
 www.jemwdomu.pl
 www.jerzylukaszwalczak.com.pl
 www.jerzy-pulchny.pl
-www.jete.pl
 www.jetzone.pl
 www.jeunesseglobal.com
 www.jezyk-norwesk.pl
@@ -7366,7 +7349,6 @@ www.lampeberger.com.pl
 www.lamri.pl
 www.lander.pl
 www.laolle.com
-www.lapkowo.pl
 www.larissalinhares.com.br
 www.laryngologia-lodz2017.pl
 www.las-rp.pl
@@ -7447,7 +7429,6 @@ www.login-planet-paribas.info
 www.lokalneinformacje1.vot.pl
 www.lokalnie.live
 www.loktrk.com
-www.lokum1985.republika.pl
 www.lolalynch.pl
 www.lollipop-slodkiestoly.pl
 www.lommi.pl
@@ -7508,7 +7489,6 @@ www.mackeeperapp.mackeeper.com
 www.madagascaroasis.org
 www.madl-len.pl
 www.madmulla.duckdns.org
-www.madziaadam.republika.pl
 www.maendo.tv
 www.maestrokolo.pl
 www.magadownloader.com
@@ -7542,7 +7522,6 @@ www.manipulation.pl
 www.mantoropols.xyz
 www.manufaktura.y0.pl
 www.manufakturazmyslow.pl
-www.marcinek.republika.pl
 www.marcin-rozycki.pl
 www.marcoblue.pl
 www.marcofama.it
@@ -7590,7 +7569,6 @@ www.maymaychihai.com
 www.mayonez.pl
 www.mazowskagazeta.eu
 www.mazowskagazeta.pl
-www.mbiurorachunkowe.republika.pl
 www.mbp-brzeziny.pl
 www.mb-studio.pl
 www.mbtbuty.pl
@@ -7673,7 +7651,6 @@ www.millionways.duckdns.org
 www.millson-recruitment.pl
 www.minipensjonatadmiral.pl
 www.minmin96.xyz
-www.minocki.republika.pl
 www.miodowyskarbiec.pl
 www.miresnahapsi.pro
 www.miroslawklos.pl
@@ -7727,7 +7704,6 @@ www.mojalenka.pl
 www.mojapaczka24.net
 www.mojeasg.pl
 www.mojechwile.pl
-www.mojejeze.republika.pl
 www.mojekumpele.blogspot.com
 www.moje-last-minute.pl
 www.mojepiwa.pl
@@ -7939,7 +7915,6 @@ www.nipoflex.com.pl
 www.niskamaskincare.pl
 www.njb-gmbh.com
 www.nkbutysportowe.com
-www.nkbzryw.republika.pl
 www.nkforcesklep.pl
 www.nknikeair.pl
 www.nkpolskaallegro.pl
@@ -8158,7 +8133,6 @@ www.p.24-7.help
 www.packza.dostawy24.com
 www.pacuskurier.org
 www.pacyfka99.pl
-www.pacyna2.republika.pl
 www.paczka24-oplata.com
 www.paczka-48.com
 www.paczka-dhl.com
@@ -8378,6 +8352,7 @@ www.pocztex-24.link
 www.pocztex-48.net
 www.pocztexpolska24.com
 www.pocztexpolska.eu
+www.pocztexpolska.org
 www.podarujmamiesukienke.pl
 www.podatek2020.net
 www.podatkigov.net
@@ -8436,6 +8411,7 @@ www.pomagajmypl.online
 www.pomagajmypl.site
 www.pomelostudio.pl
 www.pomerania-bn.pl
+www.pomoc-fakty24.pl
 www.pomockredytowa.net
 www.pomoc.kylos.pl
 www.pomoc.sie-pomaga.net
@@ -8456,6 +8432,7 @@ www.porwaniadzieci.eu
 www.porwaniedziecki24.eu
 www.porwaniedziecki24.net.pl
 www.porwaniedziecki24.pl
+www.porwanieinfo.hekko24.pl
 www.porwanienatalki.eu
 www.porwanienatalki.online
 www.porwaniewmiescie.hekko24.pl
@@ -8497,7 +8474,6 @@ www.pozyczki-prywatne.com.pl
 www.pozytywkaleszno.pl
 www.pozytywnerodzicielstwo.pl
 www.pozytywneswiry.pl
-www.pp4_09_10_2s.republika.pl
 www.ppl-puls.gloryft.com
 www.ppswb.pl
 www.ppuhmarko.com.pl
@@ -8987,7 +8963,6 @@ www.siniaki.pl
 www.siobhanmcminn.com
 www.siodemkawysyl24h.info
 www.sipp.pl
-www.sirigor.republika.pl
 www.siroccogoldfci.pl
 www.sitegiant.info
 www.skaczacawarszawa.pl
@@ -9010,7 +8985,6 @@ www.sklep-colway.com
 www.sklep-colway.pl
 www.sklep.ekoenergia24.eu
 www.sklepnbbuty.pl
-www.sklepnb.pl
 www.sklepnorthface.com
 www.skleppolo.pl
 www.sklepszkolen.pl
@@ -9075,7 +9049,6 @@ www.sneakervclub.com
 www.sne.bydgoszcz.pl
 www.sniadanioweinfo.pl
 www.soagd.in.net
-www.sobczuk.republika.pl
 www.sobotka24.com.pl
 www.socialbump.hekko24.pl
 www.socialize.pl
@@ -9300,8 +9273,8 @@ www.szczesliwydzien.com
 www.szczuplezwyczaje.pl
 www.szczyptamiety.pl
 www.szczytzaszczytem.pl
+www.szklarnie.club
 www.szklobudowlane.com.pl
-www.szkolagrojec.republika.pl
 www.szkolapiekoszow.pl
 www.szkoleniasouvre.pl
 www.szkolenie.m.poznan.pm
@@ -9356,7 +9329,6 @@ www.tarnowskirap.pl
 www.tatroscatering.com
 www.tbntechnology.pl
 www.team4heat.net
-www.teatrdomowy.republika.pl
 www.teatromiasto.com.pl
 www.teccenter.xyz
 www.techdailyinfo.net
@@ -9376,6 +9348,7 @@ www.telewiadomosci.com.pl
 www.telewiadomosci.pl
 www.telewiadomosci-pol.com
 www.telewizja-internetowa24.pl
+www.telewizja-tv24.pl
 www.telewywiady.pl
 www.teliramsite.one
 www.tematdnia24.h2g.pl
@@ -9384,13 +9357,13 @@ www.tematyczne-rozmowki.com.pl
 www.tematyczne-rozmowy.pl
 www.tematyczne-rozmowy-pl.eu
 www.tematyczne-wywiady.pl
-www.tembakan.pl
 www.temporary.nsx.pl
 www.tengofoxfiles.com
 www.terazmieszkanie.pl
 www.terazty24.eu
 www.terminatorzy.cba.pl
 www.termstal.cba.pl
+www.terravi4.com
 www.terrexbuty.pl
 www.terrex.pl
 www.terrierbrasileiro.pl
@@ -9562,6 +9535,7 @@ www.tyqu.pl
 www.tyxuhuramolicul.tk
 www.tzr.grejt.pl
 www.u192389.stronazen.pl
+www.u706163p6w.ha004.t.justns.ru
 www.uabuty.pl
 www.uapolska.com
 www.uaskleponline.pl
@@ -9583,7 +9557,6 @@ www.uks-osemka.pl
 www.uksstrzalwodzislaw.pl
 www.ukssvida.pl
 www.ukswidok.pl
-www.uladekoracje.republika.pl
 www.ultramax.pl
 www.ultratrck.com
 www.umadrego.pl
@@ -9621,6 +9594,8 @@ www.ustaw--tlo-fb.blogspot.com
 www.usterkiwloclawek.za.pl
 www.usunwirusa.pl
 www.uvy3.pl
+www.uwaga24tv.pl
+www.uwaga-alert.pl
 www.uzupelniajdane.ga
 www.uzupelniajdane.gq
 www.uzupelniaj-dane.ml
@@ -9644,7 +9619,6 @@ www.vantis-holding.com
 www.vapormax.pl
 www.vascoart.pl
 www.vasco-group.eu
-www.vavavoom.pl
 www.vcascc.eu
 www.vcxz.pl
 www.vdlbova.pl
@@ -9726,7 +9700,6 @@ www.waznywilkiel.pl
 www.wcozainwestowacpieniadze.pl
 www.wczaso.pl
 www.wd-8.fbdowner.com
-www.wdrodzenaratunek.pl
 www.wealthray4u.com
 www.wealthyme.warzonedns.com
 www.weartexhibitions.com
@@ -9734,7 +9707,6 @@ www.web.cellfun.mobi
 www.weblocus.pl
 www.web-online.pl
 www.webrobi.pl
-www.websuit.pl
 www.webtoprostezarub.xaa.pl
 www.web.yuppipuppy.com
 www.wedkarskaturystyka.pl
@@ -9965,7 +9937,6 @@ www.zbierajnagrody.bo.pl
 www.zbig-spaw.pl
 www.zbudujmy-pustelnie.pl
 www.zbyk.drl.pl
-www.zckupila.republika.pl
 www.zcontentlocker7gpa8a.xyz
 www.zdaj-to.pl
 www.zdjecia-fotki.pl
@@ -10034,13 +10005,11 @@ www.zpafiska.pl
 www.zpotrzebyserc.pl
 www.zrobswiatlo.pl
 www.zskleczany.pl
-www.zsnbystre.republika.pl
 www.zsniemce.pl
 www.zsp17.y0.pl
 www.zspbytonia.pl
 www.zspkoscielec.pl
 www.zsporchowo.pl
-www.zsz_szyn.republika.pl
 www.zukiewicz.com
 www.zumodi.com
 www.zupaskarbow.pl
@@ -10174,7 +10143,6 @@ zbierajnagrody.bo.pl
 zbig-spaw.pl
 zbudujmy-pustelnie.pl
 zbyk.drl.pl
-zckupila.republika.pl
 zcontentlocker7gpa8a.xyz
 zdaj-to.pl
 zdjecia-fotki.pl
@@ -10243,13 +10211,11 @@ zpafiska.pl
 zpotrzebyserc.pl
 zrobswiatlo.pl
 zskleczany.pl
-zsnbystre.republika.pl
 zsniemce.pl
 zsp17.y0.pl
 zspbytonia.pl
 zspkoscielec.pl
 zsporchowo.pl
-zsz_szyn.republika.pl
 zukiewicz.com
 zumodi.com
 zupaskarbow.pl
