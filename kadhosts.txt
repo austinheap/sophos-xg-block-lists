@@ -44,6 +44,7 @@
 7228.eu
 7dot.cn
 7tools.eu
+82210001244.com
 9print.pl
 a0copyplot.pl
 a1a.pl
@@ -259,6 +260,7 @@ annartestudio.pl
 antabuy.com
 antidotum-terapia.pl
 antislip.com.pl
+antkurier.com
 antomedukacja.pl
 antonresidential.com
 anuluj-dlug.pl
@@ -382,6 +384,7 @@ bagstory.pl
 baileybutton.pl
 bajkowedekoracje.pl
 bajkowestokrotki.cba.pl
+balsam-gigantic-hallway.glitch.me
 balsit.org
 bamitrans.pl
 bankmillennium.fun
@@ -526,6 +529,7 @@ bohema-suprasl.pl
 boherlex.com.pl
 bok.enea-sa.pl
 bok.epgnig.pl
+bok.itauron.pl
 bokpgnig.pl
 bokpocztapolska.pl
 bolek69.pl
@@ -1014,8 +1018,11 @@ dostawaca24.online
 dostawy24.com
 dotabet100.com
 dotabet103.com
+dotpay.bokpocztapolska.pl
 dotpay.i-pocztapolska.pl
+dotpay.ipocztapolska.pl
 dotpay.pocztapolska48.com
+dotpay.pocztex-polska.eu
 dotpay.pocztexpolska.eu
 dotpay.pocztexpolska.org
 doulawpoznaniu.pl
@@ -1065,7 +1072,7 @@ drunkenboyz.za.pl
 drunt.at
 dsa.pl
 dspinner.net
-dstreet-pl
+dstreet.pl
 dtmx.pl
 dubaikidcare.com
 dulawa.pl
@@ -1123,6 +1130,7 @@ eccobuty.pl
 eccoobuwie.pl
 eccooutlet.pl
 eccopl.pl
+eccopolska.pl
 eccopromocje.pl
 e-cda.pl
 ecdi14.eu
@@ -1150,6 +1158,7 @@ edukacjawysylkowa.pl
 edumedix.pl
 e-eporwaniedziecka.pl
 eeu.pl
+e-faktyzaginiecie24.pl
 e-filmy24.pl
 e-fohow.pl
 eforsa.pl
@@ -1329,7 +1338,9 @@ facebookkviewer.blogspot.com
 facebook-login.5v.pl
 facebook-profile.5v.pl
 facebookszpieg.glt.pl
+faceboolk.com.pl
 facedesign.pl
+faceibook.pl
 face--viewer.blogspot.com
 face-vip.ujm.pl
 facewatch.borec.cz
@@ -1381,6 +1392,12 @@ faktypolska8.b-cdn.net
 faktypolska9.b-cdn.net
 fakty-sniadaniowe.com.pl
 fakty-sniadaniowe-pl.com
+faktyzaginiecie24.com.pl
+faktyzaginiecie24.net.pl
+faktyzaginiecie24.online
+faktyzaginiecie24.pl
+faktyzaginiecie24.site
+faktyzaginiecie24.waw.pl
 faktyzwawy.pl
 faldo.pl
 falmer.com.pl
@@ -1739,6 +1756,7 @@ globalkompleks.pl
 globile.co
 glob-tech.com.pl
 gloriakurier.org
+glosowanie-konkurs.eu
 glosowanie.ujm.pl
 gls-parcel.com
 gmagazyn.pl
@@ -1957,6 +1975,7 @@ idealnafigura.com
 ideatur.pl
 ideazespolufilmowego.pl
 idgarin.com
+ifaktyzaginiecie24.pl
 i-films.pl
 i-filmy.pl
 iglesia.pl
@@ -1997,6 +2016,7 @@ infomiasto.hekko24.pl
 infonews24.com.pl
 info.poczta-interia.net
 info-polska.24.eu
+infoporwanie.hekko24.pl
 informacja-dnia.com
 informacje24fakt.pusiaweb.com
 informacje24-swiat.pl
@@ -2087,6 +2107,7 @@ islandmob.com
 i-store365.com
 istrefa.net
 italianonfiction.pl
+itauron.pl
 itcity.pl
 itelefon.org
 item-show.pl
@@ -2243,6 +2264,7 @@ kierunkowy48.pl
 kikofu.com
 killingtonchukka.pl
 kineman.pl
+kingland.pl
 kino-centrum.pl
 kinofilm-tv.pl
 kinomaniac.pl
@@ -2388,6 +2410,7 @@ kupujemy.to
 kupujprzeztelefon.pl
 kur24pl.eu
 kurierania.com
+kurier-dhl.services
 kurierinpost.info
 kurierjagoda.org
 kuriero.pl
@@ -2445,6 +2468,7 @@ lebakwatery.pl
 lebskiewycieczki.com.pl
 leenlife.com.pl
 legalizacja.5v.pl
+legalsite.pl
 legendarnysmakpolskiegodrobiu.pl
 legiakul.pl
 legioncrest.com
@@ -2574,6 +2598,7 @@ magiczne-cytaty.pl
 magiskmanager.com
 magnumbd.com
 maiamirainy.at
+mail.glosowanie-konkurs.eu
 mail.przejrzyj-fotki.eu
 mail.zdjecie-ukradzione.eu
 majcioch.pl
@@ -3311,6 +3336,7 @@ piestv.pl
 piknikarabski.pl
 pila-dziedzictwo-2017-online.5v.pl
 pilkanozna.yolasite.com
+pilnasprawa.hekko24.pl
 pilotmovies.pl
 pimrentcar.pl
 pinapple.pl
@@ -3422,6 +3448,7 @@ pl.superando.net
 pl.team
 pl.tvplusnewtab.com
 plwash.pl
+pl-wyslij.best
 pm3gliwice.pl
 pmanager.pl
 pm-international.com
@@ -3449,7 +3476,9 @@ poczta-pay.com
 pocztapolska24.com
 poczta-polska24.eu
 poczta-polska24.net
+pocztapolska24.net
 pocztapolska24.org
+pocztapolska48.com
 poczta-polska48.eu
 pocztapolska48.net
 pocztapolska.eu
@@ -3457,6 +3486,8 @@ poczta-polska.net
 pocztex-24.link
 pocztex-48.net
 pocztexpolska24.com
+pocztexpolska.com
+pocztex-polska.eu
 pocztexpolska.eu
 pocztexpolska.org
 podarujmamiesukienke.pl
@@ -3506,6 +3537,7 @@ polskieinfo365.wordpress.com
 polskieinformacje24.eu
 polskieksporter.pl
 polskiemedia.online
+polskiemedia.xyz
 polskie-newsy.com.pl
 polskieszkolyjazdy.pl
 polskifilm.com.pl
@@ -3869,6 +3901,7 @@ rikoo.pl
 ringtonepartner.com
 risingindianews.com
 riverbed.pl
+riverparkbaseball.org
 rkowalow.pl
 robertcielecki.pl
 robertlesiuk.pl
@@ -3987,23 +4020,7 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
-server078515.nazwa.pl
-server082057.nazwa.pl
-server095630.nazwa.pl
-server123481.nazwa.pl
-server221450.nazwa.pl
-server271250.nazwa.pl
-server328687.nazwa.pl
-server375674.nazwa.pl
-server432146.nazwa.pl
-server706820.nazwa.pl
 server730889.nazwa.pl
-server753306.nazwa.pl
-server836207.nazwa.pl
-server866225.nazwa.pl
-server872200.nazwa.pl
-server905483.nazwa.pl
-server968099.nazwa.pl
 servicecheck5.wixsite.com
 service-pay.company
 serwer2045220.home.pl
@@ -4230,6 +4247,7 @@ sprawdzikk.v0r.org
 sprawdzktopodgglada.blogspot.com
 sprawdz-ogladaj.bo.pl
 sprawdzzdjecia.24.eu
+sprawypilne.h2g.pl
 spreadyourtentacles.com
 sprnr59713.net
 sprnr59813.net
@@ -4915,6 +4933,7 @@ wszyscyrodacy.com
 wszystkiemiasta.pl
 wszystkodokuchni.pl
 wszystko-na-temat.pl
+wszystkowpolsce.fun
 wszystkowpolsce.online
 wtmtrack.com
 wuus.org.cn
@@ -4967,6 +4986,7 @@ www.6m.pl
 www.7228.eu
 www.7dot.cn
 www.7tools.eu
+www.82210001244.com
 www.9print.pl
 www.a0copyplot.pl
 www.a1a.pl
@@ -5182,6 +5202,7 @@ www.annartestudio.pl
 www.antabuy.com
 www.antidotum-terapia.pl
 www.antislip.com.pl
+www.antkurier.com
 www.antomedukacja.pl
 www.antonresidential.com
 www.anuluj-dlug.pl
@@ -5307,6 +5328,7 @@ www.bagstory.pl
 www.baileybutton.pl
 www.bajkowedekoracje.pl
 www.bajkowestokrotki.cba.pl
+www.balsam-gigantic-hallway.glitch.me
 www.balsit.org
 www.bamitrans.pl
 www.bankmillennium.fun
@@ -5451,6 +5473,7 @@ www.bohema-suprasl.pl
 www.boherlex.com.pl
 www.bok.enea-sa.pl
 www.bok.epgnig.pl
+www.bok.itauron.pl
 www.bokpgnig.pl
 www.bokpocztapolska.pl
 www.bolek69.pl
@@ -5939,8 +5962,11 @@ www.dostawaca24.online
 www.dostawy24.com
 www.dotabet100.com
 www.dotabet103.com
+www.dotpay.bokpocztapolska.pl
 www.dotpay.i-pocztapolska.pl
+www.dotpay.ipocztapolska.pl
 www.dotpay.pocztapolska48.com
+www.dotpay.pocztex-polska.eu
 www.dotpay.pocztexpolska.eu
 www.dotpay.pocztexpolska.org
 www.doulawpoznaniu.pl
@@ -5990,7 +6016,7 @@ www.drunkenboyz.za.pl
 www.drunt.at
 www.dsa.pl
 www.dspinner.net
-www.dstreet-pl
+www.dstreet.pl
 www.dtmx.pl
 www.dubaikidcare.com
 www.dulawa.pl
@@ -6048,6 +6074,7 @@ www.eccobuty.pl
 www.eccoobuwie.pl
 www.eccooutlet.pl
 www.eccopl.pl
+www.eccopolska.pl
 www.eccopromocje.pl
 www.e-cda.pl
 www.ecdi14.eu
@@ -6075,6 +6102,7 @@ www.edukacjawysylkowa.pl
 www.edumedix.pl
 www.e-eporwaniedziecka.pl
 www.eeu.pl
+www.e-faktyzaginiecie24.pl
 www.e-filmy24.pl
 www.e-fohow.pl
 www.eforsa.pl
@@ -6254,7 +6282,9 @@ www.facebookkviewer.blogspot.com
 www.facebook-login.5v.pl
 www.facebook-profile.5v.pl
 www.facebookszpieg.glt.pl
+www.faceboolk.com.pl
 www.facedesign.pl
+www.faceibook.pl
 www.face--viewer.blogspot.com
 www.face-vip.ujm.pl
 www.facewatch.borec.cz
@@ -6306,6 +6336,12 @@ www.faktypolska8.b-cdn.net
 www.faktypolska9.b-cdn.net
 www.fakty-sniadaniowe.com.pl
 www.fakty-sniadaniowe-pl.com
+www.faktyzaginiecie24.com.pl
+www.faktyzaginiecie24.net.pl
+www.faktyzaginiecie24.online
+www.faktyzaginiecie24.pl
+www.faktyzaginiecie24.site
+www.faktyzaginiecie24.waw.pl
 www.faktyzwawy.pl
 www.faldo.pl
 www.falmer.com.pl
@@ -6664,6 +6700,7 @@ www.globalkompleks.pl
 www.globile.co
 www.glob-tech.com.pl
 www.gloriakurier.org
+www.glosowanie-konkurs.eu
 www.glosowanie.ujm.pl
 www.gls-parcel.com
 www.gmagazyn.pl
@@ -6882,6 +6919,7 @@ www.idealnafigura.com
 www.ideatur.pl
 www.ideazespolufilmowego.pl
 www.idgarin.com
+www.ifaktyzaginiecie24.pl
 www.i-films.pl
 www.i-filmy.pl
 www.iglesia.pl
@@ -6922,6 +6960,7 @@ www.infomiasto.hekko24.pl
 www.infonews24.com.pl
 www.info.poczta-interia.net
 www.info-polska.24.eu
+www.infoporwanie.hekko24.pl
 www.informacja-dnia.com
 www.informacje24fakt.pusiaweb.com
 www.informacje24-swiat.pl
@@ -7012,6 +7051,7 @@ www.islandmob.com
 www.i-store365.com
 www.istrefa.net
 www.italianonfiction.pl
+www.itauron.pl
 www.itcity.pl
 www.itelefon.org
 www.item-show.pl
@@ -7168,6 +7208,7 @@ www.kierunkowy48.pl
 www.kikofu.com
 www.killingtonchukka.pl
 www.kineman.pl
+www.kingland.pl
 www.kino-centrum.pl
 www.kinofilm-tv.pl
 www.kinomaniac.pl
@@ -7313,6 +7354,7 @@ www.kupujemy.to
 www.kupujprzeztelefon.pl
 www.kur24pl.eu
 www.kurierania.com
+www.kurier-dhl.services
 www.kurierinpost.info
 www.kurierjagoda.org
 www.kuriero.pl
@@ -7370,6 +7412,7 @@ www.lebakwatery.pl
 www.lebskiewycieczki.com.pl
 www.leenlife.com.pl
 www.legalizacja.5v.pl
+www.legalsite.pl
 www.legendarnysmakpolskiegodrobiu.pl
 www.legiakul.pl
 www.legioncrest.com
@@ -7499,6 +7542,7 @@ www.magiczne-cytaty.pl
 www.magiskmanager.com
 www.magnumbd.com
 www.maiamirainy.at
+www.mail.glosowanie-konkurs.eu
 www.mail.przejrzyj-fotki.eu
 www.mail.zdjecie-ukradzione.eu
 www.majcioch.pl
@@ -8237,6 +8281,7 @@ www.piestv.pl
 www.piknikarabski.pl
 www.pila-dziedzictwo-2017-online.5v.pl
 www.pilkanozna.yolasite.com
+www.pilnasprawa.hekko24.pl
 www.pilotmovies.pl
 www.pimrentcar.pl
 www.pinapple.pl
@@ -8316,6 +8361,7 @@ www.plpocztex.net
 www.plpocztex.org
 www.pl-pulsbiz.net
 www.plwash.pl
+www.pl-wyslij.best
 www.pm3gliwice.pl
 www.pmanager.pl
 www.pm-international.com
@@ -8343,7 +8389,9 @@ www.poczta-pay.com
 www.pocztapolska24.com
 www.poczta-polska24.eu
 www.poczta-polska24.net
+www.pocztapolska24.net
 www.pocztapolska24.org
+www.pocztapolska48.com
 www.poczta-polska48.eu
 www.pocztapolska48.net
 www.pocztapolska.eu
@@ -8351,6 +8399,8 @@ www.poczta-polska.net
 www.pocztex-24.link
 www.pocztex-48.net
 www.pocztexpolska24.com
+www.pocztexpolska.com
+www.pocztex-polska.eu
 www.pocztexpolska.eu
 www.pocztexpolska.org
 www.podarujmamiesukienke.pl
@@ -8400,6 +8450,7 @@ www.polskieinfo365.wordpress.com
 www.polskieinformacje24.eu
 www.polskieksporter.pl
 www.polskiemedia.online
+www.polskiemedia.xyz
 www.polskie-newsy.com.pl
 www.polskieszkolyjazdy.pl
 www.polskifilm.com.pl
@@ -8763,6 +8814,7 @@ www.rikoo.pl
 www.ringtonepartner.com
 www.risingindianews.com
 www.riverbed.pl
+www.riverparkbaseball.org
 www.rkowalow.pl
 www.robertcielecki.pl
 www.robertlesiuk.pl
@@ -8881,23 +8933,7 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
-www.server078515.nazwa.pl
-www.server082057.nazwa.pl
-www.server095630.nazwa.pl
-www.server123481.nazwa.pl
-www.server221450.nazwa.pl
-www.server271250.nazwa.pl
-www.server328687.nazwa.pl
-www.server375674.nazwa.pl
-www.server432146.nazwa.pl
-www.server706820.nazwa.pl
 www.server730889.nazwa.pl
-www.server753306.nazwa.pl
-www.server836207.nazwa.pl
-www.server866225.nazwa.pl
-www.server872200.nazwa.pl
-www.server905483.nazwa.pl
-www.server968099.nazwa.pl
 www.servicecheck5.wixsite.com
 www.service-pay.company
 www.serwer2045220.home.pl
@@ -9124,6 +9160,7 @@ www.sprawdzikk.v0r.org
 www.sprawdzktopodgglada.blogspot.com
 www.sprawdz-ogladaj.bo.pl
 www.sprawdzzdjecia.24.eu
+www.sprawypilne.h2g.pl
 www.spreadyourtentacles.com
 www.sprnr59713.net
 www.sprnr59813.net
@@ -9809,6 +9846,7 @@ www.wszyscyrodacy.com
 www.wszystkiemiasta.pl
 www.wszystkodokuchni.pl
 www.wszystko-na-temat.pl
+www.wszystkowpolsce.fun
 www.wszystkowpolsce.online
 www.wtmtrack.com
 www.wuus.org.cn
@@ -9822,6 +9860,7 @@ www.wyborubezpieczenia.com.pl
 www.wyciag-gwarek.pl
 www.wycieczkichiny.com.pl
 www.wyciekizdjec24.pl
+www.wydarzeniainfo.hekko24.pl
 www.wydawca.lead.network
 www.wydawnictworambler.pl
 www.wydawnictwo-systherm.pl
@@ -9897,6 +9936,7 @@ www.zajazdwika.pl
 www.zajonc.de
 www.zaksiazke.pl
 www.zakupyagd.net
+www.zakupy-domowe.glosowanie-konkurs.eu
 www.zalukaj24.com
 www.zalukaj24.pl
 www.zalukaj.5v.pl
@@ -10028,6 +10068,7 @@ wyborubezpieczenia.com.pl
 wyciag-gwarek.pl
 wycieczkichiny.com.pl
 wyciekizdjec24.pl
+wydarzeniainfo.hekko24.pl
 wydawca.lead.network
 wydawnictworambler.pl
 wydawnictwo-systherm.pl
@@ -10103,6 +10144,7 @@ zajazdwika.pl
 zajonc.de
 zaksiazke.pl
 zakupyagd.net
+zakupy-domowe.glosowanie-konkurs.eu
 zalukaj24.com
 zalukaj24.pl
 zalukaj.5v.pl

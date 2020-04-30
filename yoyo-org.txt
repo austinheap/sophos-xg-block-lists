@@ -479,6 +479,7 @@ adserver.hwupgrade.it
 adserver.irishwebmasterforum.com
 adserver.janes.com
 adserver.libero.it
+adserver.mobi
 adservern2.host
 adserver.news.com.au
 adserver.nydailynews.com

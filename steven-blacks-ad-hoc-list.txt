@@ -381,6 +381,7 @@ fp-analytics.hotstar.com
 freeadult.games
 freegiftcards.co
 g0l32.queensiteforapp.com
+gainblox.com
 gamblerush.com
 gata.ero-advertising.com
 geofence.sys.miui.com
@@ -408,6 +409,7 @@ go.ad1data.com
 goodblock.gladly.io
 goooooooooogle.com
 grabify.link
+grandmods.com
 grandonmedia.com
 graph.accountkit.com
 greatmacsoft.tech
@@ -500,6 +502,7 @@ march262020.best
 march262020.com
 marketingplatform.google.com
 market.moonicorn.network
+marta.martatovaglieri.it
 mata.ero-advertising.com
 matchmyip.com
 match.taboola.com
@@ -557,6 +560,9 @@ onlineapi.youappi.com
 opads.ero-advertising.com
 opps.taboola.com
 optout.alphonso.tv
+Ora.blindsidefantasy.com
+ora.carlaarrabitoarchitetto.com
+ora.studiolegalebasili.com
 orion.iad.appboy.com
 ovc2-ustokyyneikyfasnm.stackpathdns.com
 pagepeel.ero-advertising.com
@@ -596,6 +602,7 @@ proxy.alphonso.tv
 p.s.360.cn
 pub.axiatraders.com
 pub.grandonmedia.com
+Pub.welcometothepub.com
 pull-3045.kxcdn.com
 pushedwebnews.com
 pussysaga.com
@@ -610,6 +617,7 @@ report.hb.brainlyads.com
 req.startappservice.com
 rereddit.com
 roboinside.me
+robux.dev
 rollbar.com
 rotator.axiatraders.com
 rotator.beginads.com
@@ -621,6 +629,7 @@ rtb-adsterra.flshtrk.store
 rtbdev4.alphonso.tv
 rtblbtr.alphonso.tv
 rules.quantcount.com
+rxc.rxcoordinator.com
 s10.hiadspaces.ero-advertising.com
 s10.hipaces.ero-advertising.com
 s10.his.ero-advertising.com
@@ -711,6 +720,7 @@ test.new.api.ad.xiaomi.com
 tex.ero-advertising.com
 theannoyingsite.com
 thebestgame2020.com
+themoil.site
 thestar.serveblog.net
 thor.rtk.io
 thumbads.ero-advertising.com
