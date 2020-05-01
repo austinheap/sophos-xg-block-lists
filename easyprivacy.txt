@@ -1260,6 +1260,7 @@ c.mgid.com
 cmmeglobal.com
 cmp.arnnet.com.au
 cmp.channelpartner.de
+cmp.cio.com
 cmp.cio.com.au
 cmp.cmo.com.au
 cmp.computerworld.com.au
@@ -1268,6 +1269,9 @@ cmp.csoonline.com
 cmp.digitalartsonline.co.uk
 cmp.dreamlab.pl
 cmp.greenbot.com
+cmp.idginsiderpro.com
+cmp.infoworld.com
+cmp.javaworld.com
 cmp.macworld.com
 cmp.macworld.co.uk
 cmp.osano.com
@@ -1277,6 +1281,7 @@ cmp.pcworld.idg.com.au
 cmptch.com
 cmp.tech426.com
 cmp.techadvisor.co.uk
+cmp.techconnect.com
 cmp.techhive.com
 cms.grandcloud.cn
 cms.lv
@@ -3427,6 +3432,7 @@ maploco.com
 mapmyuser.com
 ma.register.it
 marinsm.com
+markedmeasure.com
 market2lead.com
 marketing.alibaba.com
 marketing.dropbox.com
@@ -4745,6 +4751,7 @@ searchfeed.com
 searchignite.com
 searchplow.com
 secretturtle.com
+secureanalytic.com
 secure.ifbyphone.com
 secure.merchantadvantage.com
 securepaths.com
