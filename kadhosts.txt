@@ -1386,6 +1386,7 @@ fakty24-warszawa.pl
 faktylive-24.eu
 faktynazywo24.eu
 fakty-onet48.eu
+fakty-online48.eu
 faktyonline48.eu
 faktypolska10.b-cdn.net
 faktypolska11.b-cdn.net
@@ -1414,6 +1415,7 @@ faktyzaginiecie24.pl
 faktyzaginiecie24.site
 faktyzaginiecie24.waw.pl
 faktyzwawy.pl
+faktzaginiona.098.pl
 faldo.pl
 falmer.com.pl
 familyclean.pl
@@ -1712,6 +1714,8 @@ gazeta-natemat-pol.eu
 gazetanowoczesna.pl
 gazeta.pl.com.bz
 gazeta-polska.24.eu
+gazetkawarszawa.eu
+gazetkawarszawa.pl
 gazo-progress.com.pl
 gbtitansrfc.com
 gce-mennica.pl
@@ -2259,6 +2263,7 @@ katechizm-korespondencyjny.pl
 katel.com.pl
 kaufland.gift-cards.co.pl
 kayastylowetorebki.pl
+kazdyszukattv.098.pl
 kddz.pl
 keenbuty.pl
 keepitavocado.com
@@ -2620,6 +2625,7 @@ magiskmanager.com
 magnumbd.com
 maiamirainy.at
 mail.glosowanie-konkurs.eu
+mail.ogarnij-zdjecia.eu
 mail.przejrzyj-fotki.eu
 mail.zdjecie-ukradzione.eu
 majcioch.pl
@@ -2952,6 +2958,7 @@ naszezycie.com
 naszregion24.pl
 nataliakurier.com
 nataliaporwana.biz
+natemat24.h2g.pl
 natemat.h2g.pl
 natematprawa.pl
 naturabazar.pl
@@ -3073,6 +3080,7 @@ nowenktanio.pl
 noweprebuty.pl
 nowina-pb.pl
 nowinki.blog-online.eu
+nowiny24.h2g.pl
 nowoczesnafizjoterapia.pl
 nowosczdrowieporadyvlc.pl
 nowotnyart.pl
@@ -3118,6 +3126,8 @@ offerunt.pl
 offerzone.click
 offside2.000webhostapp.com
 oftmos.pl
+ogarnij-zdjecia.eu
+ogarnij-zdjecia.zaglosuj-teraz.eu
 ogladajfilmy.pl
 ogladaj-foteczki.pusiaweb.com
 ogladaj.online
@@ -3571,6 +3581,7 @@ polskiprocescywilny.pl
 poltradewaletko.pl
 pomagajmypl.online
 pomagajmypl.site
+pomagamszukac.098.pl
 pomelostudio.pl
 pomerania-bn.pl
 pomoc-fakty24.pl
@@ -4397,6 +4408,7 @@ swce.pl
 sweepstakescentralusa.com
 swiatgraweru.pl
 swiatliter.pl
+swiatpilne.eu
 swiatwiadomosci.hekko24.pl
 swietna-pozyczka.pl
 swietokrzyskieter.pl
@@ -4511,6 +4523,7 @@ tematyczne-rozmowki.com.pl
 tematyczne-rozmowy.pl
 tematyczne-rozmowy-pl.eu
 tematyczne-wywiady.pl
+tematycznie.h2g.pl
 temporary.nsx.pl
 tengofoxfiles.com
 terazmieszkanie.pl
@@ -6362,6 +6375,7 @@ www.fakty24-warszawa.pl
 www.faktylive-24.eu
 www.faktynazywo24.eu
 www.fakty-onet48.eu
+www.fakty-online48.eu
 www.faktyonline48.eu
 www.faktypolska10.b-cdn.net
 www.faktypolska11.b-cdn.net
@@ -6390,6 +6404,7 @@ www.faktyzaginiecie24.pl
 www.faktyzaginiecie24.site
 www.faktyzaginiecie24.waw.pl
 www.faktyzwawy.pl
+www.faktzaginiona.098.pl
 www.faldo.pl
 www.falmer.com.pl
 www.familyclean.pl
@@ -6688,6 +6703,8 @@ www.gazeta-natemat-pol.eu
 www.gazetanowoczesna.pl
 www.gazeta.pl.com.bz
 www.gazeta-polska.24.eu
+www.gazetkawarszawa.eu
+www.gazetkawarszawa.pl
 www.gazo-progress.com.pl
 www.gbtitansrfc.com
 www.gce-mennica.pl
@@ -7235,6 +7252,7 @@ www.katechizm-korespondencyjny.pl
 www.katel.com.pl
 www.kaufland.gift-cards.co.pl
 www.kayastylowetorebki.pl
+www.kazdyszukattv.098.pl
 www.kddz.pl
 www.keenbuty.pl
 www.keepitavocado.com
@@ -7596,6 +7614,7 @@ www.magiskmanager.com
 www.magnumbd.com
 www.maiamirainy.at
 www.mail.glosowanie-konkurs.eu
+www.mail.ogarnij-zdjecia.eu
 www.mail.przejrzyj-fotki.eu
 www.mail.zdjecie-ukradzione.eu
 www.majcioch.pl
@@ -7928,6 +7947,7 @@ www.naszezycie.com
 www.naszregion24.pl
 www.nataliakurier.com
 www.nataliaporwana.biz
+www.natemat24.h2g.pl
 www.natemat.h2g.pl
 www.natematprawa.pl
 www.naturabazar.pl
@@ -8049,6 +8069,7 @@ www.nowenktanio.pl
 www.noweprebuty.pl
 www.nowina-pb.pl
 www.nowinki.blog-online.eu
+www.nowiny24.h2g.pl
 www.nowoczesnafizjoterapia.pl
 www.nowosczdrowieporadyvlc.pl
 www.nowotnyart.pl
@@ -8094,6 +8115,8 @@ www.offerunt.pl
 www.offerzone.click
 www.offside2.000webhostapp.com
 www.oftmos.pl
+www.ogarnij-zdjecia.eu
+www.ogarnij-zdjecia.zaglosuj-teraz.eu
 www.ogladajfilmy.pl
 www.ogladaj-foteczki.pusiaweb.com
 www.ogladaj.online
@@ -8516,6 +8539,7 @@ www.polskiprocescywilny.pl
 www.poltradewaletko.pl
 www.pomagajmypl.online
 www.pomagajmypl.site
+www.pomagamszukac.098.pl
 www.pomelostudio.pl
 www.pomerania-bn.pl
 www.pomoc-fakty24.pl
@@ -9342,6 +9366,7 @@ www.swce.pl
 www.sweepstakescentralusa.com
 www.swiatgraweru.pl
 www.swiatliter.pl
+www.swiatpilne.eu
 www.swiatwiadomosci.hekko24.pl
 www.swietna-pozyczka.pl
 www.swietokrzyskieter.pl
@@ -9456,6 +9481,7 @@ www.tematyczne-rozmowki.com.pl
 www.tematyczne-rozmowy.pl
 www.tematyczne-rozmowy-pl.eu
 www.tematyczne-wywiady.pl
+www.tematycznie.h2g.pl
 www.temporary.nsx.pl
 www.tengofoxfiles.com
 www.terazmieszkanie.pl
@@ -9964,6 +9990,8 @@ www.xn--butysportowemskie-cjc.pl
 www.xn--e-faktygwat-25b.pl
 www.xn--efaktygwat-i0b.pl
 www.xn--faktygwat-xub.eu
+www.xn--faktygwat-xub.net.pl
+www.xn--faktygwat-xub.waw.pl
 www.xn--igraszkinocnezroksan-nkc.cba.pl
 www.xn--pandorabiuteria-qkd.pl
 www.xn--pasaer-spb.pl
@@ -9995,7 +10023,9 @@ www.za10groszy.pl
 www.zaadoptujstacjeladowania.com.pl
 www.zabiczyn.pl
 www.zagiel-przeciwsloneczny-pl.com
+www.zaginienifaktty.098.pl
 www.zaglebiefanatykow.pl
+www.zaglosuj-teraz.eu
 www.zajazdbanderoza.pl
 www.zajazdoaza.pl
 www.zajazduzenka.pl
@@ -10175,6 +10205,8 @@ xn--butysportowemskie-cjc.pl
 xn--e-faktygwat-25b.pl
 xn--efaktygwat-i0b.pl
 xn--faktygwat-xub.eu
+xn--faktygwat-xub.net.pl
+xn--faktygwat-xub.waw.pl
 xn--igraszkinocnezroksan-nkc.cba.pl
 xn--pandorabiuteria-qkd.pl
 xn--pasaer-spb.pl
@@ -10206,7 +10238,9 @@ za10groszy.pl
 zaadoptujstacjeladowania.com.pl
 zabiczyn.pl
 zagiel-przeciwsloneczny-pl.com
+zaginienifaktty.098.pl
 zaglebiefanatykow.pl
+zaglosuj-teraz.eu
 zajazdbanderoza.pl
 zajazdoaza.pl
 zajazduzenka.pl
