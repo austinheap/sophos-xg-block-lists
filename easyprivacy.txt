@@ -544,6 +544,7 @@ analytics.teespring.com
 analytics.thegedsection.com
 analytics.themarketiq.com
 analytics.thenest.com
+analytics.theneweuropean.co.uk
 analytics.thenewslens.com
 analytics.thetab.com
 analytics.tiktok.com
@@ -1731,6 +1732,7 @@ d.adrolays.de
 dagda.vilynx.com
 dailycaller-alerts.com
 damdoor.com
+dampdock.com
 da.netease.com
 dapxl.com
 daq0d0aotgq0f.cloudfront.net
@@ -2544,6 +2546,7 @@ geo.q5media.net
 georiot.com
 geoservice.curse.com
 geotargetly-1a441.appspot.com
+geovisite.ovh
 geo.xcel.io
 geo.yahoo.com
 getaim.info
@@ -3505,6 +3508,7 @@ mediego.com
 meetrics.net
 megast.at
 mega-stats.com
+megavisites.com
 memecounter.com
 memo.co
 mengis-linden.org
@@ -5894,6 +5898,7 @@ tracking.brandmentions.com
 tracking.carsales.com.au
 tracking.cat898.com
 tracking.chacha.com
+tracking.christianpost.com
 tracking.conduit.com
 tracking.conversion-lab.it
 tracking.customerly.io
