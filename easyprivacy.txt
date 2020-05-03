@@ -1720,6 +1720,7 @@ d3r7h55ola878c.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
 d3sbxpiag177w8.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
+d3uvwl4wtkgzo1.cloudfront.net
 d41.co
 d4ax0r5detcsu.cloudfront.net
 d6jkenny8w8yo.cloudfront.net
@@ -3038,7 +3039,6 @@ istlandoll.com
 istrack.com
 ist-track.com
 italianadirectory.com
-iteye.com
 itop.cz
 itrac.it
 itracker360.com

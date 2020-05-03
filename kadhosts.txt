@@ -75,15 +75,10 @@ ace.jamba.pl
 ace.jamster.pl
 ac-feedback.com
 aclante.pl
-acneuro.pl
-acninc.com
 aconcagua2010.pl
 acontrario.pl
 activa-ks.pl
 activelifedvd.pl
-act-natural.pl
-act-natural-sklep.pl
-act.poznan.pl
 actraffic.com
 actus.org.pl
 aczarniecka.pl
@@ -177,7 +172,6 @@ aktualizacja-regulamin.com
 aktywnechwile.pl
 aktywnytylicz.pl
 akumulatorowy-raj.pl
-akuna.pl
 akwadrago.pl
 akzamkowy.pl
 alanor.pl
@@ -241,7 +235,6 @@ amadaxtreme.pl
 amariceo.duckdns.org
 ambasador-szczecin.pl
 amber-road.pl
-amc.info
 amhorecacommunications.pl
 am-med.com
 amonitalia.it
@@ -297,7 +290,6 @@ apps.co.pl
 appsdorado.com
 aprzypinka.pl
 apteka2000.pl
-aquacell.pl
 aquafit24.pl
 aquafit.sklep.pl
 aquapower.com.pl
@@ -310,7 +302,6 @@ ariix.com
 arkonfinance.pl
 armia-pana.pl
 armix.com.pl
-aromagroup.pl
 arrow-finance.pl
 artcons.pl
 art-fashion.pl
@@ -452,7 +443,6 @@ best-rated-offers.com
 best-sales.top
 bestselections.top
 bestvod.pl
-betterware.pl
 be-wild.pl
 beyourbest.pl
 bezmamy.com.pl
@@ -539,6 +529,7 @@ bok.enea-sa.pl
 bok.epgnig.pl
 bok.itauron.pl
 bokpgnig.pl
+bok-poczta.pl
 bokpocztapolska.pl
 bolek69.pl
 bombazakupowa.com
@@ -648,7 +639,6 @@ caffeepolit.pl
 cairn-westie.com.pl
 calcionostra.pl
 calistenix.pl
-calivita.com
 callisto.cba.pl
 cal-look.pl
 calodobowe-wiadomosci-pl.eu
@@ -666,12 +656,11 @@ carmenchorzow.pl
 carolinakurier.com
 carson2polska.com
 carvertical.com
-casada.pl
-casadasklep.pl
 cashbackworld.com
 catchfly.pl
 catroad.pl
 catsplit.com
+catsplit.net.pl
 cats.ugu.pl
 catzell.com
 cbdnewsdirect.com
@@ -696,7 +685,6 @@ cellfun.mobi
 cello24.net
 cengizguler.com.tr
 centrolinguisticorobert.com
-centrumdxn.pl
 centrumfantastyki.pl
 centrum-medycyny.pl
 centrummedycyny.pl
@@ -798,12 +786,6 @@ codenpic.com
 colex-rowery.com.pl
 colorking.es
 colors-app.blogspot.com
-colwayinternational.com
-colway-international.com.pl
-colway-kolagen.com
-colway.pl
-colway-sklep.com
-colway-sklep.eu
 com-gift-winner-lucky-day.vip
 commanods.xyz
 complainerscla.xyz
@@ -843,7 +825,6 @@ crediko.pl
 credito.com.pl
 credy.pl
 cristal2017.argo.host
-cristianlay.com
 crmwpraktyce.pl
 crocsdamskie.pl
 crocsoutletpolska.pl
@@ -983,7 +964,6 @@ djarumgol.com
 dketrade.top
 dkgraf.pl
 dlagier.com
-dlf.pl
 dlmyfile.com
 dmautoserwis.pl
 dmaxcctv.pl
@@ -1028,6 +1008,7 @@ dostawaca24.online
 dostawy24.com
 dotabet100.com
 dotabet103.com
+dotpay.bok-poczta.pl
 dotpay.bokpocztapolska.pl
 dotpay.i-pocztapolska.pl
 dotpay.ipocztapolska.pl
@@ -1060,7 +1041,6 @@ dragonflym.com
 dragonist.pl
 drakesdowntowngym.com
 drapart.org
-drb.pl
 dresypromocja.pl
 dresysklep.pl
 drew-ed.pl
@@ -1071,8 +1051,6 @@ drmartensbuty.pl
 drmartenspl.pl
 drmartenspolska.com
 drmartenstanio.pl
-drnona.com
-drnona.pl
 drogoweplyty.pl
 drsaritabhalerao.com
 drukarniaskarbowa.pl
@@ -1081,7 +1059,6 @@ drukmet.eu
 drukujemydlawas.pl
 drunkenboyz.za.pl
 drunt.at
-dsa.pl
 dspinner.net
 dstreet.pl
 dtmx.pl
@@ -1101,8 +1078,8 @@ dworzeconline24.site
 dworzecporwaniepl.eu
 dworzecporwaniepl.online
 dworzecporwaniepl.site
+dworzec-uprowadzenie24.eu
 dwzacisze.com.pl
-dxn2u.com
 dyskotekafantazja.pl
 dyskretnytelefon.pl
 dziadekdogramofonu.pl
@@ -1121,11 +1098,9 @@ dziennikuprowadzono.pl
 dziennik.warszawa.pl
 dzikieziemniaki.pl
 earnyourcash.net
-earthpowerint.com
 eastmostlitharges.online
 easydownload.pl
 easy-hc24.pl
-easynet.pierre-lang.com
 easypdfcombine.com
 easy-service.org
 ebd-cda.pl
@@ -1154,14 +1129,10 @@ e-childalert.site
 echo-dnia.24.eu
 eclass47.duckdns.org
 ecobutysklep.com
-eco-flow.pl
-ecoflow.pl
 ecolife-home.com.pl
 ecomotto.pl
 ecoslimmer.pro
 eco-wiert.pl
-ecoworld24.com
-ecpp.pl
 edelivery2018.pl
 edenslask.pl
 edofinansowania.eu
@@ -1175,7 +1146,6 @@ e-eporwaniedziecka.pl
 eeu.pl
 e-faktyzaginiecie24.pl
 e-filmy24.pl
-e-fohow.pl
 eforsa.pl
 egazetka24.pl
 egda.pl
@@ -1221,15 +1191,12 @@ elwirakurier.com
 emiliareichert.pl
 emmacosmetics.pl
 emobi-sys.com
-emporium-group.pl
 emptierbreak.xyz
 emuzyka-do-pobrania.pl
-e-naturessunshine.com
 endgames.pl
 endofhisrope.net
 enea-sa.pl
 energabok.pl
-energetix.com.pl
 energi-a.pl
 enigmaescape.pl
 enklaawa.pl
@@ -1265,12 +1232,10 @@ e-poszukiwania.eu
 e-poszukiwanialaury.pl
 e-poszukiwania.site
 epremki.eu
-eqology.com
 erbudokna.pl
 erepublik.com.pl
 ergjt.bxugac.live
 ergocentrum.pl
-ergopro.pl
 ericius.eu
 ermach.com.pl
 ermail.pl
@@ -1294,7 +1259,6 @@ esyfloresyonline.pl
 etamina.pl
 etilang.pl
 eu-click.eworldtrack.com
-euco.pl
 e-udanezakupy.pl
 euforiatattoo.com.pl
 eu.iconsumerstocksymbol.icu
@@ -1305,7 +1269,6 @@ eurocarsped.com
 euronicspl.net
 europacafe.pl
 europan.pl
-europartner.pl
 europaubram.pl
 europeancupkyokushin.pl
 europejskaedukacja.pl
@@ -1336,7 +1299,6 @@ e-yourmovies.pl
 eyupp.com
 ezifilm.pl
 f4u.pl
-faberlic.com
 faberville.com
 fabryka-mebli.com
 fabryka-nagrod.com
@@ -1527,7 +1489,6 @@ financial.org
 financial-times-appp.github.io
 finansedladziecka.pl
 finansoweswiry.pl
-finclub.pl
 findfiooos.xyz
 find-in.pl
 findmyiphone-id.pw
@@ -1556,7 +1517,6 @@ fizjoreha.pl
 fizjoterapia.5v.pl
 flamefolder.com
 flashplayerload.com
-flavonmax.com
 flexgum.pl
 fliteilex.com
 flixsport.co
@@ -1564,7 +1524,6 @@ florczakksiegowosc.pl
 florentynakurier.com
 flyfishsoft.pl
 flyszop.pl
-fmg.pl
 fminzynieria.pl
 focusmall-rybnik.pl
 followergods.com
@@ -1574,7 +1533,6 @@ fooledbeer.xyz
 footoografie-pobieralnia.eu
 foresightwielkopolska.pl
 forestarii.pl
-foreverliving.com
 forexyestrader.pl
 forfollow.net
 fork.juiceknee.xyz
@@ -1696,7 +1654,6 @@ gamevision.pl
 gamezmelt.com
 gaming001.site
 gangkarpiarzy.pl
-gano-excel.pl
 garazowiec.pl
 garciniacambogiaactives.pl
 gargas-gastronomia.pl
@@ -1793,7 +1750,6 @@ goclaw.com.pl
 go.data1rtb.com
 goforfun.pl
 gogameportal.com
-go.globalhealingcenter.com
 gojiberry500.pl
 gokano.com
 gokbrzezno.pl
@@ -1832,7 +1788,6 @@ grand-prise-ishere2.life
 grandridgedrive.com
 granicasportu.pl
 granit-zur.pl
-graomilion.pl
 graotron.biz
 grarpg.pl
 grasskonstancin.pl
@@ -1853,8 +1808,6 @@ grnpower.io
 gromka.host
 groteskaarabians.com.pl
 grumman.pl
-grupadsa.pl
-grupamaxi.pl
 grupoeq.com
 grupowo24.pl
 grybow24.pl
@@ -2083,7 +2036,6 @@ instantreward.site
 instrukcjapolska.pl
 instytutmed.pl
 instytut-pomocy.pl
-intelligenttechnologies.pl
 interkorp.pl
 interlingo.pl
 interneip.org
@@ -2204,7 +2156,6 @@ jquerysxur6.live
 jsauto.pl
 judokalisz.pl
 judomiedzyrzecz.pl
-juiceplus.com
 juicywin.pl
 julitakosmetyka.pl
 ju-ma.pl
@@ -2214,7 +2165,6 @@ juran.pl
 jurbywatergardens.com
 justdoit-polska.com
 justinapart.pl
-justpolska.pl
 justynaswierczynska.pl
 jutup.pl
 k4home.pl
@@ -2232,7 +2182,6 @@ kamapolska.pl
 kameesh.pl
 kamirkominki.pl
 kanapa.tv
-kancelariaae.pl
 kancelariainnowacji.pl
 kancelariakufieta.pl
 kancelarialewickich.pl
@@ -2314,7 +2263,6 @@ klasterbhp.pl
 klikasz-i-masz.com
 klikijuz.com
 klinika-kregoslupa.pl
-k-link-poland.pl
 klockidladzieci.com.pl
 kloikg.pl
 klubfiatstilo.pl
@@ -2354,7 +2302,6 @@ kometal.pl
 komorniik24.com
 komornik-gov24.com
 komornik-gov.com
-kompansmaku.pl
 kompiutery.pl
 komputerowy.net.pl
 komputery-szczytno.pl
@@ -2463,7 +2410,6 @@ kwiaty-wiosenne.pl
 kwwnaszagminanaszpowiat.pl
 kww-pspp.pl
 kww-swiadomytczew.pl
-kyani.com
 kzprojekt.pl
 labersa.com
 lacostepolska.pl
@@ -2471,7 +2417,6 @@ ladyfly.pl
 lagiewnikimodlitwazycie.pl
 lahony.pl
 lamariette.pl
-lampeberger.com.pl
 lamri.pl
 lander.pl
 laolle.com
@@ -2479,9 +2424,7 @@ larissalinhares.com.br
 laryngologia-lodz2017.pl
 las-rp.pl
 latajzkatowic.pl
-lauretta-larix.eu
 lavka.pl
-lavylites.com
 lci1a.voluumtrk.com
 lcmusic.pl
 ldrcp.pl
@@ -2518,7 +2461,6 @@ leyda.pl
 liceumjp2glowno.pl
 lifanpower.pl
 lifehackz.net
-life-star.pl
 ligaeuropejskauefa.pl
 lightcloud.pl
 lightmusic.pl
@@ -2536,7 +2478,6 @@ literaturafaktu.pl
 literatur.pl
 liversely.com
 livia-oborniki.pl
-livioon.com
 lnaff.pl
 lnfo.web-chat.eu
 lnktime.com
@@ -2583,7 +2524,6 @@ lpilogryfice.pl
 lp.macapps-centers.club
 lp.moviesearchcenter.com
 lp-wip.pl
-lrworld.com
 lsliwakancelaria.com.pl
 lubaczowcity.pl
 lubieswarzedz.pl
@@ -2663,7 +2603,6 @@ marianpankowski.pl
 marian-wasilewski.pl
 mariuszpelczarski.pl
 mariuszsopyllo.pl
-mariza.com.pl
 marketcfd.com
 marketpremium.pl
 markocars.pl
@@ -2675,7 +2614,6 @@ martens1460.pl
 martens1460.top
 martenssklep.com
 martensysklep.pl
-marykay.pl
 marzectoyoty.pl
 mas1o.pl
 masazstarogard.com.pl
@@ -2738,7 +2676,6 @@ megazakupy.net
 megolbassia.com
 mememakers.mobi
 menshealthweb.co
-mentor-cosmetics.com
 mephisto.nd.e-wro.pl
 mergedocsnow.com
 merkuryklasyka.pl
@@ -2826,7 +2763,6 @@ modeloi7nove.cf
 modi4moda.com
 modwebpro.pl
 mohacz.pl
-mojadedra.pl
 mojadietanamase.pl
 mojakopia.pl
 mojalala.com.pl
@@ -2854,7 +2790,6 @@ monthlywinners.com
 mopik.pl
 morceko.pl
 morena.in.net
-morinda.com
 mortony.cba.pl
 moschinooutlet.pl
 motifiles.com
@@ -2901,13 +2836,11 @@ muverbo.pl
 muzadomweselny.pl
 muzyczne-atelier.pl
 m-wielkopolskie.pl
-myacn.eu
 myaff.pl
 my.coolestmobi.com
 mydates.com
 mydiabetycy.pl
 mydnssbox.gleeze.com
-myduolife.com
 myeforsa.pl
 myfishday.pl
 myinvests.pl
@@ -2971,7 +2904,6 @@ naturalnazywnosc.pl
 naturalnepodlogi.cba.pl
 naturalniedobrze.pl
 naturalnirodzice.pl
-naturday.pl
 nautcoins.com
 nautili.us
 nav1002.ath.cx
@@ -2990,7 +2922,6 @@ neomedia24.net
 neomedia.in.net
 neonetmax.in.net
 neopozyczki.pl
-neospes.com
 netfilmy.pl
 netflix.apps.co.pl
 netflix-mail.info
@@ -3075,7 +3006,6 @@ novits4.com
 novumedical.pl
 nowahistoriaopolszczyzny.pl
 nowakkrzysztof.pl
-nowa.k-link-poland.pl
 nowa-oplata.net
 nowebutyad.pl
 nowebutyasics.com
@@ -3226,7 +3156,6 @@ oplaty24-kurier.com
 oplatyi.pl
 opliaty.com
 oponymagcarleszno.pl
-optidee.nl
 optimalpoland.pl
 optimal-system.pl
 optimask-pro.com
@@ -3259,7 +3188,6 @@ otodomweryfikacja.com
 otomoto.group
 outletowo.com
 outletto24.com
-ovb.pl
 overcreative.com
 owdominikana.pl
 owio.pl
@@ -3337,7 +3265,6 @@ pcib.pl
 pcmban.com
 pcspeedup.com
 pcsp.pl
-pdf.com.pl
 pdinet.pl
 pdsecurity.pl
 pedalowaniezsensem.pl
@@ -3347,7 +3274,6 @@ pensjonacikego.pl
 pensjonat-swistak.pl
 pep-egypt.com
 perch.pl
-perfect-coll.pl
 perfecturist.pl
 performancevitality.net
 performquickintenselyfile.icu
@@ -3369,13 +3295,13 @@ piachmen.pl
 pianypur.pl
 piekarnia-kleszczewscy.pl
 pieknoiuroda-fm.pl
-pierre-lang.com
 pierwszaligablog.wordpress.com
 piestv.pl
 piknikarabski.pl
 pila-dziedzictwo-2017-online.5v.pl
 pilkanozna.yolasite.com
 pilnasprawa.hekko24.pl
+pilnesprawy.h2g.pl
 pilotmovies.pl
 pimrentcar.pl
 pinapple.pl
@@ -3446,13 +3372,10 @@ pl.btc-evo.com
 pl.btcprofitnow.website
 pl.bustcream-pro.com
 pl.centrumofert.com
-pl.coral-club.com
 pl.cryptoprofit.best
 plengistat.info
 plexsound.pl
 plf.chanceto-start.info
-pl.fmworld.com
-pl.fohow.eu
 pl.fxgm.com
 pl.gamemine.com
 pl.gvgmall.com
@@ -3465,7 +3388,6 @@ plikson24.pl
 plikson.pl
 pliks.pl
 pljestnaj.pl
-pl.lider.pl
 pl.longup.co
 pllubiok.5v.pl
 pl.medicreporters.com
@@ -3481,7 +3403,6 @@ plpocztex.org
 pl.princessmask.pro
 pl.profitrevolution.best
 pl-pulsbiz.net
-pl.siberianhealth.com
 pl.slimg0ji-berry.com
 pl.superando.net
 pl.team
@@ -3490,7 +3411,6 @@ plwash.pl
 pl-wyslij.best
 pm3gliwice.pl
 pmanager.pl
-pm-international.com
 pmlingua.strefa.pl
 pmpj.pl
 pobieralnia.com.pl
@@ -3512,6 +3432,7 @@ poczta-interia.com
 poczta-interia.net
 poczta-login-neostrada.com
 poczta-pay.com
+poczta-polska247.com
 pocztapolska24.com
 poczta-polska24.eu
 poczta-polska24.net
@@ -3519,12 +3440,15 @@ pocztapolska24.net
 pocztapolska24.org
 pocztapolska48.com
 poczta-polska48.eu
+poczta-polska48.net
 pocztapolska48.net
 pocztapolska.eu
 poczta-polska.net
+poczta-polska.services
 pocztex-24.link
 pocztex-48.net
 pocztex-poland.net
+pocztex-polska24.com
 pocztexpolska24.com
 pocztexpolska.com
 pocztex-polska.eu
@@ -3551,7 +3475,6 @@ pokemon-vip.rdx.pl
 pokochajswojewlosy.pl
 pokojewkolobrzegu.com.pl
 poland.bit-revolution.world
-poland.calivita.com
 poland.fizzyslim.biz
 polandinline.com
 poland-news.pl
@@ -3559,6 +3482,7 @@ poldisc.pl
 policja24.eu
 polirajd.pl
 polish-engineer.pl
+polishwebmailadmin.weebly.com
 polluk.pl
 polmathome.pl
 polokg.com
@@ -3684,7 +3608,6 @@ prizelava.com
 prklublin.pl
 prl.genfotir.com
 prl.zerety.xyz
-pro102.pl
 probolan50.pl
 procardia.com.pl
 procars-shoppl1.com
@@ -3693,12 +3616,10 @@ proecogroup.eu
 proeventart.pl
 profa.cba.pl
 proficredit.pl
-profitechnik.pl
 profitgems.co
 profitmaximizer.co
 profitmaximum.pl
 profit-trader.net
-profittravel.pl
 profolan.pl
 programdarmowy.pl
 programyfb.blogspot.com
@@ -3725,10 +3646,8 @@ prosoccer2.dyndns.info
 prostykredyt.net
 protection-cellphone.fun
 protelfinanse.pl
-prouve.com
 provanto.pl
 proventus.com.pl
-provida.pl
 prusinska.pl
 pruszcz.cba.pl
 pruszkowmieszkania.pl
@@ -3834,7 +3753,6 @@ radiorage.com
 radiozetka.net
 radkokurier.org
 rafalo.com.pl
-rainbow.pl
 rajdwitosa.pl
 rajdysamochodowe.pl
 rakietowaliga.pl
@@ -3851,8 +3769,6 @@ rapluz.pl
 rathbone-art.com
 ratovnick.pl
 ravlw.nearbysluts.net
-raypath.eu
-raypath-international.com.pl
 razor-blade.pl
 rbaan.net
 rbffn.net
@@ -3950,7 +3866,6 @@ robertcielecki.pl
 robertlesiuk.pl
 robinpriest.co.uk
 robloxhack.pl
-roboclean-poland.com
 robotechcity.com
 rodzice-fakty24.pl
 rodzicenasali.pl
@@ -4102,7 +4017,6 @@ shoesvclub.com
 sholtem.pl
 shootop.pl
 shop.dr-rath.com
-shop.planet-tachyon.com
 shopsneakers.pl
 shop.toyhs.com
 show-auctions.pl
@@ -4159,7 +4073,6 @@ sklepnorthface.com
 skleppolo.pl
 sklepszkolen.pl
 skleptanie.pl
-skleptiande.pl
 sknrtel.com
 skomtczew.pl
 skpfalenty.pl
@@ -4242,7 +4155,6 @@ soo.sg
 sornalisokal.com
 sortier1.com
 soundshow.pl
-souvre.pl
 sp2mzc.pl
 sp4moodle.pl
 spaceforyou.cc
@@ -4250,7 +4162,6 @@ spamiarka.pl
 spamtitan.pl
 spanieisniadanie.pl
 spartakiada2014.com.pl
-spatiumdg.pl
 s-pay24.com
 spdobropole.pl
 special-news.myfreesites.net
@@ -4321,8 +4232,6 @@ stakim.org
 stalsrubiarnia.pl
 stanislawkalemba.pl
 starc.se
-starlife.eu
-star-life.pl
 starshipsanctuary.pl
 starsystem.fit
 start.favbook.net
@@ -4355,7 +4264,6 @@ stomatologia-w.lublin.lu
 stopkomornikowi.pl
 stoppodzialom.pl
 stop-sms.pl
-store.planet-tachyon.com
 stotom.pl
 stowarzyszeniesedziow.pl
 stowarzyszeniewkp.pl
@@ -4430,7 +4338,6 @@ symulator-lotow.pl
 syncgreatlyquicksystem.icu
 syndication.exdynsrv.com
 synergiareklama.pl
-synergyworldwide.com
 systemchlodzeniamglapl.com
 systemrma.pl
 system-team-online.site
@@ -4479,7 +4386,6 @@ tablicaallegro.pl
 tabxolabs.com
 tadeuszgruszka.pl
 tajonis.com
-talkfusion.com
 talksinthecity.pl
 tangozwabrzycha.pl
 taniebutyonlinesklep.pl
@@ -4530,6 +4436,7 @@ tematyczne-rozmowy.pl
 tematyczne-rozmowy-pl.eu
 tematyczne-wywiady.pl
 tematycznie.h2g.pl
+tematyczny.h2g.pl
 temporary.nsx.pl
 tengofoxfiles.com
 terazmieszkanie.pl
@@ -4569,11 +4476,6 @@ thongtindonganh.vn
 thputr.pro
 throwacupcake.com
 thule-przyczepy.pl
-tiande.pl
-tiandepolska.pl
-tiande.ru
-tiandewarszawa.pl
-tiens.pl
 tigergym.com.pl
 tilido.com
 timberlandchukka.pl
@@ -4659,7 +4561,6 @@ tumieszkamtukupuje.pl
 tunele-rozsaczajace.pl
 tunga.homedns.org
 tuniaf.com
-tupperware.pl
 turbostrategiawalutowa.pl
 turystyczne-suwalki.pl
 turystyka.cal.pl
@@ -4790,13 +4691,10 @@ vansprzecena.pl
 vanswyprzedaz.pl
 vantis-holding.com
 vapormax.pl
-vascoart.pl
-vasco-group.eu
 vcascc.eu
 vcxz.pl
 vdlbova.pl
 vectorfactory.pl
-vegascosmetics.de
 vegasoft.pl
 vegatestsklep.pl
 vegeella.pl
@@ -4807,7 +4705,6 @@ ver.braintest4you.com
 verifycaptcha.com
 versalka.pl
 veryvoga.pl
-vesda.pl
 vexacion.com
 vfastdownload.com
 vforte-pl.com
@@ -4833,7 +4730,6 @@ vision2020.pl
 visvet.pl
 vitajuice.com.pl
 vital-fit.pl
-vivenso.pl
 vivo1.eu
 vivo4.eu
 vkino.pl
@@ -4847,7 +4743,6 @@ vodplay.pl
 voldemort.pl
 volleyclub.pl
 volleypila.pl
-votum-sa.pl
 vpt58.tvnewtop.pro
 vratislavialex.pl
 vsbuty.com
@@ -4888,7 +4783,6 @@ web.yuppipuppy.com
 wedkarskaturystyka.pl
 weekendowabusola.pl
 wellstar-company.com
-wellu.eu
 wellyss.pl
 welte.pl
 wernet.pl
@@ -5072,15 +4966,10 @@ www.ace.jamba.pl
 www.ace.jamster.pl
 www.ac-feedback.com
 www.aclante.pl
-www.acneuro.pl
-www.acninc.com
 www.aconcagua2010.pl
 www.acontrario.pl
 www.activa-ks.pl
 www.activelifedvd.pl
-www.act-natural.pl
-www.act-natural-sklep.pl
-www.act.poznan.pl
 www.actraffic.com
 www.actus.org.pl
 www.aczarniecka.pl
@@ -5174,7 +5063,6 @@ www.aktualizacja-regulamin.com
 www.aktywnechwile.pl
 www.aktywnytylicz.pl
 www.akumulatorowy-raj.pl
-www.akuna.pl
 www.akwadrago.pl
 www.akzamkowy.pl
 www.alanor.pl
@@ -5238,7 +5126,6 @@ www.amadaxtreme.pl
 www.amariceo.duckdns.org
 www.ambasador-szczecin.pl
 www.amber-road.pl
-www.amc.info
 www.amhorecacommunications.pl
 www.am-med.com
 www.amonitalia.it
@@ -5296,7 +5183,6 @@ www.apps.co.pl
 www.appsdorado.com
 www.aprzypinka.pl
 www.apteka2000.pl
-www.aquacell.pl
 www.aquafit24.pl
 www.aquafit.sklep.pl
 www.aquapower.com.pl
@@ -5309,7 +5195,6 @@ www.ariix.com
 www.arkonfinance.pl
 www.armia-pana.pl
 www.armix.com.pl
-www.aromagroup.pl
 www.arrow-finance.pl
 www.artcons.pl
 www.art-fashion.pl
@@ -5451,7 +5336,6 @@ www.best-rated-offers.com
 www.best-sales.top
 www.bestselections.top
 www.bestvod.pl
-www.betterware.pl
 www.be-wild.pl
 www.beyourbest.pl
 www.bezmamy.com.pl
@@ -5538,6 +5422,7 @@ www.bok.enea-sa.pl
 www.bok.epgnig.pl
 www.bok.itauron.pl
 www.bokpgnig.pl
+www.bok-poczta.pl
 www.bokpocztapolska.pl
 www.bolek69.pl
 www.bombazakupowa.com
@@ -5647,7 +5532,6 @@ www.caffeepolit.pl
 www.cairn-westie.com.pl
 www.calcionostra.pl
 www.calistenix.pl
-www.calivita.com
 www.callisto.cba.pl
 www.cal-look.pl
 www.calodobowe-wiadomosci-pl.eu
@@ -5665,12 +5549,11 @@ www.carmenchorzow.pl
 www.carolinakurier.com
 www.carson2polska.com
 www.carvertical.com
-www.casada.pl
-www.casadasklep.pl
 www.cashbackworld.com
 www.catchfly.pl
 www.catroad.pl
 www.catsplit.com
+www.catsplit.net.pl
 www.cats.ugu.pl
 www.catzell.com
 www.cbdnewsdirect.com
@@ -5695,7 +5578,6 @@ www.cellfun.mobi
 www.cello24.net
 www.cengizguler.com.tr
 www.centrolinguisticorobert.com
-www.centrumdxn.pl
 www.centrumfantastyki.pl
 www.centrum-medycyny.pl
 www.centrummedycyny.pl
@@ -5797,12 +5679,6 @@ www.codenpic.com
 www.colex-rowery.com.pl
 www.colorking.es
 www.colors-app.blogspot.com
-www.colwayinternational.com
-www.colway-international.com.pl
-www.colway-kolagen.com
-www.colway.pl
-www.colway-sklep.com
-www.colway-sklep.eu
 www.com-gift-winner-lucky-day.vip
 www.commanods.xyz
 www.complainerscla.xyz
@@ -5842,7 +5718,6 @@ www.crediko.pl
 www.credito.com.pl
 www.credy.pl
 www.cristal2017.argo.host
-www.cristianlay.com
 www.crmwpraktyce.pl
 www.crocsdamskie.pl
 www.crocsoutletpolska.pl
@@ -5982,7 +5857,6 @@ www.djarumgol.com
 www.dketrade.top
 www.dkgraf.pl
 www.dlagier.com
-www.dlf.pl
 www.dlmyfile.com
 www.dmautoserwis.pl
 www.dmaxcctv.pl
@@ -6027,6 +5901,7 @@ www.dostawaca24.online
 www.dostawy24.com
 www.dotabet100.com
 www.dotabet103.com
+www.dotpay.bok-poczta.pl
 www.dotpay.bokpocztapolska.pl
 www.dotpay.i-pocztapolska.pl
 www.dotpay.ipocztapolska.pl
@@ -6059,7 +5934,6 @@ www.dragonflym.com
 www.dragonist.pl
 www.drakesdowntowngym.com
 www.drapart.org
-www.drb.pl
 www.dresypromocja.pl
 www.dresysklep.pl
 www.drew-ed.pl
@@ -6070,8 +5944,6 @@ www.drmartensbuty.pl
 www.drmartenspl.pl
 www.drmartenspolska.com
 www.drmartenstanio.pl
-www.drnona.com
-www.drnona.pl
 www.drogoweplyty.pl
 www.drsaritabhalerao.com
 www.drukarniaskarbowa.pl
@@ -6080,7 +5952,6 @@ www.drukmet.eu
 www.drukujemydlawas.pl
 www.drunkenboyz.za.pl
 www.drunt.at
-www.dsa.pl
 www.dspinner.net
 www.dstreet.pl
 www.dtmx.pl
@@ -6100,8 +5971,8 @@ www.dworzeconline24.site
 www.dworzecporwaniepl.eu
 www.dworzecporwaniepl.online
 www.dworzecporwaniepl.site
+www.dworzec-uprowadzenie24.eu
 www.dwzacisze.com.pl
-www.dxn2u.com
 www.dyskotekafantazja.pl
 www.dyskretnytelefon.pl
 www.dziadekdogramofonu.pl
@@ -6120,11 +5991,9 @@ www.dziennikuprowadzono.pl
 www.dziennik.warszawa.pl
 www.dzikieziemniaki.pl
 www.earnyourcash.net
-www.earthpowerint.com
 www.eastmostlitharges.online
 www.easydownload.pl
 www.easy-hc24.pl
-www.easynet.pierre-lang.com
 www.easypdfcombine.com
 www.easy-service.org
 www.ebd-cda.pl
@@ -6153,14 +6022,10 @@ www.e-childalert.site
 www.echo-dnia.24.eu
 www.eclass47.duckdns.org
 www.ecobutysklep.com
-www.eco-flow.pl
-www.ecoflow.pl
 www.ecolife-home.com.pl
 www.ecomotto.pl
 www.ecoslimmer.pro
 www.eco-wiert.pl
-www.ecoworld24.com
-www.ecpp.pl
 www.edelivery2018.pl
 www.edenslask.pl
 www.edofinansowania.eu
@@ -6174,7 +6039,6 @@ www.e-eporwaniedziecka.pl
 www.eeu.pl
 www.e-faktyzaginiecie24.pl
 www.e-filmy24.pl
-www.e-fohow.pl
 www.eforsa.pl
 www.egazetka24.pl
 www.egda.pl
@@ -6220,15 +6084,12 @@ www.elwirakurier.com
 www.emiliareichert.pl
 www.emmacosmetics.pl
 www.emobi-sys.com
-www.emporium-group.pl
 www.emptierbreak.xyz
 www.emuzyka-do-pobrania.pl
-www.e-naturessunshine.com
 www.endgames.pl
 www.endofhisrope.net
 www.enea-sa.pl
 www.energabok.pl
-www.energetix.com.pl
 www.energi-a.pl
 www.enigmaescape.pl
 www.enklaawa.pl
@@ -6264,12 +6125,10 @@ www.e-poszukiwania.eu
 www.e-poszukiwanialaury.pl
 www.e-poszukiwania.site
 www.epremki.eu
-www.eqology.com
 www.erbudokna.pl
 www.erepublik.com.pl
 www.ergjt.bxugac.live
 www.ergocentrum.pl
-www.ergopro.pl
 www.ericius.eu
 www.ermach.com.pl
 www.ermail.pl
@@ -6293,7 +6152,6 @@ www.esyfloresyonline.pl
 www.etamina.pl
 www.etilang.pl
 www.eu-click.eworldtrack.com
-www.euco.pl
 www.e-udanezakupy.pl
 www.euforiatattoo.com.pl
 www.eu.iconsumerstocksymbol.icu
@@ -6304,7 +6162,6 @@ www.eurocarsped.com
 www.euronicspl.net
 www.europacafe.pl
 www.europan.pl
-www.europartner.pl
 www.europaubram.pl
 www.europeancupkyokushin.pl
 www.europejskaedukacja.pl
@@ -6335,7 +6192,6 @@ www.e-yourmovies.pl
 www.eyupp.com
 www.ezifilm.pl
 www.f4u.pl
-www.faberlic.com
 www.faberville.com
 www.fabryka-mebli.com
 www.fabryka-nagrod.com
@@ -6526,7 +6382,6 @@ www.financial.org
 www.financial-times-appp.github.io
 www.finansedladziecka.pl
 www.finansoweswiry.pl
-www.finclub.pl
 www.findfiooos.xyz
 www.find-in.pl
 www.findmyiphone-id.pw
@@ -6555,7 +6410,6 @@ www.fizjoreha.pl
 www.fizjoterapia.5v.pl
 www.flamefolder.com
 www.flashplayerload.com
-www.flavonmax.com
 www.flexgum.pl
 www.fliteilex.com
 www.flixsport.co
@@ -6563,7 +6417,6 @@ www.florczakksiegowosc.pl
 www.florentynakurier.com
 www.flyfishsoft.pl
 www.flyszop.pl
-www.fmg.pl
 www.fminzynieria.pl
 www.focusmall-rybnik.pl
 www.followergods.com
@@ -6573,7 +6426,6 @@ www.fooledbeer.xyz
 www.footoografie-pobieralnia.eu
 www.foresightwielkopolska.pl
 www.forestarii.pl
-www.foreverliving.com
 www.forexyestrader.pl
 www.forfollow.net
 www.fork.juiceknee.xyz
@@ -6695,7 +6547,6 @@ www.gamevision.pl
 www.gamezmelt.com
 www.gaming001.site
 www.gangkarpiarzy.pl
-www.gano-excel.pl
 www.garazowiec.pl
 www.garciniacambogiaactives.pl
 www.gargas-gastronomia.pl
@@ -6792,7 +6643,6 @@ www.goclaw.com.pl
 www.go.data1rtb.com
 www.goforfun.pl
 www.gogameportal.com
-www.go.globalhealingcenter.com
 www.gojiberry500.pl
 www.gokano.com
 www.gokbrzezno.pl
@@ -6831,7 +6681,6 @@ www.grand-prise-ishere2.life
 www.grandridgedrive.com
 www.granicasportu.pl
 www.granit-zur.pl
-www.graomilion.pl
 www.graotron.biz
 www.grarpg.pl
 www.grasskonstancin.pl
@@ -6852,8 +6701,6 @@ www.grnpower.io
 www.gromka.host
 www.groteskaarabians.com.pl
 www.grumman.pl
-www.grupadsa.pl
-www.grupamaxi.pl
 www.grupoeq.com
 www.grupowo24.pl
 www.grybow24.pl
@@ -7082,7 +6929,6 @@ www.instantreward.site
 www.instrukcjapolska.pl
 www.instytutmed.pl
 www.instytut-pomocy.pl
-www.intelligenttechnologies.pl
 www.interkorp.pl
 www.interlingo.pl
 www.interneip.org
@@ -7203,7 +7049,6 @@ www.jquerysxur6.live
 www.jsauto.pl
 www.judokalisz.pl
 www.judomiedzyrzecz.pl
-www.juiceplus.com
 www.juicywin.pl
 www.julitakosmetyka.pl
 www.ju-ma.pl
@@ -7213,7 +7058,6 @@ www.juran.pl
 www.jurbywatergardens.com
 www.justdoit-polska.com
 www.justinapart.pl
-www.justpolska.pl
 www.justynaswierczynska.pl
 www.jutup.pl
 www.k4home.pl
@@ -7231,7 +7075,6 @@ www.kamapolska.pl
 www.kameesh.pl
 www.kamirkominki.pl
 www.kanapa.tv
-www.kancelariaae.pl
 www.kancelariainnowacji.pl
 www.kancelariakufieta.pl
 www.kancelarialewickich.pl
@@ -7313,7 +7156,6 @@ www.klasterbhp.pl
 www.klikasz-i-masz.com
 www.klikijuz.com
 www.klinika-kregoslupa.pl
-www.k-link-poland.pl
 www.klockidladzieci.com.pl
 www.kloikg.pl
 www.klubfiatstilo.pl
@@ -7353,7 +7195,6 @@ www.kometal.pl
 www.komorniik24.com
 www.komornik-gov24.com
 www.komornik-gov.com
-www.kompansmaku.pl
 www.kompiutery.pl
 www.komputerowy.net.pl
 www.komputery-szczytno.pl
@@ -7462,7 +7303,6 @@ www.kwiaty-wiosenne.pl
 www.kwwnaszagminanaszpowiat.pl
 www.kww-pspp.pl
 www.kww-swiadomytczew.pl
-www.kyani.com
 www.kzprojekt.pl
 www.labersa.com
 www.lacostepolska.pl
@@ -7470,7 +7310,6 @@ www.ladyfly.pl
 www.lagiewnikimodlitwazycie.pl
 www.lahony.pl
 www.lamariette.pl
-www.lampeberger.com.pl
 www.lamri.pl
 www.lander.pl
 www.laolle.com
@@ -7478,9 +7317,7 @@ www.larissalinhares.com.br
 www.laryngologia-lodz2017.pl
 www.las-rp.pl
 www.latajzkatowic.pl
-www.lauretta-larix.eu
 www.lavka.pl
-www.lavylites.com
 www.lci1a.voluumtrk.com
 www.lcmusic.pl
 www.ldrcp.pl
@@ -7517,7 +7354,6 @@ www.leyda.pl
 www.liceumjp2glowno.pl
 www.lifanpower.pl
 www.lifehackz.net
-www.life-star.pl
 www.ligaeuropejskauefa.pl
 www.lightcloud.pl
 www.lightmusic.pl
@@ -7535,7 +7371,6 @@ www.literaturafaktu.pl
 www.literatur.pl
 www.liversely.com
 www.livia-oborniki.pl
-www.livioon.com
 www.lnaff.pl
 www.lnfo.web-chat.eu
 www.lnktime.com
@@ -7582,7 +7417,6 @@ www.lpilogryfice.pl
 www.lp.macapps-centers.club
 www.lp.moviesearchcenter.com
 www.lp-wip.pl
-www.lrworld.com
 www.lsliwakancelaria.com.pl
 www.lubaczowcity.pl
 www.lubieswarzedz.pl
@@ -7662,7 +7496,6 @@ www.marianpankowski.pl
 www.marian-wasilewski.pl
 www.mariuszpelczarski.pl
 www.mariuszsopyllo.pl
-www.mariza.com.pl
 www.marketcfd.com
 www.marketpremium.pl
 www.markocars.pl
@@ -7674,7 +7507,6 @@ www.martens1460.pl
 www.martens1460.top
 www.martenssklep.com
 www.martensysklep.pl
-www.marykay.pl
 www.marzectoyoty.pl
 www.mas1o.pl
 www.masazstarogard.com.pl
@@ -7737,7 +7569,6 @@ www.megazakupy.net
 www.megolbassia.com
 www.mememakers.mobi
 www.menshealthweb.co
-www.mentor-cosmetics.com
 www.mephisto.nd.e-wro.pl
 www.mergedocsnow.com
 www.merkuryklasyka.pl
@@ -7825,7 +7656,6 @@ www.modeloi7nove.cf
 www.modi4moda.com
 www.modwebpro.pl
 www.mohacz.pl
-www.mojadedra.pl
 www.mojadietanamase.pl
 www.mojakopia.pl
 www.mojalala.com.pl
@@ -7853,7 +7683,6 @@ www.monthlywinners.com
 www.mopik.pl
 www.morceko.pl
 www.morena.in.net
-www.morinda.com
 www.mortony.cba.pl
 www.moschinooutlet.pl
 www.motifiles.com
@@ -7900,13 +7729,11 @@ www.muverbo.pl
 www.muzadomweselny.pl
 www.muzyczne-atelier.pl
 www.m-wielkopolskie.pl
-www.myacn.eu
 www.myaff.pl
 www.my.coolestmobi.com
 www.mydates.com
 www.mydiabetycy.pl
 www.mydnssbox.gleeze.com
-www.myduolife.com
 www.myeforsa.pl
 www.myfishday.pl
 www.myinvests.pl
@@ -7970,7 +7797,6 @@ www.naturalnazywnosc.pl
 www.naturalnepodlogi.cba.pl
 www.naturalniedobrze.pl
 www.naturalnirodzice.pl
-www.naturday.pl
 www.nautcoins.com
 www.nautili.us
 www.nav1002.ath.cx
@@ -7989,7 +7815,6 @@ www.neomedia24.net
 www.neomedia.in.net
 www.neonetmax.in.net
 www.neopozyczki.pl
-www.neospes.com
 www.netfilmy.pl
 www.netflix.apps.co.pl
 www.netflix-mail.info
@@ -8074,7 +7899,6 @@ www.novits4.com
 www.novumedical.pl
 www.nowahistoriaopolszczyzny.pl
 www.nowakkrzysztof.pl
-www.nowa.k-link-poland.pl
 www.nowa-oplata.net
 www.nowebutyad.pl
 www.nowebutyasics.com
@@ -8225,7 +8049,6 @@ www.oplaty24-kurier.com
 www.oplatyi.pl
 www.opliaty.com
 www.oponymagcarleszno.pl
-www.optidee.nl
 www.optimalpoland.pl
 www.optimal-system.pl
 www.optimask-pro.com
@@ -8258,7 +8081,6 @@ www.otodomweryfikacja.com
 www.otomoto.group
 www.outletowo.com
 www.outletto24.com
-www.ovb.pl
 www.overcreative.com
 www.owdominikana.pl
 www.owio.pl
@@ -8337,7 +8159,6 @@ www.pcib.pl
 www.pcmban.com
 www.pcspeedup.com
 www.pcsp.pl
-www.pdf.com.pl
 www.pdinet.pl
 www.pdsecurity.pl
 www.pedalowaniezsensem.pl
@@ -8347,7 +8168,6 @@ www.pensjonacikego.pl
 www.pensjonat-swistak.pl
 www.pep-egypt.com
 www.perch.pl
-www.perfect-coll.pl
 www.perfecturist.pl
 www.performancevitality.net
 www.performquickintenselyfile.icu
@@ -8369,13 +8189,13 @@ www.piachmen.pl
 www.pianypur.pl
 www.piekarnia-kleszczewscy.pl
 www.pieknoiuroda-fm.pl
-www.pierre-lang.com
 www.pierwszaligablog.wordpress.com
 www.piestv.pl
 www.piknikarabski.pl
 www.pila-dziedzictwo-2017-online.5v.pl
 www.pilkanozna.yolasite.com
 www.pilnasprawa.hekko24.pl
+www.pilnesprawy.h2g.pl
 www.pilotmovies.pl
 www.pimrentcar.pl
 www.pinapple.pl
@@ -8458,7 +8278,6 @@ www.plwash.pl
 www.pl-wyslij.best
 www.pm3gliwice.pl
 www.pmanager.pl
-www.pm-international.com
 www.pmlingua.strefa.pl
 www.pmpj.pl
 www.pobieralnia.com.pl
@@ -8480,6 +8299,7 @@ www.poczta-interia.com
 www.poczta-interia.net
 www.poczta-login-neostrada.com
 www.poczta-pay.com
+www.poczta-polska247.com
 www.pocztapolska24.com
 www.poczta-polska24.eu
 www.poczta-polska24.net
@@ -8487,12 +8307,15 @@ www.pocztapolska24.net
 www.pocztapolska24.org
 www.pocztapolska48.com
 www.poczta-polska48.eu
+www.poczta-polska48.net
 www.pocztapolska48.net
 www.pocztapolska.eu
 www.poczta-polska.net
+www.poczta-polska.services
 www.pocztex-24.link
 www.pocztex-48.net
 www.pocztex-poland.net
+www.pocztex-polska24.com
 www.pocztexpolska24.com
 www.pocztexpolska.com
 www.pocztex-polska.eu
@@ -8519,7 +8342,6 @@ www.pokemon-vip.rdx.pl
 www.pokochajswojewlosy.pl
 www.pokojewkolobrzegu.com.pl
 www.poland.bit-revolution.world
-www.poland.calivita.com
 www.poland.fizzyslim.biz
 www.polandinline.com
 www.poland-news.pl
@@ -8527,6 +8349,7 @@ www.poldisc.pl
 www.policja24.eu
 www.polirajd.pl
 www.polish-engineer.pl
+www.polishwebmailadmin.weebly.com
 www.polluk.pl
 www.polmathome.pl
 www.polokg.com
@@ -8652,7 +8475,6 @@ www.prizelava.com
 www.prklublin.pl
 www.prl.genfotir.com
 www.prl.zerety.xyz
-www.pro102.pl
 www.probolan50.pl
 www.procardia.com.pl
 www.procars-shoppl1.com
@@ -8661,12 +8483,10 @@ www.proecogroup.eu
 www.proeventart.pl
 www.profa.cba.pl
 www.proficredit.pl
-www.profitechnik.pl
 www.profitgems.co
 www.profitmaximizer.co
 www.profitmaximum.pl
 www.profit-trader.net
-www.profittravel.pl
 www.profolan.pl
 www.programdarmowy.pl
 www.programyfb.blogspot.com
@@ -8693,10 +8513,8 @@ www.prosoccer2.dyndns.info
 www.prostykredyt.net
 www.protection-cellphone.fun
 www.protelfinanse.pl
-www.prouve.com
 www.provanto.pl
 www.proventus.com.pl
-www.provida.pl
 www.prusinska.pl
 www.pruszcz.cba.pl
 www.pruszkowmieszkania.pl
@@ -8802,7 +8620,6 @@ www.radiorage.com
 www.radiozetka.net
 www.radkokurier.org
 www.rafalo.com.pl
-www.rainbow.pl
 www.rajdwitosa.pl
 www.rajdysamochodowe.pl
 www.rakietowaliga.pl
@@ -8819,8 +8636,6 @@ www.rapluz.pl
 www.rathbone-art.com
 www.ratovnick.pl
 www.ravlw.nearbysluts.net
-www.raypath.eu
-www.raypath-international.com.pl
 www.razor-blade.pl
 www.rbaan.net
 www.rbffn.net
@@ -8918,7 +8733,6 @@ www.robertcielecki.pl
 www.robertlesiuk.pl
 www.robinpriest.co.uk
 www.robloxhack.pl
-www.roboclean-poland.com
 www.robotechcity.com
 www.rodzice-fakty24.pl
 www.rodzicenasali.pl
@@ -9070,7 +8884,6 @@ www.shoesvclub.com
 www.sholtem.pl
 www.shootop.pl
 www.shop.dr-rath.com
-www.shop.planet-tachyon.com
 www.shopsneakers.pl
 www.shop.toyhs.com
 www.show-auctions.pl
@@ -9127,7 +8940,6 @@ www.sklepnorthface.com
 www.skleppolo.pl
 www.sklepszkolen.pl
 www.skleptanie.pl
-www.skleptiande.pl
 www.sknrtel.com
 www.skomtczew.pl
 www.skpfalenty.pl
@@ -9210,7 +9022,6 @@ www.soo.sg
 www.sornalisokal.com
 www.sortier1.com
 www.soundshow.pl
-www.souvre.pl
 www.sp2mzc.pl
 www.sp4moodle.pl
 www.spaceforyou.cc
@@ -9218,7 +9029,6 @@ www.spamiarka.pl
 www.spamtitan.pl
 www.spanieisniadanie.pl
 www.spartakiada2014.com.pl
-www.spatiumdg.pl
 www.s-pay24.com
 www.spdobropole.pl
 www.special-news.myfreesites.net
@@ -9289,8 +9099,6 @@ www.stakim.org
 www.stalsrubiarnia.pl
 www.stanislawkalemba.pl
 www.starc.se
-www.starlife.eu
-www.star-life.pl
 www.starshipsanctuary.pl
 www.starsystem.fit
 www.start.favbook.net
@@ -9323,7 +9131,6 @@ www.stomatologia-w.lublin.lu
 www.stopkomornikowi.pl
 www.stoppodzialom.pl
 www.stop-sms.pl
-www.store.planet-tachyon.com
 www.stotom.pl
 www.stowarzyszeniesedziow.pl
 www.stowarzyszeniewkp.pl
@@ -9398,7 +9205,6 @@ www.symulator-lotow.pl
 www.syncgreatlyquicksystem.icu
 www.syndication.exdynsrv.com
 www.synergiareklama.pl
-www.synergyworldwide.com
 www.systemchlodzeniamglapl.com
 www.systemrma.pl
 www.system-team-online.site
@@ -9447,7 +9253,6 @@ www.tablicaallegro.pl
 www.tabxolabs.com
 www.tadeuszgruszka.pl
 www.tajonis.com
-www.talkfusion.com
 www.talksinthecity.pl
 www.tangozwabrzycha.pl
 www.taniebutyonlinesklep.pl
@@ -9498,6 +9303,7 @@ www.tematyczne-rozmowy.pl
 www.tematyczne-rozmowy-pl.eu
 www.tematyczne-wywiady.pl
 www.tematycznie.h2g.pl
+www.tematyczny.h2g.pl
 www.temporary.nsx.pl
 www.tengofoxfiles.com
 www.terazmieszkanie.pl
@@ -9537,11 +9343,6 @@ www.thongtindonganh.vn
 www.thputr.pro
 www.throwacupcake.com
 www.thule-przyczepy.pl
-www.tiande.pl
-www.tiandepolska.pl
-www.tiande.ru
-www.tiandewarszawa.pl
-www.tiens.pl
 www.tigergym.com.pl
 www.tilido.com
 www.timberlandchukka.pl
@@ -9627,7 +9428,6 @@ www.tumieszkamtukupuje.pl
 www.tunele-rozsaczajace.pl
 www.tunga.homedns.org
 www.tuniaf.com
-www.tupperware.pl
 www.turbostrategiawalutowa.pl
 www.turystyczne-suwalki.pl
 www.turystyka.cal.pl
@@ -9758,13 +9558,10 @@ www.vansprzecena.pl
 www.vanswyprzedaz.pl
 www.vantis-holding.com
 www.vapormax.pl
-www.vascoart.pl
-www.vasco-group.eu
 www.vcascc.eu
 www.vcxz.pl
 www.vdlbova.pl
 www.vectorfactory.pl
-www.vegascosmetics.de
 www.vegasoft.pl
 www.vegatestsklep.pl
 www.vegeella.pl
@@ -9775,7 +9572,6 @@ www.ver.braintest4you.com
 www.verifycaptcha.com
 www.versalka.pl
 www.veryvoga.pl
-www.vesda.pl
 www.vexacion.com
 www.vfastdownload.com
 www.vforte-pl.com
@@ -9801,7 +9597,6 @@ www.vision2020.pl
 www.visvet.pl
 www.vitajuice.com.pl
 www.vital-fit.pl
-www.vivenso.pl
 www.vivo1.eu
 www.vivo4.eu
 www.vkino.pl
@@ -9815,7 +9610,6 @@ www.vodplay.pl
 www.voldemort.pl
 www.volleyclub.pl
 www.volleypila.pl
-www.votum-sa.pl
 www.vpt58.tvnewtop.pro
 www.vratislavialex.pl
 www.vsbuty.com
@@ -9856,7 +9650,6 @@ www.web.yuppipuppy.com
 www.wedkarskaturystyka.pl
 www.weekendowabusola.pl
 www.wellstar-company.com
-www.wellu.eu
 www.wellyss.pl
 www.welte.pl
 www.wernet.pl
@@ -10136,7 +9929,6 @@ www.zielonewariacje.pl
 www.zielonydizajn.pl
 www.ziemianyska.pl
 www.zimnewody.pl
-www.zinzino.com
 www.ziololecznictwo.pl
 www.zjednoczonekrolestwo.pl
 www.zkotami.pl
@@ -10354,7 +10146,6 @@ zielonewariacje.pl
 zielonydizajn.pl
 ziemianyska.pl
 zimnewody.pl
-zinzino.com
 ziololecznictwo.pl
 zjednoczonekrolestwo.pl
 zkotami.pl
