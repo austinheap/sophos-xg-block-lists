@@ -878,6 +878,7 @@ affiliate.gamestop.com
 affiliate.mercola.com
 affiliate.mogs.com
 affiliate.offgamers.com
+affiliate.rusvpn.com
 affiliates.allposters.com
 affiliates.babylon.com
 affiliates.digitalriver.com
