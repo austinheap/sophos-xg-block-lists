@@ -21,6 +21,8 @@
 aata.ero-advertising.com
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
+acalvet.com
+acbras.com
 accountsx.bounceme.net
 acdn.adnxs.com
 acrdb.alphonso.tv
@@ -181,6 +183,8 @@ apps.id.net
 app.storage.yunvm.com
 ap-sonar.sociomantic.com
 arcartall.club
+arjoflor.com
+arjoflos.com
 arkonziv.com
 armantark.com
 as54rdxfzxs.appspot.com
@@ -213,6 +217,8 @@ bavners2.ero-advertising.com
 beacon.statful.com
 beap-bc.yahoo.com
 beauty-tea.com
+bergadimspower.com
+berkesteermaster.com
 best2019-games-web4.com
 betpromo247.com
 bi-collector.oneapm.com
@@ -278,6 +284,7 @@ com-fasting.live
 com-notice.info
 console.rtk.io
 consumerproductsusa.com
+contatoonline1.com
 convhkmp.taboola.com
 convlatbmp.taboola.com
 corp-github.com
@@ -361,6 +368,7 @@ events.startappservice.com
 exchange.face2trade.com
 external.stealthedeal.com
 ext.privacyassistant.net
+famartil.com
 fanners.ero-advertising.com
 fata.ero-advertising.com
 faymobi.com
@@ -535,6 +543,7 @@ mediabarterexchange.com
 media.complex.com
 mediadirectx.com
 media.rtk.io
+Megasena1.duckdns.org
 messaging.insurads.com
 metric.onlinefonts.kz
 metrics.adage.com
@@ -578,6 +587,8 @@ notification-browser.tools
 ns.zdbb.net
 nyc.thor.rtk.io
 oata.ero-advertising.com
+oawyr.com
+oawyri.com
 odaiw3dda.bestnewsworld.info
 oi8ytfzxa.appspot.com
 onlineapi.youappi.com
@@ -593,6 +604,7 @@ ovc2-ustokyyneikyfasnm.stackpathdns.com
 pagepeel.ero-advertising.com
 pakistanelevators.pk
 parentelement.tk
+parnerimcarpich.com
 pata.ero-advertising.com
 perf.mmstat.com
 pf4y2a54hx.com
@@ -633,6 +645,7 @@ pull-3045.kxcdn.com
 pushedwebnews.com
 pussysaga.com
 puzzle-recomd.zenkube.com
+qpfhd.com
 queensiteforapp.com
 quickcash-system.com
 quickmessage.us
@@ -643,6 +656,7 @@ register.appsflyer.com
 report.hb.brainlyads.com
 req.startappservice.com
 rereddit.com
+rjmwqf.com
 roboinside.me
 robux.dev
 rollbar.com
@@ -651,6 +665,7 @@ rotator.beginads.com
 rotator.buzzclicks.com
 rs2.ero-advertising.com
 rs.ero-advertising.com
+rstmir.com
 rt.applovin.com
 rtb-adsterra.flshtrk.store
 rtbdev4.alphonso.tv
@@ -681,6 +696,7 @@ service.face2trade.com
 services.bilsyndication.com
 services.insurads.com
 service.videoplaza.tv
+servicosfcporto.com
 serviziopostale.site
 sex-and-flirt.com
 sfo.thor.rtk.io
@@ -688,6 +704,7 @@ sg.mmstat.com
 sgp.o2o.api.xiaomi.com
 sin.ero-advertising.com
 sionicmedia.com
+sirdexs.com
 sitecdn.tvpage.com
 skype-online0345.web.app
 slack-app.net
