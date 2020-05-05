@@ -1034,6 +1034,7 @@ c.adroll.com
 calculatorstatement.com
 callisto.fm
 callmeasurement.com
+callousbrake.com
 callrail.com
 callreports.com
 call-tracking.by
@@ -2538,6 +2539,7 @@ geoip.viamichelin.com
 geojs.io
 geo.kontagent.net
 geolid.com
+geolocation-db.com
 geo.metronews.ca
 geo.mezr.com
 geo.mtvnn.com
@@ -2586,6 +2588,7 @@ glasgowtimes-gb.glasgowtimes.co.uk
 glassmoni.researchgate.net
 glbdns.microsoft.com
 glbtracker.com
+glisteningguide.com
 globalviptraffic.com
 globalwebindex.net
 globase.com
@@ -4309,6 +4312,7 @@ projop.dnsalias.com
 promotionengine.com
 proofpoint.com
 proofpositivemedia.com
+propeller-tracking.com
 prophet.heise.de
 props.id
 prospecteye.com
