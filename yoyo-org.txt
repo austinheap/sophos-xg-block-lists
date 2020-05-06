@@ -1681,6 +1681,8 @@ fqtag.com
 frailoffer.com
 freebanner.com
 free-banners.com
+free-counter.co.uk
+free-counters.co.uk
 freecounterstat.com
 freelogs.com
 freemaineads.com
@@ -2654,6 +2656,7 @@ rle.ru
 r.logrocket.io
 rmads.msn.com
 rmedia.boston.com
+r.msn.com
 roar.com
 robotreplay.com
 rockabox.co

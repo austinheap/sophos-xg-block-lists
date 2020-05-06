@@ -240,6 +240,7 @@
 3056.engine.mobileapptracking.com
 30572.api.swrve.com
 30572.content.swrve.com
+30572.identity.swrve.com
 30575.api.swrve.com
 30576.api.swrve.com
 30576.content.swrve.com
@@ -623,8 +624,10 @@ a2dfp.net
 a2pub.com
 a3.chartboost.com
 a50.g2.akamai.net
+a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 a8.net
 a9.com
+aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com
 aa7bd76554cff2d93d33288d31aa6839.api.appsee.com
 aa.adfarm1.adition.com
 a.adgear.com
@@ -641,14 +644,19 @@ a.adtng.com
 aajtak.pushwoosh.com
 aalb.de17a.com
 a.algovid.com
+aan.amazon.com
 aan.cdn.speedshiftmedia.com
 aan.speedshiftmedia.com
+aa.online-metrix.net
 a.api.ad-locus.com
 a.appbaqend.com
 a.applovin.com
 a.applvn.com
 aarki.com
+aax.amazon-adsystem.com
+aax-us.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
+aax-us-iad.amazon.com
 a.baidu.com
 ab.airpush.com
 abandonment3.saas.seewhy.com
@@ -1586,6 +1594,7 @@ adx.callback.batmobi.net
 adx-dot.a.mobimagic.com
 adx-east-bidder.manage.com
 adx-eu-bidder.manage.com
+adx.g.doubleclick.net
 ad.ximalaya.com
 adx.kul.vn
 adxlog.vivo.com.cn
@@ -1884,10 +1893,12 @@ analytics.htmedia.in
 analytics.icons8.com
 analytics.ihbsoft.com
 analytics-ingest.creative-mobile.com
+analytics-ingestion.production-public.tubi.io
 analytics-ingestion.staging-public.tubi.io
 analytics.in-tend.co.uk
 analytics-iwtg-ten.yinzcam.com
 analytics.jabong.com
+analytics.jumboprivacy.com
 analytics.kaltura.com
 analytics.kingoapp.com
 analytics.kongregate.io
@@ -2072,6 +2083,7 @@ api2.batmobi.net
 api2.bounceexchange.com
 api2.branch.io
 api2.chartbeat.com
+api2.okanjo.com
 api2.poperblocker.com
 api2.restartad.com
 api3.siftscience.com
@@ -2865,7 +2877,9 @@ atracking-use.appflood.com
 atr.adsmovil.com
 atrk.alexametrics.com
 atti.com
+att.productmadness.com
 attr.appsflyer.com
+att.sc.omtrdc.net
 at.umeng.com
 aucollector.tealeaf.ibmcloud.com
 auction.unityads.unity3d.com
@@ -3556,6 +3570,7 @@ cdn.coinad.com
 cdn.comedia.coccoc.com
 cdn.concert.io
 cdn-config.taplytics.com
+cdn.cookielaw.org
 cdn.creative.medialytics.com
 cdn-creatives-highwinds-prd.unityads.unity3d.com
 cdn.crwdcntrl.net
@@ -3644,6 +3659,7 @@ cdn-o7.outfit7.com
 cdn.oas-c18.adnxs.com
 cdn.oas-eu1.adnxs.com
 cdno.ayads.co
+cdn.okanjo.com
 cdn.onscroll.com
 cdn.onthe.io
 cdn.optimizely.com
@@ -4262,6 +4278,7 @@ convnjmp.taboola.com
 convsgmp.taboola.com
 cookieads.fuse-ad.com
 cookie.brealtime.com
+cookies.onetrust.mgr.consensu.org
 cookie.sync.ad.cpe.dotomi.com
 cookiesync.mparticle.com
 cookiesync.vertamedia.com
@@ -5430,6 +5447,7 @@ fetch.yourblocksite.com
 fexclick.baidu.com
 ffcdn3.featureforward.com
 ffcdn4.featureforward.com
+ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 fidelity-media.com
 fidelity-media-ssp.rtb.adx1.com
 fi-gmtdmp.mookie1.com
@@ -5453,6 +5471,7 @@ fimc.net
 findep.adnow.com
 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 finlogs.joyeggs.com
+firebase-settings.crashlytics.com
 firstimpression.io
 first.iovation.com
 fizzylabs.afftrack.com
@@ -5665,6 +5684,7 @@ geoip.ifunny.co
 geoip.propellerads.com
 geo.ipromote.com
 geo-locate.appspot.com
+geolocation.onetrust.com
 geo.moatads.com
 geo.opt8.co
 geoplugin.net
@@ -5715,6 +5735,7 @@ glb-ads.legacy.adtechus.com
 glb-ads.nejm.adtechus.com
 glbgcl.logsss.com
 glbg.logsss.com
+glimmer.hearstapps.com
 glispa.com
 globadmedia.com
 globaladmedia.com
@@ -5882,6 +5903,7 @@ haaretz.pushwoosh.com
 ha-askfm.pushwoosh.com
 hadarone.com
 hades.getsocial.im
+hail-reporting.tutelatechnologies.com
 halc.iadvize.com
 hao123.com.com
 hao123union.baidu.com
@@ -5953,6 +5975,7 @@ hometalk-d.openx.net
 homevideo.b2c.com
 home.wpm.neustar.biz
 homify.com.mx
+h.online-metrix.net
 hook.integromat.com
 hooks.punchh.com
 h.openx.net
@@ -6123,6 +6146,7 @@ i.cdn.openx.com
 i-cdn.servedbyopenx.com
 ichannel.isnssdk.com
 ichannel-tb.isnssdk.com
+i.clean.gg
 i.clickagy.com
 iclick.cm.admaster.com.cn
 iclickyou.com
@@ -6367,6 +6391,7 @@ index-winners-us-west-2-rtb.adroll.com
 indus.iad-01.braze.com
 inferna.iad-03.braze.com
 infinite-mobility.g2afse.com
+infinity-c4.youboranqs01.com
 influencers.tapinfluence.com
 info.adacado.com
 info.adspruce.com
@@ -6687,6 +6712,8 @@ kimia.es
 kinesisanalytics.eu-central-1.amazonaws.com
 kinesisanalytics.eu-west-1.amazonaws.com
 kinesis.us-east-1.amazonaws.com
+king-candycrush-prod.secure2.footprint.net
+king-contenido-prod.secure2.footprint.net
 kiosked.com
 kissmyads.go2jump.org
 kits.crashlytics.com
@@ -7346,6 +7373,7 @@ metrics.fidelity.com.edgekey.net
 metrics.gcimetrics.com
 metrics.hackerrank.com.edgekey.net
 metrics.impactengine.com
+metrics-logger.spot.im
 metrics.macys.net
 metrics.m.ambientplatform.vn
 metrics.roblox.com
@@ -7514,6 +7542,7 @@ mobile-global.baidu.com
 mobile.ib.sin1.geoadnxs.com
 mobileiosapi.punchh.com
 mobile.itsbetter.com
+mobile.launchdarkly.com
 mobile-log.cmtelematics.com
 mobile-log-dgig.cmtelematics.com
 mobilelog.upqzfile.com
@@ -8370,6 +8399,7 @@ pgpl.g5e.com
 pg.xdrig.com
 ph5t.adups.com
 phabricator.leanplum.com
+phar.gu-web.net
 phawk.parrable.com
 ph-gmtdmp.mookie1.com
 p.hiimps.com
@@ -8422,6 +8452,7 @@ pixel.carambo.la
 pixel.cdnwidget.com
 pixel.digitru.st
 pixel-eu.rubiconproject.com
+pixel.facebook.com
 pixelg.adswizz.com
 pixelg.ec2eu.adswizz.com
 pixelglobal.sojern.com
@@ -8896,6 +8927,7 @@ rarenok.biz
 rasmas.inmar.com
 rastaban.iad-03.braze.com
 ratkoqa.midasplayer.com
+rawtelemetry-west.servicebus.windows.net
 rayjump.com
 rb.adnxs.com
 rbc.medialand.ru
@@ -9973,6 +10005,7 @@ sm-campaign.s3-us-west-2.amazonaws.com
 sm.domobcdn.com
 smetrics1.experian.com
 smetrics.aa.com
+smetrics.att.com
 smetrics.bestbuy.com
 smetrics.boston.com
 smetrics.chrysler.com
@@ -10125,6 +10158,7 @@ ssdk.adkmob.com
 s.servedby-buysellads.com
 s.sharethis.com
 sshowads.pubmatic.com
+s.skimresources.com
 ssl.ad.dotandad.com
 ssl-avd.innity.net
 sslcdn.adstudiomobile.com
@@ -10665,6 +10699,7 @@ tag.placelocal.com
 tag.researchnow.com
 tag.retargeter.com
 tag.rutarget.ru
+tags.acmeaom.com
 tags.adriver.ru
 tags.adsafety.net
 tags.affiliatefuture.com
@@ -10923,6 +10958,7 @@ tools.3g.qq.com
 tools.mgid.com
 tools.pubmatic.com
 top20.com
+topapps-func.pinsightmedia.com
 topblock.lentainform.com
 topblogarea.se
 topix-d.openx.net
