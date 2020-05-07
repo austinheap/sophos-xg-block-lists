@@ -21,6 +21,7 @@
 24ekspres.online
 24fakty-sniadaniowe.pl
 24leasing.com.pl
+24lite.eu
 24platnosci.online
 24-sklep.pl
 2automatyczny-dozownik-mydla-pl.com
@@ -994,6 +995,7 @@ dostawy24.com
 dotabet100.com
 dotabet103.com
 dotpay.bok-poczta.pl
+dotpay.i-dpd.pl
 dotpay.idpd.pl
 dotpay.ipocztapolska.pl
 dotpay.pocztapolska48.com
@@ -1171,6 +1173,8 @@ elvox.pl
 elwirakurier.com
 emiliareichert.pl
 emobi-sys.com
+emonitoring-poczta-polska.eu
+emonitoring-pocztapolska.net
 emptierbreak.xyz
 emuzyka-do-pobrania.pl
 endgames.pl
@@ -1206,6 +1210,7 @@ e-podatek.net
 e-poszukiwania.eu
 e-poszukiwania.site
 epremki.eu
+e-przesylki.com
 erbudokna.pl
 erepublik.com.pl
 ergjt.bxugac.live
@@ -1630,6 +1635,7 @@ gaudiatrzebnica.pl
 gawaher-services.com
 gayfakt.pl
 gayza.net
+gazetabracka.eu
 gazetainfo24tv.hekko24.pl
 gazetainfo.hekko24.pl
 gazetalublin.pl
@@ -1640,6 +1646,8 @@ gazeta.pl.com.bz
 gazeta-polska.24.eu
 gazetkawarszawa.eu
 gazetkawarszawa.pl
+gazetowo.eu
+gazetowo.pl
 gazo-progress.com.pl
 gbtitansrfc.com
 gce-mennica.pl
@@ -1918,7 +1926,9 @@ idealnafigura.com
 ideatur.pl
 ideazespolufilmowego.pl
 idgarin.com
+i-dpd.pl
 idpd.pl
+ifaktygwalt.eu
 i-films.pl
 i-filmy.pl
 iglesia.pl
@@ -1957,6 +1967,7 @@ infomiasto.hekko24.pl
 infonews24.com.pl
 info.poczta-interia.net
 info-polska.24.eu
+info-polska.24lite.eu
 infoporwanie.hekko24.pl
 informacja-dnia.com
 informacje24fakt.pusiaweb.com
@@ -3392,6 +3403,7 @@ poczta-polska24.eu
 poczta-polska24.net
 pocztapolska24.net
 pocztapolska24.org
+pocztapolska24.pl
 pocztapolska48.com
 poczta-polska48.eu
 poczta-polska48.net
@@ -3938,6 +3950,7 @@ server730889.nazwa.pl
 servicecheck5.wixsite.com
 service-pay.company
 serwer2045220.home.pl
+serwer2079025.home.pl
 serwer2081930.home.pl
 serwis-ab.com.pl
 serwisagd-waw.pl
@@ -4391,6 +4404,7 @@ temporary.nsx.pl
 tengofoxfiles.com
 terazmieszkanie.pl
 terazty24.eu
+terminator3000.ct8.pl
 terminatorzy.cba.pl
 termstal.cba.pl
 terravi4.com
@@ -4863,6 +4877,7 @@ www.24-biznes.eu
 www.24ekspres.online
 www.24fakty-sniadaniowe.pl
 www.24leasing.com.pl
+www.24lite.eu
 www.24platnosci.online
 www.24-sklep.pl
 www.2automatyczny-dozownik-mydla-pl.com
@@ -5838,6 +5853,7 @@ www.dostawy24.com
 www.dotabet100.com
 www.dotabet103.com
 www.dotpay.bok-poczta.pl
+www.dotpay.i-dpd.pl
 www.dotpay.idpd.pl
 www.dotpay.ipocztapolska.pl
 www.dotpay.pocztapolska48.com
@@ -6015,6 +6031,8 @@ www.elvox.pl
 www.elwirakurier.com
 www.emiliareichert.pl
 www.emobi-sys.com
+www.emonitoring-poczta-polska.eu
+www.emonitoring-pocztapolska.net
 www.emptierbreak.xyz
 www.emuzyka-do-pobrania.pl
 www.endgames.pl
@@ -6050,6 +6068,7 @@ www.e-podatek.net
 www.e-poszukiwania.eu
 www.e-poszukiwania.site
 www.epremki.eu
+www.e-przesylki.com
 www.erbudokna.pl
 www.erepublik.com.pl
 www.ergjt.bxugac.live
@@ -6474,6 +6493,7 @@ www.gaudiatrzebnica.pl
 www.gawaher-services.com
 www.gayfakt.pl
 www.gayza.net
+www.gazetabracka.eu
 www.gazetainfo24tv.hekko24.pl
 www.gazetainfo.hekko24.pl
 www.gazetalublin.pl
@@ -6484,6 +6504,8 @@ www.gazeta.pl.com.bz
 www.gazeta-polska.24.eu
 www.gazetkawarszawa.eu
 www.gazetkawarszawa.pl
+www.gazetowo.eu
+www.gazetowo.pl
 www.gazo-progress.com.pl
 www.gbtitansrfc.com
 www.gce-mennica.pl
@@ -6762,7 +6784,9 @@ www.idealnafigura.com
 www.ideatur.pl
 www.ideazespolufilmowego.pl
 www.idgarin.com
+www.i-dpd.pl
 www.idpd.pl
+www.ifaktygwalt.eu
 www.i-films.pl
 www.i-filmy.pl
 www.iglesia.pl
@@ -6801,6 +6825,7 @@ www.infomiasto.hekko24.pl
 www.infonews24.com.pl
 www.info.poczta-interia.net
 www.info-polska.24.eu
+www.info-polska.24lite.eu
 www.infoporwanie.hekko24.pl
 www.informacja-dnia.com
 www.informacje24fakt.pusiaweb.com
@@ -8210,6 +8235,7 @@ www.poczta-polska24.eu
 www.poczta-polska24.net
 www.pocztapolska24.net
 www.pocztapolska24.org
+www.pocztapolska24.pl
 www.pocztapolska48.com
 www.poczta-polska48.eu
 www.poczta-polska48.net
@@ -8756,6 +8782,7 @@ www.server730889.nazwa.pl
 www.servicecheck5.wixsite.com
 www.service-pay.company
 www.serwer2045220.home.pl
+www.serwer2079025.home.pl
 www.serwer2081930.home.pl
 www.serwis-ab.com.pl
 www.serwisagd-waw.pl
@@ -9209,6 +9236,7 @@ www.temporary.nsx.pl
 www.tengofoxfiles.com
 www.terazmieszkanie.pl
 www.terazty24.eu
+www.terminator3000.ct8.pl
 www.terminatorzy.cba.pl
 www.termstal.cba.pl
 www.terravi4.com
@@ -9715,6 +9743,8 @@ www.xn--onetgwat-dpb.pl
 www.xn--onetgwat-dpb.waw.pl
 www.xn--pandorabiuteria-qkd.pl
 www.xn--pasaer-spb.pl
+www.xn--polskagwat24-lcc.eu
+www.xn--polskagwat24-lcc.waw.pl
 www.xn--poyczaj-xwb.online.pl
 www.xoreha84.bid
 www.xzegarsmiercix.prv.pl
@@ -9746,6 +9776,7 @@ www.zabiczyn.pl
 www.zagiel-przeciwsloneczny-pl.com
 www.zaginienifaktty.098.pl
 www.zaglebiefanatykow.pl
+www.zaglosuj-teraz.eu
 www.zajazdbanderoza.pl
 www.zajazdoaza.pl
 www.zajazduzenka.pl
@@ -9936,6 +9967,8 @@ xn--onetgwat-dpb.pl
 xn--onetgwat-dpb.waw.pl
 xn--pandorabiuteria-qkd.pl
 xn--pasaer-spb.pl
+xn--polskagwat24-lcc.eu
+xn--polskagwat24-lcc.waw.pl
 xn--poyczaj-xwb.online.pl
 xoreha84.bid
 xzegarsmiercix.prv.pl
@@ -9967,6 +10000,7 @@ zabiczyn.pl
 zagiel-przeciwsloneczny-pl.com
 zaginienifaktty.098.pl
 zaglebiefanatykow.pl
+zaglosuj-teraz.eu
 zajazdbanderoza.pl
 zajazdoaza.pl
 zajazduzenka.pl
