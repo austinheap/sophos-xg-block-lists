@@ -58,6 +58,7 @@ a0copyplot.pl
 a1a.pl
 a2btrans.pl
 a2multimedia.pl
+a2plvcpnl308307.prod.iad2.secureserver.net
 aaakotkidwa.pl
 aaronbos0.wixsite.com
 ab4hr.com
@@ -998,6 +999,7 @@ dotpay.bok-poczta.pl
 dotpay.i-dpd.pl
 dotpay.idpd.pl
 dotpay.ipocztapolska.pl
+dotpay.pocztapolska24.pl
 dotpay.pocztapolska48.com
 dotpay.pocztex-poland.net
 dotpay.pocztex-polska.eu
@@ -1137,6 +1139,7 @@ eglobalcentral.pl
 egregorikoi.pl
 ehomedesign.com.pl
 e-hooponopono.pl
+e-ifaktygwalt.pl
 einfo24.net
 ek0.pl
 ekino.com.pl
@@ -1173,6 +1176,7 @@ elvox.pl
 elwirakurier.com
 emiliareichert.pl
 emobi-sys.com
+emonitoring-pocztapolska24.com
 emonitoring-poczta-polska.eu
 emonitoring-pocztapolska.net
 emptierbreak.xyz
@@ -1928,12 +1932,16 @@ ideazespolufilmowego.pl
 idgarin.com
 i-dpd.pl
 idpd.pl
+ifaktygwalt.com.pl
 ifaktygwalt.eu
+ifaktygwalt.net.pl
+ifaktygwalt.waw.pl
 i-films.pl
 i-filmy.pl
 iglesia.pl
 igrzyskasto.pl
 ihydroflaskshop.com
+i-ifaktygwalt.pl
 ikaart.pl
 ikoronawirusnews.pl
 ikosmetolog.pl
@@ -2107,6 +2115,7 @@ joannabaginska.com.pl
 jodakurier.com
 joga-sosnowiec.pl
 jogawpile.pl
+jonakurier.org
 jont.pl
 jookerclik.site
 joplionnsld.xyz
@@ -2478,6 +2487,7 @@ lotywizzair.pl
 louboutinpoland.pl
 loveaholics.com
 lovemydress.pl
+lowcyokazji.site
 lowpay.net
 lp24.eu
 lpilogryfice.pl
@@ -2998,6 +3008,7 @@ objawytarczycy.com.pl
 obkzrcclean2.az.pl
 obos-ankiety.pl
 obserwujecie.pl
+obslugakelnerska20.wixsite.com
 obudzgeniusza.pl
 obuwiepl.com
 obuwiesalomon.pl
@@ -3177,6 +3188,7 @@ pajos4.com
 pakafast4you24h.club
 pakiety-lte-5gb.blogspot.com
 pakiety-pokemon-go.blogspot.com
+pakownia.net
 pakukgroup.com
 palloosweddings.com
 palmabella.pl
@@ -3913,6 +3925,7 @@ schington.com
 scianyjakmalowane.pl
 scubaodyssey.pl
 sculptureco.com.au
+sdx.pl
 seans24.com.pl
 seanse24.pl
 seansikowo.pl
@@ -3947,6 +3960,7 @@ server364021.nazwa.pl
 server379672.nazwa.pl
 server432067.nazwa.pl
 server730889.nazwa.pl
+server879512.nazwa.pl
 servicecheck5.wixsite.com
 service-pay.company
 serwer2045220.home.pl
@@ -4002,6 +4016,7 @@ sigma1.eu
 signup.yogasuma.care
 silcan.pl
 silesiatours.pl
+sillex.com.pl
 silpostex.pl
 silstop.pl
 silvets.pl
@@ -4141,6 +4156,7 @@ speedballin.pl
 speedfile.info
 speedy.com.pl
 speedyshare.com
+spillerfanside.com
 spirotiger.pl
 spisek.freehost.pl
 spisradiowy.eu
@@ -4363,6 +4379,7 @@ tankhoi.vn
 tanzeelbuilders.com
 tappark.top
 tapxchange.com
+tarcza24.net
 tarczakryzysowa.net
 targibudowlanekalisz.pl
 tarnow360.pl
@@ -4720,6 +4737,7 @@ wabs.pl
 wallynosa.com
 waly.pl
 wanbuy.net
+waniakurier.com
 wapster.malutki.pl
 wapster.pl
 wardon.pl
@@ -4914,6 +4932,7 @@ www.a0copyplot.pl
 www.a1a.pl
 www.a2btrans.pl
 www.a2multimedia.pl
+www.a2plvcpnl308307.prod.iad2.secureserver.net
 www.aaakotkidwa.pl
 www.aaronbos0.wixsite.com
 www.ab4hr.com
@@ -5856,6 +5875,7 @@ www.dotpay.bok-poczta.pl
 www.dotpay.i-dpd.pl
 www.dotpay.idpd.pl
 www.dotpay.ipocztapolska.pl
+www.dotpay.pocztapolska24.pl
 www.dotpay.pocztapolska48.com
 www.dotpay.pocztex-poland.net
 www.dotpay.pocztex-polska.eu
@@ -5995,6 +6015,7 @@ www.eglobalcentral.pl
 www.egregorikoi.pl
 www.ehomedesign.com.pl
 www.e-hooponopono.pl
+www.e-ifaktygwalt.pl
 www.einfo24.net
 www.ek0.pl
 www.ekino.com.pl
@@ -6031,6 +6052,7 @@ www.elvox.pl
 www.elwirakurier.com
 www.emiliareichert.pl
 www.emobi-sys.com
+www.emonitoring-pocztapolska24.com
 www.emonitoring-poczta-polska.eu
 www.emonitoring-pocztapolska.net
 www.emptierbreak.xyz
@@ -6786,12 +6808,16 @@ www.ideazespolufilmowego.pl
 www.idgarin.com
 www.i-dpd.pl
 www.idpd.pl
+www.ifaktygwalt.com.pl
 www.ifaktygwalt.eu
+www.ifaktygwalt.net.pl
+www.ifaktygwalt.waw.pl
 www.i-films.pl
 www.i-filmy.pl
 www.iglesia.pl
 www.igrzyskasto.pl
 www.ihydroflaskshop.com
+www.i-ifaktygwalt.pl
 www.ikaart.pl
 www.ikoronawirusnews.pl
 www.ikosmetolog.pl
@@ -6965,6 +6991,7 @@ www.joannabaginska.com.pl
 www.jodakurier.com
 www.joga-sosnowiec.pl
 www.jogawpile.pl
+www.jonakurier.org
 www.jont.pl
 www.jookerclik.site
 www.joplionnsld.xyz
@@ -7336,6 +7363,7 @@ www.lotywizzair.pl
 www.louboutinpoland.pl
 www.loveaholics.com
 www.lovemydress.pl
+www.lowcyokazji.site
 www.lowpay.net
 www.lp24.eu
 www.lpilogryfice.pl
@@ -7856,6 +7884,7 @@ www.objawytarczycy.com.pl
 www.obkzrcclean2.az.pl
 www.obos-ankiety.pl
 www.obserwujecie.pl
+www.obslugakelnerska20.wixsite.com
 www.obudzgeniusza.pl
 www.obuwiepl.com
 www.obuwiesalomon.pl
@@ -8035,6 +8064,7 @@ www.pajos4.com
 www.pakafast4you24h.club
 www.pakiety-lte-5gb.blogspot.com
 www.pakiety-pokemon-go.blogspot.com
+www.pakownia.net
 www.pakukgroup.com
 www.palloosweddings.com
 www.palmabella.pl
@@ -8745,6 +8775,7 @@ www.schington.com
 www.scianyjakmalowane.pl
 www.scubaodyssey.pl
 www.sculptureco.com.au
+www.sdx.pl
 www.seans24.com.pl
 www.seanse24.pl
 www.seansikowo.pl
@@ -8779,6 +8810,7 @@ www.server364021.nazwa.pl
 www.server379672.nazwa.pl
 www.server432067.nazwa.pl
 www.server730889.nazwa.pl
+www.server879512.nazwa.pl
 www.servicecheck5.wixsite.com
 www.service-pay.company
 www.serwer2045220.home.pl
@@ -8834,6 +8866,7 @@ www.sigma1.eu
 www.signup.yogasuma.care
 www.silcan.pl
 www.silesiatours.pl
+www.sillex.com.pl
 www.silpostex.pl
 www.silstop.pl
 www.silvets.pl
@@ -8973,6 +9006,7 @@ www.speedballin.pl
 www.speedfile.info
 www.speedy.com.pl
 www.speedyshare.com
+www.spillerfanside.com
 www.spirotiger.pl
 www.spisek.freehost.pl
 www.spisradiowy.eu
@@ -9195,6 +9229,7 @@ www.tankhoi.vn
 www.tanzeelbuilders.com
 www.tappark.top
 www.tapxchange.com
+www.tarcza24.net
 www.tarczakryzysowa.net
 www.targibudowlanekalisz.pl
 www.tarnow360.pl
@@ -9552,6 +9587,7 @@ www.wabs.pl
 www.wallynosa.com
 www.waly.pl
 www.wanbuy.net
+www.waniakurier.com
 www.wapster.malutki.pl
 www.wapster.pl
 www.wardon.pl

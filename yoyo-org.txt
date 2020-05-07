@@ -679,10 +679,12 @@ ads.recoletos.es
 ads.rediff.com
 ads.redlightcenter.com
 ads.revjet.com
+adsrv2.swidnica24.pl
 adsrv.deviantart.com
 adsrv.eacdn.com
 adsrv.iol.co.za
 adsrvr.org
+adsrv.swidnica24.pl
 adsrvus.com
 adsrvx.com
 ads.satyamonline.com
