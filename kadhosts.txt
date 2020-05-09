@@ -679,6 +679,7 @@ cdatube.pl
 cda-vod.pl
 cdgame.kgb.pl
 cdnrep.reimageplus.com
+cdp.pl
 cdsportadapte91.fr
 cdsp.pl
 cedino.pl
@@ -1156,7 +1157,14 @@ edukacjawakcji.pl
 edukacjawysylkowa.pl
 edumedix.pl
 eduzoom.pl
+e-efaktygwalt.pl
 eeu.pl
+efaktygwalt.com.pl
+efaktygwalt.eu
+efaktygwalt.net.pl
+efaktygwalt.pl
+efaktygwalt.site
+efaktygwalt.waw.pl
 e-filmy24.pl
 eforsa.pl
 egazetka24.pl
@@ -1204,7 +1212,9 @@ elwirakurier.com
 emiliareichert.pl
 emobi-sys.com
 emonitoringpoczta24.net
+emonitoring-poczta48.net
 emonitoringpoczta48.net
+emonitoring-pocztapoland24.eu
 emonitoring-pocztapolska24.com
 emonitoring-poczta-polska.eu
 emonitoring-pocztapolska.eu
@@ -1642,7 +1652,6 @@ fromako.pl
 fsgliwice.pl
 fss.neostrada.pl
 ftp-reklama.gpd24.pl
-ftp.server379672.nazwa.pl
 fulldownload.pl
 full-movies-online.cba.pl
 fullplayer.pl
@@ -1713,6 +1722,7 @@ gazetabracka.eu
 gazetainfo24tv.hekko24.pl
 gazetainfo.hekko24.pl
 gazetalublin.pl
+gazetalubuski.pl
 gazetamazowska.eu
 gazetamazowska.pl
 gazetamazowsze.eu
@@ -1720,6 +1730,7 @@ gazeta-natemat-pol.eu
 gazetanowoczesna.pl
 gazeta.pl.com.bz
 gazeta-polska.24.eu
+gazetapucka.pl
 gazetkamazowsze.pl
 gazetkawarszawa.eu
 gazetkawarszawa.pl
@@ -2010,6 +2021,8 @@ ideazespolufilmowego.pl
 idgarin.com
 i-dpd.pl
 idpd.pl
+i-efaktygwalt.pl
+iefaktygwalt.pl
 ifaktygwalt.com.pl
 ifaktygwalt.eu
 ifaktygwalt.net.pl
@@ -2761,8 +2774,10 @@ menshealthweb.co
 mephisto.nd.e-wro.pl
 mergedocsnow.com
 merkuryklasyka.pl
+merlin.pl
 merrellsklep.pl
 mesohair.pl
+mestro.pl
 metaankieta.pl
 metalroofinggiants.com
 metaltechnics.pl
@@ -3044,6 +3059,7 @@ niebieskiraj.pl
 niechoruje.pl
 niekulturalna.pl
 nielukrowana.pl
+nieprzeczytane.pl
 nightclubpalma.pl
 nigthyoustr16.live
 nikanels.pl
@@ -3566,6 +3582,7 @@ podgladfacebokaa.blogspot.com
 podologik.ca
 podrozeposwiecie.pl
 po.fyybox.com
+pogodaanuluj.net
 pogodaparyz.pl
 pogodzinska.pl
 pogotowie.pcserwis.c0.pl
@@ -3717,6 +3734,7 @@ proecogroup.eu
 proeventart.pl
 profa.cba.pl
 proficredit.pl
+profit24.pl
 profitgems.co
 profitmaximizer.co
 profitmaximum.pl
@@ -4088,8 +4106,6 @@ serialosy.pl
 serialowo.pl
 serial.vod.co.pl
 server364021.nazwa.pl
-server379672.nazwa.pl
-server432067.nazwa.pl
 server553372.nazwa.pl
 server730889.nazwa.pl
 server839704.nazwa.pl
@@ -4188,6 +4204,7 @@ sklep.ekoenergia24.eu
 sklepnbbuty.pl
 sklepnorthface.com
 skleppolo.pl
+sklepswiatowid.pl
 sklepszkolen.pl
 skleptanie.pl
 sknrtel.com
@@ -4220,6 +4237,7 @@ slubneauta.com.pl
 sluchawafm.pl
 sm4ll.in
 smallponder.net
+smarkacz.pl
 smartcare.xja.pl
 smartconnect.duckdns.org
 smart-m-system.com
@@ -4548,6 +4566,20 @@ technologiewpodrozy.pl
 technowebs.xyz
 tedsaliesdirekt.info
 teespoon.co
+tekerstreet10.live
+tekerstreet11.live
+tekerstreet12.live
+tekerstreet13.live
+tekerstreet14.live
+tekerstreet15.live
+tekerstreet16.live
+tekerstreet17.live
+tekerstreet18.live
+tekerstreet19.live
+tekerstreet6.live
+tekerstreet7.live
+tekerstreet8.live
+tekerstreet9.live
 tekston.pl
 tele24wiadomosci.com.pl
 teleaudio.pl
@@ -5721,6 +5753,7 @@ www.cdatube.pl
 www.cda-vod.pl
 www.cdgame.kgb.pl
 www.cdnrep.reimageplus.com
+www.cdp.pl
 www.cdsportadapte91.fr
 www.cdsp.pl
 www.cedino.pl
@@ -6198,7 +6231,14 @@ www.edukacjawakcji.pl
 www.edukacjawysylkowa.pl
 www.edumedix.pl
 www.eduzoom.pl
+www.e-efaktygwalt.pl
 www.eeu.pl
+www.efaktygwalt.com.pl
+www.efaktygwalt.eu
+www.efaktygwalt.net.pl
+www.efaktygwalt.pl
+www.efaktygwalt.site
+www.efaktygwalt.waw.pl
 www.e-filmy24.pl
 www.eforsa.pl
 www.egazetka24.pl
@@ -6246,7 +6286,9 @@ www.elwirakurier.com
 www.emiliareichert.pl
 www.emobi-sys.com
 www.emonitoringpoczta24.net
+www.emonitoring-poczta48.net
 www.emonitoringpoczta48.net
+www.emonitoring-pocztapoland24.eu
 www.emonitoring-pocztapolska24.com
 www.emonitoring-poczta-polska.eu
 www.emonitoring-pocztapolska.eu
@@ -6684,7 +6726,6 @@ www.fromako.pl
 www.fsgliwice.pl
 www.fss.neostrada.pl
 www.ftp-reklama.gpd24.pl
-www.ftp.server379672.nazwa.pl
 www.fulldownload.pl
 www.full-movies-online.cba.pl
 www.fullplayer.pl
@@ -6755,6 +6796,7 @@ www.gazetabracka.eu
 www.gazetainfo24tv.hekko24.pl
 www.gazetainfo.hekko24.pl
 www.gazetalublin.pl
+www.gazetalubuski.pl
 www.gazetamazowska.eu
 www.gazetamazowska.pl
 www.gazetamazowsze.eu
@@ -6762,6 +6804,7 @@ www.gazeta-natemat-pol.eu
 www.gazetanowoczesna.pl
 www.gazeta.pl.com.bz
 www.gazeta-polska.24.eu
+www.gazetapucka.pl
 www.gazetkamazowsze.pl
 www.gazetkawarszawa.eu
 www.gazetkawarszawa.pl
@@ -7052,6 +7095,8 @@ www.ideazespolufilmowego.pl
 www.idgarin.com
 www.i-dpd.pl
 www.idpd.pl
+www.i-efaktygwalt.pl
+www.iefaktygwalt.pl
 www.ifaktygwalt.com.pl
 www.ifaktygwalt.eu
 www.ifaktygwalt.net.pl
@@ -7803,8 +7848,10 @@ www.menshealthweb.co
 www.mephisto.nd.e-wro.pl
 www.mergedocsnow.com
 www.merkuryklasyka.pl
+www.merlin.pl
 www.merrellsklep.pl
 www.mesohair.pl
+www.mestro.pl
 www.metaankieta.pl
 www.metalroofinggiants.com
 www.metaltechnics.pl
@@ -8086,6 +8133,7 @@ www.niebieskiraj.pl
 www.niechoruje.pl
 www.niekulturalna.pl
 www.nielukrowana.pl
+www.nieprzeczytane.pl
 www.nightclubpalma.pl
 www.nigthyoustr16.live
 www.nikanels.pl
@@ -8582,6 +8630,7 @@ www.podgladfacebokaa.blogspot.com
 www.podologik.ca
 www.podrozeposwiecie.pl
 www.po.fyybox.com
+www.pogodaanuluj.net
 www.pogodaparyz.pl
 www.pogodzinska.pl
 www.pogotowie.pcserwis.c0.pl
@@ -8733,6 +8782,7 @@ www.proecogroup.eu
 www.proeventart.pl
 www.profa.cba.pl
 www.proficredit.pl
+www.profit24.pl
 www.profitgems.co
 www.profitmaximizer.co
 www.profitmaximum.pl
@@ -9104,8 +9154,6 @@ www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
 www.server364021.nazwa.pl
-www.server379672.nazwa.pl
-www.server432067.nazwa.pl
 www.server553372.nazwa.pl
 www.server730889.nazwa.pl
 www.server839704.nazwa.pl
@@ -9204,6 +9252,7 @@ www.sklep.ekoenergia24.eu
 www.sklepnbbuty.pl
 www.sklepnorthface.com
 www.skleppolo.pl
+www.sklepswiatowid.pl
 www.sklepszkolen.pl
 www.skleptanie.pl
 www.sknrtel.com
@@ -9236,6 +9285,7 @@ www.slubneauta.com.pl
 www.sluchawafm.pl
 www.sm4ll.in
 www.smallponder.net
+www.smarkacz.pl
 www.smartcare.xja.pl
 www.smartconnect.duckdns.org
 www.smart-m-system.com
@@ -9564,6 +9614,20 @@ www.technologiewpodrozy.pl
 www.technowebs.xyz
 www.tedsaliesdirekt.info
 www.teespoon.co
+www.tekerstreet10.live
+www.tekerstreet11.live
+www.tekerstreet12.live
+www.tekerstreet13.live
+www.tekerstreet14.live
+www.tekerstreet15.live
+www.tekerstreet16.live
+www.tekerstreet17.live
+www.tekerstreet18.live
+www.tekerstreet19.live
+www.tekerstreet6.live
+www.tekerstreet7.live
+www.tekerstreet8.live
+www.tekerstreet9.live
 www.tekston.pl
 www.tele24wiadomosci.com.pl
 www.teleaudio.pl
