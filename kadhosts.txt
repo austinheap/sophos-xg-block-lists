@@ -1017,6 +1017,8 @@ dostawy24.com
 dotabet100.com
 dotabet103.com
 dotpay.bok-poczta.pl
+dotpay.emonitoringpoczta24.net
+dotpay.emonitoringpoczta48.net
 dotpay.i-dpd.pl
 dotpay.idpd.pl
 dotpay.ipocztapolska.pl
@@ -1201,8 +1203,11 @@ elvox.pl
 elwirakurier.com
 emiliareichert.pl
 emobi-sys.com
+emonitoringpoczta24.net
+emonitoringpoczta48.net
 emonitoring-pocztapolska24.com
 emonitoring-poczta-polska.eu
+emonitoring-pocztapolska.eu
 emonitoring-pocztapolska.net
 emptierbreak.xyz
 emuzyka-do-pobrania.pl
@@ -1715,6 +1720,7 @@ gazeta-natemat-pol.eu
 gazetanowoczesna.pl
 gazeta.pl.com.bz
 gazeta-polska.24.eu
+gazetkamazowsze.pl
 gazetkawarszawa.eu
 gazetkawarszawa.pl
 gazetowo.eu
@@ -2550,6 +2556,7 @@ lnpush.pl
 lnstagram.pp.ru
 load9.nowosczdrowieporadyvlc.pl
 loan.arrow-finance.pl
+localnewshere.site
 localpressawards.pl
 locked3.com
 login-paribas.at
@@ -3257,6 +3264,7 @@ osiedle-kuznica.pl
 osiedlelipce.pl
 oskaryfashion.pl
 oslony-okienne.pl
+osobyzagionione.com.pl
 osphutastara.pl
 ospkrutyn.pl
 ospmazancowice.pl
@@ -4085,6 +4093,7 @@ server432067.nazwa.pl
 server553372.nazwa.pl
 server730889.nazwa.pl
 server839704.nazwa.pl
+server859628.nazwa.pl
 server879512.nazwa.pl
 servicecheck5.wixsite.com
 service-pay.company
@@ -4443,6 +4452,7 @@ swiecomania.pl
 swietna-pozyczka.pl
 swietokrzyskieter.pl
 swiezaki.weebly.com
+swiezefakty.eu
 swiezefakty.pl
 swiezyblog.com.pl
 swingersbang.pl
@@ -6049,6 +6059,8 @@ www.dostawy24.com
 www.dotabet100.com
 www.dotabet103.com
 www.dotpay.bok-poczta.pl
+www.dotpay.emonitoringpoczta24.net
+www.dotpay.emonitoringpoczta48.net
 www.dotpay.i-dpd.pl
 www.dotpay.idpd.pl
 www.dotpay.ipocztapolska.pl
@@ -6233,8 +6245,11 @@ www.elvox.pl
 www.elwirakurier.com
 www.emiliareichert.pl
 www.emobi-sys.com
+www.emonitoringpoczta24.net
+www.emonitoringpoczta48.net
 www.emonitoring-pocztapolska24.com
 www.emonitoring-poczta-polska.eu
+www.emonitoring-pocztapolska.eu
 www.emonitoring-pocztapolska.net
 www.emptierbreak.xyz
 www.emuzyka-do-pobrania.pl
@@ -6747,6 +6762,7 @@ www.gazeta-natemat-pol.eu
 www.gazetanowoczesna.pl
 www.gazeta.pl.com.bz
 www.gazeta-polska.24.eu
+www.gazetkamazowsze.pl
 www.gazetkawarszawa.eu
 www.gazetkawarszawa.pl
 www.gazetowo.eu
@@ -7582,6 +7598,7 @@ www.lnpush.pl
 www.lnstagram.pp.ru
 www.load9.nowosczdrowieporadyvlc.pl
 www.loan.arrow-finance.pl
+www.localnewshere.site
 www.localpressawards.pl
 www.locked3.com
 www.login-paribas.at
@@ -8289,6 +8306,7 @@ www.osiedle-kuznica.pl
 www.osiedlelipce.pl
 www.oskaryfashion.pl
 www.oslony-okienne.pl
+www.osobyzagionione.com.pl
 www.osphutastara.pl
 www.ospkrutyn.pl
 www.ospmazancowice.pl
@@ -9091,6 +9109,7 @@ www.server432067.nazwa.pl
 www.server553372.nazwa.pl
 www.server730889.nazwa.pl
 www.server839704.nazwa.pl
+www.server859628.nazwa.pl
 www.server879512.nazwa.pl
 www.servicecheck5.wixsite.com
 www.service-pay.company
@@ -9449,6 +9468,7 @@ www.swiecomania.pl
 www.swietna-pozyczka.pl
 www.swietokrzyskieter.pl
 www.swiezaki.weebly.com
+www.swiezefakty.eu
 www.swiezefakty.pl
 www.swiezyblog.com.pl
 www.swingersbang.pl
