@@ -1046,6 +1046,7 @@ downloaduj.pl
 download.w65.pl
 download.weatherblink.com
 dpdoplata.org
+dpdpolska.pl
 dpsobryte.pl
 drablutnik.pl
 dragon-escape.pl
@@ -4105,6 +4106,7 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
+server283077.nazwa.pl
 server364021.nazwa.pl
 server553372.nazwa.pl
 server730889.nazwa.pl
@@ -4576,6 +4578,7 @@ tekerstreet16.live
 tekerstreet17.live
 tekerstreet18.live
 tekerstreet19.live
+tekerstreet20.live
 tekerstreet6.live
 tekerstreet7.live
 tekerstreet8.live
@@ -6120,6 +6123,7 @@ www.downloaduj.pl
 www.download.w65.pl
 www.download.weatherblink.com
 www.dpdoplata.org
+www.dpdpolska.pl
 www.dpsobryte.pl
 www.drablutnik.pl
 www.dragon-escape.pl
@@ -9153,6 +9157,7 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
+www.server283077.nazwa.pl
 www.server364021.nazwa.pl
 www.server553372.nazwa.pl
 www.server730889.nazwa.pl
@@ -9624,6 +9629,7 @@ www.tekerstreet16.live
 www.tekerstreet17.live
 www.tekerstreet18.live
 www.tekerstreet19.live
+www.tekerstreet20.live
 www.tekerstreet6.live
 www.tekerstreet7.live
 www.tekerstreet8.live
