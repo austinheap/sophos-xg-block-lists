@@ -1314,7 +1314,6 @@ cogmatch.net
 cognativex.com
 cognitivematch.com
 cohesionapps.com
-co.hltv.org
 coinblind.com
 coincheck.com
 coin-cube.com
@@ -2513,7 +2512,6 @@ geocontatore.com
 geoedge.be
 geo.ertya.com
 geo.gorillanation.com
-geo.hltv.org
 geo.homepage-web.com
 geoip.al.com
 geoip.boredpanda.com
