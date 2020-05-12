@@ -66,6 +66,7 @@ abbp35.com
 abbtur-key.pl
 abckredyt.net
 abc.prawo.link
+abikurier.com
 abirohokonar.pl
 abonament-oplac.com
 about-preferences.host
@@ -191,6 +192,7 @@ ale-dowcip.pl
 ale-fotogragia.bo.pl
 alefunny.pl
 alejandravalladares.com.ve
+alert-24-pl.pl
 alerter.pl
 aleshop.pl
 alexsoff.com
@@ -789,6 +791,7 @@ codenpic.com
 colex-rowery.com.pl
 colorking.es
 colors-app.blogspot.com
+coloryee.com
 com-gift-winner-lucky-day.vip
 commanods.xyz
 complainerscla.xyz
@@ -963,6 +966,7 @@ decorefect.pl
 deducingsi.xyz
 deepikarai.com
 deepshoes.pl
+defrost.pl
 degree.namerepresentative.club
 dekadagierka.pl
 dekoracjawesela.pl
@@ -1195,6 +1199,7 @@ edumedix.pl
 eduzoom.pl
 e-efaktygwalt.pl
 eeu.pl
+e-faktgwalt24.pl
 efaktgwalt24.pl
 efaktygwalt.com.pl
 efaktygwalt.eu
@@ -1388,7 +1393,10 @@ fajnepiosenki.pl
 fajnewierszyki.pl
 faksowy.is-best.net
 fakt24warszawa.com.pl
+faktgwalt24.com.pl
 faktgwalt24.eu
+faktgwalt24.pl
+faktgwalt24.waw.pl
 faktoswe.is-best.net
 faktowace.is-best.net
 faktowe.is-best.net
@@ -2056,6 +2064,7 @@ idgarin.com
 idpdpolska.pl
 i-efaktygwalt.pl
 iefaktygwalt.pl
+ifaktgwalt24.pl
 ifaktygwalt.eu
 ifaktygwalt.pl
 i-films.pl
@@ -2584,6 +2593,8 @@ levelup-firm.pl
 levelup.publicvm.com
 lewplnews.yolasite.com
 lexatrade.com
+lexlale.com.pl
+lexlale.eu
 leyda.pl
 liceumjp2glowno.pl
 lifanpower.pl
@@ -2819,6 +2830,7 @@ medicaltours.pl
 medicreporters.com
 medios.in.net
 meetcheap.pl
+meetonlyhot.com
 megabonus-point3.life
 megachiny.eu
 megacloudz.net
@@ -3176,6 +3188,7 @@ nowakkrzysztof.pl
 nowa-oplata.net
 nowebutyad.pl
 nowebutyasics.com
+nowefakty24online.pl
 nowenktanio.pl
 nowina-pb.pl
 nowinki.blog-online.eu
@@ -5207,6 +5220,7 @@ www.abbp35.com
 www.abbtur-key.pl
 www.abckredyt.net
 www.abc.prawo.link
+www.abikurier.com
 www.abirohokonar.pl
 www.abonament-oplac.com
 www.about-preferences.host
@@ -5332,6 +5346,7 @@ www.ale-dowcip.pl
 www.ale-fotogragia.bo.pl
 www.alefunny.pl
 www.alejandravalladares.com.ve
+www.alert-24-pl.pl
 www.alerter.pl
 www.aleshop.pl
 www.alexsoff.com
@@ -5932,6 +5947,7 @@ www.codenpic.com
 www.colex-rowery.com.pl
 www.colorking.es
 www.colors-app.blogspot.com
+www.coloryee.com
 www.com-gift-winner-lucky-day.vip
 www.commanods.xyz
 www.complainerscla.xyz
@@ -6106,6 +6122,7 @@ www.decorefect.pl
 www.deducingsi.xyz
 www.deepikarai.com
 www.deepshoes.pl
+www.defrost.pl
 www.degree.namerepresentative.club
 www.dekadagierka.pl
 www.dekoracjawesela.pl
@@ -6338,6 +6355,7 @@ www.edumedix.pl
 www.eduzoom.pl
 www.e-efaktygwalt.pl
 www.eeu.pl
+www.e-faktgwalt24.pl
 www.efaktgwalt24.pl
 www.efaktygwalt.com.pl
 www.efaktygwalt.eu
@@ -6531,7 +6549,10 @@ www.fajnepiosenki.pl
 www.fajnewierszyki.pl
 www.faksowy.is-best.net
 www.fakt24warszawa.com.pl
+www.faktgwalt24.com.pl
 www.faktgwalt24.eu
+www.faktgwalt24.pl
+www.faktgwalt24.waw.pl
 www.faktoswe.is-best.net
 www.faktowace.is-best.net
 www.faktowe.is-best.net
@@ -7199,6 +7220,7 @@ www.idgarin.com
 www.idpdpolska.pl
 www.i-efaktygwalt.pl
 www.iefaktygwalt.pl
+www.ifaktgwalt24.pl
 www.ifaktygwalt.eu
 www.ifaktygwalt.pl
 www.i-films.pl
@@ -7727,6 +7749,8 @@ www.levelup-firm.pl
 www.levelup.publicvm.com
 www.lewplnews.yolasite.com
 www.lexatrade.com
+www.lexlale.com.pl
+www.lexlale.eu
 www.leyda.pl
 www.liceumjp2glowno.pl
 www.lifanpower.pl
@@ -7962,6 +7986,7 @@ www.medicaltours.pl
 www.medicreporters.com
 www.medios.in.net
 www.meetcheap.pl
+www.meetonlyhot.com
 www.megabonus-point3.life
 www.megachiny.eu
 www.megacloudz.net
@@ -8319,6 +8344,7 @@ www.nowakkrzysztof.pl
 www.nowa-oplata.net
 www.nowebutyad.pl
 www.nowebutyasics.com
+www.nowefakty24online.pl
 www.nowenktanio.pl
 www.nowina-pb.pl
 www.nowinki.blog-online.eu
