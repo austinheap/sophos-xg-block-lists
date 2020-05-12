@@ -722,6 +722,7 @@ chicharito14.c0.pl
 childalertfakt.eu
 childalertfakt.online
 childalertfakt.site
+childinfo.eu
 chimera-studio.pl
 chipcar.pl
 choconeo.pl
@@ -1057,6 +1058,7 @@ dotpay.bok-poczta.pl
 dotpay.emonitoringpoczta24.net
 dotpay.emonitoringpoczta48.net
 dotpay.ipocztapolska.pl
+dotpay.monitoring-pocztapolska.net
 dotpay.pocztapolska24.pl
 dotpay.pocztapolska48.com
 dotpay.pocztex-poland.net
@@ -1193,6 +1195,7 @@ edumedix.pl
 eduzoom.pl
 e-efaktygwalt.pl
 eeu.pl
+efaktgwalt24.pl
 efaktygwalt.com.pl
 efaktygwalt.eu
 efaktygwalt.net.pl
@@ -1242,6 +1245,7 @@ elvox.pl
 elwirakurier.com
 emiliareichert.pl
 emobi-sys.com
+emonitoring-poczta24.net
 emonitoringpoczta24.net
 emonitoring-poczta48.net
 emonitoringpoczta48.net
@@ -1311,6 +1315,7 @@ esthetiquebazaar.pl
 esyfloresyonline.pl
 etamina.pl
 etilang.pl
+etracking-pocztapolska24.net
 eu-click.eworldtrack.com
 e-udanezakupy.pl
 euforiatattoo.com.pl
@@ -1429,7 +1434,9 @@ faktygwalt.waw.pl
 faktylive-24.eu
 faktymazowsze.eu
 faktymazowsze.pl
+fakty-miasto.x9.eu
 faktynazywo24.eu
+fakty-news72.eu
 fakty-onet48.eu
 fakty-online48.eu
 faktyonline48.eu
@@ -3147,6 +3154,7 @@ noipasi.pl
 nomadztruck.com
 noniuzdrawia.pl
 nonstopvideos.pl
+norbikurier.com
 norbikurier.org
 northfacepl.com
 northfacesklep.pl
@@ -4169,6 +4177,7 @@ service-pay.company
 serwer2045220.home.pl
 serwer2079025.home.pl
 serwer2081930.home.pl
+serwer2082113.home.pl
 serwis-ab.com.pl
 serwisagd-waw.pl
 serwisgaz.com.pl
@@ -4951,6 +4960,7 @@ vipcheats.us
 vip.fortunatefellow.xyz
 vip.fortunatetime.xyz
 vip.lucky-gifts-center.com
+vipnome.tk
 virtualgarden.pl
 virusblokada.pl
 visalink.pl
@@ -5855,6 +5865,7 @@ www.chicharito14.c0.pl
 www.childalertfakt.eu
 www.childalertfakt.online
 www.childalertfakt.site
+www.childinfo.eu
 www.chimera-studio.pl
 www.chipcar.pl
 www.choconeo.pl
@@ -6190,6 +6201,7 @@ www.dotpay.bok-poczta.pl
 www.dotpay.emonitoringpoczta24.net
 www.dotpay.emonitoringpoczta48.net
 www.dotpay.ipocztapolska.pl
+www.dotpay.monitoring-pocztapolska.net
 www.dotpay.pocztapolska24.pl
 www.dotpay.pocztapolska48.com
 www.dotpay.pocztex-poland.net
@@ -6326,6 +6338,7 @@ www.edumedix.pl
 www.eduzoom.pl
 www.e-efaktygwalt.pl
 www.eeu.pl
+www.efaktgwalt24.pl
 www.efaktygwalt.com.pl
 www.efaktygwalt.eu
 www.efaktygwalt.net.pl
@@ -6375,6 +6388,7 @@ www.elvox.pl
 www.elwirakurier.com
 www.emiliareichert.pl
 www.emobi-sys.com
+www.emonitoring-poczta24.net
 www.emonitoringpoczta24.net
 www.emonitoring-poczta48.net
 www.emonitoringpoczta48.net
@@ -6444,6 +6458,7 @@ www.esthetiquebazaar.pl
 www.esyfloresyonline.pl
 www.etamina.pl
 www.etilang.pl
+www.etracking-pocztapolska24.net
 www.eu-click.eworldtrack.com
 www.e-udanezakupy.pl
 www.euforiatattoo.com.pl
@@ -6562,7 +6577,9 @@ www.faktygwalt.waw.pl
 www.faktylive-24.eu
 www.faktymazowsze.eu
 www.faktymazowsze.pl
+www.fakty-miasto.x9.eu
 www.faktynazywo24.eu
+www.fakty-news72.eu
 www.fakty-onet48.eu
 www.fakty-online48.eu
 www.faktyonline48.eu
@@ -8280,6 +8297,7 @@ www.noipasi.pl
 www.nomadztruck.com
 www.noniuzdrawia.pl
 www.nonstopvideos.pl
+www.norbikurier.com
 www.norbikurier.org
 www.northfacepl.com
 www.northfacesklep.pl
@@ -9276,6 +9294,7 @@ www.service-pay.company
 www.serwer2045220.home.pl
 www.serwer2079025.home.pl
 www.serwer2081930.home.pl
+www.serwer2082113.home.pl
 www.serwis-ab.com.pl
 www.serwisagd-waw.pl
 www.serwisgaz.com.pl
@@ -10058,6 +10077,7 @@ www.vipcheats.us
 www.vip.fortunatefellow.xyz
 www.vip.fortunatetime.xyz
 www.vip.lucky-gifts-center.com
+www.vipnome.tk
 www.virtualgarden.pl
 www.virusblokada.pl
 www.visalink.pl
