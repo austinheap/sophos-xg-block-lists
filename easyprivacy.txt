@@ -4706,7 +4706,6 @@ sare25.com
 sarimsol.com
 sarov.ws
 sas15k01.com
-sas.com
 sa.sky.it
 sa.squareup.com
 sa.tf1.fr
@@ -6682,6 +6681,7 @@ xlisting.jp
 xmrpool.net
 xplosion.de
 xref.io
+xr.shinobi.jp
 x-stat.de
 xtgreat.com
 x-traceur.com
