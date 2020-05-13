@@ -1061,10 +1061,12 @@ dotabet103.com
 dotpay.bok-poczta.pl
 dotpay.emonitoringpoczta24.net
 dotpay.emonitoringpoczta48.net
+dotpay.emonitoring-pocztapolska.eu
 dotpay.ipocztapolska.pl
 dotpay.monitoring-pocztapolska.net
 dotpay.pocztapolska24.pl
 dotpay.pocztapolska48.com
+dotpay.pocztapolskasa.pl
 dotpay.pocztex-poland.net
 dotpay.pocztex-polska.eu
 dotpay.pocztexpolska.eu
@@ -1265,6 +1267,8 @@ endgames.pl
 endofhisrope.net
 energabok.pl
 energi-a.pl
+e-newsgwalt24.pl
+enewsgwalt24.pl
 enigmaescape.pl
 enklaawa.pl
 enklawy.pl
@@ -1443,6 +1447,7 @@ faktylive-24.eu
 faktymazowsze.eu
 faktymazowsze.pl
 fakty-miasto.x9.eu
+fakty-miejskie.x9.eu
 faktynazywo24.eu
 fakty-news72.eu
 fakty-onet48.eu
@@ -2101,6 +2106,7 @@ info-fakty24.pl
 infogazeta.hekko24.pl
 infogrypa.pl
 infolinia-kontakt-telefon.pl
+infomacjadnia.pro-linuxpl.com
 infomiasto24.pl
 infomiasto.hekko24.pl
 infonews24.com.pl
@@ -2553,6 +2559,7 @@ lamariette.pl
 lamri.pl
 lander.pl
 laolle.com
+largetfar.ga
 largetfarge.ml
 largetfarget.ga
 largetfarg.tk
@@ -3111,11 +3118,18 @@ news.bit-poland.club
 newsbusiness.co.uk
 news-deck.at
 newsfeed24h.co.uk
+newsgwalt24.com.pl
+newsgwalt24.eu
+newsgwalt24.online
+newsgwalt24.pl
+newsgwalt24.site
+newsgwalt24.waw.pl
 news.health-beauty.press
 newsinsider.me
 news.investexpertpro.com
 news-paperz.com
 newsredir.com
+newstygodnia.pro-linuxpl.com
 newswave.online
 newsweek-polska-pl.eu
 newsy097.pro-linuxpl.com
@@ -3386,6 +3400,7 @@ pacuskurier.org
 pacyfka99.pl
 paczka24-oplata.com
 paczka-48.com
+paczkaadam.com
 paczka-dhl.com
 paczka-doplata.net
 paczkadpd.com
@@ -3638,6 +3653,7 @@ poczta-polska48.net
 pocztapolska48.net
 pocztapolska.eu
 poczta-polska.net
+pocztapolskasa.pl
 poczta-polska.services
 pocztex-24.link
 pocztex-48.net
@@ -4181,6 +4197,7 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
+server038725.nazwa.pl
 server730889.nazwa.pl
 server859628.nazwa.pl
 server879512.nazwa.pl
@@ -4312,6 +4329,7 @@ slowl.pl
 slownikoptyczny.pl
 slubneauta.com.pl
 sluchawafm.pl
+sluchawka-prysznicowa-wellness.com
 sm4ll.in
 smallponder.net
 smarkacz.pl
@@ -6217,10 +6235,12 @@ www.dotabet103.com
 www.dotpay.bok-poczta.pl
 www.dotpay.emonitoringpoczta24.net
 www.dotpay.emonitoringpoczta48.net
+www.dotpay.emonitoring-pocztapolska.eu
 www.dotpay.ipocztapolska.pl
 www.dotpay.monitoring-pocztapolska.net
 www.dotpay.pocztapolska24.pl
 www.dotpay.pocztapolska48.com
+www.dotpay.pocztapolskasa.pl
 www.dotpay.pocztex-poland.net
 www.dotpay.pocztex-polska.eu
 www.dotpay.pocztexpolska.eu
@@ -6421,6 +6441,8 @@ www.endgames.pl
 www.endofhisrope.net
 www.energabok.pl
 www.energi-a.pl
+www.e-newsgwalt24.pl
+www.enewsgwalt24.pl
 www.enigmaescape.pl
 www.enklaawa.pl
 www.enklawy.pl
@@ -6599,6 +6621,7 @@ www.faktylive-24.eu
 www.faktymazowsze.eu
 www.faktymazowsze.pl
 www.fakty-miasto.x9.eu
+www.fakty-miejskie.x9.eu
 www.faktynazywo24.eu
 www.fakty-news72.eu
 www.fakty-onet48.eu
@@ -7257,6 +7280,7 @@ www.info-fakty24.pl
 www.infogazeta.hekko24.pl
 www.infogrypa.pl
 www.infolinia-kontakt-telefon.pl
+www.infomacjadnia.pro-linuxpl.com
 www.infomiasto24.pl
 www.infomiasto.hekko24.pl
 www.infonews24.com.pl
@@ -7709,6 +7733,7 @@ www.lamariette.pl
 www.lamri.pl
 www.lander.pl
 www.laolle.com
+www.largetfar.ga
 www.largetfarge.ml
 www.largetfarget.ga
 www.largetfarg.tk
@@ -8267,11 +8292,18 @@ www.news.bit-poland.club
 www.newsbusiness.co.uk
 www.news-deck.at
 www.newsfeed24h.co.uk
+www.newsgwalt24.com.pl
+www.newsgwalt24.eu
+www.newsgwalt24.online
+www.newsgwalt24.pl
+www.newsgwalt24.site
+www.newsgwalt24.waw.pl
 www.news.health-beauty.press
 www.newsinsider.me
 www.news.investexpertpro.com
 www.news-paperz.com
 www.newsredir.com
+www.newstygodnia.pro-linuxpl.com
 www.newswave.online
 www.newsweek-polska-pl.eu
 www.newsy097.pro-linuxpl.com
@@ -8542,6 +8574,7 @@ www.pacuskurier.org
 www.pacyfka99.pl
 www.paczka24-oplata.com
 www.paczka-48.com
+www.paczkaadam.com
 www.paczka-dhl.com
 www.paczka-doplata.net
 www.paczkadpd.com
@@ -8768,6 +8801,7 @@ www.poczta-polska48.net
 www.pocztapolska48.net
 www.pocztapolska.eu
 www.poczta-polska.net
+www.pocztapolskasa.pl
 www.poczta-polska.services
 www.pocztex-24.link
 www.pocztex-48.net
@@ -9311,6 +9345,7 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
+www.server038725.nazwa.pl
 www.server730889.nazwa.pl
 www.server859628.nazwa.pl
 www.server879512.nazwa.pl
@@ -9442,6 +9477,7 @@ www.slowl.pl
 www.slownikoptyczny.pl
 www.slubneauta.com.pl
 www.sluchawafm.pl
+www.sluchawka-prysznicowa-wellness.com
 www.sm4ll.in
 www.smallponder.net
 www.smarkacz.pl
