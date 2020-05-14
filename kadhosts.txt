@@ -263,6 +263,7 @@ anetakurier.info
 anety-plaszcze.pl
 angielskisylwia.pl
 anglekeys.warzonedns.com
+aniapaczka.org
 anitkakurier.com
 aniventure.co.uk
 ankiety-konsumenckie.pl
@@ -726,6 +727,7 @@ childalertfakt.eu
 childalertfakt.online
 childalertfakt.site
 childinfo.eu
+chilndreninfo.eu
 chimera-studio.pl
 chipcar.pl
 choconeo.pl
@@ -2349,6 +2351,7 @@ kasafiskalna2018.pl
 kasa-sms.pl
 kasia-czat.24.eu
 kasiakurier.info
+kasiapaczka.org
 kaskadarugby.pl
 kaszubskaalaska.pl
 kaszubskidomek.pl
@@ -2749,6 +2752,7 @@ mail.glosowanie-kliknij.eu
 mail.glosowanie-konkurs.eu
 mail.ogarnij-zdjecia.eu
 mail.przejrzyj-fotki.eu
+mail.razempomagamy.xyz
 mail.zdjecie-ukradzione.eu
 majcioch.pl
 majus-centrum.pl
@@ -3555,7 +3559,6 @@ pl.50kaweek.live
 placidocn.com
 plainsviewfarm.com
 pl.allsports4free.club
-planchashop.fr
 plast-chem.com.pl
 plastiquedesign.pl
 platinumprestige.pl
@@ -3688,7 +3691,9 @@ podologik.ca
 podrozeposwiecie.pl
 po.fyybox.com
 pogodaanuluj.net
+pogodameteo.net
 pogodaparyz.pl
+pogodasub.com
 pogodzinska.pl
 pogotowie.pcserwis.c0.pl
 pointmanager.pl
@@ -3737,6 +3742,7 @@ poltradewaletko.pl
 pomagajmypl.online
 pomagajmypl.site
 pomagamszukac.098.pl
+pomagamy-razem.club
 pomelostudio.pl
 pomerania-bn.pl
 pomoc-fakty24.pl
@@ -4209,19 +4215,8 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
-server038725.nazwa.pl
-server730889.nazwa.pl
-server859628.nazwa.pl
-server879512.nazwa.pl
-server938944.nazwa.pl
 servicecheck5.wixsite.com
 service-pay.company
-serwer2019382.home.pl
-serwer2045220.home.pl
-serwer2058730.home.pl
-serwer2079025.home.pl
-serwer2081930.home.pl
-serwer2082113.home.pl
 serwis-ab.com.pl
 serwisagd-waw.pl
 serwisgaz.com.pl
@@ -4445,6 +4440,7 @@ spotlessweb.com
 spplodz.pl
 spraszyn.home.pl
 sprawa-531.eu
+sprawanasza.cal24.pl
 sprawdzam.is-best.net
 sprawdziany-odpowiedzi.bo.pl
 sprawdzianyodpowiedzi.pl
@@ -5458,6 +5454,7 @@ www.anetakurier.info
 www.anety-plaszcze.pl
 www.angielskisylwia.pl
 www.anglekeys.warzonedns.com
+www.aniapaczka.org
 www.anitkakurier.com
 www.aniventure.co.uk
 www.ankiety-konsumenckie.pl
@@ -5923,6 +5920,7 @@ www.childalertfakt.eu
 www.childalertfakt.online
 www.childalertfakt.site
 www.childinfo.eu
+www.chilndreninfo.eu
 www.chimera-studio.pl
 www.chipcar.pl
 www.choconeo.pl
@@ -7546,6 +7544,7 @@ www.kasafiskalna2018.pl
 www.kasa-sms.pl
 www.kasia-czat.24.eu
 www.kasiakurier.info
+www.kasiapaczka.org
 www.kaskadarugby.pl
 www.kaszubskaalaska.pl
 www.kaszubskidomek.pl
@@ -7946,6 +7945,7 @@ www.mail.glosowanie-kliknij.eu
 www.mail.glosowanie-konkurs.eu
 www.mail.ogarnij-zdjecia.eu
 www.mail.przejrzyj-fotki.eu
+www.mail.razempomagamy.xyz
 www.mail.zdjecie-ukradzione.eu
 www.majcioch.pl
 www.majus-centrum.pl
@@ -8748,7 +8748,6 @@ www.pkworld.com.pk
 www.pl1nk.pl
 www.placidocn.com
 www.plainsviewfarm.com
-www.planchashop.fr
 www.plast-chem.com.pl
 www.plastiquedesign.pl
 www.platinumprestige.pl
@@ -8859,7 +8858,9 @@ www.podologik.ca
 www.podrozeposwiecie.pl
 www.po.fyybox.com
 www.pogodaanuluj.net
+www.pogodameteo.net
 www.pogodaparyz.pl
+www.pogodasub.com
 www.pogodzinska.pl
 www.pogotowie.pcserwis.c0.pl
 www.pointmanager.pl
@@ -8908,6 +8909,7 @@ www.poltradewaletko.pl
 www.pomagajmypl.online
 www.pomagajmypl.site
 www.pomagamszukac.098.pl
+www.pomagamy-razem.club
 www.pomelostudio.pl
 www.pomerania-bn.pl
 www.pomoc-fakty24.pl
@@ -9380,19 +9382,8 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
-www.server038725.nazwa.pl
-www.server730889.nazwa.pl
-www.server859628.nazwa.pl
-www.server879512.nazwa.pl
-www.server938944.nazwa.pl
 www.servicecheck5.wixsite.com
 www.service-pay.company
-www.serwer2019382.home.pl
-www.serwer2045220.home.pl
-www.serwer2058730.home.pl
-www.serwer2079025.home.pl
-www.serwer2081930.home.pl
-www.serwer2082113.home.pl
 www.serwis-ab.com.pl
 www.serwisagd-waw.pl
 www.serwisgaz.com.pl
@@ -9616,6 +9607,7 @@ www.spotlessweb.com
 www.spplodz.pl
 www.spraszyn.home.pl
 www.sprawa-531.eu
+www.sprawanasza.cal24.pl
 www.sprawdzam.is-best.net
 www.sprawdziany-odpowiedzi.bo.pl
 www.sprawdzianyodpowiedzi.pl
