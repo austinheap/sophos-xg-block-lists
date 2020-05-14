@@ -627,7 +627,6 @@ a50.g2.akamai.net
 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 a8.net
 a9.com
-aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com
 aa7bd76554cff2d93d33288d31aa6839.api.appsee.com
 aa.adfarm1.adition.com
 a.adgear.com
