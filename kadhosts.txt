@@ -1329,6 +1329,7 @@ esyfloresyonline.pl
 etamina.pl
 etilang.pl
 etracking-pocztapolska24.net
+etracking-pocztex.eu
 eu-click.eworldtrack.com
 e-udanezakupy.pl
 euforiatattoo.com.pl
@@ -2219,6 +2220,7 @@ itorrenty.org
 itvwro.pl
 iurzad.net
 iv24.pl
+iwiadomoscigwalt.pl
 iwonadzitko.pl
 izabelarogowska.pl
 izakowalska.pl
@@ -4214,7 +4216,9 @@ server879512.nazwa.pl
 server938944.nazwa.pl
 servicecheck5.wixsite.com
 service-pay.company
+serwer2019382.home.pl
 serwer2045220.home.pl
+serwer2058730.home.pl
 serwer2079025.home.pl
 serwer2081930.home.pl
 serwer2082113.home.pl
@@ -5084,6 +5088,11 @@ wez-bon.24.eu
 wezwanieus.com
 whenbuyyousale.co
 wiad-info.5v.pl
+wiadomoscigwalt.com.pl
+wiadomoscigwalt.eu
+wiadomoscigwalt.net.pl
+wiadomoscigwalt.pl
+wiadomoscigwalt.waw.pl
 wiadomosci-lokalne.5v.pl
 wiadomoscilokalne.eu
 wiadomosci-onet24.ml
@@ -6517,6 +6526,7 @@ www.esyfloresyonline.pl
 www.etamina.pl
 www.etilang.pl
 www.etracking-pocztapolska24.net
+www.etracking-pocztex.eu
 www.eu-click.eworldtrack.com
 www.e-udanezakupy.pl
 www.euforiatattoo.com.pl
@@ -7407,6 +7417,7 @@ www.itorrenty.org
 www.itvwro.pl
 www.iurzad.net
 www.iv24.pl
+www.iwiadomoscigwalt.pl
 www.iwonadzitko.pl
 www.izabelarogowska.pl
 www.izakowalska.pl
@@ -9376,7 +9387,9 @@ www.server879512.nazwa.pl
 www.server938944.nazwa.pl
 www.servicecheck5.wixsite.com
 www.service-pay.company
+www.serwer2019382.home.pl
 www.serwer2045220.home.pl
+www.serwer2058730.home.pl
 www.serwer2079025.home.pl
 www.serwer2081930.home.pl
 www.serwer2082113.home.pl
@@ -10246,6 +10259,11 @@ www.wez-bon.24.eu
 www.wezwanieus.com
 www.whenbuyyousale.co
 www.wiad-info.5v.pl
+www.wiadomoscigwalt.com.pl
+www.wiadomoscigwalt.eu
+www.wiadomoscigwalt.net.pl
+www.wiadomoscigwalt.pl
+www.wiadomoscigwalt.waw.pl
 www.wiadomosci-lokalne.5v.pl
 www.wiadomoscilokalne.eu
 www.wiadomosci-onet24.ml
