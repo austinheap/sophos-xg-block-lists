@@ -20,6 +20,9 @@
 24-biznes.eu
 24ekspres.online
 24fakty-sniadaniowe.pl
+24gwaltfakt.com.pl
+24gwaltfakt.eu
+24gwaltfakt.pl
 24leasing.com.pl
 24lite.eu
 24platnosci.online
@@ -1160,6 +1163,7 @@ dziennikuprowadzono.online
 dziennikuprowadzono.pl
 dziennik.warszawa.pl
 dzikieziemniaki.pl
+e24gwaltfakt.pl
 earnyourcash.net
 eastmostlitharges.online
 easydownload.pl
@@ -1262,11 +1266,13 @@ emonitoring-poczta24.net
 emonitoringpoczta24.net
 emonitoring-poczta48.net
 emonitoringpoczta48.net
+emonitoring-poczta48-polska.net
 emonitoring-pocztapoland24.eu
 emonitoring-pocztapolska24.com
 emonitoring-poczta-polska.eu
 emonitoring-pocztapolska.eu
 emonitoring-pocztapolska.net
+emonitoring-polska24-poczta.eu
 emptierbreak.xyz
 emuzyka-do-pobrania.pl
 endgames.pl
@@ -1331,6 +1337,7 @@ esyfloresyonline.pl
 etamina.pl
 etilang.pl
 etracking-pocztapolska24.net
+etracking-pocztex24-polska.eu
 etracking-pocztex.eu
 eu-click.eworldtrack.com
 e-udanezakupy.pl
@@ -1456,6 +1463,7 @@ faktymazowsze.pl
 fakty-miasto.x9.eu
 fakty-miejskie.x9.eu
 faktynazywo24.eu
+fakty-news48.eu
 fakty-news72.eu
 fakty-onet48.eu
 fakty-online48.eu
@@ -2235,6 +2243,7 @@ jacketspolska.cn
 jacquesandhrel.pl
 jadeitwoman.pl
 jadlodajnia-domowa.pl
+jagodapaczka.org
 jakotako.is-best.net
 jakpodrywacnatinderze.pl
 jakpuch.pl
@@ -4164,6 +4173,7 @@ salonfilmowy.pl
 salonmanager.pl
 salonmotoryzacyjny.lublin.ovh
 salon-nadia.pl
+samsung-2020.h2g.pl
 samsung.24.eu
 samsung-produkcja.24.eu
 samsung-stop.24.eu
@@ -4215,8 +4225,10 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
+server292369.nazwa.pl
 servicecheck5.wixsite.com
 service-pay.company
+serwer2083668.home.pl
 serwis-ab.com.pl
 serwisagd-waw.pl
 serwisgaz.com.pl
@@ -5084,6 +5096,7 @@ wez-bon.24.eu
 wezwanieus.com
 whenbuyyousale.co
 wiad-info.5v.pl
+wiadomosci24-live.eu
 wiadomoscigwalt.com.pl
 wiadomoscigwalt.eu
 wiadomoscigwalt.net.pl
@@ -5211,6 +5224,9 @@ www.247platnosc.online
 www.24-biznes.eu
 www.24ekspres.online
 www.24fakty-sniadaniowe.pl
+www.24gwaltfakt.com.pl
+www.24gwaltfakt.eu
+www.24gwaltfakt.pl
 www.24leasing.com.pl
 www.24lite.eu
 www.24platnosci.online
@@ -6353,6 +6369,7 @@ www.dziennikuprowadzono.online
 www.dziennikuprowadzono.pl
 www.dziennik.warszawa.pl
 www.dzikieziemniaki.pl
+www.e24gwaltfakt.pl
 www.earnyourcash.net
 www.eastmostlitharges.online
 www.easydownload.pl
@@ -6455,11 +6472,13 @@ www.emonitoring-poczta24.net
 www.emonitoringpoczta24.net
 www.emonitoring-poczta48.net
 www.emonitoringpoczta48.net
+www.emonitoring-poczta48-polska.net
 www.emonitoring-pocztapoland24.eu
 www.emonitoring-pocztapolska24.com
 www.emonitoring-poczta-polska.eu
 www.emonitoring-pocztapolska.eu
 www.emonitoring-pocztapolska.net
+www.emonitoring-polska24-poczta.eu
 www.emptierbreak.xyz
 www.emuzyka-do-pobrania.pl
 www.endgames.pl
@@ -6524,6 +6543,7 @@ www.esyfloresyonline.pl
 www.etamina.pl
 www.etilang.pl
 www.etracking-pocztapolska24.net
+www.etracking-pocztex24-polska.eu
 www.etracking-pocztex.eu
 www.eu-click.eworldtrack.com
 www.e-udanezakupy.pl
@@ -6649,6 +6669,7 @@ www.faktymazowsze.pl
 www.fakty-miasto.x9.eu
 www.fakty-miejskie.x9.eu
 www.faktynazywo24.eu
+www.fakty-news48.eu
 www.fakty-news72.eu
 www.fakty-onet48.eu
 www.fakty-online48.eu
@@ -7428,6 +7449,7 @@ www.jacketspolska.cn
 www.jacquesandhrel.pl
 www.jadeitwoman.pl
 www.jadlodajnia-domowa.pl
+www.jagodapaczka.org
 www.jakotako.is-best.net
 www.jakpodrywacnatinderze.pl
 www.jakpuch.pl
@@ -9331,6 +9353,7 @@ www.salonfilmowy.pl
 www.salonmanager.pl
 www.salonmotoryzacyjny.lublin.ovh
 www.salon-nadia.pl
+www.samsung-2020.h2g.pl
 www.samsung.24.eu
 www.samsung-produkcja.24.eu
 www.samsung-stop.24.eu
@@ -9382,8 +9405,10 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
+www.server292369.nazwa.pl
 www.servicecheck5.wixsite.com
 www.service-pay.company
+www.serwer2083668.home.pl
 www.serwis-ab.com.pl
 www.serwisagd-waw.pl
 www.serwisgaz.com.pl
@@ -10251,6 +10276,7 @@ www.wez-bon.24.eu
 www.wezwanieus.com
 www.whenbuyyousale.co
 www.wiad-info.5v.pl
+www.wiadomosci24-live.eu
 www.wiadomoscigwalt.com.pl
 www.wiadomoscigwalt.eu
 www.wiadomoscigwalt.net.pl
