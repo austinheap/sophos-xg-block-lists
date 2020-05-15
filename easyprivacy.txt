@@ -99,7 +99,6 @@ abc.hearst.co.uk
 abcompteur.com
 abc.pema.cl
 abcstats.com
-abeagle-public.buzzfeed.com
 ablsrv.com
 abmr.net
 absolstats.co.za
@@ -6317,6 +6316,7 @@ users.techtarget.com
 userzoom.com
 usuarios-online.com
 utrack.hexun.com
+uts.auction.co.kr
 uue2.destinia.ir
 uuxnwoevyb.com
 uzerly.net

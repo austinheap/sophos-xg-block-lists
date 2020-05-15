@@ -1155,6 +1155,7 @@ dziennik24.x9.eu
 dziennikkcal.pl
 dzienniknews.com.pl
 dzienniknews.pl
+dziennikpolski24.work
 dziennikpolski.hekko24.pl
 dziennikprasowy.eu
 dziennikprasowy.pusiaweb.com
@@ -1163,6 +1164,7 @@ dziennikuprowadzono.online
 dziennikuprowadzono.pl
 dziennik.warszawa.pl
 dzikieziemniaki.pl
+e-24gwaltfakt.pl
 e24gwaltfakt.pl
 earnyourcash.net
 eastmostlitharges.online
@@ -1269,6 +1271,7 @@ emonitoringpoczta48.net
 emonitoring-poczta48-polska.net
 emonitoring-pocztapoland24.eu
 emonitoring-pocztapolska24.com
+emonitoring.poczta-polska2.pl
 emonitoring-poczta-polska.eu
 emonitoring-pocztapolska.eu
 emonitoring-pocztapolska.net
@@ -2669,6 +2672,7 @@ lnpush.pl
 lnstagram.pp.ru
 load9.nowosczdrowieporadyvlc.pl
 loan.arrow-finance.pl
+localinformation.site
 localnewshere.site
 localpressawards.pl
 locked3.com
@@ -3427,8 +3431,10 @@ paczkaadam.com
 paczka-dhl.com
 paczka-doplata.net
 paczkadpd.com
+paczka-inpost.com
 paczka.poczta-pay.com
 paczkikk.com
+paczkiz.pl
 paczkomaty-pl.tk
 paczuli.pl
 pafiilate.byethost32.com
@@ -3671,6 +3677,7 @@ poczta-polska24.net
 pocztapolska24.net
 pocztapolska24.org
 pocztapolska24.pl
+poczta-polska2.pl
 pocztapolska48.com
 poczta-polska48.eu
 poczta-polska48.net
@@ -5176,6 +5183,7 @@ worthlessness.xyz
 wosemd.site
 wosp.online
 wp.6645478.top
+wpisz-dane.pl
 wplogin.5v.pl
 w-polsce.pl
 wp-regulamin.com
@@ -6361,6 +6369,7 @@ www.dziennik24.x9.eu
 www.dziennikkcal.pl
 www.dzienniknews.com.pl
 www.dzienniknews.pl
+www.dziennikpolski24.work
 www.dziennikpolski.hekko24.pl
 www.dziennikprasowy.eu
 www.dziennikprasowy.pusiaweb.com
@@ -6369,6 +6378,7 @@ www.dziennikuprowadzono.online
 www.dziennikuprowadzono.pl
 www.dziennik.warszawa.pl
 www.dzikieziemniaki.pl
+www.e-24gwaltfakt.pl
 www.e24gwaltfakt.pl
 www.earnyourcash.net
 www.eastmostlitharges.online
@@ -6475,6 +6485,7 @@ www.emonitoringpoczta48.net
 www.emonitoring-poczta48-polska.net
 www.emonitoring-pocztapoland24.eu
 www.emonitoring-pocztapolska24.com
+www.emonitoring.poczta-polska2.pl
 www.emonitoring-poczta-polska.eu
 www.emonitoring-pocztapolska.eu
 www.emonitoring-pocztapolska.net
@@ -7875,6 +7886,7 @@ www.lnpush.pl
 www.lnstagram.pp.ru
 www.load9.nowosczdrowieporadyvlc.pl
 www.loan.arrow-finance.pl
+www.localinformation.site
 www.localnewshere.site
 www.localpressawards.pl
 www.locked3.com
@@ -8633,8 +8645,10 @@ www.paczkaadam.com
 www.paczka-dhl.com
 www.paczka-doplata.net
 www.paczkadpd.com
+www.paczka-inpost.com
 www.paczka.poczta-pay.com
 www.paczkikk.com
+www.paczkiz.pl
 www.paczkomaty-pl.tk
 www.paczuli.pl
 www.pafiilate.byethost32.com
@@ -8851,6 +8865,7 @@ www.poczta-polska24.net
 www.pocztapolska24.net
 www.pocztapolska24.org
 www.pocztapolska24.pl
+www.poczta-polska2.pl
 www.pocztapolska48.com
 www.poczta-polska48.eu
 www.poczta-polska48.net
@@ -10356,6 +10371,7 @@ www.worthlessness.xyz
 www.wosemd.site
 www.wosp.online
 www.wp.6645478.top
+www.wpisz-dane.pl
 www.wplogin.5v.pl
 www.w-polsce.pl
 www.wp-regulamin.com
