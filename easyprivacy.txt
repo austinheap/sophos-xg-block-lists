@@ -874,6 +874,7 @@ bglog.bitauto.com
 bgpng.me
 bhu9.bankia.es
 biberukalap.com
+bidder.mediams.mb.softbank.jp
 bidderrtb.com
 bid.g.doubleclick.net
 bidr.io
@@ -1135,6 +1136,7 @@ chart.dk
 checkeffect.at
 checkru.net
 checkstat.nl
+cheqzone.com
 chickensaladandads.com
 c.hit.ua
 chkpt.zdnet.com
@@ -2542,6 +2544,7 @@ geo.metronews.ca
 geo.mezr.com
 geo.mtvnn.com
 geo.nbcsports.com
+geo.ngtv.io
 geo.play.it
 geo.q5media.net
 georiot.com
@@ -3291,6 +3294,7 @@ logdy.com
 log.ecgh.dk
 logentries.com
 log.flight.qunar.com
+log.f-tra.com
 logger.co.kr
 logger.dailymotion.com
 logger.kataweb.it
@@ -4408,6 +4412,7 @@ quadran.eu
 quaintcan.com
 qualaroo.com
 quantcount.com
+quant.jp
 quantummetric.com
 quartic.pl
 qubitanalytics.appspot.com
@@ -6121,7 +6126,6 @@ tr.cloud-media.fr
 tr.connatix.com
 trc.pushnami.com
 tr.discuss.com.hk
-treasuredata.com
 tree-pixel-log.s3.amazonaws.com
 t.regionsjob.com
 trekmedia.net
@@ -6488,6 +6492,7 @@ wdr9.inseec.com
 web1.51.la
 webads.eu
 webassembly.stream
+webbc.fivecdm.com
 web-boosting.net
 webcare.byside.com
 webclicktracker.com
