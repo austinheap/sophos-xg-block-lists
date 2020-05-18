@@ -2523,7 +2523,6 @@ geoip.gulflive.com
 geoip.hmageo.com
 geoip.ifunny.co
 geoip.inquirer.net
-geoip-js.com
 geoip.lehighvalleylive.com
 geoip-lookup.vice.com
 geoip.masslive.com
