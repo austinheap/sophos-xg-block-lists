@@ -20,9 +20,7 @@
 24-biznes.eu
 24ekspres.online
 24fakty-sniadaniowe.pl
-24gwaltfakt.com.pl
 24gwaltfakt.eu
-24gwaltfakt.pl
 24leasing.com.pl
 24lite.eu
 24platnosci.online
@@ -97,6 +95,7 @@ adampaczka.com
 adapterylaptopa.com
 adaranth.com
 adarts.pl
+adasiapaczka.org
 adblock-listefr.com
 addays.pl
 adeptia.pl
@@ -162,6 +161,8 @@ airmaxonlinesklep.pl
 airmaxpolska.com
 airmore.pl
 akademiajasia.pl
+akademia-kursow-rozwojowych-app.com
+akademia-kursow-rozwojowych.com
 akademiamocowania.pl
 akademianaukowa.pl
 akademiasw.pl
@@ -541,6 +542,8 @@ bondbengals.info
 bonnisi.com
 bonswiateczny.24.eu
 bonus.gamblingz.net
+bonynaszkolenia.eu
+bonynaszkolenie.eu
 boobi.biz
 bookbugg.com
 bookeria.pl
@@ -1156,8 +1159,6 @@ dziennikuprowadzono.online
 dziennikuprowadzono.pl
 dziennik.warszawa.pl
 dzikieziemniaki.pl
-e-24gwaltfakt.pl
-e24gwaltfakt.pl
 earnyourcash.net
 eastmostlitharges.online
 easydownload.pl
@@ -1299,6 +1300,7 @@ epliki24.pl
 eplotery.pl
 epoczta247.com
 epocztapolska24.pl
+e-poczta-polska.com
 epocztapolska.pl
 e-pocztex.pl
 epocztex.pl
@@ -1660,6 +1662,9 @@ fotobraj.pl
 fotobudkahihotka.pl
 fotofilmsluby.pl
 fotograficzny.fun
+fotografnapiatke.com.pl
+fotografnapiatke.net.pl
+fotografnapiatke.pl
 fotojagodaskora.pl
 fotokaszuby.pl
 fotokraci.pl
@@ -1769,6 +1774,7 @@ garmulewicz.pl
 gastroakcesoria.pl
 gastrohurt.neostrada.pl
 gastroradiologia.pl
+gatezio.com
 gaudiatrzebnica.pl
 gawaher-services.com
 gayfakt.pl
@@ -1941,6 +1947,11 @@ guitarforce.pl
 gumka.strefa.pl
 gustaw-harnas.pl
 gutfilm.pl
+gwaltmonitoring.com.pl
+gwaltmonitoring.pl
+gwaltpolska.com.pl
+gwaltpolska.eu
+gwaltpolska.pl
 gwaltwiadomosc.com.pl
 gwaltwiadomosc.eu
 gwaltwiadomosc.net.pl
@@ -2107,6 +2118,7 @@ incruises.com
 indiecakes.com
 industry-deals.com
 inesmanila.com
+inevitablesituations.com
 infasd2a.is-best.net
 info-24.cloud
 info24-warszawa.pl
@@ -2170,6 +2182,7 @@ insplug.pl
 install.pdfconverterhd.com
 instantgiftcodes.com
 instrukcjapolska.pl
+instytut-doszkalajacy.com
 instytutmed.pl
 instytut-pomocy.pl
 interiordream.pl
@@ -2491,6 +2504,7 @@ kproject.pl
 kpzkaj.pl
 kraina-kopciuszka.pl
 krainakuhailana.pl
+krainazabawek.com
 krajowe.098.pl
 krakow-elektryk24.pl
 kramikeli.pl
@@ -2589,6 +2603,7 @@ ldrcp.pl
 leaderhouse.pl
 lead.network
 leadn.pl
+leadtrack.pl
 leadzu.com
 leadzupc.com
 leafcreative.pl
@@ -3110,6 +3125,7 @@ ncrtrade.top
 nebulait.pl
 needforfile.net
 nekkel.pl
+nelsondyalkjs.com
 neocam.pl
 neomedia24.net
 neomedia.in.net
@@ -3200,6 +3216,7 @@ norbikurier.org
 northfacepl.com
 northfacesklep.pl
 norton.pl
+notariuszpetrus.pl
 notatnik-poliglotki.pl
 notesoftheblue.pl
 notification-list.com
@@ -3234,6 +3251,7 @@ nvod.pl
 nyctrk.com
 nympropiedades.cl
 o2-fakty.pro
+o2.regulamin-poczty.net
 oazaborek.pl
 oberzapodorzechem.pl
 obeyter.com
@@ -3671,6 +3689,7 @@ poczta-polska.net
 poczta-polska.services
 pocztex-24.link
 pocztex-48.net
+pocztex-paczka24.com
 pocztex-poland.net
 pocztex-polska24.com
 pocztexpolska24.com
@@ -3778,6 +3797,7 @@ posciele.za.pl
 poscielowyraj.pl
 poshettescafe.com
 post-341478.info
+post-990094.at
 poszukiwanadziewczynka.eu
 poszukiwananatalka.eu
 poszukiwananatalka.net.pl
@@ -3854,6 +3874,7 @@ profitmaximum.pl
 profit-trader.net
 profolan.pl
 programdarmowy.pl
+programrefundacji.pl
 programyfb.blogspot.com
 programyhakerskie.pl
 programyobywatelskie.pl
@@ -4050,6 +4071,7 @@ reg-me.pl
 regulamin-interia.com
 regulamin-onet.com
 regulamin-poczty.com
+regulamin-poczty.net
 regulamin-wirtualnapolska.com
 regulamin-wirtualnapolska.icu
 regulamin-wp.com
@@ -4126,6 +4148,7 @@ royalestate.com.pl
 rozaart.com.pl
 roznehistorie.pl
 rozpalamynadzieje.pl
+roztini51.com
 rrbajkowa.pl
 rsvpcatering.pl
 rtvagdpro.net
@@ -4145,6 +4168,7 @@ r.xyz1.pl
 rynkiewicz.com.pl
 rytmybielizny.pl
 rzezba-gluch.pl
+s10nth.sureyouwillloveit.com
 s1te.com.pl
 s1te.eu
 s1te.pl
@@ -4164,6 +4188,7 @@ salonmanager.pl
 salonmotoryzacyjny.lublin.ovh
 salon-nadia.pl
 samsung-2020.h2g.pl
+samsung2020.h2g.pl
 samsung.24.eu
 samsung-produkcja.24.eu
 samsung-stop.24.eu
@@ -4567,6 +4592,7 @@ support2.p-traceable.ga
 support2.trocable.ga
 support-konto.pl
 suprabuty.pl
+sureyouwillloveit.com
 svgoptimax5.live
 swagshoes.pl
 swarzewo-fala.pl
@@ -5049,6 +5075,7 @@ wapster.pl
 wardon.pl
 warosprawdzic.is-best.net
 warsawlimousine.pl
+warszawa-fakt.pl
 warszawafakty.eu
 warszawa-gov24.pl
 warszawa-gov.pl
@@ -5089,6 +5116,7 @@ wettinlegal.pl
 wez-bon.24.eu
 wezwanieus.com
 whenbuyyousale.co
+whiskytawn.xyz
 wiad-info.5v.pl
 wiadomosci24-live.eu
 wiadomoscigwalt.eu
@@ -5149,6 +5177,7 @@ wmcs.pl
 wmodynca73.pl
 wmoimsklepie.pl
 wnp24.pl
+wojewódzki-serwis-informacyjny.com
 wojtekczyrnek.pl
 wolaklosza.is-best.net
 wolnezycie.info
@@ -5177,6 +5206,7 @@ wroclawnafotografii.pl
 wrozbyonline.net
 wrzeszcz-pallotyni.pl
 wsmwarszawa.pl
+wsparciejezykowe.eu
 wspolniedlaprzyszlosci.pl
 wszyscyrodacy.com
 wszystkiemiasta.pl
@@ -5215,9 +5245,7 @@ www.247platnosc.online
 www.24-biznes.eu
 www.24ekspres.online
 www.24fakty-sniadaniowe.pl
-www.24gwaltfakt.com.pl
 www.24gwaltfakt.eu
-www.24gwaltfakt.pl
 www.24leasing.com.pl
 www.24lite.eu
 www.24platnosci.online
@@ -5292,6 +5320,7 @@ www.adampaczka.com
 www.adapterylaptopa.com
 www.adaranth.com
 www.adarts.pl
+www.adasiapaczka.org
 www.adblock-listefr.com
 www.addays.pl
 www.adeptia.pl
@@ -5357,6 +5386,8 @@ www.airmaxonlinesklep.pl
 www.airmaxpolska.com
 www.airmore.pl
 www.akademiajasia.pl
+www.akademia-kursow-rozwojowych-app.com
+www.akademia-kursow-rozwojowych.com
 www.akademiamocowania.pl
 www.akademianaukowa.pl
 www.akademiasw.pl
@@ -5738,6 +5769,8 @@ www.bondbengals.info
 www.bonnisi.com
 www.bonswiateczny.24.eu
 www.bonus.gamblingz.net
+www.bonynaszkolenia.eu
+www.bonynaszkolenie.eu
 www.boobi.biz
 www.bookbugg.com
 www.bookeria.pl
@@ -6353,8 +6386,6 @@ www.dziennikuprowadzono.online
 www.dziennikuprowadzono.pl
 www.dziennik.warszawa.pl
 www.dzikieziemniaki.pl
-www.e-24gwaltfakt.pl
-www.e24gwaltfakt.pl
 www.earnyourcash.net
 www.eastmostlitharges.online
 www.easydownload.pl
@@ -6496,6 +6527,7 @@ www.epliki24.pl
 www.eplotery.pl
 www.epoczta247.com
 www.epocztapolska24.pl
+www.e-poczta-polska.com
 www.epocztapolska.pl
 www.e-pocztex.pl
 www.epocztex.pl
@@ -6857,6 +6889,9 @@ www.fotobraj.pl
 www.fotobudkahihotka.pl
 www.fotofilmsluby.pl
 www.fotograficzny.fun
+www.fotografnapiatke.com.pl
+www.fotografnapiatke.net.pl
+www.fotografnapiatke.pl
 www.fotojagodaskora.pl
 www.fotokaszuby.pl
 www.fotokraci.pl
@@ -6966,6 +7001,7 @@ www.garmulewicz.pl
 www.gastroakcesoria.pl
 www.gastrohurt.neostrada.pl
 www.gastroradiologia.pl
+www.gatezio.com
 www.gaudiatrzebnica.pl
 www.gawaher-services.com
 www.gayfakt.pl
@@ -7138,6 +7174,11 @@ www.guitarforce.pl
 www.gumka.strefa.pl
 www.gustaw-harnas.pl
 www.gutfilm.pl
+www.gwaltmonitoring.com.pl
+www.gwaltmonitoring.pl
+www.gwaltpolska.com.pl
+www.gwaltpolska.eu
+www.gwaltpolska.pl
 www.gwaltwiadomosc.com.pl
 www.gwaltwiadomosc.eu
 www.gwaltwiadomosc.net.pl
@@ -7304,6 +7345,7 @@ www.incruises.com
 www.indiecakes.com
 www.industry-deals.com
 www.inesmanila.com
+www.inevitablesituations.com
 www.infasd2a.is-best.net
 www.info-24.cloud
 www.info24-warszawa.pl
@@ -7367,6 +7409,7 @@ www.insplug.pl
 www.install.pdfconverterhd.com
 www.instantgiftcodes.com
 www.instrukcjapolska.pl
+www.instytut-doszkalajacy.com
 www.instytutmed.pl
 www.instytut-pomocy.pl
 www.interiordream.pl
@@ -7688,6 +7731,7 @@ www.kproject.pl
 www.kpzkaj.pl
 www.kraina-kopciuszka.pl
 www.krainakuhailana.pl
+www.krainazabawek.com
 www.krajowe.098.pl
 www.krakow-elektryk24.pl
 www.kramikeli.pl
@@ -7786,6 +7830,7 @@ www.ldrcp.pl
 www.leaderhouse.pl
 www.lead.network
 www.leadn.pl
+www.leadtrack.pl
 www.leadzu.com
 www.leadzupc.com
 www.leafcreative.pl
@@ -8307,6 +8352,7 @@ www.ncrtrade.top
 www.nebulait.pl
 www.needforfile.net
 www.nekkel.pl
+www.nelsondyalkjs.com
 www.neocam.pl
 www.neomedia24.net
 www.neomedia.in.net
@@ -8397,6 +8443,7 @@ www.norbikurier.org
 www.northfacepl.com
 www.northfacesklep.pl
 www.norton.pl
+www.notariuszpetrus.pl
 www.notatnik-poliglotki.pl
 www.notesoftheblue.pl
 www.notification-list.com
@@ -8431,6 +8478,7 @@ www.nvod.pl
 www.nyctrk.com
 www.nympropiedades.cl
 www.o2-fakty.pro
+www.o2.regulamin-poczty.net
 www.oazaborek.pl
 www.oberzapodorzechem.pl
 www.obeyter.com
@@ -8842,6 +8890,7 @@ www.poczta-polska.net
 www.poczta-polska.services
 www.pocztex-24.link
 www.pocztex-48.net
+www.pocztex-paczka24.com
 www.pocztex-poland.net
 www.pocztex-polska24.com
 www.pocztexpolska24.com
@@ -8949,6 +8998,7 @@ www.posciele.za.pl
 www.poscielowyraj.pl
 www.poshettescafe.com
 www.post-341478.info
+www.post-990094.at
 www.poszukiwanadziewczynka.eu
 www.poszukiwananatalka.eu
 www.poszukiwananatalka.net.pl
@@ -9025,6 +9075,7 @@ www.profitmaximum.pl
 www.profit-trader.net
 www.profolan.pl
 www.programdarmowy.pl
+www.programrefundacji.pl
 www.programyfb.blogspot.com
 www.programyhakerskie.pl
 www.programyobywatelskie.pl
@@ -9221,6 +9272,7 @@ www.reg-me.pl
 www.regulamin-interia.com
 www.regulamin-onet.com
 www.regulamin-poczty.com
+www.regulamin-poczty.net
 www.regulamin-wirtualnapolska.com
 www.regulamin-wirtualnapolska.icu
 www.regulamin-wp.com
@@ -9297,6 +9349,7 @@ www.royalestate.com.pl
 www.rozaart.com.pl
 www.roznehistorie.pl
 www.rozpalamynadzieje.pl
+www.roztini51.com
 www.rrbajkowa.pl
 www.rsvpcatering.pl
 www.rtvagdpro.net
@@ -9316,6 +9369,7 @@ www.r.xyz1.pl
 www.rynkiewicz.com.pl
 www.rytmybielizny.pl
 www.rzezba-gluch.pl
+www.s10nth.sureyouwillloveit.com
 www.s1te.com.pl
 www.s1te.eu
 www.s1te.pl
@@ -9335,6 +9389,7 @@ www.salonmanager.pl
 www.salonmotoryzacyjny.lublin.ovh
 www.salon-nadia.pl
 www.samsung-2020.h2g.pl
+www.samsung2020.h2g.pl
 www.samsung.24.eu
 www.samsung-produkcja.24.eu
 www.samsung-stop.24.eu
@@ -9738,6 +9793,7 @@ www.support2.p-traceable.ga
 www.support2.trocable.ga
 www.support-konto.pl
 www.suprabuty.pl
+www.sureyouwillloveit.com
 www.svgoptimax5.live
 www.swagshoes.pl
 www.swarzewo-fala.pl
@@ -10220,6 +10276,7 @@ www.wapster.pl
 www.wardon.pl
 www.warosprawdzic.is-best.net
 www.warsawlimousine.pl
+www.warszawa-fakt.pl
 www.warszawafakty.eu
 www.warszawa-gov24.pl
 www.warszawa-gov.pl
@@ -10260,6 +10317,7 @@ www.wettinlegal.pl
 www.wez-bon.24.eu
 www.wezwanieus.com
 www.whenbuyyousale.co
+www.whiskytawn.xyz
 www.wiad-info.5v.pl
 www.wiadomosci24-live.eu
 www.wiadomoscigwalt.eu
@@ -10320,6 +10378,7 @@ www.wmcs.pl
 www.wmodynca73.pl
 www.wmoimsklepie.pl
 www.wnp24.pl
+www.wojewódzki-serwis-informacyjny.com
 www.wojtekczyrnek.pl
 www.wolaklosza.is-best.net
 www.wolnezycie.info
@@ -10348,6 +10407,7 @@ www.wroclawnafotografii.pl
 www.wrozbyonline.net
 www.wrzeszcz-pallotyni.pl
 www.wsmwarszawa.pl
+www.wsparciejezykowe.eu
 www.wspolniedlaprzyszlosci.pl
 www.wszyscyrodacy.com
 www.wszystkiemiasta.pl
