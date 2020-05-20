@@ -132,7 +132,6 @@ adsivo.pl
 adturtle.biz
 adupathrun.pl
 adventurefeeds.com
-adwokatkowalska.pl
 adworkmedia.com
 aerosneakers.pl
 affiliater.pl
@@ -333,7 +332,6 @@ asicsgel.pl
 asicspl.pl
 asicspoland.pl
 asicspoland.top
-asicstanio.pl
 asicswyprzedaz.pl
 aspenholding.co
 aspenholding.com
@@ -755,6 +753,7 @@ chytra-swinka.pl
 cichodaje.pl
 cicory.com
 ciekawehistorie.pl
+ciekawewydarzenia.online
 cieslakwz.cba.pl
 ciezkieczasy.is-best.net
 cinektyper.blogspot.com
@@ -833,7 +832,6 @@ cool4mob.com
 cool-technology.com
 coreplays.com
 corezone.pl
-corneliafunke.pl
 coronadisco.co.uk
 coronavirustestkit.co.za
 counterpointmagazine.org
@@ -928,6 +926,7 @@ dampolznicze.pl
 dampozyczke.pl
 danangluxury.com
 danchamp.pl
+dansports.eu
 dariuszdopierala.pl
 dariuszlaksa.pl
 darknessintheforest.pl
@@ -1110,6 +1109,7 @@ drinkiprzepisy.pl
 drmartensbuty.pl
 drmartenspl.pl
 drmartenspolska.com
+drogeriesms.net
 drogoweplyty.pl
 drsaritabhalerao.com
 drukarniaskarbowa.pl
@@ -1259,6 +1259,7 @@ emobi-sys.com
 emonitoring24.eu
 emonitoring24.net.pl
 emonitoring24.online
+emonitoring-epoczta24polska.net
 emonitoring-poczta24.net
 emonitoringpoczta24.net
 emonitoring-poczta48.net
@@ -1451,6 +1452,7 @@ faktygwalt.com.pl
 faktygwalt.net.pl
 faktygwalt.pl
 faktygwalt.waw.pl
+faktyinews24.eu
 faktylive-24.eu
 faktymazowsze.eu
 faktymazowsze.pl
@@ -1578,6 +1580,7 @@ filmowo.co
 filmowo-hd.pl
 filmplay.pl
 filmserialeonlineee.blogspot.com
+filmspolandxxx.com
 filmstube.pl
 filmu.pl
 film-vod.pl
@@ -2730,7 +2733,6 @@ lubuskauniapracy.pl
 luckyducknet.com
 lucyfeed.com
 luczko.pl
-ludpol.pl
 lukaszadamski.pl
 lukaszcholuj.pl
 lukaszprogramista.pl
@@ -2837,6 +2839,7 @@ max-host.pl
 maxitrade.com
 maymaychihai.com
 mayonez.pl
+mazowieckie-info.pl
 mazowskagazeta.eu
 mazowskagazeta.pl
 mbp-brzeziny.pl
@@ -2876,7 +2879,6 @@ megadown.us
 mega-gry.com
 megamieszkania.pl
 megazakupy.net
-megolbassia.com
 mememakers.mobi
 menshealthweb.co
 mephisto.nd.e-wro.pl
@@ -3420,7 +3422,6 @@ outletowo.com
 outletto24.com
 overcreative.com
 owdominikana.pl
-owio.pl
 owl-art.pl
 ozebox.pl
 ozzp-rp.pl
@@ -3684,6 +3685,7 @@ pocztapolska48.com
 poczta-polska48.eu
 poczta-polska48.net
 pocztapolska48.net
+poczta-polska4.pl
 pocztapolska.eu
 poczta-polska.net
 poczta-polska.services
@@ -3710,6 +3712,7 @@ po.fyybox.com
 pogodaanuluj.net
 pogodameteo.net
 pogodaparyz.pl
+pogodasms.net
 pogodasub.com
 pogodzinska.pl
 pogotowie.pcserwis.c0.pl
@@ -3880,7 +3883,6 @@ programyhakerskie.pl
 programyobywatelskie.pl
 proimagephoto.pl
 projectalbum.pl
-projectolynx.com
 projektrestart.pl
 prokino.pl
 promediapr.pl
@@ -3960,7 +3962,6 @@ pumapolskasklep.pl
 pumaprzeceny.pl
 pumaskleponline.pl
 pumatanio.com
-pumawyprzedaz.pl
 pumeksy.pl
 puna.pl
 purchasedyouasa.co
@@ -4142,7 +4143,6 @@ roulettenumber.com
 roundcube.pl
 roundupbarandgrill.com
 rovingadventures.com
-rowanyne.ooo
 roweremnasniezke.pl
 royalestate.com.pl
 rozaart.com.pl
@@ -4178,7 +4178,6 @@ sabiosdelamor.co
 sailsteam.pl
 salake.pl
 salomonbuty.pl
-salomonpoland.pl
 salomonpolska.com
 salomonpolska.pl
 salomonwyprzedaz.pl
@@ -4356,7 +4355,6 @@ slawop.net
 slidex.com.pl
 slimak-pozyczki.pl
 slipknot1.pl
-sliwerski.pl
 slodkibar.pl
 sloganopis.pl
 sloneczne-termy.pl
@@ -4895,6 +4893,7 @@ twoja-kariera.pl
 twojakawa24.pl
 twojalaweta.com.pl
 twojanagroda.co.pl
+twojanatura.com
 twojapaczka-24.com
 twoja-pozyczka.com
 twoja-wygrana.com
@@ -5357,7 +5356,6 @@ www.adsivo.pl
 www.adturtle.biz
 www.adupathrun.pl
 www.adventurefeeds.com
-www.adwokatkowalska.pl
 www.adworkmedia.com
 www.aerosneakers.pl
 www.affiliater.pl
@@ -5560,7 +5558,6 @@ www.asicsgel.pl
 www.asicspl.pl
 www.asicspoland.pl
 www.asicspoland.top
-www.asicstanio.pl
 www.asicswyprzedaz.pl
 www.aspenholding.co
 www.aspenholding.com
@@ -5982,6 +5979,7 @@ www.chytra-swinka.pl
 www.cichodaje.pl
 www.cicory.com
 www.ciekawehistorie.pl
+www.ciekawewydarzenia.online
 www.cieslakwz.cba.pl
 www.ciezkieczasy.is-best.net
 www.cinektyper.blogspot.com
@@ -6060,7 +6058,6 @@ www.cool4mob.com
 www.cool-technology.com
 www.coreplays.com
 www.corezone.pl
-www.corneliafunke.pl
 www.coronadisco.co.uk
 www.coronavirustestkit.co.za
 www.counterpointmagazine.org
@@ -6155,6 +6152,7 @@ www.dampolznicze.pl
 www.dampozyczke.pl
 www.danangluxury.com
 www.danchamp.pl
+www.dansports.eu
 www.dariuszdopierala.pl
 www.dariuszlaksa.pl
 www.darknessintheforest.pl
@@ -6337,6 +6335,7 @@ www.drinkiprzepisy.pl
 www.drmartensbuty.pl
 www.drmartenspl.pl
 www.drmartenspolska.com
+www.drogeriesms.net
 www.drogoweplyty.pl
 www.drsaritabhalerao.com
 www.drukarniaskarbowa.pl
@@ -6486,6 +6485,7 @@ www.emobi-sys.com
 www.emonitoring24.eu
 www.emonitoring24.net.pl
 www.emonitoring24.online
+www.emonitoring-epoczta24polska.net
 www.emonitoring-poczta24.net
 www.emonitoringpoczta24.net
 www.emonitoring-poczta48.net
@@ -6678,6 +6678,7 @@ www.faktygwalt.com.pl
 www.faktygwalt.net.pl
 www.faktygwalt.pl
 www.faktygwalt.waw.pl
+www.faktyinews24.eu
 www.faktylive-24.eu
 www.faktymazowsze.eu
 www.faktymazowsze.pl
@@ -6805,6 +6806,7 @@ www.filmowo.co
 www.filmowo-hd.pl
 www.filmplay.pl
 www.filmserialeonlineee.blogspot.com
+www.filmspolandxxx.com
 www.filmstube.pl
 www.filmu.pl
 www.film-vod.pl
@@ -7957,7 +7959,6 @@ www.lubuskauniapracy.pl
 www.luckyducknet.com
 www.lucyfeed.com
 www.luczko.pl
-www.ludpol.pl
 www.lukaszadamski.pl
 www.lukaszcholuj.pl
 www.lukaszprogramista.pl
@@ -8064,6 +8065,7 @@ www.max-host.pl
 www.maxitrade.com
 www.maymaychihai.com
 www.mayonez.pl
+www.mazowieckie-info.pl
 www.mazowskagazeta.eu
 www.mazowskagazeta.pl
 www.mbp-brzeziny.pl
@@ -8103,7 +8105,6 @@ www.megadown.us
 www.mega-gry.com
 www.megamieszkania.pl
 www.megazakupy.net
-www.megolbassia.com
 www.mememakers.mobi
 www.menshealthweb.co
 www.mephisto.nd.e-wro.pl
@@ -8647,7 +8648,6 @@ www.outletowo.com
 www.outletto24.com
 www.overcreative.com
 www.owdominikana.pl
-www.owio.pl
 www.owl-art.pl
 www.ozebox.pl
 www.ozzp-rp.pl
@@ -8885,6 +8885,7 @@ www.pocztapolska48.com
 www.poczta-polska48.eu
 www.poczta-polska48.net
 www.pocztapolska48.net
+www.poczta-polska4.pl
 www.pocztapolska.eu
 www.poczta-polska.net
 www.poczta-polska.services
@@ -8911,6 +8912,7 @@ www.po.fyybox.com
 www.pogodaanuluj.net
 www.pogodameteo.net
 www.pogodaparyz.pl
+www.pogodasms.net
 www.pogodasub.com
 www.pogodzinska.pl
 www.pogotowie.pcserwis.c0.pl
@@ -9081,7 +9083,6 @@ www.programyhakerskie.pl
 www.programyobywatelskie.pl
 www.proimagephoto.pl
 www.projectalbum.pl
-www.projectolynx.com
 www.projektrestart.pl
 www.prokino.pl
 www.promediapr.pl
@@ -9161,7 +9162,6 @@ www.pumapolskasklep.pl
 www.pumaprzeceny.pl
 www.pumaskleponline.pl
 www.pumatanio.com
-www.pumawyprzedaz.pl
 www.pumeksy.pl
 www.puna.pl
 www.purchasedyouasa.co
@@ -9343,7 +9343,6 @@ www.roulettenumber.com
 www.roundcube.pl
 www.roundupbarandgrill.com
 www.rovingadventures.com
-www.rowanyne.ooo
 www.roweremnasniezke.pl
 www.royalestate.com.pl
 www.rozaart.com.pl
@@ -9379,7 +9378,6 @@ www.sabiosdelamor.co
 www.sailsteam.pl
 www.salake.pl
 www.salomonbuty.pl
-www.salomonpoland.pl
 www.salomonpolska.com
 www.salomonpolska.pl
 www.salomonwyprzedaz.pl
@@ -9557,7 +9555,6 @@ www.slawop.net
 www.slidex.com.pl
 www.slimak-pozyczki.pl
 www.slipknot1.pl
-www.sliwerski.pl
 www.slodkibar.pl
 www.sloganopis.pl
 www.sloneczne-termy.pl
@@ -10096,6 +10093,7 @@ www.twoja-kariera.pl
 www.twojakawa24.pl
 www.twojalaweta.com.pl
 www.twojanagroda.co.pl
+www.twojanatura.com
 www.twojapaczka-24.com
 www.twoja-pozyczka.com
 www.twoja-wygrana.com
@@ -10590,6 +10588,7 @@ www.zespolformat.com.pl
 www.zespolkanaan.pl
 www.zespolnaslub.pl
 www.zespol-sasiedzi.pl
+www.zestawnaprawczy-do-wgniecen.com
 www.zgarniij_vouchher.skroc.pl
 www.zgarnij.net
 www.zgarnijplik.pl
@@ -10816,6 +10815,7 @@ zespolformat.com.pl
 zespolkanaan.pl
 zespolnaslub.pl
 zespol-sasiedzi.pl
+zestawnaprawczy-do-wgniecen.com
 zgarniij_vouchher.skroc.pl
 zgarnij.net
 zgarnijplik.pl
