@@ -717,7 +717,6 @@ actions-latb.taboola.com
 actions-nj.taboola.com
 actions-sg.taboola.com
 actionteaser.ru
-activate.boostmobile.com
 active.iperceptions.com
 activenetwork-d.openx.net
 activity.m.duiba.com.cn
@@ -1677,7 +1676,6 @@ ais-api.applicaster.com
 ais.applicaster.com
 ai.taobao.com
 ai.voiceads.cn
-aka-apiservices.boostmobile.com
 aka-cdn.adtech.de
 aka-cdn-ns.adtech.de
 akamai.cdneval.adnxs.com
@@ -2032,7 +2030,6 @@ antenna.ayads.co
 antenna-us.ayads.co
 anthill.vn
 antivirus.baidu.com
-anx.mindspark.com
 an.yandex.ru
 anycast.adnxs.com
 anycast.dt.adsafeprotected.com
@@ -2229,7 +2226,6 @@ api.glance.inmobi.com
 api.greystripe.com
 api.growthbeat.com
 api.growthpush.com
-api-grpc.lightstep.com
 api.hadarone.com
 api.hdtv.letv.com
 api.huqindustries.co.uk
@@ -2292,7 +2288,6 @@ api.mobileanjian.com
 api.mobileapptracking.com
 api.mobilearts.io
 api.mobilebridge.com
-api.mobileday.com
 api.mobilewareinc.com
 api.mobitech-content.xyz
 api.moblink.mob.com
@@ -2531,7 +2526,6 @@ app-c.net
 app.cobrowser.com
 appconfig.cmgdigital.com
 app-config.enhance.co
-appcontent.boostmobile.com
 app.datorama.com
 appdeumext.tdameritrade.com
 appdiscovery.apptap.com
@@ -2589,7 +2583,6 @@ app.matheranalytics.com
 app-measurement.com
 app.meltwater.com
 appmetrica.yandex.com
-app.mobilecause.com
 app.mopub.com
 app.netpark.us
 app.networkad.net
@@ -2756,7 +2749,6 @@ aqt.adalliance.io
 a.r10.mopub.com
 araman.kameleoon.com
 aranzulla-d.openx.net
-arcgis.mobile311.com
 archive.adjust.io
 arc-native-apps.s3.amazonaws.com
 ares.agoop.net
@@ -2802,7 +2794,6 @@ askfm.adspirit.de
 askfm.pushwoosh.com
 askfm-usd-d.openx.net
 ask.log.kuyun.com
-as-p-e.jitterbit.com
 a-srvjsr.media.net
 as-sec.casalemedia.com
 asset1.sponsorpay.com
@@ -3272,7 +3263,6 @@ bridge.sf.admarketplace.net
 bridge.sfo1.admarketplace.net
 brightroll.com
 brightroll-partners.tremorhub.com
-br.mobilelifeconnect.com
 br.newrelic.com
 broker.staging-video-v2.fyber.com
 broker.video-v2.fyber.com
@@ -3734,7 +3724,6 @@ cdn.vdopia.com
 cdn.viglink.com
 cdn-webview-pge.unityads.unity3d.com
 cdnwidget.com
-cdn.wootric.com
 cdn.wpm.neustar.biz
 cdn.zarget.com
 cdp.cloud.unity3d.com
@@ -4138,11 +4127,8 @@ collector.capturly.com
 collector.cint.com
 collector.doordash.com
 collector.effectivemeasure.net
-collector-grpc.lightstep.com
 collector.insight-stats.com
 collector.leaddyno.com
-collector.lightstep.com
-collector-medium.lightstep.com
 collector.newrelic.com
 collector.placelocal.com
 collector-pool.newrelic.com
@@ -4479,9 +4465,6 @@ cz-gmtdmp.mookie1.com
 d1.hadarone.com
 d2cmedia.ca
 d2.hadarone.com
-d365portal-prod-sdk.akstd.azureedge.net
-d365portal-prod-sdk.azureedge.net
-d365prod-sdk.azureedge.net
 d3.condenast.servedbyopenx.com
 d3.hadarone.com
 d3kkw-6ch3c.ads.tremorhub.com
@@ -5072,7 +5055,6 @@ embed.tempest-identity.prod.saymedia.com
 em.bm23.com
 em.dynamicyield.com
 emea-v3.tracking.justpremium.com
-emea-west.jitterbit.com
 emediate.se
 emmis.deliveryengine.adswizz.com
 emoo.adperfect.com
@@ -5198,7 +5180,6 @@ es-gmtdmp.mookie1.com
 esi.amp.permutive.com
 esimedia-d.openx.net
 espn.hb.omtrdc.net
-esri.mobile311.com
 e-ssl.apsalar.com
 e-ssl-attribution-gate.apsalar.com
 et2-eu13.wagbridge.alibaba.tanx.com
@@ -5233,7 +5214,6 @@ eu-gmtdmp.gd1.mookie1.com
 eu-gmtdmp.mookie1.com
 eu-iptp0.game-insight.com
 eu-iptp61.game-insight.com
-eula.mindspark.com
 eu-level1.dyntrk.com
 eu-lon03.marketo.com
 eu-lon05.marketo.com
@@ -6250,8 +6230,6 @@ images-static.vrvm.com
 images.taboola.com
 images.viglink.com
 image.zcoup.com
-imapi-mu.isnssdk.com
-imapi-sg.isnssdk.com
 imatmobile.com
 imb-offerwall-env.us-east-1.elasticbeanstalk.com
 imces.dfw1.vip.inmobi.com
@@ -6970,7 +6948,6 @@ logs.81plug.com
 logsdk.qq.com
 log.sdk.zadn.vn
 logserver.insight.ucweb.com
-logservices.ipass.com
 logs.game-insight.com
 log.sina.cn
 logs.locarta.co
@@ -7411,7 +7388,6 @@ millenialmedia.com
 millennialmedia.com
 millennialmedia-d.openx.net
 millicom.pushwoosh.com
-milliyetreklam-p.mncdn.com
 mime.iad.adswizz.com
 min.admicro.vn
 mindbodygreen-d.openx.net
@@ -7769,7 +7745,6 @@ n.ads1-adnow.com
 n.ads2-adnow.com
 n.ads3-adnow.com
 n.ads5-adnow.com
-na-east.jitterbit.com
 na-eb2.3lift.com
 na-gateway.supersonicads.com
 na-g.marketo.com
@@ -8043,7 +8018,6 @@ ol.jp.at.atwola.com
 olxpl-d.openx.net
 olxro-d.openx.net
 omax.admarvel.com
-om-datacollector.ipass.com
 omgmta.qq.com
 omg-studio-d.openx.net
 omsdk.prod.vidible.tv
@@ -9065,7 +9039,6 @@ res.tdxio.com
 rest.dynamicyield.com
 rest.iad-01.braze.com
 rest.iad-03.braze.com
-rest.mobilerealtyapps.com
 rest.segmentify.com
 rest.sharethis.com
 retagro.com
@@ -9514,7 +9487,6 @@ sdk-ios.ad.smaato.net
 sdk.jeeng.com
 sdkjustad-a.akamaihd.net
 sdk.justad.mobi
-sdk.kamcord.com
 sdk-key.ulsee.com
 sdk.kingoapp.com
 sdk-log.gwallet.com
@@ -9777,7 +9749,6 @@ serving.pixsense.net
 serving-sys.com
 servs.adblox.net
 sessionm.com
-sessions.mobileroadie.com
 sestat.baidu.com
 seth.avazutracking.net
 s-et-rc-w.inmobi.com
@@ -9964,7 +9935,6 @@ s-jsonp.moatads.com
 s.jsrdn.com
 skai.iad-03.braze.com
 sk-gmtdmp.mookie1.com
-skin.mobilesentrix.com
 skw.adledge.com
 skypicker-api.infinario.com
 sladermobile-d.openx.net
