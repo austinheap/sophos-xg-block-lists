@@ -1067,6 +1067,7 @@ dotpay.bok-poczta.pl
 dotpay.emonitoringpoczta24.net
 dotpay.emonitoringpoczta48.net
 dotpay.emonitoring-pocztapolska.eu
+dotpay.epaybylink.pl
 dotpay.etracking-pocztex48.net
 dotpay.etracking-pocztex.eu
 dotpay.ipocztapolska.pl
@@ -1203,6 +1204,7 @@ edenslask.pl
 edofinansowania.eu
 e-dorecz.pl
 edotpay.pl
+e-dpd.pl
 eduhull.pl
 edukacjawakcji.pl
 edukacjawysylkowa.pl
@@ -1272,6 +1274,7 @@ emonitoring.poczta-polska2.pl
 emonitoring-poczta-polska.eu
 emonitoring-pocztapolska.eu
 emonitoring-pocztapolska.net
+e-monitoring-pocztapolska.org
 emonitoring-pocztex48.net
 emonitoring-polska24-poczta.eu
 emptierbreak.xyz
@@ -1292,6 +1295,7 @@ eoplaty.net
 e-paczka24.net
 epaka247.net
 epaka.club
+epaybylink.pl
 e-payu.online
 e-payu.xyz
 epegasus.pl
@@ -1864,6 +1868,7 @@ gloriakurier.org
 glosowanie-kliknij.eu
 glosowanie-kliknij.zaglosuj-teraz.eu
 glosowanie-konkurs.eu
+glosowanie-quiz.eu
 glosowanie.ujm.pl
 glosowanie-voucher.eu
 gls-parcel.com
@@ -2339,6 +2344,7 @@ kaie.pl
 kajakurier.com
 kajtoognia.pl
 kaldar.pl
+kalendarzyk.org
 kaloryferypoznan.pl
 kamafit.pl
 kamanda.pl
@@ -2673,6 +2679,7 @@ literaturafaktu.pl
 literatur.pl
 liversely.com
 livia-oborniki.pl
+living2winning.com
 lnaff.pl
 lnfo.web-chat.eu
 lnktime.com
@@ -2999,6 +3006,7 @@ monikajaskowiak.pl
 monikareplin.pl
 monitoringi24.eu
 monitoring-pocztapolska.net
+monitoring-pocztapolska.org
 monkeytreephoto.com
 monthlywinners.com
 mopik.pl
@@ -3096,6 +3104,7 @@ narzedzia-fb.blogspot.com
 narzedziareczne.com.pl
 nasdacoin.io
 nassy.pl
+nasygnale.098.pl
 nasza-emigracja.pl
 naszbiecz.pl
 nasze-miasta24tv.online
@@ -3430,6 +3439,7 @@ p.24-7.help
 packza.dostawy24.com
 pacuskurier.org
 pacyfka99.pl
+paczinfo.com
 paczka24-oplata.com
 paczka-48.com
 paczkaadam.com
@@ -3497,6 +3507,7 @@ pay.poczta-polska24.com
 pay.pocztapolska24.com
 pay.pocztapolska24.org
 payu20-paczka24.com
+pay-u24.net
 payu-secure.services
 paywu.net
 paznokcie-poznan.pl
@@ -6295,6 +6306,7 @@ www.dotpay.bok-poczta.pl
 www.dotpay.emonitoringpoczta24.net
 www.dotpay.emonitoringpoczta48.net
 www.dotpay.emonitoring-pocztapolska.eu
+www.dotpay.epaybylink.pl
 www.dotpay.etracking-pocztex48.net
 www.dotpay.etracking-pocztex.eu
 www.dotpay.ipocztapolska.pl
@@ -6431,6 +6443,7 @@ www.edenslask.pl
 www.edofinansowania.eu
 www.e-dorecz.pl
 www.edotpay.pl
+www.e-dpd.pl
 www.eduhull.pl
 www.edukacjawakcji.pl
 www.edukacjawysylkowa.pl
@@ -6500,6 +6513,7 @@ www.emonitoring.poczta-polska2.pl
 www.emonitoring-poczta-polska.eu
 www.emonitoring-pocztapolska.eu
 www.emonitoring-pocztapolska.net
+www.e-monitoring-pocztapolska.org
 www.emonitoring-pocztex48.net
 www.emonitoring-polska24-poczta.eu
 www.emptierbreak.xyz
@@ -6520,6 +6534,7 @@ www.eoplaty.net
 www.e-paczka24.net
 www.epaka247.net
 www.epaka.club
+www.epaybylink.pl
 www.e-payu.online
 www.e-payu.xyz
 www.epegasus.pl
@@ -7092,6 +7107,7 @@ www.gloriakurier.org
 www.glosowanie-kliknij.eu
 www.glosowanie-kliknij.zaglosuj-teraz.eu
 www.glosowanie-konkurs.eu
+www.glosowanie-quiz.eu
 www.glosowanie.ujm.pl
 www.glosowanie-voucher.eu
 www.gls-parcel.com
@@ -7567,6 +7583,7 @@ www.kaie.pl
 www.kajakurier.com
 www.kajtoognia.pl
 www.kaldar.pl
+www.kalendarzyk.org
 www.kaloryferypoznan.pl
 www.kamafit.pl
 www.kamanda.pl
@@ -7901,6 +7918,7 @@ www.literaturafaktu.pl
 www.literatur.pl
 www.liversely.com
 www.livia-oborniki.pl
+www.living2winning.com
 www.lnaff.pl
 www.lnfo.web-chat.eu
 www.lnktime.com
@@ -8227,6 +8245,7 @@ www.monikajaskowiak.pl
 www.monikareplin.pl
 www.monitoringi24.eu
 www.monitoring-pocztapolska.net
+www.monitoring-pocztapolska.org
 www.monkeytreephoto.com
 www.monthlywinners.com
 www.mopik.pl
@@ -8324,6 +8343,7 @@ www.narzedzia-fb.blogspot.com
 www.narzedziareczne.com.pl
 www.nasdacoin.io
 www.nassy.pl
+www.nasygnale.098.pl
 www.nasza-emigracja.pl
 www.naszbiecz.pl
 www.nasze-miasta24tv.online
@@ -8658,6 +8678,7 @@ www.p.24-7.help
 www.packza.dostawy24.com
 www.pacuskurier.org
 www.pacyfka99.pl
+www.paczinfo.com
 www.paczka24-oplata.com
 www.paczka-48.com
 www.paczkaadam.com
@@ -8725,6 +8746,7 @@ www.pay.poczta-polska24.com
 www.pay.pocztapolska24.com
 www.pay.pocztapolska24.org
 www.payu20-paczka24.com
+www.pay-u24.net
 www.payu-secure.services
 www.paywu.net
 www.paznokcie-poznan.pl
@@ -10512,6 +10534,7 @@ www.zabieganapara.pl
 www.zagiel-przeciwsloneczny-pl.com
 www.zaginienifaktty.098.pl
 www.zaglebiefanatykow.pl
+www.zaglosuj-dzisiaj.eu
 www.zaglosuj-kliknij.eu
 www.zaglosuj-teraz.eu
 www.zajazdbanderoza.pl
@@ -10579,6 +10602,7 @@ www.zebrapozyczki.pl
 www.zebywybielanie.c.pl
 www.zechsal.pl
 www.zedgalaxyplays.com
+www.zegarki.sklep24.org
 www.zejrzyj-zdjecia.bo.pl
 www.zelazkowkuchni.pl
 www.zennoa.com
@@ -10739,6 +10763,7 @@ zabieganapara.pl
 zagiel-przeciwsloneczny-pl.com
 zaginienifaktty.098.pl
 zaglebiefanatykow.pl
+zaglosuj-dzisiaj.eu
 zaglosuj-kliknij.eu
 zaglosuj-teraz.eu
 zajazdbanderoza.pl
@@ -10806,6 +10831,7 @@ zebrapozyczki.pl
 zebywybielanie.c.pl
 zechsal.pl
 zedgalaxyplays.com
+zegarki.sklep24.org
 zejrzyj-zdjecia.bo.pl
 zelazkowkuchni.pl
 zennoa.com
