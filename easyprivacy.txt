@@ -2543,7 +2543,6 @@ geo.metronews.ca
 geo.mezr.com
 geo.mtvnn.com
 geo.nbcsports.com
-geo.ngtv.io
 geo.play.it
 geo.q5media.net
 georiot.com
@@ -2792,6 +2791,7 @@ hivps.xyz
 hlserve.com
 hm.baidu.com
 hmstats.com
+hocgeese.com
 holder.com.ua
 homelycrown.com
 hoood.info
