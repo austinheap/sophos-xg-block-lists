@@ -996,6 +996,8 @@ deutschepost.de.deliveryexpress.today
 dev.apps.co.pl
 devicenowaasn37126.xyz
 devicenowaasn51541.xyz
+dhl.express.faktura.lahuertadelsegura.com
+dhl.express.faktura.tecsla.com.mx
 dhl-paczka.eu
 dhl-payment.com
 dhl-percel.com
@@ -1426,6 +1428,8 @@ faktowy.is-best.net
 faktowyua.is-best.net
 faktujea.is-best.net
 faktujemy.is-best.net
+faktura.lahuertadelsegura.com
+faktura.tecsla.com.mx
 fakturo-wnia.cf
 fakturo-wnia.ga
 fakturo-wnia.gq
@@ -5198,7 +5202,7 @@ wmcs.pl
 wmodynca73.pl
 wmoimsklepie.pl
 wnp24.pl
-wojewódzki-serwis-informacyjny.com
+wojewodzki-serwis-informacyjny.com
 wojtekczyrnek.pl
 wolaklosza.is-best.net
 wolnezycie.info
@@ -6244,6 +6248,8 @@ www.deutschepost.de.deliveryexpress.today
 www.dev.apps.co.pl
 www.devicenowaasn37126.xyz
 www.devicenowaasn51541.xyz
+www.dhl.express.faktura.lahuertadelsegura.com
+www.dhl.express.faktura.tecsla.com.mx
 www.dhl-paczka.eu
 www.dhl-payment.com
 www.dhl-percel.com
@@ -6674,6 +6680,8 @@ www.faktowy.is-best.net
 www.faktowyua.is-best.net
 www.faktujea.is-best.net
 www.faktujemy.is-best.net
+www.faktura.lahuertadelsegura.com
+www.faktura.tecsla.com.mx
 www.fakturo-wnia.cf
 www.fakturo-wnia.ga
 www.fakturo-wnia.gq
@@ -10419,7 +10427,7 @@ www.wmcs.pl
 www.wmodynca73.pl
 www.wmoimsklepie.pl
 www.wnp24.pl
-www.wojewódzki-serwis-informacyjny.com
+www.wojewodzki-serwis-informacyjny.com
 www.wojtekczyrnek.pl
 www.wolaklosza.is-best.net
 www.wolnezycie.info
