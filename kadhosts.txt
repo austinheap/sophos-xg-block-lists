@@ -199,6 +199,7 @@ alfabetnieruchomosci.pl
 alfa-projekt.com.pl
 alfasj.com.pl
 alfikurier.org
+alicjapaczka.org
 alieokazje.pl
 aliorkurier.org
 alise.pl
@@ -411,7 +412,6 @@ bbk-oprawamuzyczna.pl
 bcsgleba.pl
 bdz.com.pl
 beasybd.com
-bebebeni.pl
 bebooks.pl
 becconet.com
 beckerfarby.pl
@@ -1391,10 +1391,8 @@ faktury3941.org
 fakty24a.is-best.net
 fakty24-informacje.pl
 fakty24-live.eu
-fakty24-pomagamy.pl
 fakty24-swiat.pl
 fakty24-warszawa.com
-fakty24-warszawa.pl
 fakty25a.is-best.net
 fakty26a.is-best.net
 fakty27a.is-best.net
@@ -1450,7 +1448,6 @@ faktyzwawy.pl
 faktzaginiona.098.pl
 faldo.pl
 falmer.com.pl
-familyclean.pl
 fantasticpoland.com
 faraweel.com
 farbybialystok.pl
@@ -1495,8 +1492,6 @@ fhukaja.pl
 fhusebo.pl
 fidgetspinner.5v.pl
 fifidossaltosaltos.com
-fikus-lodz.pl
-fila-lala.pl
 filapl.pl
 filapoland.pl
 filapolska.com
@@ -1557,7 +1552,6 @@ filo-shop.pl
 filser.co
 financial.org
 financial-times-appp.github.io
-finansedladziecka.pl
 finansoweswiry.pl
 findfiooos.xyz
 find-in.pl
@@ -1808,7 +1802,6 @@ gkpge3.pl
 glinkss.com
 gliwicekomornik.com.pl
 gllik.pl
-globalcontact.pl
 globalintergold.com
 globalkompleks.pl
 globile.co
@@ -1829,7 +1822,6 @@ go.0o.click
 go2affise.com
 goadvert.pk
 go.bestmobiworld.com
-go-camps.pl
 goclaw.com.pl
 go.data1rtb.com
 goforfun.pl
@@ -1881,7 +1873,6 @@ great-prizes-here.info
 great-prizeshere.life
 greenbarleyplus.pl
 greenfit24.pl
-green-kredyt.pl
 greenlabik.pl
 greenr.pl
 greerlies.pro
@@ -1971,7 +1962,6 @@ hksfa.org
 hlbotsale.store
 hodowlaskalia.pl
 hokaeshop.com
-hokaoneonepolska.pl
 hokaoneshop.com
 holachica.pl
 holdenavenue.pl
@@ -2082,7 +2072,6 @@ info-polska.24lite.eu
 infoporwanie.hekko24.pl
 informacja-dnia.com
 informacje24fakt.pusiaweb.com
-informacje24-swiat.pl
 informacje-fakty.pusiaweb.com
 informacjemiasto.hekko24.pl
 informacje-news.eu
@@ -2125,12 +2114,12 @@ inspektorzyzieleni.pl
 insplug.pl
 install.pdfconverterhd.com
 instantgiftcodes.com
+instragramweb.com
 instrukcjapolska.pl
 instytut-doszkalajacy.com
 instytutmed.pl
 instytut-pomocy.pl
 interiordream.pl
-interkorp.pl
 interlingo.pl
 interneip.org
 internetshoppy.com
@@ -2176,7 +2165,6 @@ itcity.pl
 itelefon.org
 itkompleks.pl
 itorrenty.org
-itvwro.pl
 iurzad.net
 iv24.pl
 iwonadzitko.pl
@@ -2235,7 +2223,6 @@ jodakurier.com
 joga-sosnowiec.pl
 jogawpile.pl
 jonakurier.org
-jont.pl
 jookerclik.site
 joplionnsld.xyz
 jordenmadsen.com
@@ -2258,7 +2245,6 @@ jsdevelopmentq7.live
 jsdevelopmentq8.live
 jsdevelopmentq9.live
 judokalisz.pl
-judomiedzyrzecz.pl
 juicywin.pl
 julitakosmetyka.pl
 ju-ma.pl
@@ -2290,7 +2276,6 @@ kamirkominki.pl
 kanapa.tv
 kancelariainnowacji.pl
 kancelariakufieta.pl
-kancelarialewickich.pl
 kancelaria-prawna-katowice.pl
 kanze.pl
 kapilary.pl
@@ -2340,7 +2325,6 @@ keykong.eu
 kgf-pryzmat.pl
 kickboxing.cba.pl
 kickstore.pl
-kickz4u.pl
 kidobi.pl
 kidstudio.pl
 kiepscy.evai.pl
@@ -2363,7 +2347,6 @@ kinujemy.pl
 kirstenbijlsma.com
 kitcarforum.pl
 kitchencollectivecool.info
-kiteowisko.pl
 kiwiapartament.pl
 kjhkgh.skroc.pl
 kkzk.pl
@@ -2410,7 +2393,6 @@ komnatahotaru.pl
 komorniik24.com
 komornik-gov24.com
 komornik-gov.com
-kompiutery.pl
 komputerowy.net.pl
 komputery-szczytno.pl
 koncepcjakirka.pl
@@ -2434,7 +2416,6 @@ koronawirus.hekko24.pl
 koronawirusnews.com.pl
 koronawirusnews.net.pl
 kororoweszyszki.pl
-korphan.pl
 korpowscy.pl
 korzystna.org
 koscijanski.pl
@@ -2479,6 +2460,7 @@ ksiega.solidworks.cba.pl
 ksuniazabkowice.pl
 kswiaterni.pl
 kszozkosz.pl
+ktobynie.pro-linuxpl.com
 ktopodgladamnienafacebooku.wordpress.com
 ktrak.pl
 kucharzowanienamaxa.pl
@@ -2658,7 +2640,6 @@ lpilogryfice.pl
 lp.macapps-centers.club
 lp.moviesearchcenter.com
 lp-wip.pl
-lsliwakancelaria.com.pl
 lubaczowcity.pl
 lubicplacki.is-best.net
 lubiego.is-best.net
@@ -2731,7 +2712,6 @@ mantoropols.xyz
 manufaktura.y0.pl
 manufakturazmyslow.pl
 marcin-rozycki.pl
-marcoblue.pl
 marcofama.it
 mardimex.com.pl
 marekdoniec.com
@@ -2753,7 +2733,6 @@ martenssklep.com
 martensysklep.pl
 marzectoyoty.pl
 marzymisietoskania.pl
-mas1o.pl
 masazdlakobiet.pl
 masazstarogard.com.pl
 maseczki.org
@@ -2774,6 +2753,8 @@ max-host.pl
 maxitrade.com
 maymaychihai.com
 mayonez.pl
+mazowieckie-fakt24.pl
+mazowieckie-fakty24.pl
 mazowskagazeta.eu
 mazowskagazeta.pl
 mbp-brzeziny.pl
@@ -2810,7 +2791,6 @@ megadownloader.co
 megadown.net
 megadown.us
 mega-gry.com
-megamieszkania.pl
 megazakupy.net
 mememakers.mobi
 menshealthweb.co
@@ -2827,7 +2807,6 @@ metaltechnics.pl
 mezczyzna-trendy.pl
 mezur4.com
 mgid.com
-mgokswiatniki.pl
 mialamaborcje.pl
 miastoinfo.hekko24.pl
 miastoinformacje.hekko24.pl
@@ -2909,7 +2888,6 @@ mohacz.pl
 mojadietanamase.pl
 mojakopia.pl
 mojalala.com.pl
-mojalenka.pl
 mojapaczka24.net
 mojeasg.pl
 mojechwile.pl
@@ -3115,9 +3093,7 @@ nigthyoustr16.live
 nikanels.pl
 nikeairadidaszx.pl
 nikeairmaxjewell.pl
-nikeairmoreuptempo.pl
 nikedctstore.pl
-nikehuarache.pl
 nikeoutlet.pl
 nikepromocja.pl
 nikerabat.pl
@@ -3195,7 +3171,6 @@ obudzgeniusza.pl
 obuwiepl.com
 obuwiesalomon.pl
 obuwietimberland.pl
-ochotnica-noclegi.pl
 ochrona-kaczorek.pl
 oczamipedagoga.pl
 oczymagraffiti.pl
@@ -3241,7 +3216,6 @@ okularyrbtanio.pl
 olbart.pl
 ollando.com
 olszewski.ehost.pl
-olszowskidesign.pl
 olubin.pl
 olx-platnosci.online
 olx-polska.h2g.pl
@@ -3253,7 +3227,6 @@ omnistor.pl
 omrolsztyn.neostrada.pl
 onclickbright.com
 onef.cf
-oneinvest.pl
 onelife.eu
 onet24pl.pvi.pl
 onet24-polska.space
@@ -3267,7 +3240,6 @@ onet-regulamin.icu
 onet-zaginieni-24.pl
 onliine.pl
 onlineappcheats.com
-onlinefachowiec.pl
 onlinehd.pl
 onlinekino.pl
 online-platnosci.services
@@ -3309,7 +3281,6 @@ oplat1y.com
 oplata3981.tpskp.com
 oplatapge.com
 oplaty24-kurier.com
-oplatyi.pl
 opliaty.com
 oponymagcarleszno.pl
 optimalpoland.pl
@@ -3368,7 +3339,6 @@ paczkadpd.com
 paczka-inpost.com
 paczka.poczta-pay.com
 paczkikk.com
-paczkiz.pl
 paczkomaty-pl.tk
 paczuli.pl
 pafiilate.byethost32.com
@@ -3409,7 +3379,6 @@ patrickglobalusa.com
 patrzonline.pl
 pattern-trader.net
 pawelkuniec.pl
-paweltyniec.pl
 pawelurbanczyk.pl
 pawtusie.pl
 pay24-paczka.com
@@ -3505,7 +3474,6 @@ placidocn.com
 plainsviewfarm.com
 pl.allsports4free.club
 plast-chem.com.pl
-plastiquedesign.pl
 platinumprestige.pl
 platnik247.online
 platnosci24.services
@@ -3519,7 +3487,6 @@ play18ok.info
 play.appiq.mobi
 play-cda.pl
 player-cda.pl
-playfilm.pl
 playgames4u.com
 playlandia.com.pl
 play.leadzu.com
@@ -3714,6 +3681,7 @@ portaldruku.pl
 portalfotowoltaika.pl
 portalrandkowy.c.pl
 porumar.pl
+porvitto.com
 porwaniadzieci.eu
 porwaniedziecki24.eu
 porwaniedziecki24.net.pl
@@ -3776,7 +3744,6 @@ premiumlink.7tools.eu
 premiumlinkgenerator.online
 premium-offers.space
 premiumqualitybeef.com
-prescottdrive.pl
 prevalue.pl
 prezentacje-wiab.pl
 primeryacht.pl
@@ -3823,7 +3790,6 @@ prosoccer1.dyndns.info
 prosoccer2.dyndns.info
 prostykredyt.net
 protection-cellphone.fun
-protelfinanse.pl
 provanto.pl
 proventus.com.pl
 prusinska.pl
@@ -3839,7 +3805,6 @@ przechwycone-zdjecia.00x.eu
 przechwycone-zdjecia-fotki.pusiaweb.com
 przechwycone-zdjecia.pusiaweb.com
 przedszkolefalenty.pl
-przedszkoleglobus.pl
 przedszkole-milanow.pl
 przedszkolesadowa.pl
 przedszkoleszkrab.pl
@@ -3872,7 +3837,6 @@ psycholozki.com.pl
 pszczelezycie.pl
 pszczynskieaktywnie.pl
 ptmedia.com.pl
-p-traceable.ga
 pubkotlownia.pl
 publisher.lead.network
 pubtechpoland.com
@@ -4029,6 +3993,7 @@ retrortv.in.net
 reviewedreads.com
 revinex.pl
 revitib.com
+revoiut.org
 revoltadiscreta.pl
 rewersart.pl
 reza-khosravi.com
@@ -4046,7 +4011,6 @@ robinpriest.co.uk
 robloxhack.pl
 robogame.pl
 robotechcity.com
-rodzice-fakty24.pl
 rodzicenasali.pl
 rogene.tk
 rok-tuwima.pl
@@ -4058,6 +4022,7 @@ rosalieeve.pl
 rosaspasowka.pl
 rosa-wypoczynek.pl
 rossmannbonyzakupowe.grvdc.eu
+rossmann-rozdawanie.eu
 rossm.gift-cards.co.pl
 roswell47.pl
 roszadameble.pl
@@ -4100,13 +4065,11 @@ sailsteam.pl
 salake.pl
 salomonbuty.pl
 salomonpolska.com
-salomonpolska.pl
 salomonwyprzedaz.pl
 salon-adriatyk.pl
 salonfilmowy.pl
 salonmanager.pl
 salonmotoryzacyjny.lublin.ovh
-salon-nadia.pl
 samsung-2020.h2g.pl
 samsung2020.h2g.pl
 samsung.24.eu
@@ -4127,7 +4090,6 @@ scantronixinc.com
 scenbe.com
 schington.com
 scianyjakmalowane.pl
-scubaodyssey.pl
 sculptureco.com.au
 sdx.pl
 seans24.com.pl
@@ -4205,7 +4167,6 @@ showup-tv.com.pl
 shruboakframing.com
 shutadds.w.of.pl
 siatkarzowelove.pl
-siberiancats.pl
 sidedark-warez.pl
 sidnoy.site
 siec34.pl
@@ -4273,14 +4234,12 @@ slajdy.com.pl
 slaskiedrogi.pl
 slaskie-innowacje.pl
 slawop.net
-slidex.com.pl
 slimak-pozyczki.pl
 slipknot1.pl
 slodkibar.pl
 sloganopis.pl
 sloneczne-termy.pl
 slowkariera.pl
-slowl.pl
 slownikoptyczny.pl
 slubneauta.com.pl
 sluchawafm.pl
@@ -4298,13 +4257,11 @@ smiercidata.5v.pl
 smithsfloristva.com
 smkmotala.com
 smoketech.pl
-smokmadragon.pl
 smsiaki.eu
 smsiak.pl
 smsy24.pl
 sms-za-darmo.pl
 sms-z-internetu.pl
-smyczkowa.pl
 snap.cba.pl
 snapchat-save.blogspot.com
 snapka.com.pl
@@ -4312,7 +4269,6 @@ sneakerhouse.com.pl
 sneakersshop.pl
 sneakerssklep.com
 sneakerstore.com.pl
-sneakersypuma.pl
 sneakersytanie.pl
 sneakervclub.com
 sne.bydgoszcz.pl
@@ -4342,7 +4298,6 @@ sornalisokal.com
 sortier1.com
 soundshow.pl
 sp2mzc.pl
-sp4moodle.pl
 spaceforyou.cc
 spamiarka.pl
 spamtitan.pl
@@ -4376,7 +4331,6 @@ spmsystem.pl
 spokeo.pl
 spolecznagrazespolowa.pl
 sport-bike.pl
-sportowetychy.pl
 sportowy-stream.pl
 sportplus.pro
 sportsklep.com.pl
@@ -4422,7 +4376,6 @@ stajniabatanka.pl
 stakim.org
 stalsrubiarnia.pl
 starc.se
-starshipsanctuary.pl
 starsystem.fit
 start.favbook.net
 start.placetolearn.io
@@ -4442,14 +4395,12 @@ steamgifts.5v.pl
 steam-wallet-gifts.com
 steam-wallet-money.com
 stenplus.onewaywinner.com
-stereofotografia.pl
 steroidsworld.pl
 stevija.pl
 stkk.pl
 stolarniaweronika.pl
 stolarniazgorzelec.pl
 stolica-fakty.com
-stolica-info24.pl
 stolica-info.pl
 stomatologia-w.lublin.lu
 stopkomornikowi.pl
@@ -4459,7 +4410,6 @@ stotom.pl
 stowarzyszenierazemlatwiej.pl
 stowarzyszeniesedziow.pl
 stowarzyszeniewkp.pl
-straz-pakoslawice.pl
 streamgo.pl
 strefa-filmu.pl
 strefakina.pl
@@ -4476,7 +4426,6 @@ studioartandcafe.pl
 studiofilmowehd.pl
 studioformy-synergia.pl
 studioidylla.pl
-studiokalamarnica.pl
 studioprimadonna.pl
 studiosuwak.pl
 studiujwopolu.pl
@@ -4527,7 +4476,6 @@ swietna-pozyczka.pl
 swietokrzyskieter.pl
 swiezaki.weebly.com
 swiezefakty.eu
-swiezefakty.pl
 swiezyblog.com.pl
 swingersbang.pl
 swodnik.pl
@@ -4544,7 +4492,6 @@ system-team-online.site
 szachysieradzkie.pl
 szalonenagrody.com
 szalonepromocje.com
-szaloneupusty.pl
 szamponrevita.pl
 szarakskala.pl
 szczesliwydzien.com
@@ -4553,14 +4500,12 @@ szczyptamiety.pl
 szczytzaszczytem.pl
 szklarnie.club
 szklobudowlane.com.pl
-szkolapiekoszow.pl
 szkoleniasouvre.pl
 szkolenie.m.poznan.pm
 szkolkamydlniki.pl
 szlezakbartosz.pl
 szlonepromocje.com
 szmoldparts.com
-szoferikrokodyl.pl
 szokinfo247.blogspot.com
 szoten.pl
 szpitaledlaludzi.pl
@@ -4588,9 +4533,6 @@ tadeuszgruszka.pl
 tajonis.com
 talksinthecity.pl
 tangozwabrzycha.pl
-tanieadidasy.pl
-taniebutyonlinesklep.pl
-taniebutysklep.pl
 taniecchojnice.pl
 taniec-elfuego.pl
 taniemaseczki.com.pl
@@ -4770,7 +4712,6 @@ triggerinstalls.com
 trikegarage.pl
 trionz.pl
 trkplus.info
-trocable.ga
 tropiccritics.com
 tropiciele-zapolice.pl
 trotamundos.com.pl
@@ -4799,7 +4740,6 @@ tvjovem.net
 tvkody.com
 tv-maniak.pl
 tvnewtop.pro
-tvn-fakty24.pl
 tvnowapp.net
 tvnpolska24.hekko24.pl
 tvonline.hol.es
@@ -4899,7 +4839,6 @@ usterkiwloclawek.za.pl
 usunwirusa.pl
 uvy3.pl
 uwaga24-policja.pl
-uwaga-fakty24.pl
 uzupelniajdane.ga
 uzupelniajdane.gq
 uzupelniaj-dane.ml
@@ -5002,7 +4941,6 @@ warterfoods.pl
 wartomiec.pl
 washtrans.pl
 waust.at
-wawa-fakty24.pl
 wawalot.pl
 wazne-informacje.pl
 waznesprawy.eu
@@ -5031,13 +4969,13 @@ weryfikacja-weryfikacja.pl
 weselebukowa.pl
 wesolywagonik.pl
 wetrokietnica.pl
-wettinlegal.pl
 wez-bon.24.eu
 wezwanieus.com
 whenbuyyousale.co
 whiskytawn.xyz
 wiad-info.5v.pl
 wiadomosci24-live.eu
+wiadomosci24polska.pl
 wiadomoscigwalt.eu
 wiadomosci-lokalne.5v.pl
 wiadomoscilokalne.eu
@@ -5075,7 +5013,6 @@ winfreetoday.com
 winner.giftprizewinner.com
 winningsidenow.com
 winoandfriends.pl
-winobalkanskie.pl
 wioska-zeglarska.pl
 wirtualna-polska.privacy-email.eu
 wirtualne-media.pl
@@ -5095,7 +5032,6 @@ wlewki.pl
 wmcs.pl
 wmodynca73.pl
 wmoimsklepie.pl
-wnp24.pl
 wojewodzki-serwis-informacyjny.com
 wojtekczyrnek.pl
 wolaklosza.is-best.net
@@ -5343,6 +5279,7 @@ www.alfabetnieruchomosci.pl
 www.alfa-projekt.com.pl
 www.alfasj.com.pl
 www.alfikurier.org
+www.alicjapaczka.org
 www.alieokazje.pl
 www.aliorkurier.org
 www.alise.pl
@@ -5557,7 +5494,6 @@ www.bbk-oprawamuzyczna.pl
 www.bcsgleba.pl
 www.bdz.com.pl
 www.beasybd.com
-www.bebebeni.pl
 www.bebooks.pl
 www.becconet.com
 www.beckerfarby.pl
@@ -6537,10 +6473,8 @@ www.faktury3941.org
 www.fakty24a.is-best.net
 www.fakty24-informacje.pl
 www.fakty24-live.eu
-www.fakty24-pomagamy.pl
 www.fakty24-swiat.pl
 www.fakty24-warszawa.com
-www.fakty24-warszawa.pl
 www.fakty25a.is-best.net
 www.fakty26a.is-best.net
 www.fakty27a.is-best.net
@@ -6596,7 +6530,6 @@ www.faktyzwawy.pl
 www.faktzaginiona.098.pl
 www.faldo.pl
 www.falmer.com.pl
-www.familyclean.pl
 www.fantasticpoland.com
 www.faraweel.com
 www.farbybialystok.pl
@@ -6641,8 +6574,6 @@ www.fhukaja.pl
 www.fhusebo.pl
 www.fidgetspinner.5v.pl
 www.fifidossaltosaltos.com
-www.fikus-lodz.pl
-www.fila-lala.pl
 www.filapl.pl
 www.filapoland.pl
 www.filapolska.com
@@ -6703,7 +6634,6 @@ www.filo-shop.pl
 www.filser.co
 www.financial.org
 www.financial-times-appp.github.io
-www.finansedladziecka.pl
 www.finansoweswiry.pl
 www.findfiooos.xyz
 www.find-in.pl
@@ -6954,7 +6884,6 @@ www.gkpge3.pl
 www.glinkss.com
 www.gliwicekomornik.com.pl
 www.gllik.pl
-www.globalcontact.pl
 www.globalintergold.com
 www.globalkompleks.pl
 www.globile.co
@@ -6975,7 +6904,6 @@ www.go.0o.click
 www.go2affise.com
 www.goadvert.pk
 www.go.bestmobiworld.com
-www.go-camps.pl
 www.goclaw.com.pl
 www.go.data1rtb.com
 www.goforfun.pl
@@ -7027,7 +6955,6 @@ www.great-prizes-here.info
 www.great-prizeshere.life
 www.greenbarleyplus.pl
 www.greenfit24.pl
-www.green-kredyt.pl
 www.greenlabik.pl
 www.greenr.pl
 www.greerlies.pro
@@ -7117,7 +7044,6 @@ www.hksfa.org
 www.hlbotsale.store
 www.hodowlaskalia.pl
 www.hokaeshop.com
-www.hokaoneonepolska.pl
 www.hokaoneshop.com
 www.holachica.pl
 www.holdenavenue.pl
@@ -7228,7 +7154,6 @@ www.info-polska.24lite.eu
 www.infoporwanie.hekko24.pl
 www.informacja-dnia.com
 www.informacje24fakt.pusiaweb.com
-www.informacje24-swiat.pl
 www.informacje-fakty.pusiaweb.com
 www.informacjemiasto.hekko24.pl
 www.informacje-news.eu
@@ -7271,12 +7196,12 @@ www.inspektorzyzieleni.pl
 www.insplug.pl
 www.install.pdfconverterhd.com
 www.instantgiftcodes.com
+www.instragramweb.com
 www.instrukcjapolska.pl
 www.instytut-doszkalajacy.com
 www.instytutmed.pl
 www.instytut-pomocy.pl
 www.interiordream.pl
-www.interkorp.pl
 www.interlingo.pl
 www.interneip.org
 www.internetshoppy.com
@@ -7322,7 +7247,6 @@ www.itcity.pl
 www.itelefon.org
 www.itkompleks.pl
 www.itorrenty.org
-www.itvwro.pl
 www.iurzad.net
 www.iv24.pl
 www.iwonadzitko.pl
@@ -7381,7 +7305,6 @@ www.jodakurier.com
 www.joga-sosnowiec.pl
 www.jogawpile.pl
 www.jonakurier.org
-www.jont.pl
 www.jookerclik.site
 www.joplionnsld.xyz
 www.jordenmadsen.com
@@ -7404,7 +7327,6 @@ www.jsdevelopmentq7.live
 www.jsdevelopmentq8.live
 www.jsdevelopmentq9.live
 www.judokalisz.pl
-www.judomiedzyrzecz.pl
 www.juicywin.pl
 www.julitakosmetyka.pl
 www.ju-ma.pl
@@ -7436,7 +7358,6 @@ www.kamirkominki.pl
 www.kanapa.tv
 www.kancelariainnowacji.pl
 www.kancelariakufieta.pl
-www.kancelarialewickich.pl
 www.kancelaria-prawna-katowice.pl
 www.kanze.pl
 www.kapilary.pl
@@ -7486,7 +7407,6 @@ www.keykong.eu
 www.kgf-pryzmat.pl
 www.kickboxing.cba.pl
 www.kickstore.pl
-www.kickz4u.pl
 www.kidobi.pl
 www.kidstudio.pl
 www.kiepscy.evai.pl
@@ -7509,7 +7429,6 @@ www.kinujemy.pl
 www.kirstenbijlsma.com
 www.kitcarforum.pl
 www.kitchencollectivecool.info
-www.kiteowisko.pl
 www.kiwiapartament.pl
 www.kjhkgh.skroc.pl
 www.kkzk.pl
@@ -7556,7 +7475,6 @@ www.komnatahotaru.pl
 www.komorniik24.com
 www.komornik-gov24.com
 www.komornik-gov.com
-www.kompiutery.pl
 www.komputerowy.net.pl
 www.komputery-szczytno.pl
 www.koncepcjakirka.pl
@@ -7580,7 +7498,6 @@ www.koronawirus.hekko24.pl
 www.koronawirusnews.com.pl
 www.koronawirusnews.net.pl
 www.kororoweszyszki.pl
-www.korphan.pl
 www.korpowscy.pl
 www.korzystna.org
 www.koscijanski.pl
@@ -7625,6 +7542,7 @@ www.ksiega.solidworks.cba.pl
 www.ksuniazabkowice.pl
 www.kswiaterni.pl
 www.kszozkosz.pl
+www.ktobynie.pro-linuxpl.com
 www.ktopodgladamnienafacebooku.wordpress.com
 www.ktrak.pl
 www.kucharzowanienamaxa.pl
@@ -7804,7 +7722,6 @@ www.lpilogryfice.pl
 www.lp.macapps-centers.club
 www.lp.moviesearchcenter.com
 www.lp-wip.pl
-www.lsliwakancelaria.com.pl
 www.lubaczowcity.pl
 www.lubicplacki.is-best.net
 www.lubiego.is-best.net
@@ -7877,7 +7794,6 @@ www.mantoropols.xyz
 www.manufaktura.y0.pl
 www.manufakturazmyslow.pl
 www.marcin-rozycki.pl
-www.marcoblue.pl
 www.marcofama.it
 www.mardimex.com.pl
 www.marekdoniec.com
@@ -7899,7 +7815,6 @@ www.martenssklep.com
 www.martensysklep.pl
 www.marzectoyoty.pl
 www.marzymisietoskania.pl
-www.mas1o.pl
 www.masazdlakobiet.pl
 www.masazstarogard.com.pl
 www.maseczki.org
@@ -7920,6 +7835,8 @@ www.max-host.pl
 www.maxitrade.com
 www.maymaychihai.com
 www.mayonez.pl
+www.mazowieckie-fakt24.pl
+www.mazowieckie-fakty24.pl
 www.mazowskagazeta.eu
 www.mazowskagazeta.pl
 www.mbp-brzeziny.pl
@@ -7956,7 +7873,6 @@ www.megadownloader.co
 www.megadown.net
 www.megadown.us
 www.mega-gry.com
-www.megamieszkania.pl
 www.megazakupy.net
 www.mememakers.mobi
 www.menshealthweb.co
@@ -7973,7 +7889,6 @@ www.metaltechnics.pl
 www.mezczyzna-trendy.pl
 www.mezur4.com
 www.mgid.com
-www.mgokswiatniki.pl
 www.mialamaborcje.pl
 www.miastoinfo.hekko24.pl
 www.miastoinformacje.hekko24.pl
@@ -8055,7 +7970,6 @@ www.mohacz.pl
 www.mojadietanamase.pl
 www.mojakopia.pl
 www.mojalala.com.pl
-www.mojalenka.pl
 www.mojapaczka24.net
 www.mojeasg.pl
 www.mojechwile.pl
@@ -8261,9 +8175,7 @@ www.nigthyoustr16.live
 www.nikanels.pl
 www.nikeairadidaszx.pl
 www.nikeairmaxjewell.pl
-www.nikeairmoreuptempo.pl
 www.nikedctstore.pl
-www.nikehuarache.pl
 www.nikeoutlet.pl
 www.nikepromocja.pl
 www.nikerabat.pl
@@ -8341,7 +8253,6 @@ www.obudzgeniusza.pl
 www.obuwiepl.com
 www.obuwiesalomon.pl
 www.obuwietimberland.pl
-www.ochotnica-noclegi.pl
 www.ochrona-kaczorek.pl
 www.oczamipedagoga.pl
 www.oczymagraffiti.pl
@@ -8387,7 +8298,6 @@ www.okularyrbtanio.pl
 www.olbart.pl
 www.ollando.com
 www.olszewski.ehost.pl
-www.olszowskidesign.pl
 www.olubin.pl
 www.olx-platnosci.online
 www.olx-polska.h2g.pl
@@ -8399,7 +8309,6 @@ www.omnistor.pl
 www.omrolsztyn.neostrada.pl
 www.onclickbright.com
 www.onef.cf
-www.oneinvest.pl
 www.onelife.eu
 www.onet24pl.pvi.pl
 www.onet24-polska.space
@@ -8413,7 +8322,6 @@ www.onet-regulamin.icu
 www.onet-zaginieni-24.pl
 www.onliine.pl
 www.onlineappcheats.com
-www.onlinefachowiec.pl
 www.onlinehd.pl
 www.onlinekino.pl
 www.online-platnosci.services
@@ -8455,7 +8363,6 @@ www.oplat1y.com
 www.oplata3981.tpskp.com
 www.oplatapge.com
 www.oplaty24-kurier.com
-www.oplatyi.pl
 www.opliaty.com
 www.oponymagcarleszno.pl
 www.optimalpoland.pl
@@ -8514,7 +8421,6 @@ www.paczkadpd.com
 www.paczka-inpost.com
 www.paczka.poczta-pay.com
 www.paczkikk.com
-www.paczkiz.pl
 www.paczkomaty-pl.tk
 www.paczuli.pl
 www.pafiilate.byethost32.com
@@ -8555,7 +8461,6 @@ www.patrickglobalusa.com
 www.patrzonline.pl
 www.pattern-trader.net
 www.pawelkuniec.pl
-www.paweltyniec.pl
 www.pawelurbanczyk.pl
 www.pawtusie.pl
 www.pay24-paczka.com
@@ -8647,7 +8552,6 @@ www.pl1nk.pl
 www.placidocn.com
 www.plainsviewfarm.com
 www.plast-chem.com.pl
-www.plastiquedesign.pl
 www.platinumprestige.pl
 www.platnik247.online
 www.platnosci24.services
@@ -8661,7 +8565,6 @@ www.play18ok.info
 www.play.appiq.mobi
 www.play-cda.pl
 www.player-cda.pl
-www.playfilm.pl
 www.playgames4u.com
 www.playlandia.com.pl
 www.play.leadzu.com
@@ -8833,6 +8736,7 @@ www.portaldruku.pl
 www.portalfotowoltaika.pl
 www.portalrandkowy.c.pl
 www.porumar.pl
+www.porvitto.com
 www.porwaniadzieci.eu
 www.porwaniedziecki24.eu
 www.porwaniedziecki24.net.pl
@@ -8895,7 +8799,6 @@ www.premiumlink.7tools.eu
 www.premiumlinkgenerator.online
 www.premium-offers.space
 www.premiumqualitybeef.com
-www.prescottdrive.pl
 www.prevalue.pl
 www.prezentacje-wiab.pl
 www.primeryacht.pl
@@ -8942,7 +8845,6 @@ www.prosoccer1.dyndns.info
 www.prosoccer2.dyndns.info
 www.prostykredyt.net
 www.protection-cellphone.fun
-www.protelfinanse.pl
 www.provanto.pl
 www.proventus.com.pl
 www.prusinska.pl
@@ -8958,7 +8860,6 @@ www.przechwycone-zdjecia.00x.eu
 www.przechwycone-zdjecia-fotki.pusiaweb.com
 www.przechwycone-zdjecia.pusiaweb.com
 www.przedszkolefalenty.pl
-www.przedszkoleglobus.pl
 www.przedszkole-milanow.pl
 www.przedszkolesadowa.pl
 www.przedszkoleszkrab.pl
@@ -8991,7 +8892,6 @@ www.psycholozki.com.pl
 www.pszczelezycie.pl
 www.pszczynskieaktywnie.pl
 www.ptmedia.com.pl
-www.p-traceable.ga
 www.pubkotlownia.pl
 www.publisher.lead.network
 www.pubtechpoland.com
@@ -9148,6 +9048,7 @@ www.retrortv.in.net
 www.reviewedreads.com
 www.revinex.pl
 www.revitib.com
+www.revoiut.org
 www.revoltadiscreta.pl
 www.rewersart.pl
 www.reza-khosravi.com
@@ -9165,7 +9066,6 @@ www.robinpriest.co.uk
 www.robloxhack.pl
 www.robogame.pl
 www.robotechcity.com
-www.rodzice-fakty24.pl
 www.rodzicenasali.pl
 www.rogene.tk
 www.rok-tuwima.pl
@@ -9177,6 +9077,7 @@ www.rosalieeve.pl
 www.rosaspasowka.pl
 www.rosa-wypoczynek.pl
 www.rossmannbonyzakupowe.grvdc.eu
+www.rossmann-rozdawanie.eu
 www.rossm.gift-cards.co.pl
 www.roswell47.pl
 www.roszadameble.pl
@@ -9219,13 +9120,11 @@ www.sailsteam.pl
 www.salake.pl
 www.salomonbuty.pl
 www.salomonpolska.com
-www.salomonpolska.pl
 www.salomonwyprzedaz.pl
 www.salon-adriatyk.pl
 www.salonfilmowy.pl
 www.salonmanager.pl
 www.salonmotoryzacyjny.lublin.ovh
-www.salon-nadia.pl
 www.samsung-2020.h2g.pl
 www.samsung2020.h2g.pl
 www.samsung.24.eu
@@ -9246,7 +9145,6 @@ www.scantronixinc.com
 www.scenbe.com
 www.schington.com
 www.scianyjakmalowane.pl
-www.scubaodyssey.pl
 www.sculptureco.com.au
 www.sdx.pl
 www.seans24.com.pl
@@ -9324,7 +9222,6 @@ www.showup-tv.com.pl
 www.shruboakframing.com
 www.shutadds.w.of.pl
 www.siatkarzowelove.pl
-www.siberiancats.pl
 www.sidedark-warez.pl
 www.sidnoy.site
 www.siec34.pl
@@ -9392,14 +9289,12 @@ www.slajdy.com.pl
 www.slaskiedrogi.pl
 www.slaskie-innowacje.pl
 www.slawop.net
-www.slidex.com.pl
 www.slimak-pozyczki.pl
 www.slipknot1.pl
 www.slodkibar.pl
 www.sloganopis.pl
 www.sloneczne-termy.pl
 www.slowkariera.pl
-www.slowl.pl
 www.slownikoptyczny.pl
 www.slubneauta.com.pl
 www.sluchawafm.pl
@@ -9417,13 +9312,11 @@ www.smiercidata.5v.pl
 www.smithsfloristva.com
 www.smkmotala.com
 www.smoketech.pl
-www.smokmadragon.pl
 www.smsiaki.eu
 www.smsiak.pl
 www.smsy24.pl
 www.sms-za-darmo.pl
 www.sms-z-internetu.pl
-www.smyczkowa.pl
 www.snap.cba.pl
 www.snapchat-save.blogspot.com
 www.snapka.com.pl
@@ -9431,7 +9324,6 @@ www.sneakerhouse.com.pl
 www.sneakersshop.pl
 www.sneakerssklep.com
 www.sneakerstore.com.pl
-www.sneakersypuma.pl
 www.sneakersytanie.pl
 www.sneakervclub.com
 www.sne.bydgoszcz.pl
@@ -9461,7 +9353,6 @@ www.sornalisokal.com
 www.sortier1.com
 www.soundshow.pl
 www.sp2mzc.pl
-www.sp4moodle.pl
 www.spaceforyou.cc
 www.spamiarka.pl
 www.spamtitan.pl
@@ -9495,7 +9386,6 @@ www.spmsystem.pl
 www.spokeo.pl
 www.spolecznagrazespolowa.pl
 www.sport-bike.pl
-www.sportowetychy.pl
 www.sportowy-stream.pl
 www.sportplus.pro
 www.sportsklep.com.pl
@@ -9541,7 +9431,6 @@ www.stajniabatanka.pl
 www.stakim.org
 www.stalsrubiarnia.pl
 www.starc.se
-www.starshipsanctuary.pl
 www.starsystem.fit
 www.start.favbook.net
 www.start.placetolearn.io
@@ -9561,14 +9450,12 @@ www.steamgifts.5v.pl
 www.steam-wallet-gifts.com
 www.steam-wallet-money.com
 www.stenplus.onewaywinner.com
-www.stereofotografia.pl
 www.steroidsworld.pl
 www.stevija.pl
 www.stkk.pl
 www.stolarniaweronika.pl
 www.stolarniazgorzelec.pl
 www.stolica-fakty.com
-www.stolica-info24.pl
 www.stolica-info.pl
 www.stomatologia-w.lublin.lu
 www.stopkomornikowi.pl
@@ -9578,7 +9465,6 @@ www.stotom.pl
 www.stowarzyszenierazemlatwiej.pl
 www.stowarzyszeniesedziow.pl
 www.stowarzyszeniewkp.pl
-www.straz-pakoslawice.pl
 www.streamgo.pl
 www.strefa-filmu.pl
 www.strefakina.pl
@@ -9595,7 +9481,6 @@ www.studioartandcafe.pl
 www.studiofilmowehd.pl
 www.studioformy-synergia.pl
 www.studioidylla.pl
-www.studiokalamarnica.pl
 www.studioprimadonna.pl
 www.studiosuwak.pl
 www.studiujwopolu.pl
@@ -9646,7 +9531,6 @@ www.swietna-pozyczka.pl
 www.swietokrzyskieter.pl
 www.swiezaki.weebly.com
 www.swiezefakty.eu
-www.swiezefakty.pl
 www.swiezyblog.com.pl
 www.swingersbang.pl
 www.swodnik.pl
@@ -9663,7 +9547,6 @@ www.system-team-online.site
 www.szachysieradzkie.pl
 www.szalonenagrody.com
 www.szalonepromocje.com
-www.szaloneupusty.pl
 www.szamponrevita.pl
 www.szarakskala.pl
 www.szczesliwydzien.com
@@ -9672,14 +9555,12 @@ www.szczyptamiety.pl
 www.szczytzaszczytem.pl
 www.szklarnie.club
 www.szklobudowlane.com.pl
-www.szkolapiekoszow.pl
 www.szkoleniasouvre.pl
 www.szkolenie.m.poznan.pm
 www.szkolkamydlniki.pl
 www.szlezakbartosz.pl
 www.szlonepromocje.com
 www.szmoldparts.com
-www.szoferikrokodyl.pl
 www.szokinfo247.blogspot.com
 www.szoten.pl
 www.szpitaledlaludzi.pl
@@ -9707,9 +9588,6 @@ www.tadeuszgruszka.pl
 www.tajonis.com
 www.talksinthecity.pl
 www.tangozwabrzycha.pl
-www.tanieadidasy.pl
-www.taniebutyonlinesklep.pl
-www.taniebutysklep.pl
 www.taniecchojnice.pl
 www.taniec-elfuego.pl
 www.taniemaseczki.com.pl
@@ -9889,7 +9767,6 @@ www.triggerinstalls.com
 www.trikegarage.pl
 www.trionz.pl
 www.trkplus.info
-www.trocable.ga
 www.tropiccritics.com
 www.tropiciele-zapolice.pl
 www.trotamundos.com.pl
@@ -9918,7 +9795,6 @@ www.tvjovem.net
 www.tvkody.com
 www.tv-maniak.pl
 www.tvnewtop.pro
-www.tvn-fakty24.pl
 www.tvnowapp.net
 www.tvnpolska24.hekko24.pl
 www.tvonline.hol.es
@@ -10018,7 +9894,6 @@ www.usterkiwloclawek.za.pl
 www.usunwirusa.pl
 www.uvy3.pl
 www.uwaga24-policja.pl
-www.uwaga-fakty24.pl
 www.uzupelniajdane.ga
 www.uzupelniajdane.gq
 www.uzupelniaj-dane.ml
@@ -10121,7 +9996,6 @@ www.warterfoods.pl
 www.wartomiec.pl
 www.washtrans.pl
 www.waust.at
-www.wawa-fakty24.pl
 www.wawalot.pl
 www.wazne-informacje.pl
 www.waznesprawy.eu
@@ -10150,13 +10024,13 @@ www.weryfikacja-weryfikacja.pl
 www.weselebukowa.pl
 www.wesolywagonik.pl
 www.wetrokietnica.pl
-www.wettinlegal.pl
 www.wez-bon.24.eu
 www.wezwanieus.com
 www.whenbuyyousale.co
 www.whiskytawn.xyz
 www.wiad-info.5v.pl
 www.wiadomosci24-live.eu
+www.wiadomosci24polska.pl
 www.wiadomoscigwalt.eu
 www.wiadomosci-lokalne.5v.pl
 www.wiadomoscilokalne.eu
@@ -10194,7 +10068,6 @@ www.winfreetoday.com
 www.winner.giftprizewinner.com
 www.winningsidenow.com
 www.winoandfriends.pl
-www.winobalkanskie.pl
 www.wioska-zeglarska.pl
 www.wirtualna-polska.privacy-email.eu
 www.wirtualne-media.pl
@@ -10214,7 +10087,6 @@ www.wlewki.pl
 www.wmcs.pl
 www.wmodynca73.pl
 www.wmoimsklepie.pl
-www.wnp24.pl
 www.wojewodzki-serwis-informacyjny.com
 www.wojtekczyrnek.pl
 www.wolaklosza.is-best.net
@@ -10290,6 +10162,7 @@ www.wyprzedazobuwie.pl
 www.wyremontujklinike.pl
 www.wys24h.eu
 www.wyspaofert.com
+www.wysylka24.online
 www.wysylki.net
 www.wytypowany-zwyciezca.com
 www.wytypowany-zwyciezca.pl
@@ -10329,6 +10202,7 @@ www.yogasuma.care
 www.yotafiles.com
 www.yotefiles.com
 www.you-and-me.pl
+www.yourbestshop.pl
 www.yourfiles.pl
 www.your-movies.pl
 www.yournutswholefoods.com
@@ -10518,6 +10392,7 @@ wyprzedazobuwie.pl
 wyremontujklinike.pl
 wys24h.eu
 wyspaofert.com
+wysylka24.online
 wysylki.net
 wytypowany-zwyciezca.com
 wytypowany-zwyciezca.pl
@@ -10557,6 +10432,7 @@ yogasuma.care
 yotafiles.com
 yotefiles.com
 you-and-me.pl
+yourbestshop.pl
 yourfiles.pl
 your-movies.pl
 yournutswholefoods.com
