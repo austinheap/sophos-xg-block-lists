@@ -258,7 +258,6 @@ anetakonik.pl
 anetakurier.info
 anety-plaszcze.pl
 angielskisylwia.pl
-anglekeys.warzonedns.com
 aniapaczka.org
 anitkakurier.com
 aniventure.co.uk
@@ -479,7 +478,6 @@ bitcoincodesverigerecension.com
 bitcoinera-appl.com
 bitcoineraprounitedkingdomreview.com
 bitcoinmillionairepro.com
-bitcoin-revolution.pl
 bitcoins-profit.com
 bitcointodaynews.me
 bitcoin-trader-app.com
@@ -504,7 +502,6 @@ blog-in.biz
 blog.internationalfertilityacademy.com
 blog.jacekpaciorek.pl
 blog.lalalalala.club
-blog.medkad.com
 blogonews.com
 blok-gp.com.pl
 blubox.pl
@@ -648,7 +645,6 @@ cats.ugu.pl
 catzell.com
 cbdnewsdirect.com
 cbldc.io
-cclive.istage.cloud
 cda24.net
 cda360.pl
 cda-bez-limitu.pl
@@ -1024,10 +1020,12 @@ dopalacze-sklep.org
 dorszfishandchips.pl
 doski.by
 doslav.pl
+dostadh.com
 dostawaca24.online
 dostawy24.com
 dotabet100.com
 dotabet103.com
+dotpay1.pl
 dotpay.bok-poczta.pl
 dotpay.emonitoringpoczta24.net
 dotpay.emonitoringpoczta48.net
@@ -1117,10 +1115,8 @@ dziennik24.x9.eu
 dzienniknews.com.pl
 dzienniknews.pl
 dziennikpolski24.work
-dziennikpolski.hekko24.pl
 dziennikprasowy.eu
 dziennikprasowy.pusiaweb.com
-dziennikswiat.hekko24.pl
 dziennikuprowadzono.online
 dziennikuprowadzono.pl
 dziennik.warszawa.pl
@@ -1378,7 +1374,6 @@ faktowy.is-best.net
 faktowyua.is-best.net
 faktujea.is-best.net
 faktujemy.is-best.net
-faktura.lahuertadelsegura.com
 faktura.tecsla.com.mx
 fakturo-wnia.cf
 fakturo-wnia.ga
@@ -1453,7 +1448,6 @@ faraweel.com
 farbybialystok.pl
 fargofinanse.pl
 fargonpozyczki.pl
-farmacjacmuj.pl
 farmagedon.pl
 fasebook-onlineapp.com.pl
 fashionableman.pl
@@ -1732,8 +1726,6 @@ gawaher-services.com
 gayfakt.pl
 gayza.net
 gazetabracka.eu
-gazetainfo24tv.hekko24.pl
-gazetainfo.hekko24.pl
 gazetalublin.pl
 gazetalubuski.pl
 gazetamazowska.eu
@@ -1813,6 +1805,7 @@ glosowanie-konkurs.eu
 glosowanie-quiz.eu
 glosowanie.ujm.pl
 glosowanie-voucher.eu
+glosuj-pomaganie.eu
 gls-parcel.com
 gmagazyn.pl
 gminapiekoszow.pl
@@ -2058,22 +2051,18 @@ infasd2a.is-best.net
 info-24.cloud
 info24-warszawa.pl
 info-fakty24.pl
-infogazeta.hekko24.pl
 infogrypa.pl
 infolinia-kontakt-telefon.pl
 infomacjadnia.pro-linuxpl.com
 infomiasto24.pl
-infomiasto.hekko24.pl
 info-miastowe24.club
 infonews24.com.pl
 info.poczta-interia.net
 info-polska.24.eu
 info-polska.24lite.eu
-infoporwanie.hekko24.pl
 informacja-dnia.com
 informacje24fakt.pusiaweb.com
 informacje-fakty.pusiaweb.com
-informacjemiasto.hekko24.pl
 informacje-news.eu
 informacje-o-maskach-ochronnych-pl.com
 informacje-swiat.pl
@@ -2410,9 +2399,6 @@ kopalniafilmow.pl
 kopalnia-informacji.pl
 korkomath.pl
 koronainfo24.eu
-koronamiasto.hekko24.pl
-koronanews.hekko24.pl
-koronawirus.hekko24.pl
 koronawirusnews.com.pl
 koronawirusnews.net.pl
 kororoweszyszki.pl
@@ -2431,7 +2417,6 @@ kpzkaj.pl
 kraina-kopciuszka.pl
 krainakuhailana.pl
 krainazabawek.com
-krajowe.098.pl
 krakow-elektryk24.pl
 kramikeli.pl
 krdn.pl
@@ -2549,7 +2534,6 @@ leszekzyglowicz.pl
 letswinstuff.com
 levelschool.pl
 levelup-firm.pl
-levelup.publicvm.com
 lewplnews.yolasite.com
 lexatrade.com
 lexlale.com.pl
@@ -2697,7 +2681,6 @@ makanaliabadian.ir
 makarenagaski.pl
 maksymrzeminski.pl
 malgorzatakwapisz.pl
-maliciousdns.msftncsi.com
 malneo44.com
 malux-debica.pl
 mamawpodrozy.pl
@@ -2740,7 +2723,6 @@ masenkotrkr.com
 masere.pl
 masiodls.com
 maska-oddechowa-kn95-pl.com
-masterprof.warzonedns.com
 masujemy.com.pl
 matfi.pl
 matisport.strefa.pl
@@ -2808,11 +2790,7 @@ mezczyzna-trendy.pl
 mezur4.com
 mgid.com
 mialamaborcje.pl
-miastoinfo.hekko24.pl
-miastoinformacje.hekko24.pl
-miastosprawa.hekko24.pl
 miastowe.hekko24.pl
-miastowirus.hekko24.pl
 michalfigura.pl
 michalgamrot.pl
 michalson.pl
@@ -3015,8 +2993,6 @@ naszezycie.com
 naszregion24.pl
 nataliakurier.com
 nataliaporwana.biz
-natemat24.h2g.pl
-natemat.h2g.pl
 natematprawa.pl
 naturabazar.pl
 naturalbornchocolate.eu
@@ -3050,7 +3026,6 @@ netfilmy.pl
 netflix.apps.co.pl
 netflix-mail.info
 netleaders.com
-netpipe.warzonedns.com
 netwita.pl
 neurorehabtraining.com
 newbalancepl.pl
@@ -3123,6 +3098,7 @@ norbikurier.org
 northfacepl.com
 northfacesklep.pl
 norton.pl
+nosnore-pl.com
 notariuszpetrus.pl
 notatnik-poliglotki.pl
 notesoftheblue.pl
@@ -3144,7 +3120,6 @@ nowebutyasics.com
 nowenktanio.pl
 nowina-pb.pl
 nowinki.blog-online.eu
-nowiny24.h2g.pl
 nowoczesnafizjoterapia.pl
 nowosczdrowieporadyvlc.pl
 nowotnyart.pl
@@ -3218,7 +3193,6 @@ ollando.com
 olszewski.ehost.pl
 olubin.pl
 olx-platnosci.online
-olx-polska.h2g.pl
 olympus-markets.com
 olympusmarkets.com
 omega.best
@@ -3325,7 +3299,6 @@ owdominikana.pl
 owl-art.pl
 ozebox.pl
 ozzp-rp.pl
-p.24-7.help
 packza.dostawy24.com
 pacuskurier.org
 pacyfka99.pl
@@ -3438,8 +3411,6 @@ piestv.pl
 piknikarabski.pl
 pila-dziedzictwo-2017-online.5v.pl
 pilkanozna.yolasite.com
-pilnasprawa.hekko24.pl
-pilnesprawy.h2g.pl
 pilotmovies.pl
 pimrentcar.pl
 pinapple.pl
@@ -3519,7 +3490,6 @@ pl-huda.myshopify.com
 pliki.pw
 plikownik2015.wordpress.com
 plik-pobierz.pl
-plikson24.pl
 plikson.pl
 pliks.pl
 pljestnaj.pl
@@ -3535,7 +3505,6 @@ ploskonax.com
 plpocztex.net
 plpocztex.org
 pl.princessmask.pro
-pl.profitrevolution.best
 pl-pulsbiz.net
 pl.slimg0ji-berry.com
 pl.superando.net
@@ -3583,6 +3552,7 @@ poczta-polska4.pl
 pocztapolska.eu
 poczta-polska.net
 poczta-polska.services
+poczta-regulamin.com
 pocztex-24.link
 pocztex-48.net
 pocztex-paczka24.com
@@ -3641,6 +3611,7 @@ polskaporwanie.eu
 polska-poszukiwania.eu
 polska-tv.pl
 polskibestseller.pl
+polskidziennik.098.pl
 polskidziennik.pl
 polskieetno.pl
 polskieinfo365.wordpress.com
@@ -3649,7 +3620,6 @@ polskieksporter.pl
 polskiemedia.online
 polskiemedia.xyz
 polskie-newsy.com.pl
-polskiewiadomosci.098.pl
 polskifilm.com.pl
 polski-poranek.pl
 polski-poranek-pl.com
@@ -3664,7 +3634,6 @@ pomelostudio.pl
 pomerania-bn.pl
 pomoc-fakty24.pl
 pomockredytowa.net
-pomoc.kylos.pl
 pomoc-rodzinom.website
 pomoc.sie-pomaga.net
 pomorskidom.pl
@@ -3686,11 +3655,8 @@ porwaniadzieci.eu
 porwaniedziecki24.eu
 porwaniedziecki24.net.pl
 porwaniedziecki24.pl
-porwanieinfo.hekko24.pl
 porwanienatalki.eu
 porwanienatalki.online
-porwaniepolska.h2g.pl
-porwaniewmiescie.hekko24.pl
 posciele.za.pl
 poscielowyraj.pl
 poshettescafe.com
@@ -3776,6 +3742,7 @@ proimagephoto.pl
 projectalbum.pl
 projektrestart.pl
 prokino.pl
+prollerpl.com
 promediapr.pl
 promienieszczescia.pl
 promocionesparati.com
@@ -4070,8 +4037,6 @@ salon-adriatyk.pl
 salonfilmowy.pl
 salonmanager.pl
 salonmotoryzacyjny.lublin.ovh
-samsung-2020.h2g.pl
-samsung2020.h2g.pl
 samsung.24.eu
 samsung-produkcja.24.eu
 samsung-stop.24.eu
@@ -4200,7 +4165,6 @@ skecherstanio.pl
 skidrowcrack.com
 skinsycs.89.pl
 skippyfile.com
-sklep1748948.home.pl
 sklep466452.shoparena.pl
 sklep-agricar.pl
 sklep-allegro.lokalnie.live
@@ -4209,6 +4173,7 @@ sklepcolumbia.com
 sklepcolumbia.pl
 sklep-colway.com
 sklep-colway.pl
+sklep.dagma.pl
 sklep.ekoenergia24.eu
 sklepnbbuty.pl
 sklepnorthface.com
@@ -4275,7 +4240,6 @@ sne.bydgoszcz.pl
 sniadanioweinfo.pl
 soagd.in.net
 sobotka24.com.pl
-socialbump.hekko24.pl
 socialize.pl
 societyjezuufamtobie.pl
 soft4click.com
@@ -4339,7 +4303,6 @@ spotlessweb.com
 spplodz.pl
 spraszyn.home.pl
 sprawa-531.eu
-sprawanasza.cal24.pl
 sprawdzam.is-best.net
 sprawdziany-odpowiedzi.bo.pl
 sprawdzianyodpowiedzi.pl
@@ -4350,7 +4313,6 @@ sprawdzktopodgglada.blogspot.com
 sprawdz-ogladaj.bo.pl
 sprawdzto.is-best.net
 sprawdzzdjecia.24.eu
-sprawypilne.h2g.pl
 spreadyourtentacles.com
 sprnr59713.net
 sprnr59813.net
@@ -4416,7 +4378,6 @@ strefakina.pl
 strefarho.pl
 strefaucznia.com.pl
 strefysowki.pl
-stronazdrowia.hekko24.pl
 strony-fotograficzne.eu
 strstudio.pl
 structures-made-easy.co.uk
@@ -4469,7 +4430,6 @@ sweepstakescentralusa.com
 swiatgraweru.pl
 swiatliter.pl
 swiatpilne.eu
-swiatwiadomosci.hekko24.pl
 swiatwplecaku.pl
 swiecomania.pl
 swietna-pozyczka.pl
@@ -4591,13 +4551,11 @@ telewizja-internetowa24.pl
 telewywiady.pl
 teliramsite.one
 tematdnia24.h2g.pl
-tematdnia.h2g.pl
 tematinfo.hekko24.pl
 tematyczne-rozmowki.com.pl
 tematyczne-rozmowy.pl
 tematyczne-rozmowy-pl.eu
 tematyczne-wywiady.pl
-tematycznie.h2g.pl
 tematyczny.h2g.pl
 temporary.nsx.pl
 tengofoxfiles.com
@@ -4741,7 +4699,6 @@ tvkody.com
 tv-maniak.pl
 tvnewtop.pro
 tvnowapp.net
-tvnpolska24.hekko24.pl
 tvonline.hol.es
 tvp-informacyjna1.eu
 twierdza-wroclaw.pl
@@ -4817,6 +4774,7 @@ update-1.com
 updatestar.com
 uperpay.club
 upgradecheck12.thebestwaystofindreliablesoftwares.surf
+upocztapolska.net
 uprowadzenie.7m.pl
 upshare.org
 upskylinemotel.com
@@ -4827,7 +4785,6 @@ urwijnagrody.pl
 urzad-gov.net
 urzadzeniawgastro.com.pl
 us5-update.weebly.com
-usa.dauid-iep.com
 usa.odysseus-nua.com
 uslugidlanauki.pl
 uslugidzwiekowe.pl
@@ -4939,17 +4896,18 @@ warszawa-gov24.pl
 warszawa-gov.pl
 warterfoods.pl
 wartomiec.pl
+warzonedns.com
+warzone.io
+warzone.pw
 washtrans.pl
 waust.at
 wawalot.pl
 wazne-informacje.pl
 waznesprawy.eu
-wazneswiat.hekko24.pl
 waznywilkiel.pl
 wcozainwestowacpieniadze.pl
 wczaso.pl
 wd-8.fbdowner.com
-wealthyme.warzonedns.com
 weartexhibitions.com
 web.cellfun.mobi
 weblocus.pl
@@ -5017,7 +4975,6 @@ wioska-zeglarska.pl
 wirtualna-polska.privacy-email.eu
 wirtualne-media.pl
 wirtuozseksu.pl
-wirusmiasto.hekko24.pl
 wisdementive.info
 wisebanc.com
 wiszniawksiazkach.pl
@@ -5060,7 +5017,6 @@ wroclaw2012festival.pl
 wroclawnafotografii.pl
 wrozbyonline.net
 wrzeszcz-pallotyni.pl
-wsmwarszawa.pl
 wsparciejezykowe.eu
 wspolniedlaprzyszlosci.pl
 wszyscyrodacy.com
@@ -5338,7 +5294,6 @@ www.anetakonik.pl
 www.anetakurier.info
 www.anety-plaszcze.pl
 www.angielskisylwia.pl
-www.anglekeys.warzonedns.com
 www.aniapaczka.org
 www.anitkakurier.com
 www.aniventure.co.uk
@@ -5368,7 +5323,6 @@ www.appcaptcha.com
 www.append.pl
 www.appfox.org
 www.appiq.mobi
-www-apple-com-anti-virus-systems.virus-removals.com
 www.apple.com-scan-mac.live
 www.apple.com-shield.live
 www.apple.com-shields-guard.live
@@ -5561,7 +5515,6 @@ www.bitcoincodesverigerecension.com
 www.bitcoinera-appl.com
 www.bitcoineraprounitedkingdomreview.com
 www.bitcoinmillionairepro.com
-www.bitcoin-revolution.pl
 www.bitcoins-profit.com
 www.bitcointodaynews.me
 www.bitcoin-trader-app.com
@@ -5586,7 +5539,6 @@ www.blog-in.biz
 www.blog.internationalfertilityacademy.com
 www.blog.jacekpaciorek.pl
 www.blog.lalalalala.club
-www.blog.medkad.com
 www.blogonews.com
 www.blok-gp.com.pl
 www.blubox.pl
@@ -5730,7 +5682,6 @@ www.cats.ugu.pl
 www.catzell.com
 www.cbdnewsdirect.com
 www.cbldc.io
-www.cclive.istage.cloud
 www.cda24.net
 www.cda360.pl
 www.cda-bez-limitu.pl
@@ -6106,10 +6057,12 @@ www.dopalacze-sklep.org
 www.dorszfishandchips.pl
 www.doski.by
 www.doslav.pl
+www.dostadh.com
 www.dostawaca24.online
 www.dostawy24.com
 www.dotabet100.com
 www.dotabet103.com
+www.dotpay1.pl
 www.dotpay.bok-poczta.pl
 www.dotpay.emonitoringpoczta24.net
 www.dotpay.emonitoringpoczta48.net
@@ -6199,10 +6152,8 @@ www.dziennik24.x9.eu
 www.dzienniknews.com.pl
 www.dzienniknews.pl
 www.dziennikpolski24.work
-www.dziennikpolski.hekko24.pl
 www.dziennikprasowy.eu
 www.dziennikprasowy.pusiaweb.com
-www.dziennikswiat.hekko24.pl
 www.dziennikuprowadzono.online
 www.dziennikuprowadzono.pl
 www.dziennik.warszawa.pl
@@ -6460,7 +6411,6 @@ www.faktowy.is-best.net
 www.faktowyua.is-best.net
 www.faktujea.is-best.net
 www.faktujemy.is-best.net
-www.faktura.lahuertadelsegura.com
 www.faktura.tecsla.com.mx
 www.fakturo-wnia.cf
 www.fakturo-wnia.ga
@@ -6535,7 +6485,6 @@ www.faraweel.com
 www.farbybialystok.pl
 www.fargofinanse.pl
 www.fargonpozyczki.pl
-www.farmacjacmuj.pl
 www.farmagedon.pl
 www.fasebook-onlineapp.com.pl
 www.fashionableman.pl
@@ -6814,8 +6763,6 @@ www.gawaher-services.com
 www.gayfakt.pl
 www.gayza.net
 www.gazetabracka.eu
-www.gazetainfo24tv.hekko24.pl
-www.gazetainfo.hekko24.pl
 www.gazetalublin.pl
 www.gazetalubuski.pl
 www.gazetamazowska.eu
@@ -6895,6 +6842,7 @@ www.glosowanie-konkurs.eu
 www.glosowanie-quiz.eu
 www.glosowanie.ujm.pl
 www.glosowanie-voucher.eu
+www.glosuj-pomaganie.eu
 www.gls-parcel.com
 www.gmagazyn.pl
 www.gminapiekoszow.pl
@@ -7140,22 +7088,18 @@ www.infasd2a.is-best.net
 www.info-24.cloud
 www.info24-warszawa.pl
 www.info-fakty24.pl
-www.infogazeta.hekko24.pl
 www.infogrypa.pl
 www.infolinia-kontakt-telefon.pl
 www.infomacjadnia.pro-linuxpl.com
 www.infomiasto24.pl
-www.infomiasto.hekko24.pl
 www.info-miastowe24.club
 www.infonews24.com.pl
 www.info.poczta-interia.net
 www.info-polska.24.eu
 www.info-polska.24lite.eu
-www.infoporwanie.hekko24.pl
 www.informacja-dnia.com
 www.informacje24fakt.pusiaweb.com
 www.informacje-fakty.pusiaweb.com
-www.informacjemiasto.hekko24.pl
 www.informacje-news.eu
 www.informacje-o-maskach-ochronnych-pl.com
 www.informacje-swiat.pl
@@ -7492,9 +7436,6 @@ www.kopalniafilmow.pl
 www.kopalnia-informacji.pl
 www.korkomath.pl
 www.koronainfo24.eu
-www.koronamiasto.hekko24.pl
-www.koronanews.hekko24.pl
-www.koronawirus.hekko24.pl
 www.koronawirusnews.com.pl
 www.koronawirusnews.net.pl
 www.kororoweszyszki.pl
@@ -7513,7 +7454,6 @@ www.kpzkaj.pl
 www.kraina-kopciuszka.pl
 www.krainakuhailana.pl
 www.krainazabawek.com
-www.krajowe.098.pl
 www.krakow-elektryk24.pl
 www.kramikeli.pl
 www.krdn.pl
@@ -7631,7 +7571,6 @@ www.leszekzyglowicz.pl
 www.letswinstuff.com
 www.levelschool.pl
 www.levelup-firm.pl
-www.levelup.publicvm.com
 www.lewplnews.yolasite.com
 www.lexatrade.com
 www.lexlale.com.pl
@@ -7779,7 +7718,6 @@ www.makanaliabadian.ir
 www.makarenagaski.pl
 www.maksymrzeminski.pl
 www.malgorzatakwapisz.pl
-www.maliciousdns.msftncsi.com
 www.malneo44.com
 www.malux-debica.pl
 www.mamawpodrozy.pl
@@ -7822,7 +7760,6 @@ www.masenkotrkr.com
 www.masere.pl
 www.masiodls.com
 www.maska-oddechowa-kn95-pl.com
-www.masterprof.warzonedns.com
 www.masujemy.com.pl
 www.matfi.pl
 www.matisport.strefa.pl
@@ -7890,11 +7827,7 @@ www.mezczyzna-trendy.pl
 www.mezur4.com
 www.mgid.com
 www.mialamaborcje.pl
-www.miastoinfo.hekko24.pl
-www.miastoinformacje.hekko24.pl
-www.miastosprawa.hekko24.pl
 www.miastowe.hekko24.pl
-www.miastowirus.hekko24.pl
 www.michalfigura.pl
 www.michalgamrot.pl
 www.michalson.pl
@@ -8097,8 +8030,6 @@ www.naszezycie.com
 www.naszregion24.pl
 www.nataliakurier.com
 www.nataliaporwana.biz
-www.natemat24.h2g.pl
-www.natemat.h2g.pl
 www.natematprawa.pl
 www.naturabazar.pl
 www.naturalbornchocolate.eu
@@ -8132,7 +8063,6 @@ www.netfilmy.pl
 www.netflix.apps.co.pl
 www.netflix-mail.info
 www.netleaders.com
-www.netpipe.warzonedns.com
 www.netwita.pl
 www.neurorehabtraining.com
 www.newbalancepl.pl
@@ -8205,6 +8135,7 @@ www.norbikurier.org
 www.northfacepl.com
 www.northfacesklep.pl
 www.norton.pl
+www.nosnore-pl.com
 www.notariuszpetrus.pl
 www.notatnik-poliglotki.pl
 www.notesoftheblue.pl
@@ -8226,7 +8157,6 @@ www.nowebutyasics.com
 www.nowenktanio.pl
 www.nowina-pb.pl
 www.nowinki.blog-online.eu
-www.nowiny24.h2g.pl
 www.nowoczesnafizjoterapia.pl
 www.nowosczdrowieporadyvlc.pl
 www.nowotnyart.pl
@@ -8300,7 +8230,6 @@ www.ollando.com
 www.olszewski.ehost.pl
 www.olubin.pl
 www.olx-platnosci.online
-www.olx-polska.h2g.pl
 www.olympus-markets.com
 www.olympusmarkets.com
 www.omega.best
@@ -8407,7 +8336,6 @@ www.owdominikana.pl
 www.owl-art.pl
 www.ozebox.pl
 www.ozzp-rp.pl
-www.p.24-7.help
 www.packza.dostawy24.com
 www.pacuskurier.org
 www.pacyfka99.pl
@@ -8521,8 +8449,6 @@ www.piestv.pl
 www.piknikarabski.pl
 www.pila-dziedzictwo-2017-online.5v.pl
 www.pilkanozna.yolasite.com
-www.pilnasprawa.hekko24.pl
-www.pilnesprawy.h2g.pl
 www.pilotmovies.pl
 www.pimrentcar.pl
 www.pinapple.pl
@@ -8586,7 +8512,6 @@ www.pl-huda.myshopify.com
 www.pliki.pw
 www.plikownik2015.wordpress.com
 www.plik-pobierz.pl
-www.plikson24.pl
 www.plikson.pl
 www.pliks.pl
 www.pljestnaj.pl
@@ -8638,6 +8563,7 @@ www.poczta-polska4.pl
 www.pocztapolska.eu
 www.poczta-polska.net
 www.poczta-polska.services
+www.poczta-regulamin.com
 www.pocztex-24.link
 www.pocztex-48.net
 www.pocztex-paczka24.com
@@ -8696,6 +8622,7 @@ www.polskaporwanie.eu
 www.polska-poszukiwania.eu
 www.polska-tv.pl
 www.polskibestseller.pl
+www.polskidziennik.098.pl
 www.polskidziennik.pl
 www.polskieetno.pl
 www.polskieinfo365.wordpress.com
@@ -8704,7 +8631,6 @@ www.polskieksporter.pl
 www.polskiemedia.online
 www.polskiemedia.xyz
 www.polskie-newsy.com.pl
-www.polskiewiadomosci.098.pl
 www.polskifilm.com.pl
 www.polski-poranek.pl
 www.polski-poranek-pl.com
@@ -8719,7 +8645,6 @@ www.pomelostudio.pl
 www.pomerania-bn.pl
 www.pomoc-fakty24.pl
 www.pomockredytowa.net
-www.pomoc.kylos.pl
 www.pomoc-rodzinom.website
 www.pomoc.sie-pomaga.net
 www.pomorskidom.pl
@@ -8741,11 +8666,8 @@ www.porwaniadzieci.eu
 www.porwaniedziecki24.eu
 www.porwaniedziecki24.net.pl
 www.porwaniedziecki24.pl
-www.porwanieinfo.hekko24.pl
 www.porwanienatalki.eu
 www.porwanienatalki.online
-www.porwaniepolska.h2g.pl
-www.porwaniewmiescie.hekko24.pl
 www.posciele.za.pl
 www.poscielowyraj.pl
 www.poshettescafe.com
@@ -8831,6 +8753,7 @@ www.proimagephoto.pl
 www.projectalbum.pl
 www.projektrestart.pl
 www.prokino.pl
+www.prollerpl.com
 www.promediapr.pl
 www.promienieszczescia.pl
 www.promocionesparati.com
@@ -9125,8 +9048,6 @@ www.salon-adriatyk.pl
 www.salonfilmowy.pl
 www.salonmanager.pl
 www.salonmotoryzacyjny.lublin.ovh
-www.samsung-2020.h2g.pl
-www.samsung2020.h2g.pl
 www.samsung.24.eu
 www.samsung-produkcja.24.eu
 www.samsung-stop.24.eu
@@ -9255,7 +9176,6 @@ www.skecherstanio.pl
 www.skidrowcrack.com
 www.skinsycs.89.pl
 www.skippyfile.com
-www.sklep1748948.home.pl
 www.sklep466452.shoparena.pl
 www.sklep-agricar.pl
 www.sklep-allegro.lokalnie.live
@@ -9264,6 +9184,7 @@ www.sklepcolumbia.com
 www.sklepcolumbia.pl
 www.sklep-colway.com
 www.sklep-colway.pl
+www.sklep.dagma.pl
 www.sklep.ekoenergia24.eu
 www.sklepnbbuty.pl
 www.sklepnorthface.com
@@ -9330,7 +9251,6 @@ www.sne.bydgoszcz.pl
 www.sniadanioweinfo.pl
 www.soagd.in.net
 www.sobotka24.com.pl
-www.socialbump.hekko24.pl
 www.socialize.pl
 www.societyjezuufamtobie.pl
 www.soft4click.com
@@ -9394,7 +9314,6 @@ www.spotlessweb.com
 www.spplodz.pl
 www.spraszyn.home.pl
 www.sprawa-531.eu
-www.sprawanasza.cal24.pl
 www.sprawdzam.is-best.net
 www.sprawdziany-odpowiedzi.bo.pl
 www.sprawdzianyodpowiedzi.pl
@@ -9405,7 +9324,6 @@ www.sprawdzktopodgglada.blogspot.com
 www.sprawdz-ogladaj.bo.pl
 www.sprawdzto.is-best.net
 www.sprawdzzdjecia.24.eu
-www.sprawypilne.h2g.pl
 www.spreadyourtentacles.com
 www.sprnr59713.net
 www.sprnr59813.net
@@ -9471,7 +9389,6 @@ www.strefakina.pl
 www.strefarho.pl
 www.strefaucznia.com.pl
 www.strefysowki.pl
-www.stronazdrowia.hekko24.pl
 www.strony-fotograficzne.eu
 www.strstudio.pl
 www.structures-made-easy.co.uk
@@ -9524,7 +9441,6 @@ www.sweepstakescentralusa.com
 www.swiatgraweru.pl
 www.swiatliter.pl
 www.swiatpilne.eu
-www.swiatwiadomosci.hekko24.pl
 www.swiatwplecaku.pl
 www.swiecomania.pl
 www.swietna-pozyczka.pl
@@ -9646,13 +9562,11 @@ www.telewizja-internetowa24.pl
 www.telewywiady.pl
 www.teliramsite.one
 www.tematdnia24.h2g.pl
-www.tematdnia.h2g.pl
 www.tematinfo.hekko24.pl
 www.tematyczne-rozmowki.com.pl
 www.tematyczne-rozmowy.pl
 www.tematyczne-rozmowy-pl.eu
 www.tematyczne-wywiady.pl
-www.tematycznie.h2g.pl
 www.tematyczny.h2g.pl
 www.temporary.nsx.pl
 www.tengofoxfiles.com
@@ -9796,7 +9710,6 @@ www.tvkody.com
 www.tv-maniak.pl
 www.tvnewtop.pro
 www.tvnowapp.net
-www.tvnpolska24.hekko24.pl
 www.tvonline.hol.es
 www.tvp-informacyjna1.eu
 www.twierdza-wroclaw.pl
@@ -9872,6 +9785,7 @@ www.update-1.com
 www.updatestar.com
 www.uperpay.club
 www.upgradecheck12.thebestwaystofindreliablesoftwares.surf
+www.upocztapolska.net
 www.uprowadzenie.7m.pl
 www.upshare.org
 www.upskylinemotel.com
@@ -9882,7 +9796,6 @@ www.urwijnagrody.pl
 www.urzad-gov.net
 www.urzadzeniawgastro.com.pl
 www.us5-update.weebly.com
-www.usa.dauid-iep.com
 www.usa.odysseus-nua.com
 www.uslugidlanauki.pl
 www.uslugidzwiekowe.pl
@@ -9994,17 +9907,18 @@ www.warszawa-gov24.pl
 www.warszawa-gov.pl
 www.warterfoods.pl
 www.wartomiec.pl
+www.warzonedns.com
+www.warzone.io
+www.warzone.pw
 www.washtrans.pl
 www.waust.at
 www.wawalot.pl
 www.wazne-informacje.pl
 www.waznesprawy.eu
-www.wazneswiat.hekko24.pl
 www.waznywilkiel.pl
 www.wcozainwestowacpieniadze.pl
 www.wczaso.pl
 www.wd-8.fbdowner.com
-www.wealthyme.warzonedns.com
 www.weartexhibitions.com
 www.web.cellfun.mobi
 www.weblocus.pl
@@ -10072,7 +9986,6 @@ www.wioska-zeglarska.pl
 www.wirtualna-polska.privacy-email.eu
 www.wirtualne-media.pl
 www.wirtuozseksu.pl
-www.wirusmiasto.hekko24.pl
 www.wisdementive.info
 www.wisebanc.com
 www.wiszniawksiazkach.pl
@@ -10115,7 +10028,6 @@ www.wroclaw2012festival.pl
 www.wroclawnafotografii.pl
 www.wrozbyonline.net
 www.wrzeszcz-pallotyni.pl
-www.wsmwarszawa.pl
 www.wsparciejezykowe.eu
 www.wspolniedlaprzyszlosci.pl
 www.wszyscyrodacy.com
@@ -10141,7 +10053,6 @@ www.wyciag-gwarek.pl
 www.wycieczkichiny.com.pl
 www.wyciekizdjec24.pl
 www.wyciek-zdjec.24lite.eu
-www.wydarzeniainfo.hekko24.pl
 www.wydawca.lead.network
 www.wydawnictworambler.pl
 www.wydawnictwo-systherm.pl
@@ -10153,7 +10064,6 @@ www.wyjasniamy.eu
 www.wyjazd24.pl
 www.wyleczpc.pl
 www.wylewkibetonowe.com.pl
-www.wymowek.pl
 www.wymyslprezent.pl
 www.wypad3k0.blogspot.com
 www.wypoczywajunas.pl
@@ -10273,7 +10183,6 @@ www.zawijawa.pl
 www.zazynek.pl
 www.zbierajnagrody.bo.pl
 www.zbig-spaw.pl
-www.zbudujmy-pustelnie.pl
 www.zbyk.drl.pl
 www.zcontentlocker7gpa8a.xyz
 www.zdaj-to.pl
@@ -10283,7 +10192,6 @@ www.zdjecie-fotka.pl
 www.zdjecienago2.c.pl
 www.zdjecie-ukradzione.eu
 www.zdrowedziasla.com.pl
-www.zdrowieabc.hekko24.pl
 www.zebraneo.com
 www.zebrapozyczki.pl
 www.zebywybielanie.c.pl
@@ -10299,7 +10207,6 @@ www.zespolclifford.pl
 www.zespolcwiklice.pl
 www.zespolfordance.pl
 www.zespolformat.com.pl
-www.zespolkanaan.pl
 www.zespolnaslub.pl
 www.zespol-sasiedzi.pl
 www.zestawnaprawczy-do-wgniecen.com
@@ -10371,7 +10278,6 @@ wyciag-gwarek.pl
 wycieczkichiny.com.pl
 wyciekizdjec24.pl
 wyciek-zdjec.24lite.eu
-wydarzeniainfo.hekko24.pl
 wydawca.lead.network
 wydawnictworambler.pl
 wydawnictwo-systherm.pl
@@ -10383,7 +10289,6 @@ wyjasniamy.eu
 wyjazd24.pl
 wyleczpc.pl
 wylewkibetonowe.com.pl
-wymowek.pl
 wymyslprezent.pl
 wypad3k0.blogspot.com
 wypoczywajunas.pl
@@ -10503,7 +10408,6 @@ zawijawa.pl
 zazynek.pl
 zbierajnagrody.bo.pl
 zbig-spaw.pl
-zbudujmy-pustelnie.pl
 zbyk.drl.pl
 zcontentlocker7gpa8a.xyz
 zdaj-to.pl
@@ -10513,7 +10417,6 @@ zdjecie-fotka.pl
 zdjecienago2.c.pl
 zdjecie-ukradzione.eu
 zdrowedziasla.com.pl
-zdrowieabc.hekko24.pl
 zebraneo.com
 zebrapozyczki.pl
 zebywybielanie.c.pl
@@ -10529,7 +10432,6 @@ zespolclifford.pl
 zespolcwiklice.pl
 zespolfordance.pl
 zespolformat.com.pl
-zespolkanaan.pl
 zespolnaslub.pl
 zespol-sasiedzi.pl
 zestawnaprawczy-do-wgniecen.com
