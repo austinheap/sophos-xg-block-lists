@@ -257,6 +257,7 @@ admob.com
 admonitor.com
 admotion.com.ar
 ad.musicmatch.com
+ad.myapple.pl
 ad.nachtagenten.de
 adnet.asahi.com
 adnet.biz
@@ -498,10 +499,12 @@ adserver.sciflicks.com
 adserver.sharewareonline.com
 adserversolutions.com
 adserver.spankaway.com
+adserver.thema.cc
 adserver.theonering.net
 adserver.twitpic.com
 adserver.viagogo.com
 adserver.virginmedia.com
+adserverxxl.de
 adserver.yahoo.com
 adservice.google.com
 adservice.google.com.mt
@@ -668,6 +671,7 @@ ads.powweb.com
 ads.primissima.it
 ads.printscr.com
 ads.prisacom.com
+ads.privatemedia.co
 ads.program3.com
 ads.programattik.com
 ads.psd2html.com
@@ -1052,6 +1056,7 @@ banner.eurogrand.com
 banner-exchange-24.de
 banner.goldenpalace.com
 bannergrabber.internet.gr
+banner.grandefm.com.br
 bannerhost.com
 bannerimage.com
 banner.img.co.za
@@ -1085,6 +1090,7 @@ bannerserver.com
 banners.freett.com
 banners.friendfinder.com
 banners.getiton.com
+banners.golfasian.com
 bannersgomlm.com
 bannershotlink.perfectgonzo.com
 banners.iq.pl
@@ -3324,6 +3330,7 @@ xpu.samsungelectronics.com
 xq1.net
 xtendmedia.com
 x-traceur.com
+xtracker.logimeter.com
 xtremetop100.com
 xxxcounter.com
 xxxmyself.com
