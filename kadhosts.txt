@@ -1347,6 +1347,7 @@ fajne-filmy.pl
 fajnepiosenki.pl
 fajnewierszyki.pl
 faksowy.is-best.net
+fakt24-mazowieckie.pl
 fakt24warszawa.com.pl
 faktgwalt24.eu
 faktoswe.is-best.net
@@ -1391,6 +1392,7 @@ faktygwalt.net.pl
 faktygwalt.pl
 faktygwalt.waw.pl
 faktyinews24.eu
+fakty-info24.pl
 faktylive-24.eu
 faktymazowsze.eu
 faktymazowsze.pl
@@ -1828,6 +1830,7 @@ gotowkanadowod.pl
 gotowkanadzis.pl
 gotowkatutaj.pl
 gov-24.com
+gov-warszawa.pl
 gozoku.pl
 gplay-store.ru
 gpmandiri.com
@@ -2105,6 +2108,8 @@ iphonepolska.pl
 ipk0bp.net
 ipko.pl-weryfikacja-konta-bank-pko.j.pl
 ipoczta-polska24.com
+ipoczta-polska.net
+ipoczta-polska.org
 ipocztapolska.pl
 ipocztex-polska247.com
 ipodatek.net
@@ -3285,6 +3290,7 @@ paczkaadam.com
 paczka-dhl.com
 paczka-doplata.net
 paczkadpd.com
+paczka-gls.com
 paczka-inpost.com
 paczkikk.com
 paczkomaty-pl.tk
@@ -6345,6 +6351,7 @@ www.fajne-filmy.pl
 www.fajnepiosenki.pl
 www.fajnewierszyki.pl
 www.faksowy.is-best.net
+www.fakt24-mazowieckie.pl
 www.fakt24warszawa.com.pl
 www.faktgwalt24.eu
 www.faktoswe.is-best.net
@@ -6389,6 +6396,7 @@ www.faktygwalt.net.pl
 www.faktygwalt.pl
 www.faktygwalt.waw.pl
 www.faktyinews24.eu
+www.fakty-info24.pl
 www.faktylive-24.eu
 www.faktymazowsze.eu
 www.faktymazowsze.pl
@@ -6826,6 +6834,7 @@ www.gotowkanadowod.pl
 www.gotowkanadzis.pl
 www.gotowkatutaj.pl
 www.gov-24.com
+www.gov-warszawa.pl
 www.gozoku.pl
 www.gplay-store.ru
 www.gpmandiri.com
@@ -7103,6 +7112,8 @@ www.iphonepolska.pl
 www.ipk0bp.net
 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
 www.ipoczta-polska24.com
+www.ipoczta-polska.net
+www.ipoczta-polska.org
 www.ipocztapolska.pl
 www.ipocztex-polska247.com
 www.ipodatek.net
@@ -8283,6 +8294,7 @@ www.paczkaadam.com
 www.paczka-dhl.com
 www.paczka-doplata.net
 www.paczkadpd.com
+www.paczka-gls.com
 www.paczka-inpost.com
 www.paczkikk.com
 www.paczkomaty-pl.tk
