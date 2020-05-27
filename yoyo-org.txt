@@ -349,6 +349,7 @@ ads7.gamecity.net
 ads8.com
 ads.abovetopsecret.com
 ads.aceweb.net
+ads.acrosspf.com
 ads.activestate.com
 ads.ad-center.com
 ads.adfox.ru
@@ -544,6 +545,7 @@ ads.gaming-universe.de
 ads.gawker.com
 ads.geekswithblogs.net
 ads.getlucky.com
+ads.gld.dk
 ads.glispa.com
 ads.gmodules.com
 ads.goyk.com
@@ -851,6 +853,7 @@ ad.wavu.hu
 ad.way.cz
 ad.weatherbug.com
 adwhirl.com
+adwordsecommerce.com.br
 adworldnetwork.com
 adworx.at
 adworx.nl
