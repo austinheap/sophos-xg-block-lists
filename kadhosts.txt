@@ -252,7 +252,6 @@ andrzejkorycki.pl
 andrzejniemczyk.pl
 anetakonik.pl
 anetakurier.info
-anety-plaszcze.pl
 angielskisylwia.pl
 aniapaczka.org
 anitkakurier.com
@@ -399,7 +398,6 @@ basiekurier.org
 basnogorach.pl
 bazafilm.pl
 bazalt-gracze.pl
-bazarownia.pl
 bazartani.pl
 bazasprawdzianow.pl
 bazastancji.pl
@@ -511,6 +509,7 @@ bmwklubbydgoszcz.pl
 bnewsb.com
 bninski.pl
 bobopstryk.pl
+bodranowelnaver.tk
 bodykarma.pl
 bodysecretrevelation.com
 bodzio1991.cba.pl
@@ -1046,6 +1045,7 @@ downloaduj.pl
 download.w65.pl
 download.weatherblink.com
 dpdoplata.org
+dpd-paczka.com
 dpsobryte.pl
 drablutnik.pl
 dragon-escape.pl
@@ -1191,6 +1191,7 @@ elektronicznyswiat.pl
 e-lektrosklep.com
 elememory.com
 elementium-shop.pl
+elinladpati.tk
 elite-crack.ml
 elitesse.pl
 elizejskakuchnia.pl
@@ -1307,7 +1308,6 @@ exeos.ws
 exitopolska.com
 exitplan.pl
 exlegetorun.pl
-expertadvisor.pl
 expoindex.pl
 exportwroclaw.cba.pl
 exprespluta.pl
@@ -1577,6 +1577,7 @@ footoografie-pobieralnia.eu
 foresightwielkopolska.pl
 forestarii.pl
 forexyestrader.pl
+forfiddstonasac.tk
 forfollow.net
 fork.juiceknee.xyz
 forlife-szkolenia.pl
@@ -1741,6 +1742,7 @@ gazeta-natemat-pol.eu
 gazetanowoczesna.pl
 gazeta.pl.com.bz
 gazeta-polska.24.eu
+gazetapolska.h2g.pl
 gazetapucka.pl
 gazetkamazowsze.pl
 gazetkawarszawa.eu
@@ -1750,6 +1752,7 @@ gazo-progress.com.pl
 gbtitansrfc.com
 gce-mennica.pl
 gcesab.com
+gdynia-fakty24.pl
 gdzieogladac.online
 geekbook.pl
 gelnimbus.pl
@@ -2133,7 +2136,6 @@ instytut-doszkalajacy.com
 instytutmed.pl
 instytut-pomocy.pl
 interiordream.pl
-interlingo.pl
 interneip.org
 internetshoppy.com
 interpathlaboratories.com
@@ -2446,6 +2448,7 @@ krakow-elektryk24.pl
 kramikeli.pl
 krdn.pl
 kreacjonizm.cba.pl
+kredyt24.biz
 kredyt-na-pesel.pl
 kredytpremium.pl
 kredytybezbik.eu
@@ -3313,6 +3316,7 @@ oszukacruletke.like.pl
 oszukacruletke.pl
 otobajka.com.pl
 otodomweryfikacja.com
+otomoto1.pl
 otomoto.group
 otymsiemowi.com.pl
 outletowo.com
@@ -3740,7 +3744,6 @@ probolan50.pl
 procardia.com.pl
 procars-shoppl1.com
 prod.letswinstuff.com
-proeventart.pl
 profa.cba.pl
 proficredit.pl
 profit24.pl
@@ -4582,6 +4585,7 @@ terravi4.com
 terrexbuty.pl
 terrex.pl
 terrierbrasileiro.pl
+test32718.futurehost.net.pl
 testclub.pl
 testerownia24h.pl
 testinteligencji.bo.pl
@@ -4683,6 +4687,7 @@ triggerinstalls.com
 trikegarage.pl
 trionz.pl
 trkplus.info
+trojmiasto-fakty24.pl
 tropiccritics.com
 tropiciele-zapolice.pl
 trotamundos.com.pl
@@ -5299,7 +5304,6 @@ www.andrzejkorycki.pl
 www.andrzejniemczyk.pl
 www.anetakonik.pl
 www.anetakurier.info
-www.anety-plaszcze.pl
 www.angielskisylwia.pl
 www.aniapaczka.org
 www.anitkakurier.com
@@ -5447,7 +5451,6 @@ www.basiekurier.org
 www.basnogorach.pl
 www.bazafilm.pl
 www.bazalt-gracze.pl
-www.bazarownia.pl
 www.bazartani.pl
 www.bazasprawdzianow.pl
 www.bazastancji.pl
@@ -5559,6 +5562,7 @@ www.bmwklubbydgoszcz.pl
 www.bnewsb.com
 www.bninski.pl
 www.bobopstryk.pl
+www.bodranowelnaver.tk
 www.bodykarma.pl
 www.bodysecretrevelation.com
 www.bodzio1991.cba.pl
@@ -6094,6 +6098,7 @@ www.downloaduj.pl
 www.download.w65.pl
 www.download.weatherblink.com
 www.dpdoplata.org
+www.dpd-paczka.com
 www.dpsobryte.pl
 www.drablutnik.pl
 www.dragon-escape.pl
@@ -6239,6 +6244,7 @@ www.elektronicznyswiat.pl
 www.e-lektrosklep.com
 www.elememory.com
 www.elementium-shop.pl
+www.elinladpati.tk
 www.elite-crack.ml
 www.elitesse.pl
 www.elizejskakuchnia.pl
@@ -6355,7 +6361,6 @@ www.exeos.ws
 www.exitopolska.com
 www.exitplan.pl
 www.exlegetorun.pl
-www.expertadvisor.pl
 www.expoindex.pl
 www.exportwroclaw.cba.pl
 www.exprespluta.pl
@@ -6625,6 +6630,7 @@ www.footoografie-pobieralnia.eu
 www.foresightwielkopolska.pl
 www.forestarii.pl
 www.forexyestrader.pl
+www.forfiddstonasac.tk
 www.forfollow.net
 www.fork.juiceknee.xyz
 www.forlife-szkolenia.pl
@@ -6789,6 +6795,7 @@ www.gazeta-natemat-pol.eu
 www.gazetanowoczesna.pl
 www.gazeta.pl.com.bz
 www.gazeta-polska.24.eu
+www.gazetapolska.h2g.pl
 www.gazetapucka.pl
 www.gazetkamazowsze.pl
 www.gazetkawarszawa.eu
@@ -6798,6 +6805,7 @@ www.gazo-progress.com.pl
 www.gbtitansrfc.com
 www.gce-mennica.pl
 www.gcesab.com
+www.gdynia-fakty24.pl
 www.gdzieogladac.online
 www.geekbook.pl
 www.gelnimbus.pl
@@ -7181,7 +7189,6 @@ www.instytut-doszkalajacy.com
 www.instytutmed.pl
 www.instytut-pomocy.pl
 www.interiordream.pl
-www.interlingo.pl
 www.interneip.org
 www.internetshoppy.com
 www.interpathlaboratories.com
@@ -7494,6 +7501,7 @@ www.krakow-elektryk24.pl
 www.kramikeli.pl
 www.krdn.pl
 www.kreacjonizm.cba.pl
+www.kredyt24.biz
 www.kredyt-na-pesel.pl
 www.kredytpremium.pl
 www.kredytybezbik.eu
@@ -8361,6 +8369,7 @@ www.oszukacruletke.like.pl
 www.oszukacruletke.pl
 www.otobajka.com.pl
 www.otodomweryfikacja.com
+www.otomoto1.pl
 www.otomoto.group
 www.otymsiemowi.com.pl
 www.outletowo.com
@@ -8765,7 +8774,6 @@ www.probolan50.pl
 www.procardia.com.pl
 www.procars-shoppl1.com
 www.prod.letswinstuff.com
-www.proeventart.pl
 www.profa.cba.pl
 www.proficredit.pl
 www.profit24.pl
@@ -9607,6 +9615,7 @@ www.terravi4.com
 www.terrexbuty.pl
 www.terrex.pl
 www.terrierbrasileiro.pl
+www.test32718.futurehost.net.pl
 www.testclub.pl
 www.testerownia24h.pl
 www.testinteligencji.bo.pl
@@ -9708,6 +9717,7 @@ www.triggerinstalls.com
 www.trikegarage.pl
 www.trionz.pl
 www.trkplus.info
+www.trojmiasto-fakty24.pl
 www.tropiccritics.com
 www.tropiciele-zapolice.pl
 www.trotamundos.com.pl
