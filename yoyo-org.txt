@@ -69,6 +69,7 @@ ad1.kde.cz
 ad1.pamedia.com.au
 ad2.iinfo.cz
 ad2.lupa.cz
+ad2.nmm.de
 ad2.xrea.com
 ad3.iinfo.cz
 ad3.pamedia.com.au
@@ -670,6 +671,7 @@ ads.pni.com
 ads.pof.com
 adsponse.de
 ads.powweb.com
+ads.praguetv.cz
 ads.primissima.it
 ads.printscr.com
 ads.prisacom.com
@@ -3090,6 +3092,7 @@ tracking101.com
 tracking.1-a1502-bi.co.uk
 tracking22.com
 tracking42.com
+tracking.5-47737-bi.co.uk
 tracking.crunchiemedia.com
 tracking.epicgames.com
 trackingfestival.com
@@ -3250,6 +3253,7 @@ warlog.ru
 waryfog.com
 wateryvan.com
 wdads.sx.atl.publicus.com
+wd-track.de
 web2.deja.com
 webads.co.nz
 webads.nl
