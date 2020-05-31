@@ -238,6 +238,7 @@ adtarget.me
 adtelligence.de
 adten.eu
 adthletic.com
+adtimaserver.vn
 adtive.com
 adtlgc.com
 adtm.chip.de
@@ -957,8 +958,10 @@ brat-online.ro
 bravo.israelweather.co.il
 brcdn.com
 breakfastboat.com
+breaktime.com.tw
 bridgevine.com
 bright.bncnt.com
+brightedge.com
 brightfunnel.com
 brilig.com
 broadcastbed.com
@@ -1133,6 +1136,7 @@ cintnetworks.com
 c.ipaddress.com
 circle.am
 circular-counters.com
+citrusad.net
 citypaketet.se
 cityua.net
 ck-cdn.com
@@ -1170,6 +1174,7 @@ clickferret.com
 clickforensics.com
 click.gamersky.com
 clickguard.com
+clickguardian.app
 clickguardian.co.uk
 clicki.cn
 clickinc.com
@@ -1204,6 +1209,7 @@ click.uol.com.br
 click-url.com
 click.vgnett.no
 clickx.io
+clickyab.com
 clickzs.com
 clickzzs.nl
 client-analytics.braintreegateway.com
@@ -1318,6 +1324,7 @@ collecting.click
 collector-api.99designs.com
 collector.automote.co.nz
 collector-cdn.github.com
+collector.clareity.net
 collector.contentexchange.me
 collector.fiverr.com
 collector.githubapp.com
@@ -2361,6 +2368,7 @@ fprnt.com
 fqsecure.com
 fqtag.com
 frailoffer.com
+franecki.net
 fraudmetrix.cn
 freebloghitcounter.com
 freecountercode.com
@@ -2399,7 +2407,6 @@ freshplum.com
 freshrefresher.com
 fresh.techdirt.com
 friendbuy.com
-frog.wix.com
 fruitflan.com
 fsd2.digital
 fsm.lapresse.ca
@@ -2425,6 +2432,7 @@ future-price.co.uk
 futuristicfifth.com
 fuziontech.net
 fyreball.com
+fyrsbckgi-c.global.ssl.fastly.net
 g1thub.com
 g2insights-cdn.azureedge.net
 g4p.redtram.com
@@ -2463,6 +2471,7 @@ genieedmp.com
 genieessp.jp
 genieesspv.jp
 geo.6play.fr
+geoapi.indiatimes.com
 geobar.ziffdavisinternational.com
 geo.battle.net
 geobeacon.ign.com
@@ -2592,6 +2601,7 @@ gostats.ru
 gostats.vn
 go.toutapp.com
 gotrk.net
+go.trouter.skype.com
 goutee.top
 govmetric.com
 gpr.hu
@@ -2753,6 +2763,7 @@ horsenectar.com
 hospitality-optimizer.com
 hostcontent.live
 hostip.info
+hostpush.info
 host-tracker.com
 hot-count.com
 hotcounter.de
@@ -2795,6 +2806,7 @@ ia.51.la
 ia.ekstrabladet.dk
 iaudienc.com
 ib.adnxs.com
+ibeat-analytics.com
 ibeat.indiatimes.com
 ib-ibi.com
 ibpxl.com
@@ -2984,6 +2996,7 @@ irqs.ioam.de
 irs09.com
 iryazan.ru
 is.base.de
+ismatlab.com
 i-stats.com
 istats.nl
 istlandoll.com
@@ -3002,6 +3015,7 @@ ivitrack.com
 ivstracker.net
 ivwbox.de
 iwebtrack.com
+iwqzrm.com
 iwstats.com
 ixiaa.com
 iyi.net
@@ -3079,6 +3093,7 @@ kitbit.net
 kitchen.juicer.cc
 kitcode.net
 klamm-counter.de
+klangoo.com
 klert.com
 klldabck.com
 kmindex.ru
@@ -3150,7 +3165,6 @@ ledhenone.com
 ledinund.com
 legenhit.com
 legolas-media.com
-leiki.com
 lem.nouvelobs.com
 lentainform.com
 leokross.com
@@ -3442,6 +3456,7 @@ media01.eu
 mediaarmor.com
 mediaforgews.com
 mediagauge.com
+mediaglacier.com
 mediametrics.mpsa.com
 mediametrics.ru
 mediaplan.ru
@@ -3964,6 +3979,7 @@ p24.hu
 p2poolmining.com
 p2poolmining.net
 p2r14.com
+p30rank.ir
 p.adbrn.com
 page-events-ustats.udemy.com
 pagefair.com
@@ -4205,6 +4221,7 @@ powercount.jswelt.de
 powersearch.us.com
 pp8.com
 p.pagesjaunes.fr
+ppcprotect.com
 ppdb.pl
 ppro.de
 pr0gram.org
@@ -4387,6 +4404,7 @@ rapidtrk.net
 raresummer.com
 rating.in
 rat.rakuten.co.jp
+ravelin.net
 rawr.at
 rays-counter.com
 r.bbci.co.uk
@@ -4437,6 +4455,7 @@ redretarget.com
 redstatcounter.com
 reedbusiness.net
 reedge.com
+ref.dealerinspire.com
 referer.org
 referer.pixplug.in
 referforex.com
@@ -4495,6 +4514,7 @@ responsetap.com
 res.rbl.ms
 resulticks.com
 retag.xyz
+retargeter.com.br
 retargeting.biz
 retargeting.vistaprint.com
 retargetly.com
@@ -4530,6 +4550,7 @@ rightmoveanalytics.co.uk
 rightstats.com
 ringplayground.com
 ripost.services
+risk.clearbit.com
 ritecounter.com
 ritogaga.com
 ritzykey.com
@@ -4609,6 +4630,7 @@ rusticprice.com
 rutarget.ru
 ruthlessdegree.com
 rva.outbrain.com
+rvkcpqz.com
 rv.modanisa.com
 rztrkr.com
 s.360.cn
@@ -4618,6 +4640,7 @@ s7target.ru
 s7ven.com
 sa135.macworld.co.uk
 sa135.wsbtv.com
+sabavision.com
 sa.bbc.co.uk
 sadv.dadapro.com
 safe-click.net
@@ -4686,6 +4709,7 @@ scw.systems
 sddan.com
 sdrive.skoda-auto.com
 seal.godaddy.com
+sealine.pro
 sealserver.trustwave.com
 seal.verisign.com
 sea-nov-1.com
@@ -4796,6 +4820,7 @@ silimbompom.com
 silvergamed.com
 silverpop.com
 silverpush.co
+simility.com
 simonsignal.com
 simpleanalytics.io
 simpleheatmaps.com
@@ -4847,6 +4872,7 @@ slogantrend.de
 sls2.loisirsencheres.com
 smadex.com
 smallseotools.com
+smartclip-services.com
 smart-counter.net
 smartctr.com
 smart-digital-solutions.com
@@ -4972,6 +4998,7 @@ sp.greenvilleonline.com
 sp.guampdn.com
 sp.hattiesburgamerican.com
 sp.htrnews.com
+spideraf.com
 spider-mich.com
 spiffymachine.com
 sp.independentmail.com
@@ -5289,6 +5316,7 @@ stats.smartclip.net
 stats.someecards.com
 stats.splinder.com
 stat.stars.ru
+stats.tazeros.com
 stats.technopia.it
 stats.teledyski.info
 stat.stheadline.com
@@ -5481,6 +5509,7 @@ taps.io
 tapstream.com
 targetfuel.com
 targeting.perso.aws.arc.pub
+targeting.voxus.tv
 targetix.net
 target.mirtesen.ru
 target.mixi.media
@@ -6005,6 +6034,7 @@ tradedoubler.com
 tradelab.fr
 tradescape.biz
 trafex.net
+traffer.net
 traffic4u.nl
 traffic.acwebconnecting.com
 traffic.buyservices.com
@@ -6372,6 +6402,7 @@ vry9.destinia.com
 v.shopify.com
 vs.target.com
 vstats.digitaltrends.com
+vtex.com.br
 vtf2f.banque-casino.fr
 vtracker.net
 vtracking.in.com
