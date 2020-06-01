@@ -1494,6 +1494,7 @@ filmowo24.pl
 filmowo.co
 filmowo-hd.pl
 filmplay.pl
+films.com.pl
 filmserialeonlineee.blogspot.com
 filmspolandxxx.com
 filmu.pl
@@ -1504,6 +1505,7 @@ filmyfilmy.pl
 filmy-i-seriale.pl
 filmyiseriale.pw
 filmyonline.com.pl
+filmyseriale.pl
 filmy-tv.pl
 filo-shop.pl
 filser.co
@@ -1817,6 +1819,7 @@ goleta105.com
 golfsport.com.pl
 goodlife7.pl
 goodmenonthego.com
+goodmovie.pl
 go.playoosh.com
 gopost.pl
 gopr-jura.pl
@@ -6541,6 +6544,7 @@ www.filmowo24.pl
 www.filmowo.co
 www.filmowo-hd.pl
 www.filmplay.pl
+www.films.com.pl
 www.filmserialeonlineee.blogspot.com
 www.filmspolandxxx.com
 www.filmu.pl
@@ -6551,6 +6555,7 @@ www.filmyfilmy.pl
 www.filmy-i-seriale.pl
 www.filmyiseriale.pw
 www.filmyonline.com.pl
+www.filmyseriale.pl
 www.filmy-tv.pl
 www.filo-shop.pl
 www.filser.co
@@ -6864,6 +6869,7 @@ www.goleta105.com
 www.golfsport.com.pl
 www.goodlife7.pl
 www.goodmenonthego.com
+www.goodmovie.pl
 www.go.playoosh.com
 www.gopost.pl
 www.gopr-jura.pl
