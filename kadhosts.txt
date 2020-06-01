@@ -634,11 +634,13 @@ cbldc.io
 cda24.net
 cda360.pl
 cda-bez-limitu.pl
+cda-cda.prv.pl
 cda-edb.pl
 cda-film.pl
 cda-filmy.com.pl
 cda-flix.pl
 cdaflix.pl
+cda-tube.pl
 cdatube.pl
 cda-vod.pl
 cdgame.kgb.pl
@@ -882,6 +884,8 @@ darmowe-doladowania.net.pl
 darmowe-doladowanie.pl
 darmowe-ebooki.com.pl
 darmowe-ebooki.net
+darmowefilmyhd.blogspot.com
+darmowekino.pl
 darmowetesty.com
 darmowe-zakupy.com
 darmowygenerator.blogspot.com
@@ -1724,6 +1728,7 @@ gdansk-fakt24.pl
 gdynia-fakt24.pl
 gdynia-fakty24.pl
 gdzieogladac.online
+gdzie-zobaczyc.pl
 geekbook.pl
 gelnimbus.pl
 gemverify.com
@@ -2325,6 +2330,7 @@ kineman.pl
 kingland.pl
 kinofilm-tv.pl
 kinomaniac.pl
+kinomaniak.cc
 kinomaniak.pl
 kinoman-tv.eu
 kinoman-tv.pl
@@ -4756,6 +4762,7 @@ uggpl.pl
 uggsklep.pl
 uggwyprzedaz.pl
 uio7.pl
+uknijfilm.pl
 ukskrokus.pl
 uks-osemka.pl
 uksstrzalwodzislaw.pl
@@ -4863,9 +4870,12 @@ vladoblog.info
 vnotrk.com
 vod24.pl
 vodafone.com-gift-winner-lucky-day.vip
+vod.co.pl
 vodfilmy.pl
 vodflix.pl
+vod-play.pl
 vodplay.pl
+vodstrefa.pl
 voldemort.pl
 volleyclub.pl
 volleypila.pl
@@ -5671,11 +5681,13 @@ www.cbldc.io
 www.cda24.net
 www.cda360.pl
 www.cda-bez-limitu.pl
+www.cda-cda.prv.pl
 www.cda-edb.pl
 www.cda-film.pl
 www.cda-filmy.com.pl
 www.cda-flix.pl
 www.cdaflix.pl
+www.cda-tube.pl
 www.cdatube.pl
 www.cda-vod.pl
 www.cdgame.kgb.pl
@@ -5919,6 +5931,8 @@ www.darmowe-doladowania.net.pl
 www.darmowe-doladowanie.pl
 www.darmowe-ebooki.com.pl
 www.darmowe-ebooki.net
+www.darmowefilmyhd.blogspot.com
+www.darmowekino.pl
 www.darmowetesty.com
 www.darmowe-zakupy.com
 www.darmowygenerator.blogspot.com
@@ -6761,6 +6775,7 @@ www.gdansk-fakt24.pl
 www.gdynia-fakt24.pl
 www.gdynia-fakty24.pl
 www.gdzieogladac.online
+www.gdzie-zobaczyc.pl
 www.geekbook.pl
 www.gelnimbus.pl
 www.gemverify.com
@@ -7362,6 +7377,7 @@ www.kineman.pl
 www.kingland.pl
 www.kinofilm-tv.pl
 www.kinomaniac.pl
+www.kinomaniak.cc
 www.kinomaniak.pl
 www.kinoman-tv.eu
 www.kinoman-tv.pl
@@ -9770,6 +9786,7 @@ www.uggpl.pl
 www.uggsklep.pl
 www.uggwyprzedaz.pl
 www.uio7.pl
+www.uknijfilm.pl
 www.ukskrokus.pl
 www.uks-osemka.pl
 www.uksstrzalwodzislaw.pl
@@ -9877,9 +9894,12 @@ www.vladoblog.info
 www.vnotrk.com
 www.vod24.pl
 www.vodafone.com-gift-winner-lucky-day.vip
+www.vod.co.pl
 www.vodfilmy.pl
 www.vodflix.pl
+www.vod-play.pl
 www.vodplay.pl
+www.vodstrefa.pl
 www.voldemort.pl
 www.volleyclub.pl
 www.volleypila.pl
