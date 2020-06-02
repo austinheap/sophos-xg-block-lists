@@ -5071,7 +5071,6 @@ ed.at.thamaster.de
 edchargina.pro
 eddamedia.linkpulse.com
 edge.bnmla.com
-edgecast-vod.yahoo.net
 edgecast-vod.yimg.com
 edge.quantserve.com
 edietsmain.112.2o7.net
@@ -12428,6 +12427,7 @@ wes.df.telemetry.microsoft.com
 west.05tz2e9.com
 westerdayeol.site
 westjet.112.2o7.net
+wetransf.online
 wewillrocknow.com
 w.extreme-dm.com
 wf.basebanner.com
