@@ -291,6 +291,7 @@ apple.com-shields-guard.live
 appleidworld.com
 apps.co.pl
 appsdorado.com
+appstorepost.com
 apteka2000.pl
 aquafit24.pl
 aquafit.sklep.pl
@@ -1026,6 +1027,7 @@ dotabet103.com
 dotpay1.pl
 dotpay2.pl
 dotpay3.pl
+dotpay.emonitoring-epoczta24polska.net
 dotpay.emonitoring-pocztapolska.eu
 dotpay.etracking-pocztex.eu
 dotpay.pocztapolska24.pl
@@ -1175,6 +1177,7 @@ ekipl.eu
 ekofil.pl
 ekomotor.com.pl
 ekonkarserai.com
+ekopaczka.services
 ekoplava.pl
 e-koronawirusnews.pl
 e-kostrzyn.pl
@@ -1327,6 +1330,7 @@ facebookkviewer.blogspot.com
 facebook-login.5v.pl
 facebook-profile.5v.pl
 facebookszpieg.glt.pl
+facebouk.site
 facedesign.pl
 face--viewer.blogspot.com
 face-vip.ujm.pl
@@ -1958,6 +1962,7 @@ healthy-news.biz
 heavensp.xyz
 hecakieca.pl
 heckcallohertons.info
+hejdeals.pl
 helen-strefapiekna.pl
 helidog.pl
 hellbellas.pl
@@ -2411,6 +2416,7 @@ konkursy.de
 konkursynagrody.pl
 konradniedzwiedzki.pl
 konstancjanieruchomosci.com.pl
+kontakt24.xn.pl
 kopalniafilmow.pl
 kopalnia-informacji.pl
 korkomath.pl
@@ -3207,6 +3213,7 @@ ollando.com
 olszewski.ehost.pl
 olubin.pl
 olx-platnosci.online
+olx-polska.h2g.pl
 olympus-markets.com
 olympusmarkets.com
 omega.best
@@ -3357,6 +3364,8 @@ parafia-kamienica-tarnow.pl
 parafiamogielnica.pl
 parafiaplaw.pl
 paribas-online.at
+paribas-online.eu
+paribas-online-logowanie.eu
 parkingairport.com.pl
 parking-banino.pl
 parkingcrew.net
@@ -3795,6 +3804,7 @@ przepisnaweekend.pl
 przesydh.com
 przesyleczki.com
 przesylkonosz.pl
+przewozinik.online
 przezwesele.pl
 przyjaciele-zameczka.org.pl
 przyjacielwarzyw.pl
@@ -3879,6 +3889,7 @@ radiozetka.net
 radkokurier.org
 radowiczdamian.pl
 rafalo.com.pl
+rains.pl
 rainxpose10.live
 rainxpose11.live
 rainxpose12.live
@@ -3910,6 +3921,7 @@ randewoo.ir
 randki-sex.com
 randomelements.co.uk
 rangreality.com
+raportpobierz.com
 rathbone-art.com
 ratovnick.pl
 ravlw.nearbysluts.net
@@ -4524,6 +4536,7 @@ tablicaallegro.pl
 tabxolabs.com
 tadeuszgruszka.pl
 tajonis.com
+takaprawda.icu
 talksinthecity.pl
 tangozwabrzycha.pl
 taniecchojnice.pl
@@ -4824,6 +4837,7 @@ uslugatopgry.5p.pl
 uslugidlanauki.pl
 uslugidzwiekowe.pl
 uslugilesneplock.pl
+uslugitopgry.5p.pl
 uslugitransportowe-warszawa.pl
 usmiechtarnowa.pl
 ustaw--tlo-fb.blogspot.com
@@ -4934,6 +4948,7 @@ warzone.io
 warzone.pw
 washtrans.pl
 waust.at
+wawa-info.pl
 wazne-informacje.pl
 waznesprawy.eu
 waznywilkiel.pl
@@ -5062,6 +5077,7 @@ wuus.org.cn
 ww1.shinden-anime.info
 ww2.xn--30986-udb.biz
 ww7.openwrt.com
+wwa-informacje.co.pl
 wwinvestgroup.pl
 www.00x.eu
 www.0e0.eu
@@ -5357,6 +5373,7 @@ www-apple-com-virus-removal-systems.fixingit.solutions
 www.appleidworld.com
 www.apps.co.pl
 www.appsdorado.com
+www.appstorepost.com
 www.apteka2000.pl
 www.aquafit24.pl
 www.aquafit.sklep.pl
@@ -6092,6 +6109,7 @@ www.dotabet103.com
 www.dotpay1.pl
 www.dotpay2.pl
 www.dotpay3.pl
+www.dotpay.emonitoring-epoczta24polska.net
 www.dotpay.emonitoring-pocztapolska.eu
 www.dotpay.etracking-pocztex.eu
 www.dotpay.pocztapolska24.pl
@@ -6241,6 +6259,7 @@ www.ekipl.eu
 www.ekofil.pl
 www.ekomotor.com.pl
 www.ekonkarserai.com
+www.ekopaczka.services
 www.ekoplava.pl
 www.e-koronawirusnews.pl
 www.e-kostrzyn.pl
@@ -6393,6 +6412,7 @@ www.facebookkviewer.blogspot.com
 www.facebook-login.5v.pl
 www.facebook-profile.5v.pl
 www.facebookszpieg.glt.pl
+www.facebouk.site
 www.facedesign.pl
 www.face--viewer.blogspot.com
 www.face-vip.ujm.pl
@@ -7024,6 +7044,7 @@ www.healthy-news.biz
 www.heavensp.xyz
 www.hecakieca.pl
 www.heckcallohertons.info
+www.hejdeals.pl
 www.helen-strefapiekna.pl
 www.helidog.pl
 www.hellbellas.pl
@@ -7477,6 +7498,7 @@ www.konkursy.de
 www.konkursynagrody.pl
 www.konradniedzwiedzki.pl
 www.konstancjanieruchomosci.com.pl
+www.kontakt24.xn.pl
 www.kopalniafilmow.pl
 www.kopalnia-informacji.pl
 www.korkomath.pl
@@ -8273,6 +8295,7 @@ www.ollando.com
 www.olszewski.ehost.pl
 www.olubin.pl
 www.olx-platnosci.online
+www.olx-polska.h2g.pl
 www.olympus-markets.com
 www.olympusmarkets.com
 www.omega.best
@@ -8423,6 +8446,8 @@ www.parafia-kamienica-tarnow.pl
 www.parafiamogielnica.pl
 www.parafiaplaw.pl
 www.paribas-online.at
+www.paribas-online.eu
+www.paribas-online-logowanie.eu
 www.parkingairport.com.pl
 www.parking-banino.pl
 www.parkingcrew.net
@@ -8838,6 +8863,7 @@ www.przepisnaweekend.pl
 www.przesydh.com
 www.przesyleczki.com
 www.przesylkonosz.pl
+www.przewozinik.online
 www.przezwesele.pl
 www.przyjaciele-zameczka.org.pl
 www.przyjacielwarzyw.pl
@@ -8922,6 +8948,7 @@ www.radiozetka.net
 www.radkokurier.org
 www.radowiczdamian.pl
 www.rafalo.com.pl
+www.rains.pl
 www.rainxpose10.live
 www.rainxpose11.live
 www.rainxpose12.live
@@ -8953,6 +8980,7 @@ www.randewoo.ir
 www.randki-sex.com
 www.randomelements.co.uk
 www.rangreality.com
+www.raportpobierz.com
 www.rathbone-art.com
 www.ratovnick.pl
 www.ravlw.nearbysluts.net
@@ -9567,6 +9595,7 @@ www.tablicaallegro.pl
 www.tabxolabs.com
 www.tadeuszgruszka.pl
 www.tajonis.com
+www.takaprawda.icu
 www.talksinthecity.pl
 www.tangozwabrzycha.pl
 www.taniecchojnice.pl
@@ -9867,6 +9896,7 @@ www.uslugatopgry.5p.pl
 www.uslugidlanauki.pl
 www.uslugidzwiekowe.pl
 www.uslugilesneplock.pl
+www.uslugitopgry.5p.pl
 www.uslugitransportowe-warszawa.pl
 www.usmiechtarnowa.pl
 www.ustaw--tlo-fb.blogspot.com
@@ -9977,6 +10007,7 @@ www.warzone.io
 www.warzone.pw
 www.washtrans.pl
 www.waust.at
+www.wawa-info.pl
 www.wazne-informacje.pl
 www.waznesprawy.eu
 www.waznywilkiel.pl
@@ -10105,6 +10136,7 @@ www.wuus.org.cn
 www.ww1.shinden-anime.info
 www.ww2.xn--30986-udb.biz
 www.ww7.openwrt.com
+www.wwa-informacje.co.pl
 www.wwinvestgroup.pl
 www.wx-xcx.xyz
 www.wybielaniezebow.c.pl
@@ -10198,6 +10230,7 @@ www.zaglebiefanatykow.pl
 www.zaglebieliderow.pl
 www.zaglosuj-dzisiaj.eu
 www.zaglosuj-kliknij.eu
+www.zaglosuj-teraz.eu
 www.zajazdbanderoza.pl
 www.zajazdoaza.pl
 www.zajazduzenka.pl
@@ -10296,6 +10329,7 @@ www.zmienienie-koloru.blogspot.com
 www.zmienkolorfejsazafree.blogspot.com
 www.zmienkolory.blogspot.com
 www.zmien-motyw.blogspot.com
+www.zmiltraf.website
 www.zmotoryzowani24.pl
 www.zmowaobywatelska.pl
 www.znajdz-numer.pl
@@ -10425,6 +10459,7 @@ zaglebiefanatykow.pl
 zaglebieliderow.pl
 zaglosuj-dzisiaj.eu
 zaglosuj-kliknij.eu
+zaglosuj-teraz.eu
 zajazdbanderoza.pl
 zajazdoaza.pl
 zajazduzenka.pl
@@ -10523,6 +10558,7 @@ zmienienie-koloru.blogspot.com
 zmienkolorfejsazafree.blogspot.com
 zmienkolory.blogspot.com
 zmien-motyw.blogspot.com
+zmiltraf.website
 zmotoryzowani24.pl
 zmowaobywatelska.pl
 znajdz-numer.pl
