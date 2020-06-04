@@ -866,6 +866,7 @@ bidderrtb.com
 bid.g.doubleclick.net
 bidr.io
 bid.run
+bidsimulator.com
 bidswitch.net
 bigcattracks.com
 bigmining.com

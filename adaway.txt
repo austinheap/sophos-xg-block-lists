@@ -9823,7 +9823,6 @@ show-msgch.qq.com
 show.re.taobao.com
 show-s.mediav.com
 s.iaudienc.com
-sidecar.gitter.im
 s.idio.co
 sift-campaign-creatives.s3.amazonaws.com
 sig.atdmt.com
