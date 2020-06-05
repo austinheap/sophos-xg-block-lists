@@ -396,6 +396,7 @@ barip15.com
 barometrwhc.pl
 bartekzukiewicz.pl
 bartozziproject.com
+barwin4.com
 basecampzakopane.pl
 baseflix.pl
 baseny.club
@@ -571,6 +572,7 @@ btcprofitnow.website
 btcprofit.trcwasdf.club
 buddyway.pl
 buforstudio.pl
+bulanmanabisadiam.com
 bulbulstore.com
 bullito.site
 bunclok.pl
@@ -948,6 +950,7 @@ depilacjalaserowachojnice.pl
 derikaosos.info
 derotel.com
 designgraphic.pl
+destgrena.at
 desu4family.com.pl
 deszczysko.pl
 deus-est-machina.pl
@@ -956,6 +959,7 @@ dev.apps.co.pl
 devicenowaasn37126.xyz
 devicenowaasn51541.xyz
 df9e8783c33d.ngrok.io
+dgroetf.com
 dhexpres.com
 dhl.express.faktura.tecsla.com.mx
 dhl-paczka.eu
@@ -2121,6 +2125,7 @@ innowacyjnybiofeedback.pl
 innsat.pl
 inochigniezno.pl
 inovscope.pt
+inp0st-aplikacja.com
 inpost24.me
 inpost24.services
 inpostdoplata.net
@@ -2614,6 +2619,7 @@ localinformation.site
 localnewshere.site
 localpressawards.pl
 locked3.com
+login-chat.website
 login-paribas.at
 login-paribas.info
 login-paribas-planet.info
@@ -3081,6 +3087,7 @@ newtechagd.net
 nextlevelprize.com
 n-fakty.info
 nfbio.com
+nicesliders.top
 nicobloc.pl
 nicolosi.pl
 niebieskiraj.pl
@@ -3194,6 +3201,7 @@ offside2.000webhostapp.com
 oftmos.pl
 ogarnij-zdjecia.eu
 ogarnij-zdjecia.zaglosuj-teraz.eu
+ogglededibl.at
 ogladajfilmy.pl
 ogladaj-foteczki.pusiaweb.com
 ogladaj.online
@@ -4141,6 +4149,7 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
+server033687.nazwa.pl
 server292369.nazwa.pl
 server-payuser1.com
 servicecheck5.wixsite.com
@@ -4614,6 +4623,8 @@ tematyczne-rozmowy.pl
 tematyczne-rozmowy-pl.eu
 tematyczne-wywiady.pl
 tematyczny.h2g.pl
+temperaturnik.com
+tempogody.com
 temporary.nsx.pl
 tengofoxfiles.com
 terazmieszkanie.pl
@@ -5489,6 +5500,7 @@ www.barip15.com
 www.barometrwhc.pl
 www.bartekzukiewicz.pl
 www.bartozziproject.com
+www.barwin4.com
 www.basecampzakopane.pl
 www.baseflix.pl
 www.baseny.club
@@ -5664,6 +5676,7 @@ www.btcprofitnow.website
 www.btcprofit.trcwasdf.club
 www.buddyway.pl
 www.buforstudio.pl
+www.bulanmanabisadiam.com
 www.bulbulstore.com
 www.bullito.site
 www.bunclok.pl
@@ -6041,6 +6054,7 @@ www.depilacjalaserowachojnice.pl
 www.derikaosos.info
 www.derotel.com
 www.designgraphic.pl
+www.destgrena.at
 www.desu4family.com.pl
 www.deszczysko.pl
 www.deus-est-machina.pl
@@ -6049,6 +6063,7 @@ www.dev.apps.co.pl
 www.devicenowaasn37126.xyz
 www.devicenowaasn51541.xyz
 www.df9e8783c33d.ngrok.io
+www.dgroetf.com
 www.dhexpres.com
 www.dhl.express.faktura.tecsla.com.mx
 www.dhl-paczka.eu
@@ -7214,6 +7229,7 @@ www.innowacyjnybiofeedback.pl
 www.innsat.pl
 www.inochigniezno.pl
 www.inovscope.pt
+www.inp0st-aplikacja.com
 www.inpost24.me
 www.inpost24.services
 www.inpostdoplata.net
@@ -7707,6 +7723,7 @@ www.localinformation.site
 www.localnewshere.site
 www.localpressawards.pl
 www.locked3.com
+www.login-chat.website
 www.login-paribas.at
 www.login-paribas.info
 www.login-paribas-planet.info
@@ -8174,6 +8191,7 @@ www.newtechagd.net
 www.nextlevelprize.com
 www.n-fakty.info
 www.nfbio.com
+www.nicesliders.top
 www.nicobloc.pl
 www.nicolosi.pl
 www.niebieskiraj.pl
@@ -8287,6 +8305,7 @@ www.offside2.000webhostapp.com
 www.oftmos.pl
 www.ogarnij-zdjecia.eu
 www.ogarnij-zdjecia.zaglosuj-teraz.eu
+www.ogglededibl.at
 www.ogladajfilmy.pl
 www.ogladaj-foteczki.pusiaweb.com
 www.ogladaj.online
@@ -9211,6 +9230,7 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
+www.server033687.nazwa.pl
 www.server292369.nazwa.pl
 www.server-payuser1.com
 www.servicecheck5.wixsite.com
@@ -9684,6 +9704,8 @@ www.tematyczne-rozmowy.pl
 www.tematyczne-rozmowy-pl.eu
 www.tematyczne-wywiady.pl
 www.tematyczny.h2g.pl
+www.temperaturnik.com
+www.tempogody.com
 www.temporary.nsx.pl
 www.tengofoxfiles.com
 www.terazmieszkanie.pl

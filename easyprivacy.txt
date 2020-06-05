@@ -2330,7 +2330,6 @@ flashgamestats.com
 flashstats.libsyn.com
 flashtalking.com
 flcounter.com
-flix360.com
 flixfacts.co.uk
 flixsyndication.net
 flnqmin.org
@@ -4609,6 +4608,7 @@ rta.dailymail.co.uk
 rtb123.com
 rtb.connatix.com
 rtb-seller.com
+rt.flix360.com
 rtfn.net
 rtmark.net
 rtn.thestar.com

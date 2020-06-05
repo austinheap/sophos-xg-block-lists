@@ -272,7 +272,6 @@ adnetworkperformance.com
 adnews.maddog2000.de
 adnium.com
 adn.lrb.co.uk
-adnotch.com
 ad.nozonedata.com
 ad.nttnavi.co.jp
 ad.nwt.cz
@@ -297,7 +296,6 @@ adprofile.net
 adprofits.ru
 ad.profiwin.de
 ad.prv.pl
-ad.rambler.ru
 adrazzi.com
 adreactor.com
 adreclaim.com
@@ -578,7 +576,6 @@ ad.simgames.net
 ads.img.co.za
 ads.imgur.com
 ads.independent.com.mt
-ads.indiatimes.com
 ads.infi.net
 ads.internic.co.il
 ads.ipowerweb.com
@@ -969,12 +966,10 @@ analytics.siliconexpert.com
 analytics.swiggy.com
 analytics.yahoo.com
 aniview.com
-anm.intelli-direct.com
 annonser.dagbladet.no
 anrdoezrs.net
 anstrex.com
 anxiousapples.com
-aobocker.se
 apathetictheory.com
 api.intensifier.de
 api.jetlore.com
@@ -1506,6 +1501,7 @@ direct-xxx-access.com
 discountclick.com
 discreetfield.com
 dispensablestranger.com
+displayadsmedia.com
 disqusads.com
 dist.belnk.com
 distillery.wistia.com
@@ -1522,7 +1518,6 @@ domaining.in
 domainsponsor.com
 domainsteam.de
 domdex.com
-dontstopmyads.live
 doubleclick.com
 doubleclick.de
 doubleclick.net
@@ -1577,7 +1572,6 @@ elthamely.com
 emarketer.com
 emebo.com
 emebo.io
-emediate.eu
 emerse.com
 emetriq.de
 e-m.fr
@@ -2274,7 +2268,6 @@ mystat-in.net
 mystat.pl
 mysteriousmonth.com
 mytop-in.net
-mytrafficads.com
 myvisualiq.net
 n69.com
 naj.sk
@@ -2989,7 +2982,6 @@ tatsumi-sys.jp
 tawdryson.com
 t.bawafx.com
 tcads.net
-tdxio.com
 teads.tv
 tealeaf.com
 tealium.com
@@ -3011,7 +3003,6 @@ textads.biz
 textad.sexsearch.com
 text-link-ads.com
 textlinks.com
-tfag.de
 t.firstpromoter.com
 theadex.com
 theadhost.com
