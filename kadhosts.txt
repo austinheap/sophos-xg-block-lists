@@ -2018,7 +2018,6 @@ holyurbanhotel.com
 homejailbreak.com
 homemedia.in.net
 homeopatiakoszalin.pl
-homgar.pl
 hondawschod.pl
 horafoo.xyz
 horyzont-chelm.pl
@@ -3185,6 +3184,7 @@ nowoczesnafizjoterapia.pl
 nowosczdrowieporadyvlc.pl
 nowotnyart.pl
 nowy-regulamin.com
+nowy-regulamin.pl
 npitstart.cba.pl
 nsfund.mn
 ntnelektronik.pl
@@ -3194,6 +3194,7 @@ nvod.pl
 nyctrk.com
 nympropiedades.cl
 o2-fakty.pro
+o2.nowy-regulamin.pl
 o2.regulamin-poczty.net
 oazaborek.pl
 oberzapodorzechem.pl
@@ -7158,7 +7159,6 @@ www.holyurbanhotel.com
 www.homejailbreak.com
 www.homemedia.in.net
 www.homeopatiakoszalin.pl
-www.homgar.pl
 www.hondawschod.pl
 www.horafoo.xyz
 www.horyzont-chelm.pl
@@ -8325,6 +8325,7 @@ www.nowoczesnafizjoterapia.pl
 www.nowosczdrowieporadyvlc.pl
 www.nowotnyart.pl
 www.nowy-regulamin.com
+www.nowy-regulamin.pl
 www.npitstart.cba.pl
 www.nsfund.mn
 www.ntnelektronik.pl
@@ -8334,6 +8335,7 @@ www.nvod.pl
 www.nyctrk.com
 www.nympropiedades.cl
 www.o2-fakty.pro
+www.o2.nowy-regulamin.pl
 www.o2.regulamin-poczty.net
 www.oazaborek.pl
 www.oberzapodorzechem.pl
