@@ -2845,6 +2845,7 @@ imetrix.it
 imgstat.ameba.jp
 imgstat.baidu.com
 imgtrack.domainmarket.com
+imhd.io
 immanalytics.com
 immassets.s3.amazonaws.com
 immensehoney.com
@@ -6557,7 +6558,6 @@ whoseesyou.com
 widerplanet.com
 widget.perfectmarket.com
 widget.quantcast.com
-widgets.trustedshops.com
 wikia-beacon.com
 wikiodeliv.com
 wildxtraffic.com
