@@ -232,7 +232,6 @@ ad-srv-track.com
 adsrvx.com
 adstat.4u.pl
 ads-trk.vidible.tv
-adswizz.com
 adsymptotic.com
 adtarget.me
 adtelligence.de
@@ -3959,7 +3958,6 @@ osdata.solutions
 osd.oxygem.it
 o-s.io
 ositracker.com
-ospserver.net
 osxau.de
 otclick-adv.ru
 otoshiana.com
