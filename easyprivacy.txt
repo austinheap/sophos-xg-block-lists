@@ -1855,6 +1855,7 @@ dj.renren.com
 djtflbt20bdde.cloudfront.net
 dko.vente-unique.nl
 dl1d2m8ri9v3j.cloudfront.net
+dl8.me
 dl.meliacloud.com
 dlvkf5067xruv.cloudfront.net
 dmanalytics1.com
@@ -3443,7 +3444,6 @@ mcs.delvenetworks.com
 mc.webvisor.com
 mc.webvisor.org
 mdn.neowin.net
-md-nx.com
 mdotlabs.com
 mdxapi.io
 measure.ameblo.jp
@@ -6269,6 +6269,7 @@ users-api.com
 usersegment.wpdigital.net
 userzoom.com
 usuarios-online.com
+utle.tech426.com
 utrack.hexun.com
 uts.auction.co.kr
 uue2.destinia.ir
@@ -6545,6 +6546,7 @@ we-stats.com
 we.wecanimal.pt
 wf.taboola.com
 whackedmedia.com
+wheredoyoucomefrom.ovh
 whitepixel.com
 whizstats.com
 whoaremyfriends.com
