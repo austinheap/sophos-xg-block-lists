@@ -1086,6 +1086,7 @@ drmartensbuty.pl
 drmartenspl.pl
 drmartenspolska.com
 drogeriesms.net
+drogowe-akcje.ct8.pl
 drogoweplyty.pl
 drsaritabhalerao.com
 drukarniaskarbowa.pl
@@ -1224,6 +1225,7 @@ emobi-sys.com
 emonitoring24.eu
 emonitoring24.online
 emonitoring-epoczta24polska.net
+emonitoring-epocztapolska.net
 emonitoring-poczta24.net
 emonitoringpoczta24.net
 emonitoring-poczta48.net
@@ -1236,6 +1238,7 @@ emonitoring-pocztapolska.eu
 emonitoring-pocztapolska.net
 e-monitoring-pocztapolska.org
 emonitoring-pocztex48.net
+emonitoring-upocztapolska.net
 emptierbreak.xyz
 endofhisrope.net
 energabok.pl
@@ -1383,6 +1386,7 @@ fakturownia-pl.ga
 fakturownia-pl.gq
 faktury3941.org
 fakty24a.is-best.net
+fakty24-gdansk.pl
 fakty24-informacje.pl
 fakty24-live.eu
 fakty24-swiat.pl
@@ -2627,6 +2631,7 @@ lnaff.pl
 lnfo.web-chat.eu
 lnktime.com
 lnktk.com
+lnpost-apps.com
 lnpostdezynfekcje.net
 lnpush.pl
 load9.nowosczdrowieporadyvlc.pl
@@ -2929,6 +2934,7 @@ moneywp.website
 moneywp.xyz
 monikajaskowiak.pl
 monikareplin.pl
+monitoring-epocztapolska.net
 monitoringi24.eu
 monitoring-pocztapolska.net
 monitoring-pocztapolska.org
@@ -3223,6 +3229,7 @@ ogladaj.online
 ogladaj-online24.pl
 ogladajzadarmo.com.pl
 ogladamy24.pl
+oglaszamy.ct8.pl
 ogloszeniagratis.pl
 ogloszenie.best
 ogloszenie.space
@@ -3996,6 +4003,7 @@ regulamin-poczty.net
 regulamin-wirtualnapolska.com
 regulamin-wirtualnapolska.icu
 regulamin-wp.com
+regulamin.xyz
 rehab4pets.pl
 rehabilitacja-bialapodl.pl
 rehabilitant.rzeszow.re
@@ -4150,6 +4158,7 @@ server-payuser1.com
 servicecheck5.wixsite.com
 service-pay.company
 serwer2083668.home.pl
+serwer2085989.home.pl
 serwis-ab.com.pl
 serwisgaz.com.pl
 serwisjaponczykow.pl
@@ -4309,6 +4318,7 @@ soltysprzeginianarodowa.pl
 solvens.pl
 solvusoft.com
 soo.sg
+sopot-fakt24.pl
 sortier1.com
 soundshow.pl
 sp2mzc.pl
@@ -4704,6 +4714,7 @@ toysoutlet.pl
 tpc.hu
 tpm-consulting.com.pl
 tpnk.pl
+tpocztapolska.com
 tpskp.com
 track.adsfast.com
 track-enable.com
@@ -6177,6 +6188,7 @@ www.drmartensbuty.pl
 www.drmartenspl.pl
 www.drmartenspolska.com
 www.drogeriesms.net
+www.drogowe-akcje.ct8.pl
 www.drogoweplyty.pl
 www.drsaritabhalerao.com
 www.drukarniaskarbowa.pl
@@ -6315,6 +6327,7 @@ www.emobi-sys.com
 www.emonitoring24.eu
 www.emonitoring24.online
 www.emonitoring-epoczta24polska.net
+www.emonitoring-epocztapolska.net
 www.emonitoring-poczta24.net
 www.emonitoringpoczta24.net
 www.emonitoring-poczta48.net
@@ -6327,6 +6340,7 @@ www.emonitoring-pocztapolska.eu
 www.emonitoring-pocztapolska.net
 www.e-monitoring-pocztapolska.org
 www.emonitoring-pocztex48.net
+www.emonitoring-upocztapolska.net
 www.emptierbreak.xyz
 www.endofhisrope.net
 www.energabok.pl
@@ -6474,6 +6488,7 @@ www.fakturownia-pl.ga
 www.fakturownia-pl.gq
 www.faktury3941.org
 www.fakty24a.is-best.net
+www.fakty24-gdansk.pl
 www.fakty24-informacje.pl
 www.fakty24-live.eu
 www.fakty24-swiat.pl
@@ -7718,6 +7733,7 @@ www.lnaff.pl
 www.lnfo.web-chat.eu
 www.lnktime.com
 www.lnktk.com
+www.lnpost-apps.com
 www.lnpostdezynfekcje.net
 www.lnpush.pl
 www.load9.nowosczdrowieporadyvlc.pl
@@ -8020,6 +8036,7 @@ www.moneywp.website
 www.moneywp.xyz
 www.monikajaskowiak.pl
 www.monikareplin.pl
+www.monitoring-epocztapolska.net
 www.monitoringi24.eu
 www.monitoring-pocztapolska.net
 www.monitoring-pocztapolska.org
@@ -8314,6 +8331,7 @@ www.ogladaj.online
 www.ogladaj-online24.pl
 www.ogladajzadarmo.com.pl
 www.ogladamy24.pl
+www.oglaszamy.ct8.pl
 www.ogloszeniagratis.pl
 www.ogloszenie.best
 www.ogloszenie.space
@@ -9064,6 +9082,7 @@ www.regulamin-poczty.net
 www.regulamin-wirtualnapolska.com
 www.regulamin-wirtualnapolska.icu
 www.regulamin-wp.com
+www.regulamin.xyz
 www.rehab4pets.pl
 www.rehabilitacja-bialapodl.pl
 www.rehabilitant.rzeszow.re
@@ -9218,6 +9237,7 @@ www.server-payuser1.com
 www.servicecheck5.wixsite.com
 www.service-pay.company
 www.serwer2083668.home.pl
+www.serwer2085989.home.pl
 www.serwis-ab.com.pl
 www.serwisgaz.com.pl
 www.serwisjaponczykow.pl
@@ -9377,6 +9397,7 @@ www.soltysprzeginianarodowa.pl
 www.solvens.pl
 www.solvusoft.com
 www.soo.sg
+www.sopot-fakt24.pl
 www.sortier1.com
 www.soundshow.pl
 www.sp2mzc.pl
@@ -9772,6 +9793,7 @@ www.toysoutlet.pl
 www.tpc.hu
 www.tpm-consulting.com.pl
 www.tpnk.pl
+www.tpocztapolska.com
 www.tpskp.com
 www.track.adsfast.com
 www.track-enable.com
