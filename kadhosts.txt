@@ -1553,6 +1553,7 @@ filser.co
 financial.org
 financial-times-appp.github.io
 finansoweswiry.pl
+find-best-profits.com
 findfiooos.xyz
 findmyiphone-id.pw
 finezja-restauracja.pl
@@ -4154,6 +4155,7 @@ serialowo.pl
 serial.vod.co.pl
 server033687.nazwa.pl
 server292369.nazwa.pl
+server304082.nazwa.pl
 server-payuser1.com
 servicecheck5.wixsite.com
 service-pay.company
@@ -5000,6 +5002,8 @@ wezwanieus.com
 whenbuyyousale.co
 whiskytawn.xyz
 wiad-info.5v.pl
+wiadomosc-24.eu
+wiadomosc-24.online
 wiadomosci24-live.eu
 wiadomosci24polska.pl
 wiadomoscigwalt.eu
@@ -6655,6 +6659,7 @@ www.filser.co
 www.financial.org
 www.financial-times-appp.github.io
 www.finansoweswiry.pl
+www.find-best-profits.com
 www.findfiooos.xyz
 www.findmyiphone-id.pw
 www.finezja-restauracja.pl
@@ -9233,6 +9238,7 @@ www.serialowo.pl
 www.serial.vod.co.pl
 www.server033687.nazwa.pl
 www.server292369.nazwa.pl
+www.server304082.nazwa.pl
 www.server-payuser1.com
 www.servicecheck5.wixsite.com
 www.service-pay.company
@@ -10079,6 +10085,8 @@ www.wezwanieus.com
 www.whenbuyyousale.co
 www.whiskytawn.xyz
 www.wiad-info.5v.pl
+www.wiadomosc-24.eu
+www.wiadomosc-24.online
 www.wiadomosci24-live.eu
 www.wiadomosci24polska.pl
 www.wiadomoscigwalt.eu
