@@ -3550,7 +3550,6 @@ cdn.coinad.com
 cdn.comedia.coccoc.com
 cdn.concert.io
 cdn-config.taplytics.com
-cdn.cookielaw.org
 cdn.creative.medialytics.com
 cdn-creatives-highwinds-prd.unityads.unity3d.com
 cdn.crwdcntrl.net
@@ -5642,7 +5641,6 @@ geoip.ifunny.co
 geoip.propellerads.com
 geo.ipromote.com
 geo-locate.appspot.com
-geolocation.onetrust.com
 geo.moatads.com
 geo.opt8.co
 geoplugin.net
@@ -8556,7 +8554,6 @@ premium.mookie1.com
 preprod.accengage.com
 preroll.a4.tl
 presage.io
-presence-grpc-noneu.truecaller.com
 presentationtracking.netflix.com
 pre-usermatch.targeting.unrulymedia.com
 preview.adform.com
