@@ -245,7 +245,6 @@ ad.media-servers.net
 ad.mediastorm.hu
 admeld.com
 admeridianads.com
-admerize.be
 admeta.com
 admex.com
 adm.fwmrm.net
@@ -315,7 +314,6 @@ adrta.com
 ads10.speedbit.com
 ads180.com
 ads1-adnow.com
-ads1.canoe.ca
 ads1.mediacapital.pt
 ads1.msn.com
 ads1.rne.com
@@ -342,7 +340,6 @@ ads4.gamecity.net
 ads4homes.com
 ads.4tube.com
 ads4.virtual-nights.com
-ads5.canoe.ca
 ads.5ci.lt
 ads5.virtual-nights.com
 ads6.gamecity.net
@@ -398,7 +395,6 @@ ads.businessweek.com
 adsby.bidtheatre.com
 adscale.de
 ads.canalblog.com
-ads.canoe.ca
 ads.casinocity.com
 ads.casumoaffiliates.com
 ads.cbc.ca
@@ -1060,7 +1056,6 @@ banner-exchange-24.de
 banner.goldenpalace.com
 bannergrabber.internet.gr
 banner.grandefm.com.br
-bannerhost.com
 bannerimage.com
 banner.img.co.za
 banner.inyourpocket.com
@@ -1719,7 +1714,6 @@ fukc69xo.us
 fullstory.com
 functionalcrown.com
 funklicks.com
-funpageexchange.com
 fusionads.net
 fusionquest.com
 futuristicapparatus.com
@@ -1848,6 +1842,7 @@ hoverowl.com
 how-to-create-a-resignation-letter.com
 hsadspixel.net
 hs-analytics.net
+hs-banner.com
 htlbid.com
 httpool.com
 hud8mxdt.computerhelpmirror.top
@@ -1885,7 +1880,6 @@ ilbanner.com
 ilead.itrack.it
 illfatedsnail.com
 illustriousoatmeal.com
-imageads.canoe.ca
 imagecash.net
 images-pw.secureserver.net
 imarketservices.com
@@ -2671,7 +2665,6 @@ rhythmone.com
 richmails.com
 richmedia.yimg.com
 richstring.com
-richwebmaster.com
 rightstats.com
 rinconpx.net
 ringsrecord.com
@@ -2827,6 +2820,7 @@ smetrics.washingtonpost.com
 smilingwaves.com
 smrtb.com
 snapads.com
+sneakystamp.com
 snoobi.com
 socialspark.com
 softclick.com.br
@@ -3096,7 +3090,6 @@ tracking.epicgames.com
 trackingfestival.com
 tracking.gajmp.com
 tracking.ibxlink.com
-tracking.inlocomedia.com
 tracking.internetstores.de
 tracking.intl.miui.com
 tracking.miui.com
