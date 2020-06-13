@@ -210,6 +210,7 @@ allegrolokalnie-pl.cc
 allegrolokalnie-pl.ru
 allegrolokalnie.su
 allegrolokalnie.tech
+allegroplatnosci.pl
 allegro.pl-nowe-regulamini7913.uhu362.com
 allegro.pl.sholtem.pl
 allegro.pl.showltem.pl
@@ -527,6 +528,7 @@ bmillenhome.com
 bmstudiourody.pl
 bmwklubbydgoszcz.pl
 bnewsb.com
+bnpparibas-bank.pl
 bobopstryk.pl
 bodranowelnaver.tk
 bodykarma.pl
@@ -830,6 +832,7 @@ cp.masiodls.com
 cracowwhiskyfestival.pl
 crca.pl
 createyourhealth.pl
+creazionesitointernet.xyz
 crediko.pl
 credito.com.pl
 credy.pl
@@ -1225,6 +1228,7 @@ emobi-sys.com
 emonitoring24.eu
 emonitoring24.online
 emonitoring-epoczta24polska.net
+emonitoring-epoczta-polska.net
 emonitoring-epocztapolska.net
 emonitoring-poczta24.net
 emonitoringpoczta24.net
@@ -1337,6 +1341,8 @@ exw-wallet.com
 e-yourmovies.com
 e-yourmovies.pl
 eyupp.com
+e-zaginieni.eu
+e-zaginieni.pl
 ezifilm.pl
 ezoliniawrozby.com
 f4u.pl
@@ -1367,6 +1373,7 @@ fajne-filmy.pl
 fajnepiosenki.pl
 fajnewierszyki.pl
 faksowy.is-best.net
+fakt24-porwaniefabian.com.pl
 fakt24warszawa.com.pl
 faktoswe.is-best.net
 faktowace.is-best.net
@@ -1387,6 +1394,7 @@ fakturownia-pl.gq
 faktury3941.org
 fakty24a.is-best.net
 fakty24-gdansk.pl
+fakty24-gdynia.pl
 fakty24-informacje.pl
 fakty24-live.eu
 fakty24-swiat.pl
@@ -2347,6 +2355,7 @@ kayastylowetorebki.pl
 kazdymozepomocitv.club
 kddz.pl
 kebabnisko.pl
+kebhbn.com
 keenbuty.pl
 keepitavocado.com
 keikomimura.com
@@ -2355,6 +2364,7 @@ keqiang.pro
 ketabnema.com
 ketorecipeslchf.site
 keykong.eu
+key-mine.fun
 kgf-pryzmat.pl
 kickboxing.cba.pl
 kickstore.pl
@@ -2648,6 +2658,7 @@ login-paribas.at
 login-paribas.info
 login-paribas-planet.info
 login-planet-paribas.info
+logowanie-paribas.at
 lokalnie.live
 loktrk.com
 lolalynch.pl
@@ -3403,6 +3414,7 @@ paqu24.org
 parafia-kamienica-tarnow.pl
 parafiamogielnica.pl
 parafiaplaw.pl
+paribas-logowanie.at
 paribas-online.at
 paribas-online.eu
 paribas-online-logowanie.eu
@@ -3506,6 +3518,7 @@ plast-chem.com.pl
 platinumprestige.pl
 platnik247.online
 platnosci24.services
+platnosciallegro.pl
 platnosci-online.services
 platnosc-kurier.com
 platnosc.paczka-48.com
@@ -4010,6 +4023,7 @@ rehab4pets.pl
 rehabilitacja-bialapodl.pl
 rehabilitant.rzeszow.re
 reimageplus.com
+rejestr24.5p.pl
 rejestr.5p.pl
 reklamy-rec.pl
 rekrutacja.zafriko.pl
@@ -4157,6 +4171,7 @@ serial.vod.co.pl
 server033687.nazwa.pl
 server292369.nazwa.pl
 server304082.nazwa.pl
+server991318.nazwa.pl
 server-payuser1.com
 servicecheck5.wixsite.com
 service-pay.company
@@ -4215,6 +4230,7 @@ silviassib.pl
 simmafia.pl
 simplicatio.pl
 simplyjokes4all.blogspot.com
+sindirella.pl
 siniaki.pl
 siobhanmcminn.com
 siodemkawysyl24h.info
@@ -5317,6 +5333,7 @@ www.allegrolokalnie-pl.cc
 www.allegrolokalnie-pl.ru
 www.allegrolokalnie.su
 www.allegrolokalnie.tech
+www.allegroplatnosci.pl
 www.allegro.pl-nowe-regulamini7913.uhu362.com
 www.allegro.pl.sholtem.pl
 www.allegro.pl.showltem.pl
@@ -5635,6 +5652,7 @@ www.bmillenhome.com
 www.bmstudiourody.pl
 www.bmwklubbydgoszcz.pl
 www.bnewsb.com
+www.bnpparibas-bank.pl
 www.bobopstryk.pl
 www.bodranowelnaver.tk
 www.bodykarma.pl
@@ -5938,6 +5956,7 @@ www.cp.masiodls.com
 www.cracowwhiskyfestival.pl
 www.crca.pl
 www.createyourhealth.pl
+www.creazionesitointernet.xyz
 www.crediko.pl
 www.credito.com.pl
 www.credy.pl
@@ -6333,6 +6352,7 @@ www.emobi-sys.com
 www.emonitoring24.eu
 www.emonitoring24.online
 www.emonitoring-epoczta24polska.net
+www.emonitoring-epoczta-polska.net
 www.emonitoring-epocztapolska.net
 www.emonitoring-poczta24.net
 www.emonitoringpoczta24.net
@@ -6445,6 +6465,8 @@ www.exw-wallet.com
 www.e-yourmovies.com
 www.e-yourmovies.pl
 www.eyupp.com
+www.e-zaginieni.eu
+www.e-zaginieni.pl
 www.ezifilm.pl
 www.ezoliniawrozby.com
 www.f4u.pl
@@ -6475,6 +6497,7 @@ www.fajne-filmy.pl
 www.fajnepiosenki.pl
 www.fajnewierszyki.pl
 www.faksowy.is-best.net
+www.fakt24-porwaniefabian.com.pl
 www.fakt24warszawa.com.pl
 www.faktoswe.is-best.net
 www.faktowace.is-best.net
@@ -6495,6 +6518,7 @@ www.fakturownia-pl.gq
 www.faktury3941.org
 www.fakty24a.is-best.net
 www.fakty24-gdansk.pl
+www.fakty24-gdynia.pl
 www.fakty24-informacje.pl
 www.fakty24-live.eu
 www.fakty24-swiat.pl
@@ -7455,6 +7479,7 @@ www.kayastylowetorebki.pl
 www.kazdymozepomocitv.club
 www.kddz.pl
 www.kebabnisko.pl
+www.kebhbn.com
 www.keenbuty.pl
 www.keepitavocado.com
 www.keikomimura.com
@@ -7463,6 +7488,7 @@ www.keqiang.pro
 www.ketabnema.com
 www.ketorecipeslchf.site
 www.keykong.eu
+www.key-mine.fun
 www.kgf-pryzmat.pl
 www.kickboxing.cba.pl
 www.kickstore.pl
@@ -7756,6 +7782,7 @@ www.login-paribas.at
 www.login-paribas.info
 www.login-paribas-planet.info
 www.login-planet-paribas.info
+www.logowanie-paribas.at
 www.lokalnie.live
 www.loktrk.com
 www.lolalynch.pl
@@ -8511,6 +8538,7 @@ www.paqu24.org
 www.parafia-kamienica-tarnow.pl
 www.parafiamogielnica.pl
 www.parafiaplaw.pl
+www.paribas-logowanie.at
 www.paribas-online.at
 www.paribas-online.eu
 www.paribas-online-logowanie.eu
@@ -8611,6 +8639,7 @@ www.plast-chem.com.pl
 www.platinumprestige.pl
 www.platnik247.online
 www.platnosci24.services
+www.platnosciallegro.pl
 www.platnosci-online.services
 www.platnosc-kurier.com
 www.platnosc.paczka-48.com
@@ -9095,6 +9124,7 @@ www.rehab4pets.pl
 www.rehabilitacja-bialapodl.pl
 www.rehabilitant.rzeszow.re
 www.reimageplus.com
+www.rejestr24.5p.pl
 www.rejestr.5p.pl
 www.reklamy-rec.pl
 www.rekrutacja.zafriko.pl
@@ -9242,6 +9272,7 @@ www.serial.vod.co.pl
 www.server033687.nazwa.pl
 www.server292369.nazwa.pl
 www.server304082.nazwa.pl
+www.server991318.nazwa.pl
 www.server-payuser1.com
 www.servicecheck5.wixsite.com
 www.service-pay.company
@@ -9300,6 +9331,7 @@ www.silviassib.pl
 www.simmafia.pl
 www.simplicatio.pl
 www.simplyjokes4all.blogspot.com
+www.sindirella.pl
 www.siniaki.pl
 www.siobhanmcminn.com
 www.siodemkawysyl24h.info
@@ -10275,6 +10307,7 @@ www.za10groszy.pl
 www.zaadoptujstacjeladowania.com.pl
 www.zabashop.pl
 www.zabawlandia.pl
+www.zabawyogrodowe.com
 www.zabiczyn.pl
 www.zabieganapara.pl
 www.zagiel-przeciwsloneczny-pl.com
@@ -10499,6 +10532,7 @@ za10groszy.pl
 zaadoptujstacjeladowania.com.pl
 zabashop.pl
 zabawlandia.pl
+zabawyogrodowe.com
 zabiczyn.pl
 zabieganapara.pl
 zagiel-przeciwsloneczny-pl.com
