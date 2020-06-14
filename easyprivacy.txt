@@ -1834,6 +1834,7 @@ diplomahawaii.com
 dircont3.com
 directcounter.de
 directcrm.ru
+direct-events-collector.spot.im
 directprimal.com
 directrdr.com
 dirt.dennis.co.uk
@@ -5494,6 +5495,7 @@ tags.master-perf-tools.com
 tags.msnbc.com
 tags.newscgp.com
 tag.sonymusic.com
+tags.op-palvelut.fi
 tagsrvcs.com
 tagtool.de
 tag.triboomedia.it
