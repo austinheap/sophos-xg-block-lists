@@ -4651,7 +4651,6 @@ safe-click.net
 s.agava.ru
 sageanalyst.net
 sagetrc.com
-sajari.com
 salecycle.com
 salemove.com
 salesgenius.com
@@ -6699,6 +6698,7 @@ zeotap.com
 zero.kz
 zesep.com
 zeus.slader.com
+zeustechnology.com
 zhihu-web-analytics.zhihu.com
 zion.api.cnn.io
 zipstat.dk

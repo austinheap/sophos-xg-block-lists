@@ -156,6 +156,8 @@ akademiazarabianiawinternecie.pl
 akazoo.pl
 akceptacja-regulaminu.com
 akcjainijob.pl
+akcjasamsung.e-kei.pl
+akcja-samsung.h2g.pl
 akcjasgk.pl
 akitaken.pl
 akredytowane.pl
@@ -199,6 +201,9 @@ alkadiakurier.com
 alkadiakurier.org
 alkoskurier.com
 alldc.pw
+allegro4.pl
+allegro5.pl
+allegrofinanse2.pl
 allegrolokalnie-pl.cc
 allegrolokalnie-pl.ru
 allegrolokalnie.su
@@ -753,6 +758,7 @@ coachhouseballarat.com
 cocoopt.com
 codeandwork.pl
 codenpic.com
+codzienniekazdycos.club
 colex-rowery.com.pl
 colorking.es
 colors-app.blogspot.com
@@ -2123,6 +2129,7 @@ instrukcjapolska.pl
 instytut-doszkalajacy.com
 instytutmed.pl
 instytut-pomocy.pl
+intergsm.pl
 interiordream.pl
 interneip.org
 internetshoppy.com
@@ -2166,6 +2173,7 @@ islandmob.com
 i-store365.com
 istrefa.net
 itcity.pl
+itdept.moonfruit.com
 itelefon.org
 itkompleks.pl
 itorrenty.org
@@ -2991,6 +2999,7 @@ naszbiecz.pl
 nasze-miasta24tv.online
 nasze-miasto24.x9.eu
 naszemiasto-info247.x9.eu
+naszemiasto-info24.x9.eu
 naszeteksty.pl
 naszezycie.com
 naszregion24.pl
@@ -3167,6 +3176,7 @@ odkwaszacz.pl
 odmakaroniarzy.pl
 odzyskajsnapy.blogspot.com
 ofelite.top
+offers4fun.com
 offerunt.pl
 offside2.000webhostapp.com
 oftmos.pl
@@ -3899,6 +3909,7 @@ rbffn.net
 rbfrh.com
 rbkkg.net
 rbknt.com
+rbn-pl.net
 rbreebokcrossfit.pl
 rbxfree.com
 rcabaj.com.pl
@@ -4044,6 +4055,7 @@ salonfilmowy.pl
 salonmanager.pl
 salonmotoryzacyjny.lublin.ovh
 samsung.24.eu
+samsung-akcja.e-kei.pl
 samsung-produkcja.24.eu
 samsung-stop.24.eu
 samuraibangalore.com
@@ -4359,6 +4371,7 @@ steam-wallet-money.com
 stelvit.com
 steney.holylamaoffers.com
 stenplus.onewaywinner.com
+stenpluz.offers4fun.com
 steroidsworld.pl
 stevemadsklep.pl
 stevija.pl
@@ -4711,8 +4724,10 @@ tvnewtop.pro
 tvnowapp.net
 tvonline.hol.es
 tvp-informacyjna1.eu
+twenteenow.bestofferslove.com
 twenty20experience.blogspot.com
 twentynow.aintnothingtoit.com
+twenty-wishes.000webhostapp.com
 twierdza-wroclaw.pl
 twochefs-pizzeria.pl
 twojaenea.pl
@@ -5197,6 +5212,8 @@ www.akademiazarabianiawinternecie.pl
 www.akazoo.pl
 www.akceptacja-regulaminu.com
 www.akcjainijob.pl
+www.akcjasamsung.e-kei.pl
+www.akcja-samsung.h2g.pl
 www.akcjasgk.pl
 www.akitaken.pl
 www.akredytowane.pl
@@ -5240,6 +5257,9 @@ www.alkadiakurier.com
 www.alkadiakurier.org
 www.alkoskurier.com
 www.alldc.pw
+www.allegro4.pl
+www.allegro5.pl
+www.allegrofinanse2.pl
 www.allegrolokalnie-pl.cc
 www.allegrolokalnie-pl.ru
 www.allegrolokalnie.su
@@ -5794,6 +5814,7 @@ www.coachhouseballarat.com
 www.cocoopt.com
 www.codeandwork.pl
 www.codenpic.com
+www.codzienniekazdycos.club
 www.colex-rowery.com.pl
 www.colorking.es
 www.colors-app.blogspot.com
@@ -7164,6 +7185,7 @@ www.instrukcjapolska.pl
 www.instytut-doszkalajacy.com
 www.instytutmed.pl
 www.instytut-pomocy.pl
+www.intergsm.pl
 www.interiordream.pl
 www.interneip.org
 www.internetshoppy.com
@@ -7207,6 +7229,7 @@ www.islandmob.com
 www.i-store365.com
 www.istrefa.net
 www.itcity.pl
+www.itdept.moonfruit.com
 www.itelefon.org
 www.itkompleks.pl
 www.itorrenty.org
@@ -8032,6 +8055,7 @@ www.naszbiecz.pl
 www.nasze-miasta24tv.online
 www.nasze-miasto24.x9.eu
 www.naszemiasto-info247.x9.eu
+www.naszemiasto-info24.x9.eu
 www.naszeteksty.pl
 www.naszezycie.com
 www.naszregion24.pl
@@ -8208,6 +8232,7 @@ www.odkwaszacz.pl
 www.odmakaroniarzy.pl
 www.odzyskajsnapy.blogspot.com
 www.ofelite.top
+www.offers4fun.com
 www.offerunt.pl
 www.offside2.000webhostapp.com
 www.oftmos.pl
@@ -8917,6 +8942,7 @@ www.rbffn.net
 www.rbfrh.com
 www.rbkkg.net
 www.rbknt.com
+www.rbn-pl.net
 www.rbreebokcrossfit.pl
 www.rbxfree.com
 www.rcabaj.com.pl
@@ -9062,6 +9088,7 @@ www.salonfilmowy.pl
 www.salonmanager.pl
 www.salonmotoryzacyjny.lublin.ovh
 www.samsung.24.eu
+www.samsung-akcja.e-kei.pl
 www.samsung-produkcja.24.eu
 www.samsung-stop.24.eu
 www.samuraibangalore.com
@@ -9377,6 +9404,7 @@ www.steam-wallet-money.com
 www.stelvit.com
 www.steney.holylamaoffers.com
 www.stenplus.onewaywinner.com
+www.stenpluz.offers4fun.com
 www.steroidsworld.pl
 www.stevemadsklep.pl
 www.stevija.pl
@@ -9729,8 +9757,10 @@ www.tvnewtop.pro
 www.tvnowapp.net
 www.tvonline.hol.es
 www.tvp-informacyjna1.eu
+www.twenteenow.bestofferslove.com
 www.twenty20experience.blogspot.com
 www.twentynow.aintnothingtoit.com
+www.twenty-wishes.000webhostapp.com
 www.twierdza-wroclaw.pl
 www.twochefs-pizzeria.pl
 www.twojaenea.pl
