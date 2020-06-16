@@ -167,6 +167,8 @@ aktualizacjafacebooka.blogspot.com
 aktualizacja.jst.pl
 aktualizacja-poczty.online
 aktualizacja-regulamin.com
+aktywacja.allegro6.pl
+aktywacja.allegro7.pl
 aktywnechwile.pl
 aktywnytylicz.pl
 akumulatorowy-raj.pl
@@ -203,6 +205,8 @@ alkoskurier.com
 alldc.pw
 allegro4.pl
 allegro5.pl
+allegro6.pl
+allegro7.pl
 allegrofinanse2.pl
 allegrolokalnie-pl.cc
 allegrolokalnie-pl.ru
@@ -744,6 +748,7 @@ clic-douaisis.fr
 click2000.host
 clickjump.biz
 clickpush.biz
+cloud.file.co.pl
 cloud-ideabank.at
 cloudtokenwallet.com
 club4you.pl
@@ -1035,6 +1040,7 @@ dowmarkets.com
 download-24.tk
 download.apps.co.pl
 downloader48speeder.ga
+download.file.co.pl
 downloadfile.eu
 downloadfiles.pl
 download.inboxace.com
@@ -1607,6 +1613,7 @@ foto-zdjecia.24.eu
 fotozwardon.pl
 foxrpas.com
 fpkrosno.pl
+fragrano.pl
 fraktaltrader.eu
 fraktal-trader.pl
 franciszkakurier.com
@@ -1615,6 +1622,7 @@ frankowe24.pl
 free.apps.co.pl
 freecoronavirusoffer.com
 free.extrabuttons.pw
+free.file.co.pl
 freefollower.eu
 free-gg.com
 freegiftcode.com
@@ -2884,6 +2892,7 @@ mojekobe.is-best.net
 mojekumpele.blogspot.com
 moje-last-minute.pl
 mojepiwa.pl
+mojetestery.pl
 mojeweselicho.za.pl
 mojezakupy.net
 mollycoddlesoap.com
@@ -3405,6 +3414,7 @@ performquickintenselyfile.icu
 perfumeriaife.pl
 perfumio.pl
 perfum-shop.pl
+perfumyitestery.pl
 perspektywa2012.za.pl
 peterjack.pl
 pewnyzabieg.pl
@@ -4304,6 +4314,8 @@ spmsystem.pl
 spocztapolska.net
 spokeo.pl
 spolecznagrazespolowa.pl
+spolszczenia4you.net
+spolszczenia-gier.com.pl
 sport-bike.pl
 sportowy-stream.pl
 sportplus.pro
@@ -5223,6 +5235,8 @@ www.aktualizacjafacebooka.blogspot.com
 www.aktualizacja.jst.pl
 www.aktualizacja-poczty.online
 www.aktualizacja-regulamin.com
+www.aktywacja.allegro6.pl
+www.aktywacja.allegro7.pl
 www.aktywnechwile.pl
 www.aktywnytylicz.pl
 www.akumulatorowy-raj.pl
@@ -5259,6 +5273,8 @@ www.alkoskurier.com
 www.alldc.pw
 www.allegro4.pl
 www.allegro5.pl
+www.allegro6.pl
+www.allegro7.pl
 www.allegrofinanse2.pl
 www.allegrolokalnie-pl.cc
 www.allegrolokalnie-pl.ru
@@ -5800,6 +5816,7 @@ www.clic-douaisis.fr
 www.click2000.host
 www.clickjump.biz
 www.clickpush.biz
+www.cloud.file.co.pl
 www.cloud-ideabank.at
 www.cloudtokenwallet.com
 www.club4you.pl
@@ -6091,6 +6108,7 @@ www.dowmarkets.com
 www.download-24.tk
 www.download.apps.co.pl
 www.downloader48speeder.ga
+www.download.file.co.pl
 www.downloadfile.eu
 www.downloadfiles.pl
 www.download.inboxace.com
@@ -6663,6 +6681,7 @@ www.foto-zdjecia.24.eu
 www.fotozwardon.pl
 www.foxrpas.com
 www.fpkrosno.pl
+www.fragrano.pl
 www.fraktaltrader.eu
 www.fraktal-trader.pl
 www.franciszkakurier.com
@@ -6671,6 +6690,7 @@ www.frankowe24.pl
 www.free.apps.co.pl
 www.freecoronavirusoffer.com
 www.free.extrabuttons.pw
+www.free.file.co.pl
 www.freefollower.eu
 www.free-gg.com
 www.freegiftcode.com
@@ -7940,6 +7960,7 @@ www.mojekobe.is-best.net
 www.mojekumpele.blogspot.com
 www.moje-last-minute.pl
 www.mojepiwa.pl
+www.mojetestery.pl
 www.mojeweselicho.za.pl
 www.mojezakupy.net
 www.mollycoddlesoap.com
@@ -8462,6 +8483,7 @@ www.performquickintenselyfile.icu
 www.perfumeriaife.pl
 www.perfumio.pl
 www.perfum-shop.pl
+www.perfumyitestery.pl
 www.perspektywa2012.za.pl
 www.peterjack.pl
 www.pewnyzabieg.pl
@@ -9337,6 +9359,8 @@ www.spmsystem.pl
 www.spocztapolska.net
 www.spokeo.pl
 www.spolecznagrazespolowa.pl
+www.spolszczenia4you.net
+www.spolszczenia-gier.com.pl
 www.sport-bike.pl
 www.sportowy-stream.pl
 www.sportplus.pro
