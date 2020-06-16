@@ -4416,6 +4416,7 @@ rcgi.video.qq.com
 rcm.shinobi.jp
 rc.rlcdn.com
 rcsmetrics.it
+rc.vtex.com.br
 rd.alice.it
 rdstation.com.br
 rdtdlv.laredoute.fr
@@ -6406,7 +6407,6 @@ vry9.destinia.com
 v.shopify.com
 vs.target.com
 vstats.digitaltrends.com
-vtex.com.br
 vtf2f.banque-casino.fr
 vtracker.net
 vtracking.in.com

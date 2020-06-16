@@ -520,6 +520,7 @@ bmstudiourody.pl
 bmwklubbydgoszcz.pl
 bnewsb.com
 bnpparibas-bank.pl
+bnpparibas-logowanie.at
 bobopstryk.pl
 bodranowelnaver.tk
 bodykarma.pl
@@ -574,6 +575,7 @@ btc-outlet.com
 btcprofitnow.club
 btcprofitnow.website
 btcprofit.trcwasdf.club
+budoserv.pl
 buforstudio.pl
 bulanmanabisadiam.com
 bulbulstore.com
@@ -1217,6 +1219,7 @@ emonitoringpoczta48.net
 emonitoring-poczta48-polska.net
 emonitoring-pocztapolska24.com
 emonitoring.poczta-polska2.pl
+emonitoring.poczta-polska8.pl
 emonitoring-poczta-polska.eu
 emonitoring-pocztapolska.eu
 emonitoring-pocztapolska.net
@@ -2178,6 +2181,7 @@ irismal.com
 isabellstudio.com.pl
 isalska.pl
 islandmob.com
+issl-cert.pl
 i-store365.com
 istrefa.net
 itcity.pl
@@ -3571,6 +3575,7 @@ poczta-polska48.eu
 poczta-polska48.net
 pocztapolska48.net
 poczta-polska4.pl
+poczta-polska8.pl
 pocztapolska.eu
 poczta-polska.net
 poczta-polska.services
@@ -3664,6 +3669,7 @@ porownajtv24.pl
 portaldruku.pl
 portalfotowoltaika.pl
 portalrandkowy.c.pl
+portalsasiedzki.eu
 porumar.pl
 porvitto.com
 porwaniadzieci.eu
@@ -4030,6 +4036,7 @@ roundupbarandgrill.com
 rovingadventures.com
 royalestate.com.pl
 rozaart.com.pl
+rozakurier.org
 roznehistorie.pl
 rozpalamynadzieje.pl
 roztini51.com
@@ -4074,6 +4081,7 @@ sandomir.pl
 sandrografia.pl
 sangiovannipizza.com
 sapynews.com
+sasiedzkiportal.eu
 sasiedzkiportal.h2g.pl
 satclub.top
 satiwit.com
@@ -4346,6 +4354,7 @@ srkgs.pl
 sroka-online.pl
 ssklep.in.net
 ssl.bezpieczne-platnosci.pl
+ssl-cert.pl
 sslinfotype.pw
 ssl.mmtgo.me
 sslpayu.com
@@ -4774,6 +4783,7 @@ tyxuhuramolicul.tk
 tzr.grejt.pl
 u192389.stronazen.pl
 uapolska.com
+uatesnicknam.xyz
 ubezpieczenieociac.pl
 ublock.org
 uczsiejezykow.com.pl
@@ -5588,6 +5598,7 @@ www.bmstudiourody.pl
 www.bmwklubbydgoszcz.pl
 www.bnewsb.com
 www.bnpparibas-bank.pl
+www.bnpparibas-logowanie.at
 www.bobopstryk.pl
 www.bodranowelnaver.tk
 www.bodykarma.pl
@@ -5642,6 +5653,7 @@ www.btc-outlet.com
 www.btcprofitnow.club
 www.btcprofitnow.website
 www.btcprofit.trcwasdf.club
+www.budoserv.pl
 www.buforstudio.pl
 www.bulanmanabisadiam.com
 www.bulbulstore.com
@@ -6285,6 +6297,7 @@ www.emonitoringpoczta48.net
 www.emonitoring-poczta48-polska.net
 www.emonitoring-pocztapolska24.com
 www.emonitoring.poczta-polska2.pl
+www.emonitoring.poczta-polska8.pl
 www.emonitoring-poczta-polska.eu
 www.emonitoring-pocztapolska.eu
 www.emonitoring-pocztapolska.net
@@ -7246,6 +7259,7 @@ www.irismal.com
 www.isabellstudio.com.pl
 www.isalska.pl
 www.islandmob.com
+www.issl-cert.pl
 www.i-store365.com
 www.istrefa.net
 www.itcity.pl
@@ -8616,6 +8630,7 @@ www.poczta-polska48.eu
 www.poczta-polska48.net
 www.pocztapolska48.net
 www.poczta-polska4.pl
+www.poczta-polska8.pl
 www.pocztapolska.eu
 www.poczta-polska.net
 www.poczta-polska.services
@@ -8709,6 +8724,7 @@ www.porownajtv24.pl
 www.portaldruku.pl
 www.portalfotowoltaika.pl
 www.portalrandkowy.c.pl
+www.portalsasiedzki.eu
 www.porumar.pl
 www.porvitto.com
 www.porwaniadzieci.eu
@@ -9075,6 +9091,7 @@ www.roundupbarandgrill.com
 www.rovingadventures.com
 www.royalestate.com.pl
 www.rozaart.com.pl
+www.rozakurier.org
 www.roznehistorie.pl
 www.rozpalamynadzieje.pl
 www.roztini51.com
@@ -9119,6 +9136,7 @@ www.sandomir.pl
 www.sandrografia.pl
 www.sangiovannipizza.com
 www.sapynews.com
+www.sasiedzkiportal.eu
 www.sasiedzkiportal.h2g.pl
 www.satclub.top
 www.satiwit.com
@@ -9391,6 +9409,7 @@ www.srkgs.pl
 www.sroka-online.pl
 www.ssklep.in.net
 www.ssl.bezpieczne-platnosci.pl
+www.ssl-cert.pl
 www.sslinfotype.pw
 www.ssl.mmtgo.me
 www.sslpayu.com
@@ -9819,6 +9838,7 @@ www.tyxuhuramolicul.tk
 www.tzr.grejt.pl
 www.u192389.stronazen.pl
 www.uapolska.com
+www.uatesnicknam.xyz
 www.ubezpieczenieociac.pl
 www.ublock.org
 www.uczsiejezykow.com.pl
@@ -10131,6 +10151,7 @@ www.wyleczpc.pl
 www.wyleczychemoroidy.pl
 www.wylewkibetonowe.com.pl
 www.wypad3k0.blogspot.com
+www.wypadki24.e-kei.pl
 www.wypoczywajunas.pl
 www.wypozycz-film.pl
 www.wyprzedazobuwie.pl
@@ -10351,6 +10372,7 @@ wyleczpc.pl
 wyleczychemoroidy.pl
 wylewkibetonowe.com.pl
 wypad3k0.blogspot.com
+wypadki24.e-kei.pl
 wypoczywajunas.pl
 wypozycz-film.pl
 wyprzedazobuwie.pl
