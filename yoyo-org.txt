@@ -36,6 +36,7 @@ aaddzz.com
 a.aproductmsg.com
 aaxads.com
 aaxdetect.com
+aax-eu-dub.amazon.com
 abacho.net
 abackchain.com
 abandonedaction.com
@@ -1364,6 +1365,7 @@ comprabanner.it
 concernedcondition.com
 conductrics.com
 connatix.com
+connectad.io
 connextra.com
 consciouschairs.com
 consensad.com
