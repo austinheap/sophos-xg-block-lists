@@ -940,6 +940,7 @@ amplitude.com
 amung.us
 analyticin.online
 analytics.adpost.org
+analyticsapi.happypancake.net
 analytics.bitrix.info
 analytics.cloudron.io
 analytics.cohesionapps.com
@@ -949,6 +950,7 @@ analytics.htmedia.in
 analytics.icons8.com
 analytics.inlinemanual.com
 analytics.jabong.com
+analytics.jst.ai
 analytics.live.com
 analytics.mailmunch.co
 analytics.myfinance.com
@@ -1107,6 +1109,7 @@ bannerswap.com
 banner.tanto.de
 bannertesting.com
 banner.titan-dsl.de
+bannertrack.net
 banner.vadian.net
 banner.webmersion.com
 bannery.cz
@@ -2699,6 +2702,7 @@ rtbadzesto.com
 rtbflairads.com
 rtb.gumgum.com
 rtbidhost.com
+rtb.openx.net
 rtbplatform.net
 rtbpop.com
 rtbpopd.com
@@ -2798,6 +2802,7 @@ sincerespy.com
 sinoa.com
 sitedataprocessing.com
 siteimproveanalytics.com
+siteimproveanalytics.io
 siteintercept.qualtrics.com
 sitemeter.com
 sixscissors.com
@@ -2958,6 +2963,7 @@ swordgoose.com
 taboola.com
 tagan.adlightning.com
 tagger.opecloud.com
+tag.links-analytics.com
 tags.tiqcdn.com
 tagular.com
 tailsweep.com
@@ -3307,6 +3313,7 @@ wonderlandads.com
 wondoads.de
 woopra.com
 worldwide-cash.net
+worldwidedigitalads.com
 worriednumber.com
 worrybutter.com
 wpnrtnmrewunrtok.xyz
