@@ -94,6 +94,7 @@ aamsitecertifier.com
 aan.amazon.com
 aapsis.com
 aaxdetect.com
+aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
 abakus.freenet.de
 abc.hearst.co.uk
