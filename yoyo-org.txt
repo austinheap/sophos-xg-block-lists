@@ -708,7 +708,6 @@ ads.simplyhired.com
 ads.smartclick.com
 ads.socialtheater.com
 ads.soft32.com
-ads-software.net
 ads.space.com
 ads.stackoverflow.com
 adsstat.com
