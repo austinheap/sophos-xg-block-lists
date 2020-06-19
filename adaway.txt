@@ -2807,7 +2807,6 @@ assets.applovin.com
 assets.chartboost.com
 assets.deployads.com
 assets.dwell.com
-assets.dynatrace.com
 assets.foxmetrics.com
 assets.iterable.com
 assets.kampyle.com
@@ -4304,8 +4303,6 @@ cpxadroit.com
 cpx.to
 cqlupb.com
 c.quantserve.com
-cr01.dynatrace.com
-cr02.dynatrace.com
 c.r10.mopub.com
 crab.baidu.com
 cr.appsee.com
@@ -4944,7 +4941,6 @@ dynamic.adcrowd.com
 dynamic-creative-loader.databerries.com
 dynamic.criteo.com
 dynamicyield.com
-dynatrace.com
 dyn-beacon.akamaized.net
 dync2.c.appier.net
 dync.c.appier.net
@@ -7164,7 +7160,6 @@ mc.exacttarget.com
 mc.s10.exacttarget.com
 mc.s7.exacttarget.com
 mcs.eyereturn.com
-mcsvc.dynatrace.com
 mc.yandex.ru
 md-a-c.apptimize.com
 md-a-d.apptimize.com
@@ -9784,7 +9779,6 @@ signalad.go.affec.tv
 signalhq.com
 signals.ampiri.com
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
-signin.dynatrace.com
 silvermob.com
 simaba.taobao.com
 simage2.pubmatic.com
