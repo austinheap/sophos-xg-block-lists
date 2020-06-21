@@ -2134,6 +2134,7 @@ eth-pocket.de
 eth-pocket.eu
 ethtrader.de
 et.nytimes.com
+etp-prod.com
 etracker.com
 etracker.de
 etracking24.de
@@ -2451,7 +2452,6 @@ gamesradar-gb.gamesradar.com
 gammachug.com
 ganon.yahoo.com
 ga.nsimg.net
-gasolina.ml
 gateway.foresee.com
 gatorleads.co.uk
 gaug.es
@@ -3039,9 +3039,7 @@ jirafe.com
 jixie.io
 journity.com
 jppolid-track.trackprod.integration.jppol.dk
-jqassets.download
 jquery-cdn.download
-jqwww.download
 jroqvbvw.info
 js-agent.newrelic.com
 jscdndel.com
@@ -3056,7 +3054,6 @@ jumptime.com
 jump-time.net
 junta.net
 justuno.com
-jwduahujge.ru
 jwmstats.com
 jyhfuqoh.info
 kaizenplatform.net
@@ -3259,7 +3256,6 @@ logentries.com
 log.flight.qunar.com
 log.f-tra.com
 logger.co.kr
-logger.dailymotion.com
 logger.kataweb.it
 logger.nerdwallet.com
 logger.pw
@@ -3282,7 +3278,6 @@ loginfra.com
 loginhood.io
 loginlog.sdo.com
 log.invodo.com
-log.kcisa.kr
 log.kibboko.com
 log.kukuplay.com
 log.kuwo.cn
@@ -3489,6 +3484,7 @@ metalyzer.com
 meteorsolutions.com
 metering.pagesuite.com
 metric-agent.i10c.net
+metric.gstatic.com
 metric.inetcore.com
 metric.nwsource.com
 metricool.com
@@ -3513,7 +3509,6 @@ metrics.sonymusicd2c.com
 metrics.ted.com
 metrics.toptenreviews.com
 metrics.uol.com.br
-metrics.upcload.com
 metrics.washingtonpost.com
 metrics.wikinvest.com
 metrigo.zalan.do
@@ -3621,8 +3616,6 @@ monitus.net
 monkeyminer.net
 monkeytracker.cz
 monstat.com
-montblanc.lenta.ru
-montblanc.rambler.ru
 monu.delivery
 moonsade.com
 mooseway.com
@@ -3712,7 +3705,6 @@ mystat-in.net
 mystat.it
 my-stats.info
 mystats.nl
-mysumo.de
 mytictac.com
 mytopf.com
 mytrack.pro
@@ -4033,6 +4025,7 @@ pclicks.com
 pclick.yahoo.com
 pcspeedup.com
 pdbu.net
+pdc.dmleonyc.com
 p.delivery.net
 pdmp.jp
 peakcounter.dk
@@ -6611,6 +6604,7 @@ wty46.com
 wundercounter.com
 wunderloop.net
 wwgate.ru
+www-google-analytics.l.google.com
 www.hey.lt
 www-path.com
 wysistat.com
