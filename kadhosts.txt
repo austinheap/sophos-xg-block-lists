@@ -33,6 +33,8 @@
 2i4.pl
 2remove.guide
 3663333633.findprofile.net.pl
+3fazowa-ostrzalka-do-nozy-pl.com
+3filmy.com
 4332.ws
 4afe8b11a52839751.temporary.link
 4kplayer.pl
@@ -98,6 +100,7 @@ adampaczka.com
 adapterylaptopa.com
 adaranth.com
 adasiapaczka.org
+adastra2019onlinezalukajfilm.wordpress.com
 adblock-listefr.com
 addays.pl
 adeptia.pl
@@ -172,8 +175,6 @@ aktualizacjafacebooka.blogspot.com
 aktualizacja.jst.pl
 aktualizacja-poczty.online
 aktualizacja-regulamin.com
-aktywacja.allegro6.pl
-aktywacja.allegro7.pl
 aktywnechwile.pl
 aktywnytylicz.pl
 akumulatorowy-raj.pl
@@ -209,12 +210,9 @@ alkadiakurier.org
 alkoskurier.com
 alldc.pw
 allegor.xyz
-allegro4.pl
-allegro5.pl
 allegro6.pl
 allegro7.pl
 allegroapk.net
-allegrofinanse2.pl
 allegrolokalnie.online
 allegrolokalnie-pl.cc
 allegrolokalnie-pl.ru
@@ -766,6 +764,7 @@ clube62.date
 clubedoestudante.net.br
 clubitaliano.pl
 clubpanorama.pl
+cmentosrl.com
 cme-srem.pl
 cnto.pl
 coachhouseballarat.com
@@ -912,6 +911,7 @@ darmowefilmyhd.blogspot.com
 darmowekino.pl
 darmowetesty.com
 darmowe-zakupy.com
+darmowy-film.blogspot.com
 darmowygenerator.blogspot.com
 daryducha.pl
 das33.io
@@ -1120,10 +1120,12 @@ dzieciznatura.pl
 dziendobry.org.pl
 dziennewiadomosci24.pl
 dziennik24.x9.eu
+dziennik-info.x9.eu
 dziennik-miasto24.x9.eu
 dzienniknews.com.pl
 dzienniknews.pl
 dziennikpolski24.work
+dziennik-polski.x9.eu
 dziennikprasowy.eu
 dziennikprasowy.pusiaweb.com
 dziennikuprowadzono.online
@@ -1227,7 +1229,6 @@ emonitoringpoczta48.net
 emonitoring-poczta48-polska.net
 emonitoring-pocztapolska24.com
 emonitoring.poczta-polska2.pl
-emonitoring.poczta-polska8.pl
 emonitoring-poczta-polska.eu
 emonitoring-pocztapolska.eu
 emonitoring-pocztapolska.net
@@ -1330,6 +1331,7 @@ e-yourmovies.pl
 eyupp.com
 e-zaginieni.eu
 e-zaginieni.pl
+ezalukaj.pl
 ezifilm.pl
 ezoliniawrozby.com
 f4u.pl
@@ -1536,12 +1538,15 @@ filmu.pl
 film-vod.pl
 filmvod.pl
 filmy4u.pl
+filmycdaonline.wordpress.com
 filmyfilmy.pl
 filmy-i-seriale.pl
 filmyiseriale.pw
 filmyonline.com.pl
+filmy-seriale.pl
 filmyseriale.pl
 filmy-tv.pl
+filmy-zalukaj.pl
 filo-shop.pl
 filser.co
 financial.org
@@ -2108,6 +2113,7 @@ info-polska.24lite.eu
 informacja-dnia.com
 informacje24fakt.pusiaweb.com
 informacje-fakty.pusiaweb.com
+informacje-naszemiasto.x9.eu
 informacje-news.eu
 informacje-o-maskach-ochronnych-pl.com
 informacje-swiat.pl
@@ -2497,6 +2503,7 @@ kuznialudzizaradnych.pl
 kuzniauwb.pl
 kwadratowyswia.pl
 kwaterapodgruszka.pl
+kwaterowanie.pl
 kwaterynasezon.pl
 kwiaciarnianadworcu.pl
 kwiaty-wiosenne.pl
@@ -2520,6 +2527,7 @@ las-rp.pl
 lastbreath-fanfiction.blogspot.com
 latajzkatowic.pl
 lavka.pl
+laweta-rybnik.pl
 lazieneczka.pl
 lci1a.voluumtrk.com
 lcmusic.pl
@@ -2679,6 +2687,7 @@ lukaszadamski.pl
 lukaszcholuj.pl
 lukaszuk.com.pl
 lukaszurbanczyk.pl
+luknijfilm.pl
 lululo.pl
 lumenphoto.pl
 lunzo.pl
@@ -2820,6 +2829,7 @@ mezczyzna-trendy.pl
 mezur4.com
 mgid.com
 mialamaborcje.pl
+miasto-wiadomosci-24h.x9.eu
 michalfigura.pl
 michal-zajac.pl
 michasiapaczka.org
@@ -3005,6 +3015,7 @@ namierz-telefon.pl
 namsi5.com
 namurach.pl
 nanawardrobe.pl
+nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com
 naporost.pl
 napraw-laptopa.waw.pl
 naprocare.pl
@@ -3020,8 +3031,10 @@ naszbiecz.pl
 nasze-info-24.x9.eu
 nasze-miasta24tv.online
 nasze-miasto24.x9.eu
+naszemiasto-fakty24.x9.eu
 naszemiasto-info247.x9.eu
 naszemiasto-info24.x9.eu
+naszemiasto-wiadomosci24.x9.eu
 naszeteksty.pl
 naszezycie.com
 naszregion24.pl
@@ -3541,6 +3554,7 @@ pl.slimg0ji-berry.com
 pl.superando.net
 pl.team
 pl.tvplusnewtab.com
+plus-finanse.pl
 plwash.pl
 pl-wyslij.best
 plytanagrillapl.com
@@ -3581,7 +3595,6 @@ poczta-polska48.eu
 poczta-polska48.net
 pocztapolska48.net
 poczta-polska4.pl
-poczta-polska6.pl
 poczta-polska8.pl
 pocztapolska.eu
 poczta-polska.net
@@ -3745,7 +3758,6 @@ privacy-email.eu
 private.atlanticgam.es
 prizefestival.mobi
 prizelava.com
-prl.genfotir.com
 prl.zerety.xyz
 probolan50.pl
 procardia.com.pl
@@ -4058,6 +4070,7 @@ roznehistorie.pl
 rozpalamynadzieje.pl
 roztini51.com
 rrbajkowa.pl
+rs.top-daily-profit.com
 rsvpcatering.pl
 rtvagdpro.net
 rtvmax.pl
@@ -4149,6 +4162,7 @@ serwer2083668.home.pl
 serwer2085989.home.pl
 serwis-ab.com.pl
 serwisgaz.com.pl
+serwisinformacyjny.x9.eu
 serwisjaponczykow.pl
 serwis.kb.help
 serwis-laptopow24.pl
@@ -4691,6 +4705,7 @@ tomojbiznes.pl
 tootu.pl
 top10-konkursy.pl
 topanonse.pl
+top-daily-profit.com
 topgryusluga.5p.pl
 topkotly.pl
 top-oferty.net
@@ -4753,6 +4768,7 @@ tunehub247shop.com
 tunele-rozsaczajace.pl
 tunga.homedns.org
 tuniaf.com
+tuobejrzysz.pl
 turbostrategiawalutowa.pl
 turystyczne-suwalki.pl
 turystyka.cal.pl
@@ -4784,6 +4800,7 @@ twoja-wygrana.com
 twoje-info-24h.x9.eu
 twojeinfo-polska24.x9.eu
 twojekwatery.com.pl
+twoje-miasto.x9.eu
 twoje-piekno.pl
 twoje-seriale.tv
 twojhoroskop.com
@@ -4903,7 +4920,6 @@ vibbo.pl
 vidaweird.blogspot.com
 vidaxl.pl
 videodownloadconverter.com
-vider.info
 vidnet.pl
 vidplayer.pl
 vidzsource.net
@@ -5001,6 +5017,7 @@ wiadomosci24polska.pl
 wiadomoscigwalt.eu
 wiadomosci-lokalne.5v.pl
 wiadomoscilokalne.eu
+wiadomosci-naszemiasto24.x9.eu
 wiadomosci-onet24.ml
 wiadomosci-onet24.tk
 wiadomoscipolska99.pro-linuxpl.com
@@ -5126,6 +5143,8 @@ www.2i4.eu
 www.2i4.pl
 www.2remove.guide
 www.3663333633.findprofile.net.pl
+www.3fazowa-ostrzalka-do-nozy-pl.com
+www.3filmy.com
 www.4332.ws
 www.4afe8b11a52839751.temporary.link
 www.4kplayer.pl
@@ -5191,6 +5210,7 @@ www.adampaczka.com
 www.adapterylaptopa.com
 www.adaranth.com
 www.adasiapaczka.org
+www.adastra2019onlinezalukajfilm.wordpress.com
 www.adblock-listefr.com
 www.addays.pl
 www.adeptia.pl
@@ -5265,8 +5285,6 @@ www.aktualizacjafacebooka.blogspot.com
 www.aktualizacja.jst.pl
 www.aktualizacja-poczty.online
 www.aktualizacja-regulamin.com
-www.aktywacja.allegro6.pl
-www.aktywacja.allegro7.pl
 www.aktywnechwile.pl
 www.aktywnytylicz.pl
 www.akumulatorowy-raj.pl
@@ -5302,12 +5320,9 @@ www.alkadiakurier.org
 www.alkoskurier.com
 www.alldc.pw
 www.allegor.xyz
-www.allegro4.pl
-www.allegro5.pl
 www.allegro6.pl
 www.allegro7.pl
 www.allegroapk.net
-www.allegrofinanse2.pl
 www.allegrolokalnie.online
 www.allegrolokalnie-pl.cc
 www.allegrolokalnie-pl.ru
@@ -5859,6 +5874,7 @@ www.clube62.date
 www.clubedoestudante.net.br
 www.clubitaliano.pl
 www.clubpanorama.pl
+www.cmentosrl.com
 www.cme-srem.pl
 www.cnto.pl
 www.coachhouseballarat.com
@@ -6005,6 +6021,7 @@ www.darmowefilmyhd.blogspot.com
 www.darmowekino.pl
 www.darmowetesty.com
 www.darmowe-zakupy.com
+www.darmowy-film.blogspot.com
 www.darmowygenerator.blogspot.com
 www.daryducha.pl
 www.das33.io
@@ -6213,10 +6230,12 @@ www.dzieciznatura.pl
 www.dziendobry.org.pl
 www.dziennewiadomosci24.pl
 www.dziennik24.x9.eu
+www.dziennik-info.x9.eu
 www.dziennik-miasto24.x9.eu
 www.dzienniknews.com.pl
 www.dzienniknews.pl
 www.dziennikpolski24.work
+www.dziennik-polski.x9.eu
 www.dziennikprasowy.eu
 www.dziennikprasowy.pusiaweb.com
 www.dziennikuprowadzono.online
@@ -6320,7 +6339,6 @@ www.emonitoringpoczta48.net
 www.emonitoring-poczta48-polska.net
 www.emonitoring-pocztapolska24.com
 www.emonitoring.poczta-polska2.pl
-www.emonitoring.poczta-polska8.pl
 www.emonitoring-poczta-polska.eu
 www.emonitoring-pocztapolska.eu
 www.emonitoring-pocztapolska.net
@@ -6423,6 +6441,7 @@ www.e-yourmovies.pl
 www.eyupp.com
 www.e-zaginieni.eu
 www.e-zaginieni.pl
+www.ezalukaj.pl
 www.ezifilm.pl
 www.ezoliniawrozby.com
 www.f4u.pl
@@ -6629,12 +6648,15 @@ www.filmu.pl
 www.film-vod.pl
 www.filmvod.pl
 www.filmy4u.pl
+www.filmycdaonline.wordpress.com
 www.filmyfilmy.pl
 www.filmy-i-seriale.pl
 www.filmyiseriale.pw
 www.filmyonline.com.pl
+www.filmy-seriale.pl
 www.filmyseriale.pl
 www.filmy-tv.pl
+www.filmy-zalukaj.pl
 www.filo-shop.pl
 www.filser.co
 www.financial.org
@@ -7201,6 +7223,7 @@ www.info-polska.24lite.eu
 www.informacja-dnia.com
 www.informacje24fakt.pusiaweb.com
 www.informacje-fakty.pusiaweb.com
+www.informacje-naszemiasto.x9.eu
 www.informacje-news.eu
 www.informacje-o-maskach-ochronnych-pl.com
 www.informacje-swiat.pl
@@ -7590,6 +7613,7 @@ www.kuznialudzizaradnych.pl
 www.kuzniauwb.pl
 www.kwadratowyswia.pl
 www.kwaterapodgruszka.pl
+www.kwaterowanie.pl
 www.kwaterynasezon.pl
 www.kwiaciarnianadworcu.pl
 www.kwiaty-wiosenne.pl
@@ -7613,6 +7637,7 @@ www.las-rp.pl
 www.lastbreath-fanfiction.blogspot.com
 www.latajzkatowic.pl
 www.lavka.pl
+www.laweta-rybnik.pl
 www.lazieneczka.pl
 www.lci1a.voluumtrk.com
 www.lcmusic.pl
@@ -7772,6 +7797,7 @@ www.lukaszadamski.pl
 www.lukaszcholuj.pl
 www.lukaszuk.com.pl
 www.lukaszurbanczyk.pl
+www.luknijfilm.pl
 www.lululo.pl
 www.lumenphoto.pl
 www.lunzo.pl
@@ -7913,6 +7939,7 @@ www.mezczyzna-trendy.pl
 www.mezur4.com
 www.mgid.com
 www.mialamaborcje.pl
+www.miasto-wiadomosci-24h.x9.eu
 www.michalfigura.pl
 www.michal-zajac.pl
 www.michasiapaczka.org
@@ -8098,6 +8125,7 @@ www.namierz-telefon.pl
 www.namsi5.com
 www.namurach.pl
 www.nanawardrobe.pl
+www.nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com
 www.naporost.pl
 www.napraw-laptopa.waw.pl
 www.naprocare.pl
@@ -8113,8 +8141,10 @@ www.naszbiecz.pl
 www.nasze-info-24.x9.eu
 www.nasze-miasta24tv.online
 www.nasze-miasto24.x9.eu
+www.naszemiasto-fakty24.x9.eu
 www.naszemiasto-info247.x9.eu
 www.naszemiasto-info24.x9.eu
+www.naszemiasto-wiadomosci24.x9.eu
 www.naszeteksty.pl
 www.naszezycie.com
 www.naszregion24.pl
@@ -8611,6 +8641,7 @@ www.ploskonax.com
 www.plpocztex.net
 www.plpocztex.org
 www.pl-pulsbiz.net
+www.plus-finanse.pl
 www.plwash.pl
 www.pl-wyslij.best
 www.plytanagrillapl.com
@@ -8651,7 +8682,6 @@ www.poczta-polska48.eu
 www.poczta-polska48.net
 www.pocztapolska48.net
 www.poczta-polska4.pl
-www.poczta-polska6.pl
 www.poczta-polska8.pl
 www.pocztapolska.eu
 www.poczta-polska.net
@@ -8815,7 +8845,6 @@ www.privacy-email.eu
 www.private.atlanticgam.es
 www.prizefestival.mobi
 www.prizelava.com
-www.prl.genfotir.com
 www.prl.zerety.xyz
 www.probolan50.pl
 www.procardia.com.pl
@@ -9128,6 +9157,7 @@ www.roznehistorie.pl
 www.rozpalamynadzieje.pl
 www.roztini51.com
 www.rrbajkowa.pl
+www.rs.top-daily-profit.com
 www.rsvpcatering.pl
 www.rtvagdpro.net
 www.rtvmax.pl
@@ -9219,6 +9249,7 @@ www.serwer2083668.home.pl
 www.serwer2085989.home.pl
 www.serwis-ab.com.pl
 www.serwisgaz.com.pl
+www.serwisinformacyjny.x9.eu
 www.serwisjaponczykow.pl
 www.serwis.kb.help
 www.serwis-laptopow24.pl
@@ -9761,6 +9792,7 @@ www.tomojbiznes.pl
 www.tootu.pl
 www.top10-konkursy.pl
 www.topanonse.pl
+www.top-daily-profit.com
 www.topgryusluga.5p.pl
 www.topkotly.pl
 www.top-oferty.net
@@ -9823,6 +9855,7 @@ www.tunehub247shop.com
 www.tunele-rozsaczajace.pl
 www.tunga.homedns.org
 www.tuniaf.com
+www.tuobejrzysz.pl
 www.turbostrategiawalutowa.pl
 www.turystyczne-suwalki.pl
 www.turystyka.cal.pl
@@ -9854,6 +9887,7 @@ www.twoja-wygrana.com
 www.twoje-info-24h.x9.eu
 www.twojeinfo-polska24.x9.eu
 www.twojekwatery.com.pl
+www.twoje-miasto.x9.eu
 www.twoje-piekno.pl
 www.twoje-seriale.tv
 www.twojhoroskop.com
@@ -9973,7 +10007,6 @@ www.vibbo.pl
 www.vidaweird.blogspot.com
 www.vidaxl.pl
 www.videodownloadconverter.com
-www.vider.info
 www.vidnet.pl
 www.vidplayer.pl
 www.vidzsource.net
@@ -10071,6 +10104,7 @@ www.wiadomosci24polska.pl
 www.wiadomoscigwalt.eu
 www.wiadomosci-lokalne.5v.pl
 www.wiadomoscilokalne.eu
+www.wiadomosci-naszemiasto24.x9.eu
 www.wiadomosci-onet24.ml
 www.wiadomosci-onet24.tk
 www.wiadomoscipolska99.pro-linuxpl.com
@@ -10169,6 +10203,11 @@ www.wycenamaszyn-wgn.pl
 www.wyciag-gwarek.pl
 www.wyciekizdjec24.pl
 www.wyciek-zdjec.24lite.eu
+www.wydarzenia-24.x9.eu
+www.wydarzenia24.x9.eu
+www.wydarzenia-naszemiasto-24.x9.eu
+www.wydarzenia-naszemiasto24.x9.eu
+www.wydarzenia-naszemiasto.x9.eu
 www.wydawca.lead.network
 www.wydawnictworambler.pl
 www.wydawnictwo-systherm.pl
@@ -10267,14 +10306,22 @@ www.zalukaj24.pl
 www.zalukaj.5v.pl
 www.zalukaj.cc
 www.zalukaj-cda.pl
+www.zalukaj.com.pl
 www.zalukaj-film.24.eu
 www.zalukajfilmy.pl
+www.zalukaj-hd.com
+www.zalukaj.it
 www.zalukaj.online
 www.zalukaj-online.24.eu
 www.zalukaj-online.pl
 www.zalukaj.org
+www.zalukaj-pl.pl
+www.zalukaj.space
 www.zalukaj.tube
+www.zalukaj-tv.pl
 www.zalukaj.vip
+www.zalukajvip.com
+www.zalukaj-vip.pl
 www.zalukajvod.pl
 www.zalukaj.ws
 www.zalukaj-zalukaj.24.eu
@@ -10392,6 +10439,11 @@ wycenamaszyn-wgn.pl
 wyciag-gwarek.pl
 wyciekizdjec24.pl
 wyciek-zdjec.24lite.eu
+wydarzenia-24.x9.eu
+wydarzenia24.x9.eu
+wydarzenia-naszemiasto-24.x9.eu
+wydarzenia-naszemiasto24.x9.eu
+wydarzenia-naszemiasto.x9.eu
 wydawca.lead.network
 wydawnictworambler.pl
 wydawnictwo-systherm.pl
@@ -10490,14 +10542,22 @@ zalukaj24.pl
 zalukaj.5v.pl
 zalukaj.cc
 zalukaj-cda.pl
+zalukaj.com.pl
 zalukaj-film.24.eu
 zalukajfilmy.pl
+zalukaj-hd.com
+zalukaj.it
 zalukaj.online
 zalukaj-online.24.eu
 zalukaj-online.pl
 zalukaj.org
+zalukaj-pl.pl
+zalukaj.space
 zalukaj.tube
+zalukaj-tv.pl
 zalukaj.vip
+zalukajvip.com
+zalukaj-vip.pl
 zalukajvod.pl
 zalukaj.ws
 zalukaj-zalukaj.24.eu
