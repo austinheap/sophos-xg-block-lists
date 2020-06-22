@@ -213,6 +213,7 @@ allegor.xyz
 allegro6.pl
 allegro7.pl
 allegroapk.net
+allegrolokalne.su
 allegrolokalnie.online
 allegrolokalnie-pl.cc
 allegrolokalnie-pl.ru
@@ -1048,6 +1049,7 @@ dotpay.etracking-pocztex.eu
 dotpay.pocztapolska24.pl
 dotpay.pocztex-polska.eu
 dotpay.pocztexpolska.eu
+dotpay.up-poczta-polska.net
 doulawpoznaniu.pl
 dowmarkets.com
 download-24.tk
@@ -1270,7 +1272,9 @@ e-podatek.net
 e-poszukiwania.eu
 e-poszukiwania.site
 e-poszukiwanie.eu
+e-poszukiwanie.online
 e-poszukiwanie.pl
+e-poszukiwanie.site
 e-przesylki.com
 erepublik.com.pl
 ergocentrum.pl
@@ -1292,6 +1296,7 @@ esthetiquebazaar.pl
 esyfloresyonline.pl
 etilang.pl
 etracking-pocztapolska24.net
+etracking-ppocztapolska.com
 eu-click.eworldtrack.com
 e-udanezakupy.pl
 euforiatattoo.com.pl
@@ -2858,6 +2863,7 @@ millson-recruitment.pl
 minipensjonatadmiral.pl
 minmin96.xyz
 miresnahapsi.pro
+mirindas.info
 miroslawklos.pl
 missinsomnia.pl
 mistrzmotywacji.pl
@@ -3226,6 +3232,7 @@ ogladamy24.pl
 oglaszamy.ct8.pl
 ogloszeniagratis.pl
 ogloszenie.best
+ogloszenie-nagrod.eu
 ogloszenie.space
 ogrodek.club
 ogrodexmilicz.pl
@@ -3339,6 +3346,7 @@ oszukacruletke.like.pl
 oszukacruletke.pl
 otobajka.com.pl
 otodomweryfikacja.com
+otodowynaj.com
 otomoto.group
 otomoto.kn2lm19a23.com
 otymsiemowi.com.pl
@@ -3546,6 +3554,7 @@ pl.mobile-redirection.com
 pl.mysafesmartphone.com
 pl-nadaj.online
 ploskonax.com
+pl-pl-fb.pl
 plpocztex.net
 plpocztex.org
 pl.princessmask.pro
@@ -4854,6 +4863,7 @@ updatestar.com
 uperpay.club
 upgradecheck12.thebestwaystofindreliablesoftwares.surf
 upocztapolska.net
+up-poczta-polska.net
 uprowadzenie.7m.pl
 upshare.org
 upskylinemotel.com
@@ -5323,6 +5333,7 @@ www.allegor.xyz
 www.allegro6.pl
 www.allegro7.pl
 www.allegroapk.net
+www.allegrolokalne.su
 www.allegrolokalnie.online
 www.allegrolokalnie-pl.cc
 www.allegrolokalnie-pl.ru
@@ -6158,6 +6169,7 @@ www.dotpay.etracking-pocztex.eu
 www.dotpay.pocztapolska24.pl
 www.dotpay.pocztex-polska.eu
 www.dotpay.pocztexpolska.eu
+www.dotpay.up-poczta-polska.net
 www.doulawpoznaniu.pl
 www.dowmarkets.com
 www.download-24.tk
@@ -6380,7 +6392,9 @@ www.e-podatek.net
 www.e-poszukiwania.eu
 www.e-poszukiwania.site
 www.e-poszukiwanie.eu
+www.e-poszukiwanie.online
 www.e-poszukiwanie.pl
+www.e-poszukiwanie.site
 www.e-przesylki.com
 www.erepublik.com.pl
 www.ergocentrum.pl
@@ -6402,6 +6416,7 @@ www.esthetiquebazaar.pl
 www.esyfloresyonline.pl
 www.etilang.pl
 www.etracking-pocztapolska24.net
+www.etracking-ppocztapolska.com
 www.eu-click.eworldtrack.com
 www.e-udanezakupy.pl
 www.euforiatattoo.com.pl
@@ -7968,6 +7983,7 @@ www.millson-recruitment.pl
 www.minipensjonatadmiral.pl
 www.minmin96.xyz
 www.miresnahapsi.pro
+www.mirindas.info
 www.miroslawklos.pl
 www.missinsomnia.pl
 www.mistrzmotywacji.pl
@@ -8336,6 +8352,7 @@ www.ogladamy24.pl
 www.oglaszamy.ct8.pl
 www.ogloszeniagratis.pl
 www.ogloszenie.best
+www.ogloszenie-nagrod.eu
 www.ogloszenie.space
 www.ogrodek.club
 www.ogrodexmilicz.pl
@@ -8449,6 +8466,7 @@ www.oszukacruletke.like.pl
 www.oszukacruletke.pl
 www.otobajka.com.pl
 www.otodomweryfikacja.com
+www.otodowynaj.com
 www.otomoto.group
 www.otomoto.kn2lm19a23.com
 www.otymsiemowi.com.pl
@@ -8638,6 +8656,7 @@ www.pljestnaj.pl
 www.pllubiok.5v.pl
 www.pl-nadaj.online
 www.ploskonax.com
+www.pl-pl-fb.pl
 www.plpocztex.net
 www.plpocztex.org
 www.pl-pulsbiz.net
@@ -9941,6 +9960,7 @@ www.updatestar.com
 www.uperpay.club
 www.upgradecheck12.thebestwaystofindreliablesoftwares.surf
 www.upocztapolska.net
+www.up-poczta-polska.net
 www.uprowadzenie.7m.pl
 www.upshare.org
 www.upskylinemotel.com
