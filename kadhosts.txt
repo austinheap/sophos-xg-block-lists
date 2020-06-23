@@ -219,6 +219,7 @@ allegrolokalnie-pl.cc
 allegrolokalnie-pl.ru
 allegrolokalnie.su
 allegrolokalnie.tech
+allegro.net
 allegro.pl-nowe-regulamini7913.uhu362.com
 allegro.pl.sholtem.pl
 allegro.pl.showltem.pl
@@ -1046,6 +1047,7 @@ dotpay1.pl
 dotpay.emonitoring-epoczta24polska.net
 dotpay.emonitoring-pocztapolska.eu
 dotpay.etracking-pocztex.eu
+dotpay.etracking-ppocztapolska.com
 dotpay.pocztapolska24.pl
 dotpay.pocztex-polska.eu
 dotpay.pocztexpolska.eu
@@ -1792,6 +1794,7 @@ getfilesfrom.net
 getgamecheats.com
 gethc.pl
 getimmediateedge.com
+getin-secure-bank.xyz‎
 getleads.pl
 ggserwis.pl
 ghastlyf.xyz
@@ -2071,6 +2074,7 @@ icojeszcze.pl
 iconsumerstocksymbol.icu
 icopywriter.pl
 id-appie.com
+ideabank-login.xyz
 ideabank-logowanie.at
 idealnafigura.com
 idea-logowanie.at
@@ -2492,6 +2496,7 @@ kuriedh.com
 kurier-dhl.services
 kurierinpost.info
 kurierjagoda.org
+kurierlotek.org
 kuriero.pl
 kurier-platnosci.services
 kurier-pocztex24.com
@@ -4142,7 +4147,10 @@ searchrapid.pl
 searchwinner.site
 secondhand-gwo24.pl
 secondland.pl
+secure-bank-getin.xyz
 securecloud-smart.com
+secure-getinbank.at
+secure-getin.pl
 secure-pge.eu
 segregations.xyz
 seioodsoi.club
@@ -5339,6 +5347,7 @@ www.allegrolokalnie-pl.cc
 www.allegrolokalnie-pl.ru
 www.allegrolokalnie.su
 www.allegrolokalnie.tech
+www.allegro.net
 www.allegro.pl-nowe-regulamini7913.uhu362.com
 www.allegro.pl.sholtem.pl
 www.allegro.pl.showltem.pl
@@ -6166,6 +6175,7 @@ www.dotpay1.pl
 www.dotpay.emonitoring-epoczta24polska.net
 www.dotpay.emonitoring-pocztapolska.eu
 www.dotpay.etracking-pocztex.eu
+www.dotpay.etracking-ppocztapolska.com
 www.dotpay.pocztapolska24.pl
 www.dotpay.pocztex-polska.eu
 www.dotpay.pocztexpolska.eu
@@ -6912,6 +6922,7 @@ www.getfilesfrom.net
 www.getgamecheats.com
 www.gethc.pl
 www.getimmediateedge.com
+www.getin-secure-bank.xyz‎
 www.getleads.pl
 www.ggserwis.pl
 www.ghastlyf.xyz
@@ -7191,6 +7202,7 @@ www.icojeszcze.pl
 www.iconsumerstocksymbol.icu
 www.icopywriter.pl
 www.id-appie.com
+www.ideabank-login.xyz
 www.ideabank-logowanie.at
 www.idealnafigura.com
 www.idea-logowanie.at
@@ -7612,6 +7624,7 @@ www.kuriedh.com
 www.kurier-dhl.services
 www.kurierinpost.info
 www.kurierjagoda.org
+www.kurierlotek.org
 www.kuriero.pl
 www.kurier-platnosci.services
 www.kurier-pocztex24.com
@@ -9239,7 +9252,10 @@ www.searchrapid.pl
 www.searchwinner.site
 www.secondhand-gwo24.pl
 www.secondland.pl
+www.secure-bank-getin.xyz
 www.securecloud-smart.com
+www.secure-getinbank.at
+www.secure-getin.pl
 www.secure-pge.eu
 www.segregations.xyz
 www.seioodsoi.club

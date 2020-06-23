@@ -335,6 +335,7 @@ ads2.opensubtitles.org
 ads2.rne.com
 ads2.techads.info
 ads2.virtual-nights.com
+ads2.webdrive.no
 ads2.xnet.cz
 ads3-adnow.com
 ads3.contentabc.com
@@ -745,6 +746,7 @@ ads.thestar.com
 ads.thrillsaffiliates.com
 ads.tiktok.com
 ads.tmcs.net
+ads.todoti.com.br
 ads.toplayaffiliates.com
 ads.totallyfreestuff.com
 ads.townhall.com
