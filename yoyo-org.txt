@@ -263,6 +263,7 @@ admonitor.com
 admotion.com.ar
 ad.musicmatch.com
 ad.myapple.pl
+ad.mynetreklam.com.streamprovider.net
 ad.nachtagenten.de
 adnet.asahi.com
 adnet.biz
@@ -563,6 +564,7 @@ ads.goyk.com
 ads.gplusmedia.com
 ads.gradfinder.com
 ads.grindinggears.com
+ads.groupewin.fr
 ads.gsm-exchange.com
 ads.gsmexchange.com
 ads.guardian.co.uk
@@ -644,6 +646,7 @@ ads.motormedia.nl
 ads.msn.com
 ads.multimania.lycos.fr
 ads.muslimehelfen.org
+ads.myadv.org
 adsnative.com
 ads.nccwebs.com
 ads.ncm.com
@@ -677,6 +680,7 @@ ad-space.net
 ads.passion.com
 adspeed.net
 ads.pennet.com
+ads.pfl.ua
 ads.phpclasses.org
 ads.pinterest.com
 adspirit.de
@@ -699,6 +703,7 @@ ads.pushplay.com
 ads.quasaraffiliates.com
 ads.quoka.de
 ads.radio1.lv
+ads.rcncdn.de
 ads.rcs.it
 ads.recoletos.es
 ads.redactor.in.ua
