@@ -202,6 +202,7 @@ alfasj.com.pl
 alfikurier.org
 alicjapaczka.org
 alieokazje.pl
+aliorbank.io
 aliorkurier.org
 alise.pl
 alissaathirah.blogspot.com
@@ -210,6 +211,7 @@ alkadiakurier.org
 alkoskurier.com
 alldc.pw
 allegor.xyz
+allegr0.net
 allegro6.pl
 allegro7.pl
 allegroapk.net
@@ -400,6 +402,8 @@ bajkowestokrotki.cba.pl
 balsam-gigantic-hallway.glitch.me
 balsit.org
 bamitrans.pl
+bank-idea.xyz
+banking.getin-secure.com.pl
 bankmillennium.fun
 bankmillennium.site
 banvar.com
@@ -500,6 +504,7 @@ bit-coin-trader.com
 bitgamez.com
 biurorachunkowevademecum.pl
 biyunhui.com
+biznesplanet.planet-secure.com.pl
 bkwbydgoszcz.pl
 blazejperdek.pl
 blekitniproba.cba.pl
@@ -528,6 +533,7 @@ bnewsb.com
 bnp.coast-bank.com
 bnpparibas-login.at
 bnpparibas-logowanie.at
+bnpparibas-poland.co
 bobopstryk.pl
 bodranowelnaver.tk
 bodykarma.pl
@@ -758,6 +764,8 @@ clickjump.biz
 clickpush.biz
 cloud.file.co.pl
 cloud-ideabank.at
+cloud-idea-bank.xyz
+cloud-idea-sso.at
 cloud-sso-idea.pl
 cloudtokenwallet.com
 club4you.pl
@@ -1794,7 +1802,9 @@ getfilesfrom.net
 getgamecheats.com
 gethc.pl
 getimmediateedge.com
+getinbank-secure.at
 getin-secure-bank.xyz‎
+getin-secure.com.pl
 getleads.pl
 ggserwis.pl
 ghastlyf.xyz
@@ -2076,9 +2086,12 @@ icopywriter.pl
 id-appie.com
 ideabank-login.xyz
 ideabank-logowanie.at
+idea-bank.xyz
+idea-cloud.xyz
 idealnafigura.com
 idea-logowanie.at
 ideatur.pl
+idecloud.com.pl
 idgarin.com
 ifaktygwalt.eu
 ifaktygwalt.pl
@@ -2152,6 +2165,8 @@ inp0st-aplikacja.com
 inpost24.me
 inpost24.services
 inpostdoplata.net
+inpost.link
+in-post.me
 in-post.net
 inpostodkaz.net
 in-post.online
@@ -2646,10 +2661,13 @@ locked3.com
 login-bnpparibas.at
 login-chat.website
 login-paribas.at
+login-paribas.eu
 login-paribas.info
 login-paribas-planet.info
+login-planet-paribas.eu
 login-planet-paribas.info
 logowanie-bnpparibas.at
+logowanie-bnpparibas.xyz
 logowanie-paribas.at
 lokalnie.live
 loktrk.com
@@ -3146,6 +3164,7 @@ nkpolskaallegro.pl
 n-mobile.net
 nnkml.com
 noatanice.com
+noblebank.getin-secure.com.pl
 noblindevelopment.pl
 noclegipodbabia.pl
 noipasi.pl
@@ -3405,9 +3424,12 @@ paqu24.org
 parafia-kamienica-tarnow.pl
 parafiamogielnica.pl
 parafiaplaw.pl
+paribas-login.xyz
 paribas-logowanie.at
+paribas-logowanie.xyz
 paribas-online.eu
 paribas-online-logowanie.eu
+paribas-online.xyz
 parkingairport.com.pl
 parkingcrew.net
 partnergroupe.com
@@ -3504,6 +3526,7 @@ placidocn.com
 plainsviewfarm.com
 plakatypropagandowe.pl
 pl.allsports4free.club
+planet-secure.com.pl
 plast-chem.com.pl
 platinumprestige.pl
 platnik247.online
@@ -4149,7 +4172,9 @@ secondhand-gwo24.pl
 secondland.pl
 secure-bank-getin.xyz
 securecloud-smart.com
+secure-getin-bank.at
 secure-getinbank.at
+secure-getinbank.xyz
 secure-getin.pl
 secure-pge.eu
 segregations.xyz
@@ -4408,6 +4433,9 @@ ssl.mmtgo.me
 sslpayu.com
 sslplatnosc.online
 ssman.pl
+sso-cloud-ideabank.at
+sso-cloud-ideabank.eu
+sso.cloud.idecloud.com.pl
 sspawdzktopodgglada.blogspot.com
 sspbadecz.ugu.pl
 stackspay.com
@@ -5070,6 +5098,7 @@ winningsidenow.com
 winoandfriends.pl
 wioska-zeglarska.pl
 wirtualna-polska.privacy-email.eu
+wirtualna-uczelnia.pl
 wirtualne-media.pl
 wirtuozseksu.pl
 wisdementive.info
@@ -5330,6 +5359,7 @@ www.alfasj.com.pl
 www.alfikurier.org
 www.alicjapaczka.org
 www.alieokazje.pl
+www.aliorbank.io
 www.aliorkurier.org
 www.alise.pl
 www.alissaathirah.blogspot.com
@@ -5338,6 +5368,7 @@ www.alkadiakurier.org
 www.alkoskurier.com
 www.alldc.pw
 www.allegor.xyz
+www.allegr0.net
 www.allegro6.pl
 www.allegro7.pl
 www.allegroapk.net
@@ -5528,6 +5559,8 @@ www.bajkowestokrotki.cba.pl
 www.balsam-gigantic-hallway.glitch.me
 www.balsit.org
 www.bamitrans.pl
+www.bank-idea.xyz
+www.banking.getin-secure.com.pl
 www.bankmillennium.fun
 www.bankmillennium.site
 www.banvar.com
@@ -5628,6 +5661,7 @@ www.bit-coin-trader.com
 www.bitgamez.com
 www.biurorachunkowevademecum.pl
 www.biyunhui.com
+www.biznesplanet.planet-secure.com.pl
 www.bkwbydgoszcz.pl
 www.blazejperdek.pl
 www.blekitniproba.cba.pl
@@ -5656,6 +5690,7 @@ www.bnewsb.com
 www.bnp.coast-bank.com
 www.bnpparibas-login.at
 www.bnpparibas-logowanie.at
+www.bnpparibas-poland.co
 www.bobopstryk.pl
 www.bodranowelnaver.tk
 www.bodykarma.pl
@@ -5886,6 +5921,8 @@ www.clickjump.biz
 www.clickpush.biz
 www.cloud.file.co.pl
 www.cloud-ideabank.at
+www.cloud-idea-bank.xyz
+www.cloud-idea-sso.at
 www.cloud-sso-idea.pl
 www.cloudtokenwallet.com
 www.club4you.pl
@@ -6922,7 +6959,9 @@ www.getfilesfrom.net
 www.getgamecheats.com
 www.gethc.pl
 www.getimmediateedge.com
+www.getinbank-secure.at
 www.getin-secure-bank.xyz‎
+www.getin-secure.com.pl
 www.getleads.pl
 www.ggserwis.pl
 www.ghastlyf.xyz
@@ -7204,9 +7243,12 @@ www.icopywriter.pl
 www.id-appie.com
 www.ideabank-login.xyz
 www.ideabank-logowanie.at
+www.idea-bank.xyz
+www.idea-cloud.xyz
 www.idealnafigura.com
 www.idea-logowanie.at
 www.ideatur.pl
+www.idecloud.com.pl
 www.idgarin.com
 www.ifaktygwalt.eu
 www.ifaktygwalt.pl
@@ -7280,6 +7322,8 @@ www.inp0st-aplikacja.com
 www.inpost24.me
 www.inpost24.services
 www.inpostdoplata.net
+www.inpost.link
+www.in-post.me
 www.in-post.net
 www.inpostodkaz.net
 www.in-post.online
@@ -7774,10 +7818,13 @@ www.locked3.com
 www.login-bnpparibas.at
 www.login-chat.website
 www.login-paribas.at
+www.login-paribas.eu
 www.login-paribas.info
 www.login-paribas-planet.info
+www.login-planet-paribas.eu
 www.login-planet-paribas.info
 www.logowanie-bnpparibas.at
+www.logowanie-bnpparibas.xyz
 www.logowanie-paribas.at
 www.lokalnie.live
 www.loktrk.com
@@ -8274,6 +8321,7 @@ www.nkpolskaallegro.pl
 www.n-mobile.net
 www.nnkml.com
 www.noatanice.com
+www.noblebank.getin-secure.com.pl
 www.noblindevelopment.pl
 www.noclegipodbabia.pl
 www.noipasi.pl
@@ -8533,9 +8581,12 @@ www.paqu24.org
 www.parafia-kamienica-tarnow.pl
 www.parafiamogielnica.pl
 www.parafiaplaw.pl
+www.paribas-login.xyz
 www.paribas-logowanie.at
+www.paribas-logowanie.xyz
 www.paribas-online.eu
 www.paribas-online-logowanie.eu
+www.paribas-online.xyz
 www.parkingairport.com.pl
 www.parkingcrew.net
 www.partnergroupe.com
@@ -8629,6 +8680,7 @@ www.pl1nk.pl
 www.placidocn.com
 www.plainsviewfarm.com
 www.plakatypropagandowe.pl
+www.planet-secure.com.pl
 www.plast-chem.com.pl
 www.platinumprestige.pl
 www.platnik247.online
@@ -9254,7 +9306,9 @@ www.secondhand-gwo24.pl
 www.secondland.pl
 www.secure-bank-getin.xyz
 www.securecloud-smart.com
+www.secure-getin-bank.at
 www.secure-getinbank.at
+www.secure-getinbank.xyz
 www.secure-getin.pl
 www.secure-pge.eu
 www.segregations.xyz
@@ -9513,6 +9567,9 @@ www.ssl.mmtgo.me
 www.sslpayu.com
 www.sslplatnosc.online
 www.ssman.pl
+www.sso-cloud-ideabank.at
+www.sso-cloud-ideabank.eu
+www.sso.cloud.idecloud.com.pl
 www.sspawdzktopodgglada.blogspot.com
 www.sspbadecz.ugu.pl
 www.stackspay.com
@@ -10175,6 +10232,7 @@ www.winningsidenow.com
 www.winoandfriends.pl
 www.wioska-zeglarska.pl
 www.wirtualna-polska.privacy-email.eu
+www.wirtualna-uczelnia.pl
 www.wirtualne-media.pl
 www.wirtuozseksu.pl
 www.wisdementive.info

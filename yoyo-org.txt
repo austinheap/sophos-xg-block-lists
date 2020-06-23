@@ -394,6 +394,7 @@ ads.bittorrent.com
 ads.blog.com
 ads.bloomberg.com
 ads.bluemountain.com
+ads.boerding.com
 ads.bonniercorp.com
 ads.boylesports.com
 ads.brabys.com
@@ -617,6 +618,7 @@ ads.lapalingo.com
 ads.larryaffiliates.com
 ads.leovegas.com
 ads.lesbianpersonals.com
+ads.liberte.pl
 ads.linkedin.com
 ads.linuxfoundation.org
 ads.livenation.com
@@ -646,6 +648,7 @@ ads.motormedia.nl
 ads.msn.com
 ads.multimania.lycos.fr
 ads.muslimehelfen.org
+ads.mvscoelho.com
 ads.myadv.org
 adsnative.com
 ads.nccwebs.com
@@ -779,6 +782,7 @@ ads.vgchartz.com
 ads.videosz.com
 ads.viksaffiliates.com
 ads.virtual-nights.com
+ads.virtuopolitan.com
 ads.vnumedia.com
 ads.waps.cn
 ads.wapx.cn
@@ -1773,6 +1777,7 @@ georiot.com
 geovisite.com
 getclicky.com
 getintent.com
+getmyads.com
 giddycoat.com
 globalismedia.com
 globaltakeoff.net
@@ -3125,6 +3130,7 @@ tracking01.walmart.com
 tracking101.com
 tracking.1-a1502-bi.co.uk
 tracking.1-kv015-ap.co.uk
+tracking.21-a4652-bi.co.uk
 tracking22.com
 tracking42.com
 tracking.5-47737-bi.co.uk

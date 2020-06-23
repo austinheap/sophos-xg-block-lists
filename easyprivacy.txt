@@ -6320,6 +6320,7 @@ video-ad-stats.googlesyndication.com
 videoevents.outbrain.com
 video.oms.eu
 videoplayer2.xyz
+videoplayerhub.com
 videos.oms.eu
 videostat.com
 videostat.index.hu
