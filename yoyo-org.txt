@@ -260,6 +260,7 @@ admixer.net
 admix.in
 admized.com
 admob.com
+ad.mobstazinc.cn
 admonitor.com
 admotion.com.ar
 ad.musicmatch.com
@@ -442,6 +443,7 @@ ads.dennisnet.co.uk
 ads.desmoinesregister.com
 ads.detelefoongids.nl
 ads.deviantart.com
+ads.devmates.com
 ads-dev.pinterest.com
 ads.digital-digest.com
 ads.digitalmedianet.com
@@ -476,6 +478,7 @@ adserver.adverty.com
 adserver.aidameter.com
 adserver.anawe.cz
 adserver.aol.fr
+adserver.bdoce.cl
 adserver.betandwin.de
 adserver.bing.com
 adserver.bizhat.com
@@ -498,6 +501,7 @@ adserver.irishwebmasterforum.com
 adserver.janes.com
 adserver.libero.it
 adserver.mobi
+adserver.msmb.biz
 adservern2.host
 adserver.news.com.au
 adserver.nydailynews.com
@@ -534,6 +538,7 @@ adsfac.net
 ads.factorymedia.com
 adsfac.us
 ads.fairfax.com.au
+ads.fastcomgroup.it
 ads.fasttrack-ignite.com
 ads.faxo.com
 ads.ferianc.com
@@ -682,6 +687,7 @@ ads.oneplace.com
 ads.opensubtitles.org
 ads.optusnet.com.au
 ads.outpersonals.com
+ads.oxyshop.cz
 ad-space.net
 ads.passion.com
 adspeed.net
@@ -741,6 +747,7 @@ ads.smartclick.com
 ads.socialtheater.com
 ads.soft32.com
 ads.space.com
+ads.squarecrop.net
 ads.stackoverflow.com
 adsstat.com
 ads.sun.com
@@ -1028,6 +1035,7 @@ are-ter.com
 argyresthia.com
 aromamirror.com
 a.sakh.com
+aserv.motorsgate.com
 asewlfjqwlflkew.com
 assets1.exgfnetwork.com
 assoc-amazon.com
@@ -3375,6 +3383,7 @@ xad.com
 xapads.com
 xchange.ro
 xertive.com
+xfreeservice.com
 xg4ken.com
 xiti.com
 xovq5nemr.com
