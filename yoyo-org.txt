@@ -72,6 +72,7 @@ ad1.kde.cz
 ad1.pamedia.com.au
 ad2.iinfo.cz
 ad2.lupa.cz
+ad2.netriota.hu
 ad2.nmm.de
 ad2.xrea.com
 ad3.iinfo.cz
@@ -376,6 +377,7 @@ ads.amigos.com
 ads.aol.co.uk
 ads.apn.co.nz
 ads.appsgeyser.com
+ads.apteka254.ru
 ads.as4x.tmcs.net
 ads.as4x.tmcs.ticketmaster.com
 ads.asiafriendfinder.com
@@ -499,6 +501,7 @@ adserver.hwupgrade.it
 adserver.ilango.de
 adserver.irishwebmasterforum.com
 adserver.janes.com
+adserver.lecool.com
 adserver.libero.it
 adserver.mobi
 adserver.msmb.biz
@@ -736,6 +739,7 @@ ads.schmoozecom.net
 ads.scifi.com
 ads.seniorfriendfinder.com
 ads.servebom.com
+ads.sexgratuit.tv
 ads.sexinyourcity.com
 ads.shizmoo.com
 ads.shopstyle.com
@@ -2713,6 +2717,7 @@ reveal.clearbit.com
 revenuedirect.com
 revenuehits.com
 revenue.net
+revive.netriota.hu
 revlift.io
 revsci.net
 revstats.com
