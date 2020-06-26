@@ -271,6 +271,7 @@ andekkurier.org
 android-cleaner.net
 androidgameshacks.com
 androidsecurityplus.com
+androidupdater.top
 andrzejkorycki.pl
 andrzejniemczyk.pl
 anetakonik.pl
@@ -847,6 +848,7 @@ credito.com.pl
 credy.pl
 cristal2017.argo.host
 crocs-pl.pl
+crtum.top
 cryptoprofit.best
 cryptotradecentr.com
 cs-czosnusie.cba.pl
@@ -862,6 +864,7 @@ cs-zn.pl
 ctbike.pl
 ct-redirect.com
 cultsneaks.pl
+cuorl.top
 cuosdemakadi.gq
 curtainhardsh10.live
 curtainhardsh11.live
@@ -890,6 +893,7 @@ curtainhardsh8.live
 curtainhardsh9.live
 customernoble.com
 cwork.pl
+cybereleague.com
 cybermagicindia.com
 cyfrowemotywy.cba.pl
 cyklongoldteam.pl
@@ -1373,6 +1377,7 @@ facebookkviewer.blogspot.com
 facebook-login.5v.pl
 facebook-profile.5v.pl
 facebookszpieg.glt.pl
+facebook.twoje-foty.eu
 facebouk.site
 facedesign.pl
 face--viewer.blogspot.com
@@ -1389,6 +1394,7 @@ fakt24-news.eu
 fakt24-porwaniefabian.com.pl
 fakt24warszawa.com.pl
 fakt-news24.eu
+faktonet24.eu
 faktoswe.is-best.net
 faktowace.is-best.net
 faktowe.is-best.net
@@ -1879,6 +1885,7 @@ golfsport.com.pl
 goodlife7.pl
 goodmenonthego.com
 goodmovie.pl
+googieapp.com
 go.playoosh.com
 gopost.pl
 gopssztutowo.pl
@@ -2176,6 +2183,7 @@ inpost24.me
 inpost24.services
 inpostdoplata.net
 inpost.link
+inpost.live
 inpost.ltd
 in-post.me
 in-post.net
@@ -2211,6 +2219,7 @@ ipeachy.pl
 iphonepolska.pl
 ipk0bp.net
 ipko.pl-weryfikacja-konta-bank-pko.j.pl
+ipko.space
 ipmltd.pl
 ipoczta-polska24.com
 ipoczta-polska.net
@@ -2521,6 +2530,7 @@ kupujprzeztelefon.pl
 kur24pl.eu
 kuriedh.com
 kurier-dhl.services
+kurierfedex.pl
 kurierinpost.info
 kurierjagoda.org
 kurierlotek.org
@@ -3390,6 +3400,7 @@ otodomweryfikacja.com
 otodowynaj.com
 otomoto.group
 otomoto.kn2lm19a23.com
+ottokurier.com
 otymsiemowi.com.pl
 outerdobancha.tk
 outletowo.com
@@ -3446,6 +3457,7 @@ parafiaplaw.pl
 paribas-login.xyz
 paribas-logowanie.at
 paribas-logowanie.xyz
+paribas-online.at
 paribas-online.eu
 paribas-online-logowanie.eu
 paribas-online.xyz
@@ -3602,6 +3614,7 @@ pl.mobile-redirection.com
 pl.mysafesmartphone.com
 pl-nadaj.online
 ploskonax.com
+pl-pl-fb.com
 pl-pl-fb.pl
 plpocztex.net
 plpocztex.org
@@ -3735,6 +3748,7 @@ pomoc-fakty24.pl
 pomockredytowa.net
 pomoc-rodzinom.website
 pomoc.sie-pomaga.net
+pomoc-windykacja.pl
 pomorskidom.pl
 pomozbudowac.pl
 popatrz-zdjecia.eu
@@ -4045,6 +4059,7 @@ regionalnyportal.eu
 registrationofaccount.com
 reg-me.pl
 regulamin-akceptacja.icu
+regulaminallegro.pl
 regulamin-interia.com
 regulamin-onet.com
 regulamin-poczty.com
@@ -4216,8 +4231,11 @@ serialosy.pl
 serialowo.pl
 serial.vod.co.pl
 server033687.nazwa.pl
+server206282.nazwa.pl
 server292369.nazwa.pl
 server304082.nazwa.pl
+server917010.nazwa.pl
+server939608.nazwa.pl
 server991318.nazwa.pl
 server-payuser1.com
 servicecheck5.wixsite.com
@@ -4869,6 +4887,7 @@ twojapaczka-24.com
 twojapaczka.services
 twoja-pozyczka.com
 twoja-wygrana.com
+twoje-foty.eu
 twoje-info-24h.x9.eu
 twojeinfo-polska24.x9.eu
 twojekwatery.com.pl
@@ -5457,6 +5476,7 @@ www.andekkurier.org
 www.android-cleaner.net
 www.androidgameshacks.com
 www.androidsecurityplus.com
+www.androidupdater.top
 www.andrzejkorycki.pl
 www.andrzejniemczyk.pl
 www.anetakonik.pl
@@ -6033,6 +6053,7 @@ www.credito.com.pl
 www.credy.pl
 www.cristal2017.argo.host
 www.crocs-pl.pl
+www.crtum.top
 www.cryptoprofit.best
 www.cryptotradecentr.com
 www.cs-czosnusie.cba.pl
@@ -6048,6 +6069,7 @@ www.cs-zn.pl
 www.ctbike.pl
 www.ct-redirect.com
 www.cultsneaks.pl
+www.cuorl.top
 www.cuosdemakadi.gq
 www.curtainhardsh10.live
 www.curtainhardsh11.live
@@ -6076,6 +6098,7 @@ www.curtainhardsh8.live
 www.curtainhardsh9.live
 www.customernoble.com
 www.cwork.pl
+www.cybereleague.com
 www.cybermagicindia.com
 www.cyfrowemotywy.cba.pl
 www.cyklongoldteam.pl
@@ -6559,6 +6582,7 @@ www.facebookkviewer.blogspot.com
 www.facebook-login.5v.pl
 www.facebook-profile.5v.pl
 www.facebookszpieg.glt.pl
+www.facebook.twoje-foty.eu
 www.facebouk.site
 www.facedesign.pl
 www.face--viewer.blogspot.com
@@ -6575,6 +6599,7 @@ www.fakt24-news.eu
 www.fakt24-porwaniefabian.com.pl
 www.fakt24warszawa.com.pl
 www.fakt-news24.eu
+www.faktonet24.eu
 www.faktoswe.is-best.net
 www.faktowace.is-best.net
 www.faktowe.is-best.net
@@ -7065,6 +7090,7 @@ www.golfsport.com.pl
 www.goodlife7.pl
 www.goodmenonthego.com
 www.goodmovie.pl
+www.googieapp.com
 www.go.playoosh.com
 www.gopost.pl
 www.gopssztutowo.pl
@@ -7362,6 +7388,7 @@ www.inpost24.me
 www.inpost24.services
 www.inpostdoplata.net
 www.inpost.link
+www.inpost.live
 www.inpost.ltd
 www.in-post.me
 www.in-post.net
@@ -7397,6 +7424,7 @@ www.ipeachy.pl
 www.iphonepolska.pl
 www.ipk0bp.net
 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
+www.ipko.space
 www.ipmltd.pl
 www.ipoczta-polska24.com
 www.ipoczta-polska.net
@@ -7707,6 +7735,7 @@ www.kupujprzeztelefon.pl
 www.kur24pl.eu
 www.kuriedh.com
 www.kurier-dhl.services
+www.kurierfedex.pl
 www.kurierinpost.info
 www.kurierjagoda.org
 www.kurierlotek.org
@@ -8576,6 +8605,7 @@ www.otodomweryfikacja.com
 www.otodowynaj.com
 www.otomoto.group
 www.otomoto.kn2lm19a23.com
+www.ottokurier.com
 www.otymsiemowi.com.pl
 www.outerdobancha.tk
 www.outletowo.com
@@ -8632,6 +8662,7 @@ www.parafiaplaw.pl
 www.paribas-login.xyz
 www.paribas-logowanie.at
 www.paribas-logowanie.xyz
+www.paribas-online.at
 www.paribas-online.eu
 www.paribas-online-logowanie.eu
 www.paribas-online.xyz
@@ -8770,6 +8801,7 @@ www.pljestnaj.pl
 www.pllubiok.5v.pl
 www.pl-nadaj.online
 www.ploskonax.com
+www.pl-pl-fb.com
 www.pl-pl-fb.pl
 www.plpocztex.net
 www.plpocztex.org
@@ -8898,6 +8930,7 @@ www.pomoc-fakty24.pl
 www.pomockredytowa.net
 www.pomoc-rodzinom.website
 www.pomoc.sie-pomaga.net
+www.pomoc-windykacja.pl
 www.pomorskidom.pl
 www.pomozbudowac.pl
 www.popatrz-zdjecia.eu
@@ -9208,6 +9241,7 @@ www.regionalnyportal.eu
 www.registrationofaccount.com
 www.reg-me.pl
 www.regulamin-akceptacja.icu
+www.regulaminallegro.pl
 www.regulamin-interia.com
 www.regulamin-onet.com
 www.regulamin-poczty.com
@@ -9379,8 +9413,11 @@ www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
 www.server033687.nazwa.pl
+www.server206282.nazwa.pl
 www.server292369.nazwa.pl
 www.server304082.nazwa.pl
+www.server917010.nazwa.pl
+www.server939608.nazwa.pl
 www.server991318.nazwa.pl
 www.server-payuser1.com
 www.servicecheck5.wixsite.com
@@ -10032,6 +10069,7 @@ www.twojapaczka-24.com
 www.twojapaczka.services
 www.twoja-pozyczka.com
 www.twoja-wygrana.com
+www.twoje-foty.eu
 www.twoje-info-24h.x9.eu
 www.twojeinfo-polska24.x9.eu
 www.twojekwatery.com.pl

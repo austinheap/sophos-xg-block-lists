@@ -331,6 +331,7 @@ ads24h.net
 ads2.brazzers.com
 ads2.clearchannel.com
 ads2.contentabc.com
+ads2.femmefab.nl
 ads2.gamecity.net
 ads2.jubii.dk
 ads2.net-communities.co.uk
@@ -370,7 +371,6 @@ ads.advance.net
 ads.adverline.com
 adsafeprotected.com
 ads.affiliates.match.com
-ads.affiliates-spinit.com
 ads.alt.com
 ads.amdmb.com
 ads.amigos.com
@@ -406,6 +406,7 @@ ads.brazzers.com
 ads.bumq.com
 ads.businessweek.com
 adsby.bidtheatre.com
+adsbydelema.com
 adscale.de
 ads.canalblog.com
 ads.canoe.ca
@@ -547,6 +548,7 @@ ads.fairfax.com.au
 ads.fastcomgroup.it
 ads.fasttrack-ignite.com
 ads.faxo.com
+ads.femmefab.nl
 ads.ferianc.com
 ads.filmup.com
 ads.financialcontent.com
@@ -623,6 +625,7 @@ ads.kabooaffiliates.com
 ads.kaktuz.net
 adskeeper.co.uk
 ads.kelbymediagroup.com
+ads-kesselhaus.com
 ads.kinobox.cz
 ads.kinxxx.com
 adsklick.de
@@ -735,6 +738,8 @@ adsrv2.swidnica24.pl
 adsrv.deviantart.com
 adsrv.eacdn.com
 adsrv.iol.co.za
+adsrv.kobi.tv
+adsrv.moebelmarkt.tv
 adsrvr.org
 adsrv.swidnica24.pl
 adsrvus.com
@@ -764,6 +769,7 @@ adsstat.com
 ads.sun.com
 ads.suomiautomaatti.com
 ads.supplyframe.com
+ads.syscdn.de
 adstacks.in
 adstage.io
 ads.tahono.com
@@ -793,19 +799,23 @@ ads-trk.vidible.tv
 ads.tso.dennisnet.co.uk
 ads-twitter.com
 ads.twitter.com
+ads.twojatv.info
 ads.uknetguide.co.uk
 ads.ultimate-guitar.com
 ads.uncrate.com
 ads.undertone.com
 adsupply.com
 ads.usatoday.com
+ads.uxs.at
 ads.verticalresponse.com
 ads.vgchartz.com
 ads.videosz.com
 ads.viksaffiliates.com
 ads.virtual-nights.com
 ads.virtuopolitan.com
+ads.v-lazer.com
 ads.vnumedia.com
+ads.walkiberia.com
 ads.waps.cn
 ads.wapx.cn
 ads.watson.ch
@@ -919,6 +929,7 @@ ad.xmovies8.si
 adxpansion.com
 adxpose.com
 ad.xrea.com
+adx.relaksit.ru
 adxvalue.com
 ad.yadro.ru
 adyea.com
@@ -991,6 +1002,7 @@ ambitiousagreement.com
 americash.com
 a.mktw.net
 amplitude.com
+a.muloqot.uz
 amung.us
 analyticin.online
 analytics.adpost.org
@@ -1022,6 +1034,7 @@ aniview.com
 annonser.dagbladet.no
 anrdoezrs.net
 anstrex.com
+anuncios.edicaoms.com.br
 anxiousapples.com
 apathetictheory.com
 api.intensifier.de
@@ -1043,7 +1056,6 @@ arc1.msn.com
 archswimming.com
 ard.xxxblackbook.com
 area51-ts.com
-are-ter.com
 argyresthia.com
 aromamirror.com
 as2.adserverhd.com
@@ -1115,7 +1127,6 @@ banner.eurogrand.com
 banner-exchange-24.de
 banner.goldenpalace.com
 bannergrabber.internet.gr
-banner.grandefm.com.br
 banner.icmedia.eu
 bannerimage.com
 banner.img.co.za
@@ -1410,7 +1421,6 @@ cnt.spbland.ru
 codeadnetwork.com
 code-server.biz
 cognitiv.ai
-cognitiveadscience.com
 coin-hive.com
 coinhive.com
 cointraffic.io
@@ -1709,7 +1719,6 @@ eyereturn.com
 eyeviewads.com
 eyewonder.com
 ezula.com
-f5biz.com
 f7ds.liberation.fr
 facilitategrandfather.com
 fadedprofit.com
@@ -2027,7 +2036,6 @@ itsptp.com
 its-that-easy.com
 ivwbox.de
 ivykiosk.com
-i.xx.openx.com
 j93557g.com
 jadeitite.com
 jaizouji.com
@@ -2099,6 +2107,7 @@ liadm.com
 li.alibris.com
 li.azstarnet.com
 li.dailycaller.com
+lifeimpressions.net
 liftdna.com
 li.gatehousemedia.com
 ligatus.com
@@ -2433,6 +2442,7 @@ online.miarroba.com
 onlinerewardcenter.com
 onscroll.com
 onthe.io
+opads.us
 openads.friendfinder.com
 openadsnetwork.com
 openads.org
@@ -2488,7 +2498,6 @@ partner.pelikan.cz
 partners.priceline.com
 passeura.com
 passion-4.net
-patranally.xyz
 paycounter.com
 paypopup.com
 payserve.com
@@ -2886,6 +2895,8 @@ smartadserver.com
 smartclip.net
 smartlook.com
 smartstream.tv
+smart-traffik.com
+smart-traffik.io
 smartyads.com
 smashsurprise.com
 smetrics.bestbuy.com
@@ -3334,7 +3345,6 @@ webcounter.cz
 webcounter.goweb.de
 webgains.com
 web.informer.com
-webmaster-partnerprogramme24.de
 webmasterplan.com
 webmasterplan.de
 weborama.com
@@ -3355,6 +3365,7 @@ webtraffic.se
 webtraxx.de
 webtrendslive.com
 webtrends.telegraph.co.uk
+webxcdn.com
 wellmadefrog.com
 werbung.meteoxpress.com
 wetrack.it
