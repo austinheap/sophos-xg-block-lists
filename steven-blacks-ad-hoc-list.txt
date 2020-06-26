@@ -1114,6 +1114,7 @@ lecap-services.fr
 ledampenergy.net
 libjs.inquirerjs.com
 libjss.inquirerjs.com
+link.getmailspring.com
 link-js.link
 linux2.googlerenewals.net
 linux.cocoss2d.com
