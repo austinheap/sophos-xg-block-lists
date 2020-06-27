@@ -2509,6 +2509,7 @@ geojs.io
 geo.kontagent.net
 geolid.com
 geolocation-db.com
+geolocation.forbes.com
 geo.metronews.ca
 geo.mezr.com
 geo.mtvnn.com
