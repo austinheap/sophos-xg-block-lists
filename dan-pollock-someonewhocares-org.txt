@@ -3859,6 +3859,7 @@ cdn.atdmt.com
 cdn.atlassbx.com
 cdn.augur.io
 cdnaws.mobidea.com
+cdn.ayads.co
 cdn.banners.scubl.com
 cdn.bestssaker.com
 cdn.braun634.com
@@ -6499,6 +6500,7 @@ i.media.cz
 img0.ru.redtram.com
 img1.ru.redtram.com
 img2.ru.redtram.com
+img.3lift.com
 img4.cdn.adjuggler.com
 img-a2.ak.imagevz.net
 img.alibaba.com
