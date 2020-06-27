@@ -2191,7 +2191,6 @@ api.cpu.baidu.com
 api.crashlytics.com
 api.crispadvertising.com
 api.crittercism.com
-api.crowdin.com
 api.crowdtangle.com
 api.crowdtwist.com
 apicssdk.onemt.co
@@ -3910,7 +3909,6 @@ cloud2.gsdk.proximabeta.com
 cloudads-a.akamaihd.net
 cloudapi.imrworldwide.com
 cloud.appcelerator.com
-cloud.datapipe.com
 cloud.datasphere.com
 cloud.eclipse.unrulymedia.com
 cloud-emea.analytics-egain.com
@@ -4346,7 +4344,6 @@ c.riskified.com
 crispadvertising.com
 crispmedia.com
 crispmedia-d.openx.net
-crispwireless.com
 criteo.com
 criteo.net
 criteo-partners.tremorhub.com
@@ -4365,7 +4362,6 @@ crosspromotion-us.avosapps.us
 crosspromotion.weplayer.cc
 crosspromo.voodoo.io
 crosspromo.zeptolab.com
-crossrider.com
 crowd.fyber.com
 crow.mezzobit.com
 crs.baidu.com
@@ -5443,7 +5439,6 @@ fluct.jp
 fluentmobile.com
 fluid-adverts.localstars.com
 flurry.cachefly.net
-fm.cnbc.com
 fm.duokanbox.com
 f.mediav.com
 fm.ipinyou.com
@@ -7588,7 +7583,6 @@ mpire.com
 mpnrs.com
 mprezchc.com
 mproxy.banner.linksynergy.com
-mps.cnbc.com
 mp.teads.tv
 mpx.mopub.com
 mqs.ioam.de
@@ -7985,7 +7979,6 @@ onboarding.cxense.com
 ondemand.tf-cdn.net
 oneadvertising-d.openx.net
 one-and-one-d.openx.net
-one.datapipe.com
 onedmp.com
 onedrive.su
 onelink.appsflyer.com
