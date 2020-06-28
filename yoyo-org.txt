@@ -365,6 +365,7 @@ ads.activestate.com
 ads.ad-center.com
 ads.adfox.ru
 ads.administrator.de
+ads.adred.de
 ads.adshareware.net
 ads.adstream.com.ro
 ads.adultfriendfinder.com
@@ -474,6 +475,7 @@ ads.epi.sk
 ads.epltalk.com
 adserve.ams.rhythmxchange.com
 adserve.io
+adserve.jbs.org
 adserver01.de
 adserver1.backbeatmedia.com
 adserver1-images.backbeatmedia.com
@@ -735,6 +737,7 @@ ads.redactor.in.ua
 ads.rediff.com
 ads.redlightcenter.com
 ads.revjet.com
+adsroller.com
 adsrv2.swidnica24.pl
 adsrv.deviantart.com
 adsrv.eacdn.com
@@ -763,6 +766,7 @@ ads.smartclick.com
 ads.socapro.com
 ads.socialtheater.com
 ads.soft32.com
+ads.soweb.gr
 ads.space.com
 ads.squarecrop.net
 ads.stackoverflow.com
