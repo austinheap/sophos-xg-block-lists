@@ -2201,6 +2201,7 @@ api.demandbase.com
 api.destinationrewards.com
 api-de-v3.conductrics.com
 api-device.mocaplatform.com
+api.device.xiaomi.net
 api-dot-mwm-ab-testing.appspot.com
 api-dot-mwm-ad-mediation.appspot.com
 api.doumob.com
@@ -2361,6 +2362,7 @@ api.sdkbox.com
 api.sdk.fmobi.cn
 api.sdk.wiman.io
 api.sdk.zadn.vn
+api.sec.miui.com
 api-secure.mixpanel.com
 api.segment.io
 api-selene.prod.adtech.de
