@@ -193,7 +193,6 @@ aldorasystem.pl
 ale-dowcip.pl
 ale-fotogragia.bo.pl
 alefunny.pl
-alejandravalladares.com.ve
 alert-24-pl.pl
 alerter.pl
 aleshop.pl
@@ -1963,7 +1962,6 @@ h0me.com.pl
 h0me.eu
 hablabestop.live
 hackerbot.net
-hackidogier.pl
 hackidomsp.blogspot.com
 hadesklub.pl
 hajoopteg.com
@@ -2217,6 +2215,7 @@ inwestujwrozwoj.pl
 ionetporwanie.online
 ionetporwanie.site
 iotiot.cf
+ip-148-72-215-214.ip.secureserver.net
 ipeachy.pl
 iphonepolska.pl
 ipk0bp.net
@@ -3283,6 +3282,7 @@ ogloszenie.best
 ogloszenie-nagrod.eu
 ogloszenie.space
 ogrodek.club
+ogrodek.top
 ogrodexmilicz.pl
 ohkrab.pl
 okaleczenie15laatkii.blogspot.com
@@ -3588,6 +3588,7 @@ pl.cryptoprofit.best
 plengistat.info
 pletomak.mypi.co
 plexsound.pl
+pl-fb.com
 plf.chanceto-start.info
 pl.fxgm.com
 pl.gamemine.com
@@ -4221,6 +4222,8 @@ server144191.nazwa.pl
 server206282.nazwa.pl
 server292369.nazwa.pl
 server304082.nazwa.pl
+server584025.nazwa.pl
+server740872.nazwa.pl
 server917010.nazwa.pl
 server939608.nazwa.pl
 server991318.nazwa.pl
@@ -5382,7 +5385,6 @@ www.aldorasystem.pl
 www.ale-dowcip.pl
 www.ale-fotogragia.bo.pl
 www.alefunny.pl
-www.alejandravalladares.com.ve
 www.alert-24-pl.pl
 www.alerter.pl
 www.aleshop.pl
@@ -7152,7 +7154,6 @@ www.h0me.com.pl
 www.h0me.eu
 www.hablabestop.live
 www.hackerbot.net
-www.hackidogier.pl
 www.hackidomsp.blogspot.com
 www.hadesklub.pl
 www.hajoopteg.com
@@ -7406,6 +7407,7 @@ www.inwestujwrozwoj.pl
 www.ionetporwanie.online
 www.ionetporwanie.site
 www.iotiot.cf
+www.ip-148-72-215-214.ip.secureserver.net
 www.ipeachy.pl
 www.iphonepolska.pl
 www.ipk0bp.net
@@ -8472,6 +8474,7 @@ www.ogloszenie.best
 www.ogloszenie-nagrod.eu
 www.ogloszenie.space
 www.ogrodek.club
+www.ogrodek.top
 www.ogrodexmilicz.pl
 www.ohkrab.pl
 www.okaleczenie15laatkii.blogspot.com
@@ -8769,6 +8772,7 @@ www.plazowapolska.pl
 www.plengistat.info
 www.pletomak.mypi.co
 www.plexsound.pl
+www.pl-fb.com
 www.plf.chanceto-start.info
 www.pl-huda.myshopify.com
 www.pliki.pw
@@ -9387,6 +9391,8 @@ www.server144191.nazwa.pl
 www.server206282.nazwa.pl
 www.server292369.nazwa.pl
 www.server304082.nazwa.pl
+www.server584025.nazwa.pl
+www.server740872.nazwa.pl
 www.server917010.nazwa.pl
 www.server939608.nazwa.pl
 www.server991318.nazwa.pl

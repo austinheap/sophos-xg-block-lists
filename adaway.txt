@@ -3551,7 +3551,6 @@ cdn-config.taplytics.com
 cdn.creative.medialytics.com
 cdn-creatives-highwinds-prd.unityads.unity3d.com
 cdn.crwdcntrl.net
-cdn.curalate.com
 cdn.decibelinsight.net
 cdn.demdex.net
 cdn.destinilocators.com
@@ -4392,8 +4391,6 @@ ct.pinterest.com
 ctv.monarchads.com
 cuberonlabs.com.com
 cumulus.deliveryengine.adswizz.com
-curalate-api-prod.us-east-1.elasticbeanstalk.com
-curalate-like2buy-prod-vpc.us-east-1.elasticbeanstalk.com
 currency.prebid.org
 cursa.iad-03.braze.com
 curse-d.openx.net
