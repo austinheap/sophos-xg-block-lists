@@ -1159,7 +1159,6 @@ ebd-cda.pl
 e-bestsell.pl
 ebfgoldenclub.pl
 ebok-poczta.pl
-ebonplus.com
 ebook4all.com.pl
 ebookeo.pl
 ebuty.net.pl
@@ -6369,7 +6368,6 @@ www.ebd-cda.pl
 www.e-bestsell.pl
 www.ebfgoldenclub.pl
 www.ebok-poczta.pl
-www.ebonplus.com
 www.ebook4all.com.pl
 www.ebookeo.pl
 www.ebuty.net.pl
