@@ -2265,6 +2265,7 @@ adnami2.io
 adnami.io
 adnamo.net
 adnatro.com
+adn.bursadabugun.com
 adnectar.com
 adnegah.net
 adne.info
@@ -4325,7 +4326,6 @@ api.share.mob.com
 api.smartadv.ru
 api.splkmobile.com
 api.taplytics.com
-api.tapsell.ir
 api.triver.jp
 api.uca.cloud.unity3d.com
 api.unthem.com
@@ -9182,7 +9182,6 @@ da-ads.com
 daamjzrlon.com
 daast.digitalbox.ru
 d.ab126.com
-dable.io
 dabxzyfcxrdgbs.com
 daccrois.com
 dachadu.cn
@@ -9246,6 +9245,7 @@ dajean.com
 dajlkvplxyzbsa.com
 dakawm.cc
 dake.net.cn
+daklatasvir.su
 dalianhengtai.com
 daliantong.com.cn
 dalj98ktasppa.cloudfront.net
@@ -13673,6 +13673,7 @@ grifictuberal.site
 gripdownload.co
 grjs02.com
 grjs06.com
+grjs08.com
 grkrkurbyykok.com
 grmtas.com
 grmtech.net
@@ -17792,6 +17793,7 @@ levelads.de
 levelbehavior.com
 levelpay.ru
 levenileheshe.site
+leveryone.club
 levexis.com
 levisites.com
 lexip.4pcdn.de
@@ -26619,6 +26621,7 @@ s1.adguard.com
 s1.dugoogle.com
 s1.hualaoye.com
 s1.intimshop.ru
+s1.lcnf.pro
 s1.qiqutt.cn
 s1.qiqutt.com
 s1r.tut.by
@@ -26882,6 +26885,7 @@ scnt.rambler.ru
 scontent.services.tvn.pl
 s.conyak.com
 scootloor.com
+scottagesyu.club
 scounter.rambler.ru
 scoutanalytics.net
 scout.haymarketmedia.com
@@ -28795,6 +28799,7 @@ stonseeb.net
 stoomeddert.info
 stootoat.com
 stopherapyimp.pro
+stopheritp.club
 stoppery.club
 stopphoulplay.com
 stopphoulplay.net
@@ -29355,6 +29360,7 @@ tap-nexus.appspot.com
 tapone.jp
 t.appsflyer.com
 tappx.com
+tapsell.ir
 tapsense.com
 taps.io
 tapstat.ru
@@ -29968,7 +29974,6 @@ t.karte.io
 tkbo.com
 tkcatwalk.aotter.net
 t.kck.st
-t.kctag.net
 tkd777.cn
 t.kelkoogroup.net
 tkewsaesxhf.com
