@@ -2944,6 +2944,7 @@ intellimize.co
 intelli-tracker.com
 intent.cbsi.com
 interact-analytics.com
+interactive-circle.jp
 interaktiv-net.de
 interakt.ru
 interceptum.com
@@ -4141,6 +4142,7 @@ pixel.naij.com
 pixel.newscgp.com
 pixel.newscred.com
 pixel.newsdiscover.com.au
+pixel.parsely.com
 pixel.pcworld.com
 pixelpop.co
 pixel.propublica.org
@@ -4623,6 +4625,7 @@ rtt.campanja.com
 ru4.com
 rumanalytics.com
 rum.conde.io
+rum.kobo.com
 rum.marquardmedia.hu
 rum.minutemediaservices.com
 rum.nccgroup-webperf.com

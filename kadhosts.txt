@@ -183,6 +183,7 @@ aktywnytylicz.pl
 akumulatorowy-raj.pl
 akwadrago.pl
 akzamkowy.pl
+alatcommu.gq
 albajifood.com
 albertowe.cba.pl
 alcaido.com
@@ -308,6 +309,7 @@ api.myeforsa.pl
 aplikacjaemuia.pl
 aplikacja-lnpost.com
 aplsolutionsonline.com
+app2.mackeeperaffiliates.com
 appandroider.com
 appcaptcha.com
 append.pl
@@ -990,6 +992,7 @@ dephantomz.duckdns.org
 depic.cba.pl
 depilacjalaserowachojnice.pl
 deraspspn.pl
+derenslipakyb4.live
 derikaosos.info
 designgraphic.pl
 destgrena.at
@@ -1083,6 +1086,7 @@ dostawaca24.online
 dostawa-dhl.net
 dostawa-dhl.pl
 dostawy24.com
+dostawy-dhl.com
 doswedh.com
 dotabet100.com
 dotabet103.com
@@ -1358,6 +1362,7 @@ europaubram.pl
 europejskaedukacja.pl
 europti2010.pl
 evaave12.nazwa.pl
+evekurier.org
 eventownik.pl
 evionelang9.live
 ewciakurier.com
@@ -2831,6 +2836,7 @@ maccleaner.space
 maceju.com
 maciejlapawa.pl
 maciekkurier.info
+mackeeperaffiliates.com
 mackeeperapp.mackeeper.com
 madagascaroasis.org
 madl-len.pl
@@ -3510,6 +3516,7 @@ paczka-doplata.net
 paczkadpd.com
 paczka-gls.com
 paczka-inpost.com
+paczkedhl.com
 paczkikk.com
 paczkomaty-pl.tk
 paczuli.pl
@@ -3811,6 +3818,7 @@ polsatboxingnight-transmisjahd.ujm.pl
 polska1989.pl
 polskabieda.com
 polska-gazeta-dnia.pl
+polska-nasze-info24.x9.eu
 polskapaczka24.net
 polskaporwania.eu
 polskaporwanie.eu
@@ -5240,6 +5248,7 @@ wiadomosci-onet24.tk
 wiadomoscipolska99.pro-linuxpl.com
 wiadomosci-region24.pl
 wiadomosci-web.24.eu
+wiadomosci.you2.pl
 wiadomoscizkraju24.com.pl
 wiadomotv24.info
 wicher-grabowo.pl
@@ -5510,6 +5519,7 @@ www.aktywnytylicz.pl
 www.akumulatorowy-raj.pl
 www.akwadrago.pl
 www.akzamkowy.pl
+www.alatcommu.gq
 www.albajifood.com
 www.albertowe.cba.pl
 www.alcaido.com
@@ -5635,6 +5645,7 @@ www.api.myeforsa.pl
 www.aplikacjaemuia.pl
 www.aplikacja-lnpost.com
 www.aplsolutionsonline.com
+www.app2.mackeeperaffiliates.com
 www.appandroider.com
 www.appcaptcha.com
 www.append.pl
@@ -6317,6 +6328,7 @@ www.dephantomz.duckdns.org
 www.depic.cba.pl
 www.depilacjalaserowachojnice.pl
 www.deraspspn.pl
+www.derenslipakyb4.live
 www.derikaosos.info
 www.designgraphic.pl
 www.destgrena.at
@@ -6410,6 +6422,7 @@ www.dostawaca24.online
 www.dostawa-dhl.net
 www.dostawa-dhl.pl
 www.dostawy24.com
+www.dostawy-dhl.com
 www.doswedh.com
 www.dotabet100.com
 www.dotabet103.com
@@ -6685,6 +6698,7 @@ www.europaubram.pl
 www.europejskaedukacja.pl
 www.europti2010.pl
 www.evaave12.nazwa.pl
+www.evekurier.org
 www.eventownik.pl
 www.evionelang9.live
 www.ewciakurier.com
@@ -8158,6 +8172,7 @@ www.maccleaner.space
 www.maceju.com
 www.maciejlapawa.pl
 www.maciekkurier.info
+www.mackeeperaffiliates.com
 www.mackeeperapp.mackeeper.com
 www.madagascaroasis.org
 www.madl-len.pl
@@ -8837,6 +8852,7 @@ www.paczka-doplata.net
 www.paczkadpd.com
 www.paczka-gls.com
 www.paczka-inpost.com
+www.paczkedhl.com
 www.paczkikk.com
 www.paczkomaty-pl.tk
 www.paczuli.pl
@@ -9115,6 +9131,7 @@ www.polsatboxingnight-transmisjahd.ujm.pl
 www.polska1989.pl
 www.polskabieda.com
 www.polska-gazeta-dnia.pl
+www.polska-nasze-info24.x9.eu
 www.polskapaczka24.net
 www.polskaporwania.eu
 www.polskaporwanie.eu
@@ -10544,6 +10561,7 @@ www.wiadomosci-onet24.tk
 www.wiadomoscipolska99.pro-linuxpl.com
 www.wiadomosci-region24.pl
 www.wiadomosci-web.24.eu
+www.wiadomosci.you2.pl
 www.wiadomoscizkraju24.com.pl
 www.wiadomotv24.info
 www.wicher-grabowo.pl
