@@ -1570,6 +1570,7 @@ crosswalkmail.com
 crowdscience.com
 crsspxl.com
 crta.dailymail.co.uk
+crta.metro.co.uk
 crtx.info
 cryptaloot.pro
 cryptobara.com
@@ -2812,6 +2813,7 @@ i2ad.jp
 i2i.jp
 i401xox.com
 ia.51.la
+iabusprivacy.pmc.com
 ia.ekstrabladet.dk
 iaudienc.com
 ib.adnxs.com
@@ -3665,6 +3667,7 @@ m-t.io
 mtracking.com
 mtrack.nl
 m.trb.com
+mtrcs.samba.tv
 mts.mansion.com
 mts-ws.rueducommerce.fr
 multicounter.de
@@ -4062,6 +4065,7 @@ permutive.com
 perr.h-cdn.com
 persianstat.com
 persianstat.ir
+perso.aws.arc.pub
 personalicanvas.com
 personyze.com
 pertholin.com
@@ -4645,6 +4649,7 @@ s3s-main.net
 s3-tracking.synthasite.net.s3.amazonaws.com
 s7target.ru
 s7ven.com
+sa135.kiro7.com
 sa135.macworld.co.uk
 sa135.wsbtv.com
 sabavision.com
@@ -4827,6 +4832,7 @@ silverpop.com
 silverpush.co
 simility.com
 simonsignal.com
+simpleanalyticscdn.com
 simpleanalytics.io
 simpleheatmaps.com
 simplehitcounter.com
