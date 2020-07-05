@@ -141,7 +141,6 @@ agikurier.org
 agipasesores.com
 agnieszkasulkowska.pl
 agricoletrade.com
-agronorth.pl
 agroplant-grojec.pl
 agroturist.com.pl
 agroturystyka-karino.pl
@@ -426,7 +425,6 @@ barwin4.com
 baseflix.pl
 basen.biz
 baseny.club
-basf-polmaraton.pl
 basiekurier.org
 basnogorach.pl
 batmantakhebat.blogspot.com
@@ -1195,7 +1193,6 @@ eccopolska.pl
 eccopromocje.pl
 e-cda.pl
 ecdi14.eu
-echelona.net
 e-childalert.online
 e-childalert.pl
 e-childalert.site
@@ -1395,6 +1392,7 @@ facebookkviewer.blogspot.com
 facebook-login.5v.pl
 facebook-profile.5v.pl
 facebookszpieg.glt.pl
+facebook.twoje-foty.eu
 facebouk.site
 facedesign.pl
 face--viewer.blogspot.com
@@ -1411,7 +1409,6 @@ faksowy.is-best.net
 fakt24-news.eu
 fakt24-porwaniefabian.com.pl
 fakt24warszawa.com.pl
-faktgminny.098.pl
 fakt-news24.eu
 faktonet24.eu
 faktonet.eu
@@ -1467,6 +1464,7 @@ faktymazowsze.pl
 fakty-miasto.x9.eu
 fakty-miejskie.x9.eu
 faktynazywo24.eu
+faktynews-24.eu
 fakty-news48.eu
 fakty-news72.eu
 faktyonet24.eu
@@ -1508,6 +1506,7 @@ fast.destinyfernandi.com
 fasterfiles.net
 favoriteadrequest.com
 fb202022.tcp4.me
+fb-ads.me
 fbcolor.blogspot.com
 fbdowner.com
 fbhrobud.pl
@@ -2748,6 +2747,7 @@ logintofb.tcp4.me
 logononfb.n4t.co
 logowanie-bnpparibas.at
 logowanie-bnpparibas.xyz
+logowanie.dkonto.pl
 logowanie-paribas.at
 lokalnie.live
 loktrk.com
@@ -3562,7 +3562,6 @@ perfectdeco.pl
 perfectorzesze.pl
 perfecturist.pl
 performancevitality.net
-performquickintenselyfile.icu
 perfumeriaife.pl
 perfumio.pl
 perfum-shop.pl
@@ -3685,7 +3684,6 @@ pl-pl-fb.com
 plpocztex.net
 plpocztex.org
 pl.princessmask.pro
-pl-pulsbiz.net
 pl.slimg0ji-berry.com
 pl.superando.net
 pl.team
@@ -3915,7 +3913,6 @@ programdarmowy.pl
 programyfb.blogspot.com
 programyhakerskie.pl
 programyobywatelskie.pl
-proimagephoto.pl
 projectalbum.pl
 projektinspiracja.pl
 prokino.pl
@@ -4080,6 +4077,7 @@ randomelements.co.uk
 rangreality.com
 raportpobierz.com
 rathbone-art.com
+raucomtodentketp.cf
 ravlw.nearbysluts.net
 razeleague.com
 razempomagamy.xyz
@@ -4420,7 +4418,6 @@ slaskiedrogi.pl
 slaskie-innowacje.pl
 slawop.net
 slimak-pozyczki.pl
-slipknot1.pl
 slodkibar.pl
 slonce-deszcz.net
 sloneczne-termy.pl
@@ -5432,7 +5429,6 @@ www.agikurier.org
 www.agipasesores.com
 www.agnieszkasulkowska.pl
 www.agricoletrade.com
-www.agronorth.pl
 www.agroplant-grojec.pl
 www.agroturist.com.pl
 www.agroturystyka-karino.pl
@@ -5717,7 +5713,6 @@ www.barwin4.com
 www.baseflix.pl
 www.basen.biz
 www.baseny.club
-www.basf-polmaraton.pl
 www.basiekurier.org
 www.basnogorach.pl
 www.batmantakhebat.blogspot.com
@@ -6486,7 +6481,6 @@ www.eccopolska.pl
 www.eccopromocje.pl
 www.e-cda.pl
 www.ecdi14.eu
-www.echelona.net
 www.e-childalert.online
 www.e-childalert.pl
 www.e-childalert.site
@@ -6686,6 +6680,7 @@ www.facebookkviewer.blogspot.com
 www.facebook-login.5v.pl
 www.facebook-profile.5v.pl
 www.facebookszpieg.glt.pl
+www.facebook.twoje-foty.eu
 www.facebouk.site
 www.facedesign.pl
 www.face--viewer.blogspot.com
@@ -6702,7 +6697,6 @@ www.faksowy.is-best.net
 www.fakt24-news.eu
 www.fakt24-porwaniefabian.com.pl
 www.fakt24warszawa.com.pl
-www.faktgminny.098.pl
 www.fakt-news24.eu
 www.faktonet24.eu
 www.faktonet.eu
@@ -6758,6 +6752,7 @@ www.faktymazowsze.pl
 www.fakty-miasto.x9.eu
 www.fakty-miejskie.x9.eu
 www.faktynazywo24.eu
+www.faktynews-24.eu
 www.fakty-news48.eu
 www.fakty-news72.eu
 www.faktyonet24.eu
@@ -6799,6 +6794,7 @@ www.fast.destinyfernandi.com
 www.fasterfiles.net
 www.favoriteadrequest.com
 www.fb202022.tcp4.me
+www.fb-ads.me
 www.fbcolor.blogspot.com
 www.fbdowner.com
 www.fbhrobud.pl
@@ -8039,6 +8035,7 @@ www.logintofb.tcp4.me
 www.logononfb.n4t.co
 www.logowanie-bnpparibas.at
 www.logowanie-bnpparibas.xyz
+www.logowanie.dkonto.pl
 www.logowanie-paribas.at
 www.lokalnie.live
 www.loktrk.com
@@ -8854,7 +8851,6 @@ www.perfectdeco.pl
 www.perfectorzesze.pl
 www.perfecturist.pl
 www.performancevitality.net
-www.performquickintenselyfile.icu
 www.perfumeriaife.pl
 www.perfumio.pl
 www.perfum-shop.pl
@@ -8957,7 +8953,6 @@ www.ploskonax.com
 www.pl-pl-fb.com
 www.plpocztex.net
 www.plpocztex.org
-www.pl-pulsbiz.net
 www.plus-finanse.pl
 www.plwash.pl
 www.pl-wyslij.best
@@ -9183,7 +9178,6 @@ www.programdarmowy.pl
 www.programyfb.blogspot.com
 www.programyhakerskie.pl
 www.programyobywatelskie.pl
-www.proimagephoto.pl
 www.projectalbum.pl
 www.projektinspiracja.pl
 www.prokino.pl
@@ -9348,6 +9342,7 @@ www.randomelements.co.uk
 www.rangreality.com
 www.raportpobierz.com
 www.rathbone-art.com
+www.raucomtodentketp.cf
 www.ravlw.nearbysluts.net
 www.razeleague.com
 www.razempomagamy.xyz
@@ -9688,7 +9683,6 @@ www.slaskiedrogi.pl
 www.slaskie-innowacje.pl
 www.slawop.net
 www.slimak-pozyczki.pl
-www.slipknot1.pl
 www.slodkibar.pl
 www.slonce-deszcz.net
 www.sloneczne-termy.pl
@@ -10672,7 +10666,6 @@ www.zalukaj-film.24.eu
 www.zalukajfilmy.pl
 www.zalukaj-hd.com
 www.zalukaj.it
-www.zalukaj.online
 www.zalukaj-online.24.eu
 www.zalukaj-online.pl
 www.zalukaj.org
@@ -10911,7 +10904,6 @@ zalukaj-film.24.eu
 zalukajfilmy.pl
 zalukaj-hd.com
 zalukaj.it
-zalukaj.online
 zalukaj-online.24.eu
 zalukaj-online.pl
 zalukaj.org

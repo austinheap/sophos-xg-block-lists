@@ -5500,6 +5500,7 @@ tag.myplay.com
 tag.rightmessage.com
 tag.rmp.rakuten.com
 tags.cdn.circlesix.co
+tag.shopping-feed.com
 tags.master-perf-tools.com
 tags.msnbc.com
 tags.newscgp.com
