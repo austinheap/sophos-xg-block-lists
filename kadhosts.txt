@@ -95,7 +95,6 @@ actraffic.com
 actus.org.pl
 aczarniecka.pl
 adakom.pl
-adamdj.ct8.pl
 adament.c0.pl
 adamjarekelk.freehost.pl
 adampaczka.com
@@ -228,7 +227,6 @@ allegro.pl.sholtem.pl
 allegro.pl.showltem.pl
 allegro.pl.showlten.pl
 allegro.pl.szoten.pl
-allegroprize.pl
 allegrosklep.online
 allegro.su
 allegro.targi.pl
@@ -697,7 +695,6 @@ centrumnaukowe.eu
 centrumofert24.com
 centrumofert.com
 centrumplay.pl
-centrumrozrywki.5v.pl
 centrumrozwojuprestige.pl
 centrumzklimatem.pl
 ceresiontest.c0.pl
@@ -998,7 +995,6 @@ dev.apps.co.pl
 developfirstline.com
 devicenowaasn37126.xyz
 devicenowaasn51541.xyz
-df9e8783c33d.ngrok.io
 dgroetf.com
 dhexpres.com
 dhl24-paczka.com
@@ -1761,7 +1757,6 @@ gagrat.co
 gajakurier.org
 galatransmisja.pe.hu
 galeriamdm.pl
-galeria-nagosci.ct8.pl
 galeriapn.pl
 galeria-swiatla.pl
 galeriaweb.pl
@@ -2327,7 +2322,6 @@ jannahqu.org
 jannatkhah.ir
 janod.pl
 janparkiet.pl
-janskowron.ct8.pl
 jantar-ostroleka.pl
 januszbysina.pl
 januszp.stronazen.pl
@@ -2346,7 +2340,6 @@ jerzy-pulchny.pl
 jeunesseglobal.com
 jezyk-norwesk.pl
 jezykobcywdomu.eu
-jhamarielvin.ct8.pl
 jmbase.my
 joannabaginska.com.pl
 jodakurier.com
@@ -2554,7 +2547,6 @@ kredytpremium.pl
 kredytybezbik.eu
 krejsers.pl
 kremidzem.pl
-krepujace-zdjeciaa.5v.pl
 krezbud.pl
 krolarlekin.com.pl
 kronika-miasta.website
@@ -3074,7 +3066,6 @@ m.pl.failmobile.net
 mrgugu.com
 mrowkapiechowice.pl
 mrtruffle.pl
-ms-mbank.onfly.pl
 msp-hack.com
 msphackonline.com
 mstk.pl
@@ -3672,7 +3663,6 @@ plikson.pl
 pliks.pl
 pljestnaj.pl
 pl.longup.co
-pllubiok.5v.pl
 pl.medicreporters.com
 pl.melaleuca.com
 pl.mevida.me
@@ -3745,7 +3735,6 @@ podatek2020.net
 podatkigov.net
 podatnik.net
 podbiegi.pl
-podgladacze.5v.pl
 podgladfacebokaa.blogspot.com
 podologia-mpiosek.pl
 podologik.ca
@@ -3937,7 +3926,6 @@ provanto.pl
 prusinska.pl
 pruszcz.cba.pl
 pruszkowmieszkania.pl
-prywatne-fotki.5v.pl
 pryzma.com.pl
 przechwyconeefotki.eu
 przechwyconeefotki.pusiaweb.com
@@ -4296,24 +4284,11 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
-server033687.nazwa.pl
-server144191.nazwa.pl
-server206282.nazwa.pl
-server210328.nazwa.pl
 server292369.nazwa.pl
-server304082.nazwa.pl
-server428873.nazwa.pl
-server584025.nazwa.pl
-server740872.nazwa.pl
-server756189.nazwa.pl
-server917010.nazwa.pl
-server939608.nazwa.pl
-server991318.nazwa.pl
 server-payuser1.com
 servicecheck5.wixsite.com
 service-pay.company
 serwer2083668.home.pl
-serwer2085989.home.pl
 serwis-ab.com.pl
 serwisgaz.com.pl
 serwisinformacyjny.x9.eu
@@ -4406,7 +4381,6 @@ skorochowszczotka.pl
 skpfalenty.pl
 skrajnieskonczony.pl
 skroc-link.ga
-skryte-zdjecia.ct8.pl
 skullcrew.pl
 skupjajek.pl
 skupzabytkowych.pl
@@ -4789,7 +4763,6 @@ tengoksebelah.blogspot.com
 tepremoe.mypi.co
 terazmieszkanie.pl
 terazty24.eu
-terminator3000.ct8.pl
 terminatorzy.cba.pl
 termometr-na-podczerwien-pl.com
 termstal.cba.pl
@@ -4845,7 +4818,6 @@ timberlymotel.com
 tinyfilehost.com
 tinyfileshost.com
 titan-man.pro
-tkozlowski.ct8.pl
 tlanddissipate.at
 tlumacz-wloskiego.com.pl
 tniemyceny.net
@@ -5187,13 +5159,11 @@ wez-bon.24.eu
 wezwanieus.com
 whenbuyyousale.co
 whiskytawn.xyz
-wiad-info.5v.pl
 wiadomosc-24.eu
 wiadomosc-24.online
 wiadomosci24-live.eu
 wiadomosci24polska.pl
 wiadomoscigwalt.eu
-wiadomosci-lokalne.5v.pl
 wiadomosci-naszemiasto24.x9.eu
 wiadomosci-onet24.ml
 wiadomosci-onet24.tk
@@ -5261,7 +5231,6 @@ worthlessness.xyz
 wosemd.site
 wosp.online
 wp.6645478.top
-wplogin.5v.pl
 wp-regulamin.com
 wpunkcie.pl
 wraplo.pl
@@ -5383,7 +5352,6 @@ www.actraffic.com
 www.actus.org.pl
 www.aczarniecka.pl
 www.adakom.pl
-www.adamdj.ct8.pl
 www.adament.c0.pl
 www.adamjarekelk.freehost.pl
 www.adampaczka.com
@@ -5516,7 +5484,6 @@ www.allegro.pl.sholtem.pl
 www.allegro.pl.showltem.pl
 www.allegro.pl.showlten.pl
 www.allegro.pl.szoten.pl
-www.allegroprize.pl
 www.allegrosklep.online
 www.allegro.su
 www.allegro.targi.pl
@@ -5985,7 +5952,6 @@ www.centrumnaukowe.eu
 www.centrumofert24.com
 www.centrumofert.com
 www.centrumplay.pl
-www.centrumrozrywki.5v.pl
 www.centrumrozwojuprestige.pl
 www.centrumzklimatem.pl
 www.ceresiontest.c0.pl
@@ -6286,7 +6252,6 @@ www.dev.apps.co.pl
 www.developfirstline.com
 www.devicenowaasn37126.xyz
 www.devicenowaasn51541.xyz
-www.df9e8783c33d.ngrok.io
 www.dgroetf.com
 www.dhexpres.com
 www.dhl24-paczka.com
@@ -7049,7 +7014,6 @@ www.gagrat.co
 www.gajakurier.org
 www.galatransmisja.pe.hu
 www.galeriamdm.pl
-www.galeria-nagosci.ct8.pl
 www.galeriapn.pl
 www.galeria-swiatla.pl
 www.galeriaweb.pl
@@ -7615,7 +7579,6 @@ www.jannahqu.org
 www.jannatkhah.ir
 www.janod.pl
 www.janparkiet.pl
-www.janskowron.ct8.pl
 www.jantar-ostroleka.pl
 www.januszbysina.pl
 www.januszp.stronazen.pl
@@ -7634,7 +7597,6 @@ www.jerzy-pulchny.pl
 www.jeunesseglobal.com
 www.jezyk-norwesk.pl
 www.jezykobcywdomu.eu
-www.jhamarielvin.ct8.pl
 www.jmbase.my
 www.joannabaginska.com.pl
 www.jodakurier.com
@@ -7842,7 +7804,6 @@ www.kredytpremium.pl
 www.kredytybezbik.eu
 www.krejsers.pl
 www.kremidzem.pl
-www.krepujace-zdjeciaa.5v.pl
 www.krezbud.pl
 www.krolarlekin.com.pl
 www.kronika-miasta.website
@@ -8362,7 +8323,6 @@ www.m.pl.failmobile.net
 www.mrgugu.com
 www.mrowkapiechowice.pl
 www.mrtruffle.pl
-www.ms-mbank.onfly.pl
 www.msp-hack.com
 www.msphackonline.com
 www.mstk.pl
@@ -8947,7 +8907,6 @@ www.plik-pobierz.pl
 www.plikson.pl
 www.pliks.pl
 www.pljestnaj.pl
-www.pllubiok.5v.pl
 www.pl-nadaj.online
 www.ploskonax.com
 www.pl-pl-fb.com
@@ -9010,7 +8969,6 @@ www.podatek2020.net
 www.podatkigov.net
 www.podatnik.net
 www.podbiegi.pl
-www.podgladacze.5v.pl
 www.podgladfacebokaa.blogspot.com
 www.podologia-mpiosek.pl
 www.podologik.ca
@@ -9202,7 +9160,6 @@ www.provanto.pl
 www.prusinska.pl
 www.pruszcz.cba.pl
 www.pruszkowmieszkania.pl
-www.prywatne-fotki.5v.pl
 www.pryzma.com.pl
 www.przechwyconeefotki.eu
 www.przechwyconeefotki.pusiaweb.com
@@ -9561,24 +9518,11 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
-www.server033687.nazwa.pl
-www.server144191.nazwa.pl
-www.server206282.nazwa.pl
-www.server210328.nazwa.pl
 www.server292369.nazwa.pl
-www.server304082.nazwa.pl
-www.server428873.nazwa.pl
-www.server584025.nazwa.pl
-www.server740872.nazwa.pl
-www.server756189.nazwa.pl
-www.server917010.nazwa.pl
-www.server939608.nazwa.pl
-www.server991318.nazwa.pl
 www.server-payuser1.com
 www.servicecheck5.wixsite.com
 www.service-pay.company
 www.serwer2083668.home.pl
-www.serwer2085989.home.pl
 www.serwis-ab.com.pl
 www.serwisgaz.com.pl
 www.serwisinformacyjny.x9.eu
@@ -9671,7 +9615,6 @@ www.skorochowszczotka.pl
 www.skpfalenty.pl
 www.skrajnieskonczony.pl
 www.skroc-link.ga
-www.skryte-zdjecia.ct8.pl
 www.skullcrew.pl
 www.skupjajek.pl
 www.skupzabytkowych.pl
@@ -10054,7 +9997,6 @@ www.tengoksebelah.blogspot.com
 www.tepremoe.mypi.co
 www.terazmieszkanie.pl
 www.terazty24.eu
-www.terminator3000.ct8.pl
 www.terminatorzy.cba.pl
 www.termometr-na-podczerwien-pl.com
 www.termstal.cba.pl
@@ -10110,7 +10052,6 @@ www.timberlymotel.com
 www.tinyfilehost.com
 www.tinyfileshost.com
 www.titan-man.pro
-www.tkozlowski.ct8.pl
 www.tlanddissipate.at
 www.tlumacz-wloskiego.com.pl
 www.tniemyceny.net
@@ -10452,13 +10393,11 @@ www.wez-bon.24.eu
 www.wezwanieus.com
 www.whenbuyyousale.co
 www.whiskytawn.xyz
-www.wiad-info.5v.pl
 www.wiadomosc-24.eu
 www.wiadomosc-24.online
 www.wiadomosci24-live.eu
 www.wiadomosci24polska.pl
 www.wiadomoscigwalt.eu
-www.wiadomosci-lokalne.5v.pl
 www.wiadomosci-naszemiasto24.x9.eu
 www.wiadomosci-onet24.ml
 www.wiadomosci-onet24.tk
@@ -10526,7 +10465,6 @@ www.worthlessness.xyz
 www.wosemd.site
 www.wosp.online
 www.wp.6645478.top
-www.wplogin.5v.pl
 www.wp-regulamin.com
 www.wpunkcie.pl
 www.wraplo.pl

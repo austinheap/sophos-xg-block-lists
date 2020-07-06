@@ -114,6 +114,7 @@ ads30.adcolony.com
 ads5.truecaller.com
 adsaccount.appcpi.net
 ads.alphonso.tv
+ad.samsungadhub.com
 adsances.ero-advertising.com
 ads-bi.zenkube.com
 adscan.yelabapp.com
@@ -439,6 +440,7 @@ com-google.site
 com-notice.info
 compdate.my03.com
 comssite.com
+config.samsungads.com
 configsysrc.info
 conhostservice.com
 console.rtk.io
@@ -637,6 +639,7 @@ events3.adcolony.com
 events3alt.adcolony.com
 events.appsflyer.com
 events.redditmedia.com
+events.samsungads.com
 events.startappservice.com
 exchange.dumb1.com
 exchange.face2trade.com
@@ -772,6 +775,7 @@ gj.applog.uc.cn
 gjapplog.uc.cn
 gj.track.uc.cn
 gjtrack.ucweb.com
+gld.samsungosp.com
 globalapi.ad.xiaomi.com
 globalpagee-prod-webex.com
 glt-app.net
@@ -795,6 +799,7 @@ google-activity.pw
 googlephoto.vip
 goooooooooogle.com
 govaj.com
+gpm.samsungqbe.com
 grabascoop.com
 grabify.link
 grandmods.com
@@ -928,6 +933,7 @@ in-star.videoplaza.tv
 instory-log.ucnews.ucweb.com
 intext.ero-advertising.com
 in-viacom18.videoplaza.tv
+invitation.samsungiotcloud.com
 invoke.ml
 ioads.ero-advertising.com
 ios.0pengl.com
@@ -1126,11 +1132,16 @@ livecheckpointsrs.com
 livetus.com
 lli.nrvyzj.com
 load.collegesmooch.com
+log-1.samsungacr.com
+log-2.samsungacr.com
+log-3.samsungacr.com
 log.apk.v-mate.mobi
 logger.cloudmobi.net
 log.getdropbox.com
 login.dotomi.com
 login.dotomi.net
+log-ingestion-eu.samsungacr.com
+log-ingestion.samsungacr.com
 login.rtk.io
 loginwebmailnic.dynssl.com
 login.yahoo-change-password.com
@@ -1505,6 +1516,8 @@ oawyr.com
 oawyri.com
 odaiw3dda.bestnewsworld.info
 oderstrg.site
+oempprd.samsungcloudsolution.com
+oempprd.samsungcloudsolution.net
 oi8ytfzxa.appspot.com
 onlineapi.youappi.com
 opads.ero-advertising.com
@@ -1516,6 +1529,7 @@ ora.carlaarrabitoarchitetto.com
 ora.studiolegalebasili.com
 orion.iad.appboy.com
 orzk.net
+osb-ussvc.samsungqbe.com
 osheoufhusheoghuesd.ru
 otpe.bestnewsworld.info
 ottocap.org
@@ -1689,6 +1703,7 @@ rakuten.jp-bankq.com
 rata.ero-advertising.com
 rc-room.com
 rdi.eu.criteo.com
+rd.samsungadhub.com
 redirect.ero-advertising.com
 register.appsflyer.com
 renovatesystem.com
@@ -2137,6 +2152,7 @@ uy6x.bestnewsworld.info
 uy6x.c3y5-tools.com
 v10c.events.data.microsoft.com
 vamsoupowoa.com
+vdterms.samsungcloudsolution.com
 vdtrack.com
 verywellfitnesse.com
 vhguyeu.ml
