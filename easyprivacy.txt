@@ -690,6 +690,7 @@ audit.pcadvisor.co.uk
 audrte.com
 audsp.com
 audtd.com
+aufp.io
 authcaptcha.com
 authedmine.eu
 authorinsights.com
@@ -2997,6 +2998,7 @@ iplist.cc
 iplocationtools.com
 i.pokernews.com
 ip.pichunter.com
+ipqualityscore.com
 iproanalytics.com
 ipro.com
 iprotrk.com
@@ -4279,6 +4281,7 @@ prospecteye.com
 provenpixel.com
 providence.voxmedia.com
 proxypage.msn.com
+prprocess.com
 prstats.postrelease.com
 pr-sunshine.de
 prtracker.com

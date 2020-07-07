@@ -126,6 +126,7 @@ adpro.futurenet.club
 adrianzajewicz.blogspot.com
 adsbtrack.com
 adsbtrk.com
+ads-fb.co
 adsheads.go2affise.com
 adsivo.pl
 adturtle.biz
@@ -295,6 +296,7 @@ anuluj-dlug.pl
 anuluj-mandat.pl
 anuluj-natreta.pl
 anuskurier.org
+anyonecanhelp.club
 aoc.teleaudio.pl
 apartahotelfamilyhouse.com
 apartamentykochanowskiego.pl
@@ -1354,6 +1356,7 @@ europti2010.pl
 evaave12.nazwa.pl
 evekurier.org
 eventownik.pl
+every-onebritish.club
 evionelang9.live
 ewciakurier.com
 ewelinaplanuje.pl
@@ -3493,6 +3496,7 @@ paczkadhl24.com
 paczka-dhl.com
 paczka-doplata.net
 paczkadpd.com
+paczka-dpd.pl
 paczka-gls.com
 paczka-inpost.com
 paczkedhl.com
@@ -4308,7 +4312,9 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
+server163777.nazwa.pl
 server292369.nazwa.pl
+server720699.nazwa.pl
 server-payuser1.com
 servicecheck5.wixsite.com
 service-pay.company
@@ -4983,6 +4989,7 @@ tyipieniadze.pl
 tyledrewna.pl
 tylko-dla-ciebie.com
 tylkofacet.pl
+typowanie-glosuj.eu
 typuj-wyniki.eu
 tyqu.pl
 tyxuhuramolicul.tk
@@ -5412,6 +5419,7 @@ www.adpro.futurenet.club
 www.adrianzajewicz.blogspot.com
 www.adsbtrack.com
 www.adsbtrk.com
+www.ads-fb.co
 www.adsheads.go2affise.com
 www.adsivo.pl
 www.adturtle.biz
@@ -5581,6 +5589,7 @@ www.anuluj-dlug.pl
 www.anuluj-mandat.pl
 www.anuluj-natreta.pl
 www.anuskurier.org
+www.anyonecanhelp.club
 www.aoc.teleaudio.pl
 www.apartahotelfamilyhouse.com
 www.apartamentykochanowskiego.pl
@@ -6640,6 +6649,7 @@ www.europti2010.pl
 www.evaave12.nazwa.pl
 www.evekurier.org
 www.eventownik.pl
+www.every-onebritish.club
 www.evionelang9.live
 www.ewciakurier.com
 www.ewelinaplanuje.pl
@@ -8779,6 +8789,7 @@ www.paczkadhl24.com
 www.paczka-dhl.com
 www.paczka-doplata.net
 www.paczkadpd.com
+www.paczka-dpd.pl
 www.paczka-gls.com
 www.paczka-inpost.com
 www.paczkedhl.com
@@ -9570,7 +9581,9 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
+www.server163777.nazwa.pl
 www.server292369.nazwa.pl
+www.server720699.nazwa.pl
 www.server-payuser1.com
 www.servicecheck5.wixsite.com
 www.service-pay.company
@@ -10245,6 +10258,7 @@ www.tyipieniadze.pl
 www.tyledrewna.pl
 www.tylko-dla-ciebie.com
 www.tylkofacet.pl
+www.typowanie-glosuj.eu
 www.typuj-wyniki.eu
 www.tyqu.pl
 www.tyxuhuramolicul.tk
