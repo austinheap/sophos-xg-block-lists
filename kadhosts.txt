@@ -3485,6 +3485,7 @@ paczka-inpost.com
 paczkedhl.com
 paczkikk.com
 paczkomaty-pl.tk
+paczpocztex.com
 paczuli.pl
 padslims.com
 pafiilate.byethost32.com
@@ -4966,6 +4967,7 @@ tyipieniadze.pl
 tyledrewna.pl
 tylko-dla-ciebie.com
 tylkofacet.pl
+typuj-wyniki.eu
 tyqu.pl
 tyxuhuramolicul.tk
 tzr.grejt.pl
@@ -8751,6 +8753,7 @@ www.paczka-inpost.com
 www.paczkedhl.com
 www.paczkikk.com
 www.paczkomaty-pl.tk
+www.paczpocztex.com
 www.paczuli.pl
 www.padslims.com
 www.pafiilate.byethost32.com
@@ -10208,6 +10211,7 @@ www.tyipieniadze.pl
 www.tyledrewna.pl
 www.tylko-dla-ciebie.com
 www.tylkofacet.pl
+www.typuj-wyniki.eu
 www.tyqu.pl
 www.tyxuhuramolicul.tk
 www.tzr.grejt.pl
