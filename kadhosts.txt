@@ -1863,7 +1863,6 @@ getimmediateedge.com
 getinbank-secure.at
 getin-secure-bank.xyz
 getin-secure.com.pl
-getleads.pl
 getmyfreetraffic.com
 ggserwis.pl
 ghastlyf.xyz
@@ -2201,6 +2200,7 @@ informacje-news.eu
 informacje-o-maskach-ochronnych-pl.com
 informacje-swiat.pl
 informacjeszok24.blogspot.com
+informacyjny.h2g.pl
 informcje1.is-best.net
 informcje2.is-best.net
 informcje3.is-best.net
@@ -3648,6 +3648,7 @@ platnosc.podatkigov.net
 platnosc.twoj-kurier.com
 platnosc.twojkurier.com
 play18ok.info
+play24sklep.com
 playallthis.com
 play.appiq.mobi
 play-cda.pl
@@ -7156,7 +7157,6 @@ www.getimmediateedge.com
 www.getinbank-secure.at
 www.getin-secure-bank.xyz
 www.getin-secure.com.pl
-www.getleads.pl
 www.getmyfreetraffic.com
 www.ggserwis.pl
 www.ghastlyf.xyz
@@ -7494,6 +7494,7 @@ www.informacje-news.eu
 www.informacje-o-maskach-ochronnych-pl.com
 www.informacje-swiat.pl
 www.informacjeszok24.blogspot.com
+www.informacyjny.h2g.pl
 www.informcje1.is-best.net
 www.informcje2.is-best.net
 www.informcje3.is-best.net
@@ -8938,6 +8939,7 @@ www.platnosc.podatkigov.net
 www.platnosc.twoj-kurier.com
 www.platnosc.twojkurier.com
 www.play18ok.info
+www.play24sklep.com
 www.playallthis.com
 www.play.appiq.mobi
 www.play-cda.pl

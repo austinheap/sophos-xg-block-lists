@@ -847,7 +847,6 @@ ad.my.doubleclick.net
 ad.mygamesol.com
 ad.n2434.doubleclick.net
 ad.nate.com
-adn.ebay.com
 ad.ne.com
 ad.net
 adnet.asahi.com
