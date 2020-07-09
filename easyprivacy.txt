@@ -381,10 +381,8 @@ analyse.weather.com.cn
 analysis.fi
 analysis.shinobi.jp
 analysistools.net
-analyticapi.pho.fm
 analyticcdn.globalmailer.com
 analytic.imlive.com
-analytic.pho.fm
 analytic.rocks
 analytics00.meride.tv
 analytics.163.com
@@ -426,7 +424,6 @@ analytics.cocolog-nifty.com
 analytics.codigo.se
 analytics.cohesionapps.com
 analytics.competitoor.com
-analytics.conmio.com
 analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.datahc.com
@@ -493,7 +490,6 @@ analytics.paddle.com
 analytics.performable.com
 analytics.photorank.me
 analytics.piksel.com
-analytics.pinpoll.com
 analytics.plex.tv
 analytics.posttv.com
 analytics.praetor.im
@@ -1938,7 +1934,6 @@ dtscout.com
 dtxngr.com
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
-dufue2m4sondk.cloudfront.net
 dup.baidustatic.com
 durocount.com
 duu8lzqdm8tsz.cloudfront.net
@@ -2268,7 +2263,6 @@ exponea.com
 exposebox.com
 extole.com
 extole.io
-extra.tvmaze.com
 extreme-dm.com
 extreme-ip-lookup.com
 eyein.com
@@ -2598,7 +2592,6 @@ gnezdo.ru
 gnpge.com
 go2link.net
 goadservices.com
-gobba.myeffect.net
 gocp.stroeermediabrands.de
 godhat.com
 goingup.com
@@ -2675,7 +2668,6 @@ guoshipartners.com
 gu-pix.appspot.com
 guq9.vente-unique.it
 gus.host
-gustaver.ddns.net
 g.vev.io
 gvisit.com
 gweini.com
@@ -3574,6 +3566,7 @@ minewhat.com
 minexmr.com
 mining.best
 mininghub.club
+minkatu.com
 minr.pw
 mixi.mn
 mj23.eulerian.com
@@ -4141,6 +4134,7 @@ pings.blip.tv
 pings.conviva.com
 ping.smyte.com
 pings.vidpulse.com
+pinpoll.com
 pipe-collect.ebu.io
 pipedream.wistia.com
 pipeline.realtime.active.com
@@ -4353,6 +4347,7 @@ pureairhits.com
 purevideo.com
 push4site.com
 push-ad.com
+pushalert.co
 pushdom.co
 pushengage.com
 push-house.net
@@ -4528,7 +4523,6 @@ remarketingpixel.com
 remarketstats.com
 remind.me
 rem-track.bild.de
-renhertfo.com
 rentracks.jp
 rep0pkgr.com
 repeatsweater.com
@@ -5403,7 +5397,6 @@ stat.tianya.cn
 stat.tiara.kakao.com
 stat.tildacdn.com
 stattooz.com
-stattrack.0catch.com
 stat-track.com
 stattrax.com
 stat.tvigle.ru
@@ -5905,7 +5898,6 @@ tracking.base.de
 tracking.batanga.com
 tracking.battleon.com
 tracking.bd4travel.com
-tracking.beilagen-prospekte.de
 tracking.brandmentions.com
 tracking.carsales.com.au
 tracking.cat898.com
@@ -6253,6 +6245,7 @@ ubiquitousyard.com
 ubt.berlingskemedia.net
 uciservice.com
 ucounter.ucoz.net
+udkcrj.com
 uestat.video.qiyi.com
 ugdturner.com
 uhygtf1.com
@@ -6271,7 +6264,6 @@ universaltrackingcontainer.com
 unknowntray.com
 unrummaged.com
 untidyrice.com
-uoldid.ru
 u-on.eu
 upapi.net
 up.boston.com
@@ -6455,16 +6447,15 @@ votistics.com
 v.oui.sncf
 vpf4.euskaltelofertas.com
 vppst.iltrovatore.it
+vprza.com
 vry9.destinia.com
 v.shopify.com
 vs.target.com
 vstats.digitaltrends.com
 vtf2f.banque-casino.fr
 vtracker.net
-vtracking.in.com
 vtracy.de
 vtrtl.de
-vuryua.ru
 vv.ricardo.ch
 vzhjnorkudcxbiy.com
 w3counter.com
@@ -6593,7 +6584,6 @@ webvisor.com
 webvisor.ru
 webxmr.com
 wecount4u.com
-weesh.co.uk
 welt-der-links.de
 wemfbox.ch
 we-stats.com

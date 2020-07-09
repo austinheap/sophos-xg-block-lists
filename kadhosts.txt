@@ -17,6 +17,7 @@
 1maja18.pl
 1slo.pl
 1szychta.org.pl
+20200709071631.restflko.giize.com
 20pascals.nl
 247platnosci.online
 247platnosc.online
@@ -2151,6 +2152,7 @@ id-appie.com
 ideabank-login.xyz
 ideabank-logowanie.at
 idea-bank.xyz
+idea-cloudbank.com
 idea-cloud.xyz
 idealnafigura.com
 idea-logowanie.at
@@ -3506,6 +3508,7 @@ paczka-dpd.pl
 paczka-gls.com
 paczka-inpost.com
 paczkedhl.com
+paczkgls.com
 paczkikk.com
 paczkomaty-pl.tk
 paczpocztex.com
@@ -3756,6 +3759,7 @@ pocztapolska.eu
 poczta-polska.net
 poczta-polska.services
 poczta-regulamin.com
+poczta.ron-mil-pl.site
 pocztex-24.link
 pocztex-48.net
 pocztexonline24.net
@@ -4322,8 +4326,10 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
+server062295.nazwa.pl
 server163777.nazwa.pl
 server292369.nazwa.pl
+server364714.nazwa.pl
 server720699.nazwa.pl
 server-payuser1.com
 servicecheck5.wixsite.com
@@ -4564,6 +4570,7 @@ ssl.mmtgo.me
 sslpayu.com
 sslplatnosc.online
 ssman.pl
+sso-cloud-idea.at
 sso-cloud-ideabank.at
 sso.cloud.idecloud.com.pl
 sspawdzktopodgglada.blogspot.com
@@ -5321,6 +5328,7 @@ www.1k-daily-profitz.com
 www.1maja18.pl
 www.1slo.pl
 www.1szychta.org.pl
+www.20200709071631.restflko.giize.com
 www.20pascals.nl
 www.247platnosci.online
 www.247platnosc.online
@@ -7455,6 +7463,7 @@ www.id-appie.com
 www.ideabank-login.xyz
 www.ideabank-logowanie.at
 www.idea-bank.xyz
+www.idea-cloudbank.com
 www.idea-cloud.xyz
 www.idealnafigura.com
 www.idea-logowanie.at
@@ -8810,6 +8819,7 @@ www.paczka-dpd.pl
 www.paczka-gls.com
 www.paczka-inpost.com
 www.paczkedhl.com
+www.paczkgls.com
 www.paczkikk.com
 www.paczkomaty-pl.tk
 www.paczpocztex.com
@@ -9036,6 +9046,7 @@ www.pocztapolska.eu
 www.poczta-polska.net
 www.poczta-polska.services
 www.poczta-regulamin.com
+www.poczta.ron-mil-pl.site
 www.pocztex-24.link
 www.pocztex-48.net
 www.pocztexonline24.net
@@ -9602,8 +9613,10 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
+www.server062295.nazwa.pl
 www.server163777.nazwa.pl
 www.server292369.nazwa.pl
+www.server364714.nazwa.pl
 www.server720699.nazwa.pl
 www.server-payuser1.com
 www.servicecheck5.wixsite.com
@@ -9844,6 +9857,7 @@ www.ssl.mmtgo.me
 www.sslpayu.com
 www.sslplatnosc.online
 www.ssman.pl
+www.sso-cloud-idea.at
 www.sso-cloud-ideabank.at
 www.sso.cloud.idecloud.com.pl
 www.sspawdzktopodgglada.blogspot.com
