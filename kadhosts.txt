@@ -224,9 +224,6 @@ allegroapk.net
 allegrolokalnie.online
 allegrolokalnie-pl.cc
 allegrolokalnie-pl.ru
-allegrolokalnie.ru
-allegrolokalnie.su
-allegrolokalnie.tech
 allegro.net
 allegro.pl-nowe-regulamini7913.uhu362.com
 allegro.pl.sholtem.pl
@@ -1011,6 +1008,7 @@ dgroetf.com
 dhexpres.com
 dhl24-paczka.com
 dhl.express.faktura.tecsla.com.mx
+dhl-express.pl
 dhl-kurier.pl
 dhl-paczka.eu
 dhl-payment.com
@@ -5535,9 +5533,6 @@ www.allegroapk.net
 www.allegrolokalnie.online
 www.allegrolokalnie-pl.cc
 www.allegrolokalnie-pl.ru
-www.allegrolokalnie.ru
-www.allegrolokalnie.su
-www.allegrolokalnie.tech
 www.allegro.net
 www.allegro.pl-nowe-regulamini7913.uhu362.com
 www.allegro.pl.sholtem.pl
@@ -6322,6 +6317,7 @@ www.dgroetf.com
 www.dhexpres.com
 www.dhl24-paczka.com
 www.dhl.express.faktura.tecsla.com.mx
+www.dhl-express.pl
 www.dhl-kurier.pl
 www.dhl-paczka.eu
 www.dhl-payment.com
