@@ -364,6 +364,7 @@ amikay.com
 amnet.tw
 amoad.com
 a.mobify.com
+a-mo.net
 amp-error-reporting.appspot.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
@@ -2271,7 +2272,6 @@ eyereturn.com
 ezakus.net
 ezec.co.uk
 e-zeeinternet.com
-ezodn.com
 ezytrack.com
 f1tbit.com
 f7ds.liberation.fr
@@ -2300,10 +2300,13 @@ faststart.ru
 fast-thinking.co.uk
 fastwebcounter.com
 fatcoil.com
+fathom.pixeldrain.com
 fathomseo.com
 faultycanvas.com
 fbgpnk.com
 fb_servpub-a.akamaihd.net
+fcmatch.google.com
+fcmatch.youtube.com
 f-counter.jp
 f-counter.net
 fcs.ovh
@@ -2570,6 +2573,8 @@ gj.mmstat.com
 gjr5.yoigo.com
 glanceguide.com
 glasgowtimes-gb.glasgowtimes.co.uk
+glassboxcdn.com
+glassboxdigital.io
 glassmoni.researchgate.net
 glbdns.microsoft.com
 glbtracker.com
@@ -4753,6 +4758,7 @@ sddan.com
 sdrive.skoda-auto.com
 seal.godaddy.com
 sealine.pro
+seal.networksolutions.com
 seal.verisign.com
 sea-nov-1.com
 searchfeed.com
@@ -5376,6 +5382,7 @@ stats.uswitch.com
 stats.viddler.com
 stats.videodelivery.net
 stats.visistat.com
+stats.vk-portal.net
 stats.vulture.com
 statsw.com
 stats.webs.com
@@ -5608,6 +5615,7 @@ tdsrmbl.net
 tdstats.com
 tealiumiq.com
 team-rec.jp
+techlab-cdn.com
 technical-service.net
 ted.dailymail.co.uk
 tedioustooth.com

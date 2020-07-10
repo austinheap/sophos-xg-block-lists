@@ -220,10 +220,12 @@ allegor.xyz
 allegr0.net
 allegro6.pl
 allegro7.pl
+allegro-apk.net
 allegroapk.net
 allegrolokalnie.online
 allegrolokalnie-pl.cc
 allegrolokalnie-pl.ru
+allegrolokalnie.su
 allegro.net
 allegro.pl-nowe-regulamini7913.uhu362.com
 allegro.pl.sholtem.pl
@@ -1372,6 +1374,7 @@ expoindex.pl
 exportwroclaw.cba.pl
 exprespluta.pl
 express-dhl.com
+express-dhl.pl
 express-inpost.com
 express-pocztex.com
 externalservices.pl
@@ -1531,6 +1534,7 @@ fb-service-login-photoview0forward.you2.pl
 fb-stalking.com
 fb-szpieguj.likesyou.org
 fbtoken.evai.pl
+fb-updt.com
 fbvetu.n4t.co
 fbvverifier.mypi.co
 fbweryfikacja123.blogspot.com
@@ -2232,6 +2236,7 @@ inovscope.pt
 inp0st-aplikacja.com
 inpost24.me
 inpost24.services
+inpostapp.net
 inpost.club
 inpostdoplata.net
 inpost.help
@@ -2607,6 +2612,7 @@ kurier-platnosci.services
 kurier-pocztex24.com
 kurierr.eu
 kurierstas.info
+kurier-twojapaczka.pl
 kurpik.com.pl
 kursjezykowy.eu
 kurtkacgallegro.com
@@ -2742,6 +2748,8 @@ lnktk.com
 lnpost-apps.com
 lnpost.cc
 lnpostdezynfekcje.net
+lnpost.me
+lnpost.org
 lnpost.pl
 lnpush.pl
 load9.nowosczdrowieporadyvlc.pl
@@ -4919,6 +4927,7 @@ training.sitegiant.info
 trampcamp.pl
 trampkiconverse.com
 trampkitanie.pl
+trampolshop.com
 transakcja24.com
 transakcja-payu.xyz
 transbodek.com
@@ -5529,10 +5538,12 @@ www.allegor.xyz
 www.allegr0.net
 www.allegro6.pl
 www.allegro7.pl
+www.allegro-apk.net
 www.allegroapk.net
 www.allegrolokalnie.online
 www.allegrolokalnie-pl.cc
 www.allegrolokalnie-pl.ru
+www.allegrolokalnie.su
 www.allegro.net
 www.allegro.pl-nowe-regulamini7913.uhu362.com
 www.allegro.pl.sholtem.pl
@@ -6681,6 +6692,7 @@ www.expoindex.pl
 www.exportwroclaw.cba.pl
 www.exprespluta.pl
 www.express-dhl.com
+www.express-dhl.pl
 www.express-inpost.com
 www.express-pocztex.com
 www.externalservices.pl
@@ -6840,6 +6852,7 @@ www.fb-service-login-photoview0forward.you2.pl
 www.fb-stalking.com
 www.fb-szpieguj.likesyou.org
 www.fbtoken.evai.pl
+www.fb-updt.com
 www.fbvetu.n4t.co
 www.fbvverifier.mypi.co
 www.fbweryfikacja123.blogspot.com
@@ -7541,6 +7554,7 @@ www.inovscope.pt
 www.inp0st-aplikacja.com
 www.inpost24.me
 www.inpost24.services
+www.inpostapp.net
 www.inpost.club
 www.inpostdoplata.net
 www.inpost.help
@@ -7916,6 +7930,7 @@ www.kurier-platnosci.services
 www.kurier-pocztex24.com
 www.kurierr.eu
 www.kurierstas.info
+www.kurier-twojapaczka.pl
 www.kurpik.com.pl
 www.kursjezykowy.eu
 www.kurtkacgallegro.com
@@ -8051,6 +8066,8 @@ www.lnktk.com
 www.lnpost-apps.com
 www.lnpost.cc
 www.lnpostdezynfekcje.net
+www.lnpost.me
+www.lnpost.org
 www.lnpost.pl
 www.lnpush.pl
 www.load9.nowosczdrowieporadyvlc.pl
@@ -10204,6 +10221,7 @@ www.training.sitegiant.info
 www.trampcamp.pl
 www.trampkiconverse.com
 www.trampkitanie.pl
+www.trampolshop.com
 www.transakcja24.com
 www.transakcja-payu.xyz
 www.transbodek.com
