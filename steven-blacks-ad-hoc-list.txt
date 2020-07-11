@@ -102,6 +102,7 @@ ad.apsalar.com
 adaptivecss.org
 ad.click.kaffnet.com
 ad-dev.globalnoticias.pt
+ad.dnoticias.pt
 adf.ero-advertising.com
 adfpaces.ero-advertising.com
 adn.insight.ucweb.com
@@ -141,6 +142,7 @@ adtekmedia.com
 adtracker.mkjigsaw.com
 adv.axiatraders.com
 advertising-cdn.dpgmedia.cloud
+advert.puzzles.mkjigsaw.com
 adv.grandonmedia.com
 adv.sec.intl.miui.com
 adw.ero-advertising.com
@@ -479,6 +481,7 @@ d3dkhq0wwdwodv.cloudfront.net
 da032opzasz.appspot.com
 daaa.ero-advertising.com
 dabmaster.wm01.to
+dadsats.com
 daea.ero-advertising.com
 dahlie.org
 daia.ero-advertising.com
@@ -2677,6 +2680,7 @@ www.zeus.ad.xiaomi.com
 www.zww.ero-advertising.com
 wy.adyboh.com
 wzrkt.com
+xad.dnoticias.pt
 xasf32easzx.appspot.com
 xda-developers.us
 xizr.inteleksys.com

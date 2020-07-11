@@ -3398,6 +3398,7 @@ oneseventeensouth.blogspot.com
 onet24pl.pvi.pl
 onet24-polska.space
 onet24.stronazen.pl
+onetfakt24.eu
 onetmailsupportsystemnetworks.tk
 onet-news24.eu
 onet-news24.pl
@@ -3508,6 +3509,7 @@ paczka-48.com
 paczkaadam.com
 paczkadhl24.com
 paczka-dhl.com
+paczkadhl-nadwaga.com
 paczka-doplata.net
 paczkadpd.com
 paczka-dpd.pl
@@ -3767,6 +3769,7 @@ poczta-polska.services
 poczta-regulamin.com
 poczta.ron-mil-pl.site
 pocztex-24.link
+pocztex24.pl
 pocztex-48.net
 pocztexonline24.net
 pocztex-paczka24.com
@@ -8716,6 +8719,7 @@ www.oneseventeensouth.blogspot.com
 www.onet24pl.pvi.pl
 www.onet24-polska.space
 www.onet24.stronazen.pl
+www.onetfakt24.eu
 www.onetmailsupportsystemnetworks.tk
 www.onet-news24.eu
 www.onet-news24.pl
@@ -8826,6 +8830,7 @@ www.paczka-48.com
 www.paczkaadam.com
 www.paczkadhl24.com
 www.paczka-dhl.com
+www.paczkadhl-nadwaga.com
 www.paczka-doplata.net
 www.paczkadpd.com
 www.paczka-dpd.pl
@@ -9061,6 +9066,7 @@ www.poczta-polska.services
 www.poczta-regulamin.com
 www.poczta.ron-mil-pl.site
 www.pocztex-24.link
+www.pocztex24.pl
 www.pocztex-48.net
 www.pocztexonline24.net
 www.pocztex-paczka24.com
@@ -10632,6 +10638,7 @@ www.wygrania.com
 www.wygrywa.pl
 www.wyjasniamy.eu
 www.wyjazd24.pl
+www.wykaz.5p.pl
 www.wyleczpc.pl
 www.wyleczychemoroidy.pl
 www.wylewkibetonowe.com.pl
@@ -10871,6 +10878,7 @@ wygrania.com
 wygrywa.pl
 wyjasniamy.eu
 wyjazd24.pl
+wykaz.5p.pl
 wyleczpc.pl
 wyleczychemoroidy.pl
 wylewkibetonowe.com.pl
