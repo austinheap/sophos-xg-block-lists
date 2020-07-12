@@ -222,6 +222,7 @@ allegro6.pl
 allegro7.pl
 allegro-apk.net
 allegroapk.net
+allegrolokalne.ru
 allegrolokalnie.online
 allegrolokalnie-pl.cc
 allegrolokalnie-pl.ru
@@ -309,6 +310,7 @@ apekola.tcp4.me
 api.myeforsa.pl
 aplikacjaemuia.pl
 aplikacja-lnpost.com
+aplikacjeplay.com
 aplsolutionsonline.com
 app2.mackeeperaffiliates.com
 appandroider.com
@@ -495,6 +497,7 @@ bifrost.pl
 bigbangads.go2cloud.org
 bigdater.me
 bigprize-place.info
+bigsklep.com
 bikelovers.blog.br
 biletka.pl
 binomo.com
@@ -1151,6 +1154,7 @@ dubaikidcare.com
 dulawa.pl
 dultrasolutions.duckdns.org
 duramo.pl
+duzysklep.com
 dvzwh.voluumtrk.com
 dw.lp.eu.emobi-sys.com
 dwnlad.ws
@@ -5220,6 +5224,7 @@ wellyss.pl
 welte.pl
 weryfikacjadanych.ml
 weryfikacjadanych.tk
+weryfikacja-kosmetyczki.biz
 weryfikacja-weryfikacja.pl
 weselebukowa.pl
 wesolywagonik.pl
@@ -5548,6 +5553,7 @@ www.allegro6.pl
 www.allegro7.pl
 www.allegro-apk.net
 www.allegroapk.net
+www.allegrolokalne.ru
 www.allegrolokalnie.online
 www.allegrolokalnie-pl.cc
 www.allegrolokalnie-pl.ru
@@ -5635,6 +5641,7 @@ www.apekola.tcp4.me
 www.api.myeforsa.pl
 www.aplikacjaemuia.pl
 www.aplikacja-lnpost.com
+www.aplikacjeplay.com
 www.aplsolutionsonline.com
 www.app2.mackeeperaffiliates.com
 www.appandroider.com
@@ -5821,6 +5828,7 @@ www.bifrost.pl
 www.bigbangads.go2cloud.org
 www.bigdater.me
 www.bigprize-place.info
+www.bigsklep.com
 www.bikelovers.blog.br
 www.biletka.pl
 www.binomo.com
@@ -6477,6 +6485,7 @@ www.dubaikidcare.com
 www.dulawa.pl
 www.dultrasolutions.duckdns.org
 www.duramo.pl
+www.duzysklep.com
 www.dvzwh.voluumtrk.com
 www.dw.lp.eu.emobi-sys.com
 www.dwnlad.ws
@@ -10522,6 +10531,7 @@ www.wellyss.pl
 www.welte.pl
 www.weryfikacjadanych.ml
 www.weryfikacjadanych.tk
+www.weryfikacja-kosmetyczki.biz
 www.weryfikacja-weryfikacja.pl
 www.weselebukowa.pl
 www.wesolywagonik.pl
