@@ -398,6 +398,7 @@ cdn.moengage.com
 cdn.mxpnl.com
 cdn-settings.segment.com
 cdn.tsyndicate.com
+cdn.usefathom.com
 ceromobi.club
 chanekee.ga
 change-password.ml
