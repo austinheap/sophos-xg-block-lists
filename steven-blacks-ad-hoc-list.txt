@@ -140,6 +140,7 @@ adsspaces.ero-advertising.com
 adstaces.ero-advertising.com
 adtekmedia.com
 adtracker.mkjigsaw.com
+adtrack.voicestar.com
 adv.axiatraders.com
 advertising-cdn.dpgmedia.cloud
 advert.puzzles.mkjigsaw.com
@@ -162,6 +163,7 @@ aircovid19virus.com
 airjaldinet.ml
 akashdayalgroups.com
 akibaol.com
+akr.usesfathom.com
 alexandr01299.xyz
 alibaba.zzux.com
 alidnx.com
@@ -252,6 +254,7 @@ app.storage.yunvm.com
 ap-sonar.sociomantic.com
 ar500arnor.com
 arcartall.club
+archsmarter.usesfathom.com
 aresboot.xyz
 arjoflor.com
 arjoflos.com
@@ -355,6 +358,7 @@ bucket.rtk.io
 bunnyland.cc
 bur.vueleslie.com
 busyserviceinc.com
+butshesagirl.usesfathom.com
 buzzclicks.com
 bwlkup.alphonso.tv
 byfleur.myftp.org
@@ -363,6 +367,7 @@ b.zabbixx.com
 c2i-cdn.startappnetwork.com
 cachecdn.moegoo.com
 c.adskeeper.co.uk
+calltracking.fathomseo.com
 camsoda.com
 camteens.to
 candygirls.cc
@@ -438,6 +443,7 @@ cmytuok.top
 cnnmedia.servepics.com
 coffemokko.com
 coffetea.org
+collect.usefathom.com
 com-auth.site
 com-enter.site
 comericac.com
@@ -479,6 +485,7 @@ cyhners.ero-advertising.com
 cylenceprotect.com
 d01fa.net
 d3dkhq0wwdwodv.cloudfront.net
+d3lvir7538n0oi.cloudfront.net
 da032opzasz.appspot.com
 daaa.ero-advertising.com
 dabmaster.wm01.to
@@ -766,6 +773,7 @@ gainblox.com
 gamblerush.com
 garant-help.com
 gata.ero-advertising.com
+gateguardian.usesfathom.com
 gbgbr.cn
 gbrgbsitenews.ml
 gbrserv.ru
@@ -918,6 +926,7 @@ ikjyhdservpbn.com
 ikjyhdservpbnjfn.nl
 imbc.onthewifi.com
 imeds.ero-advertising.com
+img3.usefathom.com
 imprhkmp.taboola.com
 imprlatbmp.taboola.com
 imp.startappservice.com
@@ -1035,7 +1044,9 @@ jppost.jp-bankq.com
 js34dc10.gamooga.com
 js.ads.ero-advertising.com
 js-cloud.com
+jsfiddle.usesfathom.com
 jthnx5wyvjvzsxtu.onion.pet
+justin.usesfathom.com
 k5market.com
 k87yfgsdaa.appspot.com
 kandypens.net
@@ -1547,6 +1558,7 @@ ottocap.org
 ovc2-ustokyyneikyfasnm.stackpathdns.com
 pagepeel.ero-advertising.com
 pakistanelevators.pk
+paleoleap.usesfathom.com
 parentelement.tk
 parks.su
 parnerimcarpich.com
@@ -1599,6 +1611,7 @@ peacelist.ignorelist.com
 pecdbnfjriwjdfyhd.ml
 pecdbnjfnpowerpower.tk
 perf.mmstat.com
+perroverde.usesfathom.com
 pervas.top
 petitelady.top
 pf4y2a54hx.com
@@ -2002,6 +2015,7 @@ stats.data2.ero-advertising.com
 stats.ero-advertising.com
 stats.jpush.cn
 stats.speedclicks.ero-advertising.com
+stats.usesfathom.com
 status.search-sslkey-flush.com
 status.verifyingbycf.com
 stealthedeal.com
@@ -2205,6 +2219,7 @@ wf.taboola.com
 whia7g.acquafufheirybveru.online
 wiki.adspaces.ero-advertising.com
 wiki.ero-advertising.com
+wildcard.directtrack.com.wipext.digitalriverws.com
 windefenceinfo.com
 windefens.com
 windowsphishingalert158.s3.amazonaws.com

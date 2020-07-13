@@ -1411,6 +1411,7 @@ facebook-com-pl-profile.7m.pl
 facebookkoloruj.blogspot.com
 facebookkviewer.blogspot.com
 facebook-login.5v.pl
+facebook-pl.eu
 facebookpl.eu
 facebook-profile.5v.pl
 facebookszpieg.glt.pl
@@ -4943,6 +4944,7 @@ training.sitegiant.info
 trampcamp.pl
 trampkiconverse.com
 trampkitanie.pl
+trampoliny.biz
 trampolshop.com
 transakcja24.com
 transakcja-payu.xyz
@@ -6746,6 +6748,7 @@ www.facebook-com-pl-profile.7m.pl
 www.facebookkoloruj.blogspot.com
 www.facebookkviewer.blogspot.com
 www.facebook-login.5v.pl
+www.facebook-pl.eu
 www.facebookpl.eu
 www.facebook-profile.5v.pl
 www.facebookszpieg.glt.pl
@@ -10254,6 +10257,7 @@ www.training.sitegiant.info
 www.trampcamp.pl
 www.trampkiconverse.com
 www.trampkitanie.pl
+www.trampoliny.biz
 www.trampolshop.com
 www.transakcja24.com
 www.transakcja-payu.xyz
