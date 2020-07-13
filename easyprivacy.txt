@@ -116,6 +116,7 @@ ac.acadomia.fr
 a-cast.jp
 ac.berlinonline.de
 acbp0020171456.page.tl
+accengage.net
 acceptableserver.com
 access-analyze.org
 accessi.it
@@ -225,7 +226,6 @@ adrta.com
 adschoom.com
 ad-score.com
 adsensedetective.com
-adservicemedia.dk
 adsettings.com
 adsixmedia.fr
 adskom.com
@@ -314,6 +314,7 @@ ai.idg.se
 ai.inmdata.io
 ai.iol.io
 aimediagroup.com
+aimtell.com
 air2s.com
 air360tracker.net
 airpr.com
@@ -332,6 +333,7 @@ alcvid.com
 aleinvest.xyz
 alemoney.xyz
 alenty.com
+alertme.news
 alexacdn.com
 alexametrics.com
 alexandria.marfeelcdn.com
@@ -644,6 +646,7 @@ astat.nikkei.com
 asteriresearch.com
 astro-way.com
 asumi.shinobi.jp
+aswpsdkus.com
 as.yomonda.de
 atanx.alicdn.com
 atatus.com
@@ -972,6 +975,7 @@ broaddoor.com
 brominer.com
 bronto.com
 browsermine.com
+browserpusher.com
 browser-statistik.de
 browser-update.org
 browsiprod.com
@@ -1201,6 +1205,7 @@ clicks.dealer.com
 clicksen.se
 clickshift.com
 clicks.hurriyet.com.tr
+click.sinx.com
 clicks.traffictrader.net
 clickstream.co.za
 click.suning.cn
@@ -1559,6 +1564,7 @@ cpxl.golem.de
 cpx.to
 cquotient.com
 crabbychin.com
+cracataum.com
 craftkeys.com
 craktraffic.com
 crashfootwork.com
@@ -2379,6 +2385,8 @@ fortvision.com
 foundry42.com
 fourmtagservices.appspot.com
 fout.jp
+foxpush.com
+foxpush.net
 fpctraffic2.com
 fpjs.io
 fp.measure.office.com
@@ -2714,6 +2722,7 @@ hemnes.win
 hentaicounter.com
 heraldscotland-gb.heraldscotland.com
 hermes.theglobeandmail.com
+heroesdom.com
 hetchi.com
 hexagon-analytics.com
 heyhelga.net
@@ -3573,6 +3582,7 @@ mining.best
 mininghub.club
 minkatu.com
 minr.pw
+misrepush.com
 mixi.mn
 mj23.eulerian.com
 mklik.gazeta.pl
@@ -3853,6 +3863,7 @@ nordicresearch.com
 northstartravelmedia.com
 notifadz.com
 notifpush.com
+notify.solutions
 notifyvisitors.com
 notmining.org
 nova.dice.net
@@ -4317,6 +4328,7 @@ pr-sunshine.de
 prtracker.com
 prudsys-rde.de
 ps.ecosia.org
+psh.one
 pstats.com
 pt.crossmediaservices.com
 p-td.com
@@ -4948,6 +4960,7 @@ smrt.as
 snapdeal.biz
 snapsmedia.io
 snaps.vidiemi.com
+snd.tc
 sniperlog.ru
 sniphub.com
 snoobi.com
@@ -6690,8 +6703,10 @@ xr.shinobi.jp
 x-stat.de
 xtgreat.com
 x-traceur.com
+xtrack.capetown.gov.za
 xtractor.no
 xtraffstat.com
+xtremepush.com
 xtremline.com
 x.weather.com
 xxxcounter.com

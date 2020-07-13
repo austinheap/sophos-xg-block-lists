@@ -287,6 +287,7 @@ aniventure.co.uk
 ankiety-konsumenckie.pl
 annapiaseczno.pl
 annartestudio.pl
+annitakurier.org
 antabuy.com
 antidotum-terapia.pl
 antkurier.com
@@ -429,6 +430,7 @@ barwin4.com
 baseflix.pl
 basen.biz
 baseny.club
+baseny.in
 basiekurier.org
 basnogorach.pl
 batmantakhebat.blogspot.com
@@ -1177,6 +1179,7 @@ dzieciznatura.pl
 dziendobry.org.pl
 dziennewiadomosci24.pl
 dziennik24.x9.eu
+dziennikgminny.098.pl
 dziennik-info.x9.eu
 dziennik-miasto24.x9.eu
 dzienniknews.com.pl
@@ -1700,6 +1703,7 @@ forwardmoniterreq.icu
 foryourhorse.pl
 fotaonline.24.eu
 fotki-kliknij.eu
+fotkinapiec.pl
 fotobraj.pl
 fotobudkahihotka.pl
 fotofilmsluby.pl
@@ -4350,6 +4354,7 @@ serialowo.pl
 serial.vod.co.pl
 server062295.nazwa.pl
 server163777.nazwa.pl
+server255241.nazwa.pl
 server292369.nazwa.pl
 server364714.nazwa.pl
 server720699.nazwa.pl
@@ -4972,6 +4977,7 @@ trychologos.pl
 trzywolnemysli.pl
 tudonumsonho.blogspot.com
 tuesyuioodpps.xyz
+tujestpolska.icu
 tukociel.pl
 tunehub247shop.com
 tunele-rozsaczajace.pl
@@ -5624,6 +5630,7 @@ www.aniventure.co.uk
 www.ankiety-konsumenckie.pl
 www.annapiaseczno.pl
 www.annartestudio.pl
+www.annitakurier.org
 www.antabuy.com
 www.antidotum-terapia.pl
 www.antkurier.com
@@ -5766,6 +5773,7 @@ www.barwin4.com
 www.baseflix.pl
 www.basen.biz
 www.baseny.club
+www.baseny.in
 www.basiekurier.org
 www.basnogorach.pl
 www.batmantakhebat.blogspot.com
@@ -6514,6 +6522,7 @@ www.dzieciznatura.pl
 www.dziendobry.org.pl
 www.dziennewiadomosci24.pl
 www.dziennik24.x9.eu
+www.dziennikgminny.098.pl
 www.dziennik-info.x9.eu
 www.dziennik-miasto24.x9.eu
 www.dzienniknews.com.pl
@@ -7037,6 +7046,7 @@ www.forwardmoniterreq.icu
 www.foryourhorse.pl
 www.fotaonline.24.eu
 www.fotki-kliknij.eu
+www.fotkinapiec.pl
 www.fotobraj.pl
 www.fotobudkahihotka.pl
 www.fotofilmsluby.pl
@@ -9663,6 +9673,7 @@ www.serialowo.pl
 www.serial.vod.co.pl
 www.server062295.nazwa.pl
 www.server163777.nazwa.pl
+www.server255241.nazwa.pl
 www.server292369.nazwa.pl
 www.server364714.nazwa.pl
 www.server720699.nazwa.pl
@@ -10285,6 +10296,7 @@ www.trychologos.pl
 www.trzywolnemysli.pl
 www.tudonumsonho.blogspot.com
 www.tuesyuioodpps.xyz
+www.tujestpolska.icu
 www.tukociel.pl
 www.tunehub247shop.com
 www.tunele-rozsaczajace.pl
@@ -10671,6 +10683,7 @@ www.wygrywa.pl
 www.wyjasniamy.eu
 www.wyjazd24.pl
 www.wykaz.5p.pl
+www.wylaczone.5p.pl
 www.wyleczpc.pl
 www.wyleczychemoroidy.pl
 www.wylewkibetonowe.com.pl
@@ -10912,6 +10925,7 @@ wygrywa.pl
 wyjasniamy.eu
 wyjazd24.pl
 wykaz.5p.pl
+wylaczone.5p.pl
 wyleczpc.pl
 wyleczychemoroidy.pl
 wylewkibetonowe.com.pl
