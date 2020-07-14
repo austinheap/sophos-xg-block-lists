@@ -1703,6 +1703,8 @@ forwardmoniterreq.icu
 foryourhorse.pl
 fotaonline.24.eu
 fotki-kliknij.eu
+fotkinapiec.com.pl
+fotkinapiec.net.pl
 fotkinapiec.pl
 fotobraj.pl
 fotobudkahihotka.pl
@@ -3927,6 +3929,7 @@ pp21-pszczyna.pl
 pphumarex.pl
 ppl-puls.gloryft.com
 ppuhmarko.com.pl
+praca-dla-ciebie.co.pl
 pracaonline.co.pl
 pracowniaarte.pl
 pracowniaciala.pl
@@ -7047,6 +7050,8 @@ www.forwardmoniterreq.icu
 www.foryourhorse.pl
 www.fotaonline.24.eu
 www.fotki-kliknij.eu
+www.fotkinapiec.com.pl
+www.fotkinapiec.net.pl
 www.fotkinapiec.pl
 www.fotobraj.pl
 www.fotobudkahihotka.pl
@@ -9247,6 +9252,7 @@ www.pp21-pszczyna.pl
 www.pphumarex.pl
 www.ppl-puls.gloryft.com
 www.ppuhmarko.com.pl
+www.praca-dla-ciebie.co.pl
 www.pracaonline.co.pl
 www.pracowniaarte.pl
 www.pracowniaciala.pl

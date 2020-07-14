@@ -1036,6 +1036,7 @@ call-tracking.co.uk
 calltrackingmetrics.com
 calltracks.com
 calltrk.com
+calmcactus.com
 calotag.com
 campaigncog.com
 ca-mpr.jp
@@ -1647,6 +1648,7 @@ czx5eyk0exbhwp43ya.biz
 d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
+d15kdpgjg3unno.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d16xpr36wrmcmk.cloudfront.net
@@ -2486,6 +2488,7 @@ g.bit.pt
 gbotvisit.com
 gc.newsweek.com
 gcpdata.telegraph.co.uk
+gc.zgo.at
 g.delivery.net
 gdeslon.ru
 gdm1.toner.fr
@@ -2604,6 +2607,7 @@ gnezdo.ru
 gnpge.com
 go2link.net
 goadservices.com
+goatcounter.com
 gocp.stroeermediabrands.de
 godhat.com
 goingup.com
@@ -2815,6 +2819,7 @@ hsadspixel.net
 hs-analytics.net
 hsdn.org
 hstrck.com
+htlbid.com
 hub.com.pl
 hubpd.com
 hubrus.com
@@ -3067,6 +3072,7 @@ janrain.xyz
 javascriptcounter.appspot.com
 jcm.jd.com
 jdoqocy.com
+jeeng.com
 jelly.mdhv.io
 jiankongbao.com
 jirafe.com
@@ -3334,7 +3340,6 @@ log.outbrainimg.com
 log.pinterest.com
 log.prezi.com
 logql.yahoo.co.jp
-log.quora.com
 log.ren.tv
 logrocket.com
 logrocket.io
@@ -4197,6 +4202,7 @@ pixel.reddit.com
 pixelrevenue.com
 pixel.roymorgan.com
 pixel.s3xified.com
+pixels.boxberry.ru
 pixels.livingsocial.com
 pixel.solvemedia.com
 pixel.spotify.com
@@ -4250,6 +4256,7 @@ pocitadlo.sk
 pointillist.com
 pointomatic.com
 polarcdn-pentos.com
+polarcdn-terrax.com
 polymorphicads.jp
 poolmining.eu
 poolmining.net
