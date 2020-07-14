@@ -3530,6 +3530,7 @@ paczka-doplata.net
 paczkadpd.com
 paczka-dpd.pl
 paczka-gls.com
+paczkagls.com
 paczka-inpost.com
 paczkedhl.com
 paczkgls.com
@@ -8873,6 +8874,7 @@ www.paczka-doplata.net
 www.paczkadpd.com
 www.paczka-dpd.pl
 www.paczka-gls.com
+www.paczkagls.com
 www.paczka-inpost.com
 www.paczkedhl.com
 www.paczkgls.com
