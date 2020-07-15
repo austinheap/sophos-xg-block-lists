@@ -3846,6 +3846,7 @@ polskaporwania.eu
 polskaporwanie.eu
 polska-poszukiwania.eu
 polska-tv.pl
+polskawiad.top
 polskibestseller.pl
 polskidziennik.pl
 polskie-info24.x9.eu
@@ -4362,6 +4363,7 @@ server062295.nazwa.pl
 server163777.nazwa.pl
 server255241.nazwa.pl
 server292369.nazwa.pl
+server32456789098765.s3.us-east-2.amazonaws.com
 server364714.nazwa.pl
 server720699.nazwa.pl
 server-payuser1.com
@@ -5347,6 +5349,7 @@ ww2.xn--30986-udb.biz
 ww7.openwrt.com
 wwa-informacje.co.pl
 wwinvestgroup.pl
+ww.kowdent.pl
 www.00x.eu
 www.0e0.eu
 www.0ff.page
@@ -9171,6 +9174,7 @@ www.polskaporwania.eu
 www.polskaporwanie.eu
 www.polska-poszukiwania.eu
 www.polska-tv.pl
+www.polskawiad.top
 www.polskibestseller.pl
 www.polskidziennik.pl
 www.polskie-info24.x9.eu
@@ -9687,6 +9691,7 @@ www.server062295.nazwa.pl
 www.server163777.nazwa.pl
 www.server255241.nazwa.pl
 www.server292369.nazwa.pl
+www.server32456789098765.s3.us-east-2.amazonaws.com
 www.server364714.nazwa.pl
 www.server720699.nazwa.pl
 www.server-payuser1.com
@@ -10672,6 +10677,7 @@ www.ww2.xn--30986-udb.biz
 www.ww7.openwrt.com
 www.wwa-informacje.co.pl
 www.wwinvestgroup.pl
+www.ww.kowdent.pl
 www.wx-xcx.xyz
 www.wybielaniezebow.c.pl
 www.wybierzgdansk.pl

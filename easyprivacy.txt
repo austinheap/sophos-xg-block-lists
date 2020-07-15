@@ -546,6 +546,7 @@ analytics.tout.com
 analytics.tradedoubler.com
 analytics.traderlink.com
 analytics.tribeca.vidavee.com
+analytics.unibuddy.co
 analytics.upworthy.com
 analytics.urx.io
 analytics.us.archive.org
@@ -3010,6 +3011,7 @@ ipapi.tmbi.com
 ip.breitbart.com
 ipcatch.com
 ipcount.net
+ipdata.co
 iper2.com
 iperceptions.com
 ipfingerprint.com
@@ -4568,7 +4570,6 @@ research-artisan.com
 research.de.com
 researchintel.com
 research-int.se
-researchnow.co.uk
 research-tool.com
 reseau-pub.com
 reshin.de
@@ -4647,7 +4648,6 @@ roiservice.com
 roispy.com
 roitesting.com
 rok.com.com
-roll.bankofamerica.com
 rollingcounters.com
 roofrelation.com
 roosterfirework.com
