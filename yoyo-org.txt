@@ -501,6 +501,7 @@ adserver.com
 adserver.diariodosertao.com.br
 adserver.digitoday.com
 adserver.echdk.pl
+adserver.ekokatu.com
 adserver.freecity.de
 adserver.friendfinder.com
 ad-server.gulasidorna.se

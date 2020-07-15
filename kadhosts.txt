@@ -1918,6 +1918,7 @@ gllik.pl
 globalintergold.com
 globalkompleks.pl
 glob-tech.com.pl
+gloosuj-pomagaj.eu
 gloriakurier.org
 glosowanie-kliknij.eu
 glosowanie-kliknij.zaglosuj-teraz.eu
@@ -3416,6 +3417,7 @@ oneseventeensouth.blogspot.com
 onet24pl.pvi.pl
 onet24-polska.space
 onet24.stronazen.pl
+onet-fakt24.eu
 onetfakt24.eu
 onetmailsupportsystemnetworks.tk
 onet-news24.eu
@@ -7265,6 +7267,7 @@ www.gllik.pl
 www.globalintergold.com
 www.globalkompleks.pl
 www.glob-tech.com.pl
+www.gloosuj-pomagaj.eu
 www.gloriakurier.org
 www.glosowanie-kliknij.eu
 www.glosowanie-kliknij.zaglosuj-teraz.eu
@@ -8763,6 +8766,7 @@ www.oneseventeensouth.blogspot.com
 www.onet24pl.pvi.pl
 www.onet24-polska.space
 www.onet24.stronazen.pl
+www.onet-fakt24.eu
 www.onetfakt24.eu
 www.onetmailsupportsystemnetworks.tk
 www.onet-news24.eu
