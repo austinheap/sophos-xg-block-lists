@@ -9973,7 +9973,6 @@ southwest-airlines-mkt-prod1-lb.campaign.adobe.com
 southwestairlines.sc.omtrdc.net
 southwestairlines.tt.omtrdc.net
 sozcu.pushwoosh.com
-sp0.baidu.com
 sp1.baidu.com
 sp.analytics.yahoo.com
 spanishdict-d.openx.net

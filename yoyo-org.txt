@@ -784,7 +784,6 @@ adstage.io
 ads.tahono.com
 adstanding.com
 adstat.4u.pl
-ads.techtv.com
 adstest.weather.com
 ads.themovienation.com
 ads.thestar.com
@@ -1757,6 +1756,7 @@ fimserve.com
 findcommerce.com
 findepended.com
 findyourcasino.com
+fingahvf.top
 firstlightera.com
 first.nova.cz
 fixel.ai
@@ -1935,7 +1935,7 @@ hs-analytics.net
 hs-banner.com
 htlbid.com
 httpool.com
-hud8mxdt.computerhelpmirror.top
+hubadnetwork.com
 hueads.com
 hueadsortb.com
 hueadsxml.com
@@ -2447,6 +2447,7 @@ onclasrv.com
 onclickads.net
 oneandonlynetwork.com
 onenetworkdirect.com
+onestat.com
 onestatfree.com
 onlinecash.com
 onlinecashmethod.com
@@ -2764,6 +2765,7 @@ rhythmone.com
 richmails.com
 richmedia.yimg.com
 richstring.com
+richwebmaster.com
 rightstats.com
 rinconpx.net
 ringsrecord.com
@@ -3075,6 +3077,7 @@ tappx.com
 targad.de
 targetingnow.com
 targeting.nzme.arcpublishing.com
+targetnet.com
 targetpoint.com
 tastefulsongs.com
 tatsumi-sys.jp
@@ -3466,7 +3469,6 @@ ypu.samsungelectronics.com
 z3dmbpl6309s.com
 z501lpfg9x8v.com
 z5x.net
-zangocash.com
 zanox-affiliate.de
 zanox.com
 zantracker.com

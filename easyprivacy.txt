@@ -1733,6 +1733,7 @@ dailycaller-alerts.com
 damdoor.com
 dampdock.com
 da.netease.com
+danorenius.com
 dapperdiscussion.com
 dapxl.com
 daq0d0aotgq0f.cloudfront.net
@@ -2051,6 +2052,7 @@ edge.sqweb.com
 edigitalsurvey.com
 edmi.nextinpact.com
 edococounter.de
+edrone.me
 edt02.net
 edtp.de
 edw.edmunds.com
@@ -2341,6 +2343,7 @@ finalid.com
 finderlocator.com
 find-ip-address.org
 firebaselogging.googleapis.com
+firstfrogs.com
 fishhoo.com
 fitanalytics.com
 fixcounter.com
@@ -2390,6 +2393,7 @@ fourmtagservices.appspot.com
 fout.jp
 foxpush.com
 foxpush.net
+fpa-events.arstechnica.com
 fpctraffic2.com
 fpjs.io
 fp.measure.office.com
@@ -2515,7 +2519,6 @@ geo.homepage-web.com
 geoip.al.com
 geoip.boredpanda.com
 geoip.cleveland.com
-geoip-db.com
 geoip.gulflive.com
 geoip.hmageo.com
 geoip.ifunny.co
@@ -2551,6 +2554,7 @@ geo.xcel.io
 geo.yahoo.com
 getaim.info
 getambassador.com
+getback.ch
 getbackstory.com
 getblueshift.com
 getclicky.com
@@ -3767,6 +3771,7 @@ naayna.com
 nabaza.com
 nablabee.com
 naj.sk
+najva.com
 nakanohito.jp
 nalook.com
 nametraff.com
@@ -5920,6 +5925,7 @@ tracking.3ds.com
 tracking.adalyser.com
 tracking.adweb.co.kr
 tracking.aegpresents.com
+tracking.aita.gov.vn
 tracking.ancestry.com
 trackingapi.cloudapp.net
 tracking.badgeville.com
