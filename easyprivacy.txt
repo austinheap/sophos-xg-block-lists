@@ -410,6 +410,7 @@ analytics.bhaskar.com
 analytics.bigcommerce.com
 analytics.bloomberg.com
 analytics.blue
+analytics.bolavip.com
 analytics.brandcrumb.com
 analytics.brave.com
 analytics.carambatv.ru
@@ -1863,6 +1864,7 @@ directrdr.com
 dirt.dennis.co.uk
 discover-path.com
 discovertrail.net
+discreetfield.com
 displaymarketplace.com
 display.studio
 distillery.wistia.com
@@ -2408,6 +2410,7 @@ freecountercode.com
 free-counter.com
 free-counter.co.uk
 freecounter.it
+freecounter.ovh
 free-counters.co.uk
 free-counters.net
 freecounterstat.com
@@ -2823,6 +2826,7 @@ hrum.hotelsapi.io
 hsadspixel.net
 hs-analytics.net
 hsdn.org
+hspbotdetection.azurewebsites.net
 hstrck.com
 htlbid.com
 hub.com.pl
@@ -2908,6 +2912,7 @@ importedincrease.com
 importedinsect.com
 imp.pvnsolutions.com
 impress.vcita.com
+impulsejewel.com
 imrk.net
 imrtrack.com
 imx.comedycentral.com
@@ -3369,6 +3374,7 @@ log.suumo.jp
 logs.vmixcore.com
 log.sv.pandora.tv
 log.tagtic.cn
+log.ttbc-hcm.gov.vn
 logua.com
 log.wat.tv
 log.webnovel.com
@@ -3391,6 +3397,7 @@ lorenzourban.com
 losecounter.de
 losstrack.com
 loudlunch.com
+lovelydrum.com
 lowlocket.com
 loxodo-analytics.ext.nile.works
 lp4.io
@@ -4226,6 +4233,7 @@ pixel.xmladfeed.com
 pixel.yabidos.com
 pixel.yola.com
 pixel.zumby.io
+pixfuture.com
 pix.gfycat.com
 pixiedust.buzzfeed.com
 piximedia.com
@@ -4769,6 +4777,7 @@ scout.haymarketmedia.com
 scout.lexisnexis.com
 scout.rollcall.com
 scribe.twitter.com
+scribe.wongnai.com
 scrippscontroller.com
 script.ag
 scriptil.com
@@ -4789,6 +4798,7 @@ sea-nov-1.com
 searchfeed.com
 searchignite.com
 searchplow.com
+seatsmoke.com
 secretturtle.com
 secureanalytic.com
 secure.ifbyphone.com
@@ -4903,6 +4913,7 @@ simplereach.com
 simpli.fi
 simplycast.us
 simplymeasured.com
+sinceresubstance.com
 s.infogram.com
 singlefeed.com
 site24x7rum.com
@@ -4967,6 +4978,7 @@ smct.co
 smetrics.att.com
 smetrics.delta.com
 smileyhost.net
+smoggystation.com
 smrk.io
 smrt.as
 snapdeal.biz
@@ -5684,6 +5696,7 @@ tgdaudience.com
 tget.me
 tgknt.com
 tglyr.co
+tgtag.io
 theadex.com
 theagency.com
 theargus-gb.theargus.co.uk
@@ -6124,6 +6137,7 @@ trafficengine.net
 trafficfacts.com
 trafficfuel.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
+trafficguard.ai
 trafficjoint.com
 trafficmaxx.de
 traffic.prod.cobaltgroup.com
@@ -6384,6 +6398,7 @@ vepxl1.net
 verifier.live
 verifypow.com
 verresof.com
+verseballs.com
 vertical-leap.co.uk
 vertical-leap.net
 verticalscope.com
