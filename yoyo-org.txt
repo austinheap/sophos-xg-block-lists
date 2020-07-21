@@ -2465,7 +2465,9 @@ openad.tf1.fr
 openad.travelnow.com
 open.oneplus.net
 opentag-stats.qubit.com
+openx.actvtech.com
 openx.angelsgroup.org.uk
+openx.cairo360.com
 openx.smcaen.fr
 operationkettle.com
 opienetwork.com

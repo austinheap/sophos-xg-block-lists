@@ -12,6 +12,7 @@
 15b37.skroc.pl
 15x.eu
 1933611911.findprofile.net.pl
+1bitstudio.pl
 1btcnews.buzz
 1k-daily-profitz.com
 1maja18.pl
@@ -2414,6 +2415,7 @@ kasafiskalna2018.pl
 kasa-sms.pl
 kasia-czat.24.eu
 kasiakurier.info
+kasiapaczka.com
 kasiapaczka.org
 kaskadarugby.pl
 kaszubskidomek.pl
@@ -4917,6 +4919,7 @@ tvonline.hol.es
 tvpinformacje1.eu
 tvp-informacyjna1.eu
 tvp-info.you2.pl
+tvp-polska.dfirma.pl
 twenteenow.bestofferslove.com
 twenty20experience.blogspot.com
 twentynow.aintnothingtoit.com
@@ -5271,6 +5274,7 @@ www.123movies.my.id
 www.15b37.skroc.pl
 www.15x.eu
 www.1933611911.findprofile.net.pl
+www.1bitstudio.pl
 www.1btcnews.buzz
 www.1k-daily-profitz.com
 www.1maja18.pl
@@ -7673,6 +7677,7 @@ www.kasafiskalna2018.pl
 www.kasa-sms.pl
 www.kasia-czat.24.eu
 www.kasiakurier.info
+www.kasiapaczka.com
 www.kasiapaczka.org
 www.kaskadarugby.pl
 www.kaszubskidomek.pl
@@ -10153,6 +10158,7 @@ www.tvonline.hol.es
 www.tvpinformacje1.eu
 www.tvp-informacyjna1.eu
 www.tvp-info.you2.pl
+www.tvp-polska.dfirma.pl
 www.twenteenow.bestofferslove.com
 www.twenty20experience.blogspot.com
 www.twentynow.aintnothingtoit.com
