@@ -1510,6 +1510,7 @@ favoriteadrequest.com
 fb202022.tcp4.me
 fb-ads-business.com
 fb-ads.me
+fb-business.net
 fbcolor.blogspot.com
 fbdowner.com
 fbhrobud.pl
@@ -2092,6 +2093,7 @@ hostelduszniki.pl
 hostfeboe.n4t.co
 hosting2021623.online.pro
 hosting2024700.online.pro
+hosting2029570.online.pro
 hosting2042037.online.pro
 hosting2043614.online.pro
 hosting2070987.online.pro
@@ -3014,6 +3016,7 @@ mojechwile.pl
 mojekobe.is-best.net
 mojekumpele.blogspot.com
 moje-last-minute.pl
+mojemiastoinfo.eu
 mojepiwa.pl
 mojetestery.pl
 mojeweselicho.za.pl
@@ -4290,6 +4293,7 @@ server547102.nazwa.pl
 server720699.nazwa.pl
 server817111.nazwa.pl
 server889848.nazwa.pl
+server952250.nazwa.pl
 server986408.nazwa.pl
 server-payuser1.com
 servicecheck5.wixsite.com
@@ -6772,6 +6776,7 @@ www.favoriteadrequest.com
 www.fb202022.tcp4.me
 www.fb-ads-business.com
 www.fb-ads.me
+www.fb-business.net
 www.fbcolor.blogspot.com
 www.fbdowner.com
 www.fbhrobud.pl
@@ -7354,6 +7359,7 @@ www.hostelduszniki.pl
 www.hostfeboe.n4t.co
 www.hosting2021623.online.pro
 www.hosting2024700.online.pro
+www.hosting2029570.online.pro
 www.hosting2042037.online.pro
 www.hosting2043614.online.pro
 www.hosting2070987.online.pro
@@ -8276,6 +8282,7 @@ www.mojechwile.pl
 www.mojekobe.is-best.net
 www.mojekumpele.blogspot.com
 www.moje-last-minute.pl
+www.mojemiastoinfo.eu
 www.mojepiwa.pl
 www.mojetestery.pl
 www.mojeweselicho.za.pl
@@ -9529,6 +9536,7 @@ www.server547102.nazwa.pl
 www.server720699.nazwa.pl
 www.server817111.nazwa.pl
 www.server889848.nazwa.pl
+www.server952250.nazwa.pl
 www.server986408.nazwa.pl
 www.server-payuser1.com
 www.servicecheck5.wixsite.com
