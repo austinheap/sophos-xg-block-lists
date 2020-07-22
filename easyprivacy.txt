@@ -1153,6 +1153,7 @@ citrusad.net
 citypaketet.se
 cityua.net
 ck-cdn.com
+clancy.spiceworks.com
 clarity.ms
 claritytag.com
 clarium.global.ssl.fastly.net
@@ -3064,6 +3065,7 @@ itracker360.com
 itrackerpro.com
 itracking.fccinteractive.com
 itracmediav4.com
+itrustzone.site
 ivcbrasil.org.br
 i.viafoura.co
 ivitrack.com
