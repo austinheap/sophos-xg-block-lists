@@ -121,6 +121,7 @@ ads.alphonso.tv
 ad.samsungadhub.com
 adsances.ero-advertising.com
 ads-bi.zenkube.com
+adsbydomain.fouanalytics.com
 adscan.yelabapp.com
 ads.chacomedia.com
 adservice.google.be
@@ -221,6 +222,7 @@ api.collect.data.intl.miui.com
 api.doubles.click
 api.d.xiaomi.com
 api.eqmob.com
+api.fouanalytics.com
 api.grandonmedia.com
 api.hybrid.intl.xiaomi.com
 api.moengage.com
