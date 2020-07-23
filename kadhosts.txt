@@ -1,4 +1,5 @@
 00x.eu
+02-wiadomosci.com.pl
 0e0.eu
 0ff.page
 0n.click
@@ -2143,6 +2144,7 @@ ideatur.pl
 idecloud.com.pl
 idgarin.com
 idklever.com
+i-fakty24.eu
 ifaktygwalt.eu
 ifaktygwalt.pl
 i-films.pl
@@ -4115,6 +4117,7 @@ refundacjeregionalne.pl
 region-24wydarzenia.pl
 regionalne24-wydarzenia.pl
 regionalne24wydarzenia.pl
+regionalne-wydarzenia.co.pl
 regionalnyportal.eu
 registrationofaccount.com
 reg-me.pl
@@ -4286,6 +4289,7 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
+server012754.nazwa.pl
 server062295.nazwa.pl
 server153133.nazwa.pl
 server163777.nazwa.pl
@@ -5179,6 +5183,7 @@ wiadomosc-24.eu
 wiadomosc-24.online
 wiadomosci24-live.eu
 wiadomosci24polska.pl
+wiadomosci-facebook.eu
 wiadomoscigwalt.eu
 wiadomosci-naszemiasto24.x9.eu
 wiadomosci-onet24.ml
@@ -5272,6 +5277,7 @@ wwa-informacje.co.pl
 wwinvestgroup.pl
 ww.kowdent.pl
 www.00x.eu
+www.02-wiadomosci.com.pl
 www.0e0.eu
 www.0ff.page
 www.0n.click
@@ -7416,6 +7422,7 @@ www.ideatur.pl
 www.idecloud.com.pl
 www.idgarin.com
 www.idklever.com
+www.i-fakty24.eu
 www.ifaktygwalt.eu
 www.ifaktygwalt.pl
 www.i-films.pl
@@ -9364,6 +9371,7 @@ www.refundacjeregionalne.pl
 www.region-24wydarzenia.pl
 www.regionalne24-wydarzenia.pl
 www.regionalne24wydarzenia.pl
+www.regionalne-wydarzenia.co.pl
 www.regionalnyportal.eu
 www.registrationofaccount.com
 www.reg-me.pl
@@ -9535,6 +9543,7 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
+www.server012754.nazwa.pl
 www.server062295.nazwa.pl
 www.server153133.nazwa.pl
 www.server163777.nazwa.pl
@@ -10428,6 +10437,7 @@ www.wiadomosc-24.eu
 www.wiadomosc-24.online
 www.wiadomosci24-live.eu
 www.wiadomosci24polska.pl
+www.wiadomosci-facebook.eu
 www.wiadomoscigwalt.eu
 www.wiadomosci-naszemiasto24.x9.eu
 www.wiadomosci-onet24.ml
@@ -10533,6 +10543,7 @@ www.wydarzenia24.x9.eu
 www.wydarzenia-naszemiasto-24.x9.eu
 www.wydarzenia-naszemiasto24.x9.eu
 www.wydarzenia-naszemiasto.x9.eu
+www.wydarzenia-regionalne.co.pl
 www.wydawca.lead.network
 www.wydawnictworambler.pl
 www.wydawnictwo-systherm.pl
@@ -10768,6 +10779,7 @@ wydarzenia24.x9.eu
 wydarzenia-naszemiasto-24.x9.eu
 wydarzenia-naszemiasto24.x9.eu
 wydarzenia-naszemiasto.x9.eu
+wydarzenia-regionalne.co.pl
 wydawca.lead.network
 wydawnictworambler.pl
 wydawnictwo-systherm.pl
