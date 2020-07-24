@@ -1061,6 +1061,7 @@ dombuczki.pl
 domekpoddebami.pl
 dominikhalas.pl
 domniespodzianek.com
+domowe-kino.pl
 dom-server.tk
 domtrakenski.pl
 domyposoka.pl
@@ -1596,6 +1597,8 @@ filmowo-24.com
 filmowo24.pl
 filmowo.co
 filmowo-hd.pl
+filmowy-hd.blogspot.com
+filmowyswiat.pl
 filmplay.pl
 films.com.pl
 filmserialeonlineee.blogspot.com
@@ -1607,6 +1610,7 @@ filmy3.pl
 filmy4u.pl
 filmycdaonline.wordpress.com
 filmyfilmy.pl
+filmyhd4k.pl
 filmy-i-seriale.pl
 filmyiseriale.pw
 filmyonline.com.pl
@@ -4243,6 +4247,7 @@ s88.vdl.pl
 s9kkremkr0.com
 sabiosdelamor.co
 sailsteam.pl
+sala-samobojcow-hejter-pobierz.eeu.pl
 salomonpolska.com
 salomonwyprzedaz.pl
 salon-adriatyk.pl
@@ -5092,6 +5097,7 @@ vibbo.pl
 vidaweird.blogspot.com
 vidaxl.pl
 videodownloadconverter.com
+videoplex.pl
 vidnet.pl
 vidplayer.pl
 vidzsource.net
@@ -6351,6 +6357,7 @@ www.dombuczki.pl
 www.domekpoddebami.pl
 www.dominikhalas.pl
 www.domniespodzianek.com
+www.domowe-kino.pl
 www.dom-server.tk
 www.domtrakenski.pl
 www.domyposoka.pl
@@ -6886,6 +6893,8 @@ www.filmowo-24.com
 www.filmowo24.pl
 www.filmowo.co
 www.filmowo-hd.pl
+www.filmowy-hd.blogspot.com
+www.filmowyswiat.pl
 www.filmplay.pl
 www.films.com.pl
 www.filmserialeonlineee.blogspot.com
@@ -6897,6 +6906,7 @@ www.filmy3.pl
 www.filmy4u.pl
 www.filmycdaonline.wordpress.com
 www.filmyfilmy.pl
+www.filmyhd4k.pl
 www.filmy-i-seriale.pl
 www.filmyiseriale.pw
 www.filmyonline.com.pl
@@ -9508,6 +9518,7 @@ www.s88.vdl.pl
 www.s9kkremkr0.com
 www.sabiosdelamor.co
 www.sailsteam.pl
+www.sala-samobojcow-hejter-pobierz.eeu.pl
 www.salomonpolska.com
 www.salomonwyprzedaz.pl
 www.salon-adriatyk.pl
@@ -10357,6 +10368,7 @@ www.vibbo.pl
 www.vidaweird.blogspot.com
 www.vidaxl.pl
 www.videodownloadconverter.com
+www.videoplex.pl
 www.vidnet.pl
 www.vidplayer.pl
 www.vidzsource.net
