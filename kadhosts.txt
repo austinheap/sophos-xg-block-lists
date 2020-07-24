@@ -3149,6 +3149,7 @@ naszemiasto-wiadomosci24.x9.eu
 naszeteksty.pl
 naszezycie.com
 naszgrojec.net.pl
+nasz--kraj-info.x9.eu
 naszregion24.pl
 nataliakurier.com
 nataliaporwana.biz
@@ -3455,6 +3456,7 @@ otodomweryfikacja.com
 otodowynaj.com
 otomoto.g43xweb.de
 otomoto.group
+otomoto.k23mp1.eu
 ottokurier.com
 otymsiemowi.com.pl
 outbutypt.online
@@ -3690,6 +3692,7 @@ plpocztex.net
 plpocztex.org
 pl.princessmask.pro
 pl.slimg0ji-berry.com
+pl.suluklima.com.tr
 pl.superando.net
 pl.tvplusnewtab.com
 plus-finanse.pl
@@ -3795,6 +3798,7 @@ polskaporwanie.eu
 polska-poszukiwania.eu
 polska-tv.pl
 polskawiad.top
+polskawiad.xyz
 polskibestseller.pl
 polskidziennik.pl
 polskie-info24.x9.eu
@@ -8435,6 +8439,7 @@ www.naszemiasto-wiadomosci24.x9.eu
 www.naszeteksty.pl
 www.naszezycie.com
 www.naszgrojec.net.pl
+www.nasz--kraj-info.x9.eu
 www.naszregion24.pl
 www.nataliakurier.com
 www.nataliaporwana.biz
@@ -8741,6 +8746,7 @@ www.otodomweryfikacja.com
 www.otodowynaj.com
 www.otomoto.g43xweb.de
 www.otomoto.group
+www.otomoto.k23mp1.eu
 www.ottokurier.com
 www.otymsiemowi.com.pl
 www.outbutypt.online
@@ -9057,6 +9063,7 @@ www.polskaporwanie.eu
 www.polska-poszukiwania.eu
 www.polska-tv.pl
 www.polskawiad.top
+www.polskawiad.xyz
 www.polskibestseller.pl
 www.polskidziennik.pl
 www.polskie-info24.x9.eu
