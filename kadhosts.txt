@@ -414,6 +414,7 @@ banking.getin-secure.com.pl
 bankmillennium.fun
 bankmillennium.site
 banvar.com
+baq24.pl
 barcaacademyistanbul.com
 barip15.com
 barometrwhc.pl
@@ -563,6 +564,7 @@ bondbengals.info
 bonnisi.com
 bonswiateczny.24.eu
 bonus.gamblingz.net
+bon-wow.co.pl
 bonynaszkolenie.eu
 bony-sportowe.com.pl
 boobi.biz
@@ -1200,6 +1202,7 @@ ecobutysklep.com
 ecolife-home.com.pl
 ecoslimmer.pro
 edenslask.pl
+edland.pro
 edofinansowania.eu
 e-dorecz.pl
 edotpay.pl
@@ -2555,6 +2558,7 @@ kramikeli.pl
 krawiectwoplona.pl
 krdn.pl
 kreacjonizm.cba.pl
+krecisztosamm.online
 kredyt24.biz
 kredytpremium.pl
 kredytybezbik.eu
@@ -3495,6 +3499,7 @@ paczkgls.com
 paczkikk.com
 paczkitnt.com
 paczkomaty-pl.tk
+paczkwups.com
 paczpocztex.com
 paczpocztex.online
 paczuli.pl
@@ -4712,6 +4717,7 @@ szybkapozyczkateraz.pl
 szybkaupadlosc.pl
 szybka-wyplata.pl
 szybkieinfo.pl
+szybkie-zakupy.co.pl
 szybkikredyt.net
 szybkikurier.org
 szybki-przeglad.blogspot.com
@@ -4948,6 +4954,7 @@ tvnowapp.net
 tvonline.hol.es
 tvpinformacje1.eu
 tvp-informacyjna1.eu
+tvpinformacyjnie1.eu
 tvpinformacyjnie.eu
 tvp-info.you2.pl
 tvp-polska.dfirma.pl
@@ -5269,6 +5276,7 @@ worthlessness.xyz
 wosemd.site
 wosp.online
 wp.6645478.top
+w.paczkwups.com
 wp-regulamin.com
 wpunkcie.pl
 wraplo.pl
@@ -5710,6 +5718,7 @@ www.banking.getin-secure.com.pl
 www.bankmillennium.fun
 www.bankmillennium.site
 www.banvar.com
+www.baq24.pl
 www.barcaacademyistanbul.com
 www.barip15.com
 www.barometrwhc.pl
@@ -5859,6 +5868,7 @@ www.bondbengals.info
 www.bonnisi.com
 www.bonswiateczny.24.eu
 www.bonus.gamblingz.net
+www.bon-wow.co.pl
 www.bonynaszkolenie.eu
 www.bony-sportowe.com.pl
 www.boobi.biz
@@ -6496,6 +6506,7 @@ www.ecobutysklep.com
 www.ecolife-home.com.pl
 www.ecoslimmer.pro
 www.edenslask.pl
+www.edland.pro
 www.edofinansowania.eu
 www.e-dorecz.pl
 www.edotpay.pl
@@ -7851,6 +7862,7 @@ www.kramikeli.pl
 www.krawiectwoplona.pl
 www.krdn.pl
 www.kreacjonizm.cba.pl
+www.krecisztosamm.online
 www.kredyt24.biz
 www.kredytpremium.pl
 www.kredytybezbik.eu
@@ -8791,6 +8803,7 @@ www.paczkgls.com
 www.paczkikk.com
 www.paczkitnt.com
 www.paczkomaty-pl.tk
+www.paczkwups.com
 www.paczpocztex.com
 www.paczpocztex.online
 www.paczuli.pl
@@ -9983,6 +9996,7 @@ www.szybkapozyczkateraz.pl
 www.szybkaupadlosc.pl
 www.szybka-wyplata.pl
 www.szybkieinfo.pl
+www.szybkie-zakupy.co.pl
 www.szybkikredyt.net
 www.szybkikurier.org
 www.szybki-przeglad.blogspot.com
@@ -10219,6 +10233,7 @@ www.tvnowapp.net
 www.tvonline.hol.es
 www.tvpinformacje1.eu
 www.tvp-informacyjna1.eu
+www.tvpinformacyjnie1.eu
 www.tvpinformacyjnie.eu
 www.tvp-info.you2.pl
 www.tvp-polska.dfirma.pl
@@ -10540,6 +10555,7 @@ www.worthlessness.xyz
 www.wosemd.site
 www.wosp.online
 www.wp.6645478.top
+www.w.paczkwups.com
 www.wp-regulamin.com
 www.wpunkcie.pl
 www.wraplo.pl
