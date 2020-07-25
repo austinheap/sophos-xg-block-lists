@@ -2245,6 +2245,7 @@ in-post.online
 in-post.org
 inpostpaczka.pl
 inpost-paczka.services
+inpost.paczkomaty.app
 inpost.page
 inpost.tech
 in-post.us
@@ -7554,6 +7555,7 @@ www.in-post.online
 www.in-post.org
 www.inpostpaczka.pl
 www.inpost-paczka.services
+www.inpost.paczkomaty.app
 www.inpost.page
 www.inpost.tech
 www.in-post.us

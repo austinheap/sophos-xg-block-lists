@@ -271,6 +271,7 @@ aevents.izooto.com
 afairweb.com
 affclkr.com
 affilae.com
+affilate.hh.ru
 affilbox.cz
 affiliateedge.eu
 affiliate.iamplify.com
@@ -985,6 +986,7 @@ browsermine.com
 browserpusher.com
 browser-statistik.de
 browser-update.org
+browser-updater.yandex.net
 browsiprod.com
 brsrvr.com
 bstn-14-ma.com
@@ -1757,6 +1759,7 @@ data.caroda.io
 data.circulate.com
 datacoral.com
 datacoral.io
+datacygnal.io
 datadog-service.mvfglobal.com
 datado.me
 datadome.co
@@ -2337,12 +2340,14 @@ fdxstats.xyz
 fearfulflag.com
 feathr.co
 feedcat.net
+feedify.net
 feedjit.com
 feedperfect.com
 feesocrald.com
 felitb.rightinthebox.com
 feraciumus.com
 ferank.fr
+fernomius.com
 fetchback.com
 fiksu.com
 filament-stats.herokuapp.com
@@ -3703,6 +3708,7 @@ movable-ink-397.com
 movable-ink-6710.com
 movemeal.com
 mowfruit.com
+mp3vizor.com
 m-pathy.com
 mpianalytics.com
 mplxtms.com
@@ -4261,6 +4267,7 @@ plantdigestion.com
 platform.communicatorcorp.com
 platform.iteratehq.com
 platformpanda.com
+plausible.io
 play.mix.kinostuff.com
 pleasantpump.com
 plecki.com
@@ -4400,11 +4407,14 @@ purevideo.com
 push4site.com
 push-ad.com
 pushalert.co
+pushbird.com
+pushbullet.com
 pushdom.co
 pushengage.com
 pushex.io
 push-house.net
 pushify.com
+pushwoosh.com
 putags.com
 pv.hd.sohu.com
 pv.ltn.com.tw
@@ -4973,6 +4983,7 @@ slipstream.skyscanner.net
 slogantrend.de
 sls2.loisirsencheres.com
 smadex.com
+smallbeginner.com
 smallseotools.com
 smartclip-services.com
 smart-counter.net
@@ -5352,6 +5363,7 @@ stats.dnaindia.com
 statsd.zmags.com
 stats.edicy.com
 stat.segitek.hu
+stats.embedcdn.cc
 statsevent.com
 stats.extremetech.com
 stats-factory.digitregroup.io
@@ -5434,6 +5446,7 @@ stats.ulixes.pl
 stats.united-domains.de
 stats.urban-media.com
 stats.uswitch.com
+stats.varrando.com
 stats.viddler.com
 stats.videodelivery.net
 stats.visistat.com
@@ -5716,6 +5729,7 @@ tglyr.co
 tgtag.io
 theadex.com
 theagency.com
+theardent.group
 theargus-gb.theargus.co.uk
 thebestlinks.com
 thebrighttag.com
@@ -6088,7 +6102,6 @@ trackonomics.net
 trackpm.shop2market.com
 track.pnicnik.live
 track.pricespider.com
-track.pushbullet.com
 track.qcri.org
 track.qoof.com
 track.ra.icast.cn
@@ -6812,7 +6825,6 @@ zdtag.com
 zebestof.com
 zedwhyex.com
 zeerat.com
-zengenti.com
 zeotap.com
 zero.kz
 zesep.com
