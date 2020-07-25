@@ -400,6 +400,7 @@ ads.bigchurch.com
 ads.bigfoot.com
 ads.bing.com
 ads.bittorrent.com
+ads.biz.tr
 ads.blog.com
 ads.bloomberg.com
 ads.bluemountain.com
