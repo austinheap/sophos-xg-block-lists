@@ -84,6 +84,7 @@
 9nl.eu
 a013.com
 a.20minutes.fr
+a2-eng.spankbang.com
 a4b-tracking.com
 a8ht.hipp.fr
 a8ww.net
@@ -616,6 +617,7 @@ apollofind.com
 appboycdn.com
 appcast.io
 appier.net
+app.launchdarkly.com
 apple.www.letv.com
 app.link
 appn.center
@@ -1777,6 +1779,7 @@ datamind.ru
 data.minute.ly
 dataperforma.com
 data.queryly.com
+data.reactandshare.com
 datasecu.download
 datasteam.io
 data.studybreakmedia.com
@@ -2521,7 +2524,6 @@ genieedmp.com
 genieessp.jp
 genieesspv.jp
 geo.6play.fr
-geoapi.indiatimes.com
 geobar.ziffdavisinternational.com
 geo.battle.net
 geobeacon.ign.com
@@ -2760,6 +2762,7 @@ hiddencounter.de
 hide.ovh
 hif.to
 higherengine.com
+highfalutinhoney.com
 highmetrics.com
 hi.hellobar.com
 hilariouszinc.com
@@ -2929,6 +2932,7 @@ impress.vcita.com
 impulsejewel.com
 imrk.net
 imrtrack.com
+imtwjwoasak.com
 imx.comedycentral.com
 inaudium.com
 inboxtag.com
@@ -3198,6 +3202,7 @@ lansrv030.com
 lasagneandands.com
 laserstat.com
 laserveradedomaina.com
+la-sync.taboola.com
 laughcloth.com
 laurel.macrovision.com
 laurel.rovicorp.com
@@ -4058,6 +4063,7 @@ p071qmn.com
 p0.raasnet.com
 p0y.cn
 p24.hu
+p2-eng.spankbang.com
 p2poolmining.com
 p2poolmining.net
 p2r14.com
@@ -4525,7 +4531,6 @@ reachandrich.antevenio.com
 reachforce.com
 reachmax.cn
 reachsocket.com
-reactandshare.com
 reactful.com
 reactrmod.com
 readertracking.com
@@ -6478,6 +6483,7 @@ visibility-stats.com
 visibli.com
 visilabs.net
 visioncriticalpanels.com
+visionsage.com
 visistat.com
 visit.asb.co.nz
 visit.dealspwn.com
