@@ -35,6 +35,7 @@ a135.wftv.com
 a5.overclockers.ua
 aaddzz.com
 aa-metrics.beauty.hotpepper.jp
+aa-metrics.recruit-card.jp
 aa-metrics.trip-ai.jp
 a.aproductmsg.com
 aaxads.com
@@ -359,10 +360,13 @@ ads5.canoe.ca
 ads.5ci.lt
 ads5.virtual-nights.com
 ads6.gamecity.net
+ads.73dpi.com
 ads7.gamecity.net
 ads8.com
+ads.aavv.com
 ads.abovetopsecret.com
 ads.aceweb.net
+ads.acpc.cat
 ads.acrosspf.com
 ads.activestate.com
 ads.ad-center.com
@@ -615,6 +619,7 @@ ads.img.co.za
 ads.imgur.com
 ads.independent.com.mt
 ads.infi.net
+ads.internet24.se
 ads.internic.co.il
 ads.ipowerweb.com
 ads.isoftmarketing.com
@@ -811,6 +816,7 @@ ads.uknetguide.co.uk
 ads.ultimate-guitar.com
 ads.uncrate.com
 ads.undertone.com
+ads.unison.bg
 adsupply.com
 ads.usatoday.com
 ads.uxs.at
@@ -2079,6 +2085,7 @@ keymedia.hu
 k.iinfo.cz
 kindads.com
 kissmetrics.com
+klclick1.com
 klclick.com
 kliks.nl
 klsdee.com
@@ -3206,6 +3213,7 @@ tracking.1-a1502-bi.co.uk
 tracking.1-kv015-ap.co.uk
 tracking.21-a4652-bi.co.uk
 tracking22.com
+tracking.39-bb4a9-osm.co.uk
 tracking.42-01pr5-osm-secure.co.uk
 tracking42.com
 tracking.5-47737-bi.co.uk
@@ -3313,6 +3321,7 @@ utl-1.com
 uttermosthobbies.com
 uu.domainforlite.com
 uzk4umokyri3.com
+v1adserver.com
 v1.cnzz.com
 v1hcmqbaqw.ru
 validclick.com
