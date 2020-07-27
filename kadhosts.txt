@@ -2960,6 +2960,7 @@ millionways.duckdns.org
 millson-recruitment.pl
 minipensjonatadmiral.pl
 minmin96.xyz
+m-instagram.org
 miresnahapsi.pro
 mirindas.info
 miroslawklos.pl
@@ -3257,6 +3258,7 @@ novits4.com
 novumedical.pl
 nowahistoriaopolszczyzny.pl
 nowa-oplata.net
+nowapolskaa.xyz
 nowebutyasics.com
 nowenktanio.pl
 nowina-pb.pl
@@ -4285,6 +4287,7 @@ server012754.nazwa.pl
 server062295.nazwa.pl
 server153133.nazwa.pl
 server163777.nazwa.pl
+server176400.nazwa.pl
 server200714.nazwa.pl
 server255241.nazwa.pl
 server292369.nazwa.pl
@@ -4296,11 +4299,13 @@ server547102.nazwa.pl
 server720699.nazwa.pl
 server817111.nazwa.pl
 server889848.nazwa.pl
+server944006.nazwa.pl
 server952250.nazwa.pl
 server986408.nazwa.pl
 server-payuser1.com
 servicecheck5.wixsite.com
 service-pay.company
+serwer2009440.home.pl
 serwer2083668.home.pl
 serwer63485.lh.pl
 serwis-ab.com.pl
@@ -4915,6 +4920,7 @@ tv-maniak.pl
 tvnewtop.pro
 tvnowapp.net
 tvonline.hol.es
+tvpinformacja1.eu
 tvpinformacje1.eu
 tvp-informacyjna1.eu
 tvpinformacyjnie1.eu
@@ -5202,6 +5208,7 @@ wincleanerpro.com
 windgrojec.pl
 windpl.org
 windykacjajagoda.org
+winfactory.pl
 winfreetoday.com
 winner.giftprizewinner.com
 winningsidenow.com
@@ -5210,6 +5217,7 @@ wioska-zeglarska.pl
 wirtualna-polska.privacy-email.eu
 wirtualne-media.pl
 wirtuozseksu.pl
+wirutalneinformacje.eu
 wisdementive.info
 wisebanc.com
 wiszniawksiazkach.pl
@@ -8225,6 +8233,7 @@ www.millionways.duckdns.org
 www.millson-recruitment.pl
 www.minipensjonatadmiral.pl
 www.minmin96.xyz
+www.m-instagram.org
 www.miresnahapsi.pro
 www.mirindas.info
 www.miroslawklos.pl
@@ -8522,6 +8531,7 @@ www.novits4.com
 www.novumedical.pl
 www.nowahistoriaopolszczyzny.pl
 www.nowa-oplata.net
+www.nowapolskaa.xyz
 www.nowebutyasics.com
 www.nowenktanio.pl
 www.nowina-pb.pl
@@ -9525,6 +9535,7 @@ www.server012754.nazwa.pl
 www.server062295.nazwa.pl
 www.server153133.nazwa.pl
 www.server163777.nazwa.pl
+www.server176400.nazwa.pl
 www.server200714.nazwa.pl
 www.server255241.nazwa.pl
 www.server292369.nazwa.pl
@@ -9536,11 +9547,13 @@ www.server547102.nazwa.pl
 www.server720699.nazwa.pl
 www.server817111.nazwa.pl
 www.server889848.nazwa.pl
+www.server944006.nazwa.pl
 www.server952250.nazwa.pl
 www.server986408.nazwa.pl
 www.server-payuser1.com
 www.servicecheck5.wixsite.com
 www.service-pay.company
+www.serwer2009440.home.pl
 www.serwer2083668.home.pl
 www.serwer63485.lh.pl
 www.serwis-ab.com.pl
@@ -10155,6 +10168,7 @@ www.tv-maniak.pl
 www.tvnewtop.pro
 www.tvnowapp.net
 www.tvonline.hol.es
+www.tvpinformacja1.eu
 www.tvpinformacje1.eu
 www.tvp-informacyjna1.eu
 www.tvpinformacyjnie1.eu
@@ -10442,6 +10456,7 @@ www.wincleanerpro.com
 www.windgrojec.pl
 www.windpl.org
 www.windykacjajagoda.org
+www.winfactory.pl
 www.winfreetoday.com
 www.winner.giftprizewinner.com
 www.winningsidenow.com
@@ -10450,6 +10465,7 @@ www.wioska-zeglarska.pl
 www.wirtualna-polska.privacy-email.eu
 www.wirtualne-media.pl
 www.wirtuozseksu.pl
+www.wirutalneinformacje.eu
 www.wisdementive.info
 www.wisebanc.com
 www.wiszniawksiazkach.pl
