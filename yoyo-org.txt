@@ -172,6 +172,7 @@ adform.net
 ad.foxnetworks.com
 ad.freecity.de
 adfries.info
+adfs.senacrs.com.br
 adgardener.com
 ad.gate24.ch
 adgoto.com
@@ -515,6 +516,7 @@ adserver.hardwareanalysis.com
 adserver.html.it
 adserver.hwupgrade.it
 adserver.ilango.de
+adserver.info7.mx
 adserver.irishwebmasterforum.com
 adserver.janes.com
 adserver.lecool.com
@@ -1690,6 +1692,7 @@ entrecard.s3.amazonaws.com
 enviousthread.com
 e-planning.net
 epom.com
+epp.bih.net.ba
 eqads.com
 erne.co
 ero-advertising.com
@@ -2583,6 +2586,7 @@ playmobileads.com
 pleasantpump.com
 plista.com
 plugrush.com
+p.nag.ru
 p-n.io
 pocketmath.com
 pointroll.com
@@ -2637,6 +2641,7 @@ propellerads.com
 propellerclick.com
 proper.io
 props.id
+prosper.on-line-casino.ca
 proton-tm.com
 protraffic.com
 provexia.com
@@ -2695,6 +2700,7 @@ quizzicalzephyr.com
 radar.cedexis.com
 radarurl.com
 radiate.com
+rads.alfamedia.pl
 rads.realadmin.pl
 railwayrainstorm.com
 railwayreason.com
@@ -2774,6 +2780,7 @@ revenuehits.com
 revenue.net
 revive.docmatic.org
 revive.dubcnm.com
+revive.haskovo.net
 revive.netriota.hu
 revive.plays.bg
 revlift.io
@@ -3233,6 +3240,7 @@ tracklink-tel.de
 track.mailerlite.com
 trackmysales.com
 track.nuxues.com
+track.tkbo.com
 trackuhub.com
 track.ultravpn.com
 track.undressingpics.work

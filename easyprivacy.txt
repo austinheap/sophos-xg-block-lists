@@ -617,7 +617,6 @@ apollofind.com
 appboycdn.com
 appcast.io
 appier.net
-app.launchdarkly.com
 apple.www.letv.com
 app.link
 appn.center
@@ -939,6 +938,7 @@ blvdstatus.com
 bm23.com
 bm324.com
 bmcm.pw
+bmfeed.ru
 bmlmedia.com
 bmmetrix.com
 bmnr.pw
@@ -2316,7 +2316,6 @@ fanplayr.com
 farmergoldfish.com
 farshake.com
 fastanalytic.com
-fast.appcues.com
 fastcounter.de
 fast.forbes.com
 fastly-analytics.com
@@ -2328,6 +2327,7 @@ fastwebcounter.com
 fatcoil.com
 fathom.pixeldrain.com
 fathomseo.com
+fathom.status.im
 faultycanvas.com
 fbgpnk.com
 fb_servpub-a.akamaihd.net

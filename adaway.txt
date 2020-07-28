@@ -2885,6 +2885,7 @@ aufeminin-g-d.openx.net
 au-gmtdmp.gd3.mookie1.com
 au-gmtdmp.mookie1.com
 augur.io
+auiopt.unityads.unity3d.com
 a.unbounce.com
 au.res.keymedia.com
 a-usa.applovin.com
@@ -3541,6 +3542,7 @@ cdn.comedia.coccoc.com
 cdn.concert.io
 cdn-config.taplytics.com
 cdn.creative.medialytics.com
+cdn-creatives-akamai-prd.unityads.unity3d.com
 cdn-creatives-highwinds-prd.unityads.unity3d.com
 cdn.crwdcntrl.net
 cdn.decibelinsight.net
