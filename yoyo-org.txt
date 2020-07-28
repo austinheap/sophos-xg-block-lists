@@ -1347,6 +1347,7 @@ c.bigmir.net
 cdn.bannerflow.com
 cdn.branch.io
 cdn.freefarcy.com
+cdn.freshmarketer.com
 cdn.heapanalytics.com
 cdn.keywee.co
 cdn.onesignal.com
@@ -1804,7 +1805,6 @@ freestats.tv
 freewebcounter.com
 freewheel.com
 freewheel.tv
-freshmarketer.com
 frightenedpotato.com
 frtyj.com
 frtyk.com

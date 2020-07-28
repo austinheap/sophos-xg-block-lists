@@ -1357,6 +1357,7 @@ ewelinaplanuje.pl
 e-wiadomosci24.eu
 ewills.access.ly
 eworldtrack.com
+excelfile.server4glite.com
 excelz.com
 exclusiveinsiders.com
 exeos.ws
@@ -1513,6 +1514,7 @@ fasterfiles.net
 favoriteadrequest.com
 fb202022.tcp4.me
 fb-ads-business.com
+fbads-manager.net
 fb-ads.me
 fb-business.net
 fbcolor.blogspot.com
@@ -6630,6 +6632,7 @@ www.ewelinaplanuje.pl
 www.e-wiadomosci24.eu
 www.ewills.access.ly
 www.eworldtrack.com
+www.excelfile.server4glite.com
 www.excelz.com
 www.exclusiveinsiders.com
 www.exeos.ws
@@ -6786,6 +6789,7 @@ www.fasterfiles.net
 www.favoriteadrequest.com
 www.fb202022.tcp4.me
 www.fb-ads-business.com
+www.fbads-manager.net
 www.fb-ads.me
 www.fb-business.net
 www.fbcolor.blogspot.com
