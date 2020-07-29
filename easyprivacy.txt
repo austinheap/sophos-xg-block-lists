@@ -80,7 +80,6 @@
 99click.com
 99counters.com
 99stats.com
-9juj88.com
 9nl.eu
 a013.com
 a.20minutes.fr
@@ -181,7 +180,6 @@ adc.nine.com.au
 adcrowd.com
 adc-serv.net
 addfreestats.com
-addlvr.com
 adelixir.com
 adfox.ru
 adgeo.163.com
@@ -254,6 +252,7 @@ adunity.com
 advalo.com
 advancedtracker.appspot.com
 advanced-web-analytics.com
+advangelists.com
 advconversion.com
 adv.drtuber.com
 adv-sv-stat.focus.cn
@@ -283,7 +282,6 @@ affiliates.mgmmirage.com
 affiliates.minglematch.com
 affiliates.mozy.com
 affiliates.myfax.com
-affiliates-pro.com
 affiliates.purevpn.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
@@ -440,7 +438,6 @@ analytics.dvidshub.net
 analytics.ecosia.org
 analytics-egain.com
 analytics.eip.telegraph.co.uk
-analytics-engine.net
 analyticsengine.s3.amazonaws.com
 analytics.favcy.com
 analytics.footballdb.com
@@ -591,7 +588,6 @@ angorch-cdr7.com
 angsrvr.com
 announcement.ru
 anon-stats.eff.org
-anonymousdmp.com
 anormal-tracker.de
 anrdoezrs.net
 answerscloud.com
@@ -717,7 +713,6 @@ avazudsp.net
 avencio.de
 avenseo.com
 averoconnector.com
-avero.xyz
 avmws.com
 avstat.it
 awaps.yandex.net
@@ -819,7 +814,6 @@ beacon.wikia-services.com
 beacon.www.theguardian.com
 beagle.prod.tda.link
 beampulse.com
-beanscattering.jp
 beanstalkdata.com
 beanstock.com
 beap-bc.yahoo.com
@@ -850,7 +844,6 @@ bentonow.com
 berateveng.ru
 berg-6-82.com
 besstahete.info
-bestcoinsignals.com
 besti.ga
 bestsecurepractice.com
 best-top.de
@@ -1013,7 +1006,6 @@ burnbubble.com
 burstbeacon.com
 businessclick.ch
 business.sharedcount.com
-butcalve.com
 butterbulb.com
 butterburst.com
 bux1le001.com
@@ -1050,7 +1042,6 @@ calltrk.com
 calmcactus.com
 calotag.com
 campaigncog.com
-ca-mpr.jp
 canalstat.com
 canddi.com
 candid.zone
@@ -1226,7 +1217,6 @@ clickstream.co.za
 click.suning.cn
 clicktale.pantherssl.com
 clickthru.lefbc.com
-clicktrack1.com
 clicktracker.iscan.nl
 clicktracks.com
 clicktrkservices.com
@@ -1324,14 +1314,12 @@ cogmatch.net
 cognativex.com
 cognitivematch.com
 cohesionapps.com
-coinblind.com
 coincheck.com
 coin-cube.com
 coinerra.com
 coin-have.com
 coin-hive.com
 coinhive.com
-coinhive-manager.com
 coinhiveproxy.com
 coinminerz.com
 coinminingonline.com
@@ -1445,7 +1433,6 @@ cooladata.com
 coolertracks.emailroi.com
 coordinatedcoat.com
 coordinatedcub.com
-copacast.net
 copperegg.com
 copush.com
 copycarpenter.com
@@ -2027,7 +2014,6 @@ ea.placedestendances.com
 ea.rentacar.fr
 early-birds.fr
 early-birds.io
-earnitup.com
 ea.rueducommerce.fr
 easycounter.com
 easyhash.de
@@ -2176,7 +2162,6 @@ etp-prod.com
 etracker.com
 etracker.de
 etracking24.de
-etrafficcounter.com
 etrigue.com
 etrust.eu
 et.twyn.com
@@ -2262,7 +2247,6 @@ evisitanalyst.com
 evisit.exeter.ac.uk
 ev.kck.st
 evnt.iol.it
-evolvemediametrics.com
 evt.izooto.com
 evyy.net
 ew3.io
@@ -2340,7 +2324,6 @@ fcstats.altervista.org
 fc.vodafone.de
 fc.webmasterpro.de
 fdxstats.xyz
-fearfulflag.com
 feathr.co
 feedcat.net
 feedify.net
@@ -2379,7 +2362,6 @@ flashtalking.com
 flcounter.com
 flixfacts.co.uk
 flixsyndication.net
-flnqmin.org
 flockflame.com
 flocktory.com
 flophous.cf
@@ -2393,7 +2375,6 @@ fn-pz.com
 fogl1onf.com
 fog.pixual.co
 followercounter.com
-fonderredd.info
 footprint.anetwork.ir
 footprintdns.com
 footprintlive.com
@@ -2438,14 +2419,12 @@ freeonlineusers.com
 freesitemapgenerator.com
 freestats.biz
 freestats.com
-freestats.me
 freestats.net
 freestats.org
 freestats.tk
 freestats.tv
 freestats.ws
 freestat.ws
-freetracker.biz
 freetrafficsystem.com
 freeusersonline.com
 freeweblogger.com
@@ -2456,7 +2435,6 @@ fremaks.net
 freshcounter.com
 freshmarketer.com
 freshplum.com
-freshrefresher.com
 fresh.techdirt.com
 friendbuy.com
 fruitflan.com
@@ -2715,9 +2693,7 @@ gxgydnhz.com
 gx.idg.se
 g.yccdn.com
 h4k5.com
-hallaert.online
 halldata.com
-halo77.com
 halstats.com
 haltingbadge.com
 hammerhearing.com
@@ -2838,7 +2814,6 @@ hotrank.com.tw
 hottraffic.nl
 howsmyssl.com
 hpr.outbrain.com
-hqhrt.com
 hrum.hotelsapi.io
 hsadspixel.net
 hs-analytics.net
@@ -2921,7 +2896,6 @@ imp.ad-plus.cn
 imp.affiliator.com
 imp.clickability.com
 imp.constantcontact.com
-impcounter.com
 imp.go.sohu.com
 imp-media-lab.thenewslens.com
 imp.optaim.com
@@ -2993,14 +2967,12 @@ instore.biz
 instore.pagomeno.it
 instreamatic.com
 intelimet.com
-intellecthosting.net
 intelliad.de
 intelli.ageuk.org.uk
 intelli-direct.com
 intelligencefocus.com
 intelligentscissors.com
 intellimize.co
-intelli-tracker.com
 intent.cbsi.com
 interact-analytics.com
 interactive-circle.jp
@@ -3141,7 +3113,6 @@ kbn.korben.info
 kctag.net
 kdata.fr
 kdowqlpt.info
-kedtise.com
 keet1liod.com
 keighleynews-gb.keighleynews.co.uk
 keyade.com
@@ -3239,7 +3210,6 @@ leadzu.com
 leanplum.com
 leaplunchroom.com
 ledhenone.com
-ledinund.com
 legenhit.com
 legolas-media.com
 lem.nouvelobs.com
@@ -3263,7 +3233,6 @@ lift.acquia.com
 lightminer.co
 lijit.com
 lilb2.shutterstock.com
-limbik.io
 lindon-pool.win
 linezing.com
 linkconnector.com
@@ -3288,7 +3257,6 @@ livecounter.theyosh.nl
 livecount.fr
 live.cxo.name
 live.ec2.cxo.name
-livehit.net
 livesegmentservice.com
 livesession.io
 livestat.com
@@ -3499,7 +3467,6 @@ masterstats.com
 mastertag.effiliation.com
 mastertag.kpcustomer.de
 mastertag.q-sis.de
-mataharirama.xyz
 mateti.net
 matheranalytics.com
 mathtag.com
@@ -3640,7 +3607,6 @@ mlstat.com
 mlweb.dmlab.hu
 mm7.net
 mmccint.com
-mmetrix.mobi
 mmi-agency.com
 mmi.bemobile.ua
 mmm.carbuyer.co.uk
@@ -3698,7 +3664,6 @@ monkeyminer.net
 monkeytracker.cz
 monstat.com
 monu.delivery
-moonsade.com
 mooseway.com
 mopinion.com
 mormont.gamer-network.net
@@ -3724,7 +3689,6 @@ mpwe.net
 mql5.com
 mqs.ioam.de
 mr-rank.de
-mrycrypto.com
 ms.computerbild.de
 msecure108.com
 msg.71.am
@@ -3767,7 +3731,6 @@ myaudience.de
 mybloglog.com
 mycounter.com.ua
 mycounter.ua
-mycryrpto.com
 myfastcounter.com
 mynewcounter.com
 mynsystems.com
@@ -3775,9 +3738,7 @@ myntelligence.com
 myomnistar.com
 mypagerank.net
 my-ranking.de
-myrcrypto.com
 myreferer.com
-myregeneaf.com
 myroitracking.com
 myscoop-tracking.googlecode.com
 myseostats.com
@@ -3886,7 +3847,6 @@ niftyhospital.com
 niftymaps.com
 nik.io
 nil.naver.com
-nimiqchain.info
 nimiq.com
 nimiqpool.com
 nimiqtest.net
@@ -3964,7 +3924,6 @@ ojm4.palladiumhotelgroup.com
 ojrq.net
 oktopost.com
 okt.to
-olecintri.com
 olgtex.com
 omappapi.com
 omarsys.com
@@ -4031,7 +3990,6 @@ oranges88.com
 orbidder.otto.de
 orcapia.com
 organicfruitapps.com
-org-dot-com.com
 oribi.io
 origin.chron.com
 origin-tracking.trulia.com
@@ -4059,13 +4017,11 @@ owldata.com
 ox-bio.com
 oxidy.com
 oxifwsabgd.nzz.ch
-p071qmn.com
 p0.raasnet.com
 p0y.cn
 p24.hu
 p2-eng.spankbang.com
 p2poolmining.com
-p2poolmining.net
 p2r14.com
 p30rank.ir
 p.adbrn.com
@@ -4163,7 +4119,6 @@ pgs.io
 pgt1.voyage-prive.es
 phantom.nudgespot.com
 phar.gu-web.net
-philpool.com
 phoenix.untd.com
 phonalytics.com
 phone-analytics.com
@@ -4299,7 +4254,6 @@ polarcdn-pentos.com
 polarcdn-terrax.com
 polymorphicads.jp
 poolmining.eu
-poolmining.net
 po.ponant.com
 popsample.com
 popt.in
@@ -4332,7 +4286,6 @@ precisioncounter.com
 predicta.net
 predictivedna.com
 predictiveresponse.net
-premiumstats.xyz
 prepareplanes.com
 presentationtracking.netflix.com
 prfct.co
@@ -4386,7 +4339,6 @@ ptengine.jp
 pt.ispot.tv
 ptmind.com
 pto-slb-09.com
-ptp123.com
 ptracker.nurturehq.com
 p.travelsmarter.net
 ptrk-wn.com
@@ -4552,6 +4504,7 @@ reciteme.com
 recognified.net
 reco.hardsextube.com
 recommendation.24.com
+reconditerespect.com
 recosenselabs.com
 recoset.com
 rec-pl.quartic.pl
@@ -4642,7 +4595,6 @@ revjet.com
 revoffers.com
 revolvermaps.com
 revsci.tvguide.com
-revsw.net
 rewardtv.com
 reztrack.com
 rezync.com
@@ -4716,7 +4668,6 @@ rtb123.com
 rtb.connatix.com
 rtb-seller.com
 rt.flix360.com
-rtfn.net
 rtmark.net
 rtn.thestar.com
 rtoaster.jp
@@ -4966,7 +4917,6 @@ sitelinktrack.com
 sitemeter.com
 sitereport.org
 sitestat.com
-sitestats.live
 site-submit.com.ua
 siteswithcontent.com
 sitetagger.co.uk
@@ -5136,7 +5086,6 @@ sp.lansingstatejournal.com
 sp.ldnews.com
 splittag.com
 sp.lohud.com
-splurgi.com
 splyt.com
 sp.mansfieldnewsjournal.com
 sp.marionstar.com
@@ -5182,7 +5131,6 @@ sp.stargazette.com
 sp.statesmanjournal.com
 sp.stevenspointjournal.com
 sptag1.com
-sptag2.com
 sptag.com
 sp.tallahassee.com
 sp.tcpalm.com
@@ -5356,7 +5304,6 @@ stats.clickability.com
 stats.clickforknowledge.com
 stats.cloudwp.io
 stats.cmcigroup.com
-stats.cz
 stats.datahjaelp.net
 stats-dc1.frz.io
 stats.de
@@ -5493,7 +5440,6 @@ statystyki.panelek.com
 stat.zol.com.cn
 stbt.coupons.com
 st.cdnco.us
-stcllctrs.com
 stcounter.com
 steadfastsound.com
 steadfastsystem.com
@@ -5530,7 +5476,6 @@ sub2tech.com
 submitnet.net
 subpixel.4players.de
 subsequentswim.com
-subtraxion.com
 successfultogether.co.uk
 suchmaschinen-ranking-hits.de
 suddensidewalk.com
@@ -5539,7 +5484,6 @@ sugar.gameforge.com
 sugodeku.com
 sugs.m.sm.cn
 summerhamster.com
-summitemarketinganalytics.com
 sumo.com
 sumokoin.com
 sumome.com
@@ -5684,7 +5628,6 @@ tdf1.vente-unique.pt
 tdf.ringier.ch
 t.dgm-au.com
 tds.io
-tdsrmbl.net
 tdstats.com
 tealiumiq.com
 team-rec.jp
@@ -5887,7 +5830,6 @@ track.adintend.com
 trackalyzer.com
 track.atgstores.com
 track.bannedcelebs.com
-trackbar.info
 track.bazonline.ch
 track.berliner-kurier.de
 track.bernerzeitung.ch
@@ -5902,7 +5844,6 @@ track.cinestar.de
 trackcmp.net
 trackconsole.com
 track.contently.com
-track.cooster.ru
 track.cordial.io
 track.derbund.ch
 track.dictionary.com
@@ -6183,10 +6124,8 @@ traffic.tc-clicks.com
 traffikcntr.com
 trafic.ro
 trafikkfondet.no
-trafinfo.info
 trafit.com
 trafix.ro
-trafiz.net
 trailheadapp.com
 trail-web.com
 trakken.de
@@ -6273,7 +6212,6 @@ tr.werkenntwen.de
 trx.smdatalabs.com
 try.abtasty.com
 trysera.com
-tscapeplay.com
 tscounter.com
 ts.faz.net
 t.sgc.io
@@ -6415,7 +6353,6 @@ valuedopinions.co.uk
 vamaker.com
 vantage-media.net
 variti.net
-vastpaketet.se
 vatrack.hinet.net
 vbanalytics.com
 vbe.voyage-prive.be
@@ -6435,7 +6372,6 @@ ventivmedia.com
 vepxl1.net
 verifier.live
 verifypow.com
-verresof.com
 verseballs.com
 vertical-leap.co.uk
 vertical-leap.net
@@ -6524,7 +6460,6 @@ vmmpxl.com
 vmm-satellite1.com
 vmm-satellite2.com
 vmstats.varrando.com
-vmtrk.com
 vnf4.belleetbio.com
 vnl1.voyage-prive.nl
 voicefive.com
@@ -6609,7 +6544,6 @@ weblog.flyasiana.com
 weblogger-dynamic-lb.playdom.com
 weblog.livesport.eu
 weblog.strawberrynet.com
-weblytics.io
 webmasterplan.com
 webmeter.ws
 webmine.cz
@@ -6679,7 +6613,6 @@ wemfbox.ch
 we-stats.com
 we.wecanimal.pt
 wf.taboola.com
-whackedmedia.com
 wheredoyoucomefrom.ovh
 whitepixel.com
 whizstats.com
@@ -6756,7 +6689,6 @@ wzrkt.com
 x9.shinobi.jp
 x.allabout.co.jp
 xay5o.toscane-boutique.fr
-xbasfbno.info
 x.bloggurat.net
 xclaimwords.net
 xcounter.ch
@@ -6765,7 +6697,6 @@ xfn6.monaco.edu
 xg4ken.com
 xhit.com
 xiti.com
-xl-counti.com
 xlisting.jp
 xmrpool.net
 xplosion.de
@@ -6858,7 +6789,6 @@ zrw1.destinia.jp
 zs.dhl.de
 zsi7.destinia.do
 ztcadx.com
-zt-dst.com
 ztsrv.com
 zuzab.com
 zvsuhljiha-a.akamaihd.net

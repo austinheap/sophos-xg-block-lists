@@ -57,6 +57,7 @@ abtasty.com
 abz.com
 acbsearch.com
 acceptable.a-ads.com
+acid-adserver.click
 a.consumer.net
 acridtwist.com
 ac.rnm.ca
@@ -523,6 +524,7 @@ adserver.irishwebmasterforum.com
 adserver.janes.com
 adserver.lecool.com
 adserver.libero.it
+adserver.madeby.ws
 adserver.mobi
 adserver.msmb.biz
 adservern2.host
