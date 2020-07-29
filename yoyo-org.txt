@@ -95,6 +95,7 @@ ad.abum.com
 adaction.de
 ad.admitad.com
 adadvisor.net
+ad.allboxing.ru
 adalliance.io
 ad.allstar.cz
 ad.altervista.org
@@ -496,6 +497,7 @@ adserver.adverty.com
 adserver.aidameter.com
 adserver.anawe.cz
 adserver.aol.fr
+adserver.ariase.org
 adserver.bdoce.cl
 adserver.betandwin.de
 adserver.bing.com
@@ -529,6 +531,7 @@ adserver.nydailynews.com
 adserver.o2.pl
 adserver.oddschecker.com
 adserver.omroepzeeland.nl
+adserver.pampa.com.br
 adserver.pl
 adserverplus.com
 adserver.portugalmail.net
@@ -1049,6 +1052,7 @@ analytics-production.hapyak.com
 analytics.samdd.me
 analytics.siliconexpert.com
 analytics.swiggy.com
+analytics.xelondigital.com
 analytics.yahoo.com
 aniview.com
 annonser.dagbladet.no
