@@ -2192,6 +2192,8 @@ informacje-fakty.pusiaweb.com
 informacje-naszemiasto.x9.eu
 informacje-news.eu
 informacje-o-maskach-ochronnych-pl.com
+informacje-onet.eu
+informacjeonet.eu
 informacje-swiat.pl
 informacjeszok24.blogspot.com
 informcje1.is-best.net
@@ -2306,6 +2308,7 @@ itsbanana5.live
 itvwro.pl
 iurzad.net
 iv24.pl
+i-wiadomosci24.eu
 izabelarogowska.pl
 izakowalska.pl
 izofiber.pl
@@ -4118,7 +4121,11 @@ reebokpump.pl
 reebokskleppl.pl
 refferalstaff.com
 refundacjeregionalne.pl
+region24-fakty.h2g.pl
+region24fakty.h2g.pl
 region-24wydarzenia.pl
+regionalne24-fakty.h2g.pl
+regionalne24fakty.h2g.pl
 regionalne24-wydarzenia.pl
 regionalne24wydarzenia.pl
 regionalne-wydarzenia.co.pl
@@ -7480,6 +7487,8 @@ www.informacje-fakty.pusiaweb.com
 www.informacje-naszemiasto.x9.eu
 www.informacje-news.eu
 www.informacje-o-maskach-ochronnych-pl.com
+www.informacje-onet.eu
+www.informacjeonet.eu
 www.informacje-swiat.pl
 www.informacjeszok24.blogspot.com
 www.informcje1.is-best.net
@@ -7594,6 +7603,7 @@ www.itsbanana5.live
 www.itvwro.pl
 www.iurzad.net
 www.iv24.pl
+www.i-wiadomosci24.eu
 www.izabelarogowska.pl
 www.izakowalska.pl
 www.izofiber.pl
@@ -9381,7 +9391,11 @@ www.reebokpump.pl
 www.reebokskleppl.pl
 www.refferalstaff.com
 www.refundacjeregionalne.pl
+www.region24-fakty.h2g.pl
+www.region24fakty.h2g.pl
 www.region-24wydarzenia.pl
+www.regionalne24-fakty.h2g.pl
+www.regionalne24fakty.h2g.pl
 www.regionalne24-wydarzenia.pl
 www.regionalne24wydarzenia.pl
 www.regionalne-wydarzenia.co.pl

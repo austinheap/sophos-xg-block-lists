@@ -455,6 +455,7 @@
 4768.content.swrve.com
 4771.api.swrve.com
 4771.content.swrve.com
+489a19fa-d831-4954-858d-46436d5cdb20.event.collector.scopely.io
 4984.engine.mobileapptracking.com
 4.afs.googleadservices.com
 4d83.playfabapi.com
