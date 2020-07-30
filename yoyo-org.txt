@@ -350,6 +350,7 @@ ads2.techads.info
 ads2.virtual-nights.com
 ads2.webdrive.no
 ads2.xnet.cz
+ads.365.mk
 ads3-adnow.com
 ads3.contentabc.com
 ads3.gamecity.net
@@ -674,6 +675,7 @@ ads.mediaodyssey.com
 ads.mediasmart.es
 ads.medienhaus.de
 ads.meetcelebs.com
+ads.metaplug.com
 ads.mgnetwork.com
 ads.miarroba.com
 ads.mic.com

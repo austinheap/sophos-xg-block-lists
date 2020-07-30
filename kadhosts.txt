@@ -1244,6 +1244,7 @@ elawaszczuk.pl
 elcap.pl
 electroenchufe.com
 electroline.pl
+elefonty.pl
 elegrina.pl
 elektro24h.pl
 elektromax.in.net
@@ -3617,6 +3618,7 @@ piritto5.com
 piskorski-cases.com.pl
 pitbull.ek1.pl
 pitbull-video.ujm.pl
+pitonswerder.work
 piwiarniagdynia.pl
 pixelbus.pl
 pizzaeuforia.com
@@ -3829,6 +3831,7 @@ pomagajmypl.online
 pomagajmypl.site
 pomagamleczyc.pl
 pomagamy-fakty24.pl
+pomagamy-onet.eu
 pomagamy-razem.club
 pomelostudio.pl
 pomerania-bn.pl
@@ -4659,6 +4662,7 @@ suprabuty.pl
 sureyouwillloveit.com
 svgoptimax5.live
 swagshoes.pl
+swapgg.pl
 swarzewo-fala.pl
 swce.pl
 sweepstakescentralusa.com
@@ -6551,6 +6555,7 @@ www.elawaszczuk.pl
 www.elcap.pl
 www.electroenchufe.com
 www.electroline.pl
+www.elefonty.pl
 www.elegrina.pl
 www.elektro24h.pl
 www.elektromax.in.net
@@ -8925,6 +8930,7 @@ www.piritto5.com
 www.piskorski-cases.com.pl
 www.pitbull.ek1.pl
 www.pitbull-video.ujm.pl
+www.pitonswerder.work
 www.piwiarniagdynia.pl
 www.pixelbus.pl
 www.pizzaeuforia.com
@@ -9110,6 +9116,7 @@ www.pomagajmypl.online
 www.pomagajmypl.site
 www.pomagamleczyc.pl
 www.pomagamy-fakty24.pl
+www.pomagamy-onet.eu
 www.pomagamy-razem.club
 www.pomelostudio.pl
 www.pomerania-bn.pl
@@ -9940,6 +9947,7 @@ www.suprabuty.pl
 www.sureyouwillloveit.com
 www.svgoptimax5.live
 www.swagshoes.pl
+www.swapgg.pl
 www.swarzewo-fala.pl
 www.swce.pl
 www.sweepstakescentralusa.com
