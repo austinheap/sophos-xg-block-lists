@@ -973,6 +973,7 @@ bright.bncnt.com
 brightedge.com
 brightfunnel.com
 brilig.com
+britepool.com
 broadcastbed.com
 broaddoor.com
 brominer.com
@@ -1091,7 +1092,6 @@ cdn1.pebx.pl
 cdn-alliancegravity.s3.amazonaws.com
 cdn-analytics.ladmedia.fr
 cdnanalytics.xyz
-cdnbigdata.azureedge.net
 cdn-code.host
 cdn.hiido.cn
 cdnmaster.cn
@@ -1652,7 +1652,6 @@ d11a2fzhgzqe7i.cloudfront.net
 d15kdpgjg3unno.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
-d16xpr36wrmcmk.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
@@ -2031,7 +2030,6 @@ ea.vente-unique.ch
 ea.vente-unique.com
 ea.vente-unique.lu
 ea.warnerbros.fr
-ebay.northernhost.com
 ebis.ne.jp
 ebtrk1.com
 ec-concier.com
@@ -3528,8 +3526,6 @@ merlin.abc.go.com
 metalyzer.com
 meteorsolutions.com
 metering.pagesuite.com
-metric-agent.i10c.net
-metric.gstatic.com
 metric.inetcore.com
 metric.nwsource.com
 metricool.com
@@ -3705,7 +3701,6 @@ m-t.io
 mtracking.com
 mtrack.nl
 m.trb.com
-mtrcs.samba.tv
 mts.mansion.com
 mts-ws.rueducommerce.fr
 multicounter.de
@@ -3870,7 +3865,6 @@ notifyvisitors.com
 notmining.org
 nova.dice.net
 nowinteract.com
-nozem.tvmaze.com
 npario-inc.net
 nprove.com
 nr7.us
@@ -4117,7 +4111,6 @@ pf.newegg.com
 p.gazeta.pl
 pgs.io
 pgt1.voyage-prive.es
-phantom.nudgespot.com
 phar.gu-web.net
 phoenix.untd.com
 phonalytics.com
@@ -4186,7 +4179,6 @@ pixel.naij.com
 pixel.newscgp.com
 pixel.newscred.com
 pixel.newsdiscover.com.au
-pixel.parsely.com
 pixel.pcworld.com
 pixelpop.co
 pixel.propublica.org
@@ -4398,7 +4390,6 @@ px.mvfglobal.com
 px.owneriq.net
 px.spiceworks.com
 px.staticfiles.at
-px.topspin.net
 px.wayfair.com
 px.wp.pl
 pymx5.com
@@ -4898,6 +4889,7 @@ simplymeasured.com
 sinceresubstance.com
 s.infogram.com
 singlefeed.com
+singroot.com
 site24x7rum.com
 siteanaliz.org
 sitebot.cn
@@ -5192,9 +5184,7 @@ stas.outbrain.com
 stat08.com
 stat.1688.com
 stat24.ru
-stat4.edev.at
 stat.4u.pl
-stat.55bbs.com
 stat.acca.it
 stat.alibaba.com
 stat.api.2gis.ru
@@ -5932,7 +5922,6 @@ tracking.chacha.com
 tracking.christianpost.com
 tracking.conduit.com
 tracking.customerly.io
-tracking.dealerwebwatcher.com
 tracking.drsfostersmith.com
 tracking.dsmmadvantage.com
 tracking.ecookie.fr
@@ -6030,7 +6019,6 @@ track.juno.com
 trackkas.com
 track.kyoads.com
 trackla.stackla.com
-track.leadin.com
 track.leady.cz
 track.mailerlite.com
 trackmethod.com
@@ -6065,7 +6053,6 @@ track.sitetag.us
 track.slideshare.net
 track.social.com
 track.sohu.com
-track.spots.im
 track.sprinklecontent.com
 tracksrv.zdf.de
 track.strife.com
@@ -6307,7 +6294,6 @@ uptrendsdata.com
 upz1.destinia.lt
 uralweb.ru
 urbanairship.com
-urchin.estadao.com.br
 urc.taboolasyndication.com
 uriuridfg.com
 urlbrief.com

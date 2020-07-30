@@ -2516,7 +2516,6 @@ app.bugfender.com
 app.bugreplay.com
 app.cision.com
 appclick.co
-app.clickdimensions.com
 appclick.net
 appclick.rqmob.com
 app.clickyab.com
@@ -2534,7 +2533,6 @@ appengage-video.fyber.com
 appengage-video.sponsorpay.com
 appengage-video-staging.fyber.com
 appetizers.appsee.com
-app-eu.clickdimensions.com
 appevents.impactradius.com
 appfireworks.com
 appflood.com
@@ -5005,8 +5003,6 @@ eldamar04-loadbalanced.kameleoon.com
 elephantdata.net
 e.ligatus.com
 eligibility.wootric.com
-elink.clickdimensions.com
-elinkeu.clickdimensions.com
 elitedaily-d.openx.net
 e.logrocket.com
 elonezet.netadclick.com
@@ -5393,8 +5389,6 @@ file.autoads.asia
 filecdn2.ad.dotandad.com
 files.adform.net
 files.appsgeyser.com
-files.clickdimensions.com
-files-eu.clickdimensions.com
 files.innovid.com
 files.revcontent.com
 filev4.subiz.com
