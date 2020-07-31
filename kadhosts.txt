@@ -2173,6 +2173,7 @@ id.user-access.online
 i-fakty24.eu
 ifaktygwalt.eu
 ifaktygwalt.pl
+i-faktynews24.eu
 i-films.pl
 i-filmy.pl
 igcecsrrt.site
@@ -2251,6 +2252,8 @@ inpost.club
 inpostdoplata.net
 inpost.help
 inpost.kod-odbioru.app
+inpost.kod-odbioru.com
+inpost.kod-odbioru.me
 inpost.link
 inpost.live
 inpost.ltd
@@ -4345,6 +4348,7 @@ serialosy.pl
 serialowo.pl
 serial.vod.co.pl
 server012754.nazwa.pl
+server028346.nazwa.pl
 server062295.nazwa.pl
 server153133.nazwa.pl
 server163777.nazwa.pl
@@ -7523,6 +7527,7 @@ www.id.user-access.online
 www.i-fakty24.eu
 www.ifaktygwalt.eu
 www.ifaktygwalt.pl
+www.i-faktynews24.eu
 www.i-films.pl
 www.i-filmy.pl
 www.igcecsrrt.site
@@ -7601,6 +7606,8 @@ www.inpost.club
 www.inpostdoplata.net
 www.inpost.help
 www.inpost.kod-odbioru.app
+www.inpost.kod-odbioru.com
+www.inpost.kod-odbioru.me
 www.inpost.link
 www.inpost.live
 www.inpost.ltd
@@ -9668,6 +9675,7 @@ www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
 www.server012754.nazwa.pl
+www.server028346.nazwa.pl
 www.server062295.nazwa.pl
 www.server153133.nazwa.pl
 www.server163777.nazwa.pl

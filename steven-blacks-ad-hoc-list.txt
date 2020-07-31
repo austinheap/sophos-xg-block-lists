@@ -139,6 +139,7 @@ adspages.ero-advertising.com
 adspcces.ero-advertising.com
 ads.proc.cc
 ads.samsungads.com
+ads.servenobid.com
 adsspaces.ero-advertising.com
 adstaces.ero-advertising.com
 adtekmedia.com
@@ -1801,6 +1802,7 @@ psserviceonline.com
 ptgteft.com
 pub.axiatraders.com
 pub.grandonmedia.com
+public.servenobid.com
 pub.trads.io
 pub.welcometothepub.com
 pull-3045.kxcdn.com
