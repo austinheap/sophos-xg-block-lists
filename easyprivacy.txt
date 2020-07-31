@@ -1313,7 +1313,6 @@ cod.bitrec.com
 cogmatch.net
 cognativex.com
 cognitivematch.com
-cohesionapps.com
 coincheck.com
 coin-cube.com
 coinerra.com
@@ -2119,7 +2118,6 @@ e-pagerank.net
 eperfectdata.com
 epilot.com
 epiodata.com
-episerver.net
 epitrack.com
 epl.paypal-communication.com
 eproof.com

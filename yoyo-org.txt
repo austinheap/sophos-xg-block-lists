@@ -152,7 +152,6 @@ addfreestats.com
 ad.digitallook.com
 addme.com
 add.newmedia.cz
-ad.doctissimo.fr
 ad.domainfactory.de
 adecn.com
 adeimptrck.com
@@ -377,7 +376,6 @@ ads.ad-center.com
 ads.adfox.ru
 ads.administrator.de
 ads.adred.de
-ads.adshareware.net
 ads.adstream.com.ro
 ads.adultfriendfinder.com
 ads.advance.net
@@ -1264,7 +1262,6 @@ bizographics.com
 bizrate.com
 bizzclick.com
 bkrtx.com
-blast4traffic.com
 blingbucks.com
 blis.com
 blockadblock.com
@@ -1531,7 +1528,6 @@ crawlability.com
 crawlclocks.com
 crazyegg.com
 crazypopups.com
-creafi-online-media.com
 creatives.livejasmin.com
 credishe.com
 criteo.com
@@ -1638,7 +1634,6 @@ drydrum.com
 dsp.colpirio.com
 dsp.io
 dstillery.com
-dynamic.fmpub.net
 dyntrk.com
 dzairads.com
 eadexchange.com
@@ -2249,7 +2244,6 @@ maximiser.net
 maximumcash.com
 maxonclick.com
 mbs.megaroticlive.com
-mbuyu.nl
 mcdlks.com
 measuremap.com
 measure.office.com
@@ -3501,6 +3495,7 @@ yieldmanager.com
 yieldmanager.net
 yieldmo.com
 yieldtraffic.com
+yldbt.com
 ymetrica1.com
 yoggrt.com
 ypu.samsungelectronics.com

@@ -424,6 +424,7 @@ bartozziproject.com
 barwin4.com
 baseflix.pl
 basen.biz
+basen.in
 baseny.club
 baseny.in
 baseny-sklep.com
@@ -1851,6 +1852,7 @@ gazetanowoczesna.pl
 gazeta.pl.com.bz
 gazeta-polska.24.eu
 gazetapucka.pl
+gazetawyborcza.com.pl
 gazetkamazowsze.pl
 gazetkawarszawa.eu
 gazetkawarszawa.pl
@@ -2460,6 +2462,8 @@ kasia-czat.24.eu
 kasiapaczka.com
 kasiapaczka.org
 kaskadarugby.pl
+kasyno-online-vulkan.pl
+kasyno-pl.fun
 kaszubskidomek.pl
 katalayah.pl
 katallog.pl
@@ -4357,6 +4361,7 @@ server200714.nazwa.pl
 server255241.nazwa.pl
 server292369.nazwa.pl
 server293122.nazwa.pl
+server318792.nazwa.pl
 server32456789098765.s3.us-east-2.amazonaws.com
 server326493.nazwa.pl
 server364714.nazwa.pl
@@ -4947,6 +4952,7 @@ training.sitegiant.info
 trampcamp.pl
 trampkiconverse.com
 trampkitanie.pl
+trampolina.biz
 trampoliny.biz
 trampoliny.club
 trampolshop.com
@@ -5130,6 +5136,7 @@ vcascc.eu
 vcxz.pl
 veclaim.com
 vectorfactory.pl
+vegas777spin.com
 vegatestsklep.pl
 vegeella.pl
 veinsensor.pl
@@ -5190,6 +5197,8 @@ vseobuch.ru
 vtopiuops.info
 vubu.pl
 vulfehisil.tk
+vulkanvegas-24.com
+vulkanvegas-offers.com
 w2mobile.com
 w3brasil.com
 w65.pl
@@ -5226,6 +5235,7 @@ wd-8.fbdowner.com
 weartexhibitions.com
 web.cellfun.mobi
 weblocus.pl
+webmail93949840839.com.ng
 web-online.pl
 webrabi.pl
 webrobi.pl
@@ -5293,6 +5303,7 @@ winningsidenow.com
 winoandfriends.pl
 wioska-zeglarska.pl
 wirtualna-polska.privacy-email.eu
+wirtualneinformacje.eu
 wirtualne-media.pl
 wirtuozseksu.pl
 wirutalneinformacje.eu
@@ -5352,6 +5363,7 @@ wwa-informacje.co.pl
 wwinvestgroup.pl
 ww.kowdent.pl
 ww.paczkaups.com
+ww.paczksups.com
 www.00x.eu
 www.02-wiadomosci.com.pl
 www.0e0.eu
@@ -5778,6 +5790,7 @@ www.bartozziproject.com
 www.barwin4.com
 www.baseflix.pl
 www.basen.biz
+www.basen.in
 www.baseny.club
 www.baseny.in
 www.baseny-sklep.com
@@ -7205,6 +7218,7 @@ www.gazetanowoczesna.pl
 www.gazeta.pl.com.bz
 www.gazeta-polska.24.eu
 www.gazetapucka.pl
+www.gazetawyborcza.com.pl
 www.gazetkamazowsze.pl
 www.gazetkawarszawa.eu
 www.gazetkawarszawa.pl
@@ -7814,6 +7828,8 @@ www.kasia-czat.24.eu
 www.kasiapaczka.com
 www.kasiapaczka.org
 www.kaskadarugby.pl
+www.kasyno-online-vulkan.pl
+www.kasyno-pl.fun
 www.kaszubskidomek.pl
 www.katalayah.pl
 www.katallog.pl
@@ -9684,6 +9700,7 @@ www.server200714.nazwa.pl
 www.server255241.nazwa.pl
 www.server292369.nazwa.pl
 www.server293122.nazwa.pl
+www.server318792.nazwa.pl
 www.server32456789098765.s3.us-east-2.amazonaws.com
 www.server326493.nazwa.pl
 www.server364714.nazwa.pl
@@ -10274,6 +10291,7 @@ www.training.sitegiant.info
 www.trampcamp.pl
 www.trampkiconverse.com
 www.trampkitanie.pl
+www.trampolina.biz
 www.trampoliny.biz
 www.trampoliny.club
 www.trampolshop.com
@@ -10457,6 +10475,7 @@ www.vcascc.eu
 www.vcxz.pl
 www.veclaim.com
 www.vectorfactory.pl
+www.vegas777spin.com
 www.vegatestsklep.pl
 www.vegeella.pl
 www.veinsensor.pl
@@ -10517,6 +10536,8 @@ www.vseobuch.ru
 www.vtopiuops.info
 www.vubu.pl
 www.vulfehisil.tk
+www.vulkanvegas-24.com
+www.vulkanvegas-offers.com
 www.w2mobile.com
 www.w3brasil.com
 www.w65.pl
@@ -10553,6 +10574,7 @@ www.wd-8.fbdowner.com
 www.weartexhibitions.com
 www.web.cellfun.mobi
 www.weblocus.pl
+www.webmail93949840839.com.ng
 www.web-online.pl
 www.webrabi.pl
 www.webrobi.pl
@@ -10620,6 +10642,7 @@ www.winningsidenow.com
 www.winoandfriends.pl
 www.wioska-zeglarska.pl
 www.wirtualna-polska.privacy-email.eu
+www.wirtualneinformacje.eu
 www.wirtualne-media.pl
 www.wirtuozseksu.pl
 www.wirutalneinformacje.eu
@@ -10679,6 +10702,7 @@ www.wwa-informacje.co.pl
 www.wwinvestgroup.pl
 www.ww.kowdent.pl
 www.ww.paczkaups.com
+www.ww.paczksups.com
 www.wx-xcx.xyz
 www.wybielaniezebow.c.pl
 www.wybierzgdansk.pl
@@ -10868,6 +10892,7 @@ www.zgwalconadziewczyna.site
 www.zhaoyouxiu.com
 www.zhouliang.info
 www.zielonewariacje.pl
+www.zielony-bazarek.pl
 www.zielonydizajn.pl
 www.ziololecznictwo.pl
 www.zjednoczonekrolestwo.pl
@@ -11104,6 +11129,7 @@ zgwalconadziewczyna.site
 zhaoyouxiu.com
 zhouliang.info
 zielonewariacje.pl
+zielony-bazarek.pl
 zielonydizajn.pl
 ziololecznictwo.pl
 zjednoczonekrolestwo.pl
