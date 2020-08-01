@@ -152,7 +152,6 @@ active-tracking.de
 active-trk7.com
 activities.niagara.comedycentral.com
 activity.frequency.com
-activity.homescape.com
 actnx.com
 acuityplatform.com
 acxiomapac.com
@@ -439,6 +438,7 @@ analytics.ecosia.org
 analytics-egain.com
 analytics.eip.telegraph.co.uk
 analyticsengine.s3.amazonaws.com
+analytics.erepublic.com
 analytics.favcy.com
 analytics.footballdb.com
 analytics.foresee.com
@@ -644,7 +644,6 @@ aserve.directorym.com
 as.mirapodo.de
 as.mytoys.de
 as.payback.it
-assetscdn.stream
 assoctrac.com
 astat.nikkei.com
 asteriresearch.com
@@ -1600,7 +1599,6 @@ crypto-webminer.com
 csbew.com
 csdata1.com
 cse3.chausport.com
-csgocpu.com
 csi.gstatic.com
 csp.archant.co.uk
 csp-collector.appspot.com
@@ -1654,7 +1652,6 @@ d16fk4ms6rqz1v.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
-d1.abtshield.com
 d1cdnlzf6usiff.cloudfront.net
 d1cerpgff739r9.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
@@ -1946,6 +1943,7 @@ dtxngr.com
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
 dup.baidustatic.com
+durationmedia.net
 durocount.com
 duu8lzqdm8tsz.cloudfront.net
 dv59b.montecarlomeeting.com
@@ -2213,7 +2211,6 @@ events.avantisvideo.com
 events.brightline.tv
 events.chaordicsystems.com
 events.demoup.com
-events.godaddy.com
 events.guesttoguest.com
 events.il.fi
 events.ingatlan.com
@@ -2574,7 +2571,6 @@ gim.co.il
 giraffepiano.com
 giraff.io
 g.itespresso.fr
-gitgrub.pro
 gixmo.dk
 gj.mmstat.com
 gjr5.yoigo.com
@@ -3949,7 +3945,6 @@ ongsono.com
 oniad.com
 on-line.lv
 onlinepbx.ru
-onlinereserchstatistics.online
 onlinewebstat.com
 onlysix.co.uk
 on-push.com
@@ -4298,7 +4293,6 @@ profitshare.ro
 profusesupport.com
 programmatic.cz
 programmatictrader.com
-proj2018.xyz
 projectsunblock.com
 projop.dnsalias.com
 promotionengine.com
@@ -4447,7 +4441,6 @@ ranking-links.de
 rankingpartner.com
 rankings24.de
 rankinteractive.com
-ranklink.de
 rank-power.com
 rapidcounter.com
 rapidstats.net
