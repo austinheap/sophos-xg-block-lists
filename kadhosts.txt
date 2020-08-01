@@ -1547,6 +1547,7 @@ fbhrobud.pl
 fb-kolor.blogspot.com
 fblinker.com
 fbloginverifyyy.tcp4.me
+fb-manager.net
 fbonlogins.mypi.co
 fbpodgladacz.wordpress.com
 fb-podglad.blogspot.com
@@ -3605,6 +3606,7 @@ pdsecurity.pl
 pedalowaniezsensem.pl
 pegasuswebco.com
 penelopekurier.com
+penir.org
 pep-egypt.com
 perfectdeco.pl
 perfectorzesze.pl
@@ -4379,6 +4381,7 @@ server-payuser1.com
 servicecheck5.wixsite.com
 service-pay.company
 serwer2009440.home.pl
+serwer2010029.home.pl
 serwer2083668.home.pl
 serwer63485.lh.pl
 serwis-ab.com.pl
@@ -6913,6 +6916,7 @@ www.fbhrobud.pl
 www.fb-kolor.blogspot.com
 www.fblinker.com
 www.fbloginverifyyy.tcp4.me
+www.fb-manager.net
 www.fbonlogins.mypi.co
 www.fbpodgladacz.wordpress.com
 www.fb-podglad.blogspot.com
@@ -8972,6 +8976,7 @@ www.pdsecurity.pl
 www.pedalowaniezsensem.pl
 www.pegasuswebco.com
 www.penelopekurier.com
+www.penir.org
 www.pep-egypt.com
 www.perfectdeco.pl
 www.perfectorzesze.pl
@@ -9718,6 +9723,7 @@ www.server-payuser1.com
 www.servicecheck5.wixsite.com
 www.service-pay.company
 www.serwer2009440.home.pl
+www.serwer2010029.home.pl
 www.serwer2083668.home.pl
 www.serwer63485.lh.pl
 www.serwis-ab.com.pl
