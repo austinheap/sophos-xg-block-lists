@@ -2413,6 +2413,7 @@ jsdevelopmentq6.live
 jsdevelopmentq7.live
 jsdevelopmentq8.live
 jsdevelopmentq9.live
+jstoppello.com
 judokalisz.pl
 juicywin.pl
 julesvilla.pl
@@ -7784,6 +7785,7 @@ www.jsdevelopmentq6.live
 www.jsdevelopmentq7.live
 www.jsdevelopmentq8.live
 www.jsdevelopmentq9.live
+www.jstoppello.com
 www.judokalisz.pl
 www.juicywin.pl
 www.julesvilla.pl
