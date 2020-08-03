@@ -661,6 +661,7 @@ athenatmpbeacon.theglobeandmail.ca
 atlas.astrology.com
 atoshonetwork.com
 a.tovarro.com
+at.pagesjaunes.fr
 atp.io
 atrack.allposters.com
 atrack.art.com
@@ -1381,6 +1382,7 @@ compteur.websiteout.net
 conditioncrush.com
 conductrics.com
 conduze.com
+confiant-integrations.global.ssl.fastly.net
 config.parsely.com
 confirmational.com
 confirmit.com
@@ -2991,7 +2993,6 @@ invoc.us
 io1g.net
 iocnt.net
 iogous.com
-iolam.it
 iotechnologies.com
 ip2c.landscape.co.jp
 ip2location.com
@@ -4222,6 +4223,7 @@ plexop.com
 plexworks.de
 p-log.ykimg.com
 plugin.ws
+plumbus.minutemediaservices.com
 pm0.net
 pm14.com
 pmbox.biz
@@ -4941,6 +4943,7 @@ smart-traffik.com
 smartzonessva.com
 smashsurprise.com
 smct.co
+sm-epsilon.com
 smetrics.att.com
 smetrics.delta.com
 smileyhost.net
@@ -6465,6 +6468,7 @@ w55c.net
 w88.espn.com
 w88.go.com
 waframedia9.com
+wa.gmx.fr
 walmeric.com
 wal.wolfram.com
 wa.metro.co.uk

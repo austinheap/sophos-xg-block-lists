@@ -121,7 +121,6 @@ ads.alphonso.tv
 ad.samsungadhub.com
 adsances.ero-advertising.com
 ads-bi.zenkube.com
-adsbydomain.fouanalytics.com
 adscan.yelabapp.com
 ads.chacomedia.com
 adservice.google.be
@@ -223,7 +222,6 @@ api.collect.data.intl.miui.com
 api.doubles.click
 api.d.xiaomi.com
 api.eqmob.com
-api.fouanalytics.com
 api.grandonmedia.com
 api.hybrid.intl.xiaomi.com
 api.moengage.com
@@ -973,6 +971,7 @@ in-starlive-preroll.videoplaza.tv
 in-starlive.videoplaza.tv
 in-star.videoplaza.tv
 instory-log.ucnews.ucweb.com
+instui201.info
 intext.ero-advertising.com
 in-viacom18.videoplaza.tv
 invitation.samsungiotcloud.com
@@ -1873,6 +1872,7 @@ sagecdn.org
 saidialxo.com
 sales.inteleksys.com
 samsung.apps.linkpc.net
+sandboxie.findmysoft.com
 sbi.jp-bankq.com
 scriptoscript.com
 sdfaswaed2.nokiadns.com
