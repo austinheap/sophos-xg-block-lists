@@ -222,6 +222,7 @@ api.collect.data.intl.miui.com
 api.doubles.click
 api.d.xiaomi.com
 api.eqmob.com
+api.fouanalytics.com
 api.grandonmedia.com
 api.hybrid.intl.xiaomi.com
 api.moengage.com
