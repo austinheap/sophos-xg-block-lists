@@ -2378,7 +2378,6 @@ api.simplesharebuttons.com
 api.smbeat.jp
 api.soclminer.com.br
 api.sonobi.com
-apis.playstove.com.edgekey.net
 api.sponsorpay.com
 apissl.ksapisrv.com
 api.starstarmobile.com
@@ -9464,7 +9463,6 @@ sdk.vl1.mobi
 sdk-vmh.prod-univision.com
 sdk.vstyle4u.com
 sdk.wappier.com
-sdkweb.playstove.com
 sdk.wesdk.co
 sdk.wjinfu.com
 sdk.yolanda.hk
