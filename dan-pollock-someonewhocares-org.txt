@@ -2755,6 +2755,7 @@ analytics.shareaholic.com
 analytics.sleeknote.com
 analytics.spotta.nl
 analytics-static.ugc.bazaarvoice.com
+analytics.tiktok.com
 analytics.verizonenterprise.com
 analytics.vodafone.co.uk
 analyzer51.fc2.com
