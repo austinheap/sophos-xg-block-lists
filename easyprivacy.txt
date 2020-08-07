@@ -581,6 +581,7 @@ anametrix.net
 andagainanotherthing.com
 andersenit.dk
 andlache.com
+andoveradvertiser-gb.andoveradvertiser.co.uk
 andyetanotherthing.com
 andyhoppe.com
 angelfishstats.com
@@ -641,6 +642,7 @@ artfut.com
 as.base.de
 ascend.ai
 aserve.directorym.com
+asianimage-gb.asianimage.co.uk
 as.mirapodo.de
 as.mytoys.de
 as.payback.it
@@ -751,13 +753,16 @@ bagbeam.com
 baiduccdn1.com
 baifendian.com
 bam-x.com
+banburycake-gb.banburycake.co.uk
 bandborder.com
 banstat.nadavi.net
 baptisttop1000.com
 baremetrics.com
 barilliance.net
 barium.cheezdev.com
+barryanddistrictnews-gb.barryanddistrictnews.co.uk
 basicstat.com
+basildonstandard-gb.basildonstandard.co.uk
 basilic.io
 basketballbelieve.com
 baskettexture.com
@@ -866,6 +871,7 @@ bglog.bitauto.com
 bgpng.me
 bhu9.bankia.es
 biberukalap.com
+bicesteradvertiser-gb.bicesteradvertiser.net
 bidder.mediams.mb.softbank.jp
 bidderrtb.com
 bid.g.doubleclick.net
@@ -949,6 +955,7 @@ bonuscounter.de
 boomerang.com.au
 boomerang.dell.com
 boomtrain.com
+borehamwoodtimes-gb.borehamwoodtimes.co.uk
 bosspush.com
 botdetector.ru
 botize.com
@@ -961,6 +968,7 @@ bouncex.com
 bournemouthecho-gb.bournemouthecho.co.uk
 bpmonline.com
 brain.foresee.com
+braintreeandwithamtimes-gb.braintreeandwithamtimes.co.uk
 branch.io
 brandlock.io
 brandmetrics.com
@@ -969,7 +977,10 @@ bravo.israelweather.co.il
 brcdn.com
 breakfastboat.com
 breaktime.com.tw
+brentwoodlive-gb.brentwoodlive.co.uk
 bridgevine.com
+bridgwatermercury-gb.bridgwatermercury.co.uk
+bridportnews-gb.bridportnews.co.uk
 bright.bncnt.com
 brightedge.com
 brightfunnel.com
@@ -978,6 +989,7 @@ britepool.com
 broadcastbed.com
 broaddoor.com
 brominer.com
+bromsgroveadvertiser-gb.bromsgroveadvertiser.co.uk
 bronto.com
 browsermine.com
 browserpusher.com
@@ -1005,7 +1017,9 @@ bulb.76.my
 bumlam.com
 bunchbox.co
 burnbubble.com
+burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
 burstbeacon.com
+burytimes-gb.burytimes.co.uk
 businessclick.ch
 business.sharedcount.com
 butterbulb.com
@@ -1044,6 +1058,7 @@ calltrk.com
 calmcactus.com
 calotag.com
 campaigncog.com
+campaignseries-gb.campaignseries.co.uk
 canalstat.com
 canddi.com
 candid.zone
@@ -1128,6 +1143,7 @@ cgi.tbs.co.jp
 cguru.ga
 ch0p.darty.com
 chanalytics.merchantadvantage.com
+chardandilminsternews-gb.chardandilminsternews.co.uk
 chartaca.com
 chartaca.com.s3.amazonaws.com
 chartbeat.com
@@ -1136,12 +1152,14 @@ chart.dk
 checkeffect.at
 checkru.net
 checkstat.nl
+chelmsfordweeklynews-gb.chelmsfordweeklynews.co.uk
 cheqzone.com
 chickensaladandads.com
 c.hit.ua
 chkpt.zdnet.com
 chmproxy.bid
 c.holmesmind.com
+chorleycitizen-gb.chorleycitizen.co.uk
 christiantop1000.com
 christmalicious.com
 chrumedia.com
@@ -1156,6 +1174,7 @@ citrusad.net
 citypaketet.se
 cityua.net
 ck-cdn.com
+clactonandfrintongazette-gb.clactonandfrintongazette.co.uk
 clancy.spiceworks.com
 clarity.ms
 claritytag.com
@@ -1444,6 +1463,7 @@ core.unit-sense.net
 cosmi.io
 cosmosjackson.com
 cost1action.com
+cotswoldjournal-gb.cotswoldjournal.co.uk
 count24.de
 count5.pconline.com.cn
 countar.de
@@ -1571,6 +1591,7 @@ cracataum.com
 craftkeys.com
 craktraffic.com
 crashfootwork.com
+cravenherald-gb.cravenherald.co.uk
 crazyclickstats.com
 crazyegg.com
 creator.zmags.com
@@ -1728,6 +1749,7 @@ dadi.technology
 d.adrolays.de
 dagda.vilynx.com
 dailycaller-alerts.com
+dailyecho-gb.dailyecho.co.uk
 damdoor.com
 dampdock.com
 da.netease.com
@@ -1736,6 +1758,7 @@ dapperdiscussion.com
 dapxl.com
 daq0d0aotgq0f.cloudfront.net
 darking07.tk
+darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 dashboard.io
 data2.gosquared.com
 data.alexa.com
@@ -1753,6 +1776,7 @@ datadome.co
 data-dynamic.net
 data.econa.com
 datafeedfile.com
+datafront.co
 data.glamour.ru
 data.gosquared.com
 data.imakenews.com
@@ -1914,6 +1938,7 @@ dominocounter.net
 domodomain.com
 d.omsnative.de
 donreach.com
+dorsetecho-gb.dorsetecho.co.uk
 dotaki.com
 dotmetrics.net
 dotomi.com
@@ -1927,6 +1952,7 @@ dp.shoprunner.com
 dps-reach.com
 dq95d35.com
 dreamcounter.de
+droitwichadvertiser-gb.droitwichadvertiser.co.uk
 drydrum.com
 ds-aksb-a.akamaihd.net
 dsg.interia.pl
@@ -1945,6 +1971,7 @@ dtscout.com
 dtxngr.com
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
+dudleynews-gb.dudleynews.co.uk
 dup.baidustatic.com
 durationmedia.net
 durocount.com
@@ -1991,6 +2018,7 @@ ea.lafrancedunordausud.fr
 ea.leskidunordausud.fr
 ea.lespagnedunordausud.fr
 ea.lexpress.fr
+ealingtimes-gb.ealingtimes.co.uk
 ea.megustaleer.com
 ea.megustaleer.com.pe
 ea.melijoe.com
@@ -2033,6 +2061,7 @@ ea.warnerbros.fr
 ebis.ne.jp
 ebtrk1.com
 ec-concier.com
+echo-news-gb.echo-news.co.uk
 eclampsialemontree.net
 eclick.baidu.com
 ecn5.com
@@ -2093,6 +2122,7 @@ emxdgt.com
 encoderfarmstatsnew.servicebus.windows.net
 encoding.ovh
 enecto.com
+enfieldindependent-gb.enfieldindependent.co.uk
 engage-cdn.schibsted.media
 engageclick.com
 engagefront.theweathernetwork.com
@@ -2121,6 +2151,7 @@ epilot.com
 epiodata.com
 epitrack.com
 epl.paypal-communication.com
+eppingforestguardian-gb.eppingforestguardian.co.uk
 eproof.com
 eproof.drudgereport.com
 epro.sogou.com
@@ -2239,6 +2270,7 @@ eventtracker.videostrip.com
 everestjs.net
 everesttech.net
 evergage.com
+eveshamjournal-gb.eveshamjournal.co.uk
 evisitanalyst.com
 evisit.exeter.ac.uk
 ev.kck.st
@@ -2290,6 +2322,7 @@ fadedsnow.com
 faibl.org
 faktor.io
 fallingfalcon.com
+falmouthpacket-gb.falmouthpacket.co.uk
 falseframe.com
 familiarrod.com
 fandommetrics.com
@@ -2413,6 +2446,7 @@ freegeoip.net
 freehitscounter.org
 freelogs.com
 freeonlineusers.com
+freepressseries-gb.freepressseries.co.uk
 freesitemapgenerator.com
 freestats.biz
 freestats.com
@@ -2481,7 +2515,9 @@ gatorleads.co.uk
 gaug.es
 ga.webdigi.co.uk
 gay-hotvideo.net
+gazetteherald-gb.gazetteherald.co.uk
 gazette-news-gb.gazette-news.co.uk
+gazetteseries-gb.gazetteseries.co.uk
 g.bitmag.com.br
 g.bit.pt
 gbotvisit.com
@@ -2675,6 +2711,7 @@ gtop.ro
 gtopstats.com
 gtrk.s3.amazonaws.com
 guanoo.net
+guardian-series-gb.guardian-series.co.uk
 guardwork.info
 guiltlessbasketball.com
 gulliblecamp.com
@@ -2689,15 +2726,20 @@ gxgydnhz.com
 gx.idg.se
 g.yccdn.com
 h4k5.com
+halesowennews-gb.halesowennews.co.uk
 halldata.com
 halstats.com
+halsteadgazette-gb.halsteadgazette.co.uk
 haltingbadge.com
 hammerhearing.com
+hampshirechronicle-gb.hampshirechronicle.co.uk
 haostat.qihoo.com
 happen.spkt.io
+harrowtimes-gb.harrowtimes.co.uk
 harvester.eu.square-enix.com
 harvester.ext.square-enix-europe.com
 harvester.hbpl.co.uk
+harwichandmanningtreestandard-gb.harwichandmanningtreestandard.co.uk
 hashcoin.co
 hashforcash.us
 hashing.win
@@ -2721,6 +2763,8 @@ hello.staticstuff.net
 hemnes.win
 hentaicounter.com
 heraldscotland-gb.heraldscotland.com
+heraldseries-gb.heraldseries.co.uk
+herefordtimes-gb.herefordtimes.com
 hermes.theglobeandmail.com
 heroesdom.com
 hetchi.com
@@ -2738,6 +2782,7 @@ highfalutinhoney.com
 highmetrics.com
 hi.hellobar.com
 hilariouszinc.com
+hillingdontimes-gb.hillingdontimes.co.uk
 h.imedia.cz
 hiperstat.com
 hira-meki.jp
@@ -2872,6 +2917,7 @@ iid-network.jp
 i.imedia.cz
 iivt.com
 iljmp.com
+ilkleygazette-gb.ilkleygazette.co.uk
 illumenix.com
 ilogbox.com
 im.aol.de
@@ -3120,6 +3166,7 @@ keyword-match.com
 keywordmax.com
 keywordstrategy.org
 keyxel.com
+kidderminstershuttle-gb.kidderminstershuttle.co.uk
 kieden.com
 kiks.auto.ru
 killerwebstats.com
@@ -3141,6 +3188,7 @@ km-sea.net
 kmtx.io
 knowlead.io
 knowledgevine.net
+knutsfordguardian-gb.knutsfordguardian.co.uk
 koddi.com
 kokos.click
 komtrack.com
@@ -3162,6 +3210,7 @@ ladsp.com
 laferia.cr
 lameletters.com
 lamplow.com
+lancashiretelegraph-gb.lancashiretelegraph.co.uk
 lanchaeanly.pro
 landingpg.com
 lansrv030.com
@@ -3204,9 +3253,11 @@ leadvision.dotmailer.co.uk
 leadzu.com
 leanplum.com
 leaplunchroom.com
+ledburyreporter-gb.ledburyreporter.co.uk
 ledhenone.com
 legenhit.com
 legolas-media.com
+leighjournal-gb.leighjournal.co.uk
 lem.nouvelobs.com
 lentainform.com
 leokross.com
@@ -3398,6 +3449,7 @@ lucidel.com
 lucid.mjhassoc.com
 luckyorange.com
 luckyorange.net
+ludlowadvertiser-gb.ludlowadvertiser.co.uk
 lugansk-info.ru
 lumatag.co.uk
 lumberamount.com
@@ -3433,6 +3485,8 @@ magnuum.com
 mailstat.us
 mairdumont.com
 make.cohesionapps.com
+maldonandburnhamstandard-gb.maldonandburnhamstandard.co.uk
+malverngazette-gb.malverngazette.co.uk
 maploco.com
 mapmyuser.com
 ma.register.it
@@ -3520,6 +3574,7 @@ mercadoclics.com
 mercent.com
 mercy.ga
 merlin.abc.go.com
+messengernewspapers-gb.messengernewspapers.co.uk
 metalyzer.com
 meteorsolutions.com
 metering.pagesuite.com
@@ -3565,6 +3620,7 @@ microcounter.de
 midas-network.com
 mi-de-ner-nis3.info
 mieru-ca.com
+milfordmercury-gb.milfordmercury.co.uk
 millioncounter.com
 mimgoal.com
 mindtake.com
@@ -3823,6 +3879,7 @@ never.ovh
 newrrb.bid
 newsanalytics.com.au
 newscurve.com
+newsshopper-gb.newsshopper.co.uk
 nex8.net
 nexeps.com
 nexioniect.com
@@ -3855,6 +3912,7 @@ nol.yahoo.com
 noowho.com
 nordicresearch.com
 northstartravelmedia.com
+northwichguardian-gb.northwichguardian.co.uk
 notifadz.com
 notifpush.com
 notify.solutions
@@ -4005,6 +4063,7 @@ overstat.com
 owlanalytics.io
 owldata.com
 ox-bio.com
+oxfordmail-gb.oxfordmail.co.uk
 oxidy.com
 oxifwsabgd.nzz.ch
 p0.raasnet.com
@@ -4072,6 +4131,7 @@ pebed.dm.gg
 pedropanther.com
 peep1alea.com
 peerius.com
+penarthtimes-gb.penarthtimes.co.uk
 penspade.com
 pepperjam.com
 perceivequarter.com
@@ -4277,6 +4337,7 @@ predictivedna.com
 predictiveresponse.net
 prepareplanes.com
 presentationtracking.netflix.com
+prestwichandwhitefieldguide-gb.prestwichandwhitefieldguide.co.uk
 prfct.co
 prism.pandora.tv
 pr-linktausch.de
@@ -4499,7 +4560,9 @@ recruitics.com
 recs.atgsvcs.com
 rec.udn.com
 redcounter.net
+redditchadvertiser-gb.redditchadvertiser.co.uk
 redeye.williamhill.com
+redhillandreigatelife-gb.redhillandreigatelife.co.uk
 redistats.com
 redretarget.com
 redstatcounter.com
@@ -4592,6 +4655,7 @@ riastats.com
 rich-agent.s3.amazonaws.com
 richard-group.com
 richmetrics.com
+richmondandtwickenhamtimes-gb.richmondandtwickenhamtimes.co.uk
 richstring.com
 rightmoveanalytics.co.uk
 rightstats.com
@@ -4629,6 +4693,7 @@ roispy.com
 roitesting.com
 rok.com.com
 rollingcounters.com
+romseyadvertiser-gb.romseyadvertiser.co.uk
 roofrelation.com
 roosterfirework.com
 rossel.tech
@@ -4671,6 +4736,7 @@ rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rumpelstiltskinhead.com
 rum.uptime.com
+runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 ru.net
 runtnc.net
 rusticprice.com
@@ -4703,6 +4769,7 @@ salesviewer.com
 salesviewer.org
 saletrack.co.uk
 sal.isanook.com
+salisburyjournal-gb.salisburyjournal.co.uk
 sambaads.com
 sana.newsinc.com.s3.amazonaws.com
 san-spr-01.net
@@ -4981,6 +5048,7 @@ sokrati.com
 solutionshindsight.net
 somberscarecrow.com
 sombersurprise.com
+somersetcountygazette-gb.somersetcountygazette.co.uk
 sometrics.com
 somniture.theglobeandmail.com
 s-onetag.com
@@ -4995,6 +5063,10 @@ sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
 sourcepoint.vice.com
+southendstandard-gb.southendstandard.co.uk
+southwalesargus-gb.southwalesargus.co.uk
+southwalesguardian-gb.southwalesguardian.co.uk
+southwestfarmer-gb.southwestfarmer.co.uk
 spacehits.net
 space-link.de
 spacepools.org
@@ -5172,6 +5244,7 @@ sstats.oui.sncf
 stack-sonar.com
 stadig.ifeng.com
 stadsvc.com
+stalbansreview-gb.stalbansreview.co.uk
 staleshow.com
 stan.xing.com
 star-cntr-5.com
@@ -5445,6 +5518,7 @@ stormcontainertag.com
 stormiq.com
 stormyachiever.com
 storygize.net
+stourbridgenews-gb.stourbridgenews.co.uk
 str1kee.com
 streambeam.io
 streamsend.com
@@ -5484,6 +5558,7 @@ supportxmr.com
 surefire.link
 surfcounters.com
 surfertracker.com
+surreycomet-gb.surreycomet.co.uk
 survey.interquest.com
 surveys.cnet.com
 surveyscout.com
@@ -5666,16 +5741,22 @@ theagency.com
 theardent.group
 theargus-gb.theargus.co.uk
 thebestlinks.com
+theboltonnews-gb.theboltonnews.co.uk
 thebrighttag.com
 thecounter.com
 thefreehitcounter.com
 thehairofcaptainpicard.com
 thenational-gb.thenational.scot
+thenorthernecho-gb.thenorthernecho.co.uk
 thermstats.com
+thescottishfarmer-gb.thescottishfarmer.co.uk
 thesearchagency.net
 thespecialsearch.com
 thestat.net
+thetelegraphandargus-gb.thetelegraphandargus.co.uk
+thetottenhamindependent-gb.thetottenhamindependent.co.uk
 thetradedesk-tags.s3.amazonaws.com
+thewestmorlandgazette-gb.thewestmorlandgazette.co.uk
 thewhizmarketing.com
 thewhizproducts.com
 thewise.com
@@ -5684,14 +5765,17 @@ thirdrespect.com
 thirstytwig.com
 thisisacoolthing.com
 thisisanothercoolthing.com
+thisisthewestcountry-gb.thisisthewestcountry.co.uk
 thismetric.com
 threat-analytics.com
 thrtle.com
+thurrockgazette-gb.thurrockgazette.co.uk
 t.hypers.com.cn
 ticklesign.com
 tidafors.xyz
 tidningsnatet.se
 timeslogtn.timesnow.tv
+times-series-gb.times-series.co.uk
 timestrends.indiatimes.com
 timestrends.timesnow.tv
 tim.nextinpact.com
@@ -6475,9 +6559,12 @@ wa.gmx.fr
 walmeric.com
 wal.wolfram.com
 wa.metro.co.uk
+wandsworthguardian-gb.wandsworthguardian.co.uk
 waplog.net
 warlog.ru
 warp.prnewswire.co.uk
+warringtonguardian-gb.warringtonguardian.co.uk
+watfordobserver-gb.watfordobserver.co.uk
 watson.live.com
 waudit.cz
 wa.ui-portal.de
@@ -6595,8 +6682,10 @@ wecount4u.com
 welt-der-links.de
 wemfbox.ch
 we-stats.com
+westerntelegraph-gb.westerntelegraph.co.uk
 we.wecanimal.pt
 wf.taboola.com
+wharfedaleobserver-gb.wharfedaleobserver.co.uk
 wheredoyoucomefrom.ovh
 whitepixel.com
 whizstats.com
@@ -6613,14 +6702,19 @@ widget.trustpilot.com
 wikia-beacon.com
 wikiodeliv.com
 wildxtraffic.com
+wiltsglosstandard-gb.wiltsglosstandard.co.uk
 wiltshiretimes-gb.wiltshiretimes.co.uk
+wimbledonguardian-gb.wimbledonguardian.co.uk
 winitout.com
+winsfordguardian-gb.winsfordguardian.co.uk
 win.staticstuff.net
 wiredminds.de
+wirralglobe-gb.wirralglobe.co.uk
 wisetrack.net
 wishloop.com
 wisteria-js.excite.co.jp
 withcubed.com
+witneygazette-gb.witneygazette.co.uk
 wkctj.baidu.com
 wla.vivaldi.com
 wl.jd.com
@@ -6706,6 +6800,7 @@ yaudience.com
 ybotvisit.com
 yektanet.com
 yellowbrix.com
+yeovilexpress-gb.yeovilexpress.co.uk
 yext-pixel.com
 ygsm.com
 yh6u.dealeusedevoyages.com
