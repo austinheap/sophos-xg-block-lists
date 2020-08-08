@@ -2495,6 +2495,11 @@ fuziontech.net
 fyreball.com
 fyrsbckgi-c.global.ssl.fastly.net
 g1thub.com
+g2178927685.co
+g2377012020.co
+g2575096355.co
+g2773180690.co
+g2971265025.co
 g2insights-cdn.azureedge.net
 g4p.redtram.com
 ga-beacon.appspot.com
@@ -3843,6 +3848,7 @@ nedstat.com
 nedstat.net
 nedstatpro.net
 neighborlywatch.com
+nejmqianyan.cn
 neki.org
 neocounter.neoworx-blog-tools.net
 nepohita.com
@@ -5643,6 +5649,7 @@ targeting.voxus.tv
 targetix.net
 target.mirtesen.ru
 target.mixi.media
+target.nejm.org
 target.smi2.net
 target.smi2.ru
 target.ukr.net
@@ -6299,6 +6306,7 @@ ttauri.creativebloq.com
 ttauri.laptopmag.com
 ttauri.livescience.com
 ttauri.loudersound.com
+ttauri.space.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
 ttauri.whathifi.com
@@ -6625,6 +6633,7 @@ webminerpool.com
 webmining.co
 webmobile.ws
 webprospector.de
+webpu.sh
 websecurity.norton.com
 webserviceaward.com
 webservices.websitepros.com
@@ -6721,6 +6730,7 @@ wl.jd.com
 womanear.com
 womtp.com
 wonder-ma.com
+wonderpush.com
 woopra.com
 woopra-ns.com
 wootric.com
