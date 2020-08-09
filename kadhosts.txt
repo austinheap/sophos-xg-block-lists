@@ -871,6 +871,7 @@ cs.nailrr.com
 cs-podhale.pl
 csprocup.com
 cs.shiporama.com
+cs.socksonclick.com
 cs.spotlessweb.com
 csz1-amzzzsrvceupdayters.com
 cs-zn.pl
@@ -1595,6 +1596,7 @@ filiser.online
 filis.pl
 fili.tube
 filmanteria.pl
+filman.tv
 film-base.pl
 film-box.pl
 filmhd.ek1.pl
@@ -1628,6 +1630,7 @@ filmyfilmy.pl
 filmyhd4k.pl
 filmy-i-seriale.pl
 filmyiseriale.pw
+filmyonlien.blogspot.com
 filmyonline.com.pl
 filmy-seriale.pl
 filmyseriale.pl
@@ -2169,6 +2172,7 @@ igcecsrrt.site
 iglesia.pl
 ihydroflaskshop.com
 ikaart.pl
+ikino24.pl
 ikoronawirusnews.pl
 i-ksiazka.pl
 ildexremusli.tk
@@ -2472,6 +2476,7 @@ kikofu.com
 killingtonchukka.pl
 kingland.pl
 kinofilm-tv.pl
+kino-filmy.pl
 kinomaniac.pl
 kinomaniak.cc
 kinomaniak.pl
@@ -2576,6 +2581,7 @@ krolarlekin.com.pl
 kronika-miasta.website
 kryminalnyblues.pl
 kryptochemik.pl
+kryptointeres.pl
 kryzyspolska.pl
 krzycztrybson.pl
 krzysztofbielanski.pl
@@ -2894,6 +2900,7 @@ matlag.pl
 matnue.com
 maungatautarilodge.com
 maureenkile.com
+mavericktradegroup.pl
 mavio-kredyty.pl
 mavoj.pl
 max-host.pl
@@ -3096,6 +3103,7 @@ mueller.com.pl
 mukunth.com
 multico.5v.pl
 multifilmy.pl
+multivod.pl
 muppetowecentrum.pl
 music611.com
 musika.pl
@@ -3392,6 +3400,7 @@ onet-regulamin.icu
 onet-zaginieni-24.pl
 onliine.pl
 onlineappcheats.com
+onlinefilmy24.pl
 onlinehd.pl
 onlinekino.pl
 onlineogladaj.pl
@@ -4357,6 +4366,7 @@ show-auctions.pl
 showltem.pl
 showlten.pl
 showmeflix.com
+showmovies.pl
 showsplash.com
 showup-tv.com.pl
 shutadds.w.of.pl
@@ -4607,6 +4617,7 @@ streamgo.pl
 strefa-filmu.pl
 strefakina.pl
 strefaucznia.com.pl
+strefa-vod.pl
 strefysowki.pl
 strony-fotograficzne.eu
 strstudio.pl
@@ -5120,8 +5131,11 @@ vod.co.pl
 vodfilmy.pl
 vodflix.pl
 vodkino.pl
+vodlife.pl
 vod-play.pl
 vodplay.pl
+vod.plus
+vod-plus.pl
 vodstrefa.pl
 voldemort.pl
 volleyclub.pl
@@ -6170,6 +6184,7 @@ www.cs.nailrr.com
 www.cs-podhale.pl
 www.csprocup.com
 www.cs.shiporama.com
+www.cs.socksonclick.com
 www.cs.spotlessweb.com
 www.csz1-amzzzsrvceupdayters.com
 www.cs-zn.pl
@@ -6894,6 +6909,7 @@ www.filiser.online
 www.filis.pl
 www.fili.tube
 www.filmanteria.pl
+www.filman.tv
 www.film-base.pl
 www.film-box.pl
 www.filmhd.ek1.pl
@@ -6927,6 +6943,7 @@ www.filmyfilmy.pl
 www.filmyhd4k.pl
 www.filmy-i-seriale.pl
 www.filmyiseriale.pw
+www.filmyonlien.blogspot.com
 www.filmyonline.com.pl
 www.filmy-seriale.pl
 www.filmyseriale.pl
@@ -7468,6 +7485,7 @@ www.igcecsrrt.site
 www.iglesia.pl
 www.ihydroflaskshop.com
 www.ikaart.pl
+www.ikino24.pl
 www.ikoronawirusnews.pl
 www.i-ksiazka.pl
 www.ildexremusli.tk
@@ -7771,6 +7789,7 @@ www.kikofu.com
 www.killingtonchukka.pl
 www.kingland.pl
 www.kinofilm-tv.pl
+www.kino-filmy.pl
 www.kinomaniac.pl
 www.kinomaniak.cc
 www.kinomaniak.pl
@@ -7875,6 +7894,7 @@ www.krolarlekin.com.pl
 www.kronika-miasta.website
 www.kryminalnyblues.pl
 www.kryptochemik.pl
+www.kryptointeres.pl
 www.kryzyspolska.pl
 www.krzycztrybson.pl
 www.krzysztofbielanski.pl
@@ -8193,6 +8213,7 @@ www.matlag.pl
 www.matnue.com
 www.maungatautarilodge.com
 www.maureenkile.com
+www.mavericktradegroup.pl
 www.mavio-kredyty.pl
 www.mavoj.pl
 www.max-host.pl
@@ -8395,6 +8416,7 @@ www.mueller.com.pl
 www.mukunth.com
 www.multico.5v.pl
 www.multifilmy.pl
+www.multivod.pl
 www.muppetowecentrum.pl
 www.music611.com
 www.musika.pl
@@ -8691,6 +8713,7 @@ www.onet-regulamin.icu
 www.onet-zaginieni-24.pl
 www.onliine.pl
 www.onlineappcheats.com
+www.onlinefilmy24.pl
 www.onlinehd.pl
 www.onlinekino.pl
 www.onlineogladaj.pl
@@ -9628,6 +9651,7 @@ www.show-auctions.pl
 www.showltem.pl
 www.showlten.pl
 www.showmeflix.com
+www.showmovies.pl
 www.showsplash.com
 www.showup-tv.com.pl
 www.shutadds.w.of.pl
@@ -9878,6 +9902,7 @@ www.streamgo.pl
 www.strefa-filmu.pl
 www.strefakina.pl
 www.strefaucznia.com.pl
+www.strefa-vod.pl
 www.strefysowki.pl
 www.strony-fotograficzne.eu
 www.strstudio.pl
@@ -10391,8 +10416,11 @@ www.vod.co.pl
 www.vodfilmy.pl
 www.vodflix.pl
 www.vodkino.pl
+www.vodlife.pl
 www.vod-play.pl
 www.vodplay.pl
+www.vod.plus
+www.vod-plus.pl
 www.vodstrefa.pl
 www.voldemort.pl
 www.volleyclub.pl
