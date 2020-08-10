@@ -514,6 +514,7 @@ analytics.salesanalytics.io
 analytics.sanoma.fi
 analytics.schoolwires.com
 analytics-scripts.cablelabs.com
+analytics-sg.tiktok.com
 analytics.shareaholic.com
 analytics.shop.hisense.com
 analytics.shorte.st
@@ -1029,6 +1030,7 @@ bux1le001.com
 buzzdeck.com
 byebye.ml
 bytemgdd.com
+byteoversea.net
 bzclk.baidu.com
 c0011.boursorama.com
 c1exchange.com
@@ -3953,6 +3955,7 @@ nytlog.com
 n.yunshipei.com
 o.addthis.com
 oadz.com
+oafishobservation.com
 oal2.destinia.co.uk
 observare.de
 observerapp.com
@@ -3974,6 +3977,7 @@ offerreality.com
 offerstrategy.com
 oghub.io
 ogt.jp
+ohayoo.io
 ohmystats.com
 oidah.com
 oimg.m.cnbc.com
