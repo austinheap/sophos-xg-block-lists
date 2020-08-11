@@ -3783,8 +3783,6 @@ ci-first.iovation.com
 ci.iasds01.com
 cimetrix.inmobi.com
 ci-mpsnare.iovation.com
-cint.com
-cintnetworks.com
 ciq.dmpxs.com
 ciq-st.nielsen.com
 c.isdspeed.qq.com
@@ -6780,7 +6778,6 @@ lm.serving-sys.com
 load77.exelator.com
 loada.exelator.com
 load.ams1.exelator.com
-loadb.cint.com
 load.dfw2.exelator.com
 load.ewr1.exelator.com
 load.exelator.com
@@ -9007,7 +9004,6 @@ r.openx.net
 rotaban.ru
 rotanev.iad-03.braze.com
 route.izooto.com
-router.cint.com
 rpc.tapjoy.com
 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 rp.gwallet.com
@@ -9570,7 +9566,6 @@ self-service.uberads.com
 senddroid.com
 sender.clevernt.com
 sender.megapopads.com
-sendgrid.cint.com
 send.microadinc.com
 sense360eng.com.herokudns.com
 sensytracker.appspot.com
