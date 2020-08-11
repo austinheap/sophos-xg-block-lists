@@ -1030,7 +1030,6 @@ bux1le001.com
 buzzdeck.com
 byebye.ml
 bytemgdd.com
-byteoversea.net
 bzclk.baidu.com
 c0011.boursorama.com
 c1exchange.com
@@ -4253,7 +4252,6 @@ pixel.pcworld.com
 pixelpop.co
 pixel.propublica.org
 pixel.prosieben.de
-pixel.reddit.com
 pixelrevenue.com
 pixel.roymorgan.com
 pixel.s3xified.com
