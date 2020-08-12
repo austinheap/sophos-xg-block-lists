@@ -3329,6 +3329,7 @@ lmiutil.com
 l.m.naver.com
 ln.ameba.jp
 lndata.com
+lngtd.com
 localads-statistics.maps.me
 localytics.com
 location.bloomberg.com
@@ -6216,6 +6217,7 @@ trakzor.com
 tranquilside.com
 transactionale.com
 t.raptorsmartadvisor.com
+traq.li
 traversedlp.com
 traviilo.com
 trbas.com

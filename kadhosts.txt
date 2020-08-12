@@ -200,6 +200,7 @@ alefunny.pl
 alert-24-pl.pl
 alerter.pl
 aleshop.pl
+alesmieszne.eu
 alexsoff.com
 alfabetnieruchomosci.pl
 alfasj.com.pl
@@ -228,6 +229,7 @@ allegrolokalnie.online
 allegrolokalnie-pl.cc
 allegrolokalnie-pl.ru
 allegro.net
+allegro-ogloszenia.you2.pl
 allegro.pl-nowe-regulamini7913.uhu362.com
 allegro.pl.sholtem.pl
 allegro.pl.showltem.pl
@@ -1104,6 +1106,7 @@ dopalacze-sklep.org
 dorszfishandchips.pl
 doski.by
 dostadh.com
+dostava24.online
 dostawaca24.online
 dostawa-dhl.net
 dostawy24.com
@@ -1340,6 +1343,7 @@ eoplaty.net
 e-osobyzagionione.pl
 e-paczka24.net
 e.paczkxups.com
+e.paczkyups.com
 epaka247.net
 epaka.club
 e-payu.online
@@ -2307,6 +2311,7 @@ inpostdoplata.net
 inpost.generuj-kod.me
 inpost.help
 inpost-kod.com
+inpostkode.com
 inpostkode-pl.com
 inpost.kod-odbioru.com
 inpost.kod-odbioru.me
@@ -2322,6 +2327,7 @@ in-post.online
 in-post.org
 inpost-paczka.services
 inpost.page
+inpost.pl-reg.gq
 inpost.tech
 in-post.us
 inpost.us
@@ -2703,6 +2709,7 @@ kwwnaszagminanaszpowiat.pl
 kww-swiadomytczew.pl
 kzprojekt.pl
 labersa.com
+lacebook.pl
 ladyfly.pl
 lagiewnikimodlitwazycie.pl
 lamri.pl
@@ -3321,6 +3328,7 @@ newsredir.com
 newswave.online
 newsweek-polska-pl.eu
 newsy-ben24.ml
+news.you2.pl
 newszone.pro
 newtechagd.net
 nextlevelprize.com
@@ -3462,6 +3470,7 @@ okaleczon15-lattka.blogspot.com
 okaleczona15--latka.blogspot.com
 okaleczona15-llatka.blogspot.com
 okazjeinternetowe.pl
+okazyjnie.net
 okiempawla.pl
 okom.wroc.pl
 okularypowiekszajace-pl.com
@@ -3808,6 +3817,7 @@ plikownik2015.wordpress.com
 plik-pobierz.pl
 plikson.pl
 pliks.pl
+pl-inpost.com
 pl.longup.co
 pl.medicreporters.com
 pl.melaleuca.com
@@ -3819,6 +3829,7 @@ ploskonax.com
 pl-pl-fb.com
 plpocztex.net
 plpocztex.org
+pl-postkod.com
 pl.princessmask.pro
 pl.profitmaximizer-app.com
 pl.slimg0ji-berry.com
@@ -4442,6 +4453,7 @@ serialefilmy.pl
 serialosy.pl
 serialowo.pl
 serial.vod.co.pl
+server150767.nazwa.pl
 server292369.nazwa.pl
 server32456789098765.s3.us-east-2.amazonaws.com
 server684037.nazwa.pl
@@ -4460,6 +4472,7 @@ serwisjaponczykow.pl
 serwis.kb.help
 serwis-laptopow24.pl
 serwislaptopowwarszawa.com.pl
+serwis-news.you2.pl
 serwisopolski.pl
 setforconfigplease.com
 setup-firefox.host
@@ -5663,6 +5676,7 @@ www.alefunny.pl
 www.alert-24-pl.pl
 www.alerter.pl
 www.aleshop.pl
+www.alesmieszne.eu
 www.alexsoff.com
 www.alfabetnieruchomosci.pl
 www.alfasj.com.pl
@@ -5691,6 +5705,7 @@ www.allegrolokalnie.online
 www.allegrolokalnie-pl.cc
 www.allegrolokalnie-pl.ru
 www.allegro.net
+www.allegro-ogloszenia.you2.pl
 www.allegro.pl-nowe-regulamini7913.uhu362.com
 www.allegro.pl.sholtem.pl
 www.allegro.pl.showltem.pl
@@ -6567,6 +6582,7 @@ www.dopalacze-sklep.org
 www.dorszfishandchips.pl
 www.doski.by
 www.dostadh.com
+www.dostava24.online
 www.dostawaca24.online
 www.dostawa-dhl.net
 www.dostawy24.com
@@ -6803,6 +6819,7 @@ www.eoplaty.net
 www.e-osobyzagionione.pl
 www.e-paczka24.net
 www.e.paczkxups.com
+www.e.paczkyups.com
 www.epaka247.net
 www.epaka.club
 www.e-payu.online
@@ -7770,6 +7787,7 @@ www.inpostdoplata.net
 www.inpost.generuj-kod.me
 www.inpost.help
 www.inpost-kod.com
+www.inpostkode.com
 www.inpostkode-pl.com
 www.inpost.kod-odbioru.com
 www.inpost.kod-odbioru.me
@@ -7785,6 +7803,7 @@ www.in-post.online
 www.in-post.org
 www.inpost-paczka.services
 www.inpost.page
+www.inpost.pl-reg.gq
 www.inpost.tech
 www.in-post.us
 www.inpost.us
@@ -8166,6 +8185,7 @@ www.kwwnaszagminanaszpowiat.pl
 www.kww-swiadomytczew.pl
 www.kzprojekt.pl
 www.labersa.com
+www.lacebook.pl
 www.ladyfly.pl
 www.lagiewnikimodlitwazycie.pl
 www.lamri.pl
@@ -8784,6 +8804,7 @@ www.newsredir.com
 www.newswave.online
 www.newsweek-polska-pl.eu
 www.newsy-ben24.ml
+www.news.you2.pl
 www.newszone.pro
 www.newtechagd.net
 www.nextlevelprize.com
@@ -8925,6 +8946,7 @@ www.okaleczon15-lattka.blogspot.com
 www.okaleczona15--latka.blogspot.com
 www.okaleczona15-llatka.blogspot.com
 www.okazjeinternetowe.pl
+www.okazyjnie.net
 www.okiempawla.pl
 www.okom.wroc.pl
 www.okularypowiekszajace-pl.com
@@ -9256,11 +9278,13 @@ www.plikownik2015.wordpress.com
 www.plik-pobierz.pl
 www.plikson.pl
 www.pliks.pl
+www.pl-inpost.com
 www.pl-nadaj.online
 www.ploskonax.com
 www.pl-pl-fb.com
 www.plpocztex.net
 www.plpocztex.org
+www.pl-postkod.com
 www.plus-finanse.pl
 www.plwash.pl
 www.pl-wyslij.best
@@ -9877,6 +9901,7 @@ www.serialefilmy.pl
 www.serialosy.pl
 www.serialowo.pl
 www.serial.vod.co.pl
+www.server150767.nazwa.pl
 www.server292369.nazwa.pl
 www.server32456789098765.s3.us-east-2.amazonaws.com
 www.server684037.nazwa.pl
@@ -9895,6 +9920,7 @@ www.serwisjaponczykow.pl
 www.serwis.kb.help
 www.serwis-laptopow24.pl
 www.serwislaptopowwarszawa.com.pl
+www.serwis-news.you2.pl
 www.serwisopolski.pl
 www.setforconfigplease.com
 www.setup-firefox.host
