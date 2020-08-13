@@ -199,6 +199,7 @@ ale-fotogragia.bo.pl
 alefunny.pl
 alert-24-pl.pl
 alerter.pl
+alert-pl.you2.pl
 aleshop.pl
 alesmieszne.eu
 alexsoff.com
@@ -3923,6 +3924,7 @@ policy-secure-account.com
 polirajd.pl
 polish-engineer.pl
 polishwebmailadmin.weebly.com
+polityka-bez-cenzury.you2.pl
 polluk.pl
 polmathome.pl
 polokg.com
@@ -3968,6 +3970,7 @@ pomagamy-onet.eu
 pomagamy-razem.club
 pomelostudio.pl
 pomerania-bn.pl
+pomoc48.you2.pl
 pomoc-fakty24.pl
 pomoc-rodzinom.website
 pomoc.sie-pomaga.net
@@ -5218,6 +5221,8 @@ usterkiwloclawek.za.pl
 usunwirusa.pl
 uswiadomieni.pl
 uvy3.pl
+uwaga72.you2.pl
+uwaga-poszukiwania-fakty.you2.pl
 uzupelniajdane.ga
 uzupelniajdane.gq
 uzupelniaj-dane.ml
@@ -5675,6 +5680,7 @@ www.ale-fotogragia.bo.pl
 www.alefunny.pl
 www.alert-24-pl.pl
 www.alerter.pl
+www.alert-pl.you2.pl
 www.aleshop.pl
 www.alesmieszne.eu
 www.alexsoff.com
@@ -9371,6 +9377,7 @@ www.policy-secure-account.com
 www.polirajd.pl
 www.polish-engineer.pl
 www.polishwebmailadmin.weebly.com
+www.polityka-bez-cenzury.you2.pl
 www.polluk.pl
 www.polmathome.pl
 www.polokg.com
@@ -9416,6 +9423,7 @@ www.pomagamy-onet.eu
 www.pomagamy-razem.club
 www.pomelostudio.pl
 www.pomerania-bn.pl
+www.pomoc48.you2.pl
 www.pomoc-fakty24.pl
 www.pomoc-rodzinom.website
 www.pomoc.sie-pomaga.net
@@ -10666,6 +10674,8 @@ www.usterkiwloclawek.za.pl
 www.usunwirusa.pl
 www.uswiadomieni.pl
 www.uvy3.pl
+www.uwaga72.you2.pl
+www.uwaga-poszukiwania-fakty.you2.pl
 www.uzupelniajdane.ga
 www.uzupelniajdane.gq
 www.uzupelniaj-dane.ml
