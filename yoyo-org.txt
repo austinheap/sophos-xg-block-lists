@@ -2135,6 +2135,7 @@ leedsads.com
 lemmatechnologies.com
 lettucelimit.com
 levelrate.de
+lfeeder.com
 lfstmedia.com
 liadm.com
 li.alibris.com
@@ -2661,7 +2662,6 @@ pubdirecte.com
 pub.hardware.fr
 publicidad.elmundo.es
 publicidees.com
-publisher-assets.spot.im
 pubmatic.com
 pubmine.com
 pubnative.net
