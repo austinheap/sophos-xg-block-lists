@@ -2022,7 +2022,6 @@ a.niholaev.com
 anpush.pushcrew.com
 anquan.baidu.com
 anquan.org
-answers.chartboost.com
 answers-d.openx.net
 answers.nielsen.com
 antenna-apse.ayads.co
@@ -3752,7 +3751,6 @@ c.go-mpulse.net
 c.greystripe.com
 challenge.360in.com
 chanalytics.merchantadvantage.com
-changelog.taplytics.com
 chango.com
 channel.api.duapp.com
 chantal.parrable.com
@@ -4297,6 +4295,7 @@ crasheye.cn
 crashlogs.whatsapp.net
 crashlogs.woniu.com
 crashlytics.163.com
+crashlytics2.l.google.com
 crash-metrics.sdk.inmobi.com
 craveandlamb.com
 crazypopups.com
@@ -5689,7 +5688,6 @@ goadservices.com
 go.amplitude.com
 go.apptimize.com
 go.apptrk.io
-go.branch.io
 gocarrot.com
 gocm.c.appier.net
 go.conversantmedia.com
@@ -6378,7 +6376,6 @@ intercept.inmoment.com
 intercom-assets.wootric.com
 intermarkets.net
 intermrkts.vo.llnwd.net
-internal.fullstory.com
 internal.revcontent.com
 interseek.si
 interstitial-content.otherlevels.com
@@ -6657,7 +6654,6 @@ labs.comscore.com
 labs.revcontent.com
 labs-s1.revcontent.com
 labs-stg.revcontent.com
-labs.taplytics.com
 lacerta.iad-03.appboy.com
 lacerta.iad.appboy.com
 ladycash.ru
@@ -7151,7 +7147,6 @@ med-api.admost.com
 med.heyzap.com
 media10.admicro.vn
 media1.admicro.vn
-media24.pushwoosh.com
 media2.admicro.vn
 media3.admicro.vn
 media4.admicro.vn
@@ -7309,7 +7304,6 @@ milanuncios.pushengage.com
 millenialmedia.com
 millennialmedia.com
 millennialmedia-d.openx.net
-millicom.pushwoosh.com
 mime.iad.adswizz.com
 min.admicro.vn
 mindbodygreen-d.openx.net
@@ -7473,7 +7467,6 @@ mobivity.com
 mobixell.com
 mobi.yanosik.pl
 moblink.mob.com
-moblin.pushwoosh.com
 mobobeat.com
 mobojs.baidu.com
 moboland.net
@@ -7953,7 +7946,6 @@ onedmp.com
 onedrive.su
 onelink.appsflyer.com
 onepush.query.yahoo.com
-one.pushwoosh.com
 onesignal.com
 onespot-tracking.herokuapp.com
 onetag-geo.onscroll.com
@@ -8121,7 +8113,6 @@ ox-d.viumbe.servedbyopenx.com
 ox-i.ebayus.servedbyopenx.com
 ox-i.quebecor.servedbyopenx.com
 oxjapan-d.openx.net
-ozon.pushwoosh.com
 p01234.clksite.com
 p13n-results-api.optimizely.com
 p1cluster.cxense.com
@@ -8189,7 +8180,6 @@ partner.glance.inmobi.com
 partner.googleadservices.com
 partner.knorex.com
 partners.ad-brix.com
-partners.chartboost.com
 partner.shareaholic.com
 partners-hotwire-com.impactradius.com
 partners.propellerads.com
@@ -10103,7 +10093,6 @@ starffa.com
 stars.applicaster.com
 startapp.com
 startappservice.com
-start.branch.io
 startribune-d.openx.net
 startup.inmobi.com
 startup.mobile.yandex.net
@@ -10314,17 +10303,9 @@ stats.zaloapp.com
 stats.zmags.com
 stats.zotabox.com
 statt-collect.herokuapp.com
-status.amplitude.com
 status.appsee.com
-status.batch.com
-status.branch.io
-status.chartboost.com
-status.fullstory.com
 status.optimizely.com
 status.pubmatic.com
-status.pushwoosh.com
-status.taplytics.com
-status.urbanairship.com
 stat.v.baidu.com
 st-au.ants.vn
 stc.adtima.vn
@@ -11545,7 +11526,6 @@ video-ad-stats.googlesyndication.com
 video-assets.mathtag.com
 video-aws-stg.fyber.com
 video.batmobi.net
-video.branch.io
 video-cdn.lentainform.com
 video-dsa.fyber.com
 videoevents.outbrain.com
@@ -11770,7 +11750,6 @@ worth1000.crwdcntrl.net
 wowanalytics.co.uk
 wp.adperfect.com
 wpcdn1.herokuapp.com
-wpengine.taplytics.com
 wpg.adpxl.co
 wpg.blueconic.com
 wpix.media6degrees.com
@@ -11852,7 +11831,6 @@ ww688.smartadserver.com
 ww856.smartadserver.com
 wwtdd.tags.crwdcntrl.net
 www1.gto-media.com
-www2.branch.io
 www.5rocks.io
 www.api.appsee.com
 www.chartboost.com

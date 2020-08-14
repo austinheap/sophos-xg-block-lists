@@ -2365,6 +2365,7 @@ interiordream.pl
 interneip.org
 internetshoppy.com
 interpathlaboratories.com
+interwencja.you2.pl
 inteza.pl
 investpedia.pl
 investreviewier.com
@@ -3162,6 +3163,7 @@ mojekobe.is-best.net
 mojekumpele.blogspot.com
 moje-last-minute.pl
 mojemiastoinfo.eu
+moje-miasto.you2.pl
 mojepiwa.pl
 mojetestery.pl
 mojeweselicho.za.pl
@@ -5458,6 +5460,7 @@ winningsidenow.com
 winoandfriends.pl
 wioska-zeglarska.pl
 wirtualna-polska.privacy-email.eu
+wirtualna-polska.you2.pl
 wirtualneinformacje.eu
 wirtualne-media.pl
 wirtuozseksu.pl
@@ -5518,6 +5521,7 @@ wwa-informacje.co.pl
 wwinvestgroup.pl
 ww.kowdent.pl
 ww.paczkjups.com
+ww.paczkpups.com
 www.00x.eu
 www.02-wiadomosci.com.pl
 www.0b8cc331813049912.temporary.link
@@ -7886,6 +7890,7 @@ www.interiordream.pl
 www.interneip.org
 www.internetshoppy.com
 www.interpathlaboratories.com
+www.interwencja.you2.pl
 www.inteza.pl
 www.investpedia.pl
 www.investreviewier.com
@@ -8683,6 +8688,7 @@ www.mojekobe.is-best.net
 www.mojekumpele.blogspot.com
 www.moje-last-minute.pl
 www.mojemiastoinfo.eu
+www.moje-miasto.you2.pl
 www.mojepiwa.pl
 www.mojetestery.pl
 www.mojeweselicho.za.pl
@@ -10951,6 +10957,7 @@ www.winningsidenow.com
 www.winoandfriends.pl
 www.wioska-zeglarska.pl
 www.wirtualna-polska.privacy-email.eu
+www.wirtualna-polska.you2.pl
 www.wirtualneinformacje.eu
 www.wirtualne-media.pl
 www.wirtuozseksu.pl
@@ -11011,6 +11018,7 @@ www.wwa-informacje.co.pl
 www.wwinvestgroup.pl
 www.ww.kowdent.pl
 www.ww.paczkjups.com
+www.ww.paczkpups.com
 www.wx-xcx.xyz
 www.wybielaniezebow.c.pl
 www.wybierzgdansk.pl
