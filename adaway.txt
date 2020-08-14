@@ -10277,7 +10277,6 @@ stats.kumulos.com
 stats.mediaforge.com
 stats.mediaforge.com.edgekey.net
 stats.mobincube.com
-stats.nba.com.edgekey.net
 stats.netsolads.com
 statsonline.pushct.baidu.com
 stats.origin.kaltura.com

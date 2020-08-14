@@ -2276,6 +2276,7 @@ infasd2a.is-best.net
 info-24.cloud
 info24-warszawa.pl
 infobaby.pl
+infodostarcz.net
 info-fakty24.pl
 infogrypa.pl
 infolinia-kontakt-telefon.pl
@@ -7801,6 +7802,7 @@ www.infasd2a.is-best.net
 www.info-24.cloud
 www.info24-warszawa.pl
 www.infobaby.pl
+www.infodostarcz.net
 www.info-fakty24.pl
 www.infogrypa.pl
 www.infolinia-kontakt-telefon.pl

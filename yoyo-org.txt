@@ -436,7 +436,6 @@ adscience.nl
 ads.clasificadox.com
 ads.clearchannel.com
 ads-click.com
-adsclicktech.com
 ads.co.com
 ads.colombiaonline.com
 ads.com.com
@@ -918,7 +917,6 @@ advertising.com
 advertisingtag.net
 advertmarket.com
 advertmedia.de
-advertpro.sitepoint.com
 advertpro.ya.com
 advertserve.com
 advertstream.com
@@ -1320,7 +1318,6 @@ bucketbean.com
 bullseye.backbeatmedia.com
 businessbells.com
 bustlinganimal.com
-buyingadsmadeeasy.com
 buysellads.com
 buzzonclick.com
 bwp.download.com
@@ -2297,7 +2294,6 @@ metrics.getrockerbox.com
 metrics.gfycat.com
 metrics.govexec.com
 metrics-logger.spot.im
-metrics.windowsitpro.com
 metrilo.com
 mfadsrvr.com
 mg2connext.com
